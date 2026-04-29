@@ -14,11 +14,11 @@
           "source": "heise developer News"
         }
       ],
-      "summary": "Die heise developer News präsentieren eine Sammlung kleiner, aber relevanter Meldungen aus der Entwicklerwelt, die verschiedene Technologien und Tools betreffen. Themen sind unter anderem C++, GitLab und Databricks.",
+      "summary": "Die heise developer News berichten über kleinere, aber relevante Entwicklungen in der Software-Entwicklung, darunter Updates zu C++, GitLab und Databricks. Diese Meldungen bieten einen Überblick über aktuelle Trends und Tools in der Branche.",
       "highlights": [
         "C++ erhält neue Features zur Verbesserung der Performance.",
-        "GitLab führt erweiterte CI/CD-Funktionen ein.",
-        "Databricks integriert neue Machine Learning-Tools in seine Plattform."
+        "GitLab führt neue Funktionen zur Optimierung des CI/CD-Prozesses ein.",
+        "Databricks erweitert seine Plattform um zusätzliche KI-Tools zur Datenanalyse."
       ]
     },
     {
@@ -61,11 +61,11 @@
           "source": "netzpolitik.org"
         }
       ],
-      "summary": "Die Cloud-Architektur entwickelt sich rasant weiter, mit neuen Angeboten von AWS und Google Cloud, die Multicloud-Konnektivität und AI-Agenten-Entwicklung unterstützen. Gleichzeitig wird die digitale Souveränität Europas thematisiert, wobei die Finanzierung entscheidend bleibt.",
+      "summary": "Die aktuelle Entwicklung im Bereich Cloud-Architektur zeigt Fortschritte bei der Multicloud-Konnektivität und der Unterstützung von OpenTelemetry durch AWS. Google Cloud fokussiert sich auf die Optimierung des Entwicklungszyklus von KI-Agenten. Gleichzeitig wird die digitale Souveränität Europas als wichtiges, aber herausforderndes Ziel hervorgehoben.",
       "highlights": [
-        "AWS Interconnect bietet jetzt verwaltete private Layer-3-Verbindungen zu Google Cloud.",
-        "OpenTelemetry-Metriken werden in Amazon CloudWatch in der öffentlichen Vorschau unterstützt.",
-        "Google Cloud führt Agents CLI ein, um den Entwicklungszyklus von AI-Agenten zu optimieren."
+        "AWS Interconnect bietet jetzt verwaltete private Layer-3-Verbindungen zu Google Cloud und plant Unterstützung für Azure und OCI bis 2026.",
+        "Amazon CloudWatch ermöglicht jetzt die Nutzung von OpenTelemetry zur direkten Übertragung von Metriken.",
+        "Google Cloud führt Agents CLI ein, um den Entwicklungszyklus von KI-Agenten zu vereinfachen."
       ]
     },
     {
@@ -108,17 +108,24 @@
           "source": "heise online News"
         }
       ],
-      "summary": "Aktuelle IT-Sicherheitsbedrohungen umfassen eine Phishing-Kampagne auf Signal, die seit September 2025 aktiv ist, sowie Angriffe auf ConnectWise ScreenConnect und Windows Shell. Zudem wurden kritische Sicherheitslücken in Nginx UI entdeckt und geschlossen.",
+      "summary": "Aktuelle IT-Sicherheitsmeldungen zeigen eine Phishing-Kampagne auf Signal, die seit September 2025 aktiv ist, während deutsche Behörden erst im Februar warnten. Zudem gibt es Warnungen vor Angriffen auf ConnectWise ScreenConnect und kritische Sicherheitsupdates für Nginx UI.",
       "highlights": [
-        "Bundesregierung wurde erst im Februar 2026 über Phishing-Angriffe auf Signal informiert.",
+        "Phishing-Kampagne auf Signal betrifft auch Bundesbauministerin Verena Hubertz, Warnung erst im Februar 2026.",
         "CISA warnt vor Angriffen auf Windows Shell und ConnectWise ScreenConnect.",
-        "Nginx UI erhielt wichtige Sicherheitsupdates zur Behebung mehrerer Schwachstellen."
+        "Kritische Sicherheitsupdates für Nginx UI schließen mehrere Schwachstellen, die Angreifern Zugriff ermöglichen."
       ]
     },
     {
       "id": "devops-test",
       "name": "DevOps & Test-Automatisierung",
       "items": [
+        {
+          "title": "Sauce Labs Launches AI Agent to Automate Test Creation and Close the DevOps “Velocity Gap”",
+          "link": "https://www.infoq.com/news/2026/04/sauce-labs-ai-test-creation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Sauce Labs has announced the general availability of Sauce AI for Test Authoring, an AI-driven agent designed to translate business intent directly into executable test suites, marking a shift toward what the company calls Intent-Driven Testing. By Craig Risi",
+          "published": "Wed, 29 Apr 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
         {
           "title": "Presentation: AI-Powered SRE for Autonomous Incident Response",
           "link": "https://www.infoq.com/presentations/ai-sre-incident-response/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
@@ -146,20 +153,13 @@
           "summary": "Wer krank ist, bleibt zu Hause - oder doch nicht? Die Bundesregierung plant eine Reform, die das deutsche Sozialrecht grundlegend verändern könnte. ( Arbeit , Politik )",
           "published": "2026-04-29T09:21:09+02:00",
           "source": "Golem.de"
-        },
-        {
-          "title": "Digitale Souveränität: Google stoppt Cloud-Vergabe der Bundesregierung",
-          "link": "https://www.golem.de/news/digitale-souveraenitaet-google-stoppt-cloud-vergabe-der-bundesregierung-2604-208134.html",
-          "summary": "Ein Konsortium um Google blockiert die 250-Millionen-Euro-Vergabe für die deutsche Verwaltungscloud. Das Projekt droht zu stocken. ( Souveränität , Google )",
-          "published": "2026-04-29T08:53:05+02:00",
-          "source": "Golem.de"
         }
       ],
-      "summary": "Die heutige Berichterstattung umfasst Entwicklungen im Bereich DevOps und Test-Automatisierung, insbesondere durch den Einsatz von KI in der Incident-Response. Zudem wird die unzureichende Altersverifikation auf Plattformen wie Facebook und Instagram von der EU-Kommission kritisiert.",
+      "summary": "Sauce Labs hat Sauce AI für Test Authoring eingeführt, ein KI-gesteuertes Tool zur automatischen Erstellung von Test-Suites. Dies ermöglicht eine direkte Übersetzung von Geschäftszielen in ausführbare Tests und fördert die Intent-Driven Testing-Methodik. Zudem wird die Rolle von KI in der autonomen Incident Response bei SRE-Plattformen hervorgehoben.",
       "highlights": [
-        "Präsentation zu KI-gestütztem SRE für autonome Incident-Response auf InfoQ.",
-        "EU-Kommission bemängelt, dass Meta Kinder unter 13 Jahren nicht ausreichend schützt.",
-        "Google blockiert die Vergabe von 250 Millionen Euro für die deutsche Verwaltungscloud."
+        "Sauce AI ermöglicht die automatische Erstellung von Test-Suites basierend auf Geschäftszielen.",
+        "Die neue Methode wird als Intent-Driven Testing bezeichnet.",
+        "AI-enhanced SRE-Plattformen verbessern die Reaktionsfähigkeit auf Vorfälle durch die Analyse von Logs, Metriken und historischen Daten."
       ]
     },
     {
@@ -181,11 +181,11 @@
           "source": "The Verge"
         }
       ],
-      "summary": "Die heutigen Nachrichten thematisieren innovative Entwicklungen in der Software-Entwicklung. Das Crux-Framework ermöglicht die Erstellung skalierbarer Cross-Plattform-Applikationen mit Rust, während ein Entwickler eine Methode präsentiert, um Linux auf der PlayStation 5 zu installieren.",
+      "summary": "Agile Methoden und UX/UI-Design sind entscheidend für die Entwicklung benutzerzentrierter Software. Aktuelle Technologien wie Rust und innovative Ansätze zur Nutzung von Konsolen erweitern die Möglichkeiten für Entwickler, plattformübergreifende und ansprechende Anwendungen zu schaffen.",
       "highlights": [
-        "Crux verbindet fachliche Typen und modulare Apps mit Rust.",
-        "Das Framework generiert skalierbare und testbare Anwendungen.",
-        "Linux kann jetzt auf bestimmten PS5-Versionen installiert werden."
+        "Crux-Framework ermöglicht die Entwicklung skalierbarer Anwendungen mit Rust.",
+        "Linux kann jetzt auf bestimmten PS5-Versionen installiert werden.",
+        "Installation von Linux auf PS5 wurde von Entwickler Andy Nguyen dokumentiert."
       ]
     },
     {
@@ -228,11 +228,11 @@
           "source": "t3n.de - News"
         }
       ],
-      "summary": "Generative KI und LLMs entwickeln sich rasant weiter, mit neuen Funktionen und Anwendungen in der Werbung und im Unternehmensbereich. Snapchat testet KI-Werbung im Chat, während Mistral AI eine Orchestrationsschicht für Unternehmens-KI einführt.",
+      "summary": "Generative KI und LLMs entwickeln sich rasant weiter, wobei Unternehmen wie Snapchat und Google neue Funktionen und Werbemöglichkeiten einführen. Zudem wird der Wechsel zwischen verschiedenen KI-Diensten erleichtert, während Mistral AI neue Workflows für die Orchestrierung von Unternehmens-KI-Prozessen präsentiert.",
       "highlights": [
-        "Snapchat testet AI Sponsored Snaps für Markeninteraktionen im Chat.",
-        "Mistral AI veröffentlicht Workflows zur Orchestrierung von Unternehmens-KI-Prozessen.",
-        "Google integriert eine Memory-Funktion in Gemini für personalisierte Konversationen."
+        "Snapchat testet AI Sponsored Snaps, um Marken direkt im Chat anzusprechen.",
+        "Google Gemini erhält eine Memory-Funktion zur personalisierten Interaktion.",
+        "Mistral AI führt Workflows ein, um die Koordination und Überwachung von KI-Modellen in Unternehmen zu verbessern."
       ]
     },
     {
@@ -268,18 +268,18 @@
           "source": "Golem.de"
         },
         {
-          "title": "Meta isn’t doing enough to keep kids off Facebook and Instagram, rules EU",
-          "link": "https://www.theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification",
-          "summary": "Meta is breaching Europe's Digital Services Act (DSA) rules by failing to prevent children under 13 from using Facebook and Instagram, according to a preliminary decision issued by the European Commission. The Commission announced the ruling on Wednesday after an almost two-year investigation, saying that Meta doesn't have adequate measures in place to stop under-13s [&#8230;]",
-          "published": "2026-04-29T06:46:24-04:00",
+          "title": "Electric air taxis are finally taking flight — just not with passengers",
+          "link": "https://www.theverge.com/transportation/919532/joby-aviation-electric-air-taxi-jfk-manhattan-faa",
+          "summary": "It was the perfect day for an electric air taxi demonstration - albeit one without passengers. On Monday, an electric aircraft from Joby Aviation took off from JFK Airport for a flight demonstrating the company's future air taxi route to Manhattan. The aircraft - egg-shaped cabin, six tilt-rotor propellers, electric motor - made its way [&#8230;]",
+          "published": "2026-04-29T08:00:00-04:00",
           "source": "The Verge"
         }
       ],
-      "summary": "Die EU-Kommission hat Meta vorgeworfen, gegen den Digital Services Act zu verstoßen, da das Unternehmen Kinder unter 13 Jahren nicht effektiv von Facebook und Instagram fernhält. Vizepräsidentin Henna Virkkunen präsentierte neue Leitlinien zur Altersverifikation.",
+      "summary": "Die EU-Kommission fordert von Meta, dass Facebook und Instagram effektiver gegen Kinder-Accounts vorgehen, um den Digital Services Act einzuhalten. Vizepräsidentin Henna Virkkunen präsentierte neue Leitlinien zur Altersverifikation.",
       "highlights": [
-        "Meta wird vorgeworfen, Kinder unter 13 Jahren nicht von Facebook und Instagram fernzuhalten.",
-        "Die EU-Kommission hat eine fast zweijährige Untersuchung durchgeführt.",
-        "Neue Leitlinien zur Altersverifikations-App wurden von Henna Virkkunen vorgestellt."
+        "Meta wird vorgeworfen, Kinder unter 13 Jahren nicht ausreichend zu schützen.",
+        "Henna Virkkunen stellte neue Leitlinien für eine Altersverifikations-App vor.",
+        "Die Maßnahmen sind Teil der Durchsetzung des Digital Services Act der EU."
       ]
     },
     {
@@ -322,11 +322,11 @@
           "source": "t3n.de - News"
         }
       ],
-      "summary": "Open Source-Software ermöglicht es Nutzern, proprietäre Hardware wie Apple AirPods auch auf Android-Geräten zu verwenden. Gleichzeitig wird die Software-Landschaft durch Entwicklungen wie KI-Integration in Windows 11 und neue Transparenzgesetze im Arbeitsmarkt beeinflusst.",
+      "summary": "Open Source Software gewinnt an Bedeutung, indem sie Nutzern ermöglicht, proprietäre Hardware wie Apple Airpods auf Android-Geräten zu verwenden. Gleichzeitig wird die Software-Landschaft durch neue Entwicklungen wie KI-Integration in Windows 11 und Gehaltstransparenzrichtlinien beeinflusst.",
       "highlights": [
-        "Neue Open-Source-App ermöglicht Nutzung von AirPods auf Android-Smartphones.",
-        "Windows 11 erhält möglicherweise KI-gesteuerte Funktionen in der Uhr-App.",
-        "EU-Entgelttransparenzrichtlinie zwingt Unternehmen zu konkreten Gehaltsangaben."
+        "Neue Open-Source-App ermöglicht die Nutzung von Airpods auf Android mit fast allen Funktionen.",
+        "Windows 11 könnte durch ein Update die Uhr-App in ein KI-gesteuertes Produktivitätszentrum verwandeln.",
+        "EU-Entgelttransparenzrichtlinie zwingt Unternehmen zu konkreten Gehaltsangaben, was potenziell problematisch sein könnte."
       ]
     }
   ]
