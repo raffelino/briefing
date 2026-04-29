@@ -1,0 +1,121 @@
+{
+  "date": "2026-04-29",
+  "mode": "taeglich",
+  "_demo": "Beispiel-Briefing zur Vorschau der Webansicht. Wird ueberschrieben, sobald der erste echte Workflow-Lauf durchgegangen ist.",
+  "topics": [
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "summary": "Anthropic veroeffentlicht Claude Opus 4.6 mit verbesserter Agenten-Performance auf SWE-bench. OpenAI gibt im selben Atemzug die DevDay-Roadmap fuer 2026 bekannt: Schwerpunkt Tool-Use und persistenter Speicher. Hugging Face meldet 2 Mio aktive Modelle auf der Plattform.",
+      "highlights": [
+        "Opus 4.6 erreicht 78.4% auf SWE-bench Verified — neuer Spitzenwert.",
+        "OpenAI kuendigt offenes Memory-Protokoll an, kompatibel zu MCP.",
+        "Mistral Large 3 erscheint mit 128k Kontext und MoE-Architektur."
+      ],
+      "items": [
+        {
+          "title": "Claude Opus 4.6 schlaegt GPT-5 in Coding-Benchmarks",
+          "link": "https://www.heise.de/news/claude-opus-46-coding-benchmarks-2026-04-29.html",
+          "source": "heise online"
+        },
+        {
+          "title": "OpenAI DevDay 2026: Roadmap setzt auf Agent-Tooling",
+          "link": "https://t3n.de/news/openai-devday-2026-agent-tooling/",
+          "source": "t3n"
+        },
+        {
+          "title": "Hugging Face: 2 Millionen aktive Modelle, Trend Richtung kleinerer Spezialisten",
+          "link": "https://www.golem.de/news/hugging-face-2-millionen-modelle-2604-29.html",
+          "source": "golem.de"
+        }
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "summary": "Die EU-Kommission praezisiert die NIS2-Umsetzungsfristen — Mitgliedstaaten muessen bis Juni nachsteuern. Der AI Act tritt in seiner zweiten Phase in Kraft: Hochrisiko-Systeme brauchen ab heute eine konformitaetserklaerung.",
+      "highlights": [
+        "AI Act Phase 2: konformitaetserklaerung fuer Hochrisiko-KI ab sofort Pflicht.",
+        "NIS2-Stand: 18 von 27 Mitgliedstaaten haben Umsetzung noch offen.",
+        "DORA-Audits starten — erste Sanktionen gegen 4 Finanzdienstleister."
+      ],
+      "items": [
+        {
+          "title": "AI Act Phase 2 in Kraft — was Unternehmen jetzt tun muessen",
+          "link": "https://netzpolitik.org/2026/ai-act-phase-2/",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "NIS2: Kommission setzt Mitgliedstaaten Frist bis Juni",
+          "link": "https://www.heise.de/news/nis2-frist-juni-2026.html",
+          "source": "heise online"
+        }
+      ]
+    },
+    {
+      "id": "bpm",
+      "name": "BPM & Prozessautomatisierung",
+      "summary": "Camunda 8.7 erscheint mit deutlich verbesserter Process-Mining-Integration. Die Community diskutiert nach mehreren grossen Migrationen die Frage, wann ein Wechsel von 7.x sich noch lohnt.",
+      "highlights": [
+        "Camunda 8.7 bringt natives Process Mining auf Basis OpenSearch.",
+        "Studie: 64% der Unternehmen kombinieren BPMN mit ML-Entscheidungen."
+      ],
+      "items": [
+        {
+          "title": "Camunda 8.7: Process Mining wird Standardfunktion",
+          "link": "https://www.heise.de/news/camunda-87-process-mining-2026.html",
+          "source": "heise Developer"
+        },
+        {
+          "title": "Migration von Camunda 7 auf 8 — Erfahrungsbericht",
+          "link": "https://www.infoq.com/news/2026/04/camunda-7-to-8-migration",
+          "source": "InfoQ"
+        }
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "summary": "Kubernetes 1.31 ist final: Sidecars werden GA, Pod-Resize beendet das Beta-Stadium. Bei AWS faellt eu-central-1 fuer 90 Minuten aus — Postmortem zeigt Failover-Schwaechen vieler Tenants.",
+      "highlights": [
+        "Kubernetes 1.31: Sidecar-Container und In-Place-Resize jetzt GA.",
+        "AWS eu-central-1 Outage 90 Min — Multi-AZ-Setups blieben groesstenteils stabil.",
+        "OpenShift 4.16 mit verbessertem Hosted-Control-Plane-Modus."
+      ],
+      "items": [
+        {
+          "title": "Kubernetes 1.31: Was die neuen GA-Features fuer Production bedeuten",
+          "link": "https://thenewstack.io/kubernetes-131-ga-features/",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS-Ausfall in Frankfurt — Postmortem veroeffentlicht",
+          "link": "https://www.heise.de/news/aws-frankfurt-ausfall-postmortem-2026.html",
+          "source": "heise online"
+        }
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "summary": "Kritische Schwachstelle in OpenSSL 3.4 (CVE-2026-22841) — Patch verfuegbar, Risiko hoch fuer TLS-Server. Parallel waechst die Welle ransomware-as-a-service-Gruppen, die nun gezielt Backup-Infrastruktur angreifen.",
+      "highlights": [
+        "CVE-2026-22841 in OpenSSL 3.4 — sofort patchen empfohlen.",
+        "Akira-Gruppe greift gezielt Veeam-Server an — Patches verfuegbar.",
+        "BSI veroeffentlicht aktualisierten Mindeststandard fuer Cloud-Logs."
+      ],
+      "items": [
+        {
+          "title": "OpenSSL: kritische Luecke in 3.4 erlaubt RCE",
+          "link": "https://www.heise.de/news/openssl-cve-2026-22841.html",
+          "source": "heise Security"
+        },
+        {
+          "title": "Akira-Ransomware zielt jetzt auf Backup-Server",
+          "link": "https://arstechnica.com/security/2026/04/akira-backup-attack/",
+          "source": "Ars Technica"
+        }
+      ]
+    }
+  ]
+}

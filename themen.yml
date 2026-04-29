@@ -1,0 +1,99 @@
+# --- Briefing-Agent Konfiguration ----------------------------------------
+# Diese Datei ist die einzige, die du jemals anfassen musst.
+# Aenderungen ueber github.com: Datei oeffnen, Bleistift-Icon, tippen, Commit.
+# -------------------------------------------------------------------------
+
+# Empfaenger des Briefings (deine Mail)
+email:
+  empfaenger: "raffelino666@googlemail.com"
+  betreff_taeglich: "Tagesbriefing — {date}"
+  betreff_woechentlich: "Wochen-Recap — KW {week}"
+
+# Wann lassen wir den Agenten laufen?
+# Cron-Format. Voreinstellung: werktags 7:00, samstags 9:00 (UTC -> 7:00/9:00 in Berlin im Sommer; im Winter 1h frueher).
+# Hinweis: GitHub Actions cron rechnet in UTC. Werte hier sind nur Doku — die echte Zeit steht in .github/workflows/briefing.yml.
+takt:
+  taeglich:        "0 5 * * 1-5"   # Mo-Fr 07:00 MESZ / 06:00 MEZ
+  woechentlich:    "0 7 * * 6"     # Samstag 09:00 MESZ / 08:00 MEZ
+
+# Wie viele Artikel pro Thema kommen in die Mail / Webansicht?
+limits:
+  artikel_pro_thema_taeglich: 5
+  artikel_pro_thema_woechentlich: 8
+
+# --- Quellen --------------------------------------------------------------
+# Feed-URLs. Ergaenze einfach weitere Zeilen, wenn dir was fehlt.
+quellen:
+  - https://www.heise.de/rss/heise-atom.xml
+  - https://www.heise.de/developer/rss/news-atom.xml
+  - https://www.golem.de/rss.php?feed=ATOM1.0
+  - https://t3n.de/rss.xml
+  - https://netzpolitik.org/feed/
+  - https://www.theverge.com/rss/index.xml
+  - https://feeds.arstechnica.com/arstechnica/index
+  - https://www.infoq.com/feed/
+  - https://thenewstack.io/feed/
+
+# --- Themen ---------------------------------------------------------------
+# id:        kurzer Bezeichner (klein, ohne Leerzeichen)
+# name:      Anzeigename in Mail und Webansicht
+# keywords:  Stichwoerter, an denen Treffer erkannt werden (case-insensitive,
+#            Substring-Match — also "BPMN" matched auch "BPMN 2.0")
+# Hinweis:   Erster Match gewinnt (wenn ein Artikel zu mehreren Themen passt,
+#            landet er beim ersten in dieser Liste). Reihenfolge = Prioritaet.
+# -------------------------------------------------------------------------
+themen:
+
+  # --- Kernthemen: IT-Beratung & Engineering ---
+  - id: bpm
+    name: "BPM & Prozessautomatisierung"
+    keywords: [BPM, BPMN, Camunda, Process Mining, Prozessautomatisierung, Prozessmanagement, Workflow-Engine, Activiti, Flowable]
+
+  - id: data-ai
+    name: "Data & AI / Data Science"
+    keywords: [Data Science, Machine Learning, MLOps, Datenplattform, Data Engineering, Data Lake, Data Warehouse, Snowflake, Databricks, Feature Store, Vector Database, bpmn.ai]
+
+  - id: cloud
+    name: "Cloud-Architektur & Plattformen"
+    keywords: [Kubernetes, OpenShift, AWS, Azure, GCP, Google Cloud, Cloud-native, Helm, Istio, Service Mesh, Terraform, EKS, AKS, GKE]
+
+  - id: software-architektur
+    name: "Software-Architektur & Java"
+    keywords: [Microservices, Spring Boot, Spring Framework, Java, JVM, Quarkus, GraalVM, Domain-Driven Design, DDD, API-First, OpenAPI, Hexagonal, Clean Architecture]
+
+  - id: it-security
+    name: "IT-Sicherheit & Security by Design"
+    keywords: [IT-Sicherheit, Cybersecurity, Threat Modeling, OWASP, Zero Trust, CVE, Pentest, SIEM, Schwachstelle, Sicherheitsluecke, Ransomware, Phishing, Datenleck]
+
+  - id: devops-test
+    name: "DevOps & Test-Automatisierung"
+    keywords: [DevOps, GitOps, ArgoCD, CI/CD, GitHub Actions, GitLab CI, Jenkins, Selenium, Playwright, Cypress, Testautomatisierung, Test-Pyramide, SRE]
+
+  - id: agile-ux
+    name: "Agile Methoden & UX/UI"
+    keywords: [Scrum, Kanban, Agile, OKR, Design System, UX, User Experience, UI Design, Figma, Accessibility, WCAG, Barrierefreiheit]
+
+  # --- Aktuelle Trends ---
+  - id: gen-ai
+    name: "Generative KI & LLMs"
+    keywords: [LLM, Large Language Model, GPT, Claude, Gemini, Llama, Mistral, RAG, Retrieval Augmented, Agent, Agentic, Copilot, Foundation Model, Anthropic, OpenAI, Hugging Face, Prompt Engineering]
+
+  - id: regulierung
+    name: "EU-Tech-Regulierung"
+    keywords: [AI Act, KI-Verordnung, NIS2, NIS-2, DORA, Digital Operational Resilience, Cyber Resilience Act, CRA, GDPR, DSGVO, Data Act, Digital Services Act, DSA, Digital Markets Act, DMA]
+
+  - id: platform-eng
+    name: "Platform Engineering / IDPs"
+    keywords: [Platform Engineering, Internal Developer Platform, IDP, Backstage, Crossplane, Developer Experience, DevX, Golden Path, Self-Service]
+
+  - id: observability
+    name: "Observability"
+    keywords: [Observability, OpenTelemetry, OTel, Prometheus, Grafana, Distributed Tracing, Tracing, Loki, Jaeger, Datadog, New Relic, eBPF]
+
+  - id: supply-chain
+    name: "Open Source & Software Supply Chain"
+    keywords: [Open Source, OSS, Supply Chain, SBOM, Sigstore, SLSA, Dependency, Log4j, npm, PyPI, Maven Central, Lizenz, License, GPL, Apache, MIT]
+
+  - id: green-it
+    name: "Green IT / Nachhaltigkeit"
+    keywords: [Green IT, Nachhaltigkeit, Sustainability, Energieverbrauch, Klimabilanz, CO2, Rechenzentrum Strom, Effizienz, Green Software, FinOps]
