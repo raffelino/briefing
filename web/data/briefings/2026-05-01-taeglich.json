@@ -1,0 +1,364 @@
+{
+  "date": "2026-05-01",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
+          "link": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
+          "summary": "\"We had serious inbound attempts to the cosmodrome that day.\"",
+          "published": "Thu, 30 Apr 2026 21:35:02 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+          "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+          "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+          "published": "Thu, 30 Apr 2026 20:20:48 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "The OpenAI-Microsoft reset, decoded: Why AWS may come out ahead",
+          "link": "https://thenewstack.io/openai-aws-bedrock-integration/",
+          "summary": "OpenAI wasted little time since announcing changes to its partnership with Microsoft on Monday. T \\he ChatGPT hitmaker is now The post The OpenAI-Microsoft reset, decoded: Why AWS may come out ahead appeared first on The New Stack .",
+          "published": "Thu, 30 Apr 2026 17:17:41 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Netflix Scales \"Human Infrastructure\" to Manage Global Live Operations",
+          "link": "https://www.infoq.com/news/2026/04/netflix-live-human-ops-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Netflix has introduced a \"human infrastructure\" layer to manage live broadcasts at scale. Using a low-latency \"telemetry hot path\" and a Live Operations Centre, the company now balances automated scaling with human oversight. This shift, which mirrors strategies at AWS and Disney+, focuses on maintaining reliability through expert intervention during high-concurrency global events. By Mark Silvester",
+          "published": "Thu, 30 Apr 2026 08:10:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Biometrische Gesichtserkennung: Das Gesetzespaket für eine neue Stufe der Überwachung",
+          "link": "https://www.golem.de/news/biometrische-gesichtserkennung-das-gesetzespaket-fuer-eine-neue-stufe-der-ueberwachung-2604-208176.html",
+          "summary": "Die Regierung will Ermittlern die biometrische Gesichtserkennung erlauben. Das BKA soll dazu auch mit Anbietern wie Clearview AI kooperieren können. Von Friedhelm Greis ( Gesichtserkennung , KI )",
+          "published": "2026-04-30T09:22:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Cloud-Architektur und Plattformen stehen im Fokus aktueller Entwicklungen, insbesondere im Hinblick auf Sicherheitsbedrohungen und innovative Ansätze zur Verwaltung globaler Operationen. Unternehmen wie Netflix implementieren neue Strategien zur Skalierung, während Bedrohungen wie CopyFail die Sicherheit von Multi-Tenant-Umgebungen gefährden.",
+      "highlights": [
+        "Netflix hat eine 'Human Infrastructure' eingeführt, um Live-Übertragungen mit automatisierter Skalierung und menschlicher Aufsicht zu verwalten.",
+        "Die Sicherheitsbedrohung CopyFail betrifft Multi-Tenant-Server und CI/CD-Workflows, was erhebliche Risiken für Cloud-Umgebungen darstellt.",
+        "OpenAI hat seine Partnerschaft mit Microsoft neu ausgerichtet, was potenziell AWS einen Wettbewerbsvorteil verschaffen könnte."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Supply-Chain-Angriff: Mehrere Softwareprojekte von SAP kompromittiert",
+          "link": "https://www.golem.de/news/supply-chain-angriff-mehrere-softwareprojekte-von-sap-kompromittiert-2604-208187.html",
+          "summary": "Angreifer haben Schadcode in NPM-Pakete von SAP eingeschleust, um massenhaft Zugangsdaten abzugreifen. Entwickler sollten zügig handeln. ( Cybercrime , Javascript )",
+          "published": "2026-04-30T10:50:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Angreifer haben Schadcode in NPM-Pakete von SAP integriert, um Zugangsdaten von Nutzern abzugreifen. Entwickler werden dringend aufgefordert, Maßnahmen zu ergreifen, um ihre Systeme zu schützen.",
+      "highlights": [
+        "Schadcode wurde in mehrere NPM-Pakete von SAP eingeschleust.",
+        "Ziel ist der massenhafte Diebstahl von Zugangsdaten.",
+        "Entwickler sollten umgehend Sicherheitsupdates durchführen."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Anthropic startet öffentliche Beta von Claude Security für Unternehmen",
+          "link": "https://www.heise.de/news/Claude-Security-Anthropic-bringt-KI-Schwachstellenscanner-fuer-Unternehmen-11279018.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Anthropic schickt Claude Security in den öffentlichen Beta-Test. Es scannt Code auf Schwachstellen, schlägt Patches vor und soll bei Sicherheit streng sein.",
+          "published": "2026-04-30T23:05:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anthropic startet öffentliche Beta von Claude Security für Unternehmen",
+          "link": "https://www.heise.de/news/Claude-Security-Anthropic-bringt-KI-Schwachstellenscanner-fuer-Unternehmen-11279018.html",
+          "summary": "Anthropic schickt Claude Security in den öffentlichen Beta-Test. Es scannt Code auf Schwachstellen, schlägt Patches vor und soll bei Sicherheit streng sein.",
+          "published": "2026-04-30T21:05:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Anthropic hat die öffentliche Beta von Claude Security gestartet, einem Tool, das Code auf Sicherheitsanfälligkeiten scannt und Vorschläge für Patches unterbreitet. Das System ist darauf ausgelegt, strenge Sicherheitsstandards einzuhalten.",
+      "highlights": [
+        "Öffentliche Beta von Claude Security gestartet",
+        "Scannt Code auf Schwachstellen und schlägt Patches vor",
+        "Fokus auf strenge Sicherheitsstandards"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Biokraftstoff E20 soll gegen hohe Benzinpreise helfen - aber er scheitert schon an der Fläche",
+          "link": "https://t3n.de/news/biokraftstoff-e20-benzinpreise-flaeche-1740079/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die geplante Einführung einer neuen Benzinsorte zeigt: Weder die Bundesregierung noch die EU-Kommission scheinen den geringsten Plan davon zu haben, wie sie den Umgang mit ihren eigenen Ressourcen priorisieren sollten, findet unser Autor. weiterlesen auf t3n.de",
+          "published": "Thu, 30 Apr 2026 16:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI am Wendepunkt: Warum Claude Code der ganzen Industrie das Genick brechen könnte",
+          "link": "https://t3n.de/news/ki-am-wendepunkt-warum-claude-code-der-ganzen-industrie-das-genick-brechen-koennte-1740468/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Trotz Anzeichen einer möglichen Finanzblase machen große Sprachmodelle weiter Schlagzeilen, die dazugehörigen Firmen vermelden Umsatz- und Nutzungsrekorde. Das Kuriose daran: Gerade Letztere könnten den Traum der vollautomatisierten Zukunft zerstören. weiterlesen auf t3n.de",
+          "published": "Thu, 30 Apr 2026 12:09:05 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "DBmaestro MCP Server Puts Natural Language in Control of Database Pipelines",
+          "link": "https://www.infoq.com/news/2026/04/dbmaestro-mcp-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "DBmaestro has launched an MCP server that connects AI agents and enterprise copilots to its database DevOps platform, allowing teams to issue natural language commands that trigger real, governed platform workflows. The MCP server, announced on 7 April 2026, allows DBAs to expose DBmaestro's release automation, source control, CI/CD orchestration, and compliance capabilities through MCP. By Matt Saunders",
+          "published": "Thu, 30 Apr 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Cyber Resilience Act: BSI wird zum digitalen TÜV für vernetzte Produkte",
+          "link": "https://www.heise.de/news/Cyber-Resilience-Act-BSI-wird-zum-digitalen-TUeV-fuer-vernetzte-Produkte-11278890.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Bundesregierung bringt das Durchführungsgesetz zum Cyber Resilience Act der EU auf den Weg und will das BSI zur zentralen Marktüberwachungsbehörde machen.",
+          "published": "2026-04-30T18:23:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die heutige Berichterstattung umfasst Entwicklungen in verschiedenen Bereichen, darunter die Einführung von Biokraftstoffen, die Herausforderungen durch KI-Modelle sowie neue Technologien im Datenbank-DevOps. Zudem wird das BSI als zentrale Marktüberwachungsbehörde im Rahmen des Cyber Resilience Act vorgestellt.",
+      "highlights": [
+        "Biokraftstoff E20 scheitert an Flächenverfügbarkeit.",
+        "DBmaestro MCP Server ermöglicht natürliche Sprachbefehle für Datenbank-Pipelines.",
+        "BSI wird zur zentralen Marktüberwachungsbehörde für vernetzte Produkte im Rahmen des Cyber Resilience Act."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Reporter ohne Grenzen: Niedergang der Pressefreiheit setzt sich dramatisch fort",
+          "link": "https://netzpolitik.org/2026/reporter-ohne-grenzen-niedergang-der-pressefreiheit-setzt-sich-dramatisch-fort/",
+          "summary": "Demonstrierende fordern in Tiflis die Freilassung von Mzia Amaghlobeli. Ihre Inhaftierung gilt als Symbol für die zunehmende Unterdrückung der Pressefreiheit und regierungskritischer Medien in Georgien. – Alle Rechte vorbehalten: IMAGO / NurPhoto Journalismus wird weltweit immer häufiger kriminalisiert. Auch in demokratischen Ländern. Zum ersten Mal fallen in der Rangliste von Reporter ohne Grenzen über die Hälfte aller Länder in die schlechtesten Kategorien. Trump hat dabei einen weltweiten Negativ-Effekt auf die Pressefreiheit.",
+          "published": "Thu, 30 Apr 2026 15:12:19 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Weekly: E20 als Bio-Pflaster für hohe Benzinpreise, Tschernobyl-Doku",
+          "link": "https://t3n.de/news/weekly-e20-als-bio-pflaster-fuer-hohe-benzinpreise-tschernobyl-doku-1740343/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Was sinnvoller als eine Einführung des Biokraftstoffs E20 wäre, diskutieren wir in der neuen Podcast-Folge. Medientipp: eine Doku über die Tschernobyl-Katastrophe. weiterlesen auf t3n.de",
+          "published": "Thu, 30 Apr 2026 15:30:38 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Unsere Jobs der Woche für digitale Pioniere",
+          "link": "https://t3n.de/news/unsere-jobs-der-woche-1175973/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hier findest du unsere besten Jobs aus den Bereichen Technik &amp; Entwicklung, Marketing, PR &amp; Kommunikation, Projektmanagement &amp; Produktmanagement, Design &amp; UX, Content &amp; Redaktion und Business Development. weiterlesen auf t3n.de",
+          "published": "Thu, 30 Apr 2026 15:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Proxmox Backup Server 4.2 mit Linux-Kernel 7.0 und S3-Storage-Support",
+          "link": "https://www.heise.de/news/Proxmox-Backup-Server-4-2-mit-Linux-Kernel-7-0-und-S3-Storage-Support-11278371.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mit Version 4.2 des Proxmox Backup Servers lassen sich unter anderem Pull-/Push-Sync-Jobs serverseitig ver- und entschlüsseln sowie parallel abarbeiten.",
+          "published": "2026-04-30T14:38:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "„Copy Fail“: Linux-root in allen großen Distributionen mit 732 Byte Python",
+          "link": "https://www.heise.de/news/Copy-Fail-Linux-root-in-allen-grossen-Distributionen-mit-732-Byte-Python-11277590.html",
+          "summary": "Die Entdecker haben die root-Lücke im Linux-Kernel „Copy Fail“ getauft. Alle größeren Distributionen seit 2017 sind betroffen.",
+          "published": "2026-04-30T07:06:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Agile Methoden und UX/UI sind entscheidend für die Entwicklung benutzerzentrierter Produkte. Durch iterative Prozesse und kontinuierliches Feedback wird die Benutzererfahrung optimiert und die Anpassungsfähigkeit an Marktveränderungen erhöht.",
+      "highlights": [
+        "Agile Methoden fördern schnelle Anpassungen und Feedbackzyklen.",
+        "UX/UI-Design verbessert die Benutzerzufriedenheit und -bindung.",
+        "Die Integration von agilen Praktiken in Designprozesse steigert die Effizienz der Produktentwicklung."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "US falls below Ukraine in press freedom as global autocracy takes hold",
+          "link": "https://arstechnica.com/tech-policy/2026/04/us-falls-below-ukraine-in-press-freedom-as-global-autocracy-takes-hold/",
+          "summary": "\"In 25 years, the average score... has never been so low.\"",
+          "published": "Thu, 30 Apr 2026 21:53:48 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
+          "link": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
+          "summary": "Elon Musk spent three days testifying as the first witness in his trial against OpenAI.",
+          "published": "Thu, 30 Apr 2026 21:11:51 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "A nine-point checklist for shipping production-ready AI",
+          "link": "https://thenewstack.io/production-ready-ai-platforms/",
+          "summary": "Starting from square one Most teams can build an AI prototype. A notebook answers a few prompts, a demo agent The post A nine-point checklist for shipping production-ready AI appeared first on The New Stack .",
+          "published": "Thu, 30 Apr 2026 18:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Beijing bans drone sales even as rest of world buys Chinese drones",
+          "link": "https://arstechnica.com/gadgets/2026/04/beijing-bans-drone-sales-even-as-rest-of-world-buys-chinese-drones/",
+          "summary": "Beijing's citywide ban restricts the sale, transport, and storage of drones.",
+          "published": "Thu, 30 Apr 2026 17:47:17 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Anthropic’s Claude Security emerges from closed preview to scan your codebases for vulnerabilities",
+          "link": "https://thenewstack.io/anthropics-claude-security-beta/",
+          "summary": "On Thursday, Anthropic took Claude Security, a defensive security tool in Claude Code on the web that scans codebases for The post Anthropic&#8217;s Claude Security emerges from closed preview to scan your codebases for vulnerabilities appeared first on The New Stack .",
+          "published": "Thu, 30 Apr 2026 17:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Die Entwicklungen im Bereich der generativen KI und LLMs zeigen sowohl Fortschritte als auch Herausforderungen. Während Unternehmen wie Anthropic neue Sicherheitslösungen einführen, stehen rechtliche und ethische Fragen im Fokus, insbesondere im Kontext von Testimonien bei Gerichtsverfahren und der globalen Regulierung von Technologien.",
+      "highlights": [
+        "Anthropic hat Claude Security veröffentlicht, ein Tool zur Sicherheitsüberprüfung von Codebasen.",
+        "Elon Musk hat drei Tage lang im Prozess gegen OpenAI ausgesagt.",
+        "Eine Checkliste für die Einführung produktionsbereiter KI umfasst neun wesentliche Punkte."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "NestJS v12 Roadmap: Full ESM Migration, Standard Schema Validation and Modernised Toolchain",
+          "link": "https://www.infoq.com/news/2026/04/nestjs-12-roadmap-esm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "NestJS has announced a draft pull request for its upcoming v12.0.0 release, scheduled for early Q3 2026. Key changes include a transition from CommonJS to ESM, native Standard Schema support in route decorators, and shifts in testing and linting tools. Vitest will replace Jest, and oxlint will replace ESLint, while Rspack will replace Webpack for bundling. By Daniel Curtis",
+          "published": "Thu, 30 Apr 2026 16:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "DSA-Bilanz: Wie deutsche Nutzer 2025 die Internet-Riesen herausforderten",
+          "link": "https://www.heise.de/news/DSA-Bilanz-Wie-deutsche-Nutzer-2025-die-Internet-Riesen-herausforderten-11278870.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Über 2000 Beschwerden und Millionen-Bußgelder gegen X & Co.: Der Koordinator für digitale Dienste zieht Bilanz und erklärt, wie er für Ordnung im Netz sorgt.",
+          "published": "2026-04-30T18:22:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Pimeyes: Klage gegen Hamburger Datenschutzbehörde",
+          "link": "https://www.golem.de/news/dsgvo-verstoss-klage-gegen-hamburger-datenschutzbehoerde-2604-208212.html",
+          "summary": "Die Hamburger Datenschutzbehörde hat bei Gesichtserkennungs-Anbieter Pimeyes zwar DSGVO-Verstöße festgestellt, aber nichts unternommen. ( DSGVO , Datenschutz )",
+          "published": "2026-04-30T16:45:03+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "AI Compute Extension: AMD und Intel stellen x86-Matrixerweiterung vor",
+          "link": "https://www.golem.de/news/ai-compute-extension-amd-und-intel-stellen-x86-matrixerweiterung-vor-2604-208192.html",
+          "summary": "Ace erinnert an Intels AMX, kann aber flexibler implementiert werden. Es soll die Standardmatrixerweiterung für x86-CPUs werden. ( Prozessor , AMD )",
+          "published": "2026-04-30T11:49:03+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
+          "summary": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big. Jared \"James Brickhouse\" Birchall, Musk's finance guy and all-around fixer, took the stand after Musk today. Most of his testimony was [&#8230;]",
+          "published": "2026-04-30T18:59:51-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Die EU-Tech-Regulierung zeigt Fortschritte durch die Bilanz des Digital Services Act (DSA), der Beschwerden gegen große Internetunternehmen dokumentiert. Gleichzeitig gibt es rechtliche Auseinandersetzungen im Bereich Datenschutz, wie im Fall von Pimeyes, während neue Technologien von Unternehmen wie AMD und Intel vorgestellt werden.",
+      "highlights": [
+        "Über 2000 Beschwerden gegen Internet-Riesen im Rahmen des DSA.",
+        "Pimeyes wurde von der Hamburger Datenschutzbehörde wegen DSGVO-Verstößen kritisiert.",
+        "AMD und Intel präsentieren eine neue x86-Matrixerweiterung zur Verbesserung von Rechenleistung."
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "Driving and Measuring the Impact of Platform Engineering",
+          "link": "https://www.infoq.com/news/2026/04/measure-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Platform engineering has to be approached from a socio-technical perspective, and shaped by all stakeholders, not just developers, Sergiu Petean said in his talk Driving the Future of Insurance through Platform Engineering. Platform success depends on written principles that endure change while embracing change as the main design force, to enable teams to build, run, and release software. By Ben Linders",
+          "published": "Thu, 30 Apr 2026 11:22:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Platform Engineering sollte aus einer sozio-technischen Perspektive betrachtet werden, wobei alle Stakeholder, nicht nur Entwickler, einbezogen werden müssen. Der Erfolg von Plattformen hängt von beständigen Prinzipien ab, die Veränderungen annehmen und Teams unterstützen, Software zu entwickeln, zu betreiben und bereitzustellen.",
+      "highlights": [
+        "Sergiu Petean betont die Bedeutung aller Stakeholder für den Erfolg von Platform Engineering.",
+        "Schriftliche Prinzipien sind entscheidend, um Veränderungen zu ermöglichen und zu steuern.",
+        "Platform Engineering fördert die Fähigkeit von Teams, Software effizient zu bauen, zu betreiben und zu veröffentlichen."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Fake-Shops mit KI: So schützt du dich vor der neuen Betrugsgeneration",
+          "link": "https://t3n.de/news/fake-shops-mit-ki-so-schuetzt-du-dich-vor-der-neuen-betrugsgeneration-1740623/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Fake-Shops sind kein neues Phänomen. Neu ist aber, wie gut sie geworden sind. Denn KI-generierte Betrugsseiten erreichen inzwischen ein Niveau, das selbst erfahrene Online-Käufer täuscht. weiterlesen auf t3n.de",
+          "published": "Fri, 1 May 2026 08:00:35 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Windows 95 auf dem Smartphone: Diese kostenlose App macht den Retro-Look möglich",
+          "link": "https://t3n.de/news/windows-95-smartphone-app-1740075/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn du mit deinem Smartphone für erstaunte Blicke sorgen willst, lohnt sich der Griff zu einem besonderen Tool. Denn damit kannst du dein Smartphone wie einen alten Windows-95-PC aussehen lassen. Was du dabei beachten musst. weiterlesen auf t3n.de",
+          "published": "Fri, 1 May 2026 07:15:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "EU-Vorgabe: Wie dein Gehalt bald vergleichbar wird – und warum das manche Chefs in Erklärungsnot bringt",
+          "link": "https://t3n.de/news/eu-gehaltstransparenz-vergleichbar-chefs-erklaerungsnot-1740293/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Arbeitsmarkt bekommt ein Update und die Zeiten, in denen Unternehmen mit Formulierungen wie „attraktives Gehalt“ durchkamen, neigen sich dem Ende zu. Mit der Umsetzung der EU-Entgelttransparenzrichtlinie wird aus einer vagen Versprechung eine konkrete Zahl. Das könnte für viele Unternehmen zum Problem werden. weiterlesen auf t3n.de",
+          "published": "Fri, 1 May 2026 06:15:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "NVIDIA Launches Ising Open Models for Quantum Computing",
+          "link": "https://www.infoq.com/news/2026/04/nvidia-ising-quantum/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "NVIDIA has announced a new family of open models called NVIDIA Ising, designed to address quantum processor calibration and quantum error correction. These are two of the main engineering challenges limiting the scalability of current quantum systems, where noise and instability in qubits reduce the reliability of computations. By Daniel Dominguez",
+          "published": "Thu, 30 Apr 2026 20:44:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "In motorsport, there's nowhere to hide as AI becomes new CFD tool",
+          "link": "https://arstechnica.com/cars/2026/04/in-motorsport-theres-nowhere-to-hide-as-ai-becomes-new-cfd-tool/",
+          "summary": "AI finds value in motorsport, multiplying limited computational fluid dynamics resources.",
+          "published": "Thu, 30 Apr 2026 15:37:41 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Die Software Supply Chain wird zunehmend durch Open-Source-Modelle und KI-Technologien beeinflusst. Unternehmen müssen sich sowohl vor Betrugsversuchen durch KI-generierte Fake-Shops schützen als auch die Herausforderungen der Software-Transparenz und -Sicherheit meistern.",
+      "highlights": [
+        "NVIDIA hat Ising Open Models für Quantencomputing zur Verbesserung der Quantenfehlerkorrektur vorgestellt.",
+        "Fake-Shops nutzen KI, um täuschend echte Betrugsseiten zu erstellen, die selbst erfahrene Käufer überlisten können.",
+        "Die EU-Entgelttransparenzrichtlinie zwingt Unternehmen, klare Gehaltsangaben zu machen, was zu Herausforderungen für viele Arbeitgeber führt."
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Windows 11: Microsoft setzt wieder auf native Anwendungen",
+          "link": "https://www.golem.de/news/windows-11-microsoft-setzt-wieder-auf-native-anwendungen-2604-208179.html",
+          "summary": "Microsoft plant eine Abkehr von Web-Apps für Windows 11. Native Anwendungen sollen die Performance und Effizienz des Systems steigern. ( Windows 11 , Microsoft )",
+          "published": "2026-04-30T09:03:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Microsoft plant, bei Windows 11 verstärkt auf native Anwendungen zu setzen, um die Performance und Effizienz des Systems zu verbessern. Dies markiert eine Abkehr von der bisherigen Fokussierung auf Web-Apps.",
+      "highlights": [
+        "Native Anwendungen sollen die Systemleistung steigern.",
+        "Die Abkehr von Web-Apps zielt auf höhere Effizienz ab.",
+        "Windows 11 wird somit ressourcenschonender gestaltet."
+      ]
+    }
+  ]
+}
