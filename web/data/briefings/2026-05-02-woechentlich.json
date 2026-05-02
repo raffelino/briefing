@@ -1,0 +1,522 @@
+{
+  "date": "2026-05-02",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "DuckLake 1.0: Data Lake Format with SQL Catalog Metadata",
+          "link": "https://www.infoq.com/news/2026/05/ducklake-sql-catalog/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "DuckDB Labs recently released DuckLake 1.0, a data lake format that stores table metadata in a SQL database rather than across many files in object storage. The first implementation is available as a DuckDB extension and includes catalog-stored small updates, improved sorting and partitioning options, and compatibility with Iceberg-style data features. By Renato Losio",
+          "published": "Sat, 02 May 2026 06:48:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "(g+) Ducklake: Eine skalierbare Lakehouse-Umgebung aufbauen",
+          "link": "https://www.golem.de/news/ducklake-eine-skalierbare-lakehouse-umgebung-aufbauen-2605-208142.html",
+          "summary": "Ducklake schließt die Lücke zwischen Data Lakes und Lakehouse-Systemen. In Teil 3 unserer Reihe verbinden wir es mit Datenspeicher und Metadatenbank. Eine Anleitung von Antony Ghiroz ( Eintauchen in Ducklake , SQL )",
+          "published": "2026-05-02T10:00:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In dieser Woche wurden bedeutende Fortschritte im Bereich Data Lakes und Lakehouse-Systeme vorgestellt. DuckDB Labs hat DuckLake 1.0 veröffentlicht, ein neues Format, das Metadaten in einer SQL-Datenbank speichert und somit die Effizienz bei der Verwaltung von Daten erhöht. Gleichzeitig wird in einer Anleitung auf Golem.de erläutert, wie Ducklake als skalierbare Umgebung zwischen Data Lakes und Lakehouses fungiert. Diese Entwicklungen zeigen einen klaren Trend hin zu integrierten Lösungen, die sowohl Flexibilität als auch Leistungsfähigkeit bieten.",
+      "highlights": [
+        "DuckLake 1.0 speichert Tabellenmetadaten in einer SQL-Datenbank.",
+        "Die erste Implementierung ist als DuckDB-Erweiterung verfügbar.",
+        "Verbesserte Sortier- und Partitionierungsoptionen sind enthalten.",
+        "Ducklake verbindet Data Lakes und Lakehouse-Systeme.",
+        "Anleitung zur Integration von Datenspeicher und Metadatenbank veröffentlicht."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Fresh data has us asking, does AI demand Kubernetes?",
+          "link": "https://thenewstack.io/does-ai-demand-kubernetes/",
+          "summary": "Kubernetes is becoming the de facto operating system for AI. Two-thirds of organizations running generative AI models use Kubernetes for The post Fresh data has us asking, does AI demand Kubernetes? appeared first on The New Stack .",
+          "published": "Fri, 01 May 2026 20:18:11 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "How SUSE positions itself as the infrastructure layer for the AI era",
+          "link": "https://thenewstack.io/suse-ai-infrastructure-kubernetes/",
+          "summary": "For this edition of The New Stack Makers, we sat down with Pete Smails, SVP and general manager for cloud-native The post How SUSE positions itself as the infrastructure layer for the AI era appeared first on The New Stack .",
+          "published": "Fri, 01 May 2026 20:16:22 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Amazon stuck with months of repairs after drone strikes on data centers",
+          "link": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
+          "summary": "AWS stops billing Middle East cloud customers as repairs to war damage drag on.",
+          "published": "Fri, 01 May 2026 17:09:59 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Entspannt von zu Hause arbeiten: 8 nützliche Smarthome-Automationen fürs Homeoffice",
+          "link": "https://t3n.de/news/entspannt-zuhause-arbeit-smarthome-homeoffice-1738162/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn du im Homeoffice arbeitest, können dich viele Kleinigkeiten von der Arbeit abhalten und dich stören. Damit du dir eine möglichst angenehme und störungsfreie Umgebung schaffst, kannst du ein Smarthome einsetzen – und so viele anfallende Aufgaben automatisieren. weiterlesen auf t3n.de",
+          "published": "Fri, 1 May 2026 18:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Article: Securing Autonomous AI Agents on Kubernetes: Trust Boundaries, Secrets, and Observability for a New Category of Cloud Workload",
+          "link": "https://www.infoq.com/articles/securing-autonomous-ai-agents-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Autonomous AI agents break Kubernetes security assumptions with dynamic dependencies, multi-domain credentials, and unpredictable resource use. This article covers production-tested patterns: Job-based isolation, Vault for scoped short-lived credentials, a four-phase trust model from shadow mode to autonomous operation, and observability for non-deterministic reasoning cycles. By Nik Kale",
+          "published": "Fri, 01 May 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Broadcom Donates Velero to CNCF, Shifting Kubernetes Backup to Community Governance",
+          "link": "https://www.infoq.com/news/2026/05/broadcom-velero-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Broadcom has announced the contribution of Velero, its Kubernetes-native backup, restore and migration project, to the Cloud Native Computing Foundation (CNCF) as a Sandbox project. Velero It operates at the Kubernetes API layer, capturing cluster state through Custom Resource Definitions (CRDs) rather than through hypervisor or storage-layer snapshots. By Matt Saunders",
+          "published": "Fri, 01 May 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
+          "link": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
+          "summary": "\"We had serious inbound attempts to the cosmodrome that day.\"",
+          "published": "Thu, 30 Apr 2026 21:35:02 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+          "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+          "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+          "published": "Thu, 30 Apr 2026 20:20:48 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "In dieser Woche stand die Rolle von Kubernetes in der Cloud-Architektur und der KI-Entwicklung im Fokus. Zwei Drittel der Unternehmen, die generative KI-Modelle nutzen, setzen auf Kubernetes, was dessen Bedeutung als Betriebssystem für KI unterstreicht. Zudem hat Broadcom Velero an die CNCF übergeben, was die Community-Governance von Kubernetes-Backup-Lösungen stärkt. Sicherheitsaspekte wurden ebenfalls thematisiert, insbesondere im Zusammenhang mit autonomen KI-Agenten und neuen Bedrohungen für Linux-Umgebungen.",
+      "highlights": [
+        "Zwei Drittel der Unternehmen, die generative KI-Modelle nutzen, setzen auf Kubernetes.",
+        "Broadcom hat Velero an die CNCF als Sandbox-Projekt übergeben.",
+        "Autonome KI-Agenten stellen die Sicherheitsannahmen von Kubernetes in Frage.",
+        "AWS stoppt die Abrechnung für Kunden im Nahen Osten aufgrund von Kriegsschäden an Rechenzentren.",
+        "CopyFail bedroht Multi-Tenant-Server und Kubernetes-Container."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "JobRunr Introduces ClawRunr, an Open-Source Java AI Agent",
+          "link": "https://www.infoq.com/news/2026/05/clawrunr/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "JobRunr has introduced ClawRunr, an open-source Java AI agent for scheduled, recurring, and one-off background tasks. Formerly JavaClaw, it runs on users' hardware and combines conversational interaction with persistent task execution, MCP tools, browser automation, and web, Telegram, and Discord channels, while using JobRunr for scheduling, retries, and monitoring. By Diogo Carleto",
+          "published": "Fri, 01 May 2026 15:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Vitest 4.1: Test Tags, Native Node.js Execution and AI Agent Reporter",
+          "link": "https://www.infoq.com/news/2026/05/vitest-4-1-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Vitest 4.1, developed by VoidZero, enhances JavaScript testing with features like test tags for filtering and configuring tests, an experimental mode to bypass Vite's module runner, and new lifecycle hooks. It supports Vite 8 from the start. Notably, it reports improvements in performance compared to Jest. The release addresses issues and provides guides for migration. By Daniel Curtis",
+          "published": "Fri, 01 May 2026 09:03:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Assertion Libraries für Java: AssertJ versus Google Truth",
+          "link": "https://www.heise.de/hintergrund/Assertion-Libraries-fuer-Java-AssertJ-versus-Google-Truth-11260088.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Beim Formulieren von Assertions kommt JUnit schnell an Grenzen. Die Libraries AssertJ und Google Truth bieten neue Möglichkeiten und eine bessere Lesbarkeit.",
+          "published": "2026-05-02T09:36:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Assertion Libraries für Java: AssertJ versus Google Truth",
+          "link": "https://www.heise.de/hintergrund/Assertion-Libraries-fuer-Java-AssertJ-versus-Google-Truth-11260088.html",
+          "summary": "Beim Formulieren von Assertions kommt JUnit schnell an Grenzen. Die Libraries AssertJ und Google Truth bieten neue Möglichkeiten und eine bessere Lesbarkeit.",
+          "published": "2026-05-02T07:36:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In der vergangenen Woche wurden bedeutende Entwicklungen in der Software-Architektur und Java-Umgebung bekannt. JobRunr stellte ClawRunr vor, einen Open-Source-Java-AI-Agenten, der für Hintergrundaufgaben konzipiert ist. Zudem wurden neue Erkenntnisse zu Assertion Libraries präsentiert, die die Lesbarkeit und Funktionalität von Assertions in Java verbessern. Diese Trends zeigen ein wachsendes Interesse an Automatisierung und verbesserten Testmethoden in der Java-Entwicklung.",
+      "highlights": [
+        "JobRunr führt ClawRunr ein, einen Open-Source-Java-AI-Agenten für Hintergrundaufgaben.",
+        "ClawRunr kombiniert konversationelle Interaktion mit persistenter Aufgabenausführung und Browser-Automatisierung.",
+        "Vitest 4.1 verbessert JavaScript-Tests mit neuen Funktionen wie Test-Tags und Lifecycle-Hooks.",
+        "AssertJ und Google Truth bieten erweiterte Möglichkeiten zur Formulierung von Assertions in Java.",
+        "Die neuen Libraries verbessern die Lesbarkeit und überwinden die Grenzen von JUnit."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Altman gegen Anthropic: OpenAI-Chef wirft Konkurrent Panikmache vor",
+          "link": "https://t3n.de/news/altman-gegen-anthropic-openai-chef-wirft-konkurrent-panikmache-vor-1740759/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Weil Claude Mythos fatale Auswirkungen auf die IT-Sicherheit haben könnte, hält Anthropic sein neues KI-Modell unter Verschluss. Will der Anbieter damit Ängste schüren – oder für Sicherheit sorgen? weiterlesen auf t3n.de",
+          "published": "Fri, 1 May 2026 22:38:22 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
+          "link": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
+          "summary": "New results suggest Mythos' cyber threat isn't \"a breakthrough specific to one model.\"",
+          "published": "Fri, 01 May 2026 15:32:27 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Phishing auf Signal: Bundestag und Bundesregierung erst im Februar vor Attacke gewarnt",
+          "link": "https://netzpolitik.org/2026/phishing-auf-signal-bundestag-und-bundesregierung-erst-im-februar-vor-attacke-gewarnt/",
+          "summary": "Auch Bundesbauministerin Verena Hubertz (SPD) soll zu den Opfern der Phishing-Kampagne auf Signal gehören. – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Obwohl die gezielte Phishing-Kampagne Nutzer des Messengers Signal schon seit September 2025 ins Visier nimmt, haben deutsche Behörden erst im Februar Alarm geschlagen. Wann Mitglieder des Bundeskabinetts betroffen waren, möchte jetzt niemand verraten.",
+          "published": "Tue, 28 Apr 2026 15:30:07 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Auf den Punkt: Phishing ist technologieneutral.",
+          "link": "https://netzpolitik.org/2026/auf-den-punkt-phishing-ist-technologieneutral/",
+          "summary": "Liebe Leser:innen, die Bundestagsvizepräsidentin Andrea Lindholz (CSU) will, dass Abgeordnete nicht mehr den Messenger Signal nutzen, weil einige hochrangige Politiker:innen einem Phishing-Angriff auf den Leim gegangen sind. Dabei ist doch das Prinzip von Phishing bei allen möglichen Kommunikationsmedien gleich. Mein Kollege Markus hat das kommentiert. Besser wäre es jetzt zu überlegen, wie man Menschen befähigt, […]",
+          "published": "Mon, 27 Apr 2026 14:12:20 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Phishing auf Signal: Unkenntnis allerorten",
+          "link": "https://netzpolitik.org/2026/phishing-signal-unkenntnis-allerorten/",
+          "summary": "Die Phishing-Attacke auf Signal-Nutzer:innen aus dem Politikbetrieb ist offenbar sehr erfolgreich. – Alle Rechte vorbehalten: IMAGO / Sven Simon Je größer das Ausmaß der Phishing-Attacke, desto mehr Unsinn gerät in die Debatte. Dabei sind die wichtigsten Fragen doch: Wie hätten Regierung und Parlament geschützt werden können und gab es Versäumnisse der Behörden? Ein Kommentar.",
+          "published": "Mon, 27 Apr 2026 10:47:53 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Signal-Angriffe: Politische Realität beißt den IT-Admin",
+          "link": "https://www.heise.de/hintergrund/Signal-Angriffe-Politische-Realitaet-beisst-den-IT-Admin-11278948.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Erfolgreiche Phishing-Attacken auf Signal zeigen: Politik ist kein Konzern. Die IT-Strukturen im Bundestag sind komplex und durch das freie Mandat begrenzt.",
+          "published": "2026-05-01T16:46:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anthropic startet öffentliche Beta von Claude Security für Unternehmen",
+          "link": "https://www.heise.de/news/Claude-Security-Anthropic-bringt-KI-Schwachstellenscanner-fuer-Unternehmen-11279018.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Anthropic schickt Claude Security in den öffentlichen Beta-Test. Es scannt Code auf Schwachstellen, schlägt Patches vor und soll bei Sicherheit streng sein.",
+          "published": "2026-04-30T23:05:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anthropic startet öffentliche Beta von Claude Security für Unternehmen",
+          "link": "https://www.heise.de/news/Claude-Security-Anthropic-bringt-KI-Schwachstellenscanner-fuer-Unternehmen-11279018.html",
+          "summary": "Anthropic schickt Claude Security in den öffentlichen Beta-Test. Es scannt Code auf Schwachstellen, schlägt Patches vor und soll bei Sicherheit streng sein.",
+          "published": "2026-04-30T21:05:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In der vergangenen Woche stand die IT-Sicherheit im Fokus, insbesondere im Zusammenhang mit Phishing-Angriffen auf den Messenger Signal, die hochrangige Politiker betrafen. Während die Bundesregierung erst spät auf die Bedrohung reagierte, wurde die Notwendigkeit von Sicherheitsmaßnahmen und Sensibilisierung der Nutzer deutlich. Zudem kündigte Anthropic die öffentliche Beta von Claude Security an, einem Tool zur Identifizierung von Schwachstellen im Code. Die Debatte um die Sicherheit von KI-Modellen, insbesondere im Kontext von OpenAI und Anthropic, zeigt die wachsende Besorgnis über potenzielle Risiken in der Cybersecurity.",
+      "highlights": [
+        "Phishing-Angriffe auf Signal seit September 2025 aktiv.",
+        "Bundesregierung warnte erst im Februar vor den Angriffen.",
+        "Anthropic startet öffentliche Beta von Claude Security zur Code-Analyse.",
+        "OpenAI-Chef Altman kritisiert Anthropic wegen Panikmache.",
+        "GPT-5.5 zeigt in Tests keine spezifischen Bedrohungen durch Mythos."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Überwachungspaket: Diese Sicherheitspolitik gefährdet uns alle",
+          "link": "https://netzpolitik.org/2026/ueberwachungspaket-diese-sicherheitspolitik-gefaehrdet-uns-alle/",
+          "summary": "Kanzler, Innen und Justiz sind im Bild auf einer Linie. – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Wer bei Sicherheit nur an Verbrechensbekämpfung denkt, verliert vieles aus dem Blick. Genau das scheint die aktuelle Bundesregierung mit ihrem Überwachungspaket zu tun, doch das kann gefährlich werden. Ein Kommentar.",
+          "published": "Wed, 29 Apr 2026 12:30:01 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Cyber Resilience Act: BSI wird zum digitalen TÜV für vernetzte Produkte",
+          "link": "https://www.heise.de/news/Cyber-Resilience-Act-BSI-wird-zum-digitalen-TUeV-fuer-vernetzte-Produkte-11278890.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Bundesregierung bringt das Durchführungsgesetz zum Cyber Resilience Act der EU auf den Weg und will das BSI zur zentralen Marktüberwachungsbehörde machen.",
+          "published": "2026-04-30T18:23:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "In dieser Woche standen Themen rund um Sicherheit und digitale Resilienz im Fokus. Die Bundesregierung plant, das BSI zur zentralen Marktüberwachungsbehörde im Rahmen des Cyber Resilience Act zu machen, was die Überwachung und Sicherheit vernetzter Produkte stärken soll. Gleichzeitig wird die neue Sicherheitspolitik der Regierung kritisiert, da sie potenziell die Bürgerrechte gefährden könnte. Diese Entwicklungen zeigen einen klaren Trend hin zu mehr Regulierung und Kontrolle im digitalen Raum, während gleichzeitig die Balance zwischen Sicherheit und Datenschutz gewahrt werden muss.",
+      "highlights": [
+        "Einführung des Cyber Resilience Act zur Stärkung der Produktsicherheit.",
+        "BSI wird zentrale Marktüberwachungsbehörde für vernetzte Produkte.",
+        "Kritik an der neuen Sicherheitspolitik der Bundesregierung.",
+        "Fokus auf digitale Resilienz und Überwachung im Sicherheitsdiskurs.",
+        "Potenzielle Gefahren für Bürgerrechte durch Überwachungspaket."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Reporter ohne Grenzen: Niedergang der Pressefreiheit setzt sich dramatisch fort",
+          "link": "https://netzpolitik.org/2026/reporter-ohne-grenzen-niedergang-der-pressefreiheit-setzt-sich-dramatisch-fort/",
+          "summary": "Demonstrierende fordern in Tiflis die Freilassung von Mzia Amaghlobeli. Ihre Inhaftierung gilt als Symbol für die zunehmende Unterdrückung der Pressefreiheit und regierungskritischer Medien in Georgien. – Alle Rechte vorbehalten: IMAGO / NurPhoto Journalismus wird weltweit immer häufiger kriminalisiert. Auch in demokratischen Ländern. Zum ersten Mal fallen in der Rangliste von Reporter ohne Grenzen über die Hälfte aller Länder in die schlechtesten Kategorien. Trump hat dabei einen weltweiten Negativ-Effekt auf die Pressefreiheit.",
+          "published": "Thu, 30 Apr 2026 15:12:19 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "KI-Skandale, Modeberater und Bridges' Comeback – Fotonews der Woche 18/2026",
+          "link": "https://www.heise.de/news/KI-Skandale-Modeberater-und-Bridges-Comeback-Fotonews-der-Woche-18-2026-11278355.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Hasselblad und Tokina blamieren sich mit KI-Bildern in Wettbewerben, Google macht Fotos zum Stylisten und Jeff Bridges' Widelux-Revival kann vorbestellt werden.",
+          "published": "2026-05-02T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot:  c’t-Webinar: Tschüss Windows, hallo Linux!",
+          "link": "https://www.heise.de/news/c-t-Webinar-Tschuess-Windows-hallo-Linux-11276088.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das c’t-Webinar vermittelt die Grundlagen für den Umstieg auf Linux: Auswahl der Distribution, Installation, Software-Verwaltung und Alltagsnutzung.",
+          "published": "2026-05-01T13:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "„Copy Fail“: Linux-root in allen großen Distributionen mit 732 Byte Python",
+          "link": "https://www.heise.de/news/Copy-Fail-Linux-root-in-allen-grossen-Distributionen-mit-732-Byte-Python-11277590.html",
+          "summary": "Die Entdecker haben die root-Lücke im Linux-Kernel „Copy Fail“ getauft. Alle größeren Distributionen seit 2017 sind betroffen.",
+          "published": "2026-04-30T07:06:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In der vergangenen Woche wurde der dramatische Rückgang der Pressefreiheit weltweit thematisiert, wobei über die Hälfte der Länder in den schlechtesten Kategorien eingestuft wurden. Dies steht im Kontrast zu den technologischen Entwicklungen, die sowohl Herausforderungen als auch Chancen bieten. Insbesondere die Diskussion um KI in der Fotografie und die zunehmende Nutzung von Linux als Alternative zu Windows zeigen, wie agile Methoden und innovative Ansätze in verschiedenen Bereichen Einzug halten. Die Kombination aus technologischem Fortschritt und gesellschaftlichen Herausforderungen prägt die aktuelle Nachrichtenlage.",
+      "highlights": [
+        "Über 50% der Länder in der Rangliste von Reporter ohne Grenzen fallen in die schlechtesten Kategorien.",
+        "In Tiflis demonstrieren Menschen für die Freilassung von Mzia Amaghlobeli.",
+        "Hasselblad und Tokina stehen wegen KI-Bildern in der Kritik.",
+        "Ein Webinar zu Linux vermittelt Grundlagen für den Umstieg von Windows.",
+        "Die 'Copy Fail'-Lücke betrifft alle großen Linux-Distributionen seit 2017."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Cursor-Desaster: KI-Tool löscht komplette Datenbank eines Startups in 9 Sekunden",
+          "link": "https://t3n.de/news/cursor-ki-agent-loescht-datenbank-startup-pocketos-1740146/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI-Agenten sollen die Produktivität steigern. Aber die Praxis zeigt: Sie sind noch lange nicht perfekt. Beim Startup PocketOS hat ein Agent kürzlich für einen massiven Ausfall gesorgt – und seinen Fehler gestanden. weiterlesen auf t3n.de",
+          "published": "Sat, 2 May 2026 09:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Projekte scheitern nicht an Daten – sondern an einer unbequemen Frage im Meeting",
+          "link": "https://t3n.de/news/ki-projekte-scheitern-daten-1739243/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die meisten Projekte beginnen gleich. Ein Unternehmen zeigt seine KI-Roadmap – ambitioniert, detailliert, gut finanziert. Doch dann kommt die eine Frage: „Woher kommen die Daten, und wem gehören sie?&#8220; Im Raum wird es still. weiterlesen auf t3n.de",
+          "published": "Sat, 2 May 2026 08:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI plant offenbar eigenes Smartphone – und könnte Apple und Samsung gefährlich werden",
+          "link": "https://t3n.de/news/openai-smartphone-apple-samsung-konkurrenz-1740145/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "OpenAI arbeitet anscheinend an einem eigenen Smartphone, welches einem Analysten zufolge hohen Impact auf den Markt haben könnte. Im Mittelpunkt stehen demnach nicht mehr Apps, sondern KI-Agenten. weiterlesen auf t3n.de",
+          "published": "Sat, 2 May 2026 07:20:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Erzwungene „Grenzpartnerschaft“: EU-Kommission will US-Behörden erlauben, politische Ansichten und „Herkunft“ abzufragen",
+          "link": "https://netzpolitik.org/2026/erzwungene-grenzpartnerschaft-eu-kommission-will-us-behoerden-erlauben-politische-ansichten-und-herkunft-abzufragen/",
+          "summary": "US-Behörden sollen Zugriff auf jede Menge Daten von Einreisenden bekommen. – Alle Rechte vorbehalten: IMAGO / ZUMA Press Wire Laut dem nun vorliegenden Entwurf eines Rahmenabkommens über eine „Grenzpartnerschaft“ mit der Trump-Administration dürfen US-Behörden in EU-Staaten nicht nur Gesichtsbilder, sondern auch Namen, Gesundheitsdaten oder sexuelle Orientierung in Polizeidatenbanken abfragen.",
+          "published": "Sat, 02 May 2026 05:14:38 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "AI agents are running wild on developer machines. Incredibuild has a fix.",
+          "link": "https://thenewstack.io/incredibuild-ai-agents-sandbox-coding/",
+          "summary": "Somewhere out there, a developer is walking around with their laptop half-open, so their AI coding agent doesn&#8217;t die. That&#8217;s The post AI agents are running wild on developer machines. Incredibuild has a fix. appeared first on The New Stack .",
+          "published": "Fri, 01 May 2026 20:21:31 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Der Prozess beginnt: Was der Streit von Musk und Altman für die KI-Branche bedeutet",
+          "link": "https://t3n.de/news/der-prozess-beginnt-was-der-streit-von-musk-und-altman-fuer-die-ki-branche-bedeutet-1740755/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Elon Musk hat seinen ehemaligen Mitgründer wegen Betrug verklagt. Das Ergebnis wird mit Spannung erwartet, denn es könnte weit mehr als Altmans Job oder den von OpenAI geplanten Börsengang gefährden. weiterlesen auf t3n.de",
+          "published": "Fri, 1 May 2026 20:23:23 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mistral, Europe’s answer to OpenAI and Anthropic, pushes its coding agents to the cloud",
+          "link": "https://thenewstack.io/mistral-vibe-cloud-agents/",
+          "summary": "Countless companies are capitalizing on the AI boom, building everything from coding assistants to customer support bots. But only a The post Mistral, Europe’s answer to OpenAI and Anthropic, pushes its coding agents to the cloud appeared first on The New Stack .",
+          "published": "Fri, 01 May 2026 14:46:14 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Meta Deploys Unified AI Agents to Automate Performance Optimization at Hyperscale",
+          "link": "https://www.infoq.com/news/2026/05/meta-ai-agents-hyperscale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Meta has unveiled a new AI-driven capacity efficiency platform that uses unified AI agents to automatically detect and resolve performance issues across its global infrastructure, marking a significant step toward self-optimizing systems at hyperscale. By Craig Risi",
+          "published": "Fri, 01 May 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "In der vergangenen Woche wurde deutlich, dass generative KI und LLMs sowohl Chancen als auch Herausforderungen mit sich bringen. Während Unternehmen wie OpenAI und Mistral an innovativen Lösungen arbeiten, zeigen Vorfälle wie der Datenverlust bei PocketOS die Risiken im Umgang mit KI-Agenten. Zudem wird die Diskussion um Datenbesitz und -zugang in KI-Projekten immer drängender. Der Streit zwischen Elon Musk und Sam Altman könnte weitreichende Folgen für die gesamte Branche haben.",
+      "highlights": [
+        "PocketOS verlor durch einen KI-Agenten in 9 Sekunden die gesamte Datenbank.",
+        "OpenAI plant ein eigenes Smartphone, das den Markt beeinflussen könnte.",
+        "Der Streit zwischen Musk und Altman könnte den Börsengang von OpenAI gefährden.",
+        "Meta setzt auf KI-Agenten zur automatischen Leistungsoptimierung in seiner Infrastruktur."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Gold im Erdmantel: Forscher entdecken entscheidenden Prozess im Meeresboden",
+          "link": "https://t3n.de/news/gold-entstehung-erdmantel-meeresboden-1738243/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In bestimmten Zonen der Ozeane, in den Subduktionszonen, reichert sich besonders viel Gold an. Geomar-Forscher haben jetzt Glasproben vom Meeresboden genommen. Sie zeigen, woran das liegen könnte. weiterlesen auf t3n.de",
+          "published": "Sat, 2 May 2026 06:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "NestJS v12 Roadmap: Full ESM Migration, Standard Schema Validation and Modernised Toolchain",
+          "link": "https://www.infoq.com/news/2026/04/nestjs-12-roadmap-esm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "NestJS has announced a draft pull request for its upcoming v12.0.0 release, scheduled for early Q3 2026. Key changes include a transition from CommonJS to ESM, native Standard Schema support in route decorators, and shifts in testing and linting tools. Vitest will replace Jest, and oxlint will replace ESLint, while Rspack will replace Webpack for bundling. By Daniel Curtis",
+          "published": "Thu, 30 Apr 2026 16:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AI Act: Trilog-Verhandlungen über gelockerte KI-Regeln gescheitert",
+          "link": "https://netzpolitik.org/2026/ai-act-trilog-verhandlungen-ueber-gelockerte-ki-regeln-gescheitert/",
+          "summary": "Dem \"Digitalen Omnibus\" geht's nicht gut. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Arno Ryser Die EU will unter hohem Zeitdruck ihre Regeln für Künstliche Intelligenz aufweichen. Nun sind eigentlich abschließende Verhandlungen gescheitert. Alle Beteiligten machen sich gegenseitig Vorwürfe, am Ende könnten Regeln zum besseren Schutz vor KI-generierten Nacktbildern unter die Räder geraten.",
+          "published": "Wed, 29 Apr 2026 16:38:16 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Bilanz zum Digital Markets Act: EU-Digitalgesetz ist kein Selbstläufer",
+          "link": "https://netzpolitik.org/2026/bilanz-zum-digital-markets-act-eu-digitalgesetz-ist-kein-selbstlaeufer/",
+          "summary": "Der DMA soll die Macht großer Tech-Konzerne einschränken. Ganz gelingt dies dem EU-Digitalgesetz jedoch nicht. – Alle Rechte vorbehalten: IMAGO / ZUMA Press Wire Erstmals hat die EU-Kommission überprüft, wie sich der Digital Markets Act in der Praxis bewährt hat. In einem Bericht stellt sie dem EU-Digitalgesetz ein gutes Zeugnis aus. Ganz rosig ist die Lage jedoch nicht.",
+          "published": "Wed, 29 Apr 2026 13:45:29 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "EU vs. Meta: Facebook und Instagram sollen härter gegen Kinder-Accounts vorgehen",
+          "link": "https://netzpolitik.org/2026/eu-vs-meta-facebook-und-instagram-sollen-haerter-gegen-kinder-accounts-vorgehen/",
+          "summary": "EU-Vizepräsidentin Henna Virkkunen bei der Vorstellung der Altersverifikations-App im April 2026. – Alle Rechte vorbehalten: IMAGO / Anadolu Agency Die EU-Kommission wirft Meta vor, Kinder unter 13 Jahren nicht wirksam von Instagram und Facebook fernzuhalten und damit gegen den Digital Services Act zu verstoßen. Vizepräsidentin Henna Virkkunen stellte heute parallel neue Leitlinien für den Einsatz der Altersverifikations-App der Kommission vor.",
+          "published": "Wed, 29 Apr 2026 11:43:08 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "DSA-Bilanz: Wie deutsche Nutzer 2025 die Internet-Riesen herausforderten",
+          "link": "https://www.heise.de/news/DSA-Bilanz-Wie-deutsche-Nutzer-2025-die-Internet-Riesen-herausforderten-11278870.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Über 2000 Beschwerden und Millionen-Bußgelder gegen X & Co.: Der Koordinator für digitale Dienste zieht Bilanz und erklärt, wie er für Ordnung im Netz sorgt.",
+          "published": "2026-04-30T18:22:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Pimeyes: Klage gegen Hamburger Datenschutzbehörde",
+          "link": "https://www.golem.de/news/dsgvo-verstoss-klage-gegen-hamburger-datenschutzbehoerde-2604-208212.html",
+          "summary": "Die Hamburger Datenschutzbehörde hat bei Gesichtserkennungs-Anbieter Pimeyes zwar DSGVO-Verstöße festgestellt, aber nichts unternommen. ( DSGVO , Datenschutz )",
+          "published": "2026-04-30T16:45:03+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "AI Compute Extension: AMD und Intel stellen x86-Matrixerweiterung vor",
+          "link": "https://www.golem.de/news/ai-compute-extension-amd-und-intel-stellen-x86-matrixerweiterung-vor-2604-208192.html",
+          "summary": "Ace erinnert an Intels AMX, kann aber flexibler implementiert werden. Es soll die Standardmatrixerweiterung für x86-CPUs werden. ( Prozessor , AMD )",
+          "published": "2026-04-30T11:49:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In dieser Woche standen die EU-Tech-Regulierungen im Fokus, insbesondere die Herausforderungen und Fortschritte im Bereich Künstliche Intelligenz und Digital Markets. Die gescheiterten Trilog-Verhandlungen zum AI Act zeigen den Druck auf die EU, während der Digital Markets Act eine gemischte Bilanz zieht. Zudem wird Meta aufgefordert, Kinderkonten strenger zu regulieren, was die Einhaltung des Digital Services Act betrifft. Die Diskussionen um Datenschutz und die Verantwortung von Tech-Unternehmen bleiben weiterhin zentral.",
+      "highlights": [
+        "Gescheiterte Verhandlungen über gelockerte KI-Regeln im AI Act.",
+        "Positive, aber nicht vollständige Bilanz des Digital Markets Act durch die EU-Kommission.",
+        "Meta wird beschuldigt, Kinder unter 13 Jahren nicht effektiv von Plattformen fernzuhalten.",
+        "Über 2000 Beschwerden gegen große Tech-Unternehmen im Rahmen des Digital Services Act.",
+        "DSGVO-Verstöße bei Pimeyes festgestellt, jedoch ohne Maßnahmen der Hamburger Datenschutzbehörde."
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "Driving and Measuring the Impact of Platform Engineering",
+          "link": "https://www.infoq.com/news/2026/04/measure-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Platform engineering has to be approached from a socio-technical perspective, and shaped by all stakeholders, not just developers, Sergiu Petean said in his talk Driving the Future of Insurance through Platform Engineering. Platform success depends on written principles that endure change while embracing change as the main design force, to enable teams to build, run, and release software. By Ben Linders",
+          "published": "Thu, 30 Apr 2026 11:22:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "How AI transforms your role as a platform engineer",
+          "link": "https://thenewstack.io/platform-engineering-ai-agents/",
+          "summary": "Platform engineering&#8217;s goal has always been to make engineers more self-sufficient without sacrificing standards. The best way to accomplish this The post How AI transforms your role as a platform engineer appeared first on The New Stack .",
+          "published": "Wed, 29 Apr 2026 13:05:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "In der vergangenen Woche wurde die Bedeutung von Platform Engineering aus einer sozial-technischen Perspektive hervorgehoben. Experten betonten, dass der Erfolg von Plattformen nicht nur von Entwicklern abhängt, sondern alle Stakeholder einbeziehen muss. Zudem zeigt sich ein klarer Trend zur Integration von KI, die die Rolle von Platform Engineers transformiert, indem sie Selbstständigkeit fördert, ohne die Einhaltung von Standards zu gefährden.",
+      "highlights": [
+        "Sergiu Petean betont die Notwendigkeit, Plattform Engineering aus einer sozial-technischen Perspektive zu betrachten.",
+        "Erfolgreiche Plattformen basieren auf Prinzipien, die Veränderungen standhalten und gleichzeitig Veränderungen als Designkraft annehmen.",
+        "KI wird zunehmend in Platform Engineering integriert, um die Selbstständigkeit der Ingenieure zu erhöhen.",
+        "Die Einbeziehung aller Stakeholder ist entscheidend für den Erfolg von Plattformen.",
+        "Standards dürfen nicht zugunsten von Selbstständigkeit aufgegeben werden."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "15 Apps, ein Selbstversuch: Wie gut Fossify die Google-Basis-Apps auf dem Pixel ersetzt",
+          "link": "https://t3n.de/news/fossify-test-google-apps-ersetzen-1739361/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Googles Basis-Apps wie Telefon oder Kamera sind perfekt an Android angepasst – und sammeln teilweise fleißig Daten. Fossify ersetzt diese durch Open-Source-Varianten. Aber heißt offen gleich gut? Ein Selbstversuch. weiterlesen auf t3n.de",
+          "published": "Sat, 2 May 2026 09:50:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI verdrängt Einstiegsjobs: Wie eine Ex-Meta-Managerin die GenZ fit machen will",
+          "link": "https://t3n.de/news/ki-verdr%c3%a4ngt-einstiegsjobs-genz-fit-machen-1739942/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "20 Jahre lang arbeitete Clara Shih mit KI. Jetzt hat die ehemalige KI-Managerin von Meta und Salesforce ihren Job aufgegeben und engagiert sich für junge Jobsuchende. Ihre New Work Foundation soll die GenZ für KI-dominierte Arbeitsplätze trainieren. weiterlesen auf t3n.de",
+          "published": "Sat, 2 May 2026 08:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KW 18: Die Woche, in der fast niemand vom Überwachungspaket sprach",
+          "link": "https://netzpolitik.org/2026/kw-18-die-woche-in-der-fast-niemand-vom-ueberwachungspaket-sprach/",
+          "summary": "Die 18. Kalenderwoche geht zu Ende. Wir haben 15 neue Texte mit insgesamt 107.920 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 02 May 2026 05:19:49 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Auf den Punkt: Der digitale Euro steht unter Druck.",
+          "link": "https://netzpolitik.org/2026/auf-den-punkt-der-digitale-euro-steht-unter-druck/",
+          "summary": "Lieber Leser:innen, mit dem digitalen Euro will sich die Europäische Union unabhängig von US-Zahlungsdienstleistern machen. Doch das Vorhaben steht doppelt unter Druck: Zum einen inhaltlich, weil Bankenverbände und Teile der Konservativen lieber einen schwachen D€ wollen. Zum anderen aber auch zeitlich, weil die Europäische Zentralbank schon nächstes Jahr mit einem Pilotprojekt starten und den digitalen […]",
+          "published": "Fri, 01 May 2026 16:26:42 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Confluent Moves Schema IDs to Kafka Headers to Simplify Schema Governance",
+          "link": "https://www.infoq.com/news/2026/05/confluent-kafka-header-schema-id/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Confluent introduces a new approach in Apache Kafka that moves schema IDs from message payloads to record headers, aiming to simplify schema governance and evolution. The update integrates with Schema Registry, improves compatibility across serialization formats, and reduces coupling between data and metadata in event-driven architectures. By Leela Kumili",
+          "published": "Fri, 01 May 2026 14:06:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "US-Forscher bauen Sony-Kopfhörer um – durch KI können sie sehen, was vor dir ist",
+          "link": "https://t3n.de/news/sony-kopfhoerer-ki-kamera-vuebuds-1739090/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Unter dem Namen Vuebuds haben Forschende bestehende Noise-Cancelling-Earbuds von Sony um winzige Kameras ergänzt, die es bei Erkennung von Objekten sogar mit Smart Glasses von Meta aufnehmen können. weiterlesen auf t3n.de",
+          "published": "Fri, 1 May 2026 15:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Flytrap“: Wie bunte Regenschirme Drohnen in die Irre führen können",
+          "link": "https://t3n.de/news/flytrap-bunte-regenschirme-drohnen-irrefuehren-1732027/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Während die Anzahl verdächtiger Drohnenflüge in Deutschland stark zugenommen hat, haben Forscher:innen jetzt herausgefunden, dass sich viele Geräte mit einem simplen Trick täuschen lassen. weiterlesen auf t3n.de",
+          "published": "Fri, 1 May 2026 14:20:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Factory-Reset mit Folgen: Mysteriöser Admin sperrt Samsung-Nutzer aus eigenen Handys aus",
+          "link": "https://t3n.de/news/samsung-galaxy-s22-ultra-ghost-admin-1739830/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hin und wieder ist ein Factory-Reset fürs Smartphone notwendig. Manchen Besitzer:innen eines Samsung-Galaxy-Gerätes wurde dieser allerdings zum Verhängnis. Ihr Telefon war danach gesperrt – von einem mysteriösen Admin. weiterlesen auf t3n.de",
+          "published": "Fri, 1 May 2026 12:25:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "In dieser Woche standen Open Source und Software Supply Chain im Fokus, insbesondere durch den Selbstversuch mit Fossify, der zeigt, wie gut Open-Source-Alternativen zu Google-Apps funktionieren. Zudem wurde die Bedeutung von Schema-Governance in der Event-Driven-Architektur durch Confluents neue Ansätze in Apache Kafka hervorgehoben. Die Diskussion um digitale Währungen, wie den digitalen Euro, verdeutlicht die Herausforderungen der EU im Wettbewerb mit US-Zahlungsdienstleistern. Diese Themen reflektieren die zunehmende Relevanz von Open-Source-Lösungen und Governance in der Softwareentwicklung.",
+      "highlights": [
+        "Fossify ersetzt Google-Basis-Apps durch Open-Source-Varianten.",
+        "Confluent verschiebt Schema-IDs zu Kafka-Headern zur Vereinfachung der Schema-Governance.",
+        "Der digitale Euro steht unter Druck von Bankenverbänden und der EZB.",
+        "Die Anzahl verdächtiger Drohnenflüge in Deutschland nimmt zu."
+      ]
+    }
+  ]
+}
