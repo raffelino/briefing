@@ -1,0 +1,303 @@
+{
+  "date": "2026-05-04",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "(g+) Ducklake: Eine skalierbare Lakehouse-Umgebung aufbauen",
+          "link": "https://www.golem.de/news/ducklake-eine-skalierbare-lakehouse-umgebung-aufbauen-2605-208142.html",
+          "summary": "Ducklake schließt die Lücke zwischen Data Lakes und Lakehouse-Systemen. In Teil 3 unserer Reihe verbinden wir es mit Datenspeicher und Metadatenbank. Eine Anleitung von Antony Ghiroz ( Eintauchen in Ducklake , SQL )",
+          "published": "2026-05-02T10:00:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Ducklake bietet eine skalierbare Lösung, die die Vorteile von Data Lakes und Lakehouse-Systemen kombiniert. In einem aktuellen Artikel wird erläutert, wie Ducklake mit Datenspeichern und Metadatenbanken integriert werden kann.",
+      "highlights": [
+        "Ducklake schließt die Lücke zwischen Data Lakes und Lakehouse-Systemen.",
+        "Der Artikel ist Teil einer Reihe über Ducklake und dessen Integration.",
+        "Verfasst von Antony Ghiroz, der SQL-Expertise einbringt."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Kosmische Hochstapler: Warum manche Sterne ihren Tod nur vortäuschen",
+          "link": "https://t3n.de/news/supernova-impostors-astrophysik-simulation-sterne-1740852/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In den Tiefen des Alls ereignen sich Phänomene, die herkömmliche Modelle der Astrophysik ins Leere laufen lassen. Plötzliche Helligkeitsspitzen suggerieren das Ende eines Sonnenlebens, doch statt zu vergehen, setzen diese Himmelskörper ihre Existenz fort. weiterlesen auf t3n.de",
+          "published": "Sun, 3 May 2026 15:42:32 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Montag: Anthropic-Kampf gegen KI-Leaks, endgültig Schluss für Suchdienst ask.com",
+          "link": "https://www.heise.de/news/Montag-Anthropic-Kampf-gegen-KI-Leaks-endgueltig-Schluss-fuer-Suchdienst-ask-com-11279737.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Folgen des Claude-Code-Leaks + Ende für „Ask Jeeves“ + NASA testet neuen Antrieb für Marsflüge + KI-Agent löscht Firmendaten + Apple entfernt kleinsten Mac mini",
+          "published": "2026-05-04T06:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Cloud-Infrastruktur: AWS-Rechenzentren bleiben nach Drohnenangriffen offline",
+          "link": "https://www.golem.de/news/cloud-infrastruktur-aws-rechenzentren-bleiben-nach-drohnenangriffen-offline-2605-208237.html",
+          "summary": "Amazon Web Services erwartet eine mehrmonatige Reparaturphase für beschädigte Standorte in den VAE und Bahrain. ( AWS , Web Service )",
+          "published": "2026-05-02T12:00:09+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Wire-Chef Schilz: US-Investoren \"haben keinerlei Einfluss auf Wire\"",
+          "link": "https://www.golem.de/news/wire-chef-schilz-kein-produkt-auf-der-welt-bietet-absolute-sicherheit-2605-208222.html",
+          "summary": "Nach den Phishing-Angriffen auf Signal-Nutzer plant der Bundestag einen Wechsel zu Wire. Firmenchef Schilz erläutert die Unterschiede zwischen beiden Messengern. Ein Interview von Friedhelm Greis ( Phishing , Verschlüsselung )",
+          "published": "2026-05-01T11:35:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Cloud-Architektur steht derzeit im Fokus, insbesondere nach den jüngsten Drohnenangriffen auf AWS-Rechenzentren, die eine mehrmonatige Reparaturphase nach sich ziehen. Zudem gibt es Entwicklungen im Bereich der KI und deren Auswirkungen auf Unternehmen und Dienstleistungen.",
+      "highlights": [
+        "AWS-Rechenzentren in den VAE und Bahrain bleiben nach Drohnenangriffen offline.",
+        "Amazon erwartet mehrere Monate für die Reparatur der betroffenen Standorte.",
+        "Der Bundestag plant einen Wechsel zu Wire nach Phishing-Angriffen auf Signal-Nutzer."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Assertion Libraries für Java: AssertJ versus Google Truth",
+          "link": "https://www.heise.de/hintergrund/Assertion-Libraries-fuer-Java-AssertJ-versus-Google-Truth-11260088.html",
+          "summary": "Beim Formulieren von Assertions kommt JUnit schnell an Grenzen. Die Libraries AssertJ und Google Truth bieten neue Möglichkeiten und eine bessere Lesbarkeit.",
+          "published": "2026-05-02T07:36:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Assertion Libraries AssertJ und Google Truth erweitern die Möglichkeiten von JUnit beim Formulieren von Assertions und verbessern die Lesbarkeit von Tests. Diese Tools bieten Entwicklern eine flexiblere und ausdrucksstärkere Syntax für die Validierung von Bedingungen in Java-Anwendungen.",
+      "highlights": [
+        "AssertJ ermöglicht fluente API für komplexe Assertions.",
+        "Google Truth bietet eine lesbare Syntax und unterstützt verschiedene Datentypen.",
+        "Beide Libraries verbessern die Testqualität und Wartbarkeit von Code."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Phishing im Namen des Finanzamts: Wie du die gefälschten E-Mails erkennst",
+          "link": "https://t3n.de/news/phishing-im-namen-des-finanzamts-wie-du-die-gefaelschten-e-mails-erkennst-1740858/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Um an sensible Daten zu gelangen, lassen sich Cyberkriminelle ständig neue Methoden einfallen. Aktuell landen wieder viele Phishing-Mails in den Postfächern, die angeblich vom Elster-Portal stammen. weiterlesen auf t3n.de",
+          "published": "Sun, 3 May 2026 17:54:44 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anthropic startet öffentliche Beta von Claude Security für Unternehmen",
+          "link": "https://www.heise.de/news/Claude-Security-Anthropic-bringt-KI-Schwachstellenscanner-fuer-Unternehmen-11279018.html",
+          "summary": "Anthropic schickt Claude Security in den öffentlichen Beta-Test. Es scannt Code auf Schwachstellen, schlägt Patches vor und soll bei Sicherheit streng sein.",
+          "published": "2026-04-30T21:05:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Schienenverkehr: Italo plant Markteintritt in deutschen Fernverkehr",
+          "link": "https://www.golem.de/news/schienenverkehr-italo-plant-markteintritt-in-deutschen-fernverkehr-2605-208255.html",
+          "summary": "Der Betreiber Italo will ab 2028 mit 30 Siemens-Zügen in Deutschland starten und verspricht deutlich sinkende Ticketpreise. ( Mobilität , Siemens )",
+          "published": "2026-05-04T09:25:07+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Anzeige: IT-Jobs in Architektur, Infrastruktur und Produktmanagement",
+          "link": "https://www.golem.de/news/anzeige-it-jobs-in-architektur-infrastruktur-und-produktmanagement-2605-208136.html",
+          "summary": "Von KI-Architekturen über kommunale IT-Sicherheit bis ECM-Produktbetreuung: Zu besetzen sind sechs IT-Jobs mit Verantwortung und Tech-Fokus. ( Golem Karrierewelt , Unternehmenssoftware )",
+          "published": "2026-05-03T07:00:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der IT-Sicherheit zeigen die Bedrohungen durch Phishing und die Notwendigkeit von Sicherheitslösungen. Während Cyberkriminelle gefälschte E-Mails versenden, bietet Anthropic mit Claude Security eine neue Beta-Version zur Erkennung von Schwachstellen in Code an.",
+      "highlights": [
+        "Phishing-Mails im Namen des Finanzamts zielen auf sensible Daten ab.",
+        "Anthropic startet öffentliche Beta von Claude Security zur Code-Überprüfung.",
+        "Claude Security schlägt Patches vor und fokussiert sich auf strenge Sicherheitsstandards."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Kommentar zum Tag der Pressefreiheit: Die Sache mit der eigenen Nase",
+          "link": "https://www.heise.de/meinung/Kommentar-zum-Tag-der-Pressefreiheit-Die-Sache-mit-der-eigenen-Nase-11278916.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Statt Lamentos sollte der Medienbeauftragte der Bundesregierung den 3. Mai nutzen, um in Sachen Pressefreiheit vor der eigenen Türe zu kehren, meint Tim Gerber.",
+          "published": "2026-05-03T10:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "CI: Wie Github Actions Entwicklerteams langsam tötet",
+          "link": "https://www.golem.de/news/ci-wie-github-actions-entwicklerteams-langsam-toetet-2605-206831.html",
+          "summary": "Einfach nur schreien oder gleich aufgeben? Wie Github Actions uns fertigmacht und was besser ist. Ein Rant von Ian Duncan ( Softwareentwicklung , Unternehmenssoftware )",
+          "published": "2026-05-04T09:33:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle Diskussionen im Bereich DevOps und Test-Automatisierung beleuchten die Herausforderungen von CI-Tools wie GitHub Actions, die Entwicklerteams belasten. Gleichzeitig wird die Bedeutung der Pressefreiheit in der Medienberichterstattung thematisiert.",
+      "highlights": [
+        "GitHub Actions wird als belastend für Entwicklerteams beschrieben.",
+        "Der Kommentar zum Tag der Pressefreiheit fordert mehr Selbstreflexion in der Medienberichterstattung.",
+        "Kritik an der aktuellen Nutzung von CI-Tools in der Softwareentwicklung."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Linux-Lücke „Copy Fail“ wird bereits angegriffen",
+          "link": "https://www.heise.de/news/Linux-Luecke-Copy-Fail-wird-bereits-angegriffen-11279850.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Vor dem Wochenende wurde die Linux-Lücke „Copy Fail“ bekannt, die Angreifern root-Rechte verschafft. Die wird bereits attackiert.",
+          "published": "2026-05-04T08:44:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "„Copy Fail“: Linux-root in allen großen Distributionen mit 732 Byte Python",
+          "link": "https://www.heise.de/news/Copy-Fail-Linux-root-in-allen-grossen-Distributionen-mit-732-Byte-Python-11277590.html",
+          "summary": "Die Entdecker haben die root-Lücke im Linux-Kernel „Copy Fail“ getauft. Alle größeren Distributionen seit 2017 sind betroffen.",
+          "published": "2026-04-30T07:06:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Gaming: AMD bringt HDMI-2.1-Unterstützung in Linux-Treiber",
+          "link": "https://www.golem.de/news/gaming-amd-bringt-hdmi-2-1-unterstuetzung-in-linux-treiber-2605-208247.html",
+          "summary": "AMD-GPUs waren wegen Lizenzproblemen unter Linux jahrelang künstlich eingeschränkt. Das ändert sich bald. ( Linux , AMD )",
+          "published": "2026-05-03T13:35:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die kürzlich entdeckte Linux-Sicherheitslücke „Copy Fail“ ermöglicht Angreifern root-Rechte und wird bereits aktiv ausgenutzt. Betroffen sind alle größeren Linux-Distributionen seit 2017. Zudem bringt AMD bald HDMI-2.1-Unterstützung in seine Linux-Treiber.",
+      "highlights": [
+        "Linux-Lücke „Copy Fail“ ermöglicht root-Rechte für Angreifer.",
+        "Alle großen Linux-Distributionen seit 2017 sind betroffen.",
+        "AMD integriert HDMI-2.1-Unterstützung in Linux-Treiber."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Neurowissenschaftler warnt: Bei KI-Waffen kennen wir Input und Output – aber nicht, was dazwischen passiert",
+          "link": "https://t3n.de/news/ki-waffen-black-box-problem-neurowissenschaftler-warnung-1739165/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Großteil der Debatte über KI-gestützte Waffen dreht sich um die Frage, inwieweit Menschen die Arbeit der KI überblicken sollen. Allerdings besteht das größere Problem nach wie vor darin, dass wir die inneren Abläufe der KI nicht wirklich verstehen, meint unser Autor. weiterlesen auf t3n.de",
+          "published": "Sun, 3 May 2026 14:35:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "ChatGPT an der Universität: Warum Professoren KI-Tools am liebsten „von der Klippe stoßen“ würden",
+          "link": "https://t3n.de/news/chatgpt-universitaet-professoren-ki-verzweiflung-1733417/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Immer mehr Professor:innen warnen davor, dass Studierende sich nur noch auf KI für ihr Studium verlassen, statt selbst zu lernen. Welche Folgen das haben könnte und warum Künstliche Intelligenz nicht mehr so leicht zu vertreiben ist. weiterlesen auf t3n.de",
+          "published": "Sun, 3 May 2026 13:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Cloudflare Builds High-Performance Infrastructure for Running LLMs",
+          "link": "https://www.infoq.com/news/2026/05/cloudflare-llm-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare has recently announced new infrastructure designed to run large AI language models across its global network. As these models rely on costly hardware and must handle large volumes of incoming and outgoing text, Cloudflare separates the model's input processing and output generation onto different optimized systems. By Renato Losio",
+          "published": "Sun, 03 May 2026 10:58:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Podcast Die Hupe: Merz kann es nicht",
+          "link": "https://www.heise.de/meinung/Podcast-Die-Hupe-Merz-kann-es-nicht-11278536.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die große Koalition hat es geschafft, die Ampel-Regierung an Unbeliebtheit zu überbieten. Wir bereden ihre fragwürdigen Entscheidungen im Verkehrssektor.",
+          "published": "2026-05-04T08:03:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | Agentic Commerce: Wie weit autonomes Einkaufen schon ist",
+          "link": "https://www.heise.de/ratgeber/Agentic-Commerce-Wie-weit-autonomes-Einkaufen-schon-ist-11184792.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "KI-Anbieter preisen automatisches Einkaufen als Onlineshopping der Zukunft an. Wir zeigen, wo Technik, Recht und Vertrauensfragen das Modell ausbremsen.",
+          "published": "2026-05-04T07:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Debatte um generative KI und LLMs wird durch Bedenken hinsichtlich der Transparenz und Kontrolle über KI-gestützte Systeme geprägt. Während Universitäten die Abhängigkeit von KI-Tools kritisieren, entwickeln Unternehmen wie Cloudflare neue Infrastrukturen zur effizienten Nutzung dieser Technologien.",
+      "highlights": [
+        "Neurowissenschaftler warnen vor unklaren Abläufen in KI-Waffen.",
+        "Professoren befürchten, dass Studierende sich zu sehr auf KI verlassen.",
+        "Cloudflare optimiert Infrastruktur für LLMs durch getrennte Verarbeitung von Eingaben und Ausgaben."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "These reusable digital Polaroids are a clever way to cover a fridge in memories",
+          "link": "https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on",
+          "summary": "I love when my friends have their fridges covered in Polaroids. It’s often a visual crash course of what’s been going on in their lives chronicling recent adventures, get-togethers, and other fun moments. But I don’t love the idea of schlepping around a clunky instant camera or paying a premium for instant film with hit-or-miss [&#8230;]",
+          "published": "2026-05-03T09:00:00-04:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta&#8217;s historic loss in court could cost a lot more than $375 million",
+          "link": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
+          "summary": "New Mexico Attorney General Ra&#250;l Torrez won a historic sum of $375 million in a landmark child safety case against Meta earlier this year. But the next stage of the fight could be even more consequential for Meta and the social media industry at large. Beginning Monday, attorneys for Meta and New Mexico will return [&#8230;]",
+          "published": "2026-05-02T14:25:26-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Die EU-Tech-Regulierung steht im Fokus, während Unternehmen wie Meta mit rechtlichen Herausforderungen konfrontiert sind. Ein Gerichtsurteil könnte weitreichende Folgen für die Branche haben, insbesondere im Hinblick auf den Schutz von Kindern im Internet.",
+      "highlights": [
+        "Meta wurde in einem Verfahren um 375 Millionen USD verurteilt.",
+        "Der Fall betrifft die Sicherheit von Kindern in sozialen Medien.",
+        "Die nächste Phase des Rechtsstreits könnte noch kostspieliger für Meta werden."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Macbook und Android-Smartphone nutzen? Das ist einfacher als man denkt",
+          "link": "https://t3n.de/news/macbook-android-smartphone-benutzen-einfach-1740629/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Beim günstigen Macbook Neo könnten auch Android-Nutzer:innen schwach werden. Damit alles nahtlos funktioniert, braucht ihr allerdings die richtigen Tools. Die gute Nachricht: Es gibt sie – und sie bieten teilweise mehr als Apples eigene Lösungen. weiterlesen auf t3n.de",
+          "published": "Mon, 4 May 2026 07:30:30 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Onlinehandel unter Druck: Österreichs 2-Euro-Abgabe trifft Amazon und internationale Plattformen",
+          "link": "https://t3n.de/news/onlinehandel-oesterreich-2-euro-paketabgabe-amazon-1740102/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Österreich greift künftig stärker in den Onlinehandel ein: Mit einer neuen Paketabgabe sollen große Händler künftig für jede Lieferung zahlen. Die Maßnahme trifft vor allem internationale Plattformen – und könnte indirekt auch Verbraucherpreise erhöhen. weiterlesen auf t3n.de",
+          "published": "Sun, 3 May 2026 18:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Abkürzung zum Mars: Diese neue Route könnte die Gesamtmission auf 153 Tage eindampfen",
+          "link": "https://t3n.de/news/mars-mission-153-tage-neue-route-1740314/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bisher nutzen Raumschiffe für die Reise zum Mars eine besonders energieeffiziente Art der Passage. Eine vollständige Mission mit Hin- und Rückflug würde damit rund zwei Jahre dauern. Ein neuer Ansatz der Routenplanung soll die Dauer auf 153 Tage verkürzen. weiterlesen auf t3n.de",
+          "published": "Sun, 3 May 2026 17:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Meta will KI-Rechenzentren mit Solarenergie aus dem All versorgen – sogar nachts",
+          "link": "https://t3n.de/news/meta-solarenergie-all-ki-rechenzentren-1740216/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Um an zusätzlichen Strom für seine energiehungrigen KI-Rechenzentren zu kommen, richtet Meta seinen Blick ins All. Ein Deal mit einem Satelliten-Startup soll dem Konzern Solarenergie auch in der Nacht sichern – per Infrarotstrahl. weiterlesen auf t3n.de",
+          "published": "Sun, 3 May 2026 16:15:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Weg von Outlook und Gmail: Diese europäischen Mail-Alternativen solltest du kennen",
+          "link": "https://t3n.de/news/weg-von-outlook-gmail-europaeische-mail-alternativen-1738872/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Willst du möglichst privat mit anderen per Mail kommunizieren? Dann solltest du eher auf Provider wie Gmail und Outlook verzichten und stattdessen eine dieser europäischen Alternativen in Betracht ziehen. Warum das so ist und was sie dir bieten. weiterlesen auf t3n.de",
+          "published": "Sun, 3 May 2026 12:20:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Das Thema Open Source und Software Supply Chain gewinnt zunehmend an Bedeutung, insbesondere im Kontext von Datenschutz und der Suche nach Alternativen zu großen Anbietern. Europäische Mail-Alternativen bieten mehr Privatsphäre, während neue Technologien in der Raumfahrt und Energieversorgung innovative Ansätze verfolgen.",
+      "highlights": [
+        "Österreich führt eine 2-Euro-Paketabgabe für große Online-Händler ein.",
+        "Meta plant, KI-Rechenzentren mit Solarenergie aus dem All zu versorgen.",
+        "Europäische Mail-Alternativen bieten mehr Datenschutz als Gmail und Outlook."
+      ]
+    }
+  ]
+}
