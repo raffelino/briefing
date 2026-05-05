@@ -1,0 +1,312 @@
+{
+  "date": "2026-05-05",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial",
+          "link": "https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/",
+          "summary": "OpenAI accuses Musk of trying to \"coerce\" a settlement days before trial started.",
+          "published": "Mon, 04 May 2026 15:05:58 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Arize AI and Google Cloud lay down standardized telemetry mandate to keep enterprise agents in check",
+          "link": "https://thenewstack.io/ai-agent-telemetry-standardization/",
+          "summary": "The essentially composable nature of modern enterprise software stacks enables architectural freedom. Software developers are able to take advantage of The post Arize AI and Google Cloud lay down standardized telemetry mandate to keep enterprise agents in check appeared first on The New Stack .",
+          "published": "Mon, 04 May 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "FAQ: Das Überwachungspaket der Bundesregierung",
+          "link": "https://netzpolitik.org/2026/faq-das-ueberwachungspaket-der-bundesregierung/",
+          "summary": "Bundesinnenminister Dobrindt (links) und Vizekanzler Klingbeil: Große Einigkeit in der Großen Koalition, dass Polizeibehörden weitere Ermittlungsbefugnisse brauchen. – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Die schwarz-rote Koalition will ein Gesetzespaket verabschieden, das ein neues Zeitalter der Überwachung einläutet. Was steckt da konkret alles drin? Wir haben es durchgesehen, damit ihr es nicht tun müsst.",
+          "published": "Mon, 04 May 2026 13:52:16 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Presentation: The Human Scalability Problem: Why Your Teams Don’t Scale Like Your Code",
+          "link": "https://www.infoq.com/presentations/human-scalability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Charlotte de Jong Schouwenburg discusses the \"human bottlenecks\" of hyper-growth. While systems scale, human cooperation often breaks down due to communication overload and lost context. She shares proven tools for behavioral scalability - including communication architecture and \"engineering trust\" - to help leaders maintain high-performing, autonomous teams without sacrificing speed or culture. By Charlotte de Jong Schouwenburg",
+          "published": "Mon, 04 May 2026 12:40:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Die Bewertungen sind kaputt – so will Google wieder für mehr Glaubwürdigkeit sorgen",
+          "link": "https://t3n.de/news/die-bewertungen-sind-kaputt-so-will-google-wieder-fuer-mehr-glaubwuerdigkeit-sorgen-1740952/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine kleine, unscheinbare Ergänzung mit großer Wirkung: Google zeigt neuerdings an, wie viele Rezensionen wegen Diffamierungsbeschwerden gelöscht wurden. Damit reagiert das Unternehmen auf ein wachsendes Problem im eigenen Bewertungssystem und bemüht sich um mehr Glaubwürdigkeit. weiterlesen auf t3n.de",
+          "published": "Mon, 4 May 2026 12:30:45 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die heutige Nachrichtenlage im Bereich Cloud-Architektur und Plattformen zeigt Entwicklungen in der Software-Standardisierung und Herausforderungen in der Teamdynamik. Arize AI und Google Cloud setzen auf einheitliche Telemetrie-Standards, während die Diskussion um menschliche Skalierbarkeit in schnell wachsenden Unternehmen an Bedeutung gewinnt.",
+      "highlights": [
+        "Arize AI und Google Cloud führen standardisierte Telemetrie-Vorgaben ein, um Unternehmensagenten zu regulieren.",
+        "Charlotte de Jong Schouwenburg thematisiert in ihrer Präsentation die menschlichen Engpässe in schnell wachsenden Teams.",
+        "Google reagiert auf Probleme im Bewertungssystem, indem es die Anzahl gelöschter Rezensionen aufgrund von Diffamierungsbeschwerden offenlegt."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Podcast: Roq: Leveraging Quarkus to Build Static Sites at the Speed of Go",
+          "link": "https://www.infoq.com/podcasts/leveraging-quarkus-build-static-sites/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Andy Damevin, a developer who worked on Quarkus for almost a decade, talks about Roq. A project that started as an experiment to try to see if it’s possible to build a static web site generator on top of quarkus. He touches on the rationale for choosing Java and Quarkus, how to migrate to Roq, and the platform's future. By Andy Damevin",
+          "published": "Mon, 04 May 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Java News Roundup: OpenJDK JEPs, GlassFish, Spring AI, JReleaser, A2A Java SDK, Google ADK, Gradle",
+          "link": "https://www.infoq.com/news/2026/05/java-news-roundup-apr27-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for April 27th, 2026, features news highlighting: OpenJDK JEPs for JDK 27; the fifth milestone release of Spring AI 2.0; the second milestone release of GlassFish 9.0; point releases of Quarkus, JReleaser, Gradle, LangChain4j and Google ADK for Java; the second beta release of Hardwood; and the first beta release of A2A Java SDK 1.0. By Michael Redlich",
+          "published": "Mon, 04 May 2026 09:15:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Assertion Libraries für Java: AssertJ versus Google Truth",
+          "link": "https://www.heise.de/hintergrund/Assertion-Libraries-fuer-Java-AssertJ-versus-Google-Truth-11260088.html",
+          "summary": "Beim Formulieren von Assertions kommt JUnit schnell an Grenzen. Die Libraries AssertJ und Google Truth bieten neue Möglichkeiten und eine bessere Lesbarkeit.",
+          "published": "2026-05-02T07:36:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Software-Architektur und Java umfassen neue Projekte wie Roq, das Quarkus für statische Webseiten nutzt, sowie bedeutende Updates in der Java-Community, darunter OpenJDK JEPs und neue Versionen von Spring AI und GlassFish. Zudem werden Alternativen zu JUnit für Assertions diskutiert.",
+      "highlights": [
+        "Roq ist ein experimentelles Projekt zur Erstellung eines statischen Webseiten-Generators auf Basis von Quarkus.",
+        "Die Java News Roundup umfasst wichtige Updates wie JDK 27 JEPs und die fünfte Milestone-Version von Spring AI 2.0.",
+        "AssertJ und Google Truth bieten erweiterte Möglichkeiten für Assertions in Java, die über die Grenzen von JUnit hinausgehen."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Vimeo-Datenleck: 119.000 E-Mail-Adressen betroffen",
+          "link": "https://www.heise.de/news/Vimeo-Datenleck-119-000-E-Mail-Adressen-betroffen-11281379.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Cybergang ShinyHunters hat Daten von Vimeo bei Anodot gestohlen und ins Darknet gestellt. Nun hat Have-I-Been-Pwned sie aufgenommen.",
+          "published": "2026-05-05T08:08:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+          "link": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11272689.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
+          "published": "2026-05-04T14:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anthropic startet öffentliche Beta von Claude Security für Unternehmen",
+          "link": "https://www.heise.de/news/Claude-Security-Anthropic-bringt-KI-Schwachstellenscanner-fuer-Unternehmen-11279018.html",
+          "summary": "Anthropic schickt Claude Security in den öffentlichen Beta-Test. Es scannt Code auf Schwachstellen, schlägt Patches vor und soll bei Sicherheit streng sein.",
+          "published": "2026-04-30T21:05:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der IT-Sicherheit zeigen, dass Datenlecks und Angriffe auf Systeme weiterhin ein großes Risiko darstellen. Unternehmen müssen proaktive Maßnahmen ergreifen, um ihre Systeme zu schützen und Schwachstellen zu identifizieren.",
+      "highlights": [
+        "119.000 E-Mail-Adressen von Vimeo durch ShinyHunters im Darknet veröffentlicht.",
+        "Workshop zur Absicherung von Active Directory gegen Cyberangriffe angeboten.",
+        "Öffentliche Beta von Claude Security gestartet, die Code auf Schwachstellen scannt und Patches vorschlägt."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Auf den Punkt: Die Bundesregierung zwingt uns zur Wiederholung.",
+          "link": "https://netzpolitik.org/2026/auf-den-punkt-die-bundesregierung-zwingt-uns-zur-wiederholung/",
+          "summary": "Liebe Leser*innen, es gibt Vorhaben, über die haben wir gefühlt schon so oft berichtet, so häufig schon die Gefahren und Kritikpunkte zusammengefasst, dass es uns irgendwann so vorkommt, als sei doch längst alles gesagt. Doch was hilft es, wenn die Vorhaben trotzdem nicht verschwinden? Wenn sie ganz im Gegenteil mit großen Schritten weiter Richtung Gesetzgebung […]",
+          "published": "Tue, 05 May 2026 04:38:02 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Anzeige: LPIC-1 Vorbereitung: Linux-Prüfungswissen in fünf Tagen auffrischen",
+          "link": "https://www.golem.de/news/anzeige-lpic-1-vorbereitung-linux-pruefungswissen-in-fuenf-tagen-auffrischen-2605-208299.html",
+          "summary": "Ein LPIC-1 Vorbereitungskurs bündelt prüfungsrelevante Linux-Themen von Systemarchitektur bis Netzwerk und Sicherheit. Ein Live-Remote-Training strukturiert die Wiederholung für LPI 101 und LPI 102. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-05-05T07:15:11+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Verbraucherzentrale: Verseuchte Produkte trotz EU-Warnung im Onlinehandel",
+          "link": "https://www.golem.de/news/verbraucherzentrale-verseuchte-produkte-trotz-eu-warnung-im-onlinehandel-2605-208266.html",
+          "summary": "Ein mit Blei verseuchtes Kuscheltier ist trotz jahrelanger Warnungen weiter im Onlinehandel erhältlich. Amazon, Ebay, Temu, Otto und Ali Express kontrollieren laut VZBV nicht ausreichend. ( Verbraucherschutz , eBay )",
+          "published": "2026-05-04T11:48:11+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die aktuelle Berichterstattung thematisiert die wiederkehrenden Herausforderungen im Bereich der Gesetzgebung und Verbraucherschutz im Onlinehandel. Trotz bestehender Warnungen sind gefährliche Produkte weiterhin erhältlich, während Schulungsangebote zur Vorbereitung auf Linux-Prüfungen an Bedeutung gewinnen.",
+      "highlights": [
+        "Bundesregierung plant Gesetzgebung trotz wiederholter Kritik.",
+        "Verbraucherzentrale berichtet über verseuchte Produkte im Onlinehandel.",
+        "LPIC-1 Vorbereitungskurs bietet strukturiertes Live-Remote-Training."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Figma Builds In-House Redis Proxy to Hit Six Nines Uptime",
+          "link": "https://www.infoq.com/news/2026/05/figma-redis-figcache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Figma has published a detailed account of how it built an in-house Redis proxy service called FigCache, replacing a fragmented caching stack that had become a liability for site availability. The system, described in a post by Kevin Lin, has been in production since the second half of 2025 and has delivered what the company describes as six nines of uptime across its caching layer. By Matt Saunders",
+          "published": "Tue, 05 May 2026 07:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AMD is adding HDMI 2.1 support for Linux. That's good news for the Steam Machine.",
+          "link": "https://arstechnica.com/gaming/2026/05/amd-is-adding-hdmi-2-1-support-for-linux-thats-good-news-for-the-steam-machine/",
+          "summary": "Fixed Rate Link being added now; Display Stream Compression coming soon.",
+          "published": "Mon, 04 May 2026 16:26:49 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Article: From Batch to Micro-Batch Streaming: Lessons Learned the Hard Way in a Delta Index Pipeline",
+          "link": "https://www.infoq.com/articles/micro-batch-streaming-lessons-learned/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This article describes how a production delta-index pipeline migrated from scheduled batch to micro-batch Spark Structured Streaming. It covers why record-level streaming was rejected, how partition-based watermarks replaced fragile S3 completion markers, overlap-window correctness, and restart-as-design strategies for better predictability in object-store–based ingestion systems. By Parveen Saini",
+          "published": "Mon, 04 May 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Nach jahrelanger Blockade: Quelloffenes HDMI 2.1 kommt endlich für Linux",
+          "link": "https://www.heise.de/news/Quelloffenes-HDMI-2-1-kommt-endlich-fuer-Linux-11280232.html",
+          "summary": "Ein AMD-Entwickler kündigt vollwertiges HDMI 2.1 für den Linux-Open-Source-Treiber an. Auch für den Nouveau-Treiber gibt es eine erste Implementierung.",
+          "published": "2026-05-04T09:01:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "„Copy Fail“: Linux-root in allen großen Distributionen mit 732 Byte Python",
+          "link": "https://www.heise.de/news/Copy-Fail-Linux-root-in-allen-grossen-Distributionen-mit-732-Byte-Python-11277590.html",
+          "summary": "Die Entdecker haben die root-Lücke im Linux-Kernel „Copy Fail“ getauft. Alle größeren Distributionen seit 2017 sind betroffen.",
+          "published": "2026-04-30T07:06:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Figma hat einen eigenen Redis-Proxy namens FigCache entwickelt, um die Verfügbarkeit seiner Dienste zu verbessern. Der Proxy bietet eine beeindruckende Betriebszeit von sechs Neunen. Zudem gibt es Neuigkeiten zu HDMI 2.1 für Linux und Sicherheitslücken im Linux-Kernel.",
+      "highlights": [
+        "Figma's FigCache erreicht sechs Nines Uptime seit der zweiten Hälfte 2025.",
+        "AMD kündigt volles HDMI 2.1 für Linux an, einschließlich Unterstützung für den Nouveau-Treiber.",
+        "Die Sicherheitslücke 'Copy Fail' betrifft alle großen Linux-Distributionen seit 2017."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Bilder mit KI erstellen: Wo ChatGPT punktet – und wo Gemini die Nase vorn hat",
+          "link": "https://t3n.de/news/bilder-mit-ki-erstellen-chatgpt-vergleich-gemini-1741009/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "ChatGPT hat seine Bildgenerierung ausgebaut, doch wie nützlich sind die neuen Funktionen im Arbeitsalltag? Einige der neuen Vorlagen überraschen, wie der Test bei t3n MeisterPrompter zeigt. Und im Vergleich mit Google Gemini liegt ein Tool vorn. weiterlesen auf t3n.de",
+          "published": "Tue, 5 May 2026 09:00:24 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Influential study touting ChatGPT in education retracted over red flags",
+          "link": "https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/",
+          "summary": "The retracted study on ChatGPT in education was already cited hundreds of times.",
+          "published": "Mon, 04 May 2026 19:03:39 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "How OpenAI scaled to 900 million weekly users with Ory",
+          "link": "https://thenewstack.io/openai-ory-identity-scale/",
+          "summary": "In the history of software, few milestones are as staggering as 900 million weekly active users. To put that in The post How OpenAI scaled to 900 million weekly users with Ory appeared first on The New Stack .",
+          "published": "Mon, 04 May 2026 16:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Palo Alto Networks makes a $700M-class AI bet on Portkey gateway",
+          "link": "https://thenewstack.io/palo-alto-portkey-ai-gateway/",
+          "summary": "For the first three years of the LLM era, the AI gateway was a developer&#8217;s problem. You had 10 model The post Palo Alto Networks makes a $700M-class AI bet on Portkey gateway appeared first on The New Stack .",
+          "published": "Mon, 04 May 2026 14:49:24 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "The agent code explosion is here. We need to rethink our pipelines, fast.",
+          "link": "https://thenewstack.io/agent-code-validation-bottleneck/",
+          "summary": "GitHub recently published an update on availability following a couple of rough incidents in April. The article opened with a The post The agent code explosion is here. We need to rethink our pipelines, fast. appeared first on The New Stack .",
+          "published": "Mon, 04 May 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Die Entwicklungen im Bereich generative KI und LLMs zeigen sowohl Fortschritte als auch Herausforderungen. Während ChatGPT seine Bildgenerierungsfunktionen erweitert, wird eine Studie zur Nutzung von ChatGPT in der Bildung aufgrund von Bedenken zurückgezogen. OpenAI verzeichnete einen beeindruckenden Anstieg auf 900 Millionen wöchentliche Nutzer.",
+      "highlights": [
+        "ChatGPT hat neue Bildgenerierungsfunktionen, die im Arbeitsalltag getestet wurden.",
+        "Eine Studie zur Rolle von ChatGPT in der Bildung wurde zurückgezogen, nachdem sie bereits häufig zitiert wurde.",
+        "OpenAI erreichte 900 Millionen wöchentliche aktive Nutzer."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Anzeige: Fahrradträger für 2 Räder nur rund 196 Euro bei Amazon",
+          "link": "https://www.golem.de/news/anzeige-fahrradtraeger-fuer-2-raeder-nur-rund-196-euro-bei-amazon-2605-208292.html",
+          "summary": "Perfektes Timing zur Fahrradsaison: Der beliebte Eufab-Fahrradträger für zwei Fahrräder ist bei Amazon jetzt im Angebot zu haben. ( Technik/Hardware , Amazon )",
+          "published": "2026-05-04T16:41:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Der Eufab-Fahrradträger für zwei Fahrräder ist derzeit bei Amazon für rund 196 Euro erhältlich. Dies kommt passend zur bevorstehenden Fahrradsaison.",
+      "highlights": [
+        "Eufab-Fahrradträger für zwei Fahrräder im Angebot",
+        "Preis: rund 196 Euro",
+        "Verfügbar bei Amazon"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Fachkräftemangel am Bau: Dieser KI-Roboter schwingt jetzt die Maurerkelle",
+          "link": "https://t3n.de/news/fachkraeftemangel-am-bau-dieser-ki-roboter-schwingt-jetzt-die-maurerkelle-1741080/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In einem denkmalgeschützten Altbau in Solingen schwingt ein mit Künstlicher Intelligenz trainierter Roboter die Kelle. Er soll die harte Arbeit erledigen, für die sich kaum noch Personal findet. weiterlesen auf t3n.de",
+          "published": "Tue, 5 May 2026 08:30:54 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Vergleich mit der US-Börsenaufsicht: Musk entgeht hoher Strafzahlung",
+          "link": "https://t3n.de/news/vergleich-mit-der-us-boersenaufsicht-musk-entgeht-hoher-strafzahlung-1741072/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Elon Musk meldete beim Twitter-Kauf zu spät das Überschreiten einer wichtigen Beteiligungsmarke. Die Börsenaufsicht zog vor Gericht &#8211; und ist nun bereit, die Klage mit einem Vergleich enden zu lassen. weiterlesen auf t3n.de",
+          "published": "Tue, 5 May 2026 08:00:02 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Milliarden für neue Materialien: KI-Startups im Wettrennen – aber im Schneckentempo",
+          "link": "https://t3n.de/news/milliarden-fuer-neue-materialien-ki-startups-im-wettrennen-aber-im-schneckentempo-1740574/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI-Startups mit reichlich Kapital wollen neue Materialien schneller und kostengünstiger entwickeln. Noch klafft eine Lücke zwischen Theorie und Praxis, aber sie beginnt sich zu schließen. weiterlesen auf t3n.de",
+          "published": "Tue, 5 May 2026 07:30:17 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AI won’t speed up software delivery — nothing has",
+          "link": "https://thenewstack.io/feedback-driven-ai-adoption/",
+          "summary": "In my formative years, I had a Labrador/Whippet cross called Barclay. We did almost everything together. If I were digging The post AI won&#8217;t speed up software delivery — nothing has appeared first on The New Stack .",
+          "published": "Mon, 04 May 2026 21:38:28 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Freundlich, aber falsch: Nette KI-Modelle liegen bei ihren Antworten häufiger daneben",
+          "link": "https://t3n.de/news/nette-ki-modelle-falsche-antworten-1741006/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Verhalten sich KI-Modelle, die speziell auf Freundlichkeit trainiert wurden, anders? Das haben Forschende jetzt mit einer Studie herausfinden wollen. Laut ihren Ergebnissen, unterscheiden sich die Chatbots gravierend – und das nicht nur bei netten Floskeln. weiterlesen auf t3n.de",
+          "published": "Mon, 4 May 2026 17:00:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Software-Lieferkette wird zunehmend von Künstlicher Intelligenz beeinflusst, jedoch zeigen aktuelle Berichte, dass KI nicht zwangsläufig die Geschwindigkeit der Softwarebereitstellung erhöht. Es besteht eine Diskrepanz zwischen den Erwartungen an KI und den realen Fortschritten in der Softwareentwicklung.",
+      "highlights": [
+        "KI-Modelle, die auf Freundlichkeit trainiert sind, liefern oft ungenaue Antworten.",
+        "Trotz hoher Investitionen in KI-Startups bleibt die Entwicklung neuer Materialien langsam.",
+        "Die Diskussion über die Effizienz von KI in der Softwareentwicklung zeigt, dass bisher keine signifikante Beschleunigung erreicht wurde."
+      ]
+    }
+  ]
+}
