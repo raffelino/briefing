@@ -1,0 +1,317 @@
+{
+  "date": "2026-05-06",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Grafana's Kubernetes Monitoring Helm Chart v4 Brings Multiple Fixes",
+          "link": "https://www.infoq.com/news/2026/05/kubernetes-monitoring-helm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Grafana Labs has released version 4 of its Kubernetes Monitoring Helm chart, describing it as the most significant update the chart has received since its introduction. The release, announced in April 2026 by Pete Wall and Beverly Buchanan, addresses a range of configuration problems that had accumulated as users scaled to larger and more complex deployments. By Matt Saunders",
+          "published": "Wed, 06 May 2026 07:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Trump SEC lets Musk settle $150 million Twitter lawsuit for $1.5 million",
+          "link": "https://arstechnica.com/tech-policy/2026/05/trump-sec-lets-musk-settle-150-million-twitter-lawsuit-for-1-5-million/",
+          "summary": "SEC alleged Musk's late disclosure cheated Twitter investors out of $150 million.",
+          "published": "Tue, 05 May 2026 17:07:32 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Domain-driven Design: Beschreibungssprache ESDM legt das Modell neben den Code",
+          "link": "https://www.heise.de/blog/Domain-driven-Design-Beschreibungssprache-ESDM-legt-das-Modell-neben-den-Code-11279687.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Event-sourced Domain Modeling Language beschreibt Event-getriebene Domänen als YAML neben dem Code und macht das Modell mit derselben Werkzeugkette prüfbar.",
+          "published": "2026-05-06T09:07:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Studie mit Apple-Health-Daten: Hörverlust hängt mit Mobilität im Alltag zusammen",
+          "link": "https://www.heise.de/news/Studie-mit-Apple-Health-Daten-Hoerverlust-haengt-mit-Mobilitaet-im-Alltag-zusammen-11282708.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine groß angelegte Studie der Uni Michigan zeigt: Ein schlechteres Gehör korreliert mit einer langsameren Gehgeschwindigkeit. Die Daten lieferten iPhones.",
+          "published": "2026-05-05T16:48:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Domain-driven Design: Beschreibungssprache ESDM legt das Modell neben den Code",
+          "link": "https://www.heise.de/blog/Domain-driven-Design-Beschreibungssprache-ESDM-legt-das-Modell-neben-den-Code-11279687.html",
+          "summary": "Die Event-sourced Domain Modeling Language beschreibt Event-getriebene Domänen als YAML neben dem Code und macht das Modell mit derselben Werkzeugkette prüfbar.",
+          "published": "2026-05-06T07:07:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die aktuelle Nachrichtenlage im Bereich Cloud-Architektur und Plattformen umfasst bedeutende Entwicklungen wie die Veröffentlichung von Grafana's aktualisiertem Kubernetes Monitoring Helm Chart und die Einführung einer neuen Beschreibungssprache für Event-getriebenes Domain Modeling. Diese Fortschritte zielen darauf ab, die Effizienz und Nachvollziehbarkeit in der Softwareentwicklung zu verbessern.",
+      "highlights": [
+        "Grafana veröffentlicht Version 4 seines Kubernetes Monitoring Helm Charts mit wichtigen Konfigurationsfixes.",
+        "Die Event-sourced Domain Modeling Language beschreibt Domänen in YAML und ermöglicht eine prüfbare Integration mit bestehenden Werkzeugen.",
+        "Die Updates zielen darauf ab, die Skalierbarkeit und Komplexität in Cloud-Umgebungen zu adressieren."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "“Real maturity problems”: Not every developer is thrilled with Bun after Anthropic acquisition",
+          "link": "https://thenewstack.io/bun-developers-complaints-anthropic/",
+          "summary": "Growing and emerging software toolsets and standards are prone to love-it-or-hate-it reactions. Bun, an all-in-one JavaScript, TypeScript &#38; JSX runtime The post &#8220;Real maturity problems&#8221;: Not every developer is thrilled with Bun after Anthropic acquisition appeared first on The New Stack .",
+          "published": "Tue, 05 May 2026 17:03:03 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Assertion Libraries für Java: AssertJ versus Google Truth",
+          "link": "https://www.heise.de/hintergrund/Assertion-Libraries-fuer-Java-AssertJ-versus-Google-Truth-11260088.html",
+          "summary": "Beim Formulieren von Assertions kommt JUnit schnell an Grenzen. Die Libraries AssertJ und Google Truth bieten neue Möglichkeiten und eine bessere Lesbarkeit.",
+          "published": "2026-05-02T07:36:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Software-Architektur steht im Fokus aktueller Diskussionen, insbesondere im Hinblick auf neue Tools wie Bun und deren Akzeptanz unter Entwicklern. Zudem werden die Vorzüge von Assertion Libraries für Java, insbesondere AssertJ und Google Truth, hervorgehoben, um die Lesbarkeit von Assertions zu verbessern.",
+      "highlights": [
+        "Bun ist ein All-in-One-Runtime für JavaScript, TypeScript und JSX.",
+        "AssertJ und Google Truth bieten erweiterte Möglichkeiten zur Formulierung von Assertions in Java.",
+        "JUnit stößt bei komplexen Assertions an seine Grenzen."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Weckruf aus der Industrie: Tech-Riesen fordern Kurskorrektur der EU-KI-Politik",
+          "link": "https://www.heise.de/news/Weckruf-aus-der-Industrie-Tech-Riesen-fordern-Kurskorrektur-der-EU-KI-Politik-11282824.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Vor neuen Trilog-Verhandlungen zum KI-Omnibus-Paket warnen CEOs von Ericsson, SAP, Siemens & Co. vor Überregulierung. Sie verlangen mehr Raum für Innovation.",
+          "published": "2026-05-05T16:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Patchday: Kritische Schadcode-Lücke bedroht Android 14, 15 und 16",
+          "link": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecke-bedroht-Android-14-15-und-16-11281884.html",
+          "summary": "Schadcode kann durch ein fehlerhaftes Debugging-Modul auf Androidgeräte schlüpfen. Nun hat Google die kritische Schwachstelle geschlossen.",
+          "published": "2026-05-05T09:27:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anthropic startet öffentliche Beta von Claude Security für Unternehmen",
+          "link": "https://www.heise.de/news/Claude-Security-Anthropic-bringt-KI-Schwachstellenscanner-fuer-Unternehmen-11279018.html",
+          "summary": "Anthropic schickt Claude Security in den öffentlichen Beta-Test. Es scannt Code auf Schwachstellen, schlägt Patches vor und soll bei Sicherheit streng sein.",
+          "published": "2026-04-30T21:05:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die IT-Sicherheit steht im Fokus aktueller Entwicklungen, während Tech-Riesen vor Überregulierung der EU-KI-Politik warnen. Gleichzeitig wurde eine kritische Schwachstelle in Android geschlossen und Anthropic startet die Beta von Claude Security zur Identifikation von Code-Schwachstellen.",
+      "highlights": [
+        "Tech-Chefs fordern weniger Regulierung der EU-KI-Politik.",
+        "Kritische Schwachstelle in Android 14-16 wurde von Google gepatcht.",
+        "Claude Security von Anthropic scannt Code auf Schwachstellen und schlägt Patches vor."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Verhaltensscanner: „Eine reale Gefahr“",
+          "link": "https://netzpolitik.org/2026/verhaltensscanner-eine-reale-gefahr/",
+          "summary": "Verhaltensscanner werden aktuell eingeführt, um Gewalttaten zu erkennen. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Dan Burton Gerade gibt es bundesweit Bestrebungen, Überwachungskameras mit Systemen zu koppeln, die vollautomatisiert erkennen, was die abgebildeten Menschen gerade tun. Davy Wang von der Gesellschaft für Freiheitsrechte erklärt, warum das eine schlechte Idee ist.",
+          "published": "Tue, 05 May 2026 10:14:51 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Lidl/Kaufland: Schwarz-Gruppe finanziert Quantencomputer-Startup Eleqtron",
+          "link": "https://www.golem.de/news/lidl-kaufland-schwarz-gruppe-finanziert-quantencomputer-startup-eleqtron-2605-208341.html",
+          "summary": "Eleqtron aus Siegen will endlich einen Quantencomputer schaffen, der etwas Nützliches ausrechnet. Das Angebot soll einen Cloud-Zugang bekommen. ( Quantencomputer , Web Service )",
+          "published": "2026-05-05T17:40:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen im Bereich DevOps und Test-Automatisierung zeigen, dass innovative Technologien wie Quantencomputer zunehmend in der Industrie Fuß fassen. Gleichzeitig gibt es Bedenken hinsichtlich der Einführung von Überwachungstechnologien, die das Verhalten von Menschen analysieren sollen.",
+      "highlights": [
+        "Lidl/Kaufland investiert in das Quantencomputer-Startup Eleqtron.",
+        "Eleqtron plant, einen Cloud-Zugang für seinen Quantencomputer anzubieten.",
+        "Verhaltensscanner zur Erkennung von Gewalttaten werden bundesweit eingeführt, was auf Kritik stößt."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Figma Builds In-House Redis Proxy to Hit Six Nines Uptime",
+          "link": "https://www.infoq.com/news/2026/05/figma-redis-figcache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Figma has published a detailed account of how it built an in-house Redis proxy service called FigCache, replacing a fragmented caching stack that had become a liability for site availability. The system, described in a post by Kevin Lin, has been in production since the second half of 2025 and has delivered what the company describes as six nines of uptime across its caching layer. By Matt Saunders",
+          "published": "Tue, 05 May 2026 07:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Nach jahrelanger Blockade: Quelloffenes HDMI 2.1 kommt endlich für Linux",
+          "link": "https://www.heise.de/news/Quelloffenes-HDMI-2-1-kommt-endlich-fuer-Linux-11280232.html",
+          "summary": "Ein AMD-Entwickler kündigt vollwertiges HDMI 2.1 für den Linux-Open-Source-Treiber an. Auch für den Nouveau-Treiber gibt es eine erste Implementierung.",
+          "published": "2026-05-04T09:01:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "„Copy Fail“: Linux-root in allen großen Distributionen mit 732 Byte Python",
+          "link": "https://www.heise.de/news/Copy-Fail-Linux-root-in-allen-grossen-Distributionen-mit-732-Byte-Python-11277590.html",
+          "summary": "Die Entdecker haben die root-Lücke im Linux-Kernel „Copy Fail“ getauft. Alle größeren Distributionen seit 2017 sind betroffen.",
+          "published": "2026-04-30T07:06:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Copy Fail und die KI: Forscher patzen bei Offenlegung von Linux-Lücke",
+          "link": "https://www.golem.de/news/copy-fail-und-die-ki-forscher-patzen-bei-offenlegung-von-linux-luecke-2605-208331.html",
+          "summary": "Copy Fail ist eine der gefährlichsten Linux-Lücken der vergangenen Jahre. Die Offenlegung verlief aber alles andere als vorbildlich - unter anderem wegen KI. ( Sicherheitslücke , Linux-Kernel )",
+          "published": "2026-05-05T14:00:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Figma hat einen eigenen Redis-Proxy namens FigCache entwickelt, um die Verfügbarkeit seiner Dienste zu verbessern. Gleichzeitig wurde eine schwerwiegende Sicherheitslücke im Linux-Kernel entdeckt, die alle großen Distributionen seit 2017 betrifft.",
+      "highlights": [
+        "Figma erreicht mit FigCache sechs nines Uptime seit der zweiten Hälfte 2025.",
+        "HDMI 2.1 wird nun vollständig für Linux-Open-Source-Treiber unterstützt.",
+        "Die 'Copy Fail'-Lücke betrifft alle größeren Linux-Distributionen seit 2017."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Musk-Prozess enthüllt Milliardenkosten: So viel gibt OpenAI wirklich für Rechenleistung aus",
+          "link": "https://t3n.de/news/musk-prozess-enthuellt-milliardenkosten-so-viel-gibt-openai-wirklich-fuer-rechenleistung-aus-1741294/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Dass der Betrieb von ChatGPT teuer ist, war bekannt. Jetzt bekommt man einen Einblick, wie viele Milliarden die KI-Rechenzentren den Entwickler OpenAI tatsächlich kosten. weiterlesen auf t3n.de",
+          "published": "Wed, 6 May 2026 09:00:46 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI president forced to read his personal diary entries to jury",
+          "link": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
+          "summary": "Elon Musk argued the journals show the moment when OpenAI abandoned its mission.",
+          "published": "Tue, 05 May 2026 22:28:12 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "AI and Claude: The internal rebellion that changed Amazon’s rules",
+          "link": "https://thenewstack.io/amazon-coding-agents-developers/",
+          "summary": "Amazon has given its estimated tens of thousands of developers immediate access to Anthropic&#8217;s Claude Code, and they&#8217;ll soon have The post AI and Claude: The internal rebellion that changed Amazon’s rules appeared first on The New Stack .",
+          "published": "Tue, 05 May 2026 19:27:25 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI rolls out GPT-5.5 Instant as default ChatGPT model, promises more accurate responses",
+          "link": "https://thenewstack.io/openai-gpt-5-5-instant-launch/",
+          "summary": "OpenAI has announced that it&#8217;s replacing the default model in ChatGPT with GPT-5.5 Instant, which it said produces faster responses, The post OpenAI rolls out GPT-5.5 Instant as default ChatGPT model, promises more accurate responses appeared first on The New Stack .",
+          "published": "Tue, 05 May 2026 19:13:55 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AI has a sprawling data problem. Airbyte has just  launched a tool to fix it.",
+          "link": "https://thenewstack.io/airbyte-agents-context-store/",
+          "summary": "Airbyte on Tuesday launched Airbyte Agents, a new service that precomputes and indexes a company&#8217;s business data, allowing AI agents The post AI has a sprawling data problem. Airbyte has just launched a tool to fix it. appeared first on The New Stack .",
+          "published": "Tue, 05 May 2026 17:24:27 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Die Kosten für den Betrieb von OpenAI's ChatGPT sind enorm, wie ein aktueller Prozess zeigt. Zudem hat OpenAI das Modell GPT-5.5 Instant eingeführt, das schnellere und genauere Antworten liefern soll.",
+      "highlights": [
+        "OpenAI gibt Milliarden für Rechenleistung aus, wie im Musk-Prozess enthüllt.",
+        "Elon Musk behauptet, OpenAI habe seine ursprüngliche Mission aufgegeben.",
+        "GPT-5.5 Instant wird als neues Standardmodell in ChatGPT eingeführt."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "GitHub Enhances CodeQL with Declarative Security Modeling for Faster, More Flexible Analysis",
+          "link": "https://www.infoq.com/news/2026/05/github-codeql-security-modeling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "GitHub has introduced a significant update to its CodeQL engine, enabling developers to define custom sanitizers and validators directly through \"models-as-data,\" a move that simplifies how teams extend security analysis across their codebases. By Craig Risi",
+          "published": "Tue, 05 May 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "From Alan Shepard to Artemis, celebrating 65 years of Americans in space",
+          "link": "https://www.theverge.com/science/918596/alan-shepard-american-spaceflight-photos-anniversary",
+          "summary": "On the morning of May 5th, 1961, 37-year-old Alan Shepard woke up, ate a breakfast (consisting of a filet mignon wrapped in bacon, scrambled eggs, and orange juice), strapped into the Freedom 7 rocket, and blasted off into space, becoming the first American astronaut to do so. Shepard's historic flight - and the first crewed [&#8230;]",
+          "published": "2026-05-05T12:15:46-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Die EU-Tech-Regulierung steht im Fokus, während Unternehmen wie GitHub ihre Sicherheitsanalysen verbessern. GitHub hat CodeQL aktualisiert, um Entwicklern die Anpassung von Sicherheitsmodellen zu erleichtern, was die Effizienz der Codeüberprüfung steigert.",
+      "highlights": [
+        "GitHub führt 'models-as-data' für CodeQL ein.",
+        "Entwickler können benutzerdefinierte Sanitizer und Validatoren definieren.",
+        "Ziel ist eine vereinfachte Sicherheitsanalyse über Codebasen hinweg."
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "Article: Three Pillars of Platform Engineering: a Virtuous Cycle",
+          "link": "https://www.infoq.com/articles/platform-reliability-cycle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Platform engineering succeeds when reliability and ergonomics reinforce each other rather than compete. This article explores three foundational pillars: automated reliability, developer ergonomics, and operator ergonomics. Together, they establish a virtuous cycle that strengthens system stability, reduces operational burden, and empowers teams to scale infrastructure with confidence. By Pratik Agarwal",
+          "published": "Tue, 05 May 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Der Artikel von Pratik Agarwal beschreibt die drei Säulen des Platform Engineering: automatisierte Zuverlässigkeit, Entwickler- und Betreiberergonomie. Diese Elemente fördern einen positiven Kreislauf, der die Systemstabilität erhöht und die betriebliche Belastung verringert.",
+      "highlights": [
+        "Automatisierte Zuverlässigkeit verbessert die Systemstabilität.",
+        "Entwickler- und Betreiberergonomie reduzieren die betriebliche Belastung.",
+        "Ein positiver Kreislauf ermöglicht es Teams, Infrastruktur sicher zu skalieren."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Character.AI sued over chatbot that claims to be a real doctor with a license",
+          "link": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
+          "summary": "State says chatbot claimed to practice medicine, gave invalid license number.",
+          "published": "Tue, 05 May 2026 20:58:56 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Von aufgemaltem Schnurrbart bis VPN: So umgehen britische Kinder die Altersbeschränkungen von Webseiten",
+          "link": "https://t3n.de/news/schnurrbart-vpn-britische-kinder-umgehen-altersbeschraenkung-1741243/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In Großbritannien müssen User:innen auf einigen Webseiten ihr Alter verifizieren. Das soll verhindern, dass Jugendliche und Kinder auf die Dienste zugreifen können. Doch die Minderjährigen haben Mittel und Wege gefunden, um Altersverifizierungen auszuhebeln. weiterlesen auf t3n.de",
+          "published": "Tue, 5 May 2026 16:00:52 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Du kannst Windows-Updates jetzt verschieben – aber solltest du es auch tun?",
+          "link": "https://t3n.de/news/windows-updates-verschieben-solltest-du-das-tun-1741197/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit einer neuen Funktion will Microsoft Windows-User:innen mehr Freiheiten an die Hand geben. Wer sich von Updates genervt fühlt, kann sie jetzt leichter verschieben. Doch wer es damit übertreibt, bringt seinen PC in Gefahr. weiterlesen auf t3n.de",
+          "published": "Tue, 5 May 2026 15:00:24 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Whatsapp-Update mit Folgen: Wer jetzt über ein neues Handy nachdenken sollte",
+          "link": "https://t3n.de/news/whatsapp-update-alte-android-handys-support-ende-1740425/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Viele Smartphones laufen noch mit älteren Android-Versionen. Wer den beliebtesten Messenger Deutschlands nutzen möchte, muss jetzt allerdings wechseln, denn bald wird nur noch Android 6 und neuer unterstützt. weiterlesen auf t3n.de",
+          "published": "Tue, 5 May 2026 14:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Warum wir immer noch QWERTZ nutzen – obwohl es bessere Alternativen gibt",
+          "link": "https://t3n.de/news/warum-wir-qwertz-nutzen-trotz-besserer-alternativen-1739676/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "QWERTY und QWERTZ haben sich in vielen Regionen als Standardtastatur durchgesetzt. Doch tatsächlich gibt es Alternativen, mit denen wir effizienter und schneller tippen sollen. Warum der Wechsel aber trotzdem so schwerfällt. weiterlesen auf t3n.de",
+          "published": "Tue, 5 May 2026 14:00:59 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Software Supply Chain steht im Fokus, da Sicherheitsbedenken und rechtliche Herausforderungen zunehmen. Insbesondere die Nutzung von Open-Source-Software wirft Fragen zur Integrität und Sicherheit auf, während Unternehmen versuchen, ihre Systeme vor potenziellen Angriffen zu schützen.",
+      "highlights": [
+        "Character.AI wird verklagt, weil ein Chatbot fälschlicherweise als lizenzierter Arzt auftrat.",
+        "Britische Kinder umgehen Altersverifikationen auf Webseiten mit kreativen Methoden.",
+        "Microsoft ermöglicht das Verschieben von Windows-Updates, warnt jedoch vor den Risiken eines verzögerten Update-Prozesses."
+      ]
+    }
+  ]
+}
