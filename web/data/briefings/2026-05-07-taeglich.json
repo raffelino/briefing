@@ -1,0 +1,338 @@
+{
+  "date": "2026-05-07",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "The company that made RAG mainstream is now betting against it",
+          "link": "https://thenewstack.io/pinecone-nexus-rag-obsolete/",
+          "summary": "Pinecone just declared the RAG era over. Pinecone built the vector database category. It defined RAG as the standard pattern The post The company that made RAG mainstream is now betting against it appeared first on The New Stack .",
+          "published": "Wed, 06 May 2026 14:40:50 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Pinecone, das Unternehmen, das die Verwendung von Retrieval-Augmented Generation (RAG) populär gemacht hat, erklärt nun das Ende dieser Ära. Der Anbieter von Vektordatenbanken hat sich von RAG als Standardmuster distanziert.",
+      "highlights": [
+        "Pinecone hat die Kategorie der Vektordatenbanken geprägt.",
+        "RAG wurde zuvor als Standardmuster für Datenabruf und KI-Integration angesehen.",
+        "Die Erklärung von Pinecone markiert einen Wendepunkt in der Wahrnehmung von RAG in der Branche."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Europäische Kommission: In der Alterskontroll-App schlägt ein Herz von Google",
+          "link": "https://netzpolitik.org/2026/europaeische-kommission-in-der-alterskontroll-app-schlaegt-ein-herz-von-google/",
+          "summary": "Wie können Nutzer:innen ihr Alter bestätigen, ohne allzu viele persönliche Daten preiszugeben? – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Jon Tyson Die Alterskontroll-App der EU- Kommission nutzt ein Verfahren von Google-Entwicklern. IT-Fachleute warnen vor Abhängigkeiten und Datenschutzrisiken – auch mit Blick auf die geplante EUDI-Wallet.",
+          "published": "Thu, 07 May 2026 06:07:58 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Report: SpaceX IPO gives Musk unchecked power and forbids investor lawsuits",
+          "link": "https://arstechnica.com/tech-policy/2026/05/report-spacex-ipo-gives-musk-unchecked-power-and-forbids-investor-lawsuits/",
+          "summary": "Anyone who buys into SpaceX IPO must waive right to sue the firm, report says.",
+          "published": "Wed, 06 May 2026 17:20:06 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Kubernetes finally lands user namespace support, but shared kernel problem remains",
+          "link": "https://thenewstack.io/kubernetes-user-namespace-security/",
+          "summary": "Kubernetes shipped a long-awaited security feature last week: user namespace support for pods.&#160; It may sound like an obscure feature The post Kubernetes finally lands user namespace support, but shared kernel problem remains appeared first on The New Stack .",
+          "published": "Wed, 06 May 2026 14:50:05 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
+          "link": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
+          "summary": "A celebration of the tweaks and customizations that make life easier at the CLI.",
+          "published": "Wed, 06 May 2026 13:32:47 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Durch Größe und Knochenstruktur: Meta will Alter von Nutzern mit KI ermitteln",
+          "link": "https://t3n.de/news/groesse-knochenstruktur-meta-ki-alter-ermitteln-1741390/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer Facebook und Instagram nutzt, obwohl das Mindestalter für die Plattform nicht erreicht ist, könnte bald in Schwierigkeiten geraten. Eine Meta-KI soll künftig Profile von Nutzer:innen scannen und durch körperliche Merkmale auf ihr tatsächliches Alter schließen. weiterlesen auf t3n.de",
+          "published": "Wed, 6 May 2026 14:14:28 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Alterskontrolle in Apps wird zunehmend durch Technologien von großen Unternehmen wie Google und Meta unterstützt, was Bedenken hinsichtlich Datenschutz und Abhängigkeiten aufwirft. Während Google eine Alterskontroll-App für die EU entwickelt, plant Meta, KI zur Altersbestimmung von Nutzern auf seinen Plattformen zu nutzen.",
+      "highlights": [
+        "EU-Alterskontroll-App nutzt Verfahren von Google-Entwicklern.",
+        "Meta setzt KI ein, um das Alter von Nutzern anhand körperlicher Merkmale zu ermitteln.",
+        "IT-Experten warnen vor Datenschutzrisiken und Abhängigkeiten von großen Tech-Unternehmen."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Assertion Libraries für Java: AssertJ versus Google Truth",
+          "link": "https://www.heise.de/hintergrund/Assertion-Libraries-fuer-Java-AssertJ-versus-Google-Truth-11260088.html",
+          "summary": "Beim Formulieren von Assertions kommt JUnit schnell an Grenzen. Die Libraries AssertJ und Google Truth bieten neue Möglichkeiten und eine bessere Lesbarkeit.",
+          "published": "2026-05-02T07:36:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Assertion Libraries AssertJ und Google Truth erweitern die Möglichkeiten von JUnit beim Formulieren von Assertions und verbessern die Lesbarkeit von Tests. Beide Tools bieten eine flexiblere Syntax und unterstützen komplexe Vergleiche.",
+      "highlights": [
+        "AssertJ ermöglicht fluente API für lesbare Assertions.",
+        "Google Truth bietet eine prägnante Syntax für komplexe Vergleiche.",
+        "Beide Libraries helfen, die Grenzen von JUnit zu überwinden."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Diese Erfindung aus dem Jahr 1856 sollte die Welt verändern - dank Werner Siemens",
+          "link": "https://t3n.de/news/erfindung-welt-veraendern-siemens-1716490/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine einzelne Erfindung kann den Anstoß zu einem technischen Umbruch geben – wenn sie zur richtigen Zeit auf die richtigen Menschen trifft. Einem unscheinbaren Bauteil gelang dies in gleich drei Industriezweigen. weiterlesen auf t3n.de",
+          "published": "Thu, 7 May 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "FSFE warnt: NHS sollte quelloffenen Code nicht depublizieren",
+          "link": "https://www.heise.de/news/FSFE-warnt-NHS-sollte-quelloffenen-Code-nicht-depublizieren-11283406.html",
+          "summary": "Die Free Software Foundation Europe warnt vor dem Umstellen der NHS-Code-Repositories auf Privat aus Angst vor KI-Schwachstellensuche.",
+          "published": "2026-05-06T07:31:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Patchday: Kritische Schadcode-Lücke bedroht Android 14, 15 und 16",
+          "link": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecke-bedroht-Android-14-15-und-16-11281884.html",
+          "summary": "Schadcode kann durch ein fehlerhaftes Debugging-Modul auf Androidgeräte schlüpfen. Nun hat Google die kritische Schwachstelle geschlossen.",
+          "published": "2026-05-05T09:27:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anthropic startet öffentliche Beta von Claude Security für Unternehmen",
+          "link": "https://www.heise.de/news/Claude-Security-Anthropic-bringt-KI-Schwachstellenscanner-fuer-Unternehmen-11279018.html",
+          "summary": "Anthropic schickt Claude Security in den öffentlichen Beta-Test. Es scannt Code auf Schwachstellen, schlägt Patches vor und soll bei Sicherheit streng sein.",
+          "published": "2026-04-30T21:05:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Ask Me Anything 12.5.: Was Palantir wirklich macht - und warum das gefährlich ist",
+          "link": "https://www.golem.de/news/ask-me-anything-12-5-was-palantir-wirklich-macht-und-warum-das-gefaehrlich-ist-2605-208395.html",
+          "summary": "Beim Live-Video-AMA am 12. Mai um 17 Uhr beantwortet IT-Sicherheitsberater und Aktivist Manuel Atug (aka HonkHase) eure Fragen zu Palantir. ( Palantir , Datenschutz )",
+          "published": "2026-05-06T17:47:06+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die IT-Sicherheit bleibt ein zentrales Thema, insbesondere im Hinblick auf Schwachstellen in Software und die Notwendigkeit von Sicherheitslösungen. Aktuelle Entwicklungen zeigen sowohl Risiken als auch Fortschritte im Bereich der Sicherheit durch Design.",
+      "highlights": [
+        "FSFE warnt vor der Depublizierung von NHS-Code-Repositories aus Angst vor KI-Schwachstellen.",
+        "Google hat eine kritische Schadcode-Lücke in Android 14, 15 und 16 geschlossen.",
+        "Anthropic startet die öffentliche Beta von Claude Security, das Code auf Schwachstellen scannt."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Irische Datenschützer ermitteln gegen Shein wegen Datenübertragung nach China",
+          "link": "https://www.heise.de/news/Irische-Datenschuetzer-ermitteln-gegen-Shein-wegen-Datenuebertragung-nach-China-11284835.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die irische Datenschutzbehörde untersucht, ob der Fast-Fashion-Riese Shein europäische Nutzerdaten illegal und ohne ausreichenden Schutz nach China übermittelt.",
+          "published": "2026-05-06T19:03:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die irische Datenschutzbehörde untersucht Shein wegen möglicher illegaler Übertragung europäischer Nutzerdaten nach China ohne ausreichenden Schutz. Diese Ermittlung könnte weitreichende Konsequenzen für den Fast-Fashion-Riesen haben.",
+      "highlights": [
+        "Untersuchung durch die irische Datenschutzbehörde",
+        "Verdacht auf illegale Datenübertragung nach China",
+        "Mangelnder Schutz europäischer Nutzerdaten"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Why the Linux Foundation adopted MCP, with Jim Zemlin and Mazin Gilbert",
+          "link": "https://thenewstack.io/agentic-ai-foundation-launch/",
+          "summary": "Agentic AI is in a hurry, and the open-source projects underpinning it are evolving at a breakneck pace. To ensure The post Why the Linux Foundation adopted MCP, with Jim Zemlin and Mazin Gilbert appeared first on The New Stack .",
+          "published": "Wed, 06 May 2026 11:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Nach jahrelanger Blockade: Quelloffenes HDMI 2.1 kommt endlich für Linux",
+          "link": "https://www.heise.de/news/Quelloffenes-HDMI-2-1-kommt-endlich-fuer-Linux-11280232.html",
+          "summary": "Ein AMD-Entwickler kündigt vollwertiges HDMI 2.1 für den Linux-Open-Source-Treiber an. Auch für den Nouveau-Treiber gibt es eine erste Implementierung.",
+          "published": "2026-05-04T09:01:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Starfighter 16: Linux-Laptop mit Opal-Verschlüsselung und abnehmbarer Webcam",
+          "link": "https://www.golem.de/news/starfighter-16-linux-laptop-mit-opal-verschluesselung-und-abnehmbarer-webcam-2605-208392.html",
+          "summary": "Seit vielen Jahren arbeitet Starlabs am auf Datenschutz und Privatsphäre ausgelegten Starfighter 16. Jetzt kann der Laptop bestellt werden. ( PC & Notebooks , Notebook )",
+          "published": "2026-05-06T17:04:03+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "DS No. 7 angeschaut: Die spleenige Luxus-Alternative aus Frankreich",
+          "link": "https://www.golem.de/news/ds-no-7-angeschaut-die-spleenige-luxus-alternative-aus-frankreich-2605-208370.html",
+          "summary": "DS baut Elektroautos mit ungewöhnlichen Designs und viel Reichweite. Der DS No. 7 wurde komplett neu designt und setzt auf Luxus. Von Tobias Költzsch ( Elektroauto , Auto )",
+          "published": "2026-05-06T15:00:00+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "The 44 best last-minute Mother’s Day gift ideas for 2026",
+          "link": "https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets",
+          "summary": "Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. This Sunday, Mother's Day, is an opportunity to return the favor, so we've rounded up practical gadgets and little luxuries that can lighten her load. This year's picks are designed to [&#8230;]",
+          "published": "2026-05-06T13:34:00-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Agile Methoden und UX/UI sind entscheidend für die Entwicklung benutzerzentrierter Software und Produkte. Durch iterative Prozesse und kontinuierliches Feedback wird die Nutzererfahrung optimiert, was zu höherer Zufriedenheit und Effizienz führt.",
+      "highlights": [
+        "Agile Methoden fördern schnelle Anpassungen an Nutzerbedürfnisse.",
+        "UX/UI-Design verbessert die Interaktion zwischen Mensch und Technologie.",
+        "Iterative Prozesse ermöglichen ständige Verbesserungen der Benutzererfahrung."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Anthropic bekommt 220.000 KI-Chips von Musk – nach monatelanger Schlammschlacht",
+          "link": "https://t3n.de/news/anthropic-bekommt-220-000-ki-chips-von-musk-nach-monatelanger-schlammschlacht-1741444/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Elon Musk beschimpfte die KI-Firma Anthropic noch vor wenigen Monaten als &#8222;böse&#8220;. Doch jetzt gewährt er Anthropic – einem direkten Konkurrenten – Zugang zu einem riesigen Rechenzentrum. weiterlesen auf t3n.de",
+          "published": "Thu, 7 May 2026 08:00:45 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
+          "link": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+          "summary": "Deal follows others with Microsoft, Amazon, and more.",
+          "published": "Wed, 06 May 2026 22:09:14 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "How a Cursor AI agent wiped PocketOS’s production database in under 10 seconds",
+          "link": "https://thenewstack.io/ai-agents-credential-crisis/",
+          "summary": "Who gave agents root access? On April 25, 2026, a Cursor AI coding agent deleted the entire production database of The post How a Cursor AI agent wiped PocketOS&#8217;s production database in under 10 seconds appeared first on The New Stack .",
+          "published": "Wed, 06 May 2026 20:50:31 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Why long-running AI agents break on HTTP and how Ably is fixing it",
+          "link": "https://thenewstack.io/ably-durable-sessions-ai/",
+          "summary": "For this episode of The New Stack Makers, we speak with Matthew O&#8217;Riordan, CEO and co-founder of Ably. Ably&#8217;s platform The post Why long-running AI agents break on HTTP and how Ably is fixing it appeared first on The New Stack .",
+          "published": "Wed, 06 May 2026 19:48:35 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Anthropic's Claude Managed Agents can now \"dream,\" sort of",
+          "link": "https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/",
+          "summary": "Also, 5-hour usage limits will double for Pro and Max users of Claude Code.",
+          "published": "Wed, 06 May 2026 16:15:27 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Anthropic erhält 220.000 KI-Chips von Elon Musk, trotz früherer Konflikte. Zudem wurden die Nutzungslimits für Claude Code angehoben, was auf neue Partnerschaften hinweist. Ein Vorfall mit einem Cursor AI-Agenten führte zur Löschung einer Produktionsdatenbank in Rekordzeit.",
+      "highlights": [
+        "220.000 KI-Chips von Elon Musk an Anthropic",
+        "Erhöhung der Nutzungslimits für Claude Code",
+        "Cursor AI-Agent löscht Produktionsdatenbank in unter 10 Sekunden"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Why PHP performance keeps getting bumped from the roadmap",
+          "link": "https://thenewstack.io/php-performance-operational-planning/",
+          "summary": "Performance issues are familiar territory for PHP teams. Slow endpoints, uneven response times, and rising infrastructure costs show up in The post Why PHP performance keeps getting bumped from the roadmap appeared first on The New Stack .",
+          "published": "Wed, 06 May 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Noyb: „LinkedIn sperrt DSGVO-Rechte hinter Bezahlschranke”",
+          "link": "https://www.heise.de/news/Noyb-LinkedIn-sperrt-DSGVO-Rechte-hinter-Bezahlschranke-11284961.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Linkedin verweigert bestimmte DSGVO-Auskünfte. Gegen Geld gibt es die Daten sofort. Ob das so sein darf, soll die österreichische Datenschutzbehörde klären.",
+          "published": "2026-05-06T21:54:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Stopp von Google-Strafe? Schwere Vorwürfe gegen von der Leyen",
+          "link": "https://www.heise.de/news/Stopp-von-Google-Strafe-Schwere-Vorwuerfe-gegen-von-der-Leyen-11284817.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Berichte über eine Intervention der EU-Kommissionspräsidentin von der Leyen sorgen für Empörung: Zivilgesellschaft und EU-Parlament fordern DMA-Durchsetzung.",
+          "published": "2026-05-06T17:52:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "How David Sacks crashed and burned in the White House",
+          "link": "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review",
+          "summary": "Hello and welcome to Regulator, a newsletter exclusively for Verge subscribers about tech, politics, and Washington intrigue. (It's basically House of Cards, but for nerds.) Not a subscriber yet? You really should become one, and to save you a Google search, here is the direct link to do so! And do you think I should [&#8230;]",
+          "published": "2026-05-06T16:18:00-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Die EU-Tech-Regulierung steht im Fokus, insbesondere im Hinblick auf Datenschutz und Wettbewerbsrecht. LinkedIn wird vorgeworfen, DSGVO-Rechte hinter einer Bezahlschranke zu verstecken, während Vorwürfe gegen von der Leyen wegen möglicher Interventionen bei Google für Empörung sorgen.",
+      "highlights": [
+        "LinkedIn verlangt Geld für DSGVO-Datenanfragen, was rechtlich angefochten wird.",
+        "EU-Kommissionspräsidentin von der Leyen sieht sich Vorwürfen der Einflussnahme auf Google-Strafen ausgesetzt.",
+        "Zivilgesellschaft und EU-Parlament fordern die Durchsetzung des Digital Markets Act (DMA)."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Leading Open Source Author Calls for Verification over Trust in Software Supply Chains",
+          "link": "https://www.infoq.com/news/2026/05/stenberg-curl-verification-trust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In a blog post published in March 2026, Daniel Stenberg, creator and lead developer of curl, makes the case that the software industry's default position of trusting well-known components is no longer adequate. Stenberg argues that users and organisations should actively verify the software they consume, and he uses curl's own practices as a concrete example of how that can be done. By Matt Saunders",
+          "published": "Thu, 07 May 2026 07:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Court strikes down FCC anti-discrimination rule opposed by Internet providers",
+          "link": "https://arstechnica.com/tech-policy/2026/05/court-strikes-down-fcc-anti-discrimination-rule-opposed-by-internet-providers/",
+          "summary": "Chairman Brendan Carr celebrates FCC court loss in case over Biden-era rule.",
+          "published": "Wed, 06 May 2026 21:33:39 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Spooked by Mythos, Trump suddenly realized AI safety testing might be good",
+          "link": "https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/",
+          "summary": "Trump forced to admit Biden was right on AI safety testing.",
+          "published": "Wed, 06 May 2026 21:20:14 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Google's Gemma 4 AI models get 3x speed boost by predicting future tokens",
+          "link": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
+          "summary": "Up to 3x the speed with no loss of quality—is it too good to be true?",
+          "published": "Wed, 06 May 2026 15:44:20 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "LinkedIn Consolidates Hiring Data Pipelines to Power AI Driven Talent Systems",
+          "link": "https://www.infoq.com/news/2026/05/linkedin-unified-hiring-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "LinkedIn introduced a unified integrations platform to standardize and reconcile hiring data across systems. The platform reduces onboarding time by 72%, improves data consistency and completeness, and enables scalable AI-driven hiring features through standardized schemas, orchestration workflows, and centralized data processing. By Leela Kumili",
+          "published": "Wed, 06 May 2026 14:15:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Daniel Stenberg, Entwickler von curl, fordert eine aktive Verifizierung von Softwarekomponenten in der Software-Lieferkette, anstatt blindem Vertrauen. Dies geschieht im Kontext wachsender Bedenken über die Sicherheit und Integrität von Open-Source-Software.",
+      "highlights": [
+        "Stenberg argumentiert, dass das Vertrauen in bekannte Komponenten nicht mehr ausreicht.",
+        "Er nutzt curl als Beispiel für effektive Verifizierungsmethoden.",
+        "Der Aufruf zur Verifizierung kommt in einer Zeit, in der Software-Sicherheit zunehmend in den Fokus rückt."
+      ]
+    }
+  ]
+}
