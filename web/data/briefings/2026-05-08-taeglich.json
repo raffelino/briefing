@@ -1,0 +1,312 @@
+{
+  "date": "2026-05-08",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "How Microsoft is governing thousands of Kubernetes clusters without manual intervention",
+          "link": "https://thenewstack.io/kubernetes-fleet-management-scale/",
+          "summary": "Kubernetes is complicated; everybody knows it. Logically enough, Kubernetes deployed as a cluster of collected and coalesced instances at &#8220;fleet The post How Microsoft is governing thousands of Kubernetes clusters without manual intervention appeared first on The New Stack .",
+          "published": "Thu, 07 May 2026 22:07:21 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "DHS can’t create vast DNA database to track ICE critics, lawsuit says",
+          "link": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
+          "summary": "Lawsuit accuses DHS of plugging DNA database into ICE surveillance machine.",
+          "published": "Thu, 07 May 2026 21:35:01 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Former NASA chief takes helm of national security space firm",
+          "link": "https://arstechnica.com/space/2026/05/former-nasa-chief-takes-helm-of-national-security-space-firm/",
+          "summary": "\"The spacecraft can also be refueled, and it can refuel others.\"",
+          "published": "Thu, 07 May 2026 11:00:17 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "60 Jahre Flugdaten ausgewertet: Die Sonne bestimmt, wie schnell Weltraumschrott sinkt",
+          "link": "https://t3n.de/news/studie-weltraumschrott-orbit-sonnenaktivitaet-1741479/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Weltraumschrott im erdnahen Orbit wird zunehmend zum Problem für die Raumfahrt. Eine Studie aus Indien liefert neue Erkenntnisse zur Vorhersagbarkeit von Sinkgeschwindigkeiten von Objekten, die um die Erde kreisen: Das Aktivitätsniveau der Sonne spielt eine entscheidende Rolle. weiterlesen auf t3n.de",
+          "published": "Thu, 7 May 2026 12:30:44 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google Announces GKE Agent Sandbox and Hypercluster at Next '26, Positioning Kubernetes as AI Agent",
+          "link": "https://www.infoq.com/news/2026/05/gke-agent-sandbox-hypercluster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google announced GKE Agent Sandbox and hypercluster at Cloud Next '26. Agent Sandbox uses gVisor kernel isolation for secure agent code execution at 300 sandboxes per second, built as an open-source Kubernetes SIG Apps subproject. It is currently the only native agent sandbox among the three major hyperscalers. Hypercluster manages a million chips from a single control plane. By Steef-Jan Wiggers",
+          "published": "Thu, 07 May 2026 10:06:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Microsoft und Google erweitern ihre Cloud-Architekturen mit innovativen Lösungen für Kubernetes. Microsoft automatisiert die Verwaltung von Tausenden von Clustern, während Google mit GKE Agent Sandbox und Hypercluster neue Maßstäbe in der Sicherheit und Effizienz setzt.",
+      "highlights": [
+        "Microsoft verwaltet tausende Kubernetes-Cluster ohne manuelle Eingriffe.",
+        "Google führt GKE Agent Sandbox mit gVisor-Kernel-Isolation ein.",
+        "Hypercluster von Google kann eine Million Chips von einem einzigen Kontrollzentrum aus steuern."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Assertion Libraries für Java: AssertJ versus Google Truth",
+          "link": "https://www.heise.de/hintergrund/Assertion-Libraries-fuer-Java-AssertJ-versus-Google-Truth-11260088.html",
+          "summary": "Beim Formulieren von Assertions kommt JUnit schnell an Grenzen. Die Libraries AssertJ und Google Truth bieten neue Möglichkeiten und eine bessere Lesbarkeit.",
+          "published": "2026-05-02T07:36:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Assertion Libraries AssertJ und Google Truth erweitern die Möglichkeiten von JUnit beim Formulieren von Assertions und verbessern die Lesbarkeit des Codes. Diese Tools bieten Entwicklern eine flexiblere und ausdrucksstärkere Syntax für Tests.",
+      "highlights": [
+        "AssertJ ermöglicht fluente API für komplexe Assertions.",
+        "Google Truth bietet eine klare und prägnante Syntax für Vergleiche.",
+        "Beide Libraries verbessern die Lesbarkeit und Wartbarkeit von Testcode."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Freitag: Gericht gegen AGB-Klauseln von 1&1, Foxconn für E-Auto-Werk in Polen",
+          "link": "https://www.heise.de/news/Freitag-Gericht-gegen-AGB-Klauseln-von-1-1-Foxconn-fuer-E-Auto-Werk-in-Polen-11286627.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "1&1-Klauseln nach Urteil unwirksam + Kooperation für polnische E-Autos + Meta gegen Jugendschutz-Urteil + DENIC-E-Mail kein Phishing + Verbraucherschutzpodcast",
+          "published": "2026-05-08T06:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "FSFE warnt: NHS sollte quelloffenen Code nicht depublizieren",
+          "link": "https://www.heise.de/news/FSFE-warnt-NHS-sollte-quelloffenen-Code-nicht-depublizieren-11283406.html",
+          "summary": "Die Free Software Foundation Europe warnt vor dem Umstellen der NHS-Code-Repositories auf Privat aus Angst vor KI-Schwachstellensuche.",
+          "published": "2026-05-06T07:31:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Patchday: Kritische Schadcode-Lücke bedroht Android 14, 15 und 16",
+          "link": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecke-bedroht-Android-14-15-und-16-11281884.html",
+          "summary": "Schadcode kann durch ein fehlerhaftes Debugging-Modul auf Androidgeräte schlüpfen. Nun hat Google die kritische Schwachstelle geschlossen.",
+          "published": "2026-05-05T09:27:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anthropic startet öffentliche Beta von Claude Security für Unternehmen",
+          "link": "https://www.heise.de/news/Claude-Security-Anthropic-bringt-KI-Schwachstellenscanner-fuer-Unternehmen-11279018.html",
+          "summary": "Anthropic schickt Claude Security in den öffentlichen Beta-Test. Es scannt Code auf Schwachstellen, schlägt Patches vor und soll bei Sicherheit streng sein.",
+          "published": "2026-04-30T21:05:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die IT-Sicherheit steht im Fokus aktueller Entwicklungen, insbesondere durch kritische Schwachstellen in Android und die Einführung von Sicherheitslösungen wie Claude Security. Zudem gibt es Bedenken hinsichtlich der Depublizierung quelloffenen Codes im NHS, was die Sicherheitsforschung gefährden könnte.",
+      "highlights": [
+        "Google schließt kritische Schadcode-Lücke in Android 14-16.",
+        "Anthropic startet öffentliche Beta von Claude Security zur Code-Schwachstellensuche.",
+        "FSFE warnt vor der Depublizierung von NHS-Code-Repositories aus Angst vor KI-Schwachstellensuche."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Elastic architects reveal how to query observability data in plain English",
+          "link": "https://thenewstack.io/ai-observability-opentelemetry-webinar/",
+          "summary": "Keeping observability data locked behind the SRE job function is a mistake. Today&#8217;s leading companies are making operational data available The post Elastic architects reveal how to query observability data in plain English appeared first on The New Stack .",
+          "published": "Thu, 07 May 2026 16:27:32 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "US-Börsenaufsicht will Quartalszahlen abschaffen – Anleger fürchten um Transparenz",
+          "link": "https://t3n.de/news/us-boersenaufsicht-will-quartalszahlen-abschaffen-anleger-fuerchten-um-transparenz-1741473/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die US-Börsenaufsicht SEC will Unternehmen künftig mehr Freiheit bei der Finanzberichterstattung geben. Statt verpflichtender Quartalszahlen sollen Halbjahresberichte ausreichen. weiterlesen auf t3n.de",
+          "published": "Thu, 7 May 2026 11:00:10 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Bundessteuerberaterkammer: Pendlerpauschale soll abgeschafft werden",
+          "link": "https://www.golem.de/news/bundessteuerberaterkammer-pendlerpauschale-soll-abgeschafft-werden-2605-208451.html",
+          "summary": "Vereinfachen statt flicken: Das fordert der Steuerberater-Präsident. Sein Vorschlag: Sonderrechte streichen, Freibeträge erhöhen, Steuern für alle senken. ( Bundesregierung , Politik )",
+          "published": "2026-05-07T19:04:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die heutige Berichterstattung thematisiert die Bedeutung der Zugänglichkeit von Observabilitätsdaten für Unternehmen, die Abschaffung der Quartalszahlen durch die US-Börsenaufsicht sowie die Forderung nach einer Reform der Pendlerpauschale in Deutschland. Diese Entwicklungen könnten weitreichende Auswirkungen auf Transparenz und Steuerpolitik haben.",
+      "highlights": [
+        "Elastic-Architekten betonen, dass Observabilitätsdaten für alle zugänglich sein sollten.",
+        "Die US-Börsenaufsicht SEC plant, Quartalszahlen durch Halbjahresberichte zu ersetzen.",
+        "Der Präsident der Bundessteuerberaterkammer fordert die Abschaffung der Pendlerpauschale und eine Vereinfachung des Steuersystems."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Von Windows zu Linux: So funktioniert der Umstieg einfacher als ihr denkt",
+          "link": "https://t3n.de/news/von-windows-zu-linux-so-funktioniert-der-umstieg-einfacher-als-ihr-denkt-1741537/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Linux zu nutzen ist heute ziemlich simpel – wenn man ein paar Dinge vorher weiß. Wir erklären, wie der Umstieg möglichst reibungslos abläuft. Von der kompatiblen Software bis zur geeignetsten Distribution. weiterlesen auf t3n.de",
+          "published": "Thu, 7 May 2026 14:30:16 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "&quot;Viel echte Forschung auf unbekanntem Terrain“: Diese günstigen Tauchroboter sollen Rohstoffe in der Tiefsee finden",
+          "link": "https://t3n.de/news/viel-echte-forschung-auf-unbekanntem-terrain-diese-guenstigen-tauchroboter-sollen-rohstoffe-in-der-tiefsee-finden-1741287/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das US-Unternehmen Orpheus Ocean will mit neuartigen Tauchrobotern besonders tief und günstig tauchen. Die Hoffnung ist es damit, „die Tiefseewissenschaft zu demokratisieren.“ Auch den Bergbau auf dem Meeresboden sollen sie voran bringen. weiterlesen auf t3n.de",
+          "published": "Thu, 7 May 2026 13:15:27 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "QLNX: Neuer Remote-Access-Trojaner zielt auf Linux-Entwickler",
+          "link": "https://www.heise.de/news/QLNX-Neuer-Remote-Access-Trojaner-zielt-auf-Linux-Entwickler-11285654.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Hinter Quasar Linux (QLNX) steckt kein Betriebssystem, sondern ein Supply-Chain-Angriffstool, das sich nur schwer erkennen und entfernen lässt.",
+          "published": "2026-05-07T15:49:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "QLNX: Neuer Remote-Access-Trojaner zielt auf Linux-Entwickler",
+          "link": "https://www.heise.de/news/QLNX-Neuer-Remote-Access-Trojaner-zielt-auf-Linux-Entwickler-11285654.html",
+          "summary": "Hinter Quasar Linux (QLNX) steckt kein Betriebssystem, sondern ein Supply-Chain-Angriffstool, das sich nur schwer erkennen und entfernen lässt.",
+          "published": "2026-05-07T13:49:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Nach jahrelanger Blockade: Quelloffenes HDMI 2.1 kommt endlich für Linux",
+          "link": "https://www.heise.de/news/Quelloffenes-HDMI-2-1-kommt-endlich-fuer-Linux-11280232.html",
+          "summary": "Ein AMD-Entwickler kündigt vollwertiges HDMI 2.1 für den Linux-Open-Source-Treiber an. Auch für den Nouveau-Treiber gibt es eine erste Implementierung.",
+          "published": "2026-05-04T09:01:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen im Bereich Linux zeigen sowohl Fortschritte als auch Herausforderungen. Während der Umstieg auf Linux einfacher wird, gibt es neue Sicherheitsbedrohungen durch Trojaner und Fortschritte bei der Unterstützung von HDMI 2.1.",
+      "highlights": [
+        "Umstieg auf Linux wird durch kompatible Software und Distributionen erleichtert.",
+        "Neuer Remote-Access-Trojaner QLNX zielt gezielt auf Linux-Entwickler ab.",
+        "Vollwertiges HDMI 2.1 wird nun für Linux-Open-Source-Treiber verfügbar gemacht."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Licht in die KI-Blackbox: US-Startup will mit neuem Tool LLMs debuggen",
+          "link": "https://t3n.de/news/licht-in-die-ki-blackbox-us-startup-will-mit-neuem-tool-llms-debuggen-1741338/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das US-Startup Goodfire stellt ein Tool vor, das in alle Phasen des Entwicklungsprozesses eines KI-Modells eingreifen kann. Mit dem Ansatz der „mechanistischen Interpretierbarkeit“ arbeiten auch KI-Firmen wie OpenAI, Google Deepmind und Anthropic, um das Blackbox-Problem zu bewältigen. weiterlesen auf t3n.de",
+          "published": "Fri, 8 May 2026 07:30:57 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI brings GPT-5-level reasoning to its speech models",
+          "link": "https://thenewstack.io/openai-gpt-5-level-speech/",
+          "summary": "OpenAI launched three new speech-focused models on Thursday: GPT-Realtime-2, its first voice model with what the company calls &#8220;GPT-5-class reasoning&#8221;; The post OpenAI brings GPT-5-level reasoning to its speech models appeared first on The New Stack .",
+          "published": "Thu, 07 May 2026 17:13:46 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "I tested the new OpenAI Codex features on a real Python codebase, and it’s the strongest Claude Code rival yet",
+          "link": "https://thenewstack.io/openai-codex-claude-code/",
+          "summary": "Late last month, OpenAI shipped a new product they dubbed &#8220;Codex for (almost) everything.&#8221; Its goal was to shift&#160;Codex&#160;from a The post I tested the new OpenAI Codex features on a real Python codebase, and it&#8217;s the strongest Claude Code rival yet appeared first on The New Stack .",
+          "published": "Thu, 07 May 2026 15:27:18 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "GitHub builds an immune system for AI coding agents running on MCP",
+          "link": "https://thenewstack.io/github-mcp-security-scanning/",
+          "summary": "Security has emerged as one of the core stumbling blocks in the AI coding space: Companies are racing to connect The post GitHub builds an immune system for AI coding agents running on MCP appeared first on The New Stack .",
+          "published": "Thu, 07 May 2026 15:04:24 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI Introduces Websocket-Based Execution Mode to Reduce Latency in Agentic Workflows",
+          "link": "https://www.infoq.com/news/2026/05/openai-websocket-responses-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "OpenAI introduces a WebSocket-based execution mode for its Responses API to improve agentic workflow performance in coding agents and real-time AI systems. The update reduces latency by up to 40 percent by replacing HTTP request-response cycles with persistent connections, improving streaming, tool execution, and multi-step orchestration in production-scale AI systems. By Leela Kumili",
+          "published": "Thu, 07 May 2026 14:48:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Die Entwicklungen im Bereich generative KI und LLMs zeigen Fortschritte in der Debugging-Technologie, Sprachmodellen und Sicherheitsmaßnahmen. Unternehmen wie OpenAI und GitHub arbeiten an innovativen Lösungen, um die Effizienz und Sicherheit von KI-Anwendungen zu verbessern.",
+      "highlights": [
+        "Goodfire präsentiert ein Tool zur Debugging von LLMs, das in alle Entwicklungsphasen eingreift.",
+        "OpenAI launcht neue Sprachmodelle mit GPT-5-ähnlicher Logik.",
+        "GitHub entwickelt ein Sicherheitskonzept für KI-Coding-Agenten auf der MCP-Plattform."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "KI-Verordnung: EU-Parlament und Rat einigen sich auf gelockerte Pflichten für die Industrie",
+          "link": "https://netzpolitik.org/2026/ki-verordnung-eu-parlament-und-rat-einigen-sich-auf-gelockerte-pflichten-fuer-die-industrie/",
+          "summary": "Mehr \"Künstliche Intelligenz\" mit weniger Auflagen, das wünscht sich die Industrie. (Symbolbild) – Alle Rechte vorbehalten: Bild: IMAGO / Westend61, Bearbeitung: netzpolitik.org Die EU will die KI-Verordnung aufweichen. Eine erste Einigung sieht nun vor, bestimmte Regulierungen für die Industrie abzuschwächen und zeitlich deutlich nach hinten zu verschieben. Hinzugekommen ist ein Verbot von KI-Anwendungen, mit denen sexualisierte Deepfakes erstellt werden können.",
+          "published": "Thu, 07 May 2026 16:25:53 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "DSGVO-Beschwerde eingelegt: Linkedin will Nutzerdaten lieber verkaufen als beauskunften",
+          "link": "https://www.golem.de/news/dsgvo-beschwerde-eingelegt-linkedin-will-nutzerdaten-lieber-verkaufen-als-beauskunften-2605-208428.html",
+          "summary": "Nutzer von Online-Plattformen haben Anspruch auf Herausgabe ihrer gespeicherten Daten. Doch das kollidiert mit dem Geschäftsmodell von Linkedin. ( Linkedin , Microsoft )",
+          "published": "2026-05-07T13:20:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die EU plant eine Lockerung der KI-Verordnung, um der Industrie entgegenzukommen, während ein Verbot von sexualisierten Deepfakes eingeführt wird. Gleichzeitig hat Linkedin eine DSGVO-Beschwerde erhalten, da das Unternehmen Nutzerdaten nicht herausgeben möchte, was im Widerspruch zu den Datenschutzrechten steht.",
+      "highlights": [
+        "Einigung zwischen EU-Parlament und Rat zur Abschwächung von KI-Regulierungen.",
+        "Verbot von KI-Anwendungen zur Erstellung sexualisierter Deepfakes beschlossen.",
+        "Linkedin steht unter Druck, da es Nutzerdaten nicht gemäß DSGVO herausgeben will."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "3I/Atlas: Teleskop liefert neue Erkenntnisse zur Zusammensetzung des interstellaren Kometen",
+          "link": "https://t3n.de/news/3i-atlas-teleskop-zusammensetzung-interstellaren-kometen-1741610/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der interstellare Komet 3I/Atlas hat unser Sonnensystem verlassen, hält die Forschung aber weiter in Atem. Ein Wissenschaftsteam hat mithilfe des Subaru-Teleskop untersucht, wie sich die chemische Zusammensetzung des Kometen durch den Vorbeiflug an der Sonne verändert hat. weiterlesen auf t3n.de",
+          "published": "Thu, 7 May 2026 19:00:57 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nach massiven Klick-Verlusten für Websites: Google kündigt KI-Updates an",
+          "link": "https://t3n.de/news/nach-massiven-klick-verlusten-fuer-websites-google-kuendigt-ki-updates-an-1741518/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google sieht sich wegen seiner KI-Funktionen mit mehreren Untersuchungen und Kartellklagen konfrontiert. Diese Neuerungen sollen jetzt dafür sorgen, dass wieder mehr Traffic auf Websites landet. weiterlesen auf t3n.de",
+          "published": "Thu, 7 May 2026 13:45:24 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Kommt das iPhone 18 erst 2027? Was der Vorgänger damit zu tun haben könnte",
+          "link": "https://t3n.de/news/iphone-18-2027-vorgaenger-china-singles-day-1741478/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Meldungen dazu, dass Apple den Start des iPhone 18 ins Frühjahr verzögern könnte, gibt es schon länger. Ein Leaker aus China will nun den vermeintlichen Grund kennen: Das iPhone 17 soll schuld sein. weiterlesen auf t3n.de",
+          "published": "Thu, 7 May 2026 11:30:16 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Correctiv-Recherche: Europol betreibt mutmaßlich illegale Datenanalyseplattformen",
+          "link": "https://netzpolitik.org/2026/correctiv-recherche-europol-betreibt-mutmasslich-illegale-datenanalyseplattformen/",
+          "summary": "Europol betrieb offenbar ein „Schwarzes Loch“ für unregulierte Datenanalyse. – Alle Rechte vorbehalten: Gebäude: IMAGO/IP3press, Schwarzes Loch: BoliviaInteligente/unsplash.com, Bearbeitung: netzpolitik.org Die europäische Polizeibehörde Europol hat offenbar jahrelang eine Schatten-IT betrieben. Mitarbeitende sollen damit widerrechtlich große Mengen an personenbezogenen Daten durchsucht und ausgewertet haben. Dennoch will die EU-Kommission Europol nun mit deutlich mehr Budget und Personal ausstatten.",
+          "published": "Thu, 07 May 2026 09:21:39 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Remote Work klappt bei euch nicht? Dann liegt es nicht am Homeoffice",
+          "link": "https://t3n.de/news/remote-work-homeoffice-prozesse-1738204/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Remote Work ist Alltag, doch fehlende Prozesse bremsen Teams aus. Wie ein digitales Headquarter mit den richtigen Remote-Work-Tools Struktur schafft und Produktivität in der Hybridarbeit steigert. weiterlesen auf t3n.de",
+          "published": "Thu, 7 May 2026 10:45:41 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Software Supply Chain wird zunehmend durch Open-Source-Technologien geprägt, die sowohl Chancen als auch Herausforderungen mit sich bringen. Sicherheitsrisiken und die Notwendigkeit von Transparenz stehen im Fokus der Diskussionen.",
+      "highlights": [
+        "Open-Source-Software kann Sicherheitsanfälligkeiten in der Software Supply Chain erhöhen.",
+        "Transparenz und Nachverfolgbarkeit sind entscheidend für die Sicherheit in der Software-Lieferkette.",
+        "Unternehmen müssen Strategien entwickeln, um Risiken im Umgang mit Open-Source-Komponenten zu minimieren."
+      ]
+    }
+  ]
+}
