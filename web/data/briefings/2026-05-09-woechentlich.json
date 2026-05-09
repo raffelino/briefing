@@ -1,0 +1,435 @@
+{
+  "date": "2026-05-09",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "The company that made RAG mainstream is now betting against it",
+          "link": "https://thenewstack.io/pinecone-nexus-rag-obsolete/",
+          "summary": "Pinecone just declared the RAG era over. Pinecone built the vector database category. It defined RAG as the standard pattern The post The company that made RAG mainstream is now betting against it appeared first on The New Stack .",
+          "published": "Wed, 06 May 2026 14:40:50 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "In der vergangenen Woche sorgte Pinecone für Aufsehen, indem das Unternehmen das Ende der RAG-Ära (Retrieval-Augmented Generation) erklärte. Als Pionier im Bereich der Vektordatenbanken hatte Pinecone RAG als Standardmuster etabliert. Diese Wende deutet auf einen möglichen Paradigmenwechsel in der Datenverarbeitung und KI hin, da Unternehmen nach neuen Ansätzen suchen, um Effizienz und Leistung zu steigern.",
+      "highlights": [
+        "Pinecone erklärt die RAG-Ära für beendet.",
+        "Das Unternehmen hat die Kategorie der Vektordatenbanken maßgeblich geprägt.",
+        "RAG wurde zuvor als Standardmuster in der KI-Entwicklung angesehen.",
+        "Die Ankündigung könnte auf einen Paradigmenwechsel in der Datenverarbeitung hindeuten.",
+        "Unternehmen suchen verstärkt nach innovativen Ansätzen zur Leistungssteigerung."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AWS Improves Aurora Serverless: 45% Faster Ramp-Up, 30% Higher Throughput",
+          "link": "https://www.infoq.com/news/2026/05/aurora-serverless-v4/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has recently announced that WorkMail will be discontinued and that App Runner will stop accepting new customers and move into maintenance mode. Several other less popular services and features are also entering maintenance or sunset phases, triggering concern and debate across the AWS community. By Renato Losio",
+          "published": "Sat, 09 May 2026 06:56:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Heinlein-Co-CEO über die Abhängigkeit von Big-Tech: „Microsoft auf dem Desktop ist das härteste Brett, das wir bohren können“",
+          "link": "https://t3n.de/news/abhaengigkeit-big-tech-heinlein-co-ceo-microsoft-1739236/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Abhängigkeit von US-Technologie sitzt tief. Open Source könnte beim Freischwimmen helfen. Jutta Horstmann, Co-CEO der Heinlein Gruppe, erklärt im Gespräch mit t3n, warum man mit digitaler Souveränität im Maschinenraum und nicht auf dem Desktop anfangen sollte. weiterlesen auf t3n.de",
+          "published": "Sat, 9 May 2026 08:25:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "How Microsoft is governing thousands of Kubernetes clusters without manual intervention",
+          "link": "https://thenewstack.io/kubernetes-fleet-management-scale/",
+          "summary": "Kubernetes is complicated; everybody knows it. Logically enough, Kubernetes deployed as a cluster of collected and coalesced instances at &#8220;fleet The post How Microsoft is governing thousands of Kubernetes clusters without manual intervention appeared first on The New Stack .",
+          "published": "Thu, 07 May 2026 22:07:21 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "DHS can’t create vast DNA database to track ICE critics, lawsuit says",
+          "link": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
+          "summary": "Lawsuit accuses DHS of plugging DNA database into ICE surveillance machine.",
+          "published": "Thu, 07 May 2026 21:35:01 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Google Announces GKE Agent Sandbox and Hypercluster at Next '26, Positioning Kubernetes as AI Agent",
+          "link": "https://www.infoq.com/news/2026/05/gke-agent-sandbox-hypercluster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google announced GKE Agent Sandbox and hypercluster at Cloud Next '26. Agent Sandbox uses gVisor kernel isolation for secure agent code execution at 300 sandboxes per second, built as an open-source Kubernetes SIG Apps subproject. It is currently the only native agent sandbox among the three major hyperscalers. Hypercluster manages a million chips from a single control plane. By Steef-Jan Wiggers",
+          "published": "Thu, 07 May 2026 10:06:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Europäische Kommission: In der Alterskontroll-App schlägt ein Herz von Google",
+          "link": "https://netzpolitik.org/2026/europaeische-kommission-in-der-alterskontroll-app-schlaegt-ein-herz-von-google/",
+          "summary": "Wie können Nutzer:innen ihr Alter bestätigen, ohne allzu viele persönliche Daten preiszugeben? – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Jon Tyson Die Alterskontroll-App der EU- Kommission nutzt ein Verfahren von Google-Entwicklern. IT-Fachleute warnen vor Abhängigkeiten und Datenschutzrisiken – auch mit Blick auf die geplante EUDI-Wallet.",
+          "published": "Thu, 07 May 2026 06:07:58 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Kubernetes finally lands user namespace support, but shared kernel problem remains",
+          "link": "https://thenewstack.io/kubernetes-user-namespace-security/",
+          "summary": "Kubernetes shipped a long-awaited security feature last week: user namespace support for pods.&#160; It may sound like an obscure feature The post Kubernetes finally lands user namespace support, but shared kernel problem remains appeared first on The New Stack .",
+          "published": "Wed, 06 May 2026 14:50:05 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "FAQ: Das Überwachungspaket der Bundesregierung",
+          "link": "https://netzpolitik.org/2026/faq-das-ueberwachungspaket-der-bundesregierung/",
+          "summary": "Bundesinnenminister Dobrindt (links) und Vizekanzler Klingbeil: Große Einigkeit in der Großen Koalition, dass Polizeibehörden weitere Ermittlungsbefugnisse brauchen. – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Die schwarz-rote Koalition will ein Gesetzespaket verabschieden, das ein neues Zeitalter der Überwachung einläutet. Was steckt da konkret alles drin? Wir haben es durchgesehen, damit ihr es nicht tun müsst.",
+          "published": "Mon, 04 May 2026 13:52:16 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "In dieser Woche standen Entwicklungen in der Cloud-Architektur und bei Plattformen im Fokus. AWS kündigte Verbesserungen für Aurora Serverless an, während Google neue Sicherheitsfeatures für Kubernetes präsentierte. Die Abhängigkeit von großen Technologieanbietern wurde in einem Interview mit der Heinlein-Gruppe thematisiert. Zudem wurde die Einführung von Benutzer-Namensräumen in Kubernetes als wichtiger Fortschritt gewertet, obwohl weiterhin Herausforderungen bestehen.",
+      "highlights": [
+        "AWS verbessert Aurora Serverless: 45% schnellere Hochlaufzeit, 30% höherer Durchsatz.",
+        "Heinlein-Co-CEO betont die Notwendigkeit digitaler Souveränität gegen Big-Tech-Abhängigkeiten.",
+        "Google führt GKE Agent Sandbox und Hypercluster ein, um Kubernetes für KI-Agenten zu positionieren.",
+        "Kubernetes erhält Unterstützung für Benutzer-Namensräume, bleibt aber mit dem Shared-Kernel-Problem konfrontiert."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Article: Implementing the Sidecar Pattern in Microservices-based ASP.NET Core Applications",
+          "link": "https://www.infoq.com/articles/asp-net-core-side-car/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Today's applications require monitoring, logging, configuration, etc. Each of these concerns can be implemented as a component or a service. These cross-cutting concerns can be tightly integrated into the application. While this tight coupling ensures effective use of shared resources, an outage in any of these components can take your application down. Enter the sidecar design pattern. By Joydip Kanjilal",
+          "published": "Fri, 08 May 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "In der vergangenen Woche wurde das Sidecar-Pattern als effektive Lösung für die Herausforderungen in Microservices-Architekturen hervorgehoben. Dieses Muster ermöglicht es, plattformübergreifende Anliegen wie Monitoring und Logging in separate Komponenten auszulagern, wodurch die Hauptanwendung entlastet wird. Die Diskussion um Sidecars zeigt einen Trend hin zu flexibleren und resilienteren Architekturen, die Ausfälle einzelner Komponenten besser abfangen können. Dies ist besonders relevant für moderne Anwendungen, die auf ASP.NET Core basieren.",
+      "highlights": [
+        "Sidecar-Pattern trennt plattformübergreifende Anliegen von der Hauptanwendung.",
+        "Erhöht die Resilienz gegen Ausfälle einzelner Komponenten.",
+        "Ermöglicht bessere Ressourcennutzung durch Entkopplung.",
+        "Wachsende Relevanz in Microservices-Architekturen.",
+        "Fokus auf Monitoring, Logging und Konfiguration als separate Services."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Attacke auf Messenger: Signal will in Zukunft stärker vor Phishing warnen",
+          "link": "https://netzpolitik.org/2026/attacke-auf-messenger-signal-will-in-zukunft-staerker-vor-phishing-warnen/",
+          "summary": "Nach und nach kommen immer mehr Details heraus, wie die Phishing-Kampagne auf Signal funtioniert. – Alle Rechte vorbehalten: IMAGO / Sven Simon Signal reagiert auf die umfangreiche Phishing-Kampagne mit Änderungen in der App. Derweil wird die Dimension der Attacke deutlicher: Schon im Januar waren fast 14.000 Accounts gezielt angeschrieben worden.",
+          "published": "Fri, 08 May 2026 12:53:33 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "FSFE warnt: NHS sollte quelloffenen Code nicht depublizieren",
+          "link": "https://www.heise.de/news/FSFE-warnt-NHS-sollte-quelloffenen-Code-nicht-depublizieren-11283406.html",
+          "summary": "Die Free Software Foundation Europe warnt vor dem Umstellen der NHS-Code-Repositories auf Privat aus Angst vor KI-Schwachstellensuche.",
+          "published": "2026-05-06T07:31:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Patchday: Kritische Schadcode-Lücke bedroht Android 14, 15 und 16",
+          "link": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecke-bedroht-Android-14-15-und-16-11281884.html",
+          "summary": "Schadcode kann durch ein fehlerhaftes Debugging-Modul auf Androidgeräte schlüpfen. Nun hat Google die kritische Schwachstelle geschlossen.",
+          "published": "2026-05-05T09:27:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "(g+) 732 Bytes bis Root: Was Sysadmins zu CVE 2026 31431 wissen müssen",
+          "link": "https://www.golem.de/news/732-bytes-bis-root-was-sysadmins-zu-cve-2026-31431-wissen-muessen-2605-208469.html",
+          "summary": "732 Bytes Python und ein neun Jahre alter Logikfehler reichen für Root auf nahezu jedem Linux-Server seit 2017. Was Admins jetzt tun müssen. Von Steffen Zahn ( Sicherheitslücke , Python )",
+          "published": "2026-05-09T10:00:11+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Sicherheit: Russischer Phishingangriff erschüttert Bundesregierung",
+          "link": "https://www.golem.de/news/sicherheit-russischer-phishingangriff-erschuettert-bundesregierung-2605-208472.html",
+          "summary": "Hinter der Phishingkampagne gegen Signal steht vermutlich der russische Geheimdienst. Die Operation richtete sich gegen Politiker, Militärs und Journalisten. ( Signal , Phishing )",
+          "published": "2026-05-08T14:40:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In der vergangenen Woche wurde die IT-Sicherheitslandschaft durch mehrere bedeutende Ereignisse geprägt. Besonders hervorzuheben ist die Phishing-Kampagne gegen den Messenger Signal, die auf eine gezielte Attacke durch russische Akteure hinweist. Zudem warnte die Free Software Foundation Europe vor der Depublizierung von quelloffenem Code im NHS, während Google kritische Schwachstellen in Android schloss. Diese Vorfälle unterstreichen die Notwendigkeit von Security by Design und proaktiven Sicherheitsmaßnahmen.",
+      "highlights": [
+        "Signal plant, Nutzer künftig stärker vor Phishing zu warnen, nachdem 14.000 Accounts betroffen waren.",
+        "Die FSFE kritisiert die Entscheidung der NHS, Code-Repositories privat zu machen, um KI-Schwachstellen zu vermeiden.",
+        "Google hat eine kritische Schwachstelle in Android 14, 15 und 16 behoben, die durch ein fehlerhaftes Debugging-Modul ausgenutzt werden konnte.",
+        "Ein Logikfehler in Python ermöglicht es, auf nahezu jedem Linux-Server Root-Zugriff zu erlangen.",
+        "Die Phishingkampagne gegen Signal wird vermutlich von einem russischen Geheimdienst orchestriert, mit Fokus auf Politiker und Journalisten."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "KI am Kipppunkt: Warum Claude Code der ganzen Industrie das Genick brechen könnte",
+          "link": "https://t3n.de/news/ki-kipppunkt-claude-code-industrie-genick-1740468/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Trotz Anzeichen einer möglichen Finanzblase machen große Sprachmodelle weiter Schlagzeilen, die dazugehörigen Firmen vermelden Umsatz- und Nutzungsrekorde. Das Kuriose daran: Gerade Letztere könnten den Traum der vollautomatisierten Zukunft zerstören. weiterlesen auf t3n.de",
+          "published": "Sat, 9 May 2026 07:20:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "How GitHub Is Securing Agentic Workflows in Modern CI CD Systems",
+          "link": "https://www.infoq.com/news/2026/05/github-agentic-workflows/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "GitHub detailed a defense-in-depth security architecture for agentic workflows in CI/CD pipelines, focusing on isolation, constrained execution, and auditability. The design aims to safely integrate autonomous AI agents while mitigating risks like prompt injection, privilege escalation, and unintended actions, using sandboxed environments, restricted permissions, and full execution traceability. By Leela Kumili",
+          "published": "Fri, 08 May 2026 14:38:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Elastic architects reveal how to query observability data in plain English",
+          "link": "https://thenewstack.io/ai-observability-opentelemetry-webinar/",
+          "summary": "Keeping observability data locked behind the SRE job function is a mistake. Today&#8217;s leading companies are making operational data available The post Elastic architects reveal how to query observability data in plain English appeared first on The New Stack .",
+          "published": "Thu, 07 May 2026 16:27:32 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Verhaltensscanner: „Eine reale Gefahr“",
+          "link": "https://netzpolitik.org/2026/verhaltensscanner-eine-reale-gefahr/",
+          "summary": "Verhaltensscanner werden aktuell eingeführt, um Gewalttaten zu erkennen. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Dan Burton Gerade gibt es bundesweit Bestrebungen, Überwachungskameras mit Systemen zu koppeln, die vollautomatisiert erkennen, was die abgebildeten Menschen gerade tun. Davy Wang von der Gesellschaft für Freiheitsrechte erklärt, warum das eine schlechte Idee ist.",
+          "published": "Tue, 05 May 2026 10:14:51 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Unterwegs spielen: Mobile Games für Kartenspieler, Blumenkinder und Angelfans",
+          "link": "https://www.golem.de/news/unterwegs-spielen-mobile-games-fuer-kartenspieler-blumenkinder-und-angelfans-2605-208442.html",
+          "summary": "Abwechslungsreiches Kartenspielen mit Card Crawl 2 und Goritaire, wunderhübsche Blumen und die Tiefsee: Golem stellt aktuelle Mobile Games vor. Von Rainer Sigl ( Mobile Games , Spiele )",
+          "published": "2026-05-09T09:00:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In dieser Woche standen im Bereich DevOps und Test-Automatisierung vor allem Sicherheitsaspekte und die Integration von KI im Fokus. GitHub präsentierte eine neue Sicherheitsarchitektur für CI/CD-Pipelines, die autonome KI-Agenten sicher integrieren soll. Gleichzeitig wird die Diskussion über die Auswirkungen großer Sprachmodelle auf die Branche intensiver, da deren Nutzung sowohl Chancen als auch Risiken birgt. Zudem wird die Zugänglichkeit von Observabilitätsdaten für Unternehmen thematisiert, um die Effizienz zu steigern.",
+      "highlights": [
+        "GitHub entwickelt Sicherheitsarchitektur für CI/CD-Pipelines.",
+        "Fokus auf Isolation und Auditierbarkeit bei KI-Agenten.",
+        "Große Sprachmodelle erreichen Umsatz- und Nutzungsrekorde.",
+        "Diskussion über Risiken von KI in der Automatisierung.",
+        "Zugänglichkeit von Observabilitätsdaten wird gefordert."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Why the Linux Foundation adopted MCP, with Jim Zemlin and Mazin Gilbert",
+          "link": "https://thenewstack.io/agentic-ai-foundation-launch/",
+          "summary": "Agentic AI is in a hurry, and the open-source projects underpinning it are evolving at a breakneck pace. To ensure The post Why the Linux Foundation adopted MCP, with Jim Zemlin and Mazin Gilbert appeared first on The New Stack .",
+          "published": "Wed, 06 May 2026 11:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "QLNX: Neuer Remote-Access-Trojaner zielt auf Linux-Entwickler",
+          "link": "https://www.heise.de/news/QLNX-Neuer-Remote-Access-Trojaner-zielt-auf-Linux-Entwickler-11285654.html",
+          "summary": "Hinter Quasar Linux (QLNX) steckt kein Betriebssystem, sondern ein Supply-Chain-Angriffstool, das sich nur schwer erkennen und entfernen lässt.",
+          "published": "2026-05-07T13:49:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Nach jahrelanger Blockade: Quelloffenes HDMI 2.1 kommt endlich für Linux",
+          "link": "https://www.heise.de/news/Quelloffenes-HDMI-2-1-kommt-endlich-fuer-Linux-11280232.html",
+          "summary": "Ein AMD-Entwickler kündigt vollwertiges HDMI 2.1 für den Linux-Open-Source-Treiber an. Auch für den Nouveau-Treiber gibt es eine erste Implementierung.",
+          "published": "2026-05-04T09:01:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Pink Floyd Wish You Were Here als Vinyl Deluxe bei Amazon nie billiger",
+          "link": "https://www.golem.de/news/anzeige-pink-floyd-wish-you-were-here-als-vinyl-deluxe-bei-amazon-nie-billiger-2605-208496.html",
+          "summary": "Wish You Were Here von Pink Floyd erschien letztes Jahr als limitierte Deluxe-Version. Nun ist das Vinyl-Set bei Amazon billig wie dort nie. ( Unterhaltung & Hobby )",
+          "published": "2026-05-08T18:45:08+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Dirty Frag: Weitere Root-Lücke gefährdet unzählige Linux-Systeme",
+          "link": "https://www.golem.de/news/dirty-frag-weitere-root-luecke-gefaehrdet-unzaehlige-linux-systeme-2605-208467.html",
+          "summary": "Im Netz kursieren erneut Exploits für eine gefährliche Root-Lücke in Linux. Schützende Updates kommen abermals zu spät - wegen eines Embargo-Verstoßes. ( Sicherheitslücke , Ubuntu )",
+          "published": "2026-05-08T11:16:08+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "The 46 best last-minute Mother’s Day gift ideas for 2026",
+          "link": "https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets",
+          "summary": "Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. This Sunday, Mother's Day, is an opportunity to return the favor, so we've rounded up practical gadgets and little luxuries that can lighten her load. This year's picks are designed to [&#8230;]",
+          "published": "2026-05-08T12:46:00-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "In dieser Woche standen Entwicklungen im Bereich Linux und Open Source im Fokus, insbesondere in Bezug auf Sicherheitslücken und neue Technologien. Die Linux Foundation hat MCP übernommen, um die rasante Entwicklung von Agentic AI zu unterstützen. Gleichzeitig wurden neue Sicherheitsbedrohungen durch den Remote-Access-Trojaner QLNX und eine gefährliche Root-Lücke bekannt, die zahlreiche Systeme gefährden. Positives gab es auch: HDMI 2.1 wird endlich für Linux unterstützt, was die Multimedia-Funktionalität verbessert.",
+      "highlights": [
+        "Linux Foundation übernimmt MCP zur Unterstützung von Agentic AI.",
+        "Neuer Remote-Access-Trojaner QLNX zielt auf Linux-Entwickler.",
+        "Vollwertiges HDMI 2.1 für Linux-Open-Source-Treiber angekündigt.",
+        "Neue Root-Lücke gefährdet zahlreiche Linux-Systeme."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "OpenAI Codex arrives in the browser with new Chrome extension",
+          "link": "https://thenewstack.io/openai-codex-chrome-extension/",
+          "summary": "AI companies have been hell-bent on creating coding agents that use computers like humans: Clicking buttons, scrolling through pages, and The post OpenAI Codex arrives in the browser with new Chrome extension appeared first on The New Stack .",
+          "published": "Fri, 08 May 2026 18:03:01 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "“Several known limitations”: Developers react to Cursor’s promising but still-moving SDK",
+          "link": "https://thenewstack.io/cursor-sdk-ai-agents/",
+          "summary": "Cursor, the AI-powered code editor, released last Wednesday a dedicated SDK that lets developers build agents using the same runtime, The post “Several known limitations”: Developers react to Cursor&#8217;s promising but still-moving SDK appeared first on The New Stack .",
+          "published": "Fri, 08 May 2026 17:39:43 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AI startups are scrambling to survive in big tech’s shadow",
+          "link": "https://thenewstack.io/ai-agent-conference-startups/",
+          "summary": "Startups in the AI world gathered at the AI Agent Conference this week in New York are scrambling to carve The post AI startups are scrambling to survive in big tech&#8217;s shadow appeared first on The New Stack .",
+          "published": "Fri, 08 May 2026 17:26:10 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Chrome's 4GB AI model isn't new, but you're not wrong for being confused",
+          "link": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
+          "summary": "You can stop Chrome from taking up 4GB of storage for local AI, but that shouldn't be your problem.",
+          "published": "Fri, 08 May 2026 17:17:17 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "“The terminal still matters”: Amp rebuilds its CLI for an agentic future beyond the command line",
+          "link": "https://thenewstack.io/amp-neo-cli-agents/",
+          "summary": "AI coding companies clearly agree that autonomous agents are becoming central to software development, but how those systems should operate The post &#8220;The terminal still matters&#8221;: Amp rebuilds its CLI for an agentic future beyond the command line appeared first on The New Stack .",
+          "published": "Fri, 08 May 2026 15:18:28 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Amazon Echo oder Google Nest: Diese Smart Speaker sind ideal für den Einstieg",
+          "link": "https://t3n.de/news/amazon-echo-oder-google-nest-diese-smart-speaker-sind-ideal-fuer-den-einstieg-1741737/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit einem Smart Speaker kannst du Musik abspielen, Informationen abfragen oder Smart-Home-Geräte ein- und ausschalten – ganz bequem per Sprachsteuerung. Hier erfährst du, welcher Anbieter besser zu dir passt. weiterlesen auf t3n.de",
+          "published": "Fri, 8 May 2026 15:30:30 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: Leadership in AI-Assisted Engineering",
+          "link": "https://www.infoq.com/presentations/ai-assisted-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Justin Reock discusses the reality of AI’s impact on engineering, moving past anecdotes to hard data from DORA and DX research. He explains the \"GenAI Divide\" - where 95% of pilots fail - and shares how leaders can use the SPACE and Core 4 frameworks to measure true ROI. He explains how to balance speed with quality, reduce developer fear, and apply agentic solutions across the entire SDLC. By Justin Reock",
+          "published": "Fri, 08 May 2026 12:40:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Cloudflare Launches “Artifacts” Beta, Introducing Git-Like Versioning for AI Agents",
+          "link": "https://www.infoq.com/news/2026/05/cloudflare-artifacts-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare has announced the beta release of Artifacts, a new system designed to bring Git-style version control to AI agents, enabling developers to track, manage, and evolve agent-generated outputs with the same rigor as traditional code. By Craig Risi",
+          "published": "Fri, 08 May 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "In dieser Woche standen generative KI und große Fortschritte in der Softwareentwicklung im Fokus. OpenAI hat Codex mit einer neuen Chrome-Erweiterung in den Browser gebracht, während Cursor ein SDK veröffentlichte, das Entwicklern ermöglicht, KI-Agenten zu erstellen. Gleichzeitig kämpfen KI-Startups darum, im Schatten großer Tech-Unternehmen zu überleben. Cloudflare stellte ein neues System namens Artifacts vor, das Git-ähnliche Versionierung für KI-Agenten einführt, was die Entwicklung und Verwaltung von KI-generierten Outputs erleichtert.",
+      "highlights": [
+        "OpenAI Codex jetzt als Chrome-Erweiterung verfügbar.",
+        "Cursor veröffentlicht SDK für die Entwicklung von KI-Agenten.",
+        "AI Agent Conference in New York thematisiert Überlebensstrategien für Startups.",
+        "Cloudflare bringt Artifacts Beta für Git-ähnliche Versionierung von KI-Agenten."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "KI-Verordnung: EU-Parlament und Rat einigen sich auf gelockerte Pflichten für die Industrie",
+          "link": "https://netzpolitik.org/2026/ki-verordnung-eu-parlament-und-rat-einigen-sich-auf-gelockerte-pflichten-fuer-die-industrie/",
+          "summary": "Mehr \"Künstliche Intelligenz\" mit weniger Auflagen, das wünscht sich die Industrie. (Symbolbild) – Alle Rechte vorbehalten: Bild: IMAGO / Westend61, Bearbeitung: netzpolitik.org Die EU will die KI-Verordnung aufweichen. Eine erste Einigung sieht nun vor, bestimmte Regulierungen für die Industrie abzuschwächen und zeitlich deutlich nach hinten zu verschieben. Hinzugekommen ist ein Verbot von KI-Anwendungen, mit denen sexualisierte Deepfakes erstellt werden können.",
+          "published": "Thu, 07 May 2026 16:25:53 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Why PHP performance keeps getting bumped from the roadmap",
+          "link": "https://thenewstack.io/php-performance-operational-planning/",
+          "summary": "Performance issues are familiar territory for PHP teams. Slow endpoints, uneven response times, and rising infrastructure costs show up in The post Why PHP performance keeps getting bumped from the roadmap appeared first on The New Stack .",
+          "published": "Wed, 06 May 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "In dieser Woche gab es bedeutende Entwicklungen in der EU-Tech-Regulierung, insbesondere im Bereich der Künstlichen Intelligenz. Das EU-Parlament und der Rat haben sich auf eine Lockerung der Pflichten für die Industrie geeinigt, was die Einführung von KI-Anwendungen erleichtern könnte. Gleichzeitig wurde ein Verbot für die Erstellung von sexualisierten Deepfakes beschlossen. Diese Maßnahmen reflektieren den Druck der Industrie auf die Regulierung und die Balance zwischen Innovation und Sicherheit.",
+      "highlights": [
+        "Einigung auf gelockerte Pflichten für die KI-Industrie",
+        "Regulierungen sollen zeitlich nach hinten verschoben werden",
+        "Verbot von KI-Anwendungen zur Erstellung sexualisierter Deepfakes",
+        "Industrie fordert weniger Auflagen für mehr Innovation"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Remote Work klappt bei euch nicht? Dann liegt es nicht am Homeoffice",
+          "link": "https://t3n.de/news/remote-work-homeoffice-prozesse-1738204/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Remote Work ist Alltag, doch fehlende Prozesse bremsen Teams aus. Wie ein digitales Headquarter mit den richtigen Remote-Work-Tools Struktur schafft und Produktivität in der Hybridarbeit steigert. weiterlesen auf t3n.de",
+          "published": "Sat, 9 May 2026 10:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anfängerfreundlich und günstig: Mit diesen 3 Drohnen kannst du ganz ohne Führerschein abheben",
+          "link": "https://t3n.de/news/einsteiger-drohnen-gute-aufnahmen-guenstig-ohne-f%c3%bchrerschein-1740255/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Viele Drohnen lassen sich kinderleicht bedienen und sind deshalb auch für Anfänger:innen geeignet. Wir stellen dir drei geeignete Modelle vor – und erklären, warum es nicht immer ein High-End-Gerät sein muss. weiterlesen auf t3n.de",
+          "published": "Sat, 9 May 2026 09:50:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Von aufgemaltem Schnurrbart bis VPN: So tricksen britische Kinder Alterskontrollen auf Webseiten aus",
+          "link": "https://t3n.de/news/vpn-schnurrbart-webseiten-britische-kinder-umgehen-altersbeschraenkung-1741243/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In Großbritannien müssen User:innen auf einigen Webseiten ihr Alter verifizieren. Das soll verhindern, dass Jugendliche und Kinder auf die Dienste zugreifen können. Doch die Minderjährigen haben Mittel und Wege gefunden, um Altersverifizierungen auszuhebeln. weiterlesen auf t3n.de",
+          "published": "Sat, 9 May 2026 09:25:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KW 19: Die Woche der Bilanz nach einem Jahr Schwarz-Rot",
+          "link": "https://netzpolitik.org/2026/kw-19-die-woche-der-bilanz-nach-einem-jahr-schwarz-rot/",
+          "summary": "– Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 19. Kalenderwoche geht zu Ende. Wir haben 19 neue Texte mit insgesamt 147.247 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 09 May 2026 07:02:28 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Youtube macht Premium-Feature kostenlos nutzbar – mit einem Haken",
+          "link": "https://t3n.de/news/youtube-premium-feature-kostenlos-haken-1740658/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Für einige Youtube-Features werden Zuschauer:innen zur Kasse gebeten. Das ändert sich jetzt bei einer beliebten Funktion. Sie wird für alle Nutzer:innen kostenlos ausgerollt. Doch ein Haken bleibt. weiterlesen auf t3n.de",
+          "published": "Sat, 9 May 2026 08:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Tesla Model 3: So stark ist die Akku-Kapazität nach über 600.000 Kilometern gesunken",
+          "link": "https://t3n.de/news/tesla-mode-3-akku-kapazitaet-gesunken-1740924/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Youtuber hat ein sieben Jahre altes Tesla Model 3 mit über 600.000 Kilometern auf dem Tacho auf die verbliebene Reichweite getestet. Es zeigte sich, dass die Akkukapazität zwar deutlich zurückgegangen, aber noch normales Fahren möglich war. weiterlesen auf t3n.de",
+          "published": "Sat, 9 May 2026 06:35:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Darm-Hirn-Achse im Visier: So beeinflusst Kaffee deine Gesundheit positiv – auch ohne Koffein",
+          "link": "https://t3n.de/news/studie-zeigt-kaffee-macht-nicht-nur-wach-sondern-sorgt-auch-fuer-bessere-laune-1741090/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Neue Studienergebnisse liefern Hinweise darauf, dass Kaffee die Darmflora, Gehirnfunktion und Stimmung verbessern könnte. Sie zeigen außerdem, dass diese Effekte nicht unbedingt mit dem Koffeingehalt zusammenhängen. weiterlesen auf t3n.de",
+          "published": "Sat, 9 May 2026 05:40:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
+          "link": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
+          "summary": "Across the country, schools and colleges postpone year-end tests.",
+          "published": "Fri, 08 May 2026 18:33:48 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "In der vergangenen Woche wurden verschiedene Themen im Bereich Open Source und Software Supply Chain beleuchtet. Besonders auffällig war der Cyberangriff auf die Lernplattform Canvas, der zahlreiche Schulen und Hochschulen betraf und Prüfungen verschob. Zudem wurde die Bedeutung effektiver Remote-Work-Tools hervorgehoben, um die Produktivität in hybriden Arbeitsumgebungen zu steigern. Diese Entwicklungen verdeutlichen die Herausforderungen und Chancen, die mit digitaler Transformation und der Nutzung von Open-Source-Software verbunden sind.",
+      "highlights": [
+        "Cyberangriff auf Canvas disruptiert Prüfungen landesweit.",
+        "Remote Work erfordert strukturierte Prozesse für höhere Produktivität.",
+        "Wachsende Bedeutung von Open-Source-Lösungen in der Software Supply Chain.",
+        "Anpassungen an digitale Arbeitsumgebungen sind notwendig."
+      ]
+    }
+  ]
+}
