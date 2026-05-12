@@ -1,0 +1,364 @@
+{
+  "date": "2026-05-12",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Netflix Introduces ‘Model Lifecycle Graph’ to Scale Enterprise Machine Learning",
+          "link": "https://www.infoq.com/news/2026/05/netflix-ml-graph/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Netflix has developed a graph-based architecture for managing machine learning systems, called the Model Lifecycle Graph. This system maps interconnections between datasets, models, features, and workflows, addressing challenges in scaling ML operations. It enhances discoverability, governance, and component reuse while supporting a self-service approach for engineers and data scientists. By Matt Foster",
+          "published": "Mon, 11 May 2026 07:30:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Netflix hat das Model Lifecycle Graph entwickelt, eine graphbasierte Architektur zur Verwaltung von Machine-Learning-Systemen. Dieses System verbessert die Skalierbarkeit von ML-Operationen durch die Abbildung von Verbindungen zwischen Datensätzen, Modellen und Workflows.",
+      "highlights": [
+        "Modell Lifecycle Graph verbessert die Entdeckbarkeit und Governance von ML-Komponenten.",
+        "Unterstützt eine Selbstbedienungsansatz für Ingenieure und Data Scientists.",
+        "Adressiert Herausforderungen bei der Skalierung von Machine-Learning-Operationen."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Linux bitten by second severe vulnerability in as many weeks",
+          "link": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+          "summary": "Production-version patches are coming online and should be installed pronto.",
+          "published": "Mon, 11 May 2026 22:28:19 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Anthropic’s Claude Platform comes to AWS",
+          "link": "https://thenewstack.io/anthropics-claude-platform-comes-to-aws/",
+          "summary": "As part of Anthropic&#8217;s and AWS&#8217;s expanded collaboration, which the two companies announced in April, Anthropic said it would bring The post Anthropic’s Claude Platform comes to AWS appeared first on The New Stack .",
+          "published": "Mon, 11 May 2026 20:31:09 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Samsung made a “mockery” of Dua Lipa by putting her picture on TV boxes, lawsuit says",
+          "link": "https://arstechnica.com/gadgets/2026/05/singer-dua-lipa-sues-samsung-for-15-million-for-using-her-image-on-tv-boxes/",
+          "summary": "Lipa says her picture contributed to Samsung's \"enormous revenue.\"",
+          "published": "Mon, 11 May 2026 17:15:16 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Presentation: Evolution of a Backend for a Streaming Application",
+          "link": "https://www.infoq.com/presentations/streaming-application-aws-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Daniele Frasca explains the architectural evolution of Joyn, a German streaming giant. He discusses moving from fragile single-node setups to resilient serverless architectures using AWS. He shares insights on the Hub and Spoke pattern for data consistency, cell-based isolation to reduce blast radius, and cost-optimization strategies for achieving affordable multi-region active-active setups. By Daniele Frasca",
+          "published": "Mon, 11 May 2026 11:45:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Sony's failed war against Internet piracy may doom other copyright lawsuits",
+          "link": "https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/",
+          "summary": "Cable firm Cox's Supreme Court win may help all tech providers, not just ISPs.",
+          "published": "Mon, 11 May 2026 11:00:33 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Cloud-Architektur zeigen die Integration von Anthropic's Claude Plattform in AWS und die evolutionäre Transformation von Backend-Systemen bei Joyn. Zudem gibt es kritische Sicherheitsupdates für Linux, die schnell installiert werden sollten.",
+      "highlights": [
+        "Anthropic bringt die Claude Plattform zu AWS im Rahmen einer erweiterten Zusammenarbeit.",
+        "Daniele Frasca erläutert die Umstellung von Joyn auf serverlose Architekturen und das Hub-and-Spoke-Muster.",
+        "Linux hat eine zweite schwerwiegende Sicherheitsanfälligkeit innerhalb von zwei Wochen entdeckt."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Cangjie, a New Open-Source Compiled Language with Native Effect Handlers and Algebraic Data Types",
+          "link": "https://www.infoq.com/news/2026/05/cangjie-effect-handlers-adt/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Prof. Dan Ghica, who leads the Programming Languages Lab at Huawei’s Edinburgh Research Centre, recently presented Cangjie (CJ), a new application development language that features algebraic data types and effect handlers. The open-sourced language is positioned as a counterpart to Java, Kotlin, or Swift. Cangjie is taught by 80+ universities in China. By Bruno Couriol",
+          "published": "Mon, 11 May 2026 21:56:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Podcast: From Java EE to Quarkus and LLMs: Adam Bien’s Playbook for Boring, Future‑Proof Systems",
+          "link": "https://www.infoq.com/podcasts/java-ee-quarkus-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Adam Bien, an independent consultant and pioneer of zero dependencies in the enterprise world of Java, highlights the benefits of consistently using standards, regardless of whether they involve Java or existing patterns. He argues that by doing so, he managed to future-proof the systems he built, preparing them for the cloud era and even for the AI-Native era. By Adam Bien",
+          "published": "Mon, 11 May 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Java News Roundup: GraalVM, Spring AI, JobRunr, GlassFish, Grails, Groovy, Quarkus Agent MCP",
+          "link": "https://www.infoq.com/news/2026/05/java-news-roundup-may04-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for May 4th, 2026, features news highlighting: OpenJDK JEPs targeted for JDK 27; the sixth milestone release of Spring AI 2.0; the first milestone release of Grails 8.0; the first alpha release of Groovy 6.0; a point release of JobRunr; maintenance releases of GlassFish, TomEE and Tomcat; an accelerated release train for GraalVM; and a new Quarkus Agent MCP server. By Michael Redlich",
+          "published": "Mon, 11 May 2026 02:30:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Die Software-Architektur im Java-Umfeld entwickelt sich weiter, mit neuen Technologien und Ansätzen, die die Entwicklung effizienter gestalten. Cangjie, eine neue Open-Source-Sprache, wird als Alternative zu Java positioniert, während Adam Bien die Bedeutung von Standards für zukunftssichere Systeme betont.",
+      "highlights": [
+        "Cangjie ist eine neue Open-Source-Sprache mit algebraischen Datentypen und Effekt-Handlern, die in über 80 Universitäten in China gelehrt wird.",
+        "Adam Bien propagiert die Nutzung von Standards in der Java-Entwicklung, um Systeme für die Cloud und die AI-Ära zukunftssicher zu machen.",
+        "Die Java-News-Runde umfasst bedeutende Updates wie die sechste Milestone-Version von Spring AI 2.0 und die erste Alpha-Version von Groovy 6.0."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "55 Prozent sehen kein Risiko: Aber jeder neunte Internetnutzer wird Opfer von Cyberkriminalität",
+          "link": "https://t3n.de/news/cyberkriminalitaet-jeder-neunte-opfer-1741886/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Phishing, Betrug, fremde Zugriffe: Die meisten Opfer zahlen drauf – und vertrauen Onlinediensten weniger. Warum viele trotzdem glauben, ihnen könne nichts passieren. weiterlesen auf t3n.de",
+          "published": "Mon, 11 May 2026 09:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Active Directory hacken und schützen",
+          "link": "https://www.heise.de/news/iX-Workshop-Active-Directory-hacken-und-schuetzen-11280076.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Werden Sie selbst zum Hacker und lernen, wie Angreifer gezielt Schwachstellen in Active Directory ausnutzen, um Server und Domänencontroller zu kompromittieren.",
+          "published": "2026-05-12T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "FSFE warnt: NHS sollte quelloffenen Code nicht depublizieren",
+          "link": "https://www.heise.de/news/FSFE-warnt-NHS-sollte-quelloffenen-Code-nicht-depublizieren-11283406.html",
+          "summary": "Die Free Software Foundation Europe warnt vor dem Umstellen der NHS-Code-Repositories auf Privat aus Angst vor KI-Schwachstellensuche.",
+          "published": "2026-05-06T07:31:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Patchday: Kritische Schadcode-Lücke bedroht Android 14, 15 und 16",
+          "link": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecke-bedroht-Android-14-15-und-16-11281884.html",
+          "summary": "Schadcode kann durch ein fehlerhaftes Debugging-Modul auf Androidgeräte schlüpfen. Nun hat Google die kritische Schwachstelle geschlossen.",
+          "published": "2026-05-05T09:27:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Schwachstellen bewerten, Patchrisiken priorisieren",
+          "link": "https://www.golem.de/news/anzeige-schwachstellen-bewerten-patchrisiken-priorisieren-2605-208551.html",
+          "summary": "Schwachstellenmanagement scheitert oft an pauschalen Scores und fehlendem Kontext. Ein Online-Workshop zeigt, wie Risiken bewertet und Maßnahmen auch ohne Patch abgeleitet werden. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-05-12T07:15:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die IT-Sicherheit bleibt ein zentrales Thema, da viele Nutzer Cyberkriminalität unterschätzen. Gleichzeitig zeigen aktuelle Entwicklungen, wie wichtig Sicherheitsmaßnahmen und das Verständnis von Schwachstellen sind.",
+      "highlights": [
+        "55 Prozent der Internetnutzer sehen kein Risiko für Cyberkriminalität.",
+        "Kritische Schadcode-Lücke in Android 14, 15 und 16 wurde von Google geschlossen.",
+        "Workshop zur Bewertung von Schwachstellen und Priorisierung von Patchrisiken angeboten."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "heise+ | Einsatzbereite KI-Features mit LangGraph umsetzen",
+          "link": "https://www.heise.de/ratgeber/Einsatzbereite-KI-Features-mit-LangGraph-umsetzen-11281968.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Produktionsreife KI-Anwendungen erfordern viel Aufwand. LangGraph und LangChain liefern eine Architektur, in der Agenten zuverlässig Geschäftslogik umsetzen.",
+          "published": "2026-05-11T13:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Für Nutzer kostenlos: Bundesregierung bringt PIN-Rücksetzdienst zurück",
+          "link": "https://www.heise.de/news/Fuer-Nutzer-kostenlos-Bundesregierung-bringt-PIN-Ruecksetzdienst-zurueck-11288942.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Viele Bürger haben die PIN für ihren E-Perso verlegt. Helfen soll bald wieder ein aus Steuermitteln finanzierter Rücksetzdienst – auch wegen der EUDI-Wallet.",
+          "published": "2026-05-11T12:24:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Implementierung von KI-Features in Produktionsumgebungen wird durch LangGraph und LangChain erleichtert, die eine strukturierte Architektur für die Umsetzung von Geschäftslogik bieten. Dies ist besonders relevant für DevOps und Test-Automatisierung, da es die Effizienz steigert.",
+      "highlights": [
+        "LangGraph und LangChain ermöglichen die Entwicklung produktionsreifer KI-Anwendungen.",
+        "Die Architektur unterstützt Agenten bei der Umsetzung von Geschäftslogik.",
+        "Effizienzsteigerung in DevOps und Test-Automatisierung durch strukturierte Implementierung."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Wissenschaftlicher Dienst des EP: Wer Kinder ausschließen will, muss Anonymität verbieten",
+          "link": "https://netzpolitik.org/2026/wissenschaftlicher-dienst-des-ep-wer-kinder-ausschliessen-will-muss-anonymitaet-verbieten/",
+          "summary": "VPNs sind wichtige Werkzeuge zum Schutz der Privatsphäre. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Privecstasy, Bearbeitung netzpolitik.org VPNs sind ein Schlupfloch für Jugendliche, um Social-Media-Verbote zu umgehen. Das konstatiert eine Analyse des Wissenschaftlichen Dienstes des Europäischen Parlaments. Er stellt deshalb eine Personalausweispflicht für die VPN-Nutzung in den Raum. Dabei sind Werkzeuge zur Identitätsverschleierung wichtige Bestandteile einer Demokratie.",
+          "published": "Mon, 11 May 2026 11:27:15 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Anonymisierendes Linux Tails: Notfallupdate 7.7.3 fixt DirtyFrag-Lücke",
+          "link": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-Notfallupdate-7-7-3-fixt-DirtyFrag-Luecke-11290621.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das anonymisierende Linux Tails ist als nächstes Notfallupdate in Version 7.7.3 erschienen. Es schließt die DirtyFrag-Lücke.",
+          "published": "2026-05-12T08:55:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "QLNX: Neuer Remote-Access-Trojaner zielt auf Linux-Entwickler",
+          "link": "https://www.heise.de/news/QLNX-Neuer-Remote-Access-Trojaner-zielt-auf-Linux-Entwickler-11285654.html",
+          "summary": "Hinter Quasar Linux (QLNX) steckt kein Betriebssystem, sondern ein Supply-Chain-Angriffstool, das sich nur schwer erkennen und entfernen lässt.",
+          "published": "2026-05-07T13:49:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen im Bereich Datenschutz und Sicherheit zeigen, dass Anonymität und Privatsphäre zunehmend unter Druck geraten. Während der Wissenschaftliche Dienst des Europäischen Parlaments eine Personalausweispflicht für VPN-Nutzer diskutiert, wurde ein kritisches Update für das anonymisierende Betriebssystem Tails veröffentlicht, um Sicherheitslücken zu schließen.",
+      "highlights": [
+        "Wissenschaftlicher Dienst des EP fordert Personalausweispflicht für VPN-Nutzung.",
+        "Tails 7.7.3 schließt die DirtyFrag-Sicherheitslücke.",
+        "Neuer Remote-Access-Trojaner QLNX zielt auf Linux-Entwickler und ist schwer zu erkennen."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Agentic Commerce: KI verkauft mit – aber wer trägt einen möglichen Schaden?",
+          "link": "https://t3n.de/news/agentic-commerce-ki-verkauft-mit-moegliche-schaeden-1741978/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn KI künftig mit einkauft, berät und Verträge abschließt, stellt sich eine einfache Frage mit komplizierter Antwort: Wer haftet eigentlich für Fehler? In erster Linie sind hier Händler:innen in der Pflicht, doch für Kund:innen könnte vieles nur schwer nachzuweisen sein. weiterlesen auf t3n.de",
+          "published": "Tue, 12 May 2026 07:30:26 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mehr Kontrolle über KI: Neues Tool soll Eingriff auf die Neuronen der LLMs liefern",
+          "link": "https://t3n.de/news/kontrolle-ki-neuronen-1741338/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das US-Startup Goodfire stellt ein Tool vor, das in alle Phasen des Entwicklungsprozesses eines KI-Modells eingreifen kann. Mit dem Ansatz der „mechanistischen Interpretierbarkeit“ arbeiten auch KI-Firmen wie OpenAI, Google Deepmind und Anthropic, um das Blackbox-Problem zu bewältigen. weiterlesen auf t3n.de",
+          "published": "Tue, 12 May 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anthropic trains Claude to resist blackmail & self-preservation behavior via agentic misalignment",
+          "link": "https://thenewstack.io/anthropic-agentic-misalignment-claude/",
+          "summary": "Anthropic doubled down on the fight against agentic misalignment on Friday, the mechanics of which could cause AI models to The post Anthropic trains Claude to resist blackmail &amp; self-preservation behavior via agentic misalignment appeared first on The New Stack .",
+          "published": "Mon, 11 May 2026 17:26:58 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Coder Agents Enable Running AI Coding Workflows on Self-Hosted Infrastructure",
+          "link": "https://www.infoq.com/news/2026/05/coder-agents-self-hosted-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Coder Agents is a model-agnostic platform designed to let organizations run AI coding agents on their own infrastructure, rather than relying on cloud-based services. This allows teams to maintain full control over code, data, and execution environments. By Sergio De Simone",
+          "published": "Mon, 11 May 2026 17:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "„Dachte, er würde mich schlagen“: Welche Erinnerungen der Prozess Elon Musk gegen OpenAI hochbringt",
+          "link": "https://t3n.de/news/dachte-er-wuerde-mich-schlagen-welche-erinnerungen-der-prozess-elon-musk-gegen-openai-hochbringt-1741934/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Elon Musk habe gewollt, dass das Unternehmen eine gewinnorientierte Einheit gründet, das sagte OpenAI-Präsident Greg Brockman vor Gericht im aktuellen Prozess aus. Dafür musste er einen öffentlichen Einblick in sein Tagebuch hinnehmen. weiterlesen auf t3n.de",
+          "published": "Mon, 11 May 2026 16:30:17 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Entwicklungen im Bereich generative KI und LLMs zeigen sowohl Fortschritte als auch Herausforderungen. Insbesondere Fragen zur Haftung bei KI-gestützten Transaktionen und neue Tools zur Kontrolle von KI-Modellen stehen im Fokus.",
+      "highlights": [
+        "Händler:innen tragen die Hauptverantwortung für Fehler bei KI-gestützten Käufen.",
+        "Das US-Startup Goodfire präsentiert ein Tool zur mechanistischen Interpretierbarkeit von KI-Modellen.",
+        "Anthropic arbeitet an der Verhinderung von agentic misalignment, um selbstschützendes Verhalten von KI zu vermeiden."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Pirates are already playing Forza Horizon 6 days before its launch",
+          "link": "https://arstechnica.com/gaming/2026/05/pirates-are-already-playing-forza-horizon-6-days-before-its-launch/",
+          "summary": "Crackers take advantage of unencrypted files that briefly appeared on Steam.",
+          "published": "Mon, 11 May 2026 15:29:16 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "„Forza Horizon 6“: Rennspiel vor Release geleakt und gecrackt",
+          "link": "https://www.heise.de/news/Forza-Horizon-6-Rennspiel-vor-Release-geleakt-11290585.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Tage vor dem Release spielen einige User eine gecrackte Version von „Forza Horizon 6“, bestätigten die Entwickler. Wie sie ins Netz kam, ist unklar.",
+          "published": "2026-05-12T09:02:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "KI-Transparenz: EU-Kommission konkretisiert Regeln gegen digitale Täuschung",
+          "link": "https://www.heise.de/news/KI-Transparenz-EU-Kommission-konkretisiert-Regeln-gegen-digitale-Taeuschung-11290417.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die EU-Kommission hat Leitlinien für den AI Act veröffentlicht. Sie regeln die Kennzeichnungspflichten für Chatbots und KI-generierte Inhalte.",
+          "published": "2026-05-11T18:33:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Halbleiterfertigung: Was Apple wohl bei Intel fertigen lassen wird",
+          "link": "https://www.golem.de/news/halbleiterfertigung-was-apple-wohl-bei-intel-fertigen-lassen-wird-2605-208530.html",
+          "summary": "Wir beleuchten, warum Apple TSMC untreu wird, welcher Chip am wahrscheinlichsten von Intel kommt und was daraus für die Produkt-Roadmap folgt. Eine Analyse von Johannes Hiltscher ( Halbleiterfertigung , Apple )",
+          "published": "2026-05-11T14:00:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die EU-Kommission hat neue Leitlinien für den AI Act veröffentlicht, die klare Kennzeichnungspflichten für KI-generierte Inhalte und Chatbots festlegen. Dies soll digitale Täuschung verhindern und die Transparenz im Umgang mit Künstlicher Intelligenz erhöhen.",
+      "highlights": [
+        "EU-Kommission konkretisiert Regeln für KI-Transparenz.",
+        "Neue Kennzeichnungspflichten für Chatbots und KI-Inhalte.",
+        "Ziel: Verhinderung digitaler Täuschung und Förderung von Vertrauen."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Netflix Serves 84% of Query Results from Cache with Interval-Aware Caching in Apache Druid",
+          "link": "https://www.infoq.com/news/2026/05/netflix-druid-interval-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Netflix improves Apache Druid performance with interval aware caching, serving 84% of analytics results from cache and reducing query load by 33%. The system decomposes rolling window queries into reusable time segments, enabling partial cache reuse and recomputation only for recent data. At scale, it reduces scan volume, improves P90 latency, and optimizes real time analytics workloads. By Leela Kumili",
+          "published": "Mon, 11 May 2026 14:36:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Iran dominiert im Slopaganda-Krieg: Mit Legosteinen gegen das Weiße Haus",
+          "link": "https://netzpolitik.org/2026/iran-dominiert-im-slopaganda-krieg-mit-legosteinen-gegen-das-weisse-haus/",
+          "summary": "Iran trollt die Trump-Regierung mit KI-generierten Clips, die millionenfach geklickt werden. – Screenshots der KI-Clips von Explosive Media Der Iran gewinnt mit KI-generierten Lego-Clips etliche Schlachten gegen die Trump-Regierung – zumindest im Netz. Millionenfach geklickt, weltweit geteilt: Der iranische Propaganda-Erfolg basiert auf einem Prinzip, das längst ein eigenständiges Genre geworden ist.",
+          "published": "Mon, 11 May 2026 14:19:42 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "macOS 27 und Liquid Glass: Wie Apple das Betriebssystem verschönern könnte",
+          "link": "https://t3n.de/news/macos-27-und-liquid-glass-wie-apple-das-betriebssystem-verschoenern-koennte-1741931/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Liquid-Glass-Design war von Anfang an umstritten. Mit dem nächsten macOS verschwindet es nicht, doch Apple soll zumindest ein leichtes Redesign planen, heißt es in einem neuen Bericht. weiterlesen auf t3n.de",
+          "published": "Mon, 11 May 2026 15:15:41 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Gemeinsames Europäisches Asylsystem: IT-Anpassungen in Deutschland kosten mindestens 150 Millionen Euro",
+          "link": "https://netzpolitik.org/2026/gemeinsames-europaeisches-asylsystem-it-anpassungen-in-deutschland-kosten-mindestens-150-millionen-euro/",
+          "summary": "Mit GEAS sollen Asylverfahren künftig schon an den Außengrenzen der Europäischen Union stattfinden. Hier der Grenzzaun der spanischen Exklave Ceuta. – Alle Rechte vorbehalten: IMAGO / photosteinmaurer.com Bis ein neues europäisches Asylsystem wirksam wird, ist es nur noch einen Monat Zeit. Die Mitgliedstaaten müssen dafür jede Menge Prozesse anpassen und IT-Systeme aktualisieren. In Deutschland wird das nicht nur knapp, sondern auch ziemlich teuer.",
+          "published": "Mon, 11 May 2026 13:04:44 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Vom Hackerhaus nach San Francisco: Dieser Gründer will Millionen Menschen einen Job verschaffen",
+          "link": "https://t3n.de/news/vom-hackerhaus-nach-san-francisco-dieser-gruender-will-millionen-menschen-einen-job-verschaffen-1741761/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit 28 hat Sebastian Scott bereits vier Unternehmen gegründet. Sein jüngstes: Die KI-Recruiting-Plattform Clera. Wie Scott vom KI-Boom im Recruiting profitieren will – und wer der Gründer ist. weiterlesen auf t3n.de",
+          "published": "Mon, 11 May 2026 13:45:15 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Open Source und Software Supply Chain sind zentrale Themen in der modernen Softwareentwicklung, die Effizienz und Sicherheit in der Bereitstellung von Softwarelösungen fördern. Unternehmen wie Netflix setzen innovative Techniken ein, um die Leistung ihrer Systeme zu optimieren.",
+      "highlights": [
+        "Netflix verbessert Apache Druid mit interval-aware caching, wodurch 84% der Abfrageergebnisse aus dem Cache stammen.",
+        "Die Implementierung reduziert die Abfragebelastung um 33% und verbessert die P90-Latenz.",
+        "IT-Anpassungen für das gemeinsame Europäische Asylsystem kosten Deutschland mindestens 150 Millionen Euro."
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Maintal: Bürger bremsen Edgeconnex-Rechenzentrum wegen Gaskraftwerk aus",
+          "link": "https://www.golem.de/news/maintal-buerger-bremsen-edgeconnex-rechenzentrum-wegen-gaskraftwerk-aus-2605-208545.html",
+          "summary": "Von einem gewaltigen Gaskraftwerk haben die Bewohner im Maintal vor allem eins: hohe Kosten für den Fernwärmeausbau und CO2-Emissionen direkt im Wohngebiet. ( Infrastruktur , Telekommunikation )",
+          "published": "2026-05-11T17:57:06+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Im Maintal wehren sich die Bürger gegen den Bau eines Edgeconnex-Rechenzentrums, das mit einem Gaskraftwerk verbunden ist. Die Anwohner befürchten hohe Kosten für den Fernwärmeausbau und steigende CO2-Emissionen in ihrem Wohngebiet.",
+      "highlights": [
+        "Bürger protestieren gegen Gaskraftwerk für Rechenzentrum.",
+        "Erwartete hohe Kosten für Fernwärmeausbau.",
+        "Bedenken hinsichtlich CO2-Emissionen im Wohngebiet."
+      ]
+    }
+  ]
+}
