@@ -1,0 +1,324 @@
+{
+  "date": "2026-05-13",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AWS WorkSpaces Now Lets AI Agents Operate Legacy Desktop Applications Without APIs",
+          "link": "https://www.infoq.com/news/2026/05/aws-workspaces-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS announced that Amazon WorkSpaces can now serve as managed virtual desktops for AI agents in public preview. Agents authenticate through IAM and operate legacy applications via computer vision and input simulation without APIs. Reflex benchmarks show vision agents consume 45x more tokens than API agents. By Steef-Jan Wiggers",
+          "published": "Wed, 13 May 2026 07:31:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "The new FinOps problem isn’t cloud bills",
+          "link": "https://thenewstack.io/finops-ai-token-economics/",
+          "summary": "At Google Cloud Next this month in Las Vegas, The New Stack sat down with Finout co-founder and CEO Roi The post The new FinOps problem isn&#8217;t cloud bills appeared first on The New Stack .",
+          "published": "Tue, 12 May 2026 23:24:43 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
+          "link": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
+          "summary": "Teen trusted ChatGPT to help him “safely” experiment with drugs, logs show.",
+          "published": "Tue, 12 May 2026 19:00:25 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Copy Fail and Dirty Frag: Linux Page-Cache Exploits Target Every Major Distribution",
+          "link": "https://www.infoq.com/news/2026/05/copy-fail-dirty-frag-linux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Two recent Linux kernel vulnerabilities have been disclosed: Copy Fail (CVE-2026-31431) on April 29, 2026, and Dirty Frag (CVE-2026-43284 and CVE-2026-43500) on May 7, 2026. Both allow local users to gain root access, affecting multiple Linux distributions. These vulnerabilities exploit flaws in the page cache via different subsystems, necessitating immediate patching by affected organizations. By Matt Saunders",
+          "published": "Tue, 12 May 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Patchday Microsoft: Kritische DNS-Client-Lücke bedroht Windows",
+          "link": "https://www.heise.de/news/Patchday-Microsoft-Kritische-DNS-Client-Luecke-bedroht-Windows-11292506.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Microsoft hat wichtige Sicherheitsupdates für unter anderem Azure, Edge, Office und Windows veröffentlicht. Viele Lücken wurden mit KI-Agenten entdeckt.",
+          "published": "2026-05-13T07:27:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Cloud-Architektur entwickelt sich weiter, insbesondere durch neue Funktionen bei AWS WorkSpaces und Sicherheitsupdates von Microsoft. Gleichzeitig wird die Diskussion um FinOps und die Herausforderungen bei Cloud-Kosten intensiver.",
+      "highlights": [
+        "AWS WorkSpaces ermöglicht AI-Agenten den Betrieb von Legacy-Anwendungen ohne APIs.",
+        "Microsoft hat kritische Sicherheitsupdates für Azure, Edge und Windows veröffentlicht.",
+        "FinOps-Experten diskutieren neue Herausforderungen, die über Cloud-Rechnungen hinausgehen."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "C-Libraries in Java nutzen 2: Funktionen mit veränderlichen Parametern",
+          "link": "https://www.heise.de/hintergrund/C-Libraries-in-Java-nutzen-2-Funktionen-mit-veraenderlichen-Parametern-11291161.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Foreign Function & Memory API bietet in Java einen deutlich einfacheren Zugang zu Funktionen in C-Libraries als das veraltete JNI.",
+          "published": "2026-05-13T09:26:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "C-Libraries in Java nutzen 2: Funktionen mit veränderlichen Parametern",
+          "link": "https://www.heise.de/hintergrund/C-Libraries-in-Java-nutzen-2-Funktionen-mit-veraenderlichen-Parametern-11291161.html",
+          "summary": "Die Foreign Function & Memory API bietet in Java einen deutlich einfacheren Zugang zu Funktionen in C-Libraries als das veraltete JNI.",
+          "published": "2026-05-13T07:26:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Foreign Function & Memory API in Java ermöglicht einen vereinfachten Zugriff auf C-Libraries, wodurch die Nutzung von Funktionen mit variablen Parametern erleichtert wird. Dies stellt eine moderne Alternative zum veralteten Java Native Interface (JNI) dar.",
+      "highlights": [
+        "Die Foreign Function & Memory API verbessert die Interoperabilität zwischen Java und C.",
+        "Funktionen mit variablen Parametern können einfacher implementiert werden.",
+        "Die API reduziert den Aufwand und die Komplexität im Vergleich zum JNI."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "KI und Cybersecurity: Curl-Entwickler sieht keine Gefahr durch Mythos",
+          "link": "https://www.golem.de/news/ki-und-cybersecurity-curl-entwickler-sieht-keine-gefahr-durch-mythos-2605-208595.html",
+          "summary": "Nachdem Anthropics KI-Modell Mythos Curl auf Sicherheitslücken überprüft hatte, kam laut dessen Entwickler eine sehr kurze Liste zurück. ( KI , Sicherheitslücke )",
+          "published": "2026-05-12T17:55:07+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "(g+) Heute 17 Uhr live: Stell deine Fragen zu Palantir",
+          "link": "https://www.golem.de/news/heute-17-uhr-live-stell-deine-fragen-zu-palantir-2605-208584.html",
+          "summary": "Heute beantwortet IT-Sicherheitsexperte Manuel \"HonkHase\" Atug live im Video-AMA eure Fragen zu Palantir. Ab 17 Uhr geht es los, sei dabei! ( Palantir , Datenschutz )",
+          "published": "2026-05-12T15:19:06+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Diskussion um IT-Sicherheit und Security by Design wird durch aktuelle Entwicklungen in der KI und Cybersecurity geprägt. Während der Curl-Entwickler nach einer Sicherheitsüberprüfung durch das KI-Modell Mythos Curl keine signifikanten Gefahren sieht, bietet ein Live-AMA mit IT-Sicherheitsexperte Manuel Atug die Möglichkeit, Fragen zu Palantir und Datenschutz zu klären.",
+      "highlights": [
+        "Curl-Entwickler berichtet von minimalen Sicherheitslücken nach KI-Überprüfung.",
+        "Live-AMA mit Manuel Atug zu Palantir heute um 17 Uhr.",
+        "Fokus auf Datenschutz und IT-Sicherheit in der aktuellen Diskussion."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "heise-Angebot: Mastering GitOps 2026: Rendered Manifests, Argo CD und Platform Engineering",
+          "link": "https://www.heise.de/news/Mastering-GitOps-2026-Rendered-Manifests-Argo-CD-und-Platform-Engineering-11290861.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Online-Konferenz am 25. Juni präsentiert praxisrelevante GitOps-Themen rund um Platform Engineering, Argo CD, den Flux Operator und Manifest-Pattern.",
+          "published": "2026-05-13T08:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Online-Konferenz 'Mastering GitOps 2026' am 25. Juni behandelt praxisrelevante Themen zu GitOps, einschließlich Platform Engineering und Argo CD. Experten präsentieren Strategien zur effektiven Nutzung von Rendered Manifests und dem Flux Operator.",
+      "highlights": [
+        "Datum der Konferenz: 25. Juni 2026",
+        "Themen: GitOps, Argo CD, Flux Operator, Manifest-Pattern",
+        "Fokus auf praxisnahe Anwendungen im Bereich Platform Engineering"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Microsoft will lean on your CPU to speed up Windows 11's apps and animations",
+          "link": "https://arstechnica.com/gadgets/2026/05/speed-boosting-low-latency-profile-is-one-of-the-improvements-coming-to-windows-11/",
+          "summary": "\"All modern operating systems do this, including macOS and Linux.\"",
+          "published": "Tue, 12 May 2026 17:49:21 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Claude Design: Wie das Anthropic-Tool mit Figma und Lovable konkurriert",
+          "link": "https://t3n.de/news/claude-design-was-es-kann-1739130/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit Claude Design kannst du dank Opus 4.7 Prototypen für Seiten, One-Pager und Slides per KI-Prompt schnell erstellen. Ein Anthropic-Designer gibt sieben Tipps für die optimale Nutzung des Tools, das mit Lovable, Google und Co. konkurriert. weiterlesen auf t3n.de",
+          "published": "Tue, 12 May 2026 15:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Petition gegen Digitalzwang: 64.000 Menschen wollen das Grundgesetz ändern",
+          "link": "https://netzpolitik.org/2026/petition-gegen-digitalzwang-64-000-menschen-wollen-das-grundgesetz-aendern/",
+          "summary": "Auch dieser Digitalcourage-Aktivist fordert ein Recht auf analoges Leben im Grundgesetz. – CC-BY-SA 4.0 : Fabian Kurz Das Recht auf analoges Leben soll ins Grundgesetz – mehr als 64.000 Unterzeichner*innen fordern das in einer Petition. Interessierte können sich bis 21. Mai anschließen. Im Interview erklären die Initiator*innen: Der ausufernde Digitalzwang schadet der Demokratie.",
+          "published": "Tue, 12 May 2026 11:27:12 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "„Passwort“ Folge 58: Fail-News mit KI-Fail, copy.fail und S/MIME-Fail",
+          "link": "https://www.heise.de/news/Passwort-Folge-58-Fail-News-mit-KI-Fail-copy-fail-und-S-MIME-Fail-11284855.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Copy-Fail-Lücke erlaubt den Hosts einen Abstecher in die Gefilde des Linuxkernels, KI löscht Unternehmensdaten und CAs machen mal wieder einen Rückzieher.",
+          "published": "2026-05-13T09:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Fedora plant KI-Linux-Desktop",
+          "link": "https://www.heise.de/news/Fedora-plant-KI-Linux-Desktop-11291654.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Fedora arbeitet an einem Linux-Desktop für KI-Entwickler. Das Projekt will die bislang oft komplexe Einrichtung lokaler KI-Stacks deutlich vereinfachen.",
+          "published": "2026-05-12T15:57:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen im Bereich Agile Methoden und UX/UI zeigen, dass innovative Tools wie Claude Design den Designprozess durch KI-gestützte Prototypenerstellung beschleunigen. Gleichzeitig wird der Digitalzwang in der Gesellschaft kritisch hinterfragt, was zu einer Petition für ein Recht auf analoges Leben führt.",
+      "highlights": [
+        "Claude Design ermöglicht die schnelle Erstellung von Prototypen durch KI-Prompts.",
+        "Über 64.000 Menschen unterstützen eine Petition für ein Recht auf analoges Leben im Grundgesetz.",
+        "Fedora plant einen KI-Linux-Desktop, um die Einrichtung lokaler KI-Stacks zu vereinfachen."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Jensen Huang and Bill McDermott bet on OpenShell to secure enterprise AI agents",
+          "link": "https://thenewstack.io/nvidia-openshell-agent-runtime/",
+          "summary": "The software stack that powers enterprise applications was built for humans. It assumes human-speed interaction, human-managed credentials, and human oversight The post Jensen Huang and Bill McDermott bet on OpenShell to secure enterprise AI agents appeared first on The New Stack .",
+          "published": "Tue, 12 May 2026 20:08:02 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "The API portal is the clearest signal of whether your company can handle AI agents",
+          "link": "https://thenewstack.io/mcp-api-governance-readiness/",
+          "summary": "When I recently talked to Kin Lane, API evangelist and co-founder of Naftiko, I was repeatedly struck by the parallels The post The API portal is the clearest signal of whether your company can handle AI agents appeared first on The New Stack .",
+          "published": "Tue, 12 May 2026 17:23:52 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Red Hat is betting on AgentOps to close the gap between AI experiments and production",
+          "link": "https://thenewstack.io/red-hat-ai-maas/",
+          "summary": "On Tuesday, Red Hat&#160;announced significant advancements&#160;to Red Hat AI (RHAI) 3.4 at its Red Hat Summit in Atlanta. Red Hat The post Red Hat is betting on AgentOps to close the gap between AI experiments and production appeared first on The New Stack .",
+          "published": "Tue, 12 May 2026 15:23:52 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Dieser KI-Agent leitet ein Café: Was dabei schon schiefgegangen ist",
+          "link": "https://t3n.de/news/ki-agent-cafe-probleme-1742176/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein US-Startup hat einem KI-Agenten die Leitung eines Cafés übertragen – mit bisher überschaubarem Erfolg. Vor allem mit den Bestellungen hat die KI so ihre Probleme. Das erinnert an ähnliche Experimente, die spektakulär scheiterten. weiterlesen auf t3n.de",
+          "published": "Tue, 12 May 2026 17:00:20 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Living off the agent: The new tactic hijacking enterprise AI",
+          "link": "https://thenewstack.io/agentic-ai-spy-game/",
+          "summary": "The moment employees started using AI tools with real company data, the game changed. Productivity jumped, but so did the The post Living off the agent: The new tactic hijacking enterprise AI appeared first on The New Stack .",
+          "published": "Tue, 12 May 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Die Entwicklungen im Bereich generative KI und LLMs zeigen, dass Unternehmen zunehmend auf spezialisierte Softwarelösungen setzen, um KI-Agenten in ihren Prozessen zu integrieren. Während einige Unternehmen wie Red Hat und OpenShell Fortschritte machen, gibt es auch Herausforderungen, wie das Beispiel eines KI-gesteuerten Cafés zeigt.",
+      "highlights": [
+        "Jensen Huang und Bill McDermott unterstützen OpenShell zur Sicherung von Unternehmens-KI-Agenten.",
+        "Red Hat kündigte auf dem Red Hat Summit 3.4 von Red Hat AI an, um die Lücke zwischen KI-Experimenten und Produktion zu schließen.",
+        "Ein US-Startup hat einen KI-Agenten zur Leitung eines Cafés eingesetzt, jedoch gab es erhebliche Probleme bei Bestellungen."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "AI teams are spending months on web scrapers that SerpApi replaces with one API call",
+          "link": "https://thenewstack.io/serpapi-google-search-api/",
+          "summary": "If you want fresh data inside an AI system, you usually end up doing something messy to get it. For The post AI teams are spending months on web scrapers that SerpApi replaces with one API call appeared first on The New Stack .",
+          "published": "Tue, 12 May 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Anzeige: Cyber Resilience und Compliance: NIS 2, DORA, AI Act einordnen",
+          "link": "https://www.golem.de/news/anzeige-cyber-resilience-und-compliance-nis-2-dora-ai-act-einordnen-2605-208552.html",
+          "summary": "Cyber Resilience verlangt IT-Governance und Notfallplanung. Der Überblick über NIS 2, DORA, AI Act und CRA hilft, Pflichten zu priorisieren. Ein Online-Workshop vermittelt die Umsetzung. ( Golem Karrierewelt , Unternehmenssoftware )",
+          "published": "2026-05-13T07:15:03+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "VATM-Marktanalyse 2026: Telekom wird bei DSL wieder stärker",
+          "link": "https://www.golem.de/news/vatm-marktanalyse-2026-telekom-wird-bei-dsl-wieder-staerker-2605-208581.html",
+          "summary": "Die Telekom stärkt ihre Vormachtstellung auf dem deutschen Breitbandmarkt. Die Konkurrenz im VATM schlägt Alarm und fordert harte regulatorische Fesseln. ( VATM , DSL )",
+          "published": "2026-05-12T14:20:02+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Spielebranche: Sega stoppt Entwicklung seines Super Game",
+          "link": "https://www.golem.de/news/spielebranche-sega-stoppt-entwicklung-seines-super-game-2605-208571.html",
+          "summary": "Trotz des eingestellten Super Game hält Sega an Retro-Comebacks fest. Unter anderem sollen neue Crazy Taxi und Golden Axe erscheinen. ( Sega , Spiele )",
+          "published": "2026-05-12T12:15:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die EU-Tech-Regulierung umfasst wichtige Gesetze wie NIS 2, DORA und den AI Act, die Unternehmen zur Verbesserung ihrer Cyber-Resilienz und Compliance anregen. Gleichzeitig wird die Telekom im DSL-Markt wieder stärker, während die Spielebranche mit neuen Retro-Projekten aufwartet.",
+      "highlights": [
+        "NIS 2, DORA und AI Act sind zentrale Elemente der EU-Tech-Regulierung.",
+        "Die Telekom stärkt ihre Marktposition im deutschen DSL-Sektor.",
+        "Sega plant die Veröffentlichung neuer Titel wie Crazy Taxi und Golden Axe trotz der Einstellung des Super Game."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "AdonisJS v7 Ships End-to-End Type Safety, Reworked Starter Kits and Zero-Config OpenTelemetry",
+          "link": "https://www.infoq.com/news/2026/05/adonis-v7-opentelemetry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AdonisJS version 7 introduces end-to-end type safety and reworked starter kits, alongside improved documentation. The release includes 45+ updated packages and three new ones for OpenTelemetry, typed content. It requires Node.js 24, allowing the use of native APIs. The framework emphasizes a convention-over-configuration approach while offering tools for routing, ORM, and authentication. By Daniel Curtis",
+          "published": "Tue, 12 May 2026 11:26:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "AdonisJS v7 bietet umfassende Typensicherheit und überarbeitete Starter-Kits. Die Version umfasst über 45 aktualisierte Pakete sowie drei neue für OpenTelemetry und erfordert Node.js 24.",
+      "highlights": [
+        "Einführung von End-to-End Typensicherheit.",
+        "Über 45 aktualisierte Pakete und drei neue für OpenTelemetry.",
+        "Erfordert Node.js 24 für die Nutzung nativer APIs."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Schluss mit Unordnung: Dieses lokale KI-Tool benennt Bilder und Dokumente automatisch um",
+          "link": "https://t3n.de/news/ki-tool-dateien-bilder-umbenennen-1720601/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kryptische Dateinamen sind ein Ärgernis. Dieses KI-Tool löst das Problem, indem es eure Files automatisch umbenennt – und zwar ganz ohne Cloud. weiterlesen auf t3n.de",
+          "published": "Wed, 13 May 2026 09:15:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google Maps mit neuem Feature für S-Bahnen und Regionalzüge",
+          "link": "https://t3n.de/news/google-maps-mit-neuem-feature-fuer-s-bahnen-und-regionalzuege-1742287/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wie komme ich schnell von A nach B? Navi-Apps zeigen mehrere Verkehrsmittel als Optionen. Die S-Bahn kommt bei Google Maps nun etwas besser zur Geltung. Dafür bekommt Google einen Datenschatz. weiterlesen auf t3n.de",
+          "published": "Wed, 13 May 2026 09:00:51 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Vom 4. Stock Richtung Karriereende: Warum niemand mit Steve Jobs in den Aufzug steigen wollte",
+          "link": "https://t3n.de/news/vom-4-stock-richtung-karriereende-warum-niemand-mit-steve-jobs-in-den-aufzug-steigen-wollte-1742220/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Steve Jobs galt als launischer und kompromissloser Vorgesetzter. Die Belegschaft soll regelrecht Angst davor gehabt haben, dem Apple-Mitgründer im Fahrstuhl zu begegnen. Welchen Trick sich Angestellte für die Situation überlegt haben und was passieren konnte, wenn der nicht zündete. weiterlesen auf t3n.de",
+          "published": "Wed, 13 May 2026 07:45:50 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Groß wie Big Ben: Schwimmende KI-Rechenzentren wecken Interesse von Peter Thiel",
+          "link": "https://t3n.de/news/schwimmende-ki-rechenzentren-1742245/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das US-Startup Panthalassa arbeitet an riesigen kugelförmigen KI-Rechenzentren, die im Meer schwimmen und dort selbst Strom generieren sollen. Auch die Kühlung wäre kein Problem. Zu den Investor:innen gehört Palantir-Mitgründer Peter Thiel. weiterlesen auf t3n.de",
+          "published": "Tue, 12 May 2026 19:15:28 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Garantie oder Gewährleistung? So vermeidest du teure Fehler bei Reklamationen",
+          "link": "https://t3n.de/news/garantie-gewaehrleistung-fehler-vermeiden-1695832/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn eine Ware fehlerhaft ist oder ein Gerät den Dienst verweigert, müssen Verbraucher:innen sich oft streiten. Doch wann ist der Händler der richtige Ansprechpartner, wann kann der einen an den Hersteller verweisen – und was ist mit Plattformen wie Amazon oder Temu? weiterlesen auf t3n.de",
+          "published": "Tue, 12 May 2026 17:55:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Nachrichten berichten über verschiedene technologische Entwicklungen, darunter ein KI-Tool zur automatischen Umbenennung von Dateien ohne Cloud-Nutzung und innovative schwimmende KI-Rechenzentren. Zudem wird ein neues Feature von Google Maps für den öffentlichen Nahverkehr vorgestellt.",
+      "highlights": [
+        "KI-Tool benennt Dateien automatisch um, ohne Cloud-Nutzung.",
+        "Google Maps integriert S-Bahn-Optionen für bessere Navigation.",
+        "Panthalassa entwickelt schwimmende KI-Rechenzentren mit Stromautarkie."
+      ]
+    }
+  ]
+}
