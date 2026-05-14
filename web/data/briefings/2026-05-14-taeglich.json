@@ -1,0 +1,317 @@
+{
+  "date": "2026-05-14",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Fivetran’s CPO: Closed data stacks won’t survive the agent era",
+          "link": "https://thenewstack.io/agentic-analytics-cost-squeeze/",
+          "summary": "An AI agent let loose on a data warehouse can run ten or a hundred times more queries than a The post Fivetran&#8217;s CPO: Closed data stacks won&#8217;t survive the agent era appeared first on The New Stack .",
+          "published": "Wed, 13 May 2026 22:15:28 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Fivetrans CPO betont, dass geschlossene Datenstacks in der Ära von KI-Agenten nicht bestehen können, da diese Agenten die Effizienz von Datenabfragen erheblich steigern. Die Fähigkeit, deutlich mehr Abfragen durchzuführen, könnte die Art und Weise, wie Unternehmen Daten nutzen, revolutionieren.",
+      "highlights": [
+        "KI-Agenten können zehn- bis hundertmal mehr Abfragen in Datenbanken durchführen.",
+        "Geschlossene Datenstacks könnten die Innovationsfähigkeit von Unternehmen einschränken.",
+        "Die Zukunft der Datenanalyse erfordert offene und flexible Datenarchitekturen."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Anthropic Launches Claude Platform on AWS",
+          "link": "https://www.infoq.com/news/2026/05/anthropic-claude-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Anthropic has announced the general availability of Claude Platform on AWS, a new deployment option that gives AWS customers direct access to Anthropic’s native Claude platform using AWS authentication, billing, and monitoring services. By Daniel Dominguez",
+          "published": "Wed, 13 May 2026 19:20:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Cloud native application challenges: installing the walking skeleton",
+          "link": "https://thenewstack.io/kubernetes-yaml-management-scale/",
+          "summary": "Editor&#8217;s note: This article is an excerpt from Chapter 1 of the Manning book, Platform Engineering on Kubernetes. This excerpt The post Cloud native application challenges: installing the walking skeleton appeared first on The New Stack .",
+          "published": "Wed, 13 May 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Why agent harnesses fail inside cloud-native systems",
+          "link": "https://thenewstack.io/agent-harness-distributed-feedback-problem/",
+          "summary": "Coding agents perform better with a harness that gives them the tools, guidance, and feedback signals to know what to The post Why agent harnesses fail inside cloud-native systems appeared first on The New Stack .",
+          "published": "Wed, 13 May 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS WorkSpaces Now Lets AI Agents Operate Legacy Desktop Applications Without APIs",
+          "link": "https://www.infoq.com/news/2026/05/aws-workspaces-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS announced that Amazon WorkSpaces can now serve as managed virtual desktops for AI agents in public preview. Agents authenticate through IAM and operate legacy applications via computer vision and input simulation without APIs. Reflex benchmarks show vision agents consume 45x more tokens than API agents. By Steef-Jan Wiggers",
+          "published": "Wed, 13 May 2026 07:31:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Sony Alpha 7R VI bringt 67 Megapixel auf das Tempo des Spitzenmodells",
+          "link": "https://www.heise.de/news/Sony-Alpha-7R-VI-bringt-67-Megapixel-auf-das-Tempo-des-Spitzenmodells-11291155.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mit der Alpha 7R VI startet Sony eine neue Kamerageneration. Das Modell verbindet einen hochauflösenden Stacked-Sensor mit der Geschwindigkeit des Flaggschiffs.",
+          "published": "2026-05-13T16:51:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Anthropic hat die Claude-Plattform auf AWS eingeführt, die es Nutzern ermöglicht, direkt über AWS auf die Plattform zuzugreifen. Zudem können AI-Agenten in Amazon WorkSpaces jetzt Legacy-Anwendungen ohne APIs betreiben, was die Integration von KI in bestehende Systeme erleichtert.",
+      "highlights": [
+        "Claude-Plattform ist jetzt auf AWS verfügbar.",
+        "AI-Agenten in Amazon WorkSpaces können Legacy-Anwendungen ohne APIs nutzen.",
+        "Vision-Agenten verbrauchen 45x mehr Tokens als API-Agenten."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "JEP 533 Tightens Exception Handling in Java's Structured Concurrency for JDK 27",
+          "link": "https://www.infoq.com/news/2026/05/jep-533-jdk-27/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "JEP 533, Structured Concurrency, has reached integrated status for JDK 27. It refines exception handling and type safety in its API, particularly focusing on exception flow with a new ExecutionException type. Changes include an updated Joiner interface and a new open overload for easier configuration. The steady evolution signals ongoing development as feedback shapes the API. By A N M Bazlur Rahman",
+          "published": "Wed, 13 May 2026 14:36:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Presentation: What I Learned Building Multi-Agent Systems From Scratch",
+          "link": "https://www.infoq.com/presentations/multi-agent-system-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Paulo Arruda discusses Shopify’s evolution in AI adoption, moving from simple chat tools to a sophisticated swarm of specialized agents. He explains the transition from massive \"all-in-one\" prompts to lean, narrow-focused agent microservices that slash task times from hours to minutes. He also shares a future-looking hypothesis on using filesystem-based adapters to solve context bloat. By Paulo Arruda",
+          "published": "Wed, 13 May 2026 12:01:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "C-Libraries in Java nutzen 2: Funktionen mit veränderlichen Parametern",
+          "link": "https://www.heise.de/hintergrund/C-Libraries-in-Java-nutzen-2-Funktionen-mit-veraenderlichen-Parametern-11291161.html",
+          "summary": "Die Foreign Function & Memory API bietet in Java einen deutlich einfacheren Zugang zu Funktionen in C-Libraries als das veraltete JNI.",
+          "published": "2026-05-13T07:26:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Software-Architektur in Java entwickelt sich weiter, insbesondere durch die Einführung der JEP 533, die das Exception Handling in der strukturierten Nebenläufigkeit verbessert. Zudem wird die Foreign Function & Memory API hervorgehoben, die den Zugriff auf C-Libraries erleichtert.",
+      "highlights": [
+        "JEP 533 führt einen neuen ExecutionException-Typ ein und aktualisiert das Joiner-Interface.",
+        "Die Foreign Function & Memory API ermöglicht einen einfacheren Zugriff auf C-Funktionen als das veraltete JNI.",
+        "Paulo Arruda präsentiert Fortschritte bei der Entwicklung spezialisierter Agenten in der KI bei Shopify."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "OpenAI’s Daybreak and Anthropic’s Glasswing have nearly identical benchmarks — and 3 of the same partners",
+          "link": "https://thenewstack.io/openai-daybreak-anthropic-glasswing/",
+          "summary": "This week, OpenAI launched Daybreak, its cybersecurity initiative built around GPT-5.5, a tiered access framework, and Codex Security as the The post OpenAI&#8217;s Daybreak and Anthropic&#8217;s Glasswing have nearly identical benchmarks — and 3 of the same partners appeared first on The New Stack .",
+          "published": "Wed, 13 May 2026 15:04:04 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Öffentliches Ladenetz zunehmend gefährlich",
+          "link": "https://www.heise.de/news/BSI-zu-Risiko-oeffentlicher-Ladestationen-11294135.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das BSI hat die IT-Sicherheit des öffentlichen Ladenetzes untersucht – und Probleme ausgemacht. Im schlimmsten Fall sei die Netzstabilität gefährdet.",
+          "published": "2026-05-14T06:59:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit",
+          "link": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-11280174.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Erfahren Sie, wie künstliche Intelligenz in der IT-Sicherheit eingesetzt werden kann: Überblick, Methoden, Werkzeuge und praktische Anwendung.",
+          "published": "2026-05-13T14:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Datenpanne bei Hotelkette: Hacker konnten monatelang Buchungsdaten abgreifen",
+          "link": "https://www.golem.de/news/best-western-hotels-hacker-konnten-monatelang-auf-buchungsdaten-zugreifen-2605-208637.html",
+          "summary": "Angreifer konnten sich wohl rund ein halbes Jahr lang ungestört im System von Best Western Hotels umsehen und Daten der Hotelgäste ausleiten. ( Datenleck , Datenschutz )",
+          "published": "2026-05-13T14:35:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der IT-Sicherheit zeigen sowohl Fortschritte als auch erhebliche Risiken. OpenAI und Anthropic präsentieren neue Sicherheitsinitiativen, während das BSI auf Gefahren im öffentlichen Ladenetz hinweist und ein Datenleck bei Best Western auf gravierende Sicherheitslücken aufmerksam macht.",
+      "highlights": [
+        "OpenAI startet mit Daybreak eine Cybersecurity-Initiative basierend auf GPT-5.5.",
+        "Das BSI warnt vor Sicherheitsproblemen im öffentlichen Ladenetz, die die Netzstabilität gefährden könnten.",
+        "Hacker konnten monatelang ungehindert auf Buchungsdaten von Best Western Hotels zugreifen."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Bundesregierung: Änderungen bei Heizungen und Ladeinfrastruktur beschlossen",
+          "link": "https://www.golem.de/news/bundesregierung-aenderungen-bei-heizungen-und-ladeinfrastruktur-beschlossen-2605-208662.html",
+          "summary": "Die Bundesregierung hat neue Vorgaben für den Einbau von Heizungen und den Aufbau der Ladeinfrastruktur für E-Autos beschlossen. ( Energiewende , Bundesregierung )",
+          "published": "2026-05-13T17:50:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Bundesregierung hat neue Regelungen für den Einbau von Heizungen und den Ausbau der Ladeinfrastruktur für Elektroautos verabschiedet. Diese Maßnahmen sollen die Energiewende vorantreiben und den Übergang zu nachhaltigen Energien unterstützen.",
+      "highlights": [
+        "Neuerungen betreffen sowohl Heizungsinstallationen als auch E-Auto-Ladepunkte.",
+        "Ziel ist die Förderung der Energiewende in Deutschland.",
+        "Regelungen sollen die Nutzung erneuerbarer Energien beschleunigen."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Fedora plant KI-Linux-Desktop",
+          "link": "https://www.heise.de/news/Fedora-plant-KI-Linux-Desktop-11291654.html",
+          "summary": "Fedora arbeitet an einem Linux-Desktop für KI-Entwickler. Das Projekt will die bislang oft komplexe Einrichtung lokaler KI-Stacks deutlich vereinfachen.",
+          "published": "2026-05-12T13:57:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Fedora entwickelt einen speziellen Linux-Desktop, der die Einrichtung von KI-Entwicklungsumgebungen erleichtert. Ziel ist es, den Prozess für Entwickler zu vereinfachen und zugänglicher zu gestalten.",
+      "highlights": [
+        "Projekt fokussiert auf KI-Entwickler",
+        "Vereinfachung der lokalen KI-Stack-Einrichtung",
+        "Ziel: Benutzerfreundlichkeit erhöhen"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Schluss mit kaputter Formatierung: So bleibt KI-Text auch in Word und Google Docs lesbar",
+          "link": "https://t3n.de/news/falsche-formatierung-ki-text-word-google-docs-lesbar-1742369/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Du kopierst Text aus Claude in Word oder andere Software – und plötzlich stimmen Absätze, Striche und Leerzeichen nicht mehr? Um das zu lösen, hilft ein kurzer Prompt-Zusatz. weiterlesen auf t3n.de",
+          "published": "Thu, 14 May 2026 08:00:48 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Claude Mythos: Wie Anthropics KI die Cyber-Security herausfordert",
+          "link": "https://t3n.de/news/claude-mythos-wie-anthropics-ki-die-cyber-security-herausfordert-1742439/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI-Modelle wie Claude Mythos finden nicht nur Sicherheitslücken in Software, sie schreiben auch Code, der diese Lücken ausnützt. Ist das das Ende der Cybersicherheit? weiterlesen auf t3n.de",
+          "published": "Thu, 14 May 2026 06:15:47 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "MinIO’s MemKV promises 95% better GPU utilization by ending AI recompute tax",
+          "link": "https://thenewstack.io/minio-memkv-recompute-tax/",
+          "summary": "The shiny upper surface of agentic AI services showcased in chatbots and copilots belies where the real development is happening The post MinIO&#8217;s MemKV promises 95% better GPU utilization by ending AI recompute tax appeared first on The New Stack .",
+          "published": "Wed, 13 May 2026 20:27:46 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Tödliche Überdosis nach ChatGPT-Rat: Eltern eines verstorbenen Teenagers verklagen OpenAI",
+          "link": "https://t3n.de/news/ueberdosis-chatgpt-klage-openai-1742461/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Frühjahr 2025 ist in den USA ein 19-Jähriger an einer Überdosis gestorben. Zu dem tödlichen Drogenmix soll ihm ChatGPT geraten haben. Die Eltern des verstorbenen Teenagers haben jetzt Klage gegen Anbieter OpenAI eingereicht. weiterlesen auf t3n.de",
+          "published": "Wed, 13 May 2026 20:44:38 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Altman forced to confront claims at OpenAI trial that he's a prolific liar",
+          "link": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
+          "summary": "\"Very painful\": Altman relives his Muskian reaction to losing control over OpenAI.",
+          "published": "Wed, 13 May 2026 17:48:05 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen im Bereich generative KI und LLMs zeigen sowohl technische Fortschritte als auch ethische Herausforderungen. Während neue Tools die Nutzung von KI-Texten in Dokumenten verbessern, gibt es auch besorgniserregende Vorfälle, die rechtliche Konsequenzen nach sich ziehen könnten.",
+      "highlights": [
+        "Claude kann Sicherheitslücken finden und ausnutzen, was Fragen zur Cybersicherheit aufwirft.",
+        "Eltern verklagen OpenAI nach dem Tod ihres Sohnes, der aufgrund von ChatGPT-Ratschlägen an einer Überdosis starb.",
+        "MinIO’s MemKV verspricht eine 95% bessere GPU-Auslastung durch die Reduzierung der AI-Recompute-Kosten."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Solar drone with jumbo jet wingspan broke a flight record—then it crashed",
+          "link": "https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/",
+          "summary": "The final flight and complex legacy of a pioneering solar-powered aircraft.",
+          "published": "Wed, 13 May 2026 21:48:27 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Temporal hits 3,000 paying customers with its crash-proof workflow engine",
+          "link": "https://thenewstack.io/temporal-durable-execution-ai-workflows/",
+          "summary": "If you work the high wire at a circus, you&#8217;d better have a net down below if you want to The post Temporal hits 3,000 paying customers with its crash-proof workflow engine appeared first on The New Stack .",
+          "published": "Wed, 13 May 2026 13:48:49 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Neue PC-Spiele im Juni 2026: „Gothic 1 Remake“",
+          "link": "https://www.heise.de/news/Neue-PC-Spiele-im-Juni-2026-Gothic-1-Remake-11293541.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Im Juni wird unter anderem das „Gothic 1 Remake“ veröffentlicht. Zudem geht das Survival-Crafting-Spiel „Solarpunk“ an den Start.",
+          "published": "2026-05-13T18:37:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: EU AI Act: Was bis August 2026 in Unternehmen erledigt sein muss",
+          "link": "https://www.heise.de/news/EU-AI-Act-Was-bis-August-2026-in-Unternehmen-erledigt-sein-muss-11289663.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Im Webinar ordnet der heise Fachdienst KI PRO die anstehenden Pflichten des EU AI Act ein und zeigt, wo konkreter Handlungsbedarf besteht.",
+          "published": "2026-05-13T12:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Der EU AI Act verpflichtet Unternehmen bis August 2026 zur Einhaltung spezifischer Vorgaben im Bereich Künstliche Intelligenz. Ein Webinar des heise Fachdienstes KI PRO bietet eine Übersicht über die anstehenden Pflichten und den Handlungsbedarf.",
+      "highlights": [
+        "Frist bis August 2026 für die Umsetzung des EU AI Act.",
+        "Webinar von heise Fachdienst KI PRO zur Einordnung der Pflichten.",
+        "Fokus auf konkretem Handlungsbedarf für Unternehmen."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Neuer QR-Captcha-Check: Warum Android-Nutzer ohne Play-Dienste jetzt Probleme haben",
+          "link": "https://t3n.de/news/neuer-qr-captcha-check-android-ohne-play-dienste-probleme-1741877/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer ein Android-Smartphone ohne Google-Dienste nutzt, könnte bald auf neue Grenzen stoßen. Google hat einen Sicherheitscheck veröffentlicht, der jetzt dafür sorgt, dass solche User:innen von bestimmten Inhalten ausgeschlossen werden. weiterlesen auf t3n.de",
+          "published": "Thu, 14 May 2026 07:25:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI im Recruiting: Wie dieser Gründer die Suche nach dem Traumjob radikal vereinfachen will",
+          "link": "https://t3n.de/news/ki-recruiting-gruender-traumjob-radikal-vereinfachen-1741761/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit 28 hat Sebastian Scott bereits vier Unternehmen gegründet. Sein jüngstes: Die KI-Recruiting-Plattform Clera. Wie Scott vom KI-Boom im Recruiting profitieren will – und wer der Gründer ist. weiterlesen auf t3n.de",
+          "published": "Thu, 14 May 2026 06:50:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Flytrap“: So können bunte Regenschirme Drohnen in die Irre führen",
+          "link": "https://t3n.de/news/flytrap-regenschirme-bunt-drohnen-irre-1732027/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Während die Anzahl verdächtiger Drohnenflüge in Deutschland stark zugenommen hat, haben Forscher:innen jetzt herausgefunden, dass sich viele Geräte mit einem simplen Trick täuschen lassen. weiterlesen auf t3n.de",
+          "published": "Thu, 14 May 2026 06:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "FCC angers small carriers by helping AT&T and Starlink buy EchoStar spectrum",
+          "link": "https://arstechnica.com/tech-policy/2026/05/fcc-angers-small-carriers-by-helping-att-and-starlink-buy-echostar-spectrum/",
+          "summary": "Approval is no surprise after FCC chair pressured EchoStar to sell licenses.",
+          "published": "Wed, 13 May 2026 20:44:38 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Neun Dezibel mehr: Neuartiges Hörgerät „denkt mit“ und macht einzelne Stimmen lauter",
+          "link": "https://t3n.de/news/neun-dezibel-mehr-neuartiges-hoergeraet-denkt-mit-und-macht-einzelne-stimmen-lauter-1742248/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Klassische Hörgeräte verstärken oft alle Stimmen in einem Gespräch. US-Forscher haben ein neues System entwickelt, das erkennt, wem die Träger:innen zuhören wollen, und das dann diese einzelne Stimme verstärkt. Doch die Entwicklung hat noch Grenzen. weiterlesen auf t3n.de",
+          "published": "Wed, 13 May 2026 14:00:48 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Software Supply Chain wird zunehmend durch Sicherheitsmaßnahmen wie den neuen QR-Captcha-Check von Google beeinflusst, der Nutzer ohne Play-Dienste ausschließt. Dies könnte die Nutzung von Open-Source-Software auf Android-Geräten einschränken.",
+      "highlights": [
+        "Google führt QR-Captcha-Check ein, der Nutzer ohne Play-Dienste ausschließt.",
+        "Betroffene Android-Nutzer könnten auf bestimmte Inhalte nicht mehr zugreifen.",
+        "Sicherheitsmaßnahmen könnten die Verbreitung von Open-Source-Software beeinträchtigen."
+      ]
+    }
+  ]
+}
