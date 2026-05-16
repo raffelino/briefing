@@ -1,0 +1,422 @@
+{
+  "date": "2026-05-16",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Pinterest Engineers Eliminate CPU Zombies to Resolve Production Bottlenecks",
+          "link": "https://www.infoq.com/news/2026/05/pinterest-cpu-zombies-bottleneck/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Pinterest identified and resolved CPU starvation issues that affected machine learning training jobs on its Kubernetes-based platform, PinCompute. The engineers traced the problem to an unused Amazon ECS agent, which caused memory cgroup leaks. By disabling the agent, they stabilised performance. This case illustrates the importance of understanding system defaults for effective troubleshooting. By Mark Silvester",
+          "published": "Thu, 14 May 2026 10:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Fivetran’s CPO: Closed data stacks won’t survive the agent era",
+          "link": "https://thenewstack.io/agentic-analytics-cost-squeeze/",
+          "summary": "An AI agent let loose on a data warehouse can run ten or a hundred times more queries than a The post Fivetran&#8217;s CPO: Closed data stacks won&#8217;t survive the agent era appeared first on The New Stack .",
+          "published": "Wed, 13 May 2026 22:15:28 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "In dieser Woche standen bei Data & AI insbesondere Herausforderungen und Entwicklungen im Bereich der Datenverarbeitung im Fokus. Pinterest hat erfolgreich CPU-Störungen in seiner Kubernetes-basierten Plattform PinCompute behoben, die die Leistung von Machine-Learning-Jobs beeinträchtigten. Gleichzeitig betonte Fivetrans CPO die Notwendigkeit offener Datenarchitekturen, um der steigenden Komplexität durch AI-Agenten gerecht zu werden. Diese Themen verdeutlichen die Wichtigkeit von Systemverständnis und Flexibilität in der Datenverarbeitung.",
+      "highlights": [
+        "Pinterest löste CPU-Störungen durch Deaktivierung eines ungenutzten Amazon ECS-Agenten.",
+        "Die Stabilisierung der Leistung auf PinCompute verbesserte die Effizienz von Machine-Learning-Jobs.",
+        "Fivetran warnt, dass geschlossene Datenstacks in der Ära von AI-Agenten nicht überlebensfähig sind.",
+        "AI-Agenten können die Anzahl der Abfragen in einem Data Warehouse erheblich steigern.",
+        "Das Verständnis von Systemstandards ist entscheidend für effektives Troubleshooting."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Google Introduces Cloud Fraud Defense as Successor to reCAPTCHA",
+          "link": "https://www.infoq.com/news/2026/05/cloud-fraud-defense-recaptcha/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "At the recent Next ‘26 conference, Google introduced Google Cloud Fraud Defense, the successor to reCAPTCHA. The platform goes beyond basic bot detection to address broader online fraud across login, account creation, and payment flows, helping organizations detect suspicious behavior and block abuse, including fake accounts, automated attacks, and transaction fraud. By Renato Losio",
+          "published": "Sat, 16 May 2026 08:39:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Microsoft Releases Aspire 13.3 with Major Deployment and Frontend Updates",
+          "link": "https://www.infoq.com/news/2026/05/aspire-13-3-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has released Aspire 13.3, introducing a new aspire destroy command for tearing down deployments across Azure, Kubernetes, and Compose. The release adds native Kubernetes deployment in preview, first-class JavaScript publishing for Next.js and Vite, browser log capture, and a default-enabled container tunnel, alongside several breaking changes developers should review. By Almir Vuk",
+          "published": "Sat, 16 May 2026 08:34:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Why Block handed Goose to the Linux Foundation",
+          "link": "https://thenewstack.io/block-goose-agentic-foundation/",
+          "summary": "Internal tools can become powerful external services. Such was the case with Amazon&#8217;s cloud, which became AWS. And so too The post Why Block handed Goose to the Linux Foundation appeared first on The New Stack .",
+          "published": "Fri, 15 May 2026 22:37:35 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS found bugs in 60% of software requirements. Its fix isn’t more AI — it’s a 50-year-old logic engine.",
+          "link": "https://thenewstack.io/kiro-requirements-analysis-automated-reasoning/",
+          "summary": "The most expensive bugs in software aren&#8217;t in the code. They&#8217;re in the requirements that guide the code&#8217;s construction. That&#8217;s The post AWS found bugs in 60% of software requirements. Its fix isn&#8217;t more AI — it&#8217;s a 50-year-old logic engine. appeared first on The New Stack .",
+          "published": "Fri, 15 May 2026 16:26:02 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "GTA 6 kurz vor dem Start? Warum die Börse schon einmal feiert",
+          "link": "https://t3n.de/news/gta-6-start-boerse-feiern-1742633/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Es ist das wohl am schlechtesten gehütete Geheimnis der Gaming-Szene: Laut Medienberichten und verifizierten Leaks steht der Startschuss für das Mega-Game Grand Theft Auto 6 nun endlich bevor. weiterlesen auf t3n.de",
+          "published": "Fri, 15 May 2026 12:35:38 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Benchmarking AI Agents on Kubernetes",
+          "link": "https://www.infoq.com/news/2026/05/ai-agents-kubernetes-rag/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Brandon Foley published a benchmarking study on the CNCF blog showing that AI coding agents can find and fix isolated bugs. However, they often struggle to understand system-wide impacts. This challenges the idea that improved code retrieval is the main way to enhance automated bug fixing. By Claudio Masolo",
+          "published": "Fri, 15 May 2026 10:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Anthropic Traces Six Weeks of Claude Code Quality Complaints to Three Overlapping Product Changes",
+          "link": "https://www.infoq.com/news/2026/05/anthropic-claude-code-postmortem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Anthropic published a postmortem tracing six weeks of Claude Code quality complaints to three overlapping product-layer changes: a reasoning effort downgrade, a caching bug that progressively erased the model's own thinking, and a system prompt verbosity limit that caused a 3% quality drop. The API and model weights were unaffected. All issues were resolved April 20. By Steef-Jan Wiggers",
+          "published": "Thu, 14 May 2026 09:16:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Kubernetes v1.36 Released: Security Defaults Tighten as AI Workload Support Matures",
+          "link": "https://www.infoq.com/news/2026/05/kubernetes-1-36-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Kubernetes v1.36, released in 2026, includes 70 enhancements focused on security, AI workloads, and API scalability. Key features graduating to General Availability are User Namespaces, Mutating Admission Policies, and Fine-Grained Kubelet API Authorization. The release also addresses workload management and introduces new features for AI resource allocations. By Matt Saunders",
+          "published": "Thu, 14 May 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "In dieser Woche dominierten Entwicklungen in der Cloud-Architektur und Plattformen, wobei Unternehmen wie Google und Microsoft bedeutende Neuerungen präsentierten. Google stellte die Cloud Fraud Defense vor, die über die Bot-Erkennung hinausgeht, während Microsoft mit Aspire 13.3 wichtige Updates für die Bereitstellung in Azure und Kubernetes einführte. Zudem wurde die Bedeutung von Softwareanforderungen und deren Bugs durch AWS hervorgehoben, während Kubernetes mit Version 1.36 Sicherheits- und AI-Workload-Verbesserungen umsetzte.",
+      "highlights": [
+        "Google Cloud Fraud Defense als Nachfolger von reCAPTCHA zur Bekämpfung von Online-Betrug vorgestellt.",
+        "Microsofts Aspire 13.3 führt neue Befehle für die Bereitstellung in Azure und Kubernetes ein.",
+        "AWS identifiziert Bugs in 60% der Softwareanforderungen und setzt auf einen 50 Jahre alten Logik-Engine zur Behebung.",
+        "Kubernetes v1.36 veröffentlicht mit 70 Verbesserungen, darunter Sicherheits- und AI-Workload-Unterstützung."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop: API-Design und -Entwicklung mit HTTP, REST und OpenAPI",
+          "link": "https://www.heise.de/news/iX-Workshop-API-Design-und-Entwicklung-mit-HTTP-REST-und-OpenAPI-11142307.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie, wie man effiziente und benutzerfreundliche APIs entwickelt, HTTP- und REST-Standards anwendet und standardisierte Referenzdokumentationen erstellt.",
+          "published": "2026-05-15T14:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "KI-Portierung: Claude schreibt Bun-Codebasis in Rust neu",
+          "link": "https://www.heise.de/news/KI-Portierung-Claude-schreibt-Bun-Codebasis-in-Rust-neu-9787350.html",
+          "summary": "Der JavaScript- und TypeScript-Server und -Bundler Bun besteht künftig aus Rust-Code. Innerhalb von Wochen hat Claude Code die Software portiert.",
+          "published": "2026-05-14T14:30:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "C-Libraries in Java nutzen 2: Funktionen mit veränderlichen Parametern",
+          "link": "https://www.heise.de/hintergrund/C-Libraries-in-Java-nutzen-2-Funktionen-mit-veraenderlichen-Parametern-11291161.html",
+          "summary": "Die Foreign Function & Memory API bietet in Java einen deutlich einfacheren Zugang zu Funktionen in C-Libraries als das veraltete JNI.",
+          "published": "2026-05-13T07:26:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In der vergangenen Woche standen Entwicklungen in der Software-Architektur und Java im Fokus. Besonders hervorzuheben ist die zunehmende Bedeutung von API-Design und -Entwicklung, wie ein Workshop von heise zeigt. Zudem wurde die Portierung des Bun-Servers von JavaScript/TypeScript nach Rust thematisiert, was auf einen Trend zur Effizienzsteigerung hinweist. Schließlich wird die Foreign Function & Memory API als moderne Alternative zum veralteten JNI in Java vorgestellt, um den Zugriff auf C-Libraries zu erleichtern.",
+      "highlights": [
+        "Workshop zu API-Design und -Entwicklung mit Fokus auf HTTP, REST und OpenAPI.",
+        "Bun-Server wird von JavaScript/TypeScript nach Rust portiert, um die Codebasis zu optimieren.",
+        "Foreign Function & Memory API bietet vereinfachten Zugang zu C-Libraries in Java.",
+        "Veraltetes JNI wird durch moderne Ansätze ersetzt, um die Interoperabilität zu verbessern."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "OpenAI’s Daybreak and Anthropic’s Glasswing have nearly identical benchmarks — and 3 of the same partners",
+          "link": "https://thenewstack.io/openai-daybreak-anthropic-glasswing/",
+          "summary": "This week, OpenAI launched Daybreak, its cybersecurity initiative built around GPT-5.5, a tiered access framework, and Codex Security as the The post OpenAI&#8217;s Daybreak and Anthropic&#8217;s Glasswing have nearly identical benchmarks — and 3 of the same partners appeared first on The New Stack .",
+          "published": "Wed, 13 May 2026 15:04:04 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Nach dem Ransomware-Angriff – sicher entscheiden und kommunizieren",
+          "link": "https://www.heise.de/news/iX-Workshop-Nach-dem-Ransomware-Angriff-sicher-entscheiden-und-kommunizieren-11280571.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Erfahren Sie in einer praxisnahen Simulation, wie Sie auf einen Ransomware-Angriff strategisch reagieren und mit den Konsequenzen sicher umgehen.",
+          "published": "2026-05-16T10:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "In dieser Woche standen IT-Sicherheit und die Implementierung von Security by Design im Fokus. OpenAI stellte seine neue Cybersecurity-Initiative Daybreak vor, die auf GPT-5.5 basiert und eine tiered access framework sowie Codex Security umfasst. Zudem bietet heise einen Workshop an, der Unternehmen bei der strategischen Reaktion auf Ransomware-Angriffe unterstützt. Diese Entwicklungen verdeutlichen die wachsende Bedeutung von proaktiven Sicherheitsmaßnahmen und strategischer Kommunikation im Umgang mit Cyber-Bedrohungen.",
+      "highlights": [
+        "OpenAI lanciert Daybreak, eine Cybersecurity-Initiative mit GPT-5.5.",
+        "Daybreak umfasst ein tiered access framework und Codex Security.",
+        "Anthropic's Glasswing zeigt ähnliche Benchmarks und Partner wie OpenAI.",
+        "heise bietet einen Workshop zur strategischen Reaktion auf Ransomware-Angriffe an.",
+        "Fokus auf proaktive Sicherheitsmaßnahmen und strategische Kommunikation."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Neuer Job als Head of Online Marketing &amp;amp; Growth gesucht? Schau dir unsere Top Jobs an",
+          "link": "https://t3n.de/news/unsere-jobs-der-woche-1175973/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hier findest du unsere besten Jobs aus den Bereichen Technik &amp; Entwicklung, Marketing, PR &amp; Kommunikation, Projektmanagement &amp; Produktmanagement, Design &amp; UX, Content &amp; Redaktion und Business Development. weiterlesen auf t3n.de",
+          "published": "Fri, 15 May 2026 15:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Petition gegen Digitalzwang: 64.000 Menschen wollen das Grundgesetz ändern",
+          "link": "https://netzpolitik.org/2026/petition-gegen-digitalzwang-64-000-menschen-wollen-das-grundgesetz-aendern/",
+          "summary": "Auch dieser Digitalcourage-Aktivist fordert ein Recht auf analoges Leben im Grundgesetz. – CC-BY-SA 4.0 : Fabian Kurz Das Recht auf analoges Leben soll ins Grundgesetz – mehr als 64.000 Unterzeichner*innen fordern das in einer Petition. Interessierte können sich bis 21. Mai anschließen. Im Interview erklären die Initiator*innen: Der ausufernde Digitalzwang schadet der Demokratie.",
+          "published": "Tue, 12 May 2026 11:27:12 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Wissenschaftlicher Dienst des EP: Wer Kinder ausschließen will, muss Anonymität verbieten",
+          "link": "https://netzpolitik.org/2026/wissenschaftlicher-dienst-des-ep-wer-kinder-ausschliessen-will-muss-anonymitaet-verbieten/",
+          "summary": "VPNs sind wichtige Werkzeuge zum Schutz der Privatsphäre. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Privecstasy, Bearbeitung netzpolitik.org VPNs sind ein Schlupfloch für Jugendliche, um Social-Media-Verbote zu umgehen. Das konstatiert eine Analyse des Wissenschaftlichen Dienstes des Europäischen Parlaments. Er stellt deshalb eine Personalausweispflicht für die VPN-Nutzung in den Raum. Dabei sind Werkzeuge zur Identitätsverschleierung wichtige Bestandteile einer Demokratie.",
+          "published": "Mon, 11 May 2026 11:27:15 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Privilegienausweitung in Linux: Lokale Nutzer können fremde Dateien lesen",
+          "link": "https://www.heise.de/news/Privilegienausweitung-in-Linux-Lokale-Nutzer-koennen-fremde-Dateien-lesen-11295751.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Sicherheitslücke ist seit Jahren bekannt, behoben wurde sie erst am Donnerstag. Nur Stunden später gibt es einen Exploit, derweil rüstet das Kernelteam auf.",
+          "published": "2026-05-15T19:31:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Fedora Hummingbird Linux: Neue Container-basierte Distribution",
+          "link": "https://www.heise.de/news/Fedora-Hummingbird-Linux-Neue-Container-basierte-Distribution-11295489.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Fedora Hummingbird Linux ist eine vollständig Container-basierte Distribution, die auf rpm-ostree und bootc aufbaut.",
+          "published": "2026-05-15T15:37:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "„Fragnesia“: Nächste Rechteausweitungslücke im Linux-Kernel",
+          "link": "https://www.heise.de/news/Fragnesia-Microsoft-warnt-vor-weiterer-Rechteausweitungsluecke-in-Linux-11294817.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Microsoft warnt vor einer weiteren Variante der CopyFail-Lücke namens „Fragnesia“ im Linux-Kernel. Sie verschafft root-Rechte.",
+          "published": "2026-05-15T12:09:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: c’t-Webinar: Keine Angst vor Linux – so klappt der Wechsel",
+          "link": "https://www.heise.de/news/c-t-Webinar-Keine-Angst-vor-Linux-so-klappt-der-Wechsel-11285784.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das c’t-Webinar vermittelt die Grundlagen für den Umstieg auf Linux: Auswahl der Distribution, Installation, Software-Verwaltung und Alltagsnutzung.",
+          "published": "2026-05-15T12:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Ärztetag fordert praxistaugliche Digitalisierung & Änderungen der Notfallreform",
+          "link": "https://www.heise.de/news/Aerztetag-fordert-praxistaugliche-Digitalisierung-Aenderungen-der-Notfallreform-11294681.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Ärztetag unterstützt Digitalisierung und KI – aber nur, wenn sie Ärzte entlasten, Patienten schützen und keine neuen Bürokratien schaffen.",
+          "published": "2026-05-15T10:23:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "In dieser Woche standen agile Methoden und UX/UI im Kontext der Digitalisierung und der damit verbundenen Herausforderungen im Fokus. Die Diskussion über den Digitalzwang und das Recht auf ein analoges Leben zeigt, dass die Balance zwischen digitalen und analogen Erfahrungen zunehmend wichtig wird. Gleichzeitig wird die Notwendigkeit praxistauglicher Digitalisierung in verschiedenen Bereichen, wie der Medizin, betont, um die Nutzererfahrung zu verbessern und Bürokratie abzubauen.",
+      "highlights": [
+        "64.000 Menschen fordern das Recht auf analoges Leben im Grundgesetz.",
+        "Ärztetag unterstützt Digitalisierung, wenn sie Ärzte entlastet und Patienten schützt.",
+        "Wissenschaftlicher Dienst des EP warnt vor Anonymitätsverlust durch VPN-Regulierungen.",
+        "Fedora Hummingbird Linux bringt eine neue containerbasierte Distribution auf den Markt."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Agent Sprawl: Warum Unternehmen gerade KI-Altlasten produzieren – ohne es zu merken",
+          "link": "https://t3n.de/news/agent-sprawl-ki-altlasten-unternehmen-1741167/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Dutzende KI-Agenten laufen in Unternehmen autonom – doch mehr als die Hälfte wird nicht überwacht. Was als schnelle Lösung startet, wird zur technischen Altlast. weiterlesen auf t3n.de",
+          "published": "Sat, 16 May 2026 08:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI gegen die Privatsphäre: Wenn Sprachmodelle zu viel wissen – und wie sie es verraten",
+          "link": "https://t3n.de/news/ki-gegen-die-privatsphaere-wenn-sprachmodelle-zu-viel-wissen-und-wie-sie-es-verraten-1742662/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Früher mussten persönliche Informationen mühsam zusammengesucht werden, heute reichen oft wenige Prompts. Sprachmodelle wie ChatGPT, Grok oder Gemini entwickeln sich damit zu einer Herausforderung für die Privatsphäre. weiterlesen auf t3n.de",
+          "published": "Sat, 16 May 2026 07:45:51 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+          "link": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+          "summary": "Lawyers accused of rushing historic settlement to seize $320 million in fees.",
+          "published": "Fri, 15 May 2026 21:51:24 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
+          "link": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
+          "summary": "Judge orders Apple to give Musk internal messages discussing secretive ChatGPT deal.",
+          "published": "Fri, 15 May 2026 18:13:33 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Anthropic Introduces Routines for Claude Code Automation",
+          "link": "https://www.infoq.com/news/2026/05/anthropic-routines-claude/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Anthropic has introduced a new feature called Routines for Claude Code, allowing developers to configure automated coding workflows that run on schedules, through API calls, or in response to external events. By Daniel Dominguez",
+          "published": "Fri, 15 May 2026 15:51:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Nur wenige Monate nach Einführung: Warum Microsoft seinen Entwicklern Claude Code wieder wegnimmt",
+          "link": "https://t3n.de/news/microsoft-nimmt-entwicklern-claude-code-nach-monaten-wieder-weg-1742686/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Claude Code ist bei vielen Entwickler:innen bei Microsoft zu einem beliebten Tool geworden. Jetzt zieht das Unternehmen allerdings die Reißleine und unterbindet in Kürze die Nutzung. Warum diese Entscheidung getroffen wurde. weiterlesen auf t3n.de",
+          "published": "Fri, 15 May 2026 17:00:44 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Cloudflare Introduces Workflows V2 with Deterministic Execution and 50K Concurrent Workflows",
+          "link": "https://www.infoq.com/news/2026/05/cloudflare-workflows-v2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare introduces Workflows V2, a redesigned distributed workflow orchestration system with deterministic replayable execution, improved observability, and major scaling upgrades, including 50,000 concurrent instances and 2M queued workflows. It supports AI agents, data pipelines, and background processing with improved reliability across distributed systems. By Leela Kumili",
+          "published": "Fri, 15 May 2026 14:04:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Ein Viertel durchsucht heimlich das Smartphone des Partners: Welche Gründe stecken dahinter?",
+          "link": "https://t3n.de/news/ein-viertel-durchsucht-heimlich-das-smartphones-partners-welche-gruende-stecken-dahinter-1742665/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Fast jeder Zweite unter 30 hat schon mal heimlich das Handy des Partners durchsucht. Was treibt sie dazu – und wie fühlen sie sich danach? Eine Umfrage gibt Einblicke. weiterlesen auf t3n.de",
+          "published": "Fri, 15 May 2026 15:00:36 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "In dieser Woche standen generative KI und LLMs im Fokus, insbesondere die Herausforderungen in Bezug auf Privatsphäre und Unternehmensnutzung. Viele Unternehmen setzen KI-Agenten ein, ohne deren Überwachung zu gewährleisten, was zu technischen Altlasten führt. Zudem zeigen neue Entwicklungen bei Anthropic und Cloudflare, wie KI-Tools zunehmend in die Softwareentwicklung integriert werden. Gleichzeitig gibt es kritische Stimmen zur Integration von KI in bestehende Systeme, wie im Fall von Microsoft und Apple.",
+      "highlights": [
+        "Über 50% der KI-Agenten in Unternehmen werden nicht überwacht.",
+        "Sprachmodelle wie ChatGPT stellen eine Herausforderung für die Privatsphäre dar.",
+        "Anthropic führt Routines für automatisierte Codierung ein.",
+        "Microsoft zieht Claude Code nach kurzer Zeit zurück.",
+        "Cloudflare präsentiert Workflows V2 mit 50.000 gleichzeitigen Instanzen."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Discord Reveals How a Hidden Circular Dependency Triggered Its March Voice Outage",
+          "link": "https://www.infoq.com/news/2026/05/discord-circular-dependency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Discord has released a detailed postmortem on its March 25, 2026, voice outage, revealing that a previously undetected circular dependency in its voice infrastructure triggered a cascading failure that disrupted voice services across the platform. By Craig Risi",
+          "published": "Fri, 15 May 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Temporal hits 3,000 paying customers with its crash-proof workflow engine",
+          "link": "https://thenewstack.io/temporal-durable-execution-ai-workflows/",
+          "summary": "If you work the high wire at a circus, you&#8217;d better have a net down below if you want to The post Temporal hits 3,000 paying customers with its crash-proof workflow engine appeared first on The New Stack .",
+          "published": "Wed, 13 May 2026 13:48:49 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "In dieser Woche standen technische Herausforderungen und Fortschritte im Fokus der Tech-Branche. Discord veröffentlichte eine Analyse zu einem massiven Ausfall seiner Sprachdienste, der durch eine unentdeckte zirkuläre Abhängigkeit in der Infrastruktur verursacht wurde. Gleichzeitig verzeichnete das Unternehmen Temporal einen Anstieg auf 3.000 zahlende Kunden für seine ausfallsichere Workflow-Engine, was auf ein wachsendes Interesse an stabilen und zuverlässigen Softwarelösungen hinweist. Diese Entwicklungen spiegeln die Notwendigkeit wider, technische Systeme robuster zu gestalten, um Ausfälle zu vermeiden.",
+      "highlights": [
+        "Discord erlitt am 25. März 2026 einen massiven Sprachdienstausfall.",
+        "Der Ausfall wurde durch eine zirkuläre Abhängigkeit in der Infrastruktur ausgelöst.",
+        "Temporal hat nun 3.000 zahlende Kunden für seine Workflow-Engine.",
+        "Die Nachfrage nach stabilen Softwarelösungen wächst in der Branche."
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "SolidJS 2.0 Beta: First-Class Async, Reworked Suspense and Deterministic Batching",
+          "link": "https://www.infoq.com/news/2026/05/solidjs-2-async/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "SolidJS 2.0 Beta introduces significant changes in async handling and reactivity. Async is now a first-class feature, enabling direct use of Promises within the framework. The update includes new primitives for mutations, altered state handling, and significant breaking changes. It is designed for improved developer experience while maintaining fine-grained reactivity without a virtual DOM. By Daniel Curtis",
+          "published": "Fri, 15 May 2026 07:30:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "In der aktuellen Woche hat SolidJS die Beta-Version 2.0 veröffentlicht, die wesentliche Verbesserungen in der Handhabung von asynchronen Prozessen und Reaktivität bietet. Besonders hervorzuheben ist die Einführung von Async als erstklassiges Feature, das die direkte Nutzung von Promises innerhalb des Frameworks ermöglicht. Diese Änderungen zielen darauf ab, die Entwicklererfahrung zu optimieren und gleichzeitig die feingranulare Reaktivität ohne ein virtuelles DOM beizubehalten. Die Aktualisierung bringt auch neue Primitiven für Mutationen und verändert die Zustandsverwaltung, was zu signifikanten Breaking Changes führt.",
+      "highlights": [
+        "Einführung von Async als erstklassiges Feature in SolidJS 2.0 Beta.",
+        "Direkte Nutzung von Promises innerhalb des Frameworks möglich.",
+        "Neue Primitiven für Mutationen implementiert.",
+        "Veränderte Zustandsverwaltung mit signifikanten Breaking Changes.",
+        "Ziel: Verbesserung der Entwicklererfahrung bei gleichzeitiger Beibehaltung feingranularer Reaktivität."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "In Princeton durften Studierende 133 Jahre lang ohne Aufsicht Prüfungen schreiben: KI ändert das jetzt",
+          "link": "https://t3n.de/news/princeton-studierende-133-jahre-ohne-aufsicht-pruefungen-ki-aendert-das-1742651/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Universität Princeton hat einen gravierenden Schritt unternommen, um gegen KI-Betrügereien vorzugehen. Dafür musste die Institution jetzt allerdings mit einer Tradition brechen, die mehr als 100 Jahre alt ist. weiterlesen auf t3n.de",
+          "published": "Sat, 16 May 2026 09:45:35 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KW 20: Die Woche, in der die Anonymität im Netz noch mehr ins Wanken geriet",
+          "link": "https://netzpolitik.org/2026/kw-20-die-woche-in-der-die-anonymitaet-im-netz-noch-mehr-ins-wanken-geriet/",
+          "summary": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 20. Kalenderwoche geht zu Ende. Wir haben 10 neue Texte mit insgesamt 85.644 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 16 May 2026 06:18:00 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Remote Work klappt bei euch nicht? Dann liegt es nicht am Homeoffice",
+          "link": "https://t3n.de/news/remote-work-homeoffice-prozesse-1738204/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Remote Work ist Alltag, doch fehlende Prozesse bremsen Teams aus. Wie ein digitales Headquarter mit den richtigen Remote-Work-Tools Struktur schafft und Produktivität in der Hybridarbeit steigert. weiterlesen auf t3n.de",
+          "published": "Sat, 16 May 2026 07:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Vom 4. Stock Richtung Karriereende: Deshalb wollte niemand mit Steve Jobs in den Aufzug steigen",
+          "link": "https://t3n.de/news/steve-jobs-aufzug-apple-mitarbeiter-kuendigung-1742220/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Steve Jobs galt als launischer und kompromissloser Vorgesetzter. Die Belegschaft soll regelrecht Angst davor gehabt haben, dem Apple-Mitgründer im Fahrstuhl zu begegnen. Welchen Trick sich Angestellte für die Situation überlegt haben und was passieren konnte, wenn der nicht zündete. weiterlesen auf t3n.de",
+          "published": "Sat, 16 May 2026 06:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Honda shows off new hybrids for America as it absorbs $9 billion EV loss",
+          "link": "https://arstechnica.com/cars/2026/05/honda-shows-off-new-hybrids-for-america-as-it-absorbs-9-billion-ev-loss/",
+          "summary": "The automaker marked its first annual loss in more than 70 years.",
+          "published": "Fri, 15 May 2026 15:56:33 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Playstation 5 und Nintendo Switch 2: Hersteller erhöhen die Preise – hier gibt es die Konsolen noch günstig",
+          "link": "https://t3n.de/news/playstation-5-nintendo-switch-guenstig-kaufen-1742739/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Normalerweise wird Unterhaltungselektronik mit der Zeit eher günstiger. Nicht so bei Sony und Nintendo. Beide Hersteller haben die Preise ihrer Konsolen erhöht, oder planen das zumindest. Was sind die Gründe? Und wo bekommt man die Playstation 5 und die Switch 2 noch günstig? weiterlesen auf t3n.de",
+          "published": "Fri, 15 May 2026 16:30:29 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Inkognitomodus für Meta AI: Wie du  in Whatsapp bald private Chats mit der KI führst",
+          "link": "https://t3n.de/news/inkognitomodus-whatsapp-meta-ai-1742741/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Meta hat eine Neuerung für Whatsapp angekündigt. Künftig kannst du Gespräche mit Meta AI führen, die nicht einmal das Unternehmen selbst lesen kann. Wie die Konversationen privat bleiben und was du dabei beachten solltest. weiterlesen auf t3n.de",
+          "published": "Fri, 15 May 2026 16:00:56 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Bis zu 25 Prozent verfälscht: Microsoft-Forscher warnen davor, große Dokumente von KI bearbeiten zu lassen",
+          "link": "https://t3n.de/news/bis-zu-25-prozent-verfaelscht-microsoft-forscher-warnen-davor-grosse-dokumente-von-ki-bearbeiten-zu-lassen-1742608/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Microsoft-Forscher:innen warnen davor, die Arbeit mit großen Dateien an KI-Tools zu übergeben. In einer Studie stellten sie fest, dass diese über längere Workflows hinweg Daten löschen und Inhalte verfälschen. weiterlesen auf t3n.de",
+          "published": "Fri, 15 May 2026 13:30:46 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "In der vergangenen Woche wurde die Bedeutung von KI und deren Einfluss auf verschiedene Bereiche deutlich. Während Universitäten wie Princeton Maßnahmen gegen KI-Betrug ergreifen, warnen Forscher von Microsoft vor den Risiken der KI-Nutzung bei der Bearbeitung großer Dokumente. Zudem zeigt sich, dass Remote Work durch fehlende Prozesse behindert wird, was die Notwendigkeit effektiver Tools unterstreicht. Die Entwicklungen im Bereich der digitalen Kommunikation und Datenschutz, wie die Einführung eines Inkognitomodus für Meta AI in WhatsApp, verdeutlichen den Trend zu mehr Privatsphäre im digitalen Raum.",
+      "highlights": [
+        "Princeton bricht Tradition gegen KI-Betrug.",
+        "Microsoft warnt vor Datenverfälschung durch KI bei großen Dokumenten.",
+        "Remote Work leidet unter fehlenden Prozessen.",
+        "Meta führt Inkognitomodus für private Chats mit KI in WhatsApp ein.",
+        "Konsolenpreise steigen bei Sony und Nintendo."
+      ]
+    }
+  ]
+}
