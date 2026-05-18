@@ -1,0 +1,308 @@
+{
+  "date": "2026-05-18",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Neobank Monzo Builds Governed Data Mesh Across 100 Teams and 12000 dbt Models",
+          "link": "https://www.infoq.com/news/2026/05/monzo-data-mesh/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Monzo recently redesigned its data warehouse to support more than 100 teams working on over 12000 dbt models. Introducing a so-called \"meshy\" approach, Monzo cut warehouse costs by about 40% and improved data delivery speed by 25%. By Renato Losio",
+          "published": "Sun, 17 May 2026 11:02:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Die Neobank Monzo hat ihr Data Warehouse neu gestaltet, um über 100 Teams und 12000 dbt-Modelle zu unterstützen. Durch die Einführung eines 'meshy' Ansatzes konnte Monzo die Kosten um 40% senken und die Datenliefergeschwindigkeit um 25% steigern.",
+      "highlights": [
+        "Über 100 Teams arbeiten an 12000 dbt-Modellen.",
+        "Kosten des Data Warehouses um 40% gesenkt.",
+        "Datenliefergeschwindigkeit um 25% verbessert."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Arbeitstrend Vibe-Working: Diese Fertigkeiten beim Prompten sind die Skills von morgen",
+          "link": "https://t3n.de/news/arbeitstrend-vibe-working-wieso-diese-fertigkeiten-beim-prompten-die-skills-von-morgen-sind-1742599/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Techniken, die beim Vibe-Coding zum Einsatz kommen, könnten wegweisend für zukünftige Formen der Arbeit in anderen Branchen sein. Schließlich haben sich Arbeitsweisen aus dem Tech-Bereich schon früher ausgebreitet. weiterlesen auf t3n.de",
+          "published": "Mon, 18 May 2026 09:00:14 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Red Hat OpenShift: Souveräne KI, Migration und Virtualisierung",
+          "link": "https://www.heise.de/news/Red-Hat-OpenShift-Souveraene-KI-Migration-und-Virtualisierung-11291049.html",
+          "summary": "Red Hat erweitert OpenShift um Funktionen für souveräne KI, Cloud-Dienste und verbesserte Virtualisierung. Auch Bare Metal as a Service kommt.",
+          "published": "2026-05-12T12:00:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Snap, YouTube, and TikTok settle suit over harm to students",
+          "link": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
+          "summary": "Snap, YouTube, and TikTok have settled the first lawsuit of its kind, alleging that social media addiction has cost public schools massive amounts of money, according to Bloomberg. The suit, filed by the Breathitt County School District in Kentucky, claims that social media has disrupted learning and created a mental health crisis, straining budgets. The [&#8230;]",
+          "published": "2026-05-16T14:34:23-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Die Cloud-Architektur entwickelt sich weiter, wobei Red Hat OpenShift neue Funktionen für souveräne KI und verbesserte Virtualisierung einführt. Gleichzeitig zeigt der Trend Vibe-Working, dass Techniken aus dem Tech-Bereich auch in anderen Branchen an Bedeutung gewinnen. Social-Media-Plattformen stehen unter Druck, da sie für negative Auswirkungen auf Schulen verantwortlich gemacht werden.",
+      "highlights": [
+        "Red Hat erweitert OpenShift um Funktionen für souveräne KI und Cloud-Dienste.",
+        "Vibe-Working-Techniken könnten zukünftige Arbeitsweisen in verschiedenen Branchen beeinflussen.",
+        "Snap, YouTube und TikTok haben eine Klage wegen der Auswirkungen auf Schüler und Schulen beigelegt."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "KI-Portierung: Claude schreibt Bun-Codebasis in Rust neu",
+          "link": "https://www.heise.de/news/KI-Portierung-Claude-schreibt-Bun-Codebasis-in-Rust-neu-9787350.html",
+          "summary": "Der JavaScript- und TypeScript-Server und -Bundler Bun besteht künftig aus Rust-Code. Innerhalb von Wochen hat Claude Code die Software portiert.",
+          "published": "2026-05-14T14:30:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "C-Libraries in Java nutzen 2: Funktionen mit veränderlichen Parametern",
+          "link": "https://www.heise.de/hintergrund/C-Libraries-in-Java-nutzen-2-Funktionen-mit-veraenderlichen-Parametern-11291161.html",
+          "summary": "Die Foreign Function & Memory API bietet in Java einen deutlich einfacheren Zugang zu Funktionen in C-Libraries als das veraltete JNI.",
+          "published": "2026-05-13T07:26:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Software-Architektur im Bereich Java entwickelt sich weiter, während Claude den Bun-Code in Rust portiert. Zudem ermöglicht die neue Foreign Function & Memory API einen einfacheren Zugriff auf C-Libraries in Java.",
+      "highlights": [
+        "Claude portiert Bun-Codebasis von JavaScript/TypeScript nach Rust.",
+        "Die Foreign Function & Memory API vereinfacht den Zugriff auf C-Funktionen.",
+        "JNI wird durch die neue API als veraltet betrachtet."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Ende der Cybersecurity durch KI? Was Claude Mythos Preview für Software bedeutet",
+          "link": "https://t3n.de/news/cybersecurity-ki-claude-mythos-preview-1742439/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI-Modelle wie Claude Mythos Preview finden nicht nur Sicherheitslücken in Software, sie schreiben auch Code, der diese Lücken ausnutzt. Anthropic verzichtet daher auf einen freien Zugang zu dem Modell. Nur ausgewählte Projekte konnten bisher testen, wie gut die Technologie tatsächlich ist. weiterlesen auf t3n.de",
+          "published": "Mon, 18 May 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anzeige: Penetration Testing: Schwachstellen in Webanwendungen erkennen",
+          "link": "https://www.golem.de/news/anzeige-penetration-testing-schwachstellen-in-webanwendungen-erkennen-2605-208603.html",
+          "summary": "Penetration Testing deckt Schwachstellen in Webanwendungen und Netzwerken auf. Ein Online-Workshop vermittelt Methodik und Tools, um Findings nachvollziehbar zu prüfen. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-05-18T07:15:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Entwicklung von KI-Modellen wie Claude Mythos Preview könnte die Cybersecurity gefährden, da sie nicht nur Sicherheitslücken identifizieren, sondern auch ausnutzen können. Anthropic hat daher den Zugang zu diesem Modell eingeschränkt. Zudem wird in einem Online-Workshop die Methodik des Penetration Testings zur Aufdeckung von Schwachstellen in Webanwendungen vermittelt.",
+      "highlights": [
+        "Claude Mythos Preview kann Sicherheitslücken finden und ausnutzen.",
+        "Anthropic gewährt nur ausgewählten Projekten Zugang zu Claude Mythos Preview.",
+        "Ein Online-Workshop zu Penetration Testing hilft, Schwachstellen in Webanwendungen zu erkennen."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Anzeige: IT-Jobs in Security, DevOps, UX und Datacenter",
+          "link": "https://www.golem.de/news/anzeige-it-jobs-in-security-devops-ux-und-datacenter-2605-208644.html",
+          "summary": "Von Cloud-Projekten über DevOps und IT-Security bis UX, Hardware und Datacenter: sechs aktuelle IT-Jobs im Überblick. ( Golem Karrierewelt , Unternehmenssoftware )",
+          "published": "2026-05-17T07:00:06+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle IT-Jobangebote umfassen Positionen in den Bereichen DevOps, IT-Security, UX und Datacenter. Die Stellenangebote decken verschiedene Aspekte der IT ab, von Cloud-Projekten bis hin zu Hardware.",
+      "highlights": [
+        "Sechs aktuelle IT-Jobangebote in verschiedenen Bereichen.",
+        "Fokus auf Cloud-Projekte, DevOps und IT-Security.",
+        "Angebote in UX und Datacenter ebenfalls enthalten."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Fedora Hummingbird Linux: Neue Container-basierte Distribution",
+          "link": "https://www.heise.de/news/Fedora-Hummingbird-Linux-Neue-Container-basierte-Distribution-11295489.html",
+          "summary": "Fedora Hummingbird Linux ist eine vollständig Container-basierte Distribution, die auf rpm-ostree und bootc aufbaut.",
+          "published": "2026-05-15T13:37:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Fedora plant KI-Linux-Desktop",
+          "link": "https://www.heise.de/news/Fedora-plant-KI-Linux-Desktop-11291654.html",
+          "summary": "Fedora arbeitet an einem Linux-Desktop für KI-Entwickler. Das Projekt will die bislang oft komplexe Einrichtung lokaler KI-Stacks deutlich vereinfachen.",
+          "published": "2026-05-12T13:57:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Nahezu unverwaltbar: Linus Torvalds warnt vor KI-Chaos bei Linux",
+          "link": "https://www.golem.de/news/nahezu-unverwaltbar-linus-torvalds-warnt-vor-ki-chaos-bei-linux-2605-208750.html",
+          "summary": "Linux-Entwickler werden wohl derzeit regelrecht von KI-generierten Bug-Reports erschlagen. Chefentwickler Linus Torvalds schlägt Alarm. ( Linux , Linux-Kernel )",
+          "published": "2026-05-18T08:51:01+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die aktuellen Entwicklungen im Linux-Bereich zeigen eine verstärkte Integration von KI-Technologien. Fedora arbeitet an einem KI-fokussierten Desktop, während Linus Torvalds vor den Herausforderungen durch KI-generierte Bug-Reports warnt.",
+      "highlights": [
+        "Fedora Hummingbird Linux ist eine neue, container-basierte Distribution.",
+        "Fedora entwickelt einen Linux-Desktop zur Vereinfachung der KI-Entwicklung.",
+        "Linus Torvalds warnt vor der Flut an KI-generierten Bug-Reports für Linux."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Nach 11 Jahren: Claude knackt Passwort einer Bitcoin-Wallet mit 400.000 Dollar",
+          "link": "https://t3n.de/news/nach-11-jahren-claude-knackt-passwort-einer-bitcoin-wallet-mit-400-000-dollar-1742871/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Vor elf Jahren hat der Besitzer einer wertvollen Bitcoin-Wallet das Passwort dafür vergessen. Über ein Jahrzehnt hat er vergeblich versucht, Zugriff auf die Wallet zu bekommen. Jetzt konnte ihm KI in Form von Claude weiterhelfen. Wie der Chatbot das Problem gelöst hat. weiterlesen auf t3n.de",
+          "published": "Mon, 18 May 2026 09:30:49 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI Open-Sources Symphony, a SPEC.md for Autonomous Coding Agent Orchestration",
+          "link": "https://www.infoq.com/news/2026/05/openai-symphony-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "OpenAI Symphony is an agent orchestrator that uses project-management tools, like issue trackers, as a control plan to coordinate multiple coding agents. Instead of developers managing interactive coding sessions, Symphony manages \"tasks\" by assigning each one to a dedicated agent that works autonomously to completion. Once a task is finished, a human is in charge to review the resulting output. By Sergio De Simone",
+          "published": "Sun, 17 May 2026 20:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AI for All: Malta verschenkt ChatGPT Plus an seine Bürger – unter einer Bedingung",
+          "link": "https://t3n.de/news/malta-chatgpt-plus-1742856/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Malta schenkt seinen Bürger:innen im Rahmen einer Zusammenarbeit mit OpenAI für ein Jahr kostenlosen Zugang zu ChatGPT Plus. Allerdings müssen Interessierte für das Gratis-Abonnement einen speziellen KI-Kurs der Uni Malta absolvieren. weiterlesen auf t3n.de",
+          "published": "Sun, 17 May 2026 21:57:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Forscher blicken in das Hirn von LLMs – und entdecken geheimes Leben der KI-Modelle",
+          "link": "https://t3n.de/news/llm-hirn-geheimes-leben-ki-modelle-1741522/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Indem sie große Sprachmodelle so untersuchen, als wären sie lebendig, entlocken Forschende den KI-Systemen völlig neue Geheimnisse. Das steckt dahinter. weiterlesen auf t3n.de",
+          "published": "Sun, 17 May 2026 16:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Text kopieren: So vermeidest du das Formatierungs-Chaos in Word und Google Docs",
+          "link": "https://t3n.de/news/ki-text-kopieren-formatierung-word-google-docs-fixen-1742369/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Du kopierst Text aus Claude in Word oder andere Software – und plötzlich stimmen Absätze, Striche und Leerzeichen nicht mehr? Um das zu lösen, hilft ein kurzer Prompt-Zusatz. weiterlesen auf t3n.de",
+          "published": "Sun, 17 May 2026 15:20:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Generative KI und LLMs revolutionieren verschiedene Bereiche, von der Wiederherstellung verlorener Bitcoin-Passwörter bis hin zu neuen Ansätzen in der Softwareentwicklung und Bildung. Aktuelle Entwicklungen zeigen, wie KI-Modelle sowohl technische als auch soziale Herausforderungen angehen.",
+      "highlights": [
+        "Claude hat das Passwort einer Bitcoin-Wallet im Wert von 400.000 Dollar entschlüsselt.",
+        "OpenAI hat Symphony veröffentlicht, ein System zur autonomen Koordination von Programmieragenten.",
+        "Malta bietet Bürgern kostenlosen Zugang zu ChatGPT Plus, sofern sie einen speziellen KI-Kurs absolvieren."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "(g+) Zeit als fehlende Dimension: Warum moderne IT-Analyse umdenken muss",
+          "link": "https://www.golem.de/news/zeit-als-fehlende-dimension-warum-moderne-it-analyse-umdenken-muss-2605-208686.html",
+          "summary": "Neue Ansätze in Monitoring und Observability machen für das Troubleshooting aus Momentaufnahmen nachvollziehbare Abläufe. Ein Ratgebertext von Otto Geißler ( Software , Golem Plus )",
+          "published": "2026-05-17T10:00:08+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Oddity is masterfully tense horror from the director of Hokum",
+          "link": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
+          "summary": "Hokum recently hit theaters, and it's already outperforming box office expectations. If this Kubrick-referencing haunted hotel flick starring Adam Scott was your introduction to director Damian McCarthy, do yourself a favor and go watch his previous film, Oddity. If you prefer to go in blind - the ideal way to watch any movie - Oddity [&#8230;]",
+          "published": "2026-05-17T10:00:00-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Moderne IT-Analyse erfordert ein Umdenken in der Observability, um aus Momentaufnahmen nachvollziehbare Abläufe für das Troubleshooting zu schaffen. Neue Ansätze im Monitoring ermöglichen eine tiefere Einsicht in Systemverhalten und Fehlerursachen.",
+      "highlights": [
+        "Neue Ansätze in Monitoring verbessern Troubleshooting-Prozesse.",
+        "Zeit wird als essentielle Dimension in der IT-Analyse betrachtet.",
+        "Ratgebertext von Otto Geißler auf Golem.de veröffentlicht."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Navigation API Reaches Baseline Newly Available as Replacement to the History API",
+          "link": "https://www.infoq.com/news/2026/05/navigation-api-browser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The Navigation API is a new interface for managing client-side navigation in single-page applications, now available in major browsers as of January 2026. It addresses limitations of the prior History API by providing a unified event model and improved history management. Key features include the navigate event, automatic URL updates, and integrated error handling. By Daniel Curtis",
+          "published": "Mon, 18 May 2026 06:33:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Größter Börsengang der Geschichte: SpaceX soll Nasdaq-Debüt für 12. Juni planen",
+          "link": "https://t3n.de/news/boersengang-spacex-nasdaq-juni-1742845/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "SpaceX macht bei seinem geplanten Börsengang Nägel mit Köpfen. Medienberichten zufolge soll der größte IPO der Geschichte am 12. Juni über die Bühne gehen. Elon Musks Raumfahrtfirma will dabei bis zu 80 Milliarden Dollar einsammeln. weiterlesen auf t3n.de",
+          "published": "Sun, 17 May 2026 19:27:36 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Fitness-Tracker ohne Display: Whoop 5.0 und Fitbit Air im Vergleich - Welcher lohnt sich für dich?",
+          "link": "https://t3n.de/news/fitness-tracker-ohne-display-whoop-5-0-fitbit-air-vergleich-1742032/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Keine digitale Anzeige, dafür tiefe Einblicke in Training, Erholung und Schlaf: Whoop hat den displaylosen Fitness-Tracker populär gemacht, jetzt zieht Google mit einem Konkurrenzprodukt nach. Was lohnt sich mehr? weiterlesen auf t3n.de",
+          "published": "Sun, 17 May 2026 16:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Pushback-Dokumentar: Norwegisches Gericht lehnt Auslieferung von Tommy Olsen an Griechenland ab",
+          "link": "https://netzpolitik.org/2026/norwegisches-gericht-lehnt-auslieferung-von-tommy-olsen-an-griechenland-ab/",
+          "summary": "Der Aktivist Tommy Olsen von der NGO Aegean Boat Report. – Alle Rechte vorbehalten: Aegean Boat Report, Bearbeitung: netzpolitik.org Tommy Olsen nutzt soziale Medien, um Geflüchtete sichtbar zu machen und damit deren Pushbacks zu verhindern. In Griechenland soll ihm deshalb der Prozess gemacht werden. Die Auslieferung des Norwegers ist nun abgewendet – vorerst.",
+          "published": "Sun, 17 May 2026 05:42:30 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Polyarc reagiert auf VR-Krise und bringt Klassiker „Moss“ auf PC und Konsolen",
+          "link": "https://www.heise.de/news/Polyarc-reagiert-auf-VR-Krise-und-bringt-Klassiker-Moss-auf-PC-und-Konsolen-11296925.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Nach internen Einschnitten und einem eingestellten Großprojekt richtet das VR-Studio Polyarc seine bekannte Marke „Moss“ neu aus.",
+          "published": "2026-05-18T10:31:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Navigation API, die ab Januar 2026 in großen Browsern verfügbar ist, ersetzt die History API und verbessert das Management der clientseitigen Navigation in Single-Page-Anwendungen. Sie bietet ein einheitliches Ereignismodell und optimierte Funktionen für URL-Updates und Fehlerbehandlung.",
+      "highlights": [
+        "Verfügbarkeit ab Januar 2026 in großen Browsern",
+        "Einführung eines einheitlichen Ereignismodells",
+        "Verbesserte Funktionen für automatische URL-Updates und integrierte Fehlerbehandlung"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Bahn auf Sparkurs: Verschlankung soll Milliardenverluste beenden",
+          "link": "https://www.heise.de/news/Bahn-Chefin-Nach-Milliardenminus-schwarze-Null-moeglich-11296565.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Effizienz, Sparprogramm und ein Ziel: Die Bahn will zurück in die Gewinnzone. Chefin Palla spricht von einer „schwarzen Null“.",
+          "published": "2026-05-17T18:02:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Windows 11: Striktere Regeln für Windows-Treiber angekündigt",
+          "link": "https://www.golem.de/news/windows-11-striktere-regeln-fuer-windows-treiber-angekuendigt-2605-208748.html",
+          "summary": "Microsoft bewertet Treiber künftig auch nach ihrer Energieeffizienz, um Probleme wie Akku-Entladung im Standby zu verringern. ( Windows 11 , Microsoft )",
+          "published": "2026-05-18T08:08:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Bahn strebt durch ein Sparprogramm eine Rückkehr in die Gewinnzone an, während Microsoft mit neuen Regeln für Windows-Treiber die Energieeffizienz verbessert, um Akku-Probleme zu minimieren. Beide Initiativen zeigen einen Fokus auf Nachhaltigkeit und Effizienz.",
+      "highlights": [
+        "Bahn plant Effizienzsteigerungen zur Beendigung von Milliardenverlusten.",
+        "Microsoft bewertet Treiber künftig nach Energieeffizienz.",
+        "Ziel ist die Reduzierung von Akku-Entladung im Standby-Modus."
+      ]
+    }
+  ]
+}
