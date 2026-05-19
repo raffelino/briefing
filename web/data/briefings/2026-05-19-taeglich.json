@@ -1,0 +1,336 @@
+{
+  "date": "2026-05-19",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Swiggy Improves Search Autocomplete Using Real Time Machine Learning Ranking",
+          "link": "https://www.infoq.com/news/2026/05/swiggy-autocomplete-rt-ranking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Swiggy detailed real-time machine-learning ranking system for autocomplete built on OpenSearch. The architecture separates candidate generation and ranking, uses feature stores for real time signals, and applies learning to rank models for improved relevance. It replaces heuristic ranking while maintaining strict latency constraints and enabling continuous model updates from user behavior signals. By Leela Kumili",
+          "published": "Mon, 18 May 2026 14:38:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Swiggy hat ein Echtzeit-Maschinenlernranking-System für die Autocomplete-Suche entwickelt, das auf OpenSearch basiert. Die Architektur trennt die Kandidatengenerierung von der Bewertung und nutzt Feature Stores für Echtzeitsignale, um die Relevanz zu verbessern.",
+      "highlights": [
+        "Echtzeit-Maschinenlernen für Autocomplete-Suche",
+        "Verwendung von Feature Stores für Echtzeitsignale",
+        "Ersetzt heuristische Bewertung und ermöglicht kontinuierliche Modellupdates"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
+          "link": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
+          "summary": "Fake citations dashed a dude’s “Are We Dating the Same Guy” revenge lawsuit.",
+          "published": "Mon, 18 May 2026 20:27:15 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Why Google’s Remy leaks have enterprise architects rethinking the AI stack",
+          "link": "https://thenewstack.io/google-remy-agent-infrastructure/",
+          "summary": "Google&#8217;s reported development of Remy, a new OpenClaw-style agent that can perform actions on a user&#8217;s behalf, has lit up The post Why Google&#8217;s Remy leaks have enterprise architects rethinking the AI stack appeared first on The New Stack .",
+          "published": "Mon, 18 May 2026 19:22:18 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Article: Building a Secure MCP Server on AWS for a Million-Company B2B Platform",
+          "link": "https://www.infoq.com/articles/secure-mcp-server-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "We wanted to expose a B2B intelligence platform built on more than one million company profiles to an LLM client through an MCP server so a user can ask “find SaaS companies in Germany with 50-200 employees” and receive results through the LLM client. The engineering problem was: How do you make that workflow useful without creating an unsafe bridge between an LLM and production data? By Shadi Elyafi",
+          "published": "Mon, 18 May 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise+ | Das ZenDiS macht digitale Souveränität mit Kriterienkatalog messbar",
+          "link": "https://www.heise.de/hintergrund/Das-ZenDiS-macht-digitale-Souveraenitaet-mit-Kriterienkatalog-messbar-11287779.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Das Zentrum für Digitale Souveränität der Öffentlichen Verwaltung (ZenDiS) legt einen Kriterienkatalog vor, der Abhängigkeiten sicht- und steuerbar machen soll.",
+          "published": "2026-05-19T09:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+          "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+          "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. After nearly a month [&#8230;]",
+          "published": "2026-05-18T13:49:49-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Cloud-Architektur und KI-Technologie zeigen, dass Unternehmen ihre Strategien überdenken müssen. Insbesondere Google arbeitet an neuen Agenten, während Sicherheitsaspekte bei der Integration von KI in B2B-Plattformen im Fokus stehen.",
+      "highlights": [
+        "Google entwickelt Remy, einen Agenten zur Automatisierung von Nutzeraktionen.",
+        "Ein Artikel beschreibt den Aufbau eines sicheren MCP-Servers auf AWS für eine B2B-Plattform mit über einer Million Unternehmensprofilen.",
+        "Das ZenDiS präsentiert einen Kriterienkatalog zur Messung digitaler Souveränität in der öffentlichen Verwaltung."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: OpenJDK JEPs, Azul Payara, WildFly, LangChain4j, OpenXava, Google ADK",
+          "link": "https://www.infoq.com/news/2026/05/java-news-roundup-may11-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for May 11th, 2026, features news highlighting: three OpenJDK JEPs targeted for JDK 27; introducting Azul Payara Community and the WildFly wado CLI tool; point releases of LangChain4j and Google ADK; and maintenance releases of Micronaut and OpenXava. By Michael Redlich",
+          "published": "Mon, 18 May 2026 12:45:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise-Angebot: enterJS 2026: Letzter Aufruf zur Enterprise-JavaScript-Konferenz in Mannheim",
+          "link": "https://www.heise.de/news/enterJS-2026-Letzter-Aufruf-zur-Enterprise-JavaScript-Konferenz-in-Mannheim-11289008.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die enterJS bietet am 16. und 17. Juni in Mannheim über 30 Talks rund um die moderne Enterprise-JavaScript-Entwicklung, mit Keynotes zu KI und dem Fediverse.",
+          "published": "2026-05-19T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "KI-Portierung: Claude schreibt Bun-Codebasis in Rust neu",
+          "link": "https://www.heise.de/news/KI-Portierung-Claude-schreibt-Bun-Codebasis-in-Rust-neu-9787350.html",
+          "summary": "Der JavaScript- und TypeScript-Server und -Bundler Bun besteht künftig aus Rust-Code. Innerhalb von Wochen hat Claude Code die Software portiert.",
+          "published": "2026-05-14T14:30:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "C-Libraries in Java nutzen 2: Funktionen mit veränderlichen Parametern",
+          "link": "https://www.heise.de/hintergrund/C-Libraries-in-Java-nutzen-2-Funktionen-mit-veraenderlichen-Parametern-11291161.html",
+          "summary": "Die Foreign Function & Memory API bietet in Java einen deutlich einfacheren Zugang zu Funktionen in C-Libraries als das veraltete JNI.",
+          "published": "2026-05-13T07:26:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Software-Architektur und Java umfassen neue OpenJDK JEPs für JDK 27, die Einführung von Azul Payara Community sowie Wartungsupdates für LangChain4j und OpenXava. Zudem wird die enterJS-Konferenz in Mannheim angekündigt, die sich auf Enterprise-JavaScript konzentriert.",
+      "highlights": [
+        "Drei OpenJDK JEPs für JDK 27 in Planung.",
+        "Azul Payara Community und WildFly wado CLI Tool vorgestellt.",
+        "Wartungsupdates für LangChain4j und OpenXava veröffentlicht."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "GitHub will start paying some bug bounty hunters in swag instead of cash",
+          "link": "https://thenewstack.io/github-bug-bounty-ai-slop/",
+          "summary": "Bug bounties have served as one of cybersecurity&#8217;s core pressure valves for decades, giving independent researchers a structured way to The post GitHub will start paying some bug bounty hunters in swag instead of cash appeared first on The New Stack .",
+          "published": "Mon, 18 May 2026 19:01:47 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "GitHub plant, einige Bug-Bounty-Jäger künftig mit Merchandise statt mit Geld zu entlohnen. Diese Maßnahme könnte die Anreize für Sicherheitsforscher verändern und die Dynamik im Bereich der IT-Sicherheit beeinflussen.",
+      "highlights": [
+        "Bug-Bounties sind seit Jahrzehnten ein zentraler Bestandteil der Cybersicherheit.",
+        "GitHub wird Merchandise als Belohnung für Sicherheitsfunde anbieten.",
+        "Die Änderung könnte die Motivation und das Engagement von Sicherheitsforschern beeinflussen."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "(g+) Trivy Supply-Chain-Angriff: Wenn der Security-Scanner selbst zum Angriff wird",
+          "link": "https://www.golem.de/news/trivy-supply-chain-angriff-wenn-der-security-scanner-selbst-zum-angriff-wird-2605-208688.html",
+          "summary": "Trivys Github Actions wurden zweimal gehackt. Ein Credential-Stealer lief in Tausenden CI/CD-Pipelines unbemerkt. Eine Analyse von Steffen Zahn ( Security , Sicherheitslücke )",
+          "published": "2026-05-18T13:30:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Der Security-Scanner Trivy wurde in zwei Fällen gehackt, wodurch ein Credential-Stealer unbemerkt in Tausenden von CI/CD-Pipelines agierte. Diese Sicherheitslücke gefährdet die Integrität von Software-Entwicklungsprozessen.",
+      "highlights": [
+        "Trivys Github Actions wurden zweimal kompromittiert.",
+        "Ein Credential-Stealer lief unentdeckt in Tausenden von CI/CD-Pipelines.",
+        "Die Vorfälle wurden von Steffen Zahn analysiert."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "AI security readiness is now the No. 1 obstacle to adoption, Linux Foundation finds",
+          "link": "https://thenewstack.io/ai-security-readiness-crisis/",
+          "summary": "Security readiness has emerged as the single biggest obstacle to AI adoption and innovation, according to a new Linux Foundation The post AI security readiness is now the No. 1 obstacle to adoption, Linux Foundation finds appeared first on The New Stack .",
+          "published": "Mon, 18 May 2026 18:55:53 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Linus Torvalds: „Sinnloses Hin und Her“ um per KI gefundene Lücken",
+          "link": "https://www.heise.de/news/Linus-Torvalds-Sinnloses-Hin-und-Her-um-per-KI-gefundene-Luecken-11297944.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Linux-Erfinder Linus Torvalds findet KI-Tools für Security zwar nicht schlecht, kritisiert aber den derzeitigen Umgang mit den Lücken.",
+          "published": "2026-05-18T18:28:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "KI-Agent zieht Adobe Lightroom erfolgreich auf Linux um",
+          "link": "https://www.heise.de/news/KI-Agent-zieht-Adobe-Lightroom-erfolgreich-auf-Linux-um-11297220.html",
+          "summary": "Claude Code hat das digitale Fotowerkzeug Adobe Lightroom auf Linux lauffähig gemacht. Das Projekt begann mit einem denkbar simplen Prompt.",
+          "published": "2026-05-18T11:56:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Fedora Hummingbird Linux: Neue Container-basierte Distribution",
+          "link": "https://www.heise.de/news/Fedora-Hummingbird-Linux-Neue-Container-basierte-Distribution-11295489.html",
+          "summary": "Fedora Hummingbird Linux ist eine vollständig Container-basierte Distribution, die auf rpm-ostree und bootc aufbaut.",
+          "published": "2026-05-15T13:37:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Fedora plant KI-Linux-Desktop",
+          "link": "https://www.heise.de/news/Fedora-plant-KI-Linux-Desktop-11291654.html",
+          "summary": "Fedora arbeitet an einem Linux-Desktop für KI-Entwickler. Das Projekt will die bislang oft komplexe Einrichtung lokaler KI-Stacks deutlich vereinfachen.",
+          "published": "2026-05-12T13:57:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen im Bereich KI und Linux zeigen sowohl Fortschritte als auch Herausforderungen. Insbesondere Sicherheitsfragen und die Benutzerfreundlichkeit stehen im Fokus der Diskussionen.",
+      "highlights": [
+        "AI-Sicherheitsbereitschaft ist das größte Hindernis für die KI-Adoption, laut Linux Foundation.",
+        "Linus Torvalds kritisiert den Umgang mit KI-gefundenen Sicherheitslücken.",
+        "Fedora plant einen benutzerfreundlichen KI-Desktop zur Vereinfachung der lokalen KI-Entwicklung."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Anthropic informiert Finanzaufseher über Cyberrisiken des neuen KI-Modells Mythos",
+          "link": "https://t3n.de/news/anthropic-informiert-finanzaufseher-ueber-cyberrisiken-des-neuen-ki-modells-mythos-1743092/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Anthropic will nun auch internationale Finanzaufseher und Zentralbanken über Cyberrisiken informieren, die vom neuen KI-Modell Mythos ausgehen könnten. weiterlesen auf t3n.de",
+          "published": "Tue, 19 May 2026 10:15:55 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Portal für neue E-Auto-Förderung soll freigeschaltet werden",
+          "link": "https://t3n.de/news/portal-fuer-neue-e-auto-foerderung-soll-freigeschaltet-werden-1743089/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ab heute kann die neue E-Auto-Förderung beantragt werden. Das Ministerium rechnet mit Zuschüssen für bis zu 800.000 Fahrzeuge – wer ist förderberechtigt? weiterlesen auf t3n.de",
+          "published": "Tue, 19 May 2026 09:25:06 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Experiment: Dieses KI-Modell hat in vier Tagen seine Welt in Schutt und Asche gelegt",
+          "link": "https://t3n.de/news/experiment-dieses-ki-modell-hat-in-vier-tagen-seine-welt-in-schutt-und-asche-gelegt-1742923/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In einem Experiment eines US-Start-ups wurde das Verhalten von verschiedenen KI-Agenten über eine Zeitspanne von mehr als zwei Wochen getestet. Ihnen lagen verschiedene Modelle zugrunde, darunter Grok, Gemini, Claude und GPT. Dreimal darf man jetzt raten, welche KI-Agenten sich am schnellsten zugrunde gerichtet haben. weiterlesen auf t3n.de",
+          "published": "Tue, 19 May 2026 07:58:53 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
+          "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
+          "summary": "Musk plans to appeal after judge immediately affirmed the jury's decision.",
+          "published": "Mon, 18 May 2026 18:09:41 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Karriere läuft, trotzdem unzufrieden: Wie ein Agenturchef sich neu orientiert hat",
+          "link": "https://t3n.de/news/karriere-laeuft-trotzdem-unzufrieden-wie-ein-agenturchef-sich-neu-orientiert-hat-1743011/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Auch wenn die eigene Karriere läuft, stellt sich für viele irgendwann die Frage, ob sie noch für das Leben steht, das sie führen wollen. Für Agenturchef Jan Liepold musste erst ein einschneidendes Erlebnis kommen, das ihn herausfinden ließ, was ihm wirklich wichtig ist. weiterlesen auf t3n.de",
+          "published": "Mon, 18 May 2026 16:00:39 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Anthropic informiert Finanzaufseher über die Cyberrisiken des KI-Modells Mythos. In einem Experiment wurden verschiedene KI-Agenten getestet, wobei einige Modelle in kurzer Zeit destruktives Verhalten zeigten.",
+      "highlights": [
+        "Anthropic warnt vor Cyberrisiken des KI-Modells Mythos.",
+        "Experiment zeigte, dass bestimmte KI-Agenten in nur vier Tagen destruktives Verhalten zeigten.",
+        "Modelle wie Grok, Gemini, Claude und GPT wurden in dem Test verwendet."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "One Mars spacecraft, two senators, and a cloud of questions",
+          "link": "https://arstechnica.com/space/2026/05/one-mars-spacecraft-two-senators-and-a-cloud-of-questions/",
+          "summary": "\"I think there's plenty of fire lit under them already.\"",
+          "published": "Mon, 18 May 2026 19:49:00 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "PlayStation exclusives aren&#8217;t coming to PC anymore",
+          "link": "https://www.theverge.com/games/932817/playstation-exclusive-games-pc",
+          "summary": "Sony reportedly won't release its major single-player PlayStation games on PC anymore. According to Bloomberg's Jason Schreier, Hermen Hulst, who heads up PlayStation's studios business, informed employees in a town hall on Monday about the change in strategy. Schreier had previously reported on the shift in March, saying that Sony scrapped plans to launch PC [&#8230;]",
+          "published": "2026-05-18T15:28:42-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Die EU plant eine umfassende Regulierung der Technologiebranche, um Datenschutz und Wettbewerbsbedingungen zu verbessern. Diese Maßnahmen zielen darauf ab, große Tech-Unternehmen stärker zu kontrollieren und Innovationen zu fördern.",
+      "highlights": [
+        "EU-Kommission arbeitet an neuen Vorschriften für Tech-Unternehmen.",
+        "Ziel ist der Schutz von Nutzerdaten und die Förderung des Wettbewerbs.",
+        "Regulierung könnte Auswirkungen auf große Akteure wie Google und Facebook haben."
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "Vite Version 8: Unified Rust-Based Bundler and Up to 30x Faster Builds",
+          "link": "https://www.infoq.com/news/2026/05/vite-v8-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Vite 8.0 introduces a significant architectural change, migrating from a dual-bundler setup to a single Rust-based bundler called Rolldown. This update enhances build speeds, reporting reductions from 46 seconds to 6 seconds in some projects. The release includes developer experience improvements and maintains compatibility with the existing plugin ecosystem. By Daniel Curtis",
+          "published": "Tue, 19 May 2026 06:57:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Vite 8.0 führt einen neuen, auf Rust basierenden Bundler namens Rolldown ein und verbessert die Build-Geschwindigkeit erheblich. Die Umstellung von einem Dual-Bundler-System auf einen einzelnen Bundler reduziert die Build-Zeit in einigen Projekten von 46 auf 6 Sekunden. Die Kompatibilität mit bestehenden Plugins bleibt erhalten.",
+      "highlights": [
+        "Einführung des Rolldown-Bundlers, basierend auf Rust.",
+        "Build-Zeiten sinken von 46 Sekunden auf 6 Sekunden in einigen Projekten.",
+        "Verbesserungen der Entwicklererfahrung und Kompatibilität mit dem bestehenden Plugin-Ökosystem."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Drohnenabwehr: Forscher des KIT setzen Quadcopter mit jahrtausendalter Jagdtechnik außer Gefecht",
+          "link": "https://t3n.de/news/drohnenabwehr-forscher-des-kit-setzen-quadcopter-mit-jahrtausendalter-jagdtechnik-ausser-gefecht-1743004/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Drohnen über Flughäfen und kritischer Infrastruktur sind ein zunehmendes Problem. Lösungen zur Abwehr gibt es viele – doch es muss nicht immer Hightech sein. weiterlesen auf t3n.de",
+          "published": "Mon, 18 May 2026 14:15:08 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Gehälter in Stellenanzeigen: Wie gut ist Deutschland im europäischen Vergleich?",
+          "link": "https://t3n.de/news/gehaelter-in-stellenanzeigen-wie-gut-ist-deutschland-im-europaeischen-vergleich-1742986/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Gehaltsangaben in Stellenanzeigen sind in vielen europäischen Ländern recht verbreitet. In Deutschland dagegen enthält nur jede achte Ausschreibung konkrete Informationen zur Vergütung. Dabei verpflichtet die EU ihre Mitgliedstaaten schon bald zu deutlich mehr Gehaltstransparenz. weiterlesen auf t3n.de",
+          "published": "Mon, 18 May 2026 13:00:57 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Robo-Bann: Warum diese Fluggesellschaft keine humanoiden Roboter mehr mitfliegen lässt",
+          "link": "https://t3n.de/news/robo-bann-airline-humanoide-roboter-1742918/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Southwest Airlines hat als erste Fluggesellschaft das Mitfliegen humanoider Roboter an Bord verboten. Auslöser war offenbar der Rummel um den nur rund einen Meter messenden „Stewie“, der allerdings eigens für den Flug umgebaut worden war. weiterlesen auf t3n.de",
+          "published": "Mon, 18 May 2026 12:15:45 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Whatsapp bekommt private KI-Chats: Was hinter Metas Inkognito-Funktion steckt",
+          "link": "https://t3n.de/news/whatsapp-bekommt-private-ki-chats-was-hinter-metas-inkognito-funktion-steckt-1742933/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In der Meta-AI-App und auf Whatsapp können User dank des neuen Inkognito-Chats, basierend auf Private Processing, komplett privat mit der KI chatten. Auch Meta hat keinen Einblick. Dazu kommen noch private KI-Neben-Chats. weiterlesen auf t3n.de",
+          "published": "Mon, 18 May 2026 12:10:29 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Navigation API Reaches Baseline Newly Available as Replacement to the History API",
+          "link": "https://www.infoq.com/news/2026/05/navigation-api-browser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The Navigation API is a new interface for managing client-side navigation in single-page applications, now available in major browsers as of January 2026. It addresses limitations of the prior History API by providing a unified event model and improved history management. Key features include the navigate event, automatic URL updates, and integrated error handling. By Daniel Curtis",
+          "published": "Mon, 18 May 2026 06:33:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Das Thema Open Source und Software Supply Chain gewinnt an Bedeutung, da Unternehmen zunehmend auf transparente und sichere Softwarelösungen angewiesen sind. Die Integration von Open-Source-Komponenten in Software-Lieferketten erfordert besondere Aufmerksamkeit hinsichtlich Sicherheit und Lizenzierung.",
+      "highlights": [
+        "Open-Source-Software macht einen erheblichen Teil moderner Anwendungen aus.",
+        "Sicherheitsrisiken in der Software-Lieferkette können durch unsichere Open-Source-Komponenten entstehen.",
+        "EU-Vorgaben zur Gehaltstransparenz könnten auch Auswirkungen auf die IT-Branche und deren Gehaltsstrukturen haben."
+      ]
+    }
+  ]
+}
