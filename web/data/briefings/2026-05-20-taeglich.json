@@ -1,0 +1,296 @@
+{
+  "date": "2026-05-20",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "FBI seeks US-wide access to license plate cameras, wants \"data in near real time\"",
+          "link": "https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/",
+          "summary": "FBI will pay vendors to help it track and search for vehicles nationwide.",
+          "published": "Tue, 19 May 2026 21:29:33 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "\"Wettlauf nach unten\": Karen Hao kritisiert europäischen KI-Kurs",
+          "link": "https://netzpolitik.org/2026/wettlauf-nach-unten-karen-hao-kritisiert-europaeischen-ki-kurs/",
+          "summary": "Karen Hao auf der re:publica 2026. – Alle Rechte vorbehalten: IMAGO / Mauersberger Auf der re:publica kritisiert die Autorin Karen Hao die Macht und Rücksichtslosigkeit großer KI-Konzerne. Ihre dringende Warnung an die EU: Hört auf, den Weg der USA zu kopieren, und macht euch unabhängig von den Imperien des digitalen Zeitalters.",
+          "published": "Tue, 19 May 2026 15:52:16 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Google-Bewertungen: Warum das System kaputt ist – und was der Konzern dagegen tut",
+          "link": "https://t3n.de/news/google-bewertungen-warum-das-system-kaputt-ist-1740952/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine kleine, unscheinbare Ergänzung mit großer Wirkung: Google zeigt neuerdings an, wie viele Rezensionen wegen Diffamierungsbeschwerden gelöscht wurden. Damit reagiert das Unternehmen auf ein wachsendes Problem im eigenen Bewertungssystem und bemüht sich um mehr Glaubwürdigkeit. weiterlesen auf t3n.de",
+          "published": "Tue, 19 May 2026 11:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mondmission: Nasa konkretisiert neue Pläne für Artemis III",
+          "link": "https://www.golem.de/news/mondmission-nasa-konkretisiert-neue-plaene-fuer-artemis-iii-2605-208806.html",
+          "summary": "Statt auf dem Mond zu landen, soll Artemis III Fähigkeiten im Erdorbit testen. Dennoch dürfte es eine der kompliziertesten Missionen der Nasa werden. ( Artemis , Nasa )",
+          "published": "2026-05-20T08:42:07+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Greenpeace-Report: Die schmutzigen Kunden von AWS",
+          "link": "https://www.golem.de/news/greenpeace-report-die-schmutzigen-kunden-von-aws-2605-208778.html",
+          "summary": "AWS hat viele Kunden, die wegen gravierender Umwelt- oder Menschenrechtsverstöße weltweit in der Kritik stehen. Selbst Banken schließen diese Akteure aus. ( AWS , Cloud Computing )",
+          "published": "2026-05-20T00:01:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Cloud-Architektur und Plattformen stehen im Fokus aktueller Diskussionen über Datenschutz, Umweltverantwortung und technologische Entwicklungen. Unternehmen wie AWS sehen sich aufgrund ihrer Kunden und deren Praktiken zunehmend in der Kritik, während die Regulierung von KI und Datenzugriff ebenfalls an Bedeutung gewinnt.",
+      "highlights": [
+        "FBI plant US-weite Überwachung von Kennzeichen mit Echtzeit-Datenzugriff.",
+        "Greenpeace kritisiert AWS für Kunden mit gravierenden Umweltverstößen.",
+        "Karen Hao fordert von der EU, sich von den USA im Umgang mit KI unabhängig zu machen."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "KI-Portierung: Claude schreibt Bun-Codebasis in Rust neu",
+          "link": "https://www.heise.de/news/KI-Portierung-Claude-schreibt-Bun-Codebasis-in-Rust-neu-9787350.html",
+          "summary": "Der JavaScript- und TypeScript-Server und -Bundler Bun besteht künftig aus Rust-Code. Innerhalb von Wochen hat Claude Code die Software portiert.",
+          "published": "2026-05-14T14:30:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Codebasis des JavaScript- und TypeScript-Servers Bun wird von Claude in Rust neu geschrieben. Diese Portierung soll innerhalb weniger Wochen abgeschlossen sein.",
+      "highlights": [
+        "Bun ist ein Server und Bundler für JavaScript und TypeScript.",
+        "Die Neuprogrammierung erfolgt in der Programmiersprache Rust.",
+        "Claude hat die Portierung in einem sehr kurzen Zeitraum realisiert."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Jugendschutz-Empfehlungen: „Ein Blumenstrauß von Vorschlägen und Ideen“",
+          "link": "https://netzpolitik.org/2026/jugendschutz-empfehlungen-ein-blumenstrauss-von-vorschlaegen-und-ideen/",
+          "summary": "Olaf Köller, Karin Prien, Nadine Schön – Alle Rechte vorbehalten: IMAGO / IPON; Bearbeitung: netzpolitik.org Kommt das Social-Media-Verbot? Im Auftrag der Bundesregierung arbeiten Fachleute an Empfehlungen für Jugendschutz im Netz. Auf der Berliner Konferenz für Jugendliche Tincon geben die Co-Vorsitzenden des Gremiums neue Einblicke.",
+          "published": "Tue, 19 May 2026 14:06:48 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "TanStack Details Sophisticated npm Supply Chain Attack That Compromised 42 Packages",
+          "link": "https://www.infoq.com/news/2026/05/tanstack-supply-chain-attack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "TanStack has released a detailed postmortem describing a sophisticated supply-chain attack that compromised 42 npm packages and published 84 malicious package versions in just six minutes, exposing developers and CI/CD systems to credential theft and malware propagation. By Craig Risi",
+          "published": "Tue, 19 May 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Die aktuelle Diskussion um Jugendschutz im Netz wird durch neue Empfehlungen der Bundesregierung geprägt, während TanStack einen schwerwiegenden npm-Supply-Chain-Angriff aufdeckte, der 42 Pakete kompromittierte. Beide Themen zeigen die Herausforderungen in der digitalen Sicherheit und den Schutz von Jugendlichen.",
+      "highlights": [
+        "Bundesregierung erarbeitet Empfehlungen für Jugendschutz im Netz.",
+        "TanStack beschreibt einen Angriff, der 42 npm-Pakete und 84 bösartige Versionen betraf.",
+        "Angreifer konnten in nur sechs Minuten Zugang zu Entwickler- und CI/CD-Systemen erlangen."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Linux: KI-generierte Bug-Reports verstopfen Security-Mailing-Liste",
+          "link": "https://t3n.de/news/linux-ki-security-mailing-liste-1743124/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Linus Torvalds, Chefentwickler des Linux-Kernels, hat im Rahmen der Ankündigung eines neuen Release-Kandidaten seinem Ärger über KI-generierte Bug-Reports freien Lauf gelassen. Diese würden die private Security-Mailing-Liste verstopfen. weiterlesen auf t3n.de",
+          "published": "Tue, 19 May 2026 13:00:09 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "BFSG zwingt Onlineshops zu Alt-Texten – ein KI-Workflow zum Nachbauen",
+          "link": "https://t3n.de/news/bfsg-zwingt-onlineshops-zu-alt-texten-ein-ki-workflow-zum-nachbauen-1743106/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Zwei Monate Handarbeit oder fünf Tage KI-Automatisierung: Vor dieser Wahl stand ein Berliner Health-Startup, als die BFSG-Pflicht zur Barrierefreiheit auf 1.400 Produktbilder ohne Alt-Texte traf. weiterlesen auf t3n.de",
+          "published": "Tue, 19 May 2026 11:30:22 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Article: Kernel-Level Ground Truth: Why eBPF is Replacing User-Space Agents for Security Observability",
+          "link": "https://www.infoq.com/articles/ebpf-for-security-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "eBPF is emerging as a preferred method for security observability over traditional user-space agents. By attaching probes directly to the Linux kernel's syscall interface, it provides consistent visibility even during container-level compromises. eBPF reduces security-related CPU consumption and limits data volume by performing filtering at the kernel level, enhancing operational efficiency. By Niranjan Sharma",
+          "published": "Tue, 19 May 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise+ | Luxus-Kopfhörer: Sony 1000X The Collexion im Test",
+          "link": "https://www.heise.de/tests/Luxus-Kopfhoerer-Sony-1000X-The-Collexion-im-Test-11280062.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Mit dem 1000X The Collexion macht Sony Apples AirPods Max Konkurrenz. Das gilt nicht nur für den Preis, auch klanglich spielt der Kopfhörer groß auf.",
+          "published": "2026-05-19T18:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "KI-Agent zieht Adobe Lightroom erfolgreich auf Linux um",
+          "link": "https://www.heise.de/news/KI-Agent-zieht-Adobe-Lightroom-erfolgreich-auf-Linux-um-11297220.html",
+          "summary": "Claude Code hat das digitale Fotowerkzeug Adobe Lightroom auf Linux lauffähig gemacht. Das Projekt begann mit einem denkbar simplen Prompt.",
+          "published": "2026-05-18T11:56:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die aktuellen Entwicklungen in der Tech-Welt zeigen Herausforderungen und Fortschritte in den Bereichen KI und Barrierefreiheit. Während Linux-Entwickler über KI-generierte Bug-Reports klagen, setzen Unternehmen wie ein Berliner Health-Startup auf KI-gestützte Lösungen zur Erfüllung von Barrierefreiheitsanforderungen.",
+      "highlights": [
+        "Linus Torvalds kritisiert KI-generierte Bug-Reports, die die Security-Mailing-Liste überfluten.",
+        "Ein Berliner Health-Startup automatisiert die Erstellung von Alt-Texten für 1.400 Produktbilder mithilfe von KI.",
+        "eBPF wird als bevorzugte Methode für Sicherheitsbeobachtungen im Vergleich zu herkömmlichen User-Space-Agenten hervorgehoben."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Google I/O: KI-Agenten übernehmen die Suche – und der private Assistent Spark wird teuer",
+          "link": "https://t3n.de/news/google-i-o-ki-agenten-suche-privater-assistent-spark-teuer-1743282/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Viele Wege durchs Web starten in der Suchmaschine von Google. Und dann meist in der Suchmaske, in die man Anfragen eintippt. Jetzt will der Internet-Riese das Eingabefeld fürs KI-Zeitalter fit machen. weiterlesen auf t3n.de",
+          "published": "Wed, 20 May 2026 07:45:36 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Das nächste Internet gehört den Agenten - und Tokens sind die neue Währung",
+          "link": "https://t3n.de/news/das-naechste-internet-gehoert-den-agenten-und-tokens-sind-die-neue-waehrung-wie-unternehmen-relevant-bleiben-1742609/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Internet der Zukunft sind nicht mehr Menschen, sondern Maschinen die wichtigsten Nutzer. Das verändert grundlegend, wie das Netz funktioniert und wie wir es verwenden. Für Unternehmen hat das weitreichende Folgen. Die Titelgeschichte der aktuellen Ausgabe des t3n Magazins. weiterlesen auf t3n.de",
+          "published": "Wed, 20 May 2026 07:30:42 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anthropic hires OpenAI co-founder Andrej Karpathy to lead Claude pre-training research",
+          "link": "https://thenewstack.io/andrej-karpathy-anthropic-pretraining/",
+          "summary": "Anthropic scored a major hire today. Former Tesla senior director and OpenAI founding member Andrej Karpathy is joining the organization The post Anthropic hires OpenAI co-founder Andrej Karpathy to lead Claude pre-training research appeared first on The New Stack .",
+          "published": "Tue, 19 May 2026 20:51:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Anthropic Introduces MCP Tunnels for Private Agent Access to Internal Systems",
+          "link": "https://www.infoq.com/news/2026/05/claude-mcp-tunnels/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Anthropic has expanded its Claude Managed Agents platform with two enterprise-focused capabilities: self-hosted sandboxes and MCP tunnels. The release aims to address a recurring challenge in enterprise AI deployments, where organizations want to use autonomous agents but cannot allow execution environments or internal systems to leave their security perimeter. By Robert Krzaczyński",
+          "published": "Tue, 19 May 2026 19:20:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
+          "link": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
+          "summary": "AI content is getting good, but SynthID might be able to help tell truth from fiction.",
+          "published": "Tue, 19 May 2026 18:37:02 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Generative KI und LLMs revolutionieren die digitale Landschaft, indem sie die Interaktion mit dem Internet und Suchmaschinen verändern. Unternehmen wie Google und Anthropic entwickeln neue Technologien und Strategien, um KI-Agenten effizienter in ihre Systeme zu integrieren.",
+      "highlights": [
+        "Google optimiert seine Suchmaschine für KI-Agenten und erhöht die Kosten für den privaten Assistenten Spark.",
+        "Anthropic hat Andrej Karpathy, Mitgründer von OpenAI, eingestellt, um die Forschung zu Claude voranzutreiben.",
+        "OpenAI und Nvidia übernehmen Googles SynthID-Technologie zur Wasserzeichenkennung von KI-Inhalten."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Democrats preview how they’d go after the Ticketmaster settlement if they regain power",
+          "link": "https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement",
+          "summary": "A handful of Democrats called an unofficial hearing on Capitol Hill Monday to slam the Department of Justice's \"trivial\" and \"pathetic\" settlement with Live Nation-Ticketmaster, previewing how they might go after Trump administration antitrust deals if they win back congressional power in November. While the DOJ settlement with Live Nation, which came one week into [&#8230;]",
+          "published": "2026-05-19T16:13:14-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Demokraten kritisieren die Einigung des Justizministeriums mit Live Nation-Ticketmaster als unzureichend und planen, antitrust Deals der Trump-Administration anzugreifen, sollten sie im November die Kontrolle über den Kongress zurückgewinnen.",
+      "highlights": [
+        "Ungefähre Einigung zwischen DOJ und Live Nation-Ticketmaster als 'trivial' bezeichnet.",
+        "Demokraten halten inoffizielle Anhörung im Kongress ab.",
+        "Ziel ist es, antitrust Deals der Trump-Administration zu überprüfen."
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "Vite Version 8: Unified Rust-Based Bundler and Up to 30x Faster Builds",
+          "link": "https://www.infoq.com/news/2026/05/vite-v8-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Vite 8.0 introduces a significant architectural change, migrating from a dual-bundler setup to a single Rust-based bundler called Rolldown. This update enhances build speeds, reporting reductions from 46 seconds to 6 seconds in some projects. The release includes developer experience improvements and maintains compatibility with the existing plugin ecosystem. By Daniel Curtis",
+          "published": "Tue, 19 May 2026 06:57:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Vite 8.0 führt einen neuen, auf Rust basierenden Bundler namens Rolldown ein, der die Build-Zeiten erheblich verkürzt. Die Umstellung von einem dualen auf einen einzelnen Bundler verbessert die Entwicklererfahrung und bleibt mit dem bestehenden Plugin-Ökosystem kompatibel.",
+      "highlights": [
+        "Build-Zeiten reduziert von 46 Sekunden auf 6 Sekunden in einigen Projekten.",
+        "Einführung des neuen Rust-basierten Bundlers Rolldown.",
+        "Kompatibilität mit dem bestehenden Plugin-Ökosystem bleibt erhalten."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Agoda Builds Multimodal Content System to Bridge Images and Reviews in Travel Discovery",
+          "link": "https://www.infoq.com/news/2026/05/agoda-multimodal-content-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Agoda Multimodal Content Systemhttps://example.com/agoda-multimodal-content-systemAgoda unifies hotel images and guest reviews using a shared topic taxonomy, enabling multimodal retrieval across 700M+ images and multilingual reviews with offline enrichment and low-latency serving. By Leela Kumili",
+          "published": "Tue, 19 May 2026 14:29:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Agoda hat ein multimodales Content-System entwickelt, das Hotelbilder und Gästebewertungen durch eine gemeinsame Themen-Taxonomie vereint. Dies ermöglicht eine effiziente Suche über 700 Millionen Bilder und mehrsprachige Bewertungen mit Offline-Anreicherung und geringer Latenz.",
+      "highlights": [
+        "Integration von über 700 Millionen Bildern und mehrsprachigen Bewertungen.",
+        "Nutzung einer gemeinsamen Themen-Taxonomie für bessere Suchergebnisse.",
+        "Offline-Anreicherung und niedrige Latenzzeiten für schnelle Datenbereitstellung."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Aktion Datensouveränität: So gelingt sicheres Cloud-Management in der Familie",
+          "link": "https://t3n.de/news/so-gelingt-sicheres-cloud-management-in-der-familie-1740168/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Verwaltung digitaler Familienarchive scheitert oft an monatlichen Kosten oder mangelnder Privatsphäre. Ein Wechsel zu Lifetime-Plänen sichert langfristig Datensouveränität und schont das Budget – zum pCloud Family Day mit bis zu minus 65 Prozent. weiterlesen auf t3n.de",
+          "published": "Tue, 19 May 2026 16:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Threads bekommt Content-Blockierlisten: Was das für Werbetreibende bedeutet",
+          "link": "https://t3n.de/news/threads-bekommt-content-blockierlisten-was-das-fuer-werbetreibende-bedeutet-1743207/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit den Third-Party-Block-Lists für Content können Advertiser auf Threads sicherstellen, dass sie in sicheren Umfeldern werben. Auf Instagram und Facebook gibt es diese schon. weiterlesen auf t3n.de",
+          "published": "Tue, 19 May 2026 12:50:04 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "WWDC 2026 mit viel KI: Das plant Apple bei seiner Entwicklerkonferenz",
+          "link": "https://t3n.de/news/wwdc-2026-mit-viel-ki-das-plant-apple-bei-seiner-entwicklerkonferenz-1743126/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Apple hat Keynote und Programm zu seiner Weltentwicklerkonferenz veröffentlicht. Am 8. Juni werden iOS 27 und Co. präsentiert. Gespannt sein darf man vor allem auf mehr KI. weiterlesen auf t3n.de",
+          "published": "Tue, 19 May 2026 11:45:01 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise-Angebot: KI-gestützte Entwicklung: Coding, Dokumentation und Best Practices",
+          "link": "https://www.heise.de/news/KI-gestuetzte-Entwicklung-Coding-Dokumentation-und-Best-Practices-11297089.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "heise-Webinar am 28.05.: Praxis-Webinar zu KI im Softwareengineering – von produktiver Zusammenarbeit mit Coding-KI bis zu intelligenter Softwaredokumentation.",
+          "published": "2026-05-20T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | iPhone-Klau auf Reisen: So minimiert man den Schaden",
+          "link": "https://www.heise.de/ratgeber/iPhone-Klau-auf-Reisen-So-minimiert-man-den-Schaden-11241371.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Was unsere Redakteurin gerne bedacht hätte, bevor sie nur mit ihrem iPhone ausgestattet verreiste und das Gerät gestohlen wurde.",
+          "published": "2026-05-20T09:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die heutige Berichterstattung thematisiert unter anderem Datensouveränität im Cloud-Management für Familien und die Integration von KI in Softwareentwicklungsprozesse. Zudem wird die Einführung von Content-Blockierlisten auf Threads für Werbetreibende hervorgehoben.",
+      "highlights": [
+        "pCloud bietet bis zu 65% Rabatt auf Lifetime-Pläne für Familien.",
+        "Threads führt Third-Party-Block-Listen ein, um sicheres Werben zu gewährleisten.",
+        "heise-Webinar am 28.05. fokussiert auf KI-gestützte Entwicklung im Softwareengineering."
+      ]
+    }
+  ]
+}
