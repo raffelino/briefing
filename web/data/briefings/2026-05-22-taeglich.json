@@ -1,0 +1,329 @@
+{
+  "date": "2026-05-22",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "OpenTofu 1.12: The Feature Terraform Never Shipped",
+          "link": "https://www.infoq.com/news/2026/05/opentofu-release-terraform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The OpenTofu community released version 1.12.0 on May 14, 2026. This update isn’t a complete rewrite, but it does resolve some issues that infrastructure teams have faced for a while. By Claudio Masolo",
+          "published": "Thu, 21 May 2026 10:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "HateAid nach US-Einreiseverbot: „Wir sollten nicht fürchten müssen, vor den Bus geschubst zu werden“",
+          "link": "https://netzpolitik.org/2026/hateaid-nach-us-einreiseverbot-wir-sollten-nicht-fuerchten-muessen-vor-den-bus-geschubst-zu-werden/",
+          "summary": "Josephine Ballon ist laut dem State Department Teil des \"weltweiten Zensur-Industriekomplexes\". – Alle Rechte vorbehalten: Sven Serkis Die USA belegten HateAid-Geschäftsführerin Josephine Ballon und ihre Kollegin mit Einreiseverboten – weil sie dabei helfen, EU-Gesetze gegen Plattformen durchzusetzen. Im Interview spricht Ballon über Einschüchterung, Angst vor Finanzsanktionen und die Notwendigkeit, sich von US-Digitalkonzernen unabhängig zu machen.",
+          "published": "Thu, 21 May 2026 09:04:59 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Apache-Airflow-Komponenten: Angreifer können Datenbank modifizieren",
+          "link": "https://www.heise.de/news/Apache-Airflow-Komponenten-Angreifer-koennen-Datenbank-modifizieren-11303487.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In Apache Airflow CNCF Kubernetes Provider und Apache Airflow Amazon Provider haben die Entwickler jeweils eine Sicherheitslücke geschlossen.",
+          "published": "2026-05-22T09:35:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Vier Arme sind besser als zwei: Humanoider Roboter für die Schwerelosigkeit",
+          "link": "https://www.heise.de/news/Vier-Arme-sind-besser-als-zwei-Humanoider-Roboter-fuer-die-Schwerelosigkeit-11303385.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der humanoide Roboter Helios hat vier Arme und keine Beine. In der Schwerelosigkeit, in der er arbeiten soll, benötigt er die auch nicht.",
+          "published": "2026-05-22T08:17:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Altersverifikation: Europas Fahrplan für den Kinderschutz im Netz",
+          "link": "https://www.golem.de/news/altersverifikation-europas-fahrplan-fuer-den-kinderschutz-im-netz-2605-208945.html",
+          "summary": "Wann kommt das Social-Media-Verbot für Kinder und wie wird es umgesetzt? Die EU-Kommission bringt dazu eine Datenbank für unter 16-Jährige ins Spiel. Ein Bericht von Friedhelm Greis ( Social-Media-Verbot , Datenschutz )",
+          "published": "2026-05-21T18:06:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die heutige Berichterstattung über Cloud-Architektur und Plattformen umfasst die Veröffentlichung von OpenTofu 1.12, Sicherheitsupdates für Apache Airflow und die Diskussion über die Auswirkungen von US-Einreiseverboten auf digitale Plattformen. Diese Themen verdeutlichen die Herausforderungen und Entwicklungen im Bereich der Cloud-Technologien und deren Regulierung.",
+      "highlights": [
+        "OpenTofu 1.12.0 veröffentlicht am 14. Mai 2026, adressiert langanhaltende Probleme für Infrastrukturteams.",
+        "Sicherheitslücken in Apache Airflow CNCF und Amazon Provider wurden behoben.",
+        "HateAid-Geschäftsführerin Josephine Ballon erhielt Einreiseverbot in die USA aufgrund ihrer Arbeit gegen Plattformen."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Notepad++: Update bessert Schwachstelle im Installer aus",
+          "link": "https://www.heise.de/news/Notepad-Update-bessert-Schwachstelle-im-Installer-aus-11303525.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein Update für Notepad++ schließt eine Sicherheitslücke im Installer. Noch fehlt ein offizieller CVE-Eintrag mit Risikobewertung.",
+          "published": "2026-05-22T09:32:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Trump Mobile: Datenleck legt Kundendaten und Bestellzahlen offen",
+          "link": "https://www.golem.de/news/trump-mobile-datenleck-legt-kundendaten-und-bestellzahlen-offen-2605-208953.html",
+          "summary": "Eine Schwachstelle bei Trump Mobile macht Kundendaten frei zugänglich. Interne Daten zeigen zudem weitaus geringere Verkaufszahlen. ( Datenleck , Sicherheitslücke )",
+          "published": "2026-05-22T07:40:05+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Anzeige: Zero Trust Security Framework in der Praxis umsetzen",
+          "link": "https://www.golem.de/news/anzeige-zero-trust-security-framework-in-der-praxis-umsetzen-2605-208669.html",
+          "summary": "Das Zero Trust Security Framework wird zur zentralen Leitlinie moderner IT-Sicherheit. Entscheidend sind klare Prinzipien und ein umsetzbarer Implementierungsplan. Ein Online-Workshop vermittelt dafür praxisnahe Vorgehensweisen. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-05-22T07:15:11+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der IT-Sicherheit zeigen sowohl Fortschritte als auch bestehende Herausforderungen. Während Notepad++ eine Sicherheitslücke im Installer schließt, offenbart ein Datenleck bei Trump Mobile gravierende Sicherheitsprobleme. Zudem wird das Zero Trust Security Framework als Schlüsselkonzept für moderne IT-Sicherheit hervorgehoben.",
+      "highlights": [
+        "Notepad++ schließt Sicherheitslücke im Installer mit neuem Update.",
+        "Trump Mobile hat ein Datenleck, das Kundendaten und interne Verkaufszahlen offenbart.",
+        "Zero Trust Security Framework wird als zentrale Leitlinie für IT-Sicherheit vorgestellt."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Teure Kultur: Justizministerin Hubig kündigt Kampf gegen Ticketwucher an",
+          "link": "https://www.heise.de/news/Teure-Kultur-Justizministerin-Hubig-kuendigt-Kampf-gegen-Ticketwucher-an-11303077.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Bundesregierung reagiert auf Druck aus der Musikszene und prüft gesetzliche Schranken gegen astronomische Aufschläge auf dem Ticketzweitmarkt.",
+          "published": "2026-05-21T18:14:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Bundesregierung plant Maßnahmen gegen Ticketwucher auf dem Zweitmarkt, um überhöhte Preise zu verhindern. Justizministerin Hubig reagiert damit auf den Druck der Musikszene.",
+      "highlights": [
+        "Gesetzliche Regelungen sollen gegen astronomische Ticketpreise erlassen werden.",
+        "Reaktion auf massiven Druck aus der Musikbranche.",
+        "Ziel ist der Schutz der Verbraucher vor überteuerten Ticketangeboten."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Japanische Forscher zeigen: So beendest du Prokrastination im Alltag",
+          "link": "https://t3n.de/news/prokrastination-beenden-alltag-japanische-forscher-1632259/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Warum prokrastinieren Optimisten seltener? Japanische Forscher:innen haben herausgefunden, dass die Erwartung an eine stressfreie Zukunft der Schlüssel ist, um Aufgaben endlich anzupacken. Die gezielte Anwendung dieses psychologischen Hebels ermöglicht es, das eigene Aufschiebeverhalten nachhaltig zu reduzieren. weiterlesen auf t3n.de",
+          "published": "Fri, 22 May 2026 06:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "“Morally repugnant shortsightedness”: Why open source security leaders say companies must stop freeloading on maintainers",
+          "link": "https://thenewstack.io/openssf-open-source-security-members/",
+          "summary": "The Open Source Security Foundation (OpenSSF), a cross-industry initiative of the Linux Foundation focused on sustainably securing open source software, The post &#8220;Morally repugnant shortsightedness&#8221;: Why open source security leaders say companies must stop freeloading on maintainers appeared first on The New Stack .",
+          "published": "Thu, 21 May 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Neuer Job als Application Developer gesucht? Schau dir unsere Top Jobs an",
+          "link": "https://t3n.de/news/unsere-jobs-der-woche-1175973/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hier findest du unsere besten Jobs aus den Bereichen Technik &amp; Entwicklung, Marketing, PR &amp; Kommunikation, Projektmanagement &amp; Produktmanagement, Design &amp; UX, Content &amp; Redaktion und Business Development. weiterlesen auf t3n.de",
+          "published": "Thu, 21 May 2026 15:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Agent zieht Adobe Lightroom erfolgreich auf Linux um",
+          "link": "https://www.heise.de/news/KI-Agent-zieht-Adobe-Lightroom-erfolgreich-auf-Linux-um-11297220.html",
+          "summary": "Claude Code hat das digitale Fotowerkzeug Adobe Lightroom auf Linux lauffähig gemacht. Das Projekt begann mit einem denkbar simplen Prompt.",
+          "published": "2026-05-18T11:56:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Fedora Hummingbird Linux: Neue Container-basierte Distribution",
+          "link": "https://www.heise.de/news/Fedora-Hummingbird-Linux-Neue-Container-basierte-Distribution-11295489.html",
+          "summary": "Fedora Hummingbird Linux ist eine vollständig Container-basierte Distribution, die auf rpm-ostree und bootc aufbaut.",
+          "published": "2026-05-15T13:37:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Agile Methoden und UX/UI-Design sind entscheidend für die Entwicklung benutzerzentrierter Software. Die Kombination fördert Flexibilität und Anpassungsfähigkeit, was zu besseren Nutzererfahrungen führt.",
+      "highlights": [
+        "Agile Methoden ermöglichen iterative Entwicklungsprozesse.",
+        "UX/UI-Design fokussiert sich auf die Bedürfnisse der Nutzer.",
+        "Die Integration beider Ansätze verbessert die Produktqualität und Nutzerzufriedenheit."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Kore counts down to Artemis, its moonshot for governable AI agents",
+          "link": "https://thenewstack.io/kore-artemis-agent-platform/",
+          "summary": "Kore wants to drag enterprise agent development out of the prompt-chain wilderness. The agentic software company on Thursday released Artemis, The post Kore counts down to Artemis, its moonshot for governable AI agents appeared first on The New Stack .",
+          "published": "Thu, 21 May 2026 17:52:30 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI drängt ins Banking: ChatGPT kann jetzt US-Bankkonten auslesen – Deutsche bleiben skeptisch",
+          "link": "https://t3n.de/news/openai-draengt-ins-banking-chatgpt-kann-jetzt-us-bankkonten-auslesen-deutsche-bleiben-skeptisch-1743614/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der KI-Anbieter OpenAI will im Finanzbereich wachsen, ChatGPT soll zum persönlichen Finanzcoach werden. In Deutschland ist die Begeisterung für Finanzberatung per Chatbot aber noch gering. weiterlesen auf t3n.de",
+          "published": "Thu, 21 May 2026 16:30:26 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "CI wasn’t built for coding agents. Here’s what comes next.",
+          "link": "https://thenewstack.io/ci-for-coding-agents/",
+          "summary": "For years, integration tests have lived inside CI pipelines, triggered on push and answered ten, twenty, or thirty minutes later. The post CI wasn&#8217;t built for coding agents. Here&#8217;s what comes next. appeared first on The New Stack .",
+          "published": "Thu, 21 May 2026 14:30:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Building the agentic agreement enterprise: How developers are unlocking agentic experiences with Docusign’s MCP server and platform",
+          "link": "https://thenewstack.io/docusign-mcp-agentic-agreements/",
+          "summary": "Managing agreements across the enterprise has traditionally been a slow, manual process. Docusign for Developers has accelerated the process through The post Building the agentic agreement enterprise: How developers are unlocking agentic experiences with Docusign&#8217;s MCP server and platform appeared first on The New Stack .",
+          "published": "Thu, 21 May 2026 13:53:29 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Plug-in hybrids get plugged in more than you might think",
+          "link": "https://arstechnica.com/cars/2026/05/plug-in-hybrids-get-plugged-in-more-than-you-might-think/",
+          "summary": "Toyota is the latest automaker to report PHEV charging stats, and they're encouraging.",
+          "published": "Thu, 21 May 2026 13:34:53 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Die Entwicklungen im Bereich generative KI und LLMs konzentrieren sich auf die Schaffung governierbarer KI-Agenten und deren Integration in verschiedene Branchen, einschließlich Finanzdienstleistungen. Unternehmen wie OpenAI und Kore treiben diese Innovationen voran, während die Akzeptanz in bestimmten Märkten, wie Deutschland, noch zurückhaltend ist.",
+      "highlights": [
+        "Kore hat Artemis veröffentlicht, um die Entwicklung governierbarer KI-Agenten voranzutreiben.",
+        "OpenAI plant, ChatGPT als persönlichen Finanzcoach einzusetzen, stößt jedoch in Deutschland auf Skepsis.",
+        "Docusign optimiert die Verwaltung von Vereinbarungen durch die Einführung von agentischen Erfahrungen mit seiner MCP-Plattform."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "KI-Regulierung in den USA: Trump stoppt Erlass zur Regulierung von KI",
+          "link": "https://www.golem.de/news/ki-regulierung-in-den-usa-trump-stoppt-erlass-zur-regulierung-von-ki-2605-208956.html",
+          "summary": "Donald Trump hat die Unterzeichnung einer KI-Verordnung kurzfristig abgesagt. Tech-Führungskräfte warnten vor Innovationsbremsen. ( Donald Trump , KI )",
+          "published": "2026-05-22T09:17:07+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Who gets to own the Luigi Mangione story?",
+          "link": "https://www.theverge.com/news/935598/luigi-mangione-new-york-case-press-credentials-supporters",
+          "summary": "On Monday morning, a judge overseeing the New York state case on the killing of the UnitedHealthcare CEO ruled that some evidence collected by police could not be shown to a jury. It wasn't the only news coming out of the hearing. Outside the courthouse, Molly Crane-Newman, a New York Daily News reporter, captured on [&#8230;]",
+          "published": "2026-05-21T15:51:22-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Die EU arbeitet an einer umfassenden Regulierung für Technologien, insbesondere im Bereich Künstliche Intelligenz (KI). Währenddessen hat Donald Trump in den USA eine geplante KI-Verordnung gestoppt, nachdem Tech-Führungskräfte vor möglichen Innovationsbremsen gewarnt hatten.",
+      "highlights": [
+        "Trump sagt Unterzeichnung einer KI-Verordnung ab.",
+        "Tech-Führungskräfte warnen vor Innovationsbremsen.",
+        "EU plant umfassende Regulierung für KI und Technologien."
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "How Platform Engineering Using Golden Bricks Can Enable Fast and Smooth Delivery",
+          "link": "https://www.infoq.com/news/2026/05/platform-golden-bricks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Platform engineering should have a product focus, as developers are customers; they must provide composable, self-service capabilities, golden bricks rather than rigid golden paths, so teams can move quickly while maintaining consistency. Success is measured through adoption, developer experience, and business outcomes such as deployment frequency and change failure rate. By Ben Linders",
+          "published": "Thu, 21 May 2026 11:35:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Platform Engineering sollte einen produktorientierten Ansatz verfolgen, um Entwicklern selbstbedienbare und modulare Lösungen zu bieten. Der Erfolg wird durch die Nutzung, die Entwicklererfahrung und geschäftliche Ergebnisse wie Bereitstellungshäufigkeit gemessen.",
+      "highlights": [
+        "Entwickler sind die Kunden des Platform Engineering.",
+        "Erfolgsmessung erfolgt durch Adoption und Change Failure Rate.",
+        "Fokus auf modulare, selbstbedienbare Lösungen statt starrer Prozesse."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "After becoming cloud computing’s telemetry standard, OpenTelemetry graduates into the AI infrastructure era",
+          "link": "https://thenewstack.io/opentelemetry-hits-general-availability/",
+          "summary": "The Cloud Native Computing Foundation (CNCF) on Thursday announced the graduation of OpenTelemetry, the open source observability framework that has The post After becoming cloud computing’s telemetry standard, OpenTelemetry graduates into the AI infrastructure era appeared first on The New Stack .",
+          "published": "Thu, 21 May 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "OpenTelemetry, das Open-Source-Framework für Observability, hat seinen Abschluss bei der Cloud Native Computing Foundation (CNCF) gefeiert. Es wird nun als Standard für Telemetrie in der Cloud-Computing-Ära anerkannt und erweitert seine Anwendung auf die Infrastruktur von Künstlicher Intelligenz.",
+      "highlights": [
+        "Graduierung von OpenTelemetry bei der CNCF angekündigt.",
+        "OpenTelemetry wird als Standard für Cloud-Telemetrie anerkannt.",
+        "Erweiterung der Anwendung auf AI-Infrastruktur."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Raus aus der US-Cloud: So sicherst du deine Daten ein Leben lang in Europa",
+          "link": "https://t3n.de/news/raus-der-us-cloud-so-sicherst-du-deine-daten-ein-leben-lang-in-europa-1740168/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Verwaltung digitaler Familienarchive scheitert oft an monatlichen Kosten oder mangelnder Privatsphäre. Ein Wechsel zu Lifetime-Plänen sichert langfristig Datensouveränität und schont das Budget – zum pCloud Family Day mit bis zu minus 65 Prozent. weiterlesen auf t3n.de",
+          "published": "Fri, 22 May 2026 09:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Wann gute Jobs unglücklich machen - und was die Gehirngesundheit damit zu tun hat",
+          "link": "https://t3n.de/news/wann-gute-jobs-ungluecklich-machen-und-was-die-gehirngesundheit-damit-zu-tun-hat-1743103/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Viele Menschen sind unglücklich im Job &#8211; obwohl sie rein objektiv eine gute Stelle haben. Svea von Hehn ist promovierte Psychologin und Gründerin der Unternehmensberatung Return on Meaning. Sie erklärt, wie diese Unzufriedenheit zustande kommt, warum KI oft zu Stress führt und wie wir unser Gehirn so einsetzen können, dass wir wieder zufriedener werden. weiterlesen auf t3n.de",
+          "published": "Fri, 22 May 2026 07:30:02 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "26 Küken schlüpfen aus 3D-gedruckten Plastikbechern: Das soll ausgestorbene Arten zurückbringen",
+          "link": "https://t3n.de/news/kueken-3d-plastikbechern-ausgestorbene-arten-1743362/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Als ersten Schritt in Richtung künstlicher Gebärmutter behauptet das Biotech-Unternehmen Colossal Biosciences, ein „vollständig künstliches“ Hühnerei entwickelt zu haben. Doch die Firma sorgte in der Vergangenheit für Unmut bei anderen Wissenschaftler:innen. weiterlesen auf t3n.de",
+          "published": "Fri, 22 May 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Integrierte Module: Solarautos können über die Hälfte des Energiebedarfs selbst erzeugen",
+          "link": "https://t3n.de/news/solarautos-energie-erzeugen-1743712/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Einem europäischen Forschungsprojekt zufolge können Pkw mit integrierten Solarmodulen in Mitteleuropa bis zu 55 Prozent des jährlichen Energiebedarfs selbst erzeugen. In Südeuropa können das bei Solarautos sogar 80 Prozent sein. weiterlesen auf t3n.de",
+          "published": "Thu, 21 May 2026 21:28:35 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Slack: Salesforce-CEO analysiert Kommunikation seiner Mitarbeiter per KI",
+          "link": "https://t3n.de/news/slack-salesforce-ceo-nachrichten-1743699/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Salesforce-CEO Marc Benioff hat erklärt, dass er das KI-Tool von Slack nutze, um sich über mögliche Frustrationen seiner Mitarbeiter:innen zu informieren. Eine Erinnerung an Slack-Nutzer:innen, sich auch in Direktnachrichten zurückzuhalten. weiterlesen auf t3n.de",
+          "published": "Thu, 21 May 2026 19:19:34 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Verwaltung digitaler Daten in Europa gewinnt an Bedeutung, insbesondere durch Lifetime-Pläne, die Datensouveränität und Kosteneffizienz bieten. Die Diskussion über die Sicherheit von Daten in der US-Cloud wird durch aktuelle Angebote und Technologien verstärkt.",
+      "highlights": [
+        "pCloud bietet bis zu 65% Rabatt auf Lifetime-Pläne für Datenspeicherung.",
+        "Die Unzufriedenheit im Job wird durch Stress und KI-Nutzung verstärkt, laut Psychologin Svea von Hehn.",
+        "Solarautos können bis zu 80% ihres Energiebedarfs in Südeuropa selbst erzeugen."
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Vorsicht bei Code aus der KI: Warum Vibecoder rechtlich haftbar sind",
+          "link": "https://t3n.de/news/vorsicht-bei-code-aus-der-ki-warum-vibecoder-rechtlich-haftbar-sind-1743422/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI-gestütztes Programmieren verhilft der Softwarebranche zu mehr Effizienz. Doch wer beim Vibecoding einfach drauflos entwickelt, geht enorme rechtliche Risiken ein. Was ein Anwalt empfiehlt. weiterlesen auf t3n.de",
+          "published": "Thu, 21 May 2026 14:00:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Nutzung von KI-gestütztem Programmieren birgt rechtliche Risiken, insbesondere beim Vibecoding. Anwälte warnen davor, unüberlegt Code zu verwenden, da dies zu Haftungsfragen führen kann.",
+      "highlights": [
+        "Vibecoding kann rechtliche Haftung für Entwickler nach sich ziehen.",
+        "Unüberlegter Einsatz von KI-Tools kann zu Urheberrechtsverletzungen führen.",
+        "Experten empfehlen, rechtliche Rahmenbedingungen vor der Nutzung von KI-Code zu prüfen."
+      ]
+    }
+  ]
+}
