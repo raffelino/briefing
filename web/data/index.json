@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-05-23",
+    "mode": "woechentlich",
+    "file": "2026-05-23-woechentlich.json",
+    "topic_count": 11
+  },
+  {
     "date": "2026-05-22",
     "mode": "taeglich",
     "file": "2026-05-22-taeglich.json",

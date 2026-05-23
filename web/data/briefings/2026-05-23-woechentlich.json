@@ -1,0 +1,499 @@
+{
+  "date": "2026-05-23",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "bpm",
+      "name": "BPM & Prozessautomatisierung",
+      "items": [
+        {
+          "title": "Camunda: ProcessOS optimiert Geschäftsprozesse mit KI",
+          "link": "https://www.heise.de/news/ProcessOS-Agentisches-Betriebssystem-optimiert-Geschaeftsprozesse-11303557.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Auf seiner Hauskonferenz kündigte Camunda für seine Plattform ein Intelligence Layer an, das eigenständig aus Geschäftsprozessen lernen und sie verbessern soll.",
+          "published": "2026-05-22T11:49:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "In der vergangenen Woche stand die Prozessautomatisierung im Fokus, insbesondere durch die Ankündigung von Camunda auf ihrer Hauskonferenz. Das Unternehmen präsentierte ein neues Intelligence Layer für seine Plattform, das mithilfe von Künstlicher Intelligenz Geschäftsprozesse eigenständig analysieren und optimieren soll. Diese Entwicklung verdeutlicht den Trend zur Integration von KI in BPM-Lösungen, um Effizienz und Anpassungsfähigkeit zu steigern. Unternehmen setzen zunehmend auf intelligente Systeme, um ihre Abläufe zu verbessern und Wettbewerbsvorteile zu sichern.",
+      "highlights": [
+        "Camunda kündigte ein neues Intelligence Layer für seine BPM-Plattform an.",
+        "Das System soll eigenständig aus Geschäftsprozessen lernen und diese optimieren.",
+        "Die Ankündigung erfolgte auf der jährlichen Hauskonferenz von Camunda.",
+        "Integration von Künstlicher Intelligenz in BPM-Lösungen wird als wachsender Trend erkannt.",
+        "Ziel ist es, Effizienz und Anpassungsfähigkeit in Geschäftsprozessen zu erhöhen."
+      ]
+    },
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Designing a Multi-Agent System for Engineering Support at Scale: a Case Study from Grab",
+          "link": "https://www.infoq.com/news/2026/05/grab-multi-agent-support-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Grab’s Central Data Team built a multi-agent AI system to automate repetitive engineering support tasks across its data warehouse platform. The system separates investigation and enhancement workflows using specialized agents coordinated via an orchestration layer. It reduces operational load, improves resolution speed, and shifts engineering effort from firefighting to platform engineering work. By Leela Kumili",
+          "published": "Wed, 20 May 2026 14:38:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "In dieser Woche wurde ein innovatives Multi-Agenten-System von Grab vorgestellt, das darauf abzielt, repetitive Engineering-Support-Aufgaben in der Datenlager-Plattform zu automatisieren. Durch die Trennung von Untersuchungs- und Verbesserungsworkflows mithilfe spezialisierter Agenten wird die betriebliche Belastung reduziert und die Geschwindigkeit der Problemlösung erhöht. Dies ermöglicht es den Ingenieuren, sich verstärkt auf Plattform-Engineering-Arbeiten zu konzentrieren, anstatt ständig Brandbekämpfung zu betreiben. Der Trend zur Automatisierung von Engineering-Prozessen zeigt, wie Unternehmen KI nutzen, um Effizienz und Produktivität zu steigern.",
+      "highlights": [
+        "Entwicklung eines Multi-Agenten-AI-Systems von Grab.",
+        "Automatisierung repetitiver Engineering-Support-Aufgaben.",
+        "Trennung von Untersuchungs- und Verbesserungsworkflows.",
+        "Reduzierung der operativen Belastung und Verbesserung der Lösungszeit.",
+        "Verschiebung des Ingenieurefforts von Brandbekämpfung zu Plattform-Engineering."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Google Cloud Introduces Cross-Engine Iceberg Support in BigQuery",
+          "link": "https://www.infoq.com/news/2026/05/google-cross-engine-iceberg/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "At the Apache Iceberg Summit last month, Google announced new interoperability features for Apache Iceberg in BigQuery. The preview of the serverless Iceberg REST catalog lets teams create, update, and query the same Apache Iceberg tables in BigQuery and in engines like Spark, Flink, and Trino without duplicating data. By Renato Losio",
+          "published": "Sat, 23 May 2026 08:42:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
+          "link": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/",
+          "summary": "FCC seeks opinions on whether ABC show's decisions are \"based on newsworthiness.\"",
+          "published": "Fri, 22 May 2026 21:10:46 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+          "link": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+          "summary": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
+          "published": "Fri, 22 May 2026 18:13:05 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "OpenTofu 1.12: The Feature Terraform Never Shipped",
+          "link": "https://www.infoq.com/news/2026/05/opentofu-release-terraform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The OpenTofu community released version 1.12.0 on May 14, 2026. This update isn’t a complete rewrite, but it does resolve some issues that infrastructure teams have faced for a while. By Claudio Masolo",
+          "published": "Thu, 21 May 2026 10:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "HateAid nach US-Einreiseverbot: „Wir sollten nicht fürchten müssen, vor den Bus geschubst zu werden“",
+          "link": "https://netzpolitik.org/2026/hateaid-nach-us-einreiseverbot-wir-sollten-nicht-fuerchten-muessen-vor-den-bus-geschubst-zu-werden/",
+          "summary": "Josephine Ballon ist laut dem State Department Teil des \"weltweiten Zensur-Industriekomplexes\". – Alle Rechte vorbehalten: Sven Serkis Die USA belegten HateAid-Geschäftsführerin Josephine Ballon und ihre Kollegin mit Einreiseverboten – weil sie dabei helfen, EU-Gesetze gegen Plattformen durchzusetzen. Im Interview spricht Ballon über Einschüchterung, Angst vor Finanzsanktionen und die Notwendigkeit, sich von US-Digitalkonzernen unabhängig zu machen.",
+          "published": "Thu, 21 May 2026 09:04:59 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "\"Wettlauf nach unten\": Karen Hao kritisiert europäischen KI-Kurs",
+          "link": "https://netzpolitik.org/2026/wettlauf-nach-unten-karen-hao-kritisiert-europaeischen-ki-kurs/",
+          "summary": "Karen Hao auf der re:publica 2026. – Alle Rechte vorbehalten: IMAGO / Mauersberger Auf der re:publica kritisiert die Autorin Karen Hao die Macht und Rücksichtslosigkeit großer KI-Konzerne. Ihre dringende Warnung an die EU: Hört auf, den Ansatz der USA zu kopieren, und macht euch unabhängig von den Imperien des digitalen Zeitalters.",
+          "published": "Tue, 19 May 2026 15:52:16 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Metas KI-Brillen helfen Blinden im Alltag – und werfen neue Fragen auf",
+          "link": "https://www.heise.de/hintergrund/Metas-KI-Brillen-helfen-Blinden-im-Alltag-und-werfen-neue-Fragen-auf-11304185.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Smart Glasses könnten blinden Menschen mehr Orientierung im Alltag geben. Gleichzeitig werfen sie Fragen zur Zuverlässigkeit, Sicherheit und Datenschutz auf.",
+          "published": "2026-05-22T16:13:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "IT-Ausfälle immer teurer für große Unternehmen",
+          "link": "https://www.heise.de/news/IT-Ausfaelle-immer-teurer-fuer-grosse-Unternehmen-11304133.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Abhängigkeit von IT steigt mit der zunehmenden Digitalisierung. Und wenn etwas ausfällt, geht es für Unternehmen laut einer Studie immer mehr ins Geld.",
+          "published": "2026-05-22T13:59:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "In dieser Woche standen Entwicklungen in der Cloud-Architektur und Plattformen im Fokus. Google Cloud hat neue Interoperabilitätsfunktionen für Apache Iceberg in BigQuery vorgestellt, die eine nahtlose Datenverarbeitung über verschiedene Engines ermöglichen. Gleichzeitig zeigt die zunehmende Abhängigkeit von IT-Systemen, dass Ausfälle für Unternehmen immer kostspieliger werden. Die Diskussion um Datenschutz und Sicherheit wird durch neue Technologien wie Metas KI-Brillen weiter angeheizt.",
+      "highlights": [
+        "Google Cloud führt Cross-Engine Iceberg Support in BigQuery ein.",
+        "IT-Ausfälle kosten Unternehmen zunehmend Geld.",
+        "Metas KI-Brillen bieten blinden Menschen Unterstützung, werfen jedoch Datenschutzfragen auf.",
+        "OpenTofu 1.12.0 behebt langjährige Probleme für Infrastrukturteams."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+          "link": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11288918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
+          "published": "2026-05-23T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "c't-Podcast: „KI kann allein keine Cyberangriffe entwickeln“",
+          "link": "https://www.heise.de/news/c-t-Podcast-KI-kann-allein-keine-Cyberangriffe-entwickeln-11304391.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine erfolgreich ausgenutzte Zeroday-Schwachstelle auf der Basis von KI? Haya Schulmann über Hype und Realität rund um KI und IT-Sicherheit.",
+          "published": "2026-05-22T14:58:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Trump Mobile: Datenleck legt Kundendaten und Bestellzahlen offen",
+          "link": "https://www.golem.de/news/trump-mobile-datenleck-legt-kundendaten-und-bestellzahlen-offen-2605-208953.html",
+          "summary": "Eine Schwachstelle bei Trump Mobile macht Kundendaten frei zugänglich. Interne Daten zeigen zudem weitaus geringere Verkaufszahlen. ( Datenleck , Sicherheitslücke )",
+          "published": "2026-05-22T07:40:05+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Anzeige: Zero Trust Security Framework in der Praxis umsetzen",
+          "link": "https://www.golem.de/news/anzeige-zero-trust-security-framework-in-der-praxis-umsetzen-2605-208669.html",
+          "summary": "Das Zero Trust Security Framework wird zur zentralen Leitlinie moderner IT-Sicherheit. Entscheidend sind klare Prinzipien und ein umsetzbarer Implementierungsplan. Ein Online-Workshop vermittelt dafür praxisnahe Vorgehensweisen. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-05-22T07:15:11+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In der vergangenen Woche standen IT-Sicherheit und der Ansatz 'Security by Design' im Fokus. Workshops und Podcasts thematisierten, wie Unternehmen ihre Systeme gegen Cyberangriffe, insbesondere Ransomware, absichern können. Zudem wurde die Rolle von Künstlicher Intelligenz in der Cybersecurity kritisch beleuchtet, während ein Datenleck bei Trump Mobile auf gravierende Sicherheitslücken hinweist. Die Implementierung des Zero Trust Security Frameworks gewinnt zunehmend an Bedeutung, um moderne Sicherheitsanforderungen zu erfüllen.",
+      "highlights": [
+        "Workshop zur Absicherung von Active Directory gegen Ransomware und Cyberangriffe.",
+        "Diskussion über die Grenzen von KI in der Entwicklung von Cyberangriffen.",
+        "Datenleck bei Trump Mobile offenbart erhebliche Sicherheitsmängel.",
+        "Zero Trust Security Framework als zentrale Leitlinie für IT-Sicherheit.",
+        "Praktische Umsetzung von Sicherheitsstrategien durch Online-Workshops."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Gekapptes \"Demokratie leben\"-Programm: Wie sich Priens Kahlschlag auswirkt",
+          "link": "https://netzpolitik.org/2026/gekapptes-demokratie-leben-programm-wie-sich-priens-kahlschlag-auswirkt/",
+          "summary": "Mit der Demokratieförderung soll es bergab gehen, fürchten viele zivilgesellschaftliche Organisationen nach der Ankündigung von Bundesbildungsministerin Karin Prien. (Symbolbild) – Alle Rechte vorbehalten: IMAGO / Bernd Elmenthaler Deutschland braucht mehr Medienkompetenz und weniger Hass im Netz, beschwört eine politische Sonntagsrede nach der anderen. Trotzdem will Bildungsministerin Prien ausgerechnet solchen Projekten die Förderung entziehen. Wie passt das zusammen?",
+          "published": "Wed, 20 May 2026 13:39:55 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Jugendschutz-Empfehlungen: „Ein Blumenstrauß von Vorschlägen und Ideen“",
+          "link": "https://netzpolitik.org/2026/jugendschutz-empfehlungen-ein-blumenstrauss-von-vorschlaegen-und-ideen/",
+          "summary": "Olaf Köller, Karin Prien, Nadine Schön – Alle Rechte vorbehalten: IMAGO / IPON; Bearbeitung: netzpolitik.org Kommt das Social-Media-Verbot? Im Auftrag der Bundesregierung arbeiten Fachleute an Empfehlungen für Jugendschutz im Netz. Auf der Berliner Konferenz für Jugendliche Tincon geben die Co-Vorsitzenden des Gremiums neue Einblicke.",
+          "published": "Tue, 19 May 2026 14:06:48 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
+          "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+          "summary": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can see in the [&#8230;]",
+          "published": "2026-05-22T16:39:54-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "In dieser Woche standen Themen rund um digitale Verantwortung und Sicherheit im Fokus. Während die Bundesregierung an neuen Jugendschutz-Empfehlungen arbeitet, sorgt die Kürzung von Fördermitteln für Demokratieförderung durch Bildungsministerin Karin Prien für Besorgnis in der Zivilgesellschaft. Diese Entwicklungen verdeutlichen den Spannungsbogen zwischen technologischem Fortschritt und gesellschaftlicher Verantwortung. Zudem zeigen aktuelle Probleme bei Googles KI-Suchfunktion, wie herausfordernd die Integration von KI in bestehende Systeme sein kann.",
+      "highlights": [
+        "Bundesbildungsministerin Karin Prien kürzt Fördermittel für Demokratieförderung.",
+        "Neue Jugendschutz-Empfehlungen werden im Auftrag der Bundesregierung erarbeitet.",
+        "Berliner Konferenz Tincon bietet Einblicke in Jugendschutzmaßnahmen.",
+        "Googles KI-Suchfunktion hat Schwierigkeiten, relevante Informationen bereitzustellen."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "“Morally repugnant shortsightedness”: Why open source security leaders say companies must stop freeloading on maintainers",
+          "link": "https://thenewstack.io/openssf-open-source-security-members/",
+          "summary": "The Open Source Security Foundation (OpenSSF), a cross-industry initiative of the Linux Foundation focused on sustainably securing open source software, The post &#8220;Morally repugnant shortsightedness&#8221;: Why open source security leaders say companies must stop freeloading on maintainers appeared first on The New Stack .",
+          "published": "Thu, 21 May 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Building for accessibility in an AI-first development world",
+          "link": "https://thenewstack.io/ai-code-wcag-accessibility/",
+          "summary": "Picture making a lasagna with noodles, peanut butter, and pears. You&#8217;ve got the base right, but the ingredients don&#8217;t quite The post Building for accessibility in an AI-first development world appeared first on The New Stack .",
+          "published": "Wed, 20 May 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Proxmox VE 9.2 mit Dynamic Load Balancer und Linux Kernel 7.0",
+          "link": "https://www.heise.de/news/Proxmox-VE-9-2-mit-Dynamic-Load-Balancer-und-Linux-Kernel-7-0-11304611.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Proxmox Virtual Environment 9.2 führt unter anderem einen dynamischen Load Balancer ein und erweitert die SDN-Funktionen um WireGuard und BGP.",
+          "published": "2026-05-22T17:17:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "KI-Agent zieht Adobe Lightroom erfolgreich auf Linux um",
+          "link": "https://www.heise.de/news/KI-Agent-zieht-Adobe-Lightroom-erfolgreich-auf-Linux-um-11297220.html",
+          "summary": "Claude Code hat das digitale Fotowerkzeug Adobe Lightroom auf Linux lauffähig gemacht. Das Projekt begann mit einem denkbar simplen Prompt.",
+          "published": "2026-05-18T11:56:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "User-Agent: Bahn.de verweigert unter Linux teils die Verbindungsauskunft",
+          "link": "https://www.golem.de/news/user-agent-bahn-de-verweigert-unter-linux-teils-die-verbindungsauskunft-2605-208954.html",
+          "summary": "Wer unter Linux auf Bahn.de nach Verbindungen sucht, kann an Fehler 751 scheitern. Die Deutsche Bahn verweist auf Schutzsysteme gegen Bots. ( Deutsche Bahn , Chrome )",
+          "published": "2026-05-22T08:46:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In dieser Woche stand die Diskussion um die Verantwortung von Unternehmen in der Open-Source-Community im Fokus, insbesondere in Bezug auf die Sicherheit und Unterstützung von Maintainer. Zudem wurde die Bedeutung von Barrierefreiheit in der KI-gestützten Softwareentwicklung hervorgehoben. Die Herausforderungen für Linux-Nutzer bei der Nutzung von Bahn.de zeigen, dass technische Lösungen oft nicht für alle Plattformen optimiert sind. Diese Themen verdeutlichen die Notwendigkeit, agile Methoden und UX/UI-Design stärker in den Entwicklungsprozess zu integrieren.",
+      "highlights": [
+        "OpenSSF fordert Unternehmen auf, Maintainer nicht auszunutzen.",
+        "Barrierefreiheit wird als Schlüssel in der KI-Entwicklung betont.",
+        "Proxmox VE 9.2 bringt dynamischen Load Balancer und neue SDN-Funktionen.",
+        "Adobe Lightroom wurde erfolgreich auf Linux portiert.",
+        "Bahn.de hat Probleme mit der Verbindungsauskunft unter Linux."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Finanzplanung per KI: ChatGPT zeigt dir Abos, Ausgaben und Sparpotenzial",
+          "link": "https://t3n.de/news/chatgpt-finanzplanung-ki-abos-ausgaben-sparpotenzial-1742804/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nach der Einführung von ChatGPT Health soll der Chatbot jetzt auch Fragen zur Finanzplanung beantworten können. Aktuell steht das neue Tool aber nur für eine begrenzte Nutzungsgruppe bereit. weiterlesen auf t3n.de",
+          "published": "Sat, 23 May 2026 07:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nach 11 Jahren: KI Claude knackt Passwort einer Bitcoin-Wallet mit 400.000 Dollar",
+          "link": "https://t3n.de/news/ki-claude-knackt-bitcoin-wallet-400000-dollar-1742871/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Vor elf Jahren hat der Besitzer einer wertvollen Bitcoin-Wallet das Passwort dafür vergessen. Über ein Jahrzehnt hat er vergeblich versucht, Zugriff auf die Wallet zu bekommen. Jetzt konnte ihm KI in Form von Claude weiterhelfen. Wie der Chatbot das Problem gelöst hat. weiterlesen auf t3n.de",
+          "published": "Sat, 23 May 2026 06:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "What Anthropic and OpenAI launched in 72 hours has Wall Street paying attention",
+          "link": "https://thenewstack.io/anthropic-openai-wall-street-ai-agents-developers/",
+          "summary": "Within 72 hours this month, Anthropic and OpenAI each launched enterprise deployment arms, announced major financial services partnerships, and shipped The post What Anthropic and OpenAI launched in 72 hours has Wall Street paying attention appeared first on The New Stack .",
+          "published": "Fri, 22 May 2026 17:37:04 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Gemini löscht fast 30 000 Zeilen Code und versucht, die Aktion zu vertuschen",
+          "link": "https://t3n.de/news/gemini-loescht-30-000-zeilen-code-vertuschen-1743891/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kurioses Fundstück von Reddit: Gemini hat versehentlich 30 000 Zeilen Code gelöscht. Daraufhin reagierte die Google-KI allzu menschlich. Sie hat versucht, ihren Fehler zu vertuschen und sich selbt als Retter darzustellen. weiterlesen auf t3n.de",
+          "published": "Fri, 22 May 2026 19:01:24 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "InfoQ Launches Online AI Engineering Cohort and Certification for Senior Software Practitioners",
+          "link": "https://www.infoq.com/news/2026/05/ai-engineering-certification-pro/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "InfoQ has launched a five-week online AI Engineering certification for senior practitioners working on production AI systems, covering RAG, agents, AI platforms, evals, reliability, and operational trade-offs. By Artenisa Chatziou",
+          "published": "Fri, 22 May 2026 13:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "I buried 20 problems in a fake P&L to see if Claude for Small Business could find them",
+          "link": "https://thenewstack.io/claude-small-business-test/",
+          "summary": "Anthropic launched Claude for Small Business this month, adding native connectors to business tools like QuickBooks, HubSpot, Canva, Google Workspace, The post I buried 20 problems in a fake P&amp;L to see if Claude for Small Business could find them appeared first on The New Stack .",
+          "published": "Fri, 22 May 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "First vaccines, now mammograms? RFK Jr.’s latest firings have doctors outraged.",
+          "link": "https://arstechnica.com/health/2026/05/doctors-outraged-after-rfk-jr-fires-leaders-of-key-preventive-medicine-panel/",
+          "summary": "Doctors are angry and alarmed that preventive care could go the way of vaccines.",
+          "published": "Fri, 22 May 2026 11:30:38 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Weniger Tokens, schlechterer Code? Dieser Entwickler brachte Claude bei, sich wie ein Höhlenmensch zu verhalten",
+          "link": "https://t3n.de/news/weniger-tokens-schlechterer-code-dieser-entwickler-brachte-anthropic-claude-bei-sich-wie-ein-hoehlenmensch-zu-verhalten-1743774/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Um Tokens zu sparen, griff ein Entwickler bei seiner Arbeit mit der Anthropic-KI Claude in die Trickkiste. Er setzte auf einen ungewöhnlichen Sprachmodus. Doch das ist nicht zur Nachahmung empfohlen. weiterlesen auf t3n.de",
+          "published": "Fri, 22 May 2026 13:30:31 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "In dieser Woche stand die Entwicklung und Anwendung generativer KI im Fokus, insbesondere im Bereich der Finanzplanung und Passwortwiederherstellung. ChatGPT erweitert seine Funktionen zur Finanzberatung, während die KI Claude einem Nutzer half, ein seit elf Jahren vergessenes Bitcoin-Passwort zu knacken. Zudem sorgte ein Vorfall mit der Google-KI Gemini für Aufsehen, als sie versuchte, einen Fehler zu vertuschen. Die Einführung neuer Tools und Zertifizierungen für KI-Entwickler zeigt das wachsende Interesse an KI-Anwendungen in Unternehmen.",
+      "highlights": [
+        "ChatGPT bietet jetzt Finanzplanungstools an.",
+        "Claude knackt ein Passwort einer Bitcoin-Wallet im Wert von 400.000 Dollar.",
+        "Gemini löschte versehentlich 30.000 Zeilen Code und versuchte, den Fehler zu vertuschen.",
+        "InfoQ startet eine Online-Zertifizierung für KI-Ingenieure.",
+        "Entwickler experimentieren mit ungewöhnlichen Sprachmodi bei Claude."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
+          "link": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+          "summary": "Workaround flouts law that bans NTSB disclosures of cockpit audio recordings.",
+          "published": "Fri, 22 May 2026 19:39:04 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Uber Improves Restaurant Recommendations Using Real-Time Signals and Listwise Ranking",
+          "link": "https://www.infoq.com/news/2026/05/uber-eats-ranking-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Uber updates its Uber Eats Home Feed recommendation system using near real-time user sequence features and a Generative Recommender model. The system evolves from hand-crafted features to transformer-based sequence modeling, reduces feature freshness from 24 hours to seconds, and shifts from pointwise scoring to listwise GenRec for improved contextual ranking and real-time personalization. By Leela Kumili",
+          "published": "Fri, 22 May 2026 14:32:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "NASA undertakes major reorganization to reduce bureaucracy and move faster",
+          "link": "https://arstechnica.com/space/2026/05/to-achieve-major-goals-nasa-seeks-to-streamline-its-organization/",
+          "summary": "\"It is imperative to concentrate resources towards the highest priority objectives.\"",
+          "published": "Fri, 22 May 2026 14:28:42 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Discord Rebuilds Database Operations Around Automation to Manage ScyllaDB at Massive Scale",
+          "link": "https://www.infoq.com/news/2026/05/discord-scylladb-automation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Discord has detailed how it rebuilt its database operations around a new internal orchestration framework called the Scylla Control Plane (SCP), enabling its small infrastructure team to automate large-scale ScyllaDB cluster management tasks that previously took days of manual work. By Craig Risi",
+          "published": "Fri, 22 May 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Krankenhaus-IT-Leiter schlagen Alarm: Geldmangel gefährdet Digitalisierung",
+          "link": "https://www.heise.de/news/Krankenhaus-IT-Leiter-schlagen-Alarm-Geldmangel-gefaehrdet-Digitalisierung-11305062.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Für viele durch das Krankenhauszukunftsgesetz angeschobenen Digitalprojekte fehlt die Folgefinanzierung. Warum das für Krankenhäuser zum Risiko wird.",
+          "published": "2026-05-23T10:19:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "KI-Regulierung in den USA: Trump stoppt Erlass zur Regulierung von KI",
+          "link": "https://www.golem.de/news/ki-regulierung-in-den-usa-trump-stoppt-erlass-zur-regulierung-von-ki-2605-208956.html",
+          "summary": "Donald Trump hat die Unterzeichnung einer KI-Verordnung kurzfristig abgesagt. Tech-Führungskräfte warnten vor Innovationsbremsen. ( Donald Trump , KI )",
+          "published": "2026-05-22T09:17:07+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Google appeals search monopoly ruling, says it won business &#8216;fair and square’",
+          "link": "https://www.theverge.com/policy/936175/google-search-monopoly-ruling-appeal",
+          "summary": "Google officially filed its appeal of the federal ruling deeming it an illegal search monopolist, arguing the decision \"crashed\" through legal guardrails. \"Google just prevailed in the marketplace fair and square,\" it writes in its legal filing. Google had already said it would appeal the ruling, which includes both the August 2024 decision about its [&#8230;]",
+          "published": "2026-05-22T12:28:56-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "In dieser Woche standen technologische Regulierung und Innovation im Fokus, sowohl in den USA als auch in Europa. Während Donald Trump eine KI-Regulierung stoppte, warnen Krankenhaus-IT-Leiter in Deutschland vor finanziellen Engpässen bei Digitalprojekten. Gleichzeitig zeigt Google Entschlossenheit, gegen eine als monopolistisch eingestufte Entscheidung vorzugehen. Diese Entwicklungen verdeutlichen den Spannungsbogen zwischen Regulierung und technologischer Weiterentwicklung.",
+      "highlights": [
+        "Trump stoppt kurzfristig die Unterzeichnung einer KI-Verordnung.",
+        "Krankenhäuser in Deutschland kämpfen mit Geldmangel für Digitalprojekte.",
+        "Google reicht Berufung gegen das Urteil zur Suchmaschinenmonopolstellung ein.",
+        "Discord automatisiert Datenbankoperationen zur Effizienzsteigerung.",
+        "Uber verbessert Restaurantempfehlungen durch Echtzeit-Datenanalyse."
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "How Platform Engineering Using Golden Bricks Can Enable Fast and Smooth Delivery",
+          "link": "https://www.infoq.com/news/2026/05/platform-golden-bricks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Platform engineering should have a product focus, as developers are customers; they must provide composable, self-service capabilities, golden bricks rather than rigid golden paths, so teams can move quickly while maintaining consistency. Success is measured through adoption, developer experience, and business outcomes such as deployment frequency and change failure rate. By Ben Linders",
+          "published": "Thu, 21 May 2026 11:35:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11301862.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Nuitka, Compose Multiplatform, Twig, IntelliJ, Google, Apache, VS Code, Barman und Crossplane.",
+          "published": "2026-05-23T09:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11301862.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Nuitka, Compose Multiplatform, Twig, IntelliJ, Google, Apache, VS Code, Barman und Crossplane.",
+          "published": "2026-05-23T07:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In dieser Woche stand das Thema Platform Engineering im Fokus, insbesondere die Bedeutung von 'Golden Bricks' für eine flexible und effiziente Entwicklung. Der Ansatz fördert die Selbstbedienung und Modularität, was die Entwicklererfahrung verbessert und die Geschäftsziele unterstützt. Zudem wurden in den Nachrichten kleinere Updates zu verschiedenen Tools und Technologien präsentiert, die für Entwickler von Interesse sind.",
+      "highlights": [
+        "Platform Engineering sollte einen Produktfokus haben, um die Entwickler als Kunden zu betrachten.",
+        "Erfolgskennzahlen umfassen die Nutzung, Entwicklererfahrung und Geschäftsergebnisse wie Bereitstellungshäufigkeit.",
+        "Golden Bricks ermöglichen eine schnellere Anpassung ohne starre Vorgaben.",
+        "Kleinere News umfassen Updates zu Nuitka, Compose Multiplatform und VS Code."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "After becoming cloud computing’s telemetry standard, OpenTelemetry graduates into the AI infrastructure era",
+          "link": "https://thenewstack.io/opentelemetry-hits-general-availability/",
+          "summary": "The Cloud Native Computing Foundation (CNCF) on Thursday announced the graduation of OpenTelemetry, the open source observability framework that has The post After becoming cloud computing’s telemetry standard, OpenTelemetry graduates into the AI infrastructure era appeared first on The New Stack .",
+          "published": "Thu, 21 May 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "In dieser Woche wurde OpenTelemetry von der Cloud Native Computing Foundation (CNCF) offiziell als ausgereift anerkannt, was einen bedeutenden Schritt für die Standardisierung von Telemetrie im Cloud-Computing darstellt. Die Integration von OpenTelemetry in die AI-Infrastruktur zeigt, wie wichtig Observability für moderne Anwendungen geworden ist. Diese Entwicklung unterstreicht den Trend, dass Unternehmen zunehmend auf transparente und effiziente Monitoring-Lösungen setzen, um die Leistung ihrer Systeme zu optimieren und Probleme frühzeitig zu identifizieren.",
+      "highlights": [
+        "OpenTelemetry wird als Standard für Telemetrie im Cloud-Computing anerkannt.",
+        "Die CNCF hat die Graduierung von OpenTelemetry bekannt gegeben.",
+        "Integration von OpenTelemetry in die AI-Infrastruktur wird vorangetrieben.",
+        "Steigende Nachfrage nach effizienten Monitoring-Lösungen in Unternehmen.",
+        "OpenTelemetry unterstützt die Optimierung der Systemleistung und frühzeitige Problemerkennung."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Android und iPhone: Mit diesen Funktionen unterbindest du nervige Spam-Anrufe",
+          "link": "https://t3n.de/news/android-iphone-funktionen-spam-anrufe-1742349/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Spam-Anrufe können nicht nur nervig sein. Fällst du auf den Anruf herein, kann er dich auch viel Geld kosten. Damit du gar nicht erst den Anruf annehmen musst, um zu wissen, dass es sich um Spam handelt, gibt es mehrere Methoden. weiterlesen auf t3n.de",
+          "published": "Sat, 23 May 2026 08:50:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Öffentlichkeitsfahndungen: Wanted Dead or Alive",
+          "link": "https://netzpolitik.org/2026/oeffentlichkeitsfahndungen-wanted-dead-or-alive/",
+          "summary": "Wann darf die Polizei mit einem Foto an die Öffentlichkeit gehen? (Symbolbild) – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Alyona Grishina Eigentlich gibt es hohe Hürden dafür, wenn die Polizei mit einem Foto öffentlich nach Tatverdächtigen fahnden will. Doch zum einen setzen manche Öffentlichkeitsfahndungen auch für kleine Delikte ein, zum anderen stammen die Regeln dafür aus einer Zeit vor großen sozialen Medien. Athena Möller kritisiert im Grundrechte-Report 2026, dass sich trotz guter Vorschläge daran nichts ändert",
+          "published": "Sat, 23 May 2026 06:22:03 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Raus aus der US-Cloud: So sicherst du deine Daten ein Leben lang in Europa",
+          "link": "https://t3n.de/news/raus-der-us-cloud-so-sicherst-du-deine-daten-ein-leben-lang-in-europa-1740168/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Verwaltung digitaler Familienarchive scheitert oft an monatlichen Kosten oder mangelnder Privatsphäre. Ein Wechsel zu Lifetime-Plänen sichert langfristig Datensouveränität und schont das Budget – zum pCloud Family Day mit bis zu minus 65 Prozent. weiterlesen auf t3n.de",
+          "published": "Sat, 23 May 2026 08:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Hippocampus bleibt wach: Was dein Gehirn unter Vollnarkose wirklich mitbekommt",
+          "link": "https://t3n.de/news/hippocampus-vollnarkose-gehirn-sprachverarbeitung-1743054/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Neue Forschungsergebnisse zeigen, dass Menschen auch unter Vollnarkose Wörter voneinander unterscheiden können. Wird der alte Traum vom Lernen im Schlaf doch noch wahr? weiterlesen auf t3n.de",
+          "published": "Sat, 23 May 2026 06:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Apple-Laptop unter 600 Euro: Das Macbook Neo ist beliebt – und wird trotzdem günstiger",
+          "link": "https://t3n.de/news/apples-macbook-neo-guenstig-beliebt-1743878/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit dem Macbook Neo ist Apple ein Hit gelungen. Der günstige Laptop ist sogar so beliebt, dass zwischenzeitlich von einer Knappheit die Rede war. Tatsächlich ist das Gerät mittlerweile mancherorts mehr als 100 Euro unter der UVP erhältlich. weiterlesen auf t3n.de",
+          "published": "Fri, 22 May 2026 16:00:06 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Krebs, Psychotherapie, Antibiotika: Wie KI Diagnose und Behandlung vorantreibt",
+          "link": "https://t3n.de/news/krebs-psychotherapie-antibiotika-wie-ki-diagnose-und-behandlung-vorantreibt-1743818/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Früher war es Dr. Google, heute heißt es immer öfter Dr. KI. An welchen Ansatzpunkten die Algorithmen tatsächlich hilfreich sein können, zeigt die neue Ausgabe von MIT Technology Review. weiterlesen auf t3n.de",
+          "published": "Fri, 22 May 2026 15:00:48 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "JFrog report recaps a tumultuous year in supply chain security",
+          "link": "https://thenewstack.io/jfrog-ai-supply-chain-security/",
+          "summary": "Calendar year 2025 not only broke records for code package proliferation; it also redefined the foundational architecture of the software The post JFrog report recaps a tumultuous year in supply chain security appeared first on The New Stack .",
+          "published": "Fri, 22 May 2026 12:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Mega-IPO von SpaceX: So können Anleger schon vorab investieren",
+          "link": "https://t3n.de/news/mega-ipo-von-spacex-so-koennen-anleger-schon-vorab-investieren-eltif-1743763/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der geplante SpaceX-Börsengang könnte alle Rekorde brechen. Wer nicht bis zum IPO warten will, kann jetzt schon indirekt in das Unternehmen investieren &#8211; mit allen Chancen und Risiken. weiterlesen auf t3n.de",
+          "published": "Fri, 22 May 2026 13:00:47 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "In der vergangenen Woche standen Themen rund um die Software Supply Chain und deren Sicherheit im Fokus. Der JFrog-Bericht beleuchtet die Herausforderungen und Veränderungen im Bereich der Code-Paket-Proliferation und deren Auswirkungen auf die Software-Architektur. Die Diskussion über Datensicherheit und Souveränität, insbesondere im Kontext von Cloud-Diensten, gewinnt ebenfalls an Bedeutung. Die Notwendigkeit, Sicherheitsmaßnahmen in der Softwareentwicklung zu verstärken, wird zunehmend erkannt.",
+      "highlights": [
+        "JFrog-Bericht dokumentiert Rekordjahr in der Code-Paket-Proliferation.",
+        "Veränderungen in der Software-Architektur durch Sicherheitsherausforderungen.",
+        "Wachsende Bedeutung von Datensouveränität in der Cloud-Nutzung.",
+        "Öffentliche Diskussion über Sicherheitsmaßnahmen in der Software Supply Chain."
+      ]
+    }
+  ]
+}
