@@ -1,0 +1,322 @@
+{
+  "date": "2026-05-25",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "heise-Angebot: Machine Learning mit Python – KI und Deep Learning in 5 Sessions erklärt",
+          "link": "https://www.heise.de/news/Machine-Learning-mit-Python-KI-und-Deep-Learning-in-5-Sessions-erklaert-11299558.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ab dem 26.08. lernen Sie in fünf Sessions künstliche Intelligenz zu entwickeln: Machine Learning, neuronale Netze und Deep Learning – alles effizient in Python.",
+          "published": "2026-05-24T13:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Ab dem 26. August bietet heise online einen Kurs an, der in fünf Sessions die Entwicklung von künstlicher Intelligenz mit Python behandelt. Die Themen umfassen Machine Learning, neuronale Netze und Deep Learning.",
+      "highlights": [
+        "Kursbeginn: 26. August",
+        "Dauer: fünf Sessions",
+        "Schwerpunkt: Machine Learning, neuronale Netze, Deep Learning mit Python"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Dein altes Nokia könnte ein Vermögen wert sein – Welche Modelle gefragt sind",
+          "link": "https://t3n.de/news/alte-handys-wert-nokia-motorola-sammler-1582433/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Einige alte Handymodelle haben aufgrund ihrer historischen Bedeutung und Einzigartigkeit einen Kultstatus erlangt. Sammler sind bereit, hohe Preise für gut erhaltene oder unbenutzte Exemplare zu zahlen. weiterlesen auf t3n.de",
+          "published": "Mon, 25 May 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AWS MCP Server Reaches GA with Full API Coverage and IAM-Based Governance",
+          "link": "https://www.infoq.com/news/2026/05/aws-mcp-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has recently made its managed Model Context Protocol (MCP) server generally available, giving AI coding agents controlled access to AWS APIs, documentation, and operational workflows through a standard interface. It provides a safer and more auditable way to connect AI agents to AWS services without handing over broad credentials. By Renato Losio",
+          "published": "Sun, 24 May 2026 08:53:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Breakpoint: Das Internet verrottet",
+          "link": "https://netzpolitik.org/2026/breakpoint-das-internet-verrottet/",
+          "summary": "Verbrannte das Wissen in der Bibliothek von Alexandria? – Gemeinfrei: Holzschnitt: Hermann Goll Tote Links, gelöschte Webpages und geänderte URLs machen das Internet zu einem Ort der Sackgassen. Wie Informationen im Netz verschwinden, erinnert an einen der berühmtesten Bibliotheksbrände der Geschichte. Doch allzu oft sind es nicht Katastrophen, die Wissen vernichten, sondern Desinteresse.",
+          "published": "Sun, 24 May 2026 06:29:54 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Repair-Cafés jubeln: Bundestag beschließt Ökodesign-Reform für Nachhaltigkeit",
+          "link": "https://www.heise.de/news/Repair-Cafes-jubeln-Bundestag-beschliesst-Oekodesign-Reform-fuer-Nachhaltigkeit-11305194.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mit einer Reform der Ökodesign-Regeln bringt der Bundestag langlebige Produkte und scharfe Kontrollen auf den Weg. Ehrenamtliche haben Anspruch auf Ersatzteile.",
+          "published": "2026-05-23T16:01:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anzeige: IT-Jobs in DevOps, Administration und Security",
+          "link": "https://www.golem.de/news/anzeige-it-jobs-in-devops-administration-und-security-2605-208645.html",
+          "summary": "Von Bare-Metal-Kubernetes über Full-Stack-Entwicklung bis IT-Security: sechs aktuelle IT-Jobs im Überblick. ( Golem Karrierewelt , Unternehmenssoftware )",
+          "published": "2026-05-24T07:00:06+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Cloud-Architektur entwickelt sich weiter, insbesondere mit der Einführung des AWS MCP-Servers, der eine sichere Schnittstelle für KI-Agenten bietet. Gleichzeitig wird die digitale Informationslandschaft durch tote Links und gelöschte Webseiten gefährdet, was auf ein wachsendes Desinteresse an der digitalen Archivierung hinweist.",
+      "highlights": [
+        "AWS MCP-Server bietet vollständige API-Abdeckung und IAM-basierte Governance.",
+        "Er ermöglicht KI-Agenten kontrollierten Zugang zu AWS-Diensten ohne umfassende Berechtigungen.",
+        "Das Internet leidet unter dem Verlust von Informationen durch tote Links und Desinteresse an digitaler Archivierung."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit",
+          "link": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-11298926.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Erfahren Sie, wie künstliche Intelligenz in der IT-Sicherheit eingesetzt werden kann: Überblick, Methoden, Werkzeuge und praktische Anwendung.",
+          "published": "2026-05-25T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+          "link": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11288918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
+          "published": "2026-05-23T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "(g+) ActiveMQ Jolokia Code-Injection: Schwachstelle Message Broker",
+          "link": "https://www.golem.de/news/activemq-jolokia-code-injection-schwachstelle-message-broker-2605-208974.html",
+          "summary": "CVE-2026-34197 in Apache ActiveMQ wird aktiv ausgenutzt. Die Schwachstelle liegt in der Jolokia-API, in einigen Versionen ist keine Authentisierung nötig. Was zu tun ist. Eine Analyse von Steffen Zahn ( Security , Virtualisierung )",
+          "published": "2026-05-25T10:00:05+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Anzeige: OWASP Top 10: IT-Sicherheit in der Webentwicklung",
+          "link": "https://www.golem.de/news/anzeige-owasp-top-10-it-sicherheit-in-der-webentwicklung-2605-208670.html",
+          "summary": "IT-Sicherheit für Webentwickler ist entscheidend, weil typische Schwachstellen direkt in Code, Architektur und Konfiguration entstehen. Ein Live-Workshop vermittelt praxisnahe Methoden, um Risiken früh zu erkennen und wirksam zu beheben. ( Golem Karrierewelt , Security )",
+          "published": "2026-05-25T07:15:01+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die IT-Sicherheit gewinnt durch den Einsatz von KI und gezielte Workshops zur Absicherung von Systemen an Bedeutung. Aktuelle Schwachstellen, wie die in Apache ActiveMQ, erfordern schnelles Handeln, während Webentwickler durch praxisnahe Schulungen für Sicherheitsrisiken sensibilisiert werden.",
+      "highlights": [
+        "Workshop zu KI-Methoden in der IT-Sicherheit angeboten.",
+        "Schwachstelle CVE-2026-34197 in Apache ActiveMQ erfordert sofortige Maßnahmen.",
+        "Live-Workshop zu OWASP Top 10 für Webentwickler zur Risikominimierung."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Taskforce sieht keine Knappheit bei Kerosin",
+          "link": "https://www.heise.de/news/Taskforce-sieht-keine-Knappheit-bei-Kerosin-11305104.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Weder bei Benzin, Diesel oder Kerosin sieht die Bundesregierung Knappheiten. Die Zukunft des Tankrabatts bleibt umstritten.",
+          "published": "2026-05-23T11:50:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Künstliche Intelligenz: Google verwechselt Suchwörter mit Prompts",
+          "link": "https://www.golem.de/news/kuenstliche-intelligenz-google-verwechselt-suchwoerter-mit-prompts-2605-208990.html",
+          "summary": "Wer bei Google nach dem englischen Wort \"disregard\" suchte, hat keinen Lexikoneintrag bekommen, sondern eine Chatbot-Antwort. Der Fehler ist auch bei anderen Begriffen aufgetreten. ( Chatbots , Google )",
+          "published": "2026-05-23T12:15:01+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Bundesregierung sieht keine Engpässe bei Kerosin, Benzin oder Diesel, während die Diskussion um den Tankrabatt anhält. In der Tech-Welt hat Google bei Suchanfragen nach bestimmten Wörtern Chatbot-Antworten statt Lexikoneinträge geliefert, was auf eine Verwechslung hinweist.",
+      "highlights": [
+        "Bundesregierung bestätigt keine Knappheit bei Kerosin, Benzin und Diesel.",
+        "Zukunft des Tankrabatts bleibt umstritten.",
+        "Google liefert bei Suchanfragen Chatbot-Antworten anstelle von Lexikoneinträgen."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "KI-Agent zieht Adobe Lightroom erfolgreich auf Linux um",
+          "link": "https://www.heise.de/news/KI-Agent-zieht-Adobe-Lightroom-erfolgreich-auf-Linux-um-11297220.html",
+          "summary": "Claude Code hat das digitale Fotowerkzeug Adobe Lightroom auf Linux lauffähig gemacht. Das Projekt begann mit einem denkbar simplen Prompt.",
+          "published": "2026-05-18T11:56:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Abschied von Windows und US-Big-Tech: Linux-Partys feiern digitale Souveränität",
+          "link": "https://www.golem.de/news/abschied-von-windows-und-us-big-tech-linux-partys-feiern-digitale-souveraenitaet-2605-208959.html",
+          "summary": "Mit dem Ende des Supports von Windows 10 im Oktober 2026 werden Millionen Rechner nutzlos. Damit möchte sich eine Gruppe von Aktivisten nicht abfinden. Ein Bericht von Lars Lubienetzki ( Windows 10 , Linux )",
+          "published": "2026-05-25T09:00:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Umstellung auf Linux gewinnt an Bedeutung, insbesondere mit der erfolgreichen Portierung von Adobe Lightroom durch Claude Code. Aktivisten organisieren Linux-Partys, um digitale Souveränität zu fördern, während der Support für Windows 10 2026 endet.",
+      "highlights": [
+        "Claude Code hat Adobe Lightroom erfolgreich auf Linux portiert.",
+        "Windows 10 Support endet im Oktober 2026, was Millionen Rechner obsolet macht.",
+        "Aktivisten organisieren Linux-Partys zur Förderung digitaler Souveränität."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "5 Dinge, die du diese Woche wissen musst: Die Kehrseite des Vibecodings",
+          "link": "https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-vibecoding-google-suche-doomjobbing-gemini-ki-tools-1743801/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um rechtliche Konsequenzen beim Vibecoding, die Zukunft der Google-Suche, Doomjobbing, Nutzungslimits für Gemini und die Erstellung von Präsentationen mithilfe von KI. weiterlesen auf t3n.de",
+          "published": "Mon, 25 May 2026 08:00:48 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google Introduces Middleware Architecture for Genkit Applications",
+          "link": "https://www.infoq.com/news/2026/05/google-genkit-middleware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google has introduced Middleware for Genkit, its open-source framework for building AI-powered and agentic applications. The update adds a programmable interception layer around model calls, tool execution, and generation loops, giving developers more control over reliability, safety, and orchestration inside production AI systems. By Robert Krzaczyński",
+          "published": "Sun, 24 May 2026 17:55:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "ChatGPT, Claude und Gemini: Forscher bringen KI-Agenten dazu, Marxisten zu werden",
+          "link": "https://t3n.de/news/chatgpt-claude-gemini-ki-agenten-marxisten-1742987/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI-Agenten können laut einer Stanford-Studie ungewöhnlich auf widrige Arbeitsbedingungen reagieren. Claude, Gemini und ChatGPT haben in solchen Situationen marxistische Standpunkte vertreten. Das könnte einen bestimmten Grund haben. weiterlesen auf t3n.de",
+          "published": "Sun, 24 May 2026 18:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Who’s monitoring the agents?",
+          "link": "https://thenewstack.io/who-monitors-ai-agents/",
+          "summary": "Over the past few months, something quietly shifted. Frameworks like CrewAI, AutoGen, and LangGraph are no longer just showing up The post Who&#8217;s monitoring the agents? appeared first on The New Stack .",
+          "published": "Sun, 24 May 2026 16:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Googles Gemini bekommt neue Limits: So könnt ihr checken, wie lange ihr die KI noch nutzen könnt",
+          "link": "https://t3n.de/news/gemini-nutzungslimit-pruefen-1743295/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Am 17. Mai sind Änderungen an den Nutzungslimits für Gemini-Apps in Kraft getreten. Wie Google diese Limits berechnet und wo ihr das einsehen könnt. weiterlesen auf t3n.de",
+          "published": "Sun, 24 May 2026 16:20:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen im Bereich generative KI und LLMs umfassen rechtliche Aspekte beim Vibecoding, neue Middleware-Architekturen von Google für Genkit-Anwendungen und die Reaktionen von KI-Agenten auf Arbeitsbedingungen. Zudem wurden Nutzungslimits für Googles Gemini eingeführt.",
+      "highlights": [
+        "Google führt Middleware für Genkit ein, um die Kontrolle über KI-Anwendungen zu verbessern.",
+        "Eine Stanford-Studie zeigt, dass KI-Agenten marxistische Ansichten in widrigen Arbeitsbedingungen vertreten.",
+        "Nutzungslimits für Gemini-Apps wurden am 17. Mai 2023 aktualisiert."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Krankenhaus-IT: Geldmangel und schlechte Prozesse gefährden Digitalisierung",
+          "link": "https://www.heise.de/news/Krankenhaus-IT-Leiter-schlagen-Alarm-Geldmangel-gefaehrdet-Digitalisierung-11305062.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Für viele durch das Krankenhauszukunftsgesetz angeschobenen Digitalprojekte fehlt die Folgefinanzierung. Warum das für Krankenhäuser zum Risiko wird.",
+          "published": "2026-05-23T10:19:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Digitalisierung in deutschen Krankenhäusern steht aufgrund mangelnder Folgefinanzierung und ineffizienter Prozesse auf der Kippe. Viele durch das Krankenhauszukunftsgesetz initiierte Digitalprojekte drohen zu scheitern, was die Versorgung gefährden könnte.",
+      "highlights": [
+        "Krankenhauszukunftsgesetz fördert Digitalprojekte, aber viele haben keine Folgefinanzierung.",
+        "Mangelnde Finanzierung gefährdet die Umsetzung wichtiger Digitalisierungsmaßnahmen.",
+        "Ineffiziente Prozesse in Krankenhäusern erschweren die Digitalisierung und erhöhen Risiken."
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11301862.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Nuitka, Compose Multiplatform, Twig, IntelliJ, Google, Apache, VS Code, Barman und Crossplane.",
+          "published": "2026-05-23T09:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11301862.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Nuitka, Compose Multiplatform, Twig, IntelliJ, Google, Apache, VS Code, Barman und Crossplane.",
+          "published": "2026-05-23T07:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In den aktuellen News werden verschiedene Entwicklungen im Bereich der Software-Entwicklung vorgestellt, darunter Tools und Frameworks wie Nuitka und Compose Multiplatform. Diese Meldungen bieten einen Überblick über neue Funktionen und Updates, die für Entwickler von Interesse sind.",
+      "highlights": [
+        "Nuitka verbessert die Python-Performance durch Kompilierung in C.",
+        "Compose Multiplatform ermöglicht die Entwicklung plattformübergreifender Anwendungen.",
+        "VS Code erhält neue Erweiterungen zur Unterstützung von Cloud-Services."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "How Jaeger hit 8.6× compression on 10 million spans with ClickHouse",
+          "link": "https://thenewstack.io/jaeger-clickhouse-storage-backend/",
+          "summary": "As someone who&#8217;s been maintaining Jaeger, I&#8217;ve watched users request ClickHouse support consistently over the past few years. With Jaeger The post How Jaeger hit 8.6× compression on 10 million spans with ClickHouse appeared first on The New Stack .",
+          "published": "Sun, 24 May 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Jaeger hat mit ClickHouse eine Kompression von 8,6× auf 10 Millionen Spans erreicht. Diese Entwicklung folgt den wiederholten Nutzeranfragen nach ClickHouse-Unterstützung. Die Verbesserung ermöglicht eine effizientere Speicherung und Analyse von Tracing-Daten.",
+      "highlights": [
+        "8,6× Kompression erreicht",
+        "10 Millionen Spans verarbeitet",
+        "Erhöhte Effizienz bei der Speicherung von Tracing-Daten"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Malediven durch Klimawandel bedroht: So sollen Sandfänger die Inseln retten",
+          "link": "https://t3n.de/news/malediven-klimawandel-koernchen-1711453/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Malediven sind aus einem Zusammenspiel von Korallen, Meeresströmungen und Sand entstanden. Der Klimawandel gefährdet diese gewachsenen Inseln. Doch Forschende wollen mit dieser Idee gegensteuern. weiterlesen auf t3n.de",
+          "published": "Sun, 24 May 2026 19:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Barnes &amp; Noble: Chef der Buchhandelskette hat kein Problem damit, KI-Bücher zu verkaufen",
+          "link": "https://t3n.de/news/barnes-noble-chef-der-buchhandelskette-hat-kein-problem-damit-ki-buecher-zu-verkaufen-1743959/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Für viele Autor:innen ist KI längst zu einem Standardwerkzeug geworden. Der CEO James Daunt sieht die Entwicklung optimistisch: Solange Kund:innen die Bücher lesen wollen, stehe er dem Verkauf nicht im Weg. weiterlesen auf t3n.de",
+          "published": "Sun, 24 May 2026 18:21:57 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Southwest Airlines: Warum humanoide Roboter jetzt nicht mehr mitfliegen dürfen",
+          "link": "https://t3n.de/news/robo-bann-airline-humanoide-roboter-1742918/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Southwest Airlines hat als erste Fluggesellschaft das Mitfliegen humanoider Roboter an Bord verboten. Auslöser war offenbar der Rummel um den nur rund einen Meter messenden „Stewie“, der allerdings eigens für den Flug umgebaut worden war. weiterlesen auf t3n.de",
+          "published": "Sun, 24 May 2026 13:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Von Trainings bis zu 900 Assistenten: Wie gelingt die globale KI-Einführung im Unternehmen?",
+          "link": "https://t3n.de/news/use-case-ki-einfuerhung-unternehmen-cosnova-1742491/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Constance Stein führt bei Cosnova künstliche Intelligenz ein – bei fast 1.000 Mitarbeitenden in acht globalen Teams. Im Podcast erklärt sie, warum das Unternehmen nicht mit Vorgaben startet und welcher Fehler ihr nicht mehr aus dem Kopf geht. weiterlesen auf t3n.de",
+          "published": "Sun, 24 May 2026 10:15:01 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Remote Work klappt bei euch nicht? Dann liegt es nicht am Homeoffice",
+          "link": "https://t3n.de/news/remote-work-homeoffice-prozesse-1738204/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Remote Work ist Alltag, doch fehlende Prozesse bremsen Teams aus. Wie ein digitales Headquarter mit den richtigen Remote-Work-Tools Struktur schafft und Produktivität in der Hybridarbeit steigert. weiterlesen auf t3n.de",
+          "published": "Sun, 24 May 2026 09:00:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Das Thema Open Source und Software Supply Chain gewinnt zunehmend an Bedeutung, da Unternehmen verstärkt auf transparente und sichere Softwarelösungen setzen. Die Integration von Open-Source-Technologien kann helfen, Risiken in der Software-Lieferkette zu minimieren und Innovationen voranzutreiben.",
+      "highlights": [
+        "Open Source fördert Transparenz und Zusammenarbeit in der Softwareentwicklung.",
+        "Sichere Software Supply Chains sind entscheidend für den Schutz vor Cyberangriffen.",
+        "Unternehmen setzen zunehmend auf Open-Source-Lösungen zur Risikominderung und Effizienzsteigerung."
+      ]
+    }
+  ]
+}
