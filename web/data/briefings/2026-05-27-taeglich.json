@@ -1,0 +1,329 @@
+{
+  "date": "2026-05-27",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Für 250 Millionen Euro: Bund schafft neue Abhängigkeiten von IT-Konzernen",
+          "link": "https://netzpolitik.org/2026/fuer-250-millionen-euro-bund-schafft-neue-abhaengigkeiten-von-it-konzernen/",
+          "summary": "– Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Für eine dreistellige Millionensumme sollen SAP und Telekom eine „KI-Cloud“ für die öffentliche Verwaltung bauen. Digitalminister Karsten Wildberger nennt das souverän. Unabhängig wird Deutschlands Verwaltung damit nicht, warnen Opposition und Fachleute.",
+          "published": "Wed, 27 May 2026 06:59:53 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Platform Engineering Labs Expands formae with Kubernetes Support, Native Helm Integration",
+          "link": "https://www.infoq.com/news/2026/05/formae-k8s-helm-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Platform Engineering Labs has announced a major update to its open-source Infrastructure-as-Code platform, formae, introducing full Kubernetes support, native Helm integration, direct .tfvars compatibility, and a new public plugin hub aimed at simplifying cloud-native infrastructure management By Craig Risi",
+          "published": "Tue, 26 May 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Article: Architecting Cloud-Native Kafka: From Tiered Storage Towards a Diskless Future",
+          "link": "https://www.infoq.com/articles/architecting-cloud-native-kafka/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This article explores Kafka's transition toward a cloud-native architecture, examining how tiered storage, FinOps telemetry, elastic consumer scaling, virtual clusters, and Share Groups reshape the operational and economic model of event streaming platforms. It also analyzes emerging diskless-storage proposals and their architectural trade-offs. By Viquar Khan",
+          "published": "Tue, 26 May 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Google Expands SynthID Adoption for AI Watermarking, Previews Content Detection API",
+          "link": "https://www.infoq.com/news/2026/05/google-synthid-content-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google's SynthID, designed to embed imperceptible signals into AI-generated content, is adding a new Content Detection API on Google Cloud's Gemini Enterprise Agent Platform, after gaining adoption by several industry players including Nvidia and OpenAI. By Sergio De Simone",
+          "published": "Tue, 26 May 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
+          "link": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-11306582.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie anhand praktischer Beispiele, wie Sie Ihre Kubernetes-Umgebung durch effektive Methoden und Werkzeuge vor Angriffen schützen.",
+          "published": "2026-05-27T10:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Cloud-Architektur und Plattformen entwickeln sich rasant weiter, wobei neue Lösungen und Sicherheitsmaßnahmen im Fokus stehen. Während der Bund eine KI-Cloud mit SAP und Telekom plant, erweitern Unternehmen wie Google und Platform Engineering Labs ihre Angebote zur Unterstützung cloud-nativer Technologien.",
+      "highlights": [
+        "Bund investiert 250 Millionen Euro in KI-Cloud mit SAP und Telekom.",
+        "Platform Engineering Labs integriert Kubernetes und Helm in die open-source Plattform formae.",
+        "Google führt Content Detection API für AI-Wasserzeichen auf der Gemini Enterprise Agent Plattform ein."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "TamboUI Promises to Bring Better Capabilities to Build TUIs in Java",
+          "link": "https://www.infoq.com/news/2026/05/tamboui-java-tui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The call to action “to make 2026 the year of Java in the terminal” was quickly responded to by the launch of TamboUI. Inspired by Ratatui, the library used in Claude CLI, it promises support ranging from low-level terminal drawing to high-level APIs such as components and event handling. Currently at version 0.3.0, it has already been adopted by major projects such as Maven and Spring. By Olimpiu Pop",
+          "published": "Tue, 26 May 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "C-Libraries in Java nutzen 3: Komplexe Anwendung, Fallstricke und Best Practices",
+          "link": "https://www.heise.de/hintergrund/C-Libraries-in-Java-nutzen-3-Komplexe-Anwendung-Fallstricke-und-Best-Practices-11301610.html",
+          "summary": "Die FFM-API macht den Zugriff auf C-Libraries komfortabel, bringt aber auch Herausforderungen. Helferfunktionen und Best Practices machen sie beherrschbar.",
+          "published": "2026-05-26T07:30:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die neue Bibliothek TamboUI ermöglicht die Entwicklung von Terminalbenutzeroberflächen in Java und hat bereits Unterstützung von Projekten wie Maven und Spring erhalten. Gleichzeitig behandelt die FFM-API den Zugriff auf C-Libraries in Java und bietet Best Practices zur Bewältigung der damit verbundenen Herausforderungen.",
+      "highlights": [
+        "TamboUI ist inspiriert von Ratatui und unterstützt sowohl niedrige als auch hohe API-Ebenen.",
+        "Aktuelle Version von TamboUI ist 0.3.0 und wird bereits von großen Projekten genutzt.",
+        "Die FFM-API erleichtert den Zugriff auf C-Libraries, bringt jedoch spezifische Herausforderungen mit sich."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Presentation: Realtime and Batch Processing of GPU Workloads",
+          "link": "https://www.infoq.com/presentations/realtime-gpu-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Joseph Stein discusses engineering an enterprise AI-as-a-Service platform within a private cloud data center. He explains how to maximize underutilized GPU pools via multi-namespace scheduling, leverage Valkey and Lua for atomic priority queuing and backpressure management, mitigate OWASP Top 10 LLM risks via central proxy gateways, and scale batch pipelines using a custom S3-to-Kafka proxy. By Joseph Stein",
+          "published": "Tue, 26 May 2026 09:08:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "„Passwort“ Folge 58: News mit Failzwiebel, Lösegeld und rostigen Coreutils",
+          "link": "https://www.heise.de/news/Passwort-Folge-58-News-mit-Failzwiebel-Loesegeld-und-rostigen-Coreutils-11307108.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Vielschichtiges Sicherheitsversagen bei einer CA analysieren die Hosts ebenso wie den Wechsel der Linux-Coreutils auf Rust. Und es gibt Neues zu Ransomware.",
+          "published": "2026-05-27T09:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "LiteSpeed cPanel-Plugin: Angriffe auf Schwachstelle beobachtet",
+          "link": "https://www.heise.de/news/LiteSpeed-cPanel-Plugin-Angriffe-auf-Schwachstelle-beobachtet-11307435.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "LiteSpeed stellt für diverse CMS Plugins her. Das für cPanel weist eine Sicherheitslücke auf, die Angreifer bereits ausnutzen.",
+          "published": "2026-05-27T08:45:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "IBM QRadar SIEM: Schwachstellen in Komponenten von Drittanbietern geschlossen",
+          "link": "https://www.heise.de/news/IBM-QRadar-SIEM-Schwachstellen-in-Komponenten-von-Drittanbietern-geschlossen-11306682.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Unter anderem nun geschlossene Sicherheitslücken im Linux-Kernel gefährden IBM QRadar SIEM.",
+          "published": "2026-05-26T16:24:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "One Tech Company: Siemens will Führungskräften den C-Level-Titel streichen",
+          "link": "https://www.golem.de/news/one-tech-company-siemens-will-fuehrungskraeften-den-c-level-titel-streichen-2605-209044.html",
+          "summary": "Im Siemens-Konzern gibt es Hunderte CEOs und CFOs von Sparten oder Landesorganisationen. Das One-Tech-Company-Programm soll Strukturen aufbrechen. ( Siemens , KI )",
+          "published": "2026-05-26T15:40:06+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der IT-Sicherheit zeigen sowohl Fortschritte als auch Herausforderungen. Während neue Technologien wie AI-as-a-Service und Sicherheitsupdates für bestehende Systeme implementiert werden, bleiben Schwachstellen und Angriffe auf Software weiterhin ein zentrales Problem.",
+      "highlights": [
+        "Joseph Stein erläutert in einer Präsentation, wie GPU-Pools effizient genutzt und OWASP Top 10 LLM Risiken gemindert werden können.",
+        "LiteSpeed warnt vor aktiven Angriffen auf eine Sicherheitslücke in ihrem cPanel-Plugin.",
+        "IBM hat kritische Schwachstellen in Drittanbieter-Komponenten, einschließlich des Linux-Kernels, in QRadar SIEM geschlossen."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Pullfrog AI: Open-Source CodeRabbit Alternative Powered by GitHub Actions",
+          "link": "https://www.infoq.com/news/2026/05/pullfrog-ai-github/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Pullfrog is an open-source AI-powered GitHub bot by Colin McDonnell, designed for automation in GitHub Actions. It supports a model-agnostic approach, allowing integration with various LLM providers. Key features include orchestration for pull request reviews, issue triage, and CI remediation, all managed within GitHub's environment. The tool operates with a bring-your-own-key model for access. By Daniel Curtis",
+          "published": "Wed, 27 May 2026 06:23:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "China weitet Ausreisebeschränkungen für KI-Talente aus",
+          "link": "https://www.heise.de/news/China-weitet-Ausreisebeschraenkungen-fuer-KI-Talente-aus-11305710.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Um KI-Fachkräfte im Land zu halten, weitet China bestehende Reiseauflagen auf Angestellte privater Firmen aus. Das könnte den gegenteiligen Effekt haben.",
+          "published": "2026-05-26T17:08:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Pullfrog AI ist ein Open-Source-GitHub-Bot, der Automatisierung in GitHub Actions ermöglicht und eine modellunabhängige Integration mit verschiedenen LLM-Anbietern unterstützt. China hat seine Ausreisebeschränkungen für KI-Talente ausgeweitet, um Fachkräfte im Land zu halten, was jedoch kontraproduktiv sein könnte.",
+      "highlights": [
+        "Pullfrog AI bietet Funktionen wie Pull-Request-Überprüfungen und CI-Remediation innerhalb von GitHub.",
+        "Das Tool verwendet ein Bring-your-own-key-Modell für den Zugriff auf KI-Modelle.",
+        "Chinas neue Reiseauflagen betreffen nun auch Angestellte privater Firmen, um KI-Talente zu binden."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Taming the agentic influx: a blueprint for AI business observability",
+          "link": "https://thenewstack.io/ai-spend-business-observability/",
+          "summary": "Kin Lane, API industry analyst and co-founder of Naftiko, believes that the bill for AI is coming soon. It&#8217;s arriving The post Taming the agentic influx: a blueprint for AI business observability appeared first on The New Stack .",
+          "published": "Tue, 26 May 2026 12:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Mittwoch: Starlink-Verteuerung für Drohnen, Spotify liest aus Zeitschriften vor",
+          "link": "https://www.heise.de/news/Mittwoch-Starlink-Verteuerung-fuer-Drohnen-Spotify-liest-aus-Zeitschriften-vor-11307335.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Aufschlag für Kamikazedrohnen + Zeitschriftenartikel bei Spotify + Verleger gegen Wayback Machine + Elektro-SUV BMW iX3 im Test + Luxus-Elektroauto von Ferrari",
+          "published": "2026-05-27T06:15:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die aktuellen Nachrichten thematisieren die Herausforderungen und Entwicklungen im Bereich KI und deren Auswirkungen auf Geschäftsprozesse sowie innovative Technologien wie Drohnen und Audioplattformen. Der Fokus liegt auf der Notwendigkeit von Beobachtungsstrategien für KI und neuen Funktionen in digitalen Medien.",
+      "highlights": [
+        "Kin Lane fordert eine bessere Beobachtbarkeit von KI-Geschäften.",
+        "Spotify führt eine Funktion ein, die Zeitschriftenartikel vorliest.",
+        "BMW iX3 und ein Luxus-Elektroauto von Ferrari werden getestet."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "„Nur Bargeld&quot; kostet dich Kunden – diese Zahlen zeigen, wie viele",
+          "link": "https://t3n.de/news/nur-bargeld-haendler-verlieren-kunden-1740218/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kartenzahlung wird für viele Kundinnen und Kunden zunehmend selbstverständlich. Für Händler stellt sich damit immer häufiger die Frage, wie relevant bargeldloses Bezahlen im eigenen Geschäft inzwischen ist. weiterlesen auf t3n.de",
+          "published": "Wed, 27 May 2026 09:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Vom Chat zum Kollegen: Wie du mit Claude Cowork den Sprung schaffst",
+          "link": "https://t3n.de/news/vom-chat-zum-kollegen-wie-du-mit-claude-cowork-den-sprung-schaffst-1744258/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "PDFs analysieren, Tabellen bauen, Präsentationen schreiben – Claude Cowork übernimmt Aufgaben, die sonst Stunden kosten. Mit unserem Onlinekurs integrierst du das Tool produktiv in deinen Arbeitsalltag. weiterlesen auf t3n.de",
+          "published": "Wed, 27 May 2026 08:15:49 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Abos bei ChatGPT, Claude und Gemini: Was du für Zugriff auf Codex, Cowork und Spark zahlen musst",
+          "link": "https://t3n.de/news/ki-abos-chatgpt-claude-gemini-zugriff-codex-cowork-spark-1744155/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Abostufen von KI-Tools sind mannigfaltig und können im ersten Moment überfordern. Wir zeigen dir, was du bei Tools wie ChatGPT, Gemini und Claude für dein Geld bekommst. So kannst du entscheiden, auf welche Funktionen du möglicherweise verzichten kannst, um etwas weniger für KI auszugeben. weiterlesen auf t3n.de",
+          "published": "Wed, 27 May 2026 07:30:14 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+          "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+          "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
+          "published": "Tue, 26 May 2026 19:50:33 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Kennt ChatGPT dein Unternehmen? Diese Tools zeigen, wie sichtbar deine Marke für KI ist",
+          "link": "https://t3n.de/news/kennt-chatgpt-dein-unternehmen-1733123/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Unternehmen müssen neue Wege gehen, um zu überprüfen, ob und wo sie in KI-Chats auftauchen. Spezialsoftware kann bei dieser Spurensuche helfen. weiterlesen auf t3n.de",
+          "published": "Tue, 26 May 2026 20:55:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Generative KI und LLMs gewinnen zunehmend an Bedeutung in verschiedenen Bereichen, von der Automatisierung von Arbeitsabläufen bis hin zur Analyse von Unternehmenssichtbarkeit in KI-gestützten Chats. Unternehmen müssen sich anpassen, um die Vorteile dieser Technologien optimal zu nutzen.",
+      "highlights": [
+        "Claude Cowork ermöglicht die Automatisierung zeitaufwändiger Aufgaben wie PDF-Analyse und Präsentationserstellung.",
+        "Die Abonnements für KI-Tools wie ChatGPT und Claude variieren stark und bieten unterschiedliche Funktionalitäten.",
+        "Spezialsoftware hilft Unternehmen, ihre Sichtbarkeit in KI-gestützten Chats zu überprüfen."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "American Airlines is getting Starlink Wi-Fi",
+          "link": "https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed",
+          "summary": "American Airlines is planning to install SpaceX's Starlink Wi-Fi in hundreds of its airplanes, the airline announced today. American says the deployment will start in the first quarter of 2027, and will span more than 500 aircraft, including its new A321XLR and A321neo planes from Airbus. Starlink will join Viastat and SES (previously known as [&#8230;]",
+          "published": "2026-05-26T12:07:39-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "American Airlines plant die Installation von SpaceX's Starlink-Wi-Fi in über 500 Flugzeugen, beginnend im ersten Quartal 2027. Dies umfasst die neuen Airbus-Modelle A321XLR und A321neo.",
+      "highlights": [
+        "Starlink wird in mehr als 500 Flugzeugen installiert.",
+        "Der Rollout beginnt im ersten Quartal 2027.",
+        "Betroffene Flugzeugmodelle sind A321XLR und A321neo von Airbus."
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11301862.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Nuitka, Compose Multiplatform, Twig, IntelliJ, Google, Apache, VS Code, Barman und Crossplane.",
+          "published": "2026-05-23T07:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In der aktuellen Ausgabe von heise developer News werden verschiedene kleinere Entwicklungen und Updates aus der Software-Entwicklung vorgestellt, darunter Tools und Frameworks wie Nuitka, Compose Multiplatform und IntelliJ. Diese Meldungen bieten einen Überblick über aktuelle Trends und Innovationen in der Entwickler-Community.",
+      "highlights": [
+        "Nuitka ermöglicht die Kompilierung von Python-Code in C++ für bessere Performance.",
+        "Compose Multiplatform unterstützt die Entwicklung plattformübergreifender Anwendungen.",
+        "IntelliJ erhält neue Funktionen zur Verbesserung der Benutzererfahrung und Produktivität."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Unreal Engine: UE6 lässt Rocket League wie ein neues Spiel aussehen",
+          "link": "https://www.golem.de/news/unreal-engine-ue6-laesst-rocket-league-wie-ein-neues-spiel-aussehen-2605-209031.html",
+          "summary": "Rocket League bekommt mit der Unreal Engine 6 modernere Grafik, Raytracing und wohl die größte technische Erneuerung seit dem Start. ( Epic Games , Unreal-Engine )",
+          "published": "2026-05-26T12:30:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Unreal Engine 6 bringt eine umfassende grafische Überarbeitung für Rocket League, einschließlich moderner Grafik und Raytracing. Dies stellt die größte technische Erneuerung des Spiels seit seiner Veröffentlichung dar.",
+      "highlights": [
+        "Einführung der Unreal Engine 6 für Rocket League.",
+        "Verbesserte Grafik und Raytracing-Technologie.",
+        "Größte technische Erneuerung seit dem Spielstart."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Per Vibecoding eine Website erstellen? Welche Prompts du brauchst – und worauf Anfänger achten müssen",
+          "link": "https://t3n.de/news/per-vibecoding-eine-website-erstellen-welche-prompts-du-brauchst-und-worauf-anfaenger-achten-muessen-1743784/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine Website ohne Programmierkenntnisse bauen? Das ist inzwischen realistisch: Wer heute mit KI arbeitet, muss nicht mehr jede Zeile Code selbst schreiben. Aber er oder sie muss der KI ein sauberes Briefing geben, Ergebnisse bewerten und Fehler erkennen. Daran scheitern viele Einsteiger. weiterlesen auf t3n.de",
+          "published": "Wed, 27 May 2026 10:00:27 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "13 Millionen Jobs möglich: Wie Unis in Europa zu Gründungsmotoren werden könnten",
+          "link": "https://t3n.de/news/13-millionen-jobs-moeglich-wie-unis-in-europa-zu-gruendungsmotoren-werden-koennten-1744274/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine neue Studie zeigt: Europäische Universitäten könnten in den nächsten zehn Jahren über 445.000 zusätzliche Startups hervorbringen und damit 13 Millionen neue Jobs schaffen. Doch die Unterschiede zwischen den Einrichtungen sind enorm, Deutschland liegt bisher nur im Mittelfeld. weiterlesen auf t3n.de",
+          "published": "Wed, 27 May 2026 08:30:58 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Review: The Boroughs is a smart, pitch-perfect creature feature",
+          "link": "https://arstechnica.com/culture/2026/05/review-the-boroughs-is-a-smart-pitch-perfect-creature-feature/",
+          "summary": "Top-notch ensemble cast, smart writing, and an engrossing supernatural mystery make for a winning combo.",
+          "published": "Tue, 26 May 2026 14:35:13 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "20 Jahre iPhone: Apple soll für 2027 radikales Redesign seiner Pro-Modelle planen",
+          "link": "https://t3n.de/news/iphone-2027-redesign-display-1744176/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Noch ist nicht einmal das iPhone 18 offiziell, da beschäftigen sich die Gerüchte schon mit dem für 2027 erwarteten Nachfolger. Geht es nach einem neuen Leak, soll Apple zum 20. iPhone-Jubiläum ein radikales Redesign seiner Pro-Modelle planen. weiterlesen auf t3n.de",
+          "published": "Tue, 26 May 2026 16:30:33 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "The reason enterprise outages almost never start where ops teams think",
+          "link": "https://thenewstack.io/hpe-agentic-ops-copilot/",
+          "summary": "Nothing is Greenfield in an enterprise. Hybrid cloud complexity sits atop siloed teams and systems, making it nearly impossible to The post The reason enterprise outages almost never start where ops teams think appeared first on The New Stack .",
+          "published": "Tue, 26 May 2026 13:43:02 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Die Software Supply Chain wird zunehmend durch Open-Source-Technologien und KI-gestützte Tools revolutioniert, die es auch Anfängern ermöglichen, Websites ohne Programmierkenntnisse zu erstellen. Gleichzeitig zeigen neue Studien das Potenzial europäischer Universitäten, als Gründungsmotoren zu fungieren und Millionen von Arbeitsplätzen zu schaffen.",
+      "highlights": [
+        "Europäische Universitäten könnten in den nächsten zehn Jahren 445.000 zusätzliche Startups hervorbringen.",
+        "Dies könnte 13 Millionen neue Jobs schaffen.",
+        "Anfänger müssen bei der Nutzung von KI-Tools für Webentwicklung saubere Briefings und Fehlererkennung beachten."
+      ]
+    }
+  ]
+}
