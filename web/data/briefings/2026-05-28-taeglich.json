@@ -1,0 +1,334 @@
+{
+  "date": "2026-05-28",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Snowflake commits $6B to AWS as it pushes deeper into AI",
+          "link": "https://thenewstack.io/snowflake-aws-6b-commitment/",
+          "summary": "Snowflake is committing $6 billion over five years to Amazon Web Services for Graviton compute and AI infrastructure, the data The post Snowflake commits $6B to AWS as it pushes deeper into AI appeared first on The New Stack .",
+          "published": "Wed, 27 May 2026 20:10:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Snowflake investiert 6 Milliarden US-Dollar über fünf Jahre in Amazon Web Services, um die Infrastruktur für Graviton-Computing und KI auszubauen. Diese Partnerschaft zielt darauf ab, Snowflakes Position im Bereich Künstliche Intelligenz zu stärken.",
+      "highlights": [
+        "6 Milliarden US-Dollar Investition über fünf Jahre",
+        "Fokus auf Graviton-Computing und KI-Infrastruktur",
+        "Ziel: Stärkung der Position im KI-Bereich"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "California defeats Tesla's attempt to throw out racial discrimination lawsuit",
+          "link": "https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/",
+          "summary": "California civil rights agency hails win over Tesla, anticipates trial in July.",
+          "published": "Wed, 27 May 2026 21:08:51 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Azure Logic Apps Adds Sandboxed Code Interpreters to Agent Workflows",
+          "link": "https://www.infoq.com/news/2026/05/azure-logic-apps-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft added sandboxed code interpreters to Azure Logic Apps, enabling agents within integration workflows to generate and execute Python, JavaScript, C#, and PowerShell in Hyper-V isolated sessions. Architects get full control over model selection per workflow. The capability positions Logic Apps as an agent platform for integration alongside Foundry and Copilot Studio. By Steef-Jan Wiggers",
+          "published": "Wed, 27 May 2026 09:45:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Für 250 Millionen Euro: Bund schafft neue Abhängigkeiten von IT-Konzernen",
+          "link": "https://netzpolitik.org/2026/fuer-250-millionen-euro-bund-schafft-neue-abhaengigkeiten-von-it-konzernen/",
+          "summary": "Karsten Wildberger freut sich auf die KI-Cloud für die Verwaltung. (Symbolbild) – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Für eine dreistellige Millionensumme sollen SAP und Telekom eine „KI-Cloud“ für die öffentliche Verwaltung bauen. Digitalminister Karsten Wildberger nennt das souverän. Unabhängig wird Deutschlands Verwaltung damit nicht, warnen Opposition und Fachleute.",
+          "published": "Wed, 27 May 2026 06:59:53 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Do it yourself: Second Life für alte Laptop- und iMac-Monitore",
+          "link": "https://www.golem.de/news/do-it-yourself-second-life-fuer-alte-laptop-und-imac-monitore-2605-209096.html",
+          "summary": "Bildschirme von ausgedienten Laptops oder iMacs müssen nicht unbedingt in den Elektroschrott. Mit günstigen Controllern erhalten sie ein zweites Leben. Eine Anleitung von Friedhelm Greis und Mike Faust ( Second Life , Notebook )",
+          "published": "2026-05-28T09:15:08+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Kritik an Ferrari Luce: Das Dilemma der elektrischen Supersportwagen",
+          "link": "https://www.golem.de/news/kritik-an-ferrari-luce-das-dilemma-der-elektrischen-supersportwagen-2605-209085.html",
+          "summary": "Der vollelektrische Luce kommt bei den Ferrari-Fans nicht gut an. Das liegt nur teilweise an den Herausforderungen der E-Mobilität im Sportwagenbereich. Eine Analyse von Friedhelm Greis ( Ferrari , Elektroauto )",
+          "published": "2026-05-27T14:15:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Cloud-Architektur entwickelt sich weiter, insbesondere mit Microsofts neuen Funktionen in Azure Logic Apps, die die Integration von Programmiersprachen in Workflows ermöglichen. Gleichzeitig wird in Deutschland eine KI-Cloud für die öffentliche Verwaltung geplant, was jedoch Bedenken hinsichtlich der Abhängigkeit von IT-Konzernen aufwirft.",
+      "highlights": [
+        "Microsoft fügt Azure Logic Apps sandboxed code interpreters hinzu, um Python, JavaScript, C# und PowerShell auszuführen.",
+        "Die deutsche Regierung plant eine KI-Cloud für 250 Millionen Euro mit SAP und Telekom.",
+        "Die neue Cloud-Lösung könnte die Unabhängigkeit der öffentlichen Verwaltung gefährden, warnen Experten."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
+          "link": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+          "summary": "Telltale SSD activity can be measured in the browser using simple JavaScript.",
+          "published": "Wed, 27 May 2026 20:56:03 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "C-Libraries in Java nutzen 3: Komplexe Anwendung, Fallstricke und Best Practices",
+          "link": "https://www.heise.de/hintergrund/C-Libraries-in-Java-nutzen-3-Komplexe-Anwendung-Fallstricke-und-Best-Practices-11301610.html",
+          "summary": "Die FFM-API macht den Zugriff auf C-Libraries komfortabel, bringt aber auch Herausforderungen. Helferfunktionen und Best Practices machen sie beherrschbar.",
+          "published": "2026-05-26T07:30:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Nutzung von C-Libraries in Java über die FFM-API bietet eine vereinfachte Schnittstelle, birgt jedoch Herausforderungen, die durch Best Practices und Helferfunktionen adressiert werden müssen. Zudem wird in einem aktuellen Artikel von Ars Technica aufgezeigt, wie Websites SSD-Aktivitäten von Besuchern mithilfe von JavaScript analysieren können.",
+      "highlights": [
+        "FFM-API erleichtert den Zugriff auf C-Libraries in Java.",
+        "Best Practices sind notwendig, um Fallstricke bei der Nutzung zu vermeiden.",
+        "Websites können SSD-Aktivitäten von Nutzern durch JavaScript überwachen."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop: Nach dem Ransomware-Angriff – sicher entscheiden und kommunizieren",
+          "link": "https://www.heise.de/news/iX-Workshop-Nach-dem-Ransomware-Angriff-sicher-entscheiden-und-kommunizieren-11306652.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Erfahren Sie in einer praxisnahen Simulation, wie Sie auf einen Ransomware-Angriff strategisch reagieren und mit den Konsequenzen sicher umgehen.",
+          "published": "2026-05-28T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "(g+) F5 BIG-IP APM: Ein alter DoS-Patch kehrt als RCE zurück",
+          "link": "https://www.golem.de/news/f5-big-ip-apm-ein-alter-dos-patch-kehrt-als-rce-zurueck-2605-209075.html",
+          "summary": "F5 stuft CVE-2025-53521 von DoS auf RCE hoch, Angreifer hatten Zugang zum Quellcode. Die dringendste Frage für Admins: Sind BIG-IP-APM-Instanzen direkt aus dem Internet erreichbar? Ein Ratgebertext von Steffen Zahn ( Security , Server )",
+          "published": "2026-05-27T13:30:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der IT-Sicherheit zeigen die Notwendigkeit von proaktiven Maßnahmen gegen Ransomware und die Gefahren durch Sicherheitslücken. Ein Workshop bietet praxisnahe Strategien zur Reaktion auf Angriffe, während F5 eine kritische Schwachstelle in seinen Produkten identifiziert hat.",
+      "highlights": [
+        "Workshop zur Reaktion auf Ransomware-Angriffe bei heise online.",
+        "F5 stuft Schwachstelle CVE-2025-53521 von DoS auf RCE hoch.",
+        "Zugriff auf Quellcode könnte Angreifern Vorteile verschaffen."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Pullfrog AI: Open-Source CodeRabbit Alternative Powered by GitHub Actions",
+          "link": "https://www.infoq.com/news/2026/05/pullfrog-ai-github/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Pullfrog is an open-source AI-powered GitHub bot by Colin McDonnell, designed for automation in GitHub Actions. It supports a model-agnostic approach, allowing integration with various LLM providers. Key features include orchestration for pull request reviews, issue triage, and CI remediation, all managed within GitHub's environment. The tool operates with a bring-your-own-key model for access. By Daniel Curtis",
+          "published": "Wed, 27 May 2026 06:23:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Bayrisches Digitalministerium will Arbeitsplätze ohne Microsoft",
+          "link": "https://www.heise.de/news/Bayrisches-Digitalministerium-will-Arbeitsplaetze-ohne-Microsoft-11308878.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das bayrische Digitalministerium will nicht mehr auf den Rest der Landesregierung warten – und die Arbeitsplätze im Freistaat von Microsoft befreien.",
+          "published": "2026-05-27T18:48:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Pullfrog AI ist ein Open-Source-GitHub-Bot, der Automatisierung in GitHub Actions ermöglicht und eine modellunabhängige Integration mit verschiedenen LLM-Anbietern unterstützt. Das bayrische Digitalministerium plant, Arbeitsplätze von Microsoft zu befreien und unabhängigere Lösungen zu fördern.",
+      "highlights": [
+        "Pullfrog AI unterstützt Orchestrierung für Pull-Request-Reviews und CI-Remediation.",
+        "Das Tool verwendet ein Bring-your-own-key-Modell für den Zugriff.",
+        "Das bayrische Digitalministerium strebt eine Microsoft-freie Arbeitsumgebung an."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "The new Halide camera app launches with film looks and an upgraded photo editor",
+          "link": "https://www.theverge.com/tech/938339/lux-optics-halide-mark-iii-ios-iphone-camera-app-looks-editor-raw-files-now-available",
+          "summary": "After first being announced in December 2024, Lux Optics has finally released the latest version of its Halide camera app for the iPhone and iPad. The Halide Mark III app's most compelling feature is a new film simulation engine and a collection of five new Looks that can be applied to photos as they're taken. [&#8230;]",
+          "published": "2026-05-27T16:06:12-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Die Halide Mark III Kamera-App von Lux Optics wurde veröffentlicht und bietet eine neue Film-Simulationsengine sowie fünf neue Looks für Fotos. Die App ist für iPhone und iPad verfügbar und wurde erstmals im Dezember 2024 angekündigt.",
+      "highlights": [
+        "Neue Film-Simulationsengine integriert.",
+        "Fünf neue Looks können direkt beim Fotografieren angewendet werden.",
+        "Verfügbar für iPhone und iPad."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Cloudflare Adds Support for Claude Managed Agents",
+          "link": "https://www.infoq.com/news/2026/05/cloudflare-claude-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare recently added support for Claude Managed Agents, allowing developers to run and manage Claude agents within Cloudflare. Developers can connect agents to private systems, choose their runtime environment, and monitor agent activity using Cloudflare services. By Renato Losio",
+          "published": "Thu, 28 May 2026 06:23:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Researcher “gave Claude Code ‘ADHD’… and it thinks 2x better now.” Outside experts want more proof.",
+          "link": "https://thenewstack.io/claude-code-adhd/",
+          "summary": "This week, solo researcher Udit Akhouri took to r/ClaudeCode on Reddit to launch a new third-party Agent SDK tool with The post Researcher “gave Claude Code &#8216;ADHD&#8217;… and it thinks 2x better now.” Outside experts want more proof. appeared first on The New Stack .",
+          "published": "Wed, 27 May 2026 18:29:45 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "“There is no accountability”: AI coding agents are installing packages no one owns",
+          "link": "https://thenewstack.io/aikido-ai-agents-security/",
+          "summary": "&#8220;There is no accountability.&#8221; It&#8217;s how Willem Delbare, co-founder, CTO, and CEO of&#160;Aikido Security, describes to The New Stack situations The post &#8220;There is no accountability&#8221;: AI coding agents are installing packages no one owns appeared first on The New Stack .",
+          "published": "Wed, 27 May 2026 17:38:07 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Werbung in ChatGPT: Warum ein Web-Analyst Googles Ad-Imperium gefährdet sieht",
+          "link": "https://t3n.de/news/werbung-chatgpt-google-ads-1744465/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Similarweb-Produktchef Harel Amir hat Werbung in ChatGPT analysiert und eine Entdeckung gemacht, die vor allem Google nicht gefallen dürfte. Denn die Art der Ads bei dem Chatbot unterscheidet sich fundamental von jenen in der Suchmaschine. weiterlesen auf t3n.de",
+          "published": "Wed, 27 May 2026 19:23:42 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Tiere und künstliche Intelligenz: Wie die KI in unser Hackfleisch kommt",
+          "link": "https://netzpolitik.org/2026/tiere-und-kuenstliche-intelligenz-wie-die-ki-in-unser-hackfleisch-kommt/",
+          "summary": "– Gemeinfrei-ähnlich freigegeben durch unsplash.com: Daniel MacDonald Künstliche Intelligenz ist inzwischen in der Massentierhaltung angekommen. Doch können Verhaltensscanner im Stall wirklich das Tierwohl verbessern? Und welches Rezept spuckt ein KI‑Chatbot aus, wenn man ihn nach Spaghetti Bolognese fragt? Mirjam Walser warnt im Interview: Die Folgen von KI für Tiere sind enorm.",
+          "published": "Wed, 27 May 2026 16:19:01 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "Generative KI und LLMs gewinnen zunehmend an Bedeutung in verschiedenen Bereichen, von der Softwareentwicklung bis zur Tierhaltung. Neueste Entwicklungen zeigen sowohl Fortschritte als auch Herausforderungen in der Verantwortung und Anwendung dieser Technologien.",
+      "highlights": [
+        "Cloudflare unterstützt jetzt Claude Managed Agents zur Integration in private Systeme.",
+        "Ein Forscher behauptet, dass eine Modifikation an Claude die Denkfähigkeit verdoppelt hat, was externe Experten skeptisch bewertet haben.",
+        "In der Massentierhaltung wird KI eingesetzt, um das Tierwohl zu überwachen, jedoch gibt es Bedenken hinsichtlich der Auswirkungen auf die Tiere."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "#heiseshow: Papst vs. KI, DSGVO-Kritik, Ökodesign-Reform",
+          "link": "https://www.heise.de/news/heiseshow-Papst-vs-KI-DSGVO-Kritik-Oekodesign-Reform-11308818.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In der #heiseshow: Papst Leo XIV. fordert KI-Regeln, Firmen hadern mit der DSGVO, und der Bundestag beschließt die Ökodesign-Reform.",
+          "published": "2026-05-28T06:11:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Landmaschinen: Ex-VW-Chef Diess will Elektro-Traktor auf den Markt bringen",
+          "link": "https://www.golem.de/news/landmaschinen-ex-vw-chef-diess-will-elektro-traktor-auf-den-markt-bringen-2605-209104.html",
+          "summary": "Früher VW-Boss, jetzt Landmaschinen-Pionier? Herbert Diess plant einen E-Traktor mit Wechsel-Akkus für Landwirte. ( Herbert Diess , Elektroauto )",
+          "published": "2026-05-27T16:35:05+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "You can print, slice, and engrave using this desktop crafting machine",
+          "link": "https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter",
+          "summary": "xTool has announced a new multi-purpose crafting machine that could potentially be one of the most affordable ways to start an Etsy shop. Its modular design facilitates a CMYK print head that works on multiple materials including paper, wood, and felt. It can later be swapped with laser-based cutting and engraving tools. You can use [&#8230;]",
+          "published": "2026-05-27T12:56:02-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "In der aktuellen #heiseshow fordert Papst Leo XIV. klare Regeln für Künstliche Intelligenz, während Unternehmen die Herausforderungen der DSGVO kritisieren. Zudem hat der Bundestag die Ökodesign-Reform beschlossen, die nachhaltige Produktgestaltung fördern soll.",
+      "highlights": [
+        "Papst Leo XIV. fordert spezifische KI-Regeln.",
+        "Unternehmen äußern Kritik an der Umsetzung der DSGVO.",
+        "Bundestag beschließt Ökodesign-Reform zur Förderung nachhaltiger Produkte."
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11301862.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Nuitka, Compose Multiplatform, Twig, IntelliJ, Google, Apache, VS Code, Barman und Crossplane.",
+          "published": "2026-05-23T07:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die heise developer News berichten über verschiedene kleinere Entwicklungen in der Software-Entwicklung, darunter Updates zu Nuitka, Compose Multiplatform und IntelliJ. Diese Meldungen bieten einen Überblick über aktuelle Trends und Tools in der Entwickler-Community.",
+      "highlights": [
+        "Nuitka erhält neue Funktionen zur Optimierung von Python-Code.",
+        "Compose Multiplatform ermöglicht plattformübergreifende App-Entwicklung.",
+        "IntelliJ integriert neue Plugins zur Verbesserung der Entwicklerproduktivität."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "How LinkedIn Identified a Kernel Lock Contention Issue Causing Recurring System Freezes",
+          "link": "https://www.infoq.com/news/2026/05/linkedin-kernel-lock-freeze/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "When LinkedIn engineers encountered short-lived, recurring outages where the database powering their user feed became unavailable and then recover without leaving helpful traces, they had to devise a novel approach to uncover the root cause using off-CPU profiling with eBPF. By Sergio De Simone",
+          "published": "Wed, 27 May 2026 18:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "LinkedIn hat ein Problem mit Kernel Lock Contention identifiziert, das zu wiederkehrenden Systemausfällen führte. Ingenieure setzten off-CPU Profiling mit eBPF ein, um die Ursache der Ausfälle zu ermitteln, die keine hilfreichen Spuren hinterließen.",
+      "highlights": [
+        "Wiederkehrende Ausfälle des Datenbanksystems, das den Nutzer-Feed unterstützt.",
+        "Einsatz von off-CPU Profiling mit eBPF zur Ursachenanalyse.",
+        "Das Problem führte zu kurzzeitigen, aber kritischen Systemstillständen."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Kupfer, Kobalt, Lithium: Warum Deutschland jetzt auf eine Zugstrecke in Afrika setzt",
+          "link": "https://t3n.de/news/kupfer-kobalt-lithium-warum-deutschland-jetzt-auf-eine-zugstrecke-in-afrika-setzt-lobito-1744511/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Deutschland ist bei kritischen Rohstoffen gefährlich abhängig von China – und Peking nutzt das zunehmend als politisches Druckmittel. Jetzt soll eine 1.800 Kilometer lange Bahnstrecke durch Afrika die Lösung bringen. Doch es gibt noch Probleme. weiterlesen auf t3n.de",
+          "published": "Thu, 28 May 2026 08:45:38 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Strafanzeige: Journalist wehrt sich gegen Staatstrojaner-Angriff",
+          "link": "https://netzpolitik.org/2026/strafanzeige-journalist-wehrt-sich-gegen-staatstrojaner-angriff/",
+          "summary": "Wehrt sich gegen Staatstrojaner-Angriff: Journalist Trung Khoa Lê. – CC-BY-SA 4.0 : Trung Khoa Lê Ein deutsch-vietnamesischer Journalist wurde mit dem Staatstrojaner Predator angegriffen. Jetzt stellt er Strafanzeige, gemeinsam mit der GFF. Die Staatsanwaltschaft soll die Täter ermitteln und die Grundrechte schützen. Besonders pikant: Nicht nur das Opfer kommt aus Deutschland, sondern auch Anbieter und Kunden.",
+          "published": "Thu, 28 May 2026 06:17:11 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Faktencheck mit KI: Warum Quellen-Links ins Leere führen und wie du damit umgehst",
+          "link": "https://t3n.de/news/faktencheck-ki-quellen-links-test-umgang-verbesserung-1744435/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein einziger Zusatz im Prompt macht die KI als Faktenchecker unbrauchbar. Welcher das ist und wie du den Prompt richtig aufbaust, erfährst du in der aktuellen Folge von t3n MeisterPrompter. weiterlesen auf t3n.de",
+          "published": "Thu, 28 May 2026 08:00:22 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Rüstungsindustrie als Ausweg? Warum der Wechsel aus der Autobranche so kompliziert ist",
+          "link": "https://t3n.de/news/ruestungsindustrie-als-ausweg-warum-der-wechsel-aus-der-autobranche-so-kompliziert-ist-1743348/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Autobranche baut massiv Stellen ab, viele Mitarbeitende haben Angst um ihren Job. Ein möglicher Ausweg: die Rüstungsindustrie. Doch der Quereinstieg ist n weiterlesen auf t3n.de",
+          "published": "Thu, 28 May 2026 07:30:13 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Fast jeder Zweite erkrankt an Krebs: Wo KI bei Therapien helfen kann - und wo die Grenzen liegen",
+          "link": "https://t3n.de/news/fast-jeder-zweite-erkrankt-an-krebs-wo-ki-bei-therapien-helfen-kann-und-wo-die-grenzen-liegen-1744035/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bei Diagnosen und Vorsorgeuntersuchungen ist KI längst mit im Boot. In Zukunft soll sie auch bei maßgeschneiderten Therapieempfehlungen mitreden. weiterlesen auf t3n.de",
+          "published": "Thu, 28 May 2026 06:30:47 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Abhängigkeit Deutschlands von kritischen Rohstoffen aus China wird zunehmend zum politischen Druckmittel. Eine neue Bahnstrecke in Afrika soll diese Abhängigkeit verringern, während gleichzeitig ein Journalist gegen einen Staatstrojaner-Angriff vorgeht. Zudem wird die Rolle von KI in der Krebsbehandlung diskutiert.",
+      "highlights": [
+        "Deutschland plant eine 1.800 Kilometer lange Bahnstrecke durch Afrika zur Rohstoffsicherung.",
+        "Ein Journalist stellt Strafanzeige gegen den Einsatz des Staatstrojaners Predator.",
+        "KI wird zunehmend in der Krebsdiagnose und -therapie eingesetzt, jedoch gibt es auch Grenzen."
+      ]
+    }
+  ]
+}
