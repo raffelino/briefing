@@ -1,0 +1,322 @@
+{
+  "date": "2026-05-29",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Cloud Computing: Snowflake wird größter CPU-Kunde von AWS",
+          "link": "https://www.golem.de/news/cloud-computing-snowflake-wird-groesster-cpu-kunde-von-aws-2605-209146.html",
+          "summary": "Das Cloud-Computing-Unternehmen sichert sich den Zugriff auf Graviton-Chips von AWS im Wert von sechs Milliarden US-Dollar. ( AWS , Web Service )",
+          "published": "2026-05-28T15:20:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Snowflake hat sich den Zugriff auf Graviton-Chips von Amazon Web Services (AWS) im Wert von sechs Milliarden US-Dollar gesichert und wird damit zum größten CPU-Kunden von AWS. Diese Chips sollen die Leistung und Effizienz von Cloud-Diensten verbessern.",
+      "highlights": [
+        "Snowflake investiert sechs Milliarden US-Dollar in Graviton-Chips von AWS.",
+        "Snowflake wird größter CPU-Kunde von AWS.",
+        "Graviton-Chips sollen die Leistung von Cloud-Computing-Diensten optimieren."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "„KI-Psychosen“: Warum CEOs laut Box-Chef anfällig dafür sind",
+          "link": "https://t3n.de/news/ceo-box-ki-psychose-1744819/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Führungskräfte neigen dazu, die Fähigkeiten von KI massiv zu überschätzen. Box-CEO Aaron Levie erklärt, warum der Abstand zur operativen Basis oft zu einer metaphorischen „KI-Psychose“ in den Chefetagen führt. weiterlesen auf t3n.de",
+          "published": "Fri, 29 May 2026 08:30:42 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+          "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+          "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
+          "published": "Thu, 28 May 2026 20:29:53 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Why AWS scrapped OpenSearch’s architecture to chase agent workloads",
+          "link": "https://thenewstack.io/aws-opensearch-serverless-agentic-rebuild/",
+          "summary": "AWS on Thursday launched what it calls a near-total rebuild of its managed search and vector engine, in an effort The post Why AWS scrapped OpenSearch&#8217;s architecture to chase agent workloads appeared first on The New Stack .",
+          "published": "Thu, 28 May 2026 18:30:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Die schnellste Drohne der Welt: So erreicht das Gadget Geschwindigkeiten von 730 Kilometern pro Stunde",
+          "link": "https://t3n.de/news/schnellste-drohne-der-welt-1744741/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Zwei Drohnenbauer haben einen neuen Geschwindigkeitsrekord mit ihrem neuen Werk erzielt. Die selbst gebaute Drohne erreichte dabei eine Geschwindigkeit von etwa 730 Kilometern pro Stunde. Eine besondere Technik sorgt hierbei für den Vorsprung gegenüber der Konkurrenz. weiterlesen auf t3n.de",
+          "published": "Thu, 28 May 2026 17:00:45 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Accountability is the Goal for AI, with EU Regulations Supporting Transparency",
+          "link": "https://www.infoq.com/news/2026/05/accountability-AI-EU-regulations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AI bias mirrors human bias; both stem from our language and lived experiences. Ethics and AI are inseparable, but AI changes affordances, making harmful actions easier to carry out. The EU regulations apply to AI, since digital products are products. The ultimate goal is accountability: companies must ensure transparency, and laws should favor using the simplest AI that gets the job done. By Ben Linders",
+          "published": "Thu, 28 May 2026 11:08:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Cloud-Architektur und KI zeigen, dass Führungskräfte oft die Fähigkeiten von KI überschätzen, während AWS seine OpenSearch-Architektur überarbeitet, um Agenten-Workloads besser zu unterstützen. Zudem wird die Bedeutung von Transparenz und Verantwortung in der KI durch EU-Vorschriften hervorgehoben.",
+      "highlights": [
+        "Box-CEO Aaron Levie warnt vor 'KI-Psychosen' in Chefetagen.",
+        "AWS hat eine nahezu vollständige Neugestaltung von OpenSearch angekündigt.",
+        "EU-Regulierungen zielen auf mehr Transparenz und Verantwortung in der KI ab."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Semantische Anker verkürzen den Kontext für das agentische Coden",
+          "link": "https://www.heise.de/news/Semantische-Anker-verkuerzen-den-Kontext-fuer-das-agentische-Coden-11311061.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Clean Architecture, Code Smells oder Wolf Schneider – ein Verzeichnis auf GitHub sammelt solche semantischen Anker für kurzen Prompt-Kontext.",
+          "published": "2026-05-29T10:21:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Semantische Anker verkürzen den Kontext für das agentische Coden",
+          "link": "https://www.heise.de/news/Semantische-Anker-verkuerzen-den-Kontext-fuer-das-agentische-Coden-11311061.html",
+          "summary": "Clean Architecture, Code Smells oder Wolf Schneider – ein Verzeichnis auf GitHub sammelt solche semantischen Anker für kurzen Prompt-Kontext.",
+          "published": "2026-05-29T08:21:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "C-Libraries in Java nutzen 3: Komplexe Anwendung, Fallstricke und Best Practices",
+          "link": "https://www.heise.de/hintergrund/C-Libraries-in-Java-nutzen-3-Komplexe-Anwendung-Fallstricke-und-Best-Practices-11301610.html",
+          "summary": "Die FFM-API macht den Zugriff auf C-Libraries komfortabel, bringt aber auch Herausforderungen. Helferfunktionen und Best Practices machen sie beherrschbar.",
+          "published": "2026-05-26T07:30:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Software-Architektur und Java zeigen, wie semantische Anker den Kontext beim agentischen Coden verkürzen. Zudem wird die Nutzung von C-Libraries in Java thematisiert, wobei Herausforderungen und Best Practices hervorgehoben werden.",
+      "highlights": [
+        "GitHub-Verzeichnis sammelt semantische Anker wie Clean Architecture und Code Smells.",
+        "Die FFM-API erleichtert den Zugriff auf C-Libraries in Java.",
+        "Best Practices helfen, Herausforderungen bei der Nutzung von C-Libraries zu bewältigen."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Neue Phishing-Plattform: FBI warnt Nutzer von Outlook, Teams und Onedrive",
+          "link": "https://t3n.de/news/phishing-plattform-fbi-outlook-teams-und-onedrive-1744761/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "User:innen von Outlook, Teams oder Onedrive müssen aufpassen. Das FBI warnt vor der Phishing-Plattform Kali365, die Tools zur Kompromittierung von Microsoft365-Diensten bereitstellen. Das macht den Scam so perfide &#8211; und so kann man sich davor schützen. weiterlesen auf t3n.de",
+          "published": "Thu, 28 May 2026 19:00:17 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Oracle CSPU: 35 Sicherheitsupdates im Mai",
+          "link": "https://www.heise.de/news/Oracle-CSPU-35-Sicherheitsupdates-im-Mai-11310949.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Diverse Produkte von Oracle weisen Sicherheitslücken auf. Updates stehen zum Ausbessern von 35 Schwachstellen bereit.",
+          "published": "2026-05-29T09:51:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop IT-Sicherheit: Angriffstechniken verstehen und erfolgreich abwehren",
+          "link": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Angriffstechniken-verstehen-und-erfolgreich-abwehren-11298289.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Analysieren Sie aktuelle Angriffstechniken, um die Wirksamkeit Ihrer Schutzmaßnahmen und die Verletzlichkeit Ihrer IT einzuschätzen.",
+          "published": "2026-05-29T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Freitag: Microsoft droht Sicherheitsforscher, Phishing-Affäre auch in Australien",
+          "link": "https://www.heise.de/news/Freitag-Microsoft-droht-Sicherheitsforscher-Phishing-Affaere-auch-in-Australien-11310759.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Zwist wegen sechs Zero-Days + Angriffe auf Parlamentarier Down Under + EU-Kaufempfehlung für EU-Chips + Claude Opus 4.8 von Anthropic + c't-Datenschutz-Podcast",
+          "published": "2026-05-29T06:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Auch in Australien fallen Parlamentarier einer Phishing-Kampagne zum Opfer",
+          "link": "https://www.heise.de/news/Auch-in-Australien-fallen-Parlamentarier-einer-Phishing-Kampagne-zum-Opfer-11310743.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein Abgeordneter und drei Mitarbeiter wurden Opfer offenbar ausländischer Angreifer. Die Masche ähnelt der Signal-Affäre in Deutschland, aber bei WhatsApp.",
+          "published": "2026-05-29T05:05:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Aktuelle Sicherheitswarnungen betreffen Nutzer von Microsoft365-Diensten und Oracle-Produkten. Das FBI warnt vor der Phishing-Plattform Kali365, während Oracle 35 Sicherheitsupdates bereitstellt. Zudem wurden australische Parlamentarier Opfer einer ähnlichen Phishing-Kampagne.",
+      "highlights": [
+        "FBI warnt vor Kali365, einer Phishing-Plattform für Microsoft365-Dienste.",
+        "Oracle veröffentlicht 35 Sicherheitsupdates zur Behebung von Schwachstellen.",
+        "Australische Parlamentarier wurden Opfer einer Phishing-Kampagne, ähnlich der Signal-Affäre in Deutschland."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Bundesregierung legt Entwurf für Kritis-Verordnung vor",
+          "link": "https://www.heise.de/news/Neue-Verordnung-soll-Klarheit-in-den-Kritis-Dschungel-bringen-11310149.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die sogenannte Kritis-Verordnung soll mehr Klarheit für von Kritis-Dachgesetz und NIS2 gleichzeitig Betroffene bringen. Doch es bleibt komplex.",
+          "published": "2026-05-28T16:28:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Bundesregierung hat einen Entwurf für die Kritis-Verordnung vorgelegt, der Klarheit für Unternehmen schaffen soll, die sowohl unter das Kritis-Dachgesetz als auch die NIS2-Richtlinie fallen. Dennoch bleibt die Regelung komplex und herausfordernd.",
+      "highlights": [
+        "Ziel der Verordnung: Klarheit für betroffene Unternehmen schaffen.",
+        "Betroffene Gesetze: Kritis-Dachgesetz und NIS2-Richtlinie.",
+        "Komplexität der Regelungen bleibt bestehen."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Neuer Job als Sales Manager*in Digital Solutions B2B gesucht? Schau dir unsere Tob Jobs an",
+          "link": "https://t3n.de/news/unsere-jobs-der-woche-1175973/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hier findest du unsere besten Jobs aus den Bereichen Technik &amp; Entwicklung, Marketing, PR &amp; Kommunikation, Projektmanagement &amp; Produktmanagement, Design &amp; UX, Content &amp; Redaktion und Business Development. weiterlesen auf t3n.de",
+          "published": "Thu, 28 May 2026 15:00:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Plattform t3n.de bietet eine Übersicht über aktuelle Stellenangebote im Bereich Digital Solutions B2B, insbesondere für Sales Manager*innen. Die Jobangebote decken verschiedene Bereiche wie Technik, Marketing, UX und Projektmanagement ab.",
+      "highlights": [
+        "Stellenangebote in Technik, Entwicklung, Marketing und UX",
+        "Fokus auf Digital Solutions B2B",
+        "Vielfältige Karrierechancen in Projektmanagement und Produktmanagement"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Mit europäischer KI arbeiten: So gut funktioniert es ohne ChatGPT oder Gemini",
+          "link": "https://t3n.de/news/mit-europaeischer-ki-arbeiten-so-gut-funktioniert-es-ohne-chatgpt-oder-gemini-1744615/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Es gibt sie, die Alternativen zu OpenAI, Google oder Meta. Doch wie gut arbeitet es sich mit europäischer KI, wenn man bewusst auf die Dienste der US-Tech-Konz weiterlesen auf t3n.de",
+          "published": "Fri, 29 May 2026 07:30:25 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "LLMs believe false statements even after explicit warnings that they're false",
+          "link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+          "summary": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"",
+          "published": "Thu, 28 May 2026 21:29:43 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+          "link": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+          "summary": "As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable.",
+          "published": "Thu, 28 May 2026 18:30:48 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Claude Opus 4.8 is here: effort controls, dynamic workflows, cheaper fast mode, better honesty, less deception",
+          "link": "https://thenewstack.io/claude-opus-48-release/",
+          "summary": "On Thursday, Anthropic released the newest version of its flagship model, Opus 4.8, which allows users to control Claude&#8217;s effort, The post Claude Opus 4.8 is here: effort controls, dynamic workflows, cheaper fast mode, better honesty, less deception appeared first on The New Stack .",
+          "published": "Thu, 28 May 2026 18:08:36 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
+          "link": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+          "summary": "Here’s why Anthropic and OpenAI are on board with Illinois safety testing.",
+          "published": "Thu, 28 May 2026 17:01:16 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Die Diskussion um generative KI und LLMs (Large Language Models) wird durch neue Entwicklungen und alternative Ansätze in Europa sowie durch technische Fortschritte bei bestehenden Modellen geprägt. Insbesondere die Herausforderungen bei der Wahrheitsdarstellung und die regulatorischen Veränderungen in den USA stehen im Fokus.",
+      "highlights": [
+        "Europäische KI-Alternativen zu US-Tech-Konzernen gewinnen an Bedeutung.",
+        "LLMs zeigen eine Tendenz, falsche Aussagen trotz Warnungen als wahr darzustellen.",
+        "Illinois hat ein wegweisendes Gesetz zur KI-Regulierung verabschiedet, das Auswirkungen auf Unternehmen wie Anthropic und OpenAI hat."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Unsichere Billigimporte: EU-Kommission überzieht Temu mit einer satten Strafe",
+          "link": "https://netzpolitik.org/2026/unsichere-billigimporte-eu-kommission-ueberzieht-temu-mit-einer-satten-strafe/",
+          "summary": "Temu hat den Digital Services Act verletzt, hat heute die EU-Kommission verkündet. – Alle Rechte vorbehalten: IMAGO / SOPA Images Der chinesische Online-Händler Temu schlampt im Umgang mit gefährlichen und illegalen Produkten, hat heute die EU-Kommission festgestellt. Nach X handelt es sich um den zweiten Online-Dienst, der gegen den Digital Services Act verstoßen hat.",
+          "published": "Thu, 28 May 2026 12:20:27 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "Die EU-Kommission hat den chinesischen Online-Händler Temu wegen Verstößen gegen den Digital Services Act mit einer hohen Strafe belegt. Temu wurde für den unsachgemäßen Umgang mit gefährlichen und illegalen Produkten kritisiert.",
+      "highlights": [
+        "Temu ist der zweite Online-Dienst, der gegen den Digital Services Act verstoßen hat.",
+        "Die Strafe wurde aufgrund von unsicheren Billigimporten verhängt.",
+        "Die EU-Kommission betont die Notwendigkeit strengerer Kontrollen im Online-Handel."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Debugging the undebuggable: building observability into probabilistic AI systems",
+          "link": "https://thenewstack.io/debugging-observable-ai-systems/",
+          "summary": "Debugging used to be straightforward: A service failed, you checked the logs, followed the stack trace, and fixed the bug. The post Debugging the undebuggable: building observability into probabilistic AI systems appeared first on The New Stack .",
+          "published": "Thu, 28 May 2026 11:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Der Artikel behandelt die Herausforderungen und Strategien zur Implementierung von Observability in probabilistischen KI-Systemen, die aufgrund ihrer Komplexität und Unvorhersehbarkeit schwer zu debuggen sind. Es wird erläutert, wie traditionelle Debugging-Methoden in diesen Kontexten angepasst werden müssen.",
+      "highlights": [
+        "Traditionelles Debugging basiert auf Logs und Stack-Traces.",
+        "Probabilistische KI-Systeme erfordern neue Ansätze zur Fehlerdiagnose.",
+        "Observability ist entscheidend für die Verbesserung der Zuverlässigkeit und Nachvollziehbarkeit von KI-Anwendungen."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Mit diesem einfachen Trick schützt du dein iPhone besser vor Diebstahl",
+          "link": "https://t3n.de/news/mit-diesem-einfachen-trick-schuetzt-du-dein-iphone-besser-vor-diebstahl-1744758/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer sein gestohlenes iPhone orten will, hat dazu oft nur wenige Minuten Zeit. Denn viele Diebe nutzen einen Trick, um ein Smartphone innerhalb weniger Sekunden „unsichtbar“ zu machen. Mit einer einfachen Einstellung lässt sich das verhindern. weiterlesen auf t3n.de",
+          "published": "Fri, 29 May 2026 09:00:03 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Statt Durchsetzung von Völkerrecht: EU-Mittelmeermission IRINI dient künftig nur noch der Migrationsabwehr",
+          "link": "https://netzpolitik.org/2026/statt-durchsetzung-von-voelkerrecht-eu-mittelmeermission-irini-dient-kuenftig-nur-noch-der-migrationsabwehr/",
+          "summary": "Ein Patrouillenboot der libyschen Küstenwache im August 2025 – Alle Rechte vorbehalten: Max Cavallari / SOS MEDITERRANEE Griechenland und Frankreich lassen das UN-Mandat der Mittelmeermission IRINI gegen Waffenlieferungen auslaufen. Stattdessen unterstützt die EU nun auch das abtrünnige Ostlibyen mit Überwachungstechnik und der Ausbildung libyschen Personals, das dann Flüchtlingsboote abfangen soll.",
+          "published": "Fri, 29 May 2026 06:28:50 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "New Glenn: Bezos-Rakete explodiert bei Test vor dem Start",
+          "link": "https://t3n.de/news/new-glenn-bezos-rakete-explodiert-bei-test-vor-dem-start-1744811/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bei einem Routinetest in Florida ist die &#8222;New Glenn&#8220;-Schwerlastrakete von Blue Origin explodiert. Das Unglück bremst das Raumfahrtunternehmen im harten Konkurrenzkampf mit SpaceX massiv aus. weiterlesen auf t3n.de",
+          "published": "Fri, 29 May 2026 07:20:19 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "A respectable port of Age of Empires II: Definitive Edition invades macOS",
+          "link": "https://arstechnica.com/gaming/2026/05/a-respectable-port-of-age-of-empires-ii-definitive-edition-invades-macos/",
+          "summary": "The port seems solid, and all DLC is supported—but there's no crossplay, sadly.",
+          "published": "Thu, 28 May 2026 18:42:28 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Hype um Prognosemärkte hält an: Wetten, dass Familie Trump gewinnt",
+          "link": "https://netzpolitik.org/2026/hype-um-prognosemaerkte-haelt-an-wetten-dass-familie-trump-gewinnt/",
+          "summary": "Egal ob Krypto- oder Prognosemärkte: Trump dereguliert und profitiert. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Igor Omilaev Während weltweit immer mehr Länder Prognosemärkte als Glücksspiel behandeln, baut die Trump-Regierung ihre Aufsichtsbehörde zum Anwalt der Branche um. In den USA sollen Krypto- und Prognosemärkte so unreguliert wie möglich wachsen können – und Familie Trump profitiert mit.",
+          "published": "Thu, 28 May 2026 14:24:36 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "Die aktuellen Nachrichten decken verschiedene Themen ab, darunter Sicherheitsmaßnahmen für iPhones, die Umstellung der EU-Mittelmeermission IRINI auf Migrationsabwehr, und die Explosion der New Glenn-Rakete von Blue Origin. Zudem wird die Entwicklung von Prognosemärkten unter der Trump-Regierung thematisiert.",
+      "highlights": [
+        "EU-Mittelmeermission IRINI unterstützt nun Migrationsabwehr statt Völkerrecht.",
+        "Blue Origins New Glenn-Rakete explodiert bei einem Routinetest in Florida.",
+        "Trump-Regierung fördert unregulierte Krypto- und Prognosemärkte."
+      ]
+    }
+  ]
+}
