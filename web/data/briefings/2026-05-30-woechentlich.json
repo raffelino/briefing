@@ -1,0 +1,456 @@
+{
+  "date": "2026-05-30",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Snowflake commits $6B to AWS as it pushes deeper into AI",
+          "link": "https://thenewstack.io/snowflake-aws-6b-commitment/",
+          "summary": "Snowflake is committing $6 billion over five years to Amazon Web Services for Graviton compute and AI infrastructure, the data The post Snowflake commits $6B to AWS as it pushes deeper into AI appeared first on The New Stack .",
+          "published": "Wed, 27 May 2026 20:10:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "In dieser Woche hat Snowflake angekündigt, über einen Zeitraum von fünf Jahren 6 Milliarden Dollar in Amazon Web Services (AWS) zu investieren. Diese Investition zielt darauf ab, die Infrastruktur für KI und Graviton-Compute zu erweitern. Dies verdeutlicht den Trend, dass Unternehmen zunehmend auf Cloud-Dienste setzen, um ihre KI- und Datenanalytik-Kapazitäten zu verbessern. Die Partnerschaft zwischen Snowflake und AWS könnte auch die Wettbewerbslandschaft im Bereich Datenmanagement und KI beeinflussen.",
+      "highlights": [
+        "Snowflake investiert 6 Milliarden Dollar in AWS über fünf Jahre.",
+        "Fokus auf Graviton-Compute und KI-Infrastruktur.",
+        "Stärkung der Cloud-Dienste für Datenanalytik.",
+        "Mögliche Auswirkungen auf die Wettbewerbslandschaft im Datenmanagement.",
+        "Zunehmende Bedeutung von KI in Unternehmensstrategien."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AI-Assisted Migration Tool Helps Teams Move from ingress-nginx to Higress in Minutes",
+          "link": "https://www.infoq.com/news/2026/05/ai-nginx-higress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The Cloud Native Computing Foundation has highlighted a new AI-assisted migration approach that enabled engineers to migrate 60 ingress-nginx resources to Higress in roughly 30 minutes, demonstrating how artificial intelligence is increasingly being applied to modernize Kubernetes networking and gateway infrastructure. By Craig Risi",
+          "published": "Fri, 29 May 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Presentation: Building Evals for AI Adoption: From Principles to Practice",
+          "link": "https://www.infoq.com/presentations/eval-ai-adoption/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Mallika Rao discusses the hidden risk of evaluation debt in production AI systems, drawing on her experience at Twitter, Walmart, and Netflix. She explains why traditional metrics fail modern architectures, breaks down a five-layer evaluation stack spanning infrastructure and UX, and shares a diagnostic maturity model to help engineering leaders eliminate silent semantic failures. By Mallika Rao",
+          "published": "Fri, 29 May 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+          "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+          "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
+          "published": "Thu, 28 May 2026 20:29:53 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Why AWS scrapped OpenSearch’s architecture to chase agent workloads",
+          "link": "https://thenewstack.io/aws-opensearch-serverless-agentic-rebuild/",
+          "summary": "AWS on Thursday launched what it calls a near-total rebuild of its managed search and vector engine, in an effort The post Why AWS scrapped OpenSearch&#8217;s architecture to chase agent workloads appeared first on The New Stack .",
+          "published": "Thu, 28 May 2026 18:30:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Accountability is the Goal for AI, with EU Regulations Supporting Transparency",
+          "link": "https://www.infoq.com/news/2026/05/accountability-AI-EU-regulations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AI bias mirrors human bias; both stem from our language and lived experiences. Ethics and AI are inseparable, but AI changes affordances, making harmful actions easier to carry out. The EU regulations apply to AI, since digital products are products. The ultimate goal is accountability: companies must ensure transparency, and laws should favor using the simplest AI that gets the job done. By Ben Linders",
+          "published": "Thu, 28 May 2026 11:08:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Microsoft Announces Azure Linux 4.0, Its First General-Purpose Server Linux Distribution",
+          "link": "https://www.infoq.com/news/2026/05/azure-linux-4-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft announced Azure Linux 4.0 and Azure Container Linux at Open Source Summit. Azure Linux 4.0 is a Fedora-based general-purpose server distribution for Azure VMs, the first time Microsoft has offered a supported Linux beyond container hosting. Azure Container Linux is an immutable container-optimized host built on Flatcar. By Steef-Jan Wiggers",
+          "published": "Thu, 28 May 2026 09:49:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Azure Logic Apps Adds Sandboxed Code Interpreters to Agent Workflows",
+          "link": "https://www.infoq.com/news/2026/05/azure-logic-apps-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft added sandboxed code interpreters to Azure Logic Apps, enabling agents within integration workflows to generate and execute Python, JavaScript, C#, and PowerShell in Hyper-V isolated sessions. Architects get full control over model selection per workflow. The capability positions Logic Apps as an agent platform for integration alongside Foundry and Copilot Studio. By Steef-Jan Wiggers",
+          "published": "Wed, 27 May 2026 09:45:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Für 250 Millionen Euro: Bund schafft neue Abhängigkeiten von IT-Konzernen",
+          "link": "https://netzpolitik.org/2026/fuer-250-millionen-euro-bund-schafft-neue-abhaengigkeiten-von-it-konzernen/",
+          "summary": "Karsten Wildberger freut sich auf die KI-Cloud für die Verwaltung. (Symbolbild) – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Für eine dreistellige Millionensumme sollen SAP und Telekom eine „KI-Cloud“ für die öffentliche Verwaltung bauen. Digitalminister Karsten Wildberger nennt das souverän. Unabhängig wird Deutschlands Verwaltung damit nicht, warnen Opposition und Fachleute.",
+          "published": "Wed, 27 May 2026 06:59:53 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "In der vergangenen Woche lag der Fokus auf der Weiterentwicklung von Cloud-Architekturen und der Integration von KI in verschiedene Plattformen. Die Migration von ingress-nginx zu Higress wurde durch ein KI-gestütztes Tool erheblich beschleunigt, während Microsoft mit Azure Linux 4.0 eine neue Linux-Distribution für seine Cloud-Dienste einführte. Zudem wurden neue Funktionen in Azure Logic Apps vorgestellt, die die Integration von Programmiersprachen in Workflows ermöglichen. Die Diskussion um ethische Standards und Transparenz in der KI wurde durch neue EU-Regulierungen verstärkt, während die deutsche Verwaltung durch eine Kooperation mit SAP und Telekom in neue Abhängigkeiten von IT-Konzernen gerät.",
+      "highlights": [
+        "AI-Tool migriert 60 ingress-nginx Ressourcen zu Higress in 30 Minuten.",
+        "Microsoft launcht Azure Linux 4.0, die erste unterstützte Linux-Distribution für Azure VMs.",
+        "Azure Logic Apps ermöglicht Ausführung von Python, JavaScript, C# und PowerShell in isolierten Sessions.",
+        "EU-Regulierungen zielen auf mehr Transparenz und Verantwortung in der KI-Nutzung.",
+        "Bund investiert 250 Millionen Euro in eine KI-Cloud für die öffentliche Verwaltung."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "KI-Agent im Browser: „Let's Build K.I.T.T. With JavaScript“",
+          "link": "https://www.heise.de/hintergrund/KI-Agent-im-Browser-Let-s-Build-K-I-T-T-With-JavaScript-11293527.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mit WebAssembly, WebGPU und anderen modernen Browsertechnologien entsteht in diesem Vortrag auf der enterJS ein KI-Agent, der autonome Entscheidungen trifft.",
+          "published": "2026-05-30T09:19:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "KI-Agent im Browser: „Let's Build K.I.T.T. With JavaScript“",
+          "link": "https://www.heise.de/hintergrund/KI-Agent-im-Browser-Let-s-Build-K-I-T-T-With-JavaScript-11293527.html",
+          "summary": "Mit WebAssembly, WebGPU und anderen modernen Browsertechnologien entsteht in diesem Vortrag auf der enterJS ein KI-Agent, der autonome Entscheidungen trifft.",
+          "published": "2026-05-30T07:19:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Semantische Anker verkürzen den Kontext für das agentische Coden",
+          "link": "https://www.heise.de/news/Semantische-Anker-verkuerzen-den-Kontext-fuer-das-agentische-Coden-11311061.html",
+          "summary": "Clean Architecture, Code Smells oder Wolf Schneider – ein Verzeichnis auf GitHub sammelt solche semantischen Anker für kurzen Prompt-Kontext.",
+          "published": "2026-05-29T08:21:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "(g+) Protocol Buffers Edition 2024: Moderne APIs für skalierbare Microservices",
+          "link": "https://www.golem.de/news/protocol-buffers-edition-2024-moderne-apis-fuer-skalierbare-microservices-2605-209192.html",
+          "summary": "Protocol Buffers gehören zu den wichtigsten Bausteinen moderner Backend-Systeme. Wie sich Schritt für Schritt ein kleines gRPC-System auf Protocol Buffers Edition 2024 migrieren lässt. Eine Anleitung von Antony Ghiroz ( Microservices , API )",
+          "published": "2026-05-30T10:00:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In dieser Woche lag der Fokus auf der Entwicklung moderner Software-Architekturen, insbesondere im Kontext von KI und Microservices. Der Vortrag auf der enterJS demonstrierte die Erstellung eines KI-Agenten im Browser unter Verwendung von WebAssembly und WebGPU, was die Autonomie von Softwareanwendungen vorantreibt. Zudem wurde ein GitHub-Verzeichnis vorgestellt, das semantische Anker für die Verbesserung des agentischen Codens sammelt. Ein weiterer wichtiger Aspekt war die Migration zu Protocol Buffers Edition 2024, die als Schlüsseltechnologie für skalierbare Microservices gilt.",
+      "highlights": [
+        "KI-Agent im Browser entwickelt mit WebAssembly und WebGPU.",
+        "GitHub-Verzeichnis für semantische Anker zur Verbesserung des Codens.",
+        "Anleitung zur Migration auf Protocol Buffers Edition 2024.",
+        "Fokus auf Clean Architecture und Code Smells in der Software-Entwicklung."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "TikTok, Instagram, Youtube: Plattformen schludern bei Hassrede und Accountsperren",
+          "link": "https://netzpolitik.org/2026/tiktok-instagram-youtube-plattformen-schludern-bei-hassrede-und-accountsperren/",
+          "summary": "Werden eigene Regeln von den Social-Media-Plattformen nicht befolgt, bleiben sie reines Blabla. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Mika Baumeister Wenn Social-Media-Plattformen zu viel oder zu wenig löschen, können sich Nutzer:innen beim Appeals Centre Europe beschweren. In mehr als 1.700 Fällen hielten die Schlichter:innen die Entscheidungen der Tech-Konzerne für falsch. Sie bemängeln „markante und immer wiederkehrende Probleme“.",
+          "published": "Fri, 29 May 2026 14:33:13 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Pullfrog AI: Open-Source CodeRabbit Alternative Powered by GitHub Actions",
+          "link": "https://www.infoq.com/news/2026/05/pullfrog-ai-github/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Pullfrog is an open-source AI-powered GitHub bot by Colin McDonnell, designed for automation in GitHub Actions. It supports a model-agnostic approach, allowing integration with various LLM providers. Key features include orchestration for pull request reviews, issue triage, and CI remediation, all managed within GitHub's environment. The tool operates with a bring-your-own-key model for access. By Daniel Curtis",
+          "published": "Wed, 27 May 2026 06:23:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Landesverfassungsgericht rügt Informationsdefizite bei Northvolt-Förderung",
+          "link": "https://www.heise.de/news/Landesverfassungsgericht-ruegt-Informationsdefizite-bei-Northvolt-Foerderung-11311609.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Laut eines Gerichtsentscheids verstieß die schwarz-grüne Landesregierung von Schleswig-Holstein bei der Förderung von Northvolt gegen ihre Informationspflicht.",
+          "published": "2026-05-29T13:09:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Northvolt in Heide: Schleswig-Holstein hat gegen Informationspflicht verstoßen",
+          "link": "https://www.golem.de/news/northvolt-in-heide-schleswig-holstein-hat-gegen-informationspflicht-verstossen-2605-209195.html",
+          "summary": "Die Regierung Schleswig-Holsteins informiert nicht ausreichend über Bedenken zur Finanzierung einer Batteriefabrik in Heide. ( Unternehmen , Wirtschaft )",
+          "published": "2026-05-29T13:00:06+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Investitionspflicht für Filme und Serien: Netflix befürchtet Nachteile für die Branche",
+          "link": "https://www.golem.de/news/investitionspflicht-fuer-filme-und-serien-netflix-befuerchtet-nachteile-fuer-die-branche-2605-209184.html",
+          "summary": "Die Bundesregierung will die deutsche Filmwirtschaft fördern. Das kritisiert Netflix und befürchtet einen gegenteiligen Effekt. ( Netflix , Disney )",
+          "published": "2026-05-29T10:50:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In dieser Woche standen Themen der Automatisierung und Transparenz im Fokus. Während neue Tools wie Pullfrog AI die Effizienz in der Softwareentwicklung durch Automatisierung in GitHub Actions steigern, zeigen aktuelle Berichte über Social-Media-Plattformen, dass es an der Einhaltung eigener Richtlinien mangelt. Die Diskussion um Informationspflichten bei staatlichen Förderungen, wie im Fall von Northvolt, verdeutlicht die Notwendigkeit für mehr Transparenz in der Politik. Diese Trends unterstreichen die Bedeutung von Automatisierung und verantwortungsvollem Handeln in der digitalen und politischen Landschaft.",
+      "highlights": [
+        "Pullfrog AI ist ein Open-Source GitHub Bot für Automatisierung.",
+        "Über 1.700 Beschwerden über falsche Entscheidungen bei Social-Media-Accounts.",
+        "Schleswig-Holstein verstößt gegen Informationspflicht bei Northvolt-Förderung.",
+        "Netflix kritisiert geplante Investitionspflicht für die Filmwirtschaft."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Why Linux creator Linus Torvalds gets angry hearing “99% of code is AI”",
+          "link": "https://thenewstack.io/torvalds-ai-programming-productivity/",
+          "summary": "During his keynote at the recent Open Source Summit North America, Linux and Git creator Linus Torvalds did not mince The post Why Linux creator Linus Torvalds gets angry hearing &#8220;99% of code is AI&#8221; appeared first on The New Stack .",
+          "published": "Fri, 29 May 2026 14:34:48 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Taming the agentic influx: a blueprint for AI business observability",
+          "link": "https://thenewstack.io/ai-spend-business-observability/",
+          "summary": "Kin Lane, API industry analyst and co-founder of Naftiko, believes that the bill for AI is coming soon. It&#8217;s arriving The post Taming the agentic influx: a blueprint for AI business observability appeared first on The New Stack .",
+          "published": "Tue, 26 May 2026 12:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "DNS-AID: Agenten veröffentlichen wie Webseiten",
+          "link": "https://www.heise.de/news/DNS-AID-Telefonbuch-fuer-KI-Agenten-11311692.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "DNS-AID will KI-Agenten wie Websites auffindbar machen. Das Open-Source-Projekt der Linux Foundation setzt dafür auf etablierte DNS-Standards statt Registries.",
+          "published": "2026-05-29T15:19:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "DNS-AID: Agenten veröffentlichen wie Webseiten",
+          "link": "https://www.heise.de/news/DNS-AID-Telefonbuch-fuer-KI-Agenten-11311692.html",
+          "summary": "DNS-AID will KI-Agenten wie Websites auffindbar machen. Das Open-Source-Projekt der Linux Foundation setzt dafür auf etablierte DNS-Standards statt Registries.",
+          "published": "2026-05-29T13:19:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Waymo Ojai: Waymo bietet erste Fahrten mit speziell angefertigtem Robotaxi an",
+          "link": "https://www.golem.de/news/waymo-ojai-waymo-bietet-erste-fahrten-mit-speziell-angefertigtem-robotaxi-an-2605-209183.html",
+          "summary": "Bisher setzte Waymo vor allem auf umgebaute Autos anderer Hersteller - der Ojai ist speziell für den Robotaxidienst gebaut. ( Waymo , Barrierefreiheit )",
+          "published": "2026-05-29T11:40:05+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Acer’s launching a Linux handheld for streaming your PC games",
+          "link": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld",
+          "summary": "The Acer Nitro Blaze Link might run on Linux, but it's no Steam Deck. Acer says it's a \"streaming-first handheld and companion device,\" like a PlayStation Portal for your PC. Announced ahead of Computex on Friday, it's launching in Q4 2026 with a 7-inch (1920 x 1200) display, Wi-Fi 6, just 1GB of LPDDR4 RAM, [&#8230;]",
+          "published": "2026-05-29T15:01:48-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "In dieser Woche standen die Themen Künstliche Intelligenz (KI) und Open Source im Fokus. Linus Torvalds äußerte sich kritisch zur Überbewertung von KI in der Softwareentwicklung, während das Open-Source-Projekt DNS-AID die Auffindbarkeit von KI-Agenten verbessern möchte. Zudem kündigte Waymo ein speziell entwickeltes Robotaxi an, was die Fortschritte im Bereich autonomer Fahrzeuge unterstreicht. Acer plant die Einführung eines Linux-basierten Handhelds für das Streaming von PC-Spielen, was die Diversifizierung von Gaming-Plattformen zeigt.",
+      "highlights": [
+        "Linus Torvalds kritisiert die Aussage, dass 99% des Codes KI-generiert ist.",
+        "Das Open-Source-Projekt DNS-AID nutzt etablierte DNS-Standards zur Auffindbarkeit von KI-Agenten.",
+        "Waymo präsentiert das speziell für Robotaxis entwickelte Fahrzeug Ojai.",
+        "Acer kündigt einen Linux-Handheld für PC-Game-Streaming an, der 2026 auf den Markt kommt."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "CEOs setzen auf KI: 99 Prozent planen Einschnitte beim Personal",
+          "link": "https://t3n.de/news/ceos-setzen-auf-ki-99-prozent-1744344/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI könnte in den kommenden Jahren für zahlreiche Entlassungen sorgen, wenn es nach einer Umfrage unter 1.000 CEOs geht. Sie rechnen damit, dass sie weniger Angestellte brauchen werden – KI-Tools sollen sie ersetzen. Die Sorgen der Beschäftigten werden kaum berücksichtigt. weiterlesen auf t3n.de",
+          "published": "Sat, 30 May 2026 09:45:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "House of the Dragon S3 trailer revels in dragons, fire, and blood",
+          "link": "https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/",
+          "summary": "\"The crown is a weight that crushes. You'll do things that spell death for all involved.\"",
+          "published": "Fri, 29 May 2026 18:21:44 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Diese Streaming-Sticks von Amazon und Google machen deinen alten Fernseher fit für die WM",
+          "link": "https://t3n.de/news/diese-streaming-sticks-von-amazon-und-google-machen-deinen-alten-fernseher-fit-fuer-die-wm-1744801/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Magenta TV überträgt 44 Spiele der diesjährigen Fußball-Weltmeisterschaft exklusiv. Wir erklären dir, wie du auch mit einem älteren Fernsehgerät alle Begegnungen möglichst kostengünstig schauen kannst. weiterlesen auf t3n.de",
+          "published": "Fri, 29 May 2026 15:30:56 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Karte statt Kaufabbruch: So testest du Kartenzahlung ohne Risiko",
+          "link": "https://t3n.de/news/karte-statt-kaufabbruch-kartenzahlung-testen-1740218/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kartenzahlung wird für viele Kundinnen und Kunden zunehmend selbstverständlich. Für Händler stellt sich damit immer häufiger die Frage, wie relevant bargeldloses Bezahlen im eigenen Geschäft inzwischen ist. weiterlesen auf t3n.de",
+          "published": "Fri, 29 May 2026 13:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Claude Opus 4.8: Warum das KI-Modell besonders ehrlich ist – und Anthropic es bald mit Mythos übertreffen will",
+          "link": "https://t3n.de/news/claude-opus-4-8-ehrlich-mythos-start-steht-bevor-1744839/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Anthropic hat eine neue Version seines KI-Modells Opus vorgestellt. Opus 4.8 soll nicht nur besser, sondern auch ehrlicher sein. Zudem kündigt das KI-Unternehmen an, schon bald eine Mythos-ähnliche KI zur Verfügung zu stellen. weiterlesen auf t3n.de",
+          "published": "Fri, 29 May 2026 11:15:04 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Zielgruppenansprache ohne Streuverluste: So funktionieren Deep Learning und LLMs im Targeting",
+          "link": "https://t3n.de/news/zielgruppenansprache-ohne-streuverluste-so-funktionieren-deep-learning-und-llms-im-targeting-1744662/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die digitale Customer Journey wird immer komplexer und klassische Algorithmen stoßen längst an ihre Grenzen. Im Interview erklärt der Managing Director Danie weiterlesen auf t3n.de",
+          "published": "Fri, 29 May 2026 11:00:28 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "GitHub Slashes Agent Workflow Token Spend up to 62% with Daily Audits and MCP Pruning",
+          "link": "https://www.infoq.com/news/2026/05/github-agentic-token-savings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "GitHub reports cutting token costs in agentic CI workflows by up to 62% by pruning unused MCP tools, swapping some MCP calls for gh CLI, and running daily “auditor” and “optimizer” agents. A token-usage.jsonl artefact and an Effective Tokens metric help track spend across models and spot regressions. By Mark Silvester",
+          "published": "Fri, 29 May 2026 08:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "LLMs believe false statements even after explicit warnings that they're false",
+          "link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+          "summary": "Fine-tuning tests show \"bias... toward confidently representing the claims as true.\"",
+          "published": "Thu, 28 May 2026 21:29:43 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "In dieser Woche dominierte das Thema generative KI und LLMs die Nachrichten. Eine Umfrage unter CEOs zeigt, dass 99 Prozent von ihnen Personalabbau aufgrund von KI-Implementierungen planen. Gleichzeitig stellte Anthropic die neue Version seines KI-Modells Opus 4.8 vor, das als ehrlicher gilt. Zudem wird die Rolle von Deep Learning und LLMs im Targeting von Zielgruppen immer wichtiger, während Bedenken über die Zuverlässigkeit von LLMs bestehen bleiben, da sie falsche Informationen auch nach Warnungen als wahr darstellen. Diese Entwicklungen verdeutlichen die wachsende Bedeutung und die Herausforderungen von KI in der Arbeitswelt und im Marketing.",
+      "highlights": [
+        "99% der CEOs planen Personalabbau durch KI",
+        "Anthropic stellt KI-Modell Opus 4.8 vor",
+        "Deep Learning verbessert Zielgruppenansprache",
+        "LLMs glauben falschen Aussagen trotz Warnungen",
+        "Wachsende Bedeutung von KI in der Arbeitswelt"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Datenschutz auf Knopfdruck? Was KI im DSGVO-Alltag wirklich leisten kann – und was nicht",
+          "link": "https://t3n.de/news/datenschutz-ki-dsgvo-alltag-1741238/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Datenschutz scheitert nicht am Fachwissen, sondern an der Zuarbeit aus Fachbereichen. Ein KI-Assistent ändert das: VVT, DSFA und TOM werden strukturiert, prüfbar und skalierbar. Eine Praxis-Demo zeigt wie. weiterlesen auf t3n.de",
+          "published": "Sat, 30 May 2026 08:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "“The AI did it” won’t save you when EU regulators come knocking",
+          "link": "https://thenewstack.io/eu-cyber-resilience-act/",
+          "summary": "The European Union&#8217;s Cyber Resilience Act (CRA) is just months away from ushering in a new era of accountability that&#8217;s The post &#8220;The AI did it&#8221; won&#8217;t save you when EU regulators come knocking appeared first on The New Stack .",
+          "published": "Fri, 29 May 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Unsichere Billigimporte: EU-Kommission überzieht Temu mit einer satten Strafe",
+          "link": "https://netzpolitik.org/2026/unsichere-billigimporte-eu-kommission-ueberzieht-temu-mit-einer-satten-strafe/",
+          "summary": "Temu hat den Digital Services Act verletzt, hat heute die EU-Kommission verkündet. – Alle Rechte vorbehalten: IMAGO / SOPA Images Der chinesische Online-Händler Temu schlampt im Umgang mit gefährlichen und illegalen Produkten, hat heute die EU-Kommission festgestellt. Nach X handelt es sich um den zweiten Online-Dienst, der gegen den Digital Services Act verstoßen hat.",
+          "published": "Thu, 28 May 2026 12:20:27 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Cybersicherheit: Kritische Infrastrukturen holen auf, doch „Risiko-Zone“ wächst",
+          "link": "https://www.heise.de/news/Cybersicherheit-Kritische-Infrastrukturen-holen-auf-doch-Risiko-Zone-waechst-11312014.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein Enisa-Bericht zeigt deutliche Fortschritte durch die NIS2-Richtlinie, warnt aber vor wachsenden digitalen Gefahren in den Sektoren Raumfahrt und Transport.",
+          "published": "2026-05-29T16:07:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "In dieser Woche stand die EU-Tech-Regulierung im Fokus, insbesondere im Hinblick auf Datenschutz und Cybersicherheit. Die Diskussion um den Einsatz von KI zur Unterstützung bei der Einhaltung der DSGVO nimmt zu, während gleichzeitig die Verantwortung von Unternehmen unter dem Cyber Resilience Act (CRA) verstärkt wird. Zudem wurde der chinesische Online-Händler Temu wegen Verstößen gegen den Digital Services Act bestraft, was die Herausforderungen im Bereich sicherer digitaler Dienstleistungen verdeutlicht. Ein Bericht zur NIS2-Richtlinie zeigt Fortschritte in der Cybersicherheit, warnt jedoch vor wachsenden Risiken in kritischen Infrastrukturen.",
+      "highlights": [
+        "KI-Assistenz für DSGVO-Compliance wird erprobt.",
+        "EU-Kommission verhängt Strafe gegen Temu wegen Digital Services Act-Verstößen.",
+        "Cyber Resilience Act führt zu erhöhter Unternehmensverantwortung.",
+        "NIS2-Richtlinie zeigt Fortschritte, warnt vor neuen digitalen Gefahren."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Vendor neutrality isn’t magic: A hard look at the OpenTelemetry ecosystem",
+          "link": "https://thenewstack.io/opentelemetry-vendor-neutrality-guide/",
+          "summary": "The OpenTelemetry (OTel) ecosystem provides us not only with a standard data format and transport mechanism for generating, processing, and The post Vendor neutrality isn’t magic: A hard look at the OpenTelemetry ecosystem appeared first on The New Stack .",
+          "published": "Fri, 29 May 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Debugging the undebuggable: building observability into probabilistic AI systems",
+          "link": "https://thenewstack.io/debugging-observable-ai-systems/",
+          "summary": "Debugging used to be straightforward: A service failed, you checked the logs, followed the stack trace, and fixed the bug. The post Debugging the undebuggable: building observability into probabilistic AI systems appeared first on The New Stack .",
+          "published": "Thu, 28 May 2026 11:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "How LinkedIn Identified a Kernel Lock Contention Issue Causing Recurring System Freezes",
+          "link": "https://www.infoq.com/news/2026/05/linkedin-kernel-lock-freeze/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "When LinkedIn engineers encountered short-lived, recurring outages where the database powering their user feed became unavailable and then recovered without leaving helpful traces, they had to devise a novel approach to uncover the root cause using off-CPU profiling with eBPF. By Sergio De Simone",
+          "published": "Wed, 27 May 2026 18:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "In dieser Woche lag der Fokus auf der Observability in verschiedenen Systemen, insbesondere im Kontext von OpenTelemetry und probabilistischen KI-Systemen. Die Diskussion um Vendor-Neutralität in der OpenTelemetry-Ökosystem zeigt, dass Standards zwar hilfreich sind, jedoch nicht alle Herausforderungen lösen können. Zudem beleuchtet LinkedIn innovative Ansätze zur Problemlösung bei Systemausfällen, die durch Kernel Lock Contention verursacht werden. Diese Entwicklungen verdeutlichen die Notwendigkeit robusterer Debugging-Methoden und die Integration von Observability in komplexe Systeme.",
+      "highlights": [
+        "OpenTelemetry bietet standardisierte Datenformate und Transportmechanismen.",
+        "Debugging in probabilistischen KI-Systemen erfordert neue Ansätze zur Fehleridentifikation.",
+        "LinkedIn nutzte off-CPU Profiling mit eBPF zur Analyse von Systemausfällen.",
+        "Vendor-Neutralität allein garantiert keine umfassende Problemlösung in der Observability."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "KW 22: Die Woche, als die Databroker Files weiter Kreise zogen",
+          "link": "https://netzpolitik.org/2026/kw-22-die-woche-als-die-databroker-files-weiter-kreise-zogen/",
+          "summary": "Die 22. Kalenderwoche geht zu Ende. Wir haben 8 neue Texte mit insgesamt 58.965 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 30 May 2026 06:17:59 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Remote Work klappt bei euch nicht? Dann liegt es nicht am Homeoffice",
+          "link": "https://t3n.de/news/remote-work-homeoffice-prozesse-1738204/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Remote Work ist Alltag, doch fehlende Prozesse bremsen Teams aus. Wie ein digitales Headquarter mit den richtigen Remote-Work-Tools Struktur schafft und Produktivität in der Hybridarbeit steigert. weiterlesen auf t3n.de",
+          "published": "Sat, 30 May 2026 07:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "DOJ sues states that rejected ICE requests for undercover license plates",
+          "link": "https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/",
+          "summary": "DOJ keeps accusing ICE monitoring sites of doxing, but evidence remains scarce.",
+          "published": "Fri, 29 May 2026 17:41:56 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Smartphone-Akku bei Hitze schonen: So verlängerst du die Lebenszeit im Sommer",
+          "link": "https://t3n.de/news/smartphone-akku-bei-hitze-schonen-so-verlaengerst-du-die-lebenszeit-im-sommer-1744877/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn die Sonne uns nach draußen lockt, lassen wir unser Smartphone nur selten drinnen zurück. Doch die Hitze kann den Geräten – und gerade den Akkus – schnell schaden. Wie du langfristige Probleme mit dem Smartphone-Akku im Sommer verhinderst. weiterlesen auf t3n.de",
+          "published": "Fri, 29 May 2026 14:45:37 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mit KI-Empfehlungen und Auto Speed: Wie Youtube mit neuen Podcast-Tools Premium-Abonnenten lockt",
+          "link": "https://t3n.de/news/mit-ki-empfehlungen-und-auto-speed-wie-youtube-mit-neuen-podcast-tools-premium-abonnenten-lockt-1744878/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit neuen Premium-Features, automatischer Wiedergabesteuerung und KI-Empfehlungen setzt Youtube auf eine intelligentere Podcast-Suche und ein komfortableres Hörerlebnis. weiterlesen auf t3n.de",
+          "published": "Fri, 29 May 2026 12:50:52 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mit diesem einfachen Trick schützt du dein iPhone besser vor Diebstahl",
+          "link": "https://t3n.de/news/mit-diesem-einfachen-trick-schuetzt-du-dein-iphone-besser-vor-diebstahl-1744758/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer sein gestohlenes iPhone orten will, hat dazu oft nur wenige Minuten Zeit. Denn viele Diebe nutzen einen Trick, um ein Smartphone innerhalb weniger Sekunden „unsichtbar“ zu machen. Mit einer einfachen Einstellung lässt sich das verhindern. weiterlesen auf t3n.de",
+          "published": "Fri, 29 May 2026 09:00:03 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Statt Durchsetzung von Völkerrecht: EU-Mittelmeermission IRINI dient künftig nur noch der Migrationsabwehr",
+          "link": "https://netzpolitik.org/2026/statt-durchsetzung-von-voelkerrecht-eu-mittelmeermission-irini-dient-kuenftig-nur-noch-der-migrationsabwehr/",
+          "summary": "Ein Patrouillenboot der libyschen Küstenwache im August 2025 – Alle Rechte vorbehalten: Max Cavallari / SOS MEDITERRANEE Griechenland und Frankreich lassen das UN-Mandat der Mittelmeermission IRINI gegen Waffenlieferungen auslaufen. Stattdessen unterstützt die EU nun auch das abtrünnige Ostlibyen mit Überwachungstechnik und der Ausbildung libyschen Personals, das dann Flüchtlingsboote abfangen soll.",
+          "published": "Fri, 29 May 2026 06:28:50 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Hype um Prognosemärkte hält an: Wetten, dass Familie Trump gewinnt",
+          "link": "https://netzpolitik.org/2026/hype-um-prognosemaerkte-haelt-an-wetten-dass-familie-trump-gewinnt/",
+          "summary": "Egal ob Krypto- oder Prognosemärkte: Trump dereguliert und profitiert. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Igor Omilaev Während weltweit immer mehr Länder Prognosemärkte als Glücksspiel behandeln, baut die Trump-Regierung ihre Aufsichtsbehörde zum Anwalt der Branche um. In den USA sollen Krypto- und Prognosemärkte so unreguliert wie möglich wachsen können – und Familie Trump profitiert mit.",
+          "published": "Thu, 28 May 2026 14:24:36 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "In der vergangenen Woche wurde das Thema Open Source und Software Supply Chain durch verschiedene Entwicklungen in den Medien beleuchtet. Während der Fokus auf der Verbesserung von Remote-Arbeitsprozessen lag, wurde auch die Bedeutung von Sicherheitsmaßnahmen in der digitalen Welt hervorgehoben. Insbesondere die Herausforderungen bei der Nutzung von Technologien und deren Auswirkungen auf die Privatsphäre und Sicherheit standen im Vordergrund. Zudem wurde die Rolle von Prognosemärkten und deren Regulierung diskutiert, was auf einen Trend zur Deregulierung in bestimmten Bereichen hinweist.",
+      "highlights": [
+        "8 neue Texte auf netzpolitik.org veröffentlicht",
+        "Remote Work erfordert strukturierte Prozesse zur Produktivitätssteigerung",
+        "EU-Mittelmeermission IRINI ändert Fokus auf Migrationsabwehr",
+        "Prognosemärkte werden zunehmend als Glücksspiel behandelt",
+        "Technologische Sicherheitsmaßnahmen werden immer wichtiger"
+      ]
+    }
+  ]
+}
