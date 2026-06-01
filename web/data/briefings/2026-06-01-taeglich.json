@@ -1,0 +1,298 @@
+{
+  "date": "2026-06-01",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "A Trailing Slash Bypassed AWS API Gateway Authorization",
+          "link": "https://www.infoq.com/news/2026/06/aws-api-gateway-auth-bypass/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "A security researcher found that adding a trailing slash to AWS HTTP API paths bypassed Lambda authorizer authentication entirely, enabling unauthenticated wire transfers at a fintech. The root cause is a path normalization mismatch between HTTP API's greedy route matching and its authorization layer. The same vulnerability class appeared in gRPC-Go via CVE-2026-33186. By Steef-Jan Wiggers",
+          "published": "Mon, 01 Jun 2026 09:55:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Verrücktester Leak des Jahres? Pixel Watch 5 offenbar beim Tauchen in der Karibik gefunden",
+          "link": "https://t3n.de/news/verrueckter-leak-pixel-watch-5-beim-tauchen-gefunden-1745121/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das könnte einer der speziellsten Leaks der Technologiegeschichte sein: Beim Tauchen in der Karibik wurde offenbar ein Prototyp einer Pixel Watch 5 gefunden. So kam es dazu. weiterlesen auf t3n.de",
+          "published": "Mon, 1 Jun 2026 11:30:33 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Telefonica, Vodafone und Telekom wollen 2G abschalten: Diese Vor- und Nachteile ergeben sich daraus",
+          "link": "https://t3n.de/news/2g-abschaltung-telefonica-vodafone-telekom-vorteile-nachteile-1745132/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Als der Mobilfunkstandard 2G eingeführt wurde, war Helmut Kohl Bundeskanzler, und die Telekom hieß Bundespost. Den Funkstandard gibt es immer noch. Doch nun sind seine letzten Tage gezählt. weiterlesen auf t3n.de",
+          "published": "Mon, 1 Jun 2026 10:00:17 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Forscher simulieren Handgriffe in Schwerelosigkeit mit Exoskelett",
+          "link": "https://www.heise.de/news/Forscher-simulieren-Handgriffe-in-Schwerelosigkeit-mit-Exoskelett-11313398.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein Exoskelett soll Astronauten auf der Erde darauf vorzubereiten, komplexe Handgriffe unter Schwerelosigkeit ausführen zu können. Dazu sind noch Tests nötig.",
+          "published": "2026-06-01T12:10:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Studie kritisiert Nachhaltigkeitsversprechen der KI-Branche",
+          "link": "https://www.heise.de/news/Studie-kritisiert-Nachhaltigkeitsversprechen-der-KI-Branche-11313524.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Große KI-Modelle wie ChatGPT verbrauchen so viel Strom wie ganze Länder. Trotzdem werben Tech-Konzerne mit grünen Versprechen. Was steckt wirklich dahinter?",
+          "published": "2026-06-01T11:58:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Aktuelle Nachrichten aus der Cloud-Architektur und Plattformen zeigen Sicherheitsrisiken bei AWS, während die KI-Branche für ihren hohen Energieverbrauch kritisiert wird. Zudem stehen Mobilfunkanbieter vor der Abschaltung des 2G-Standards.",
+      "highlights": [
+        "AWS API Gateway Autorisierung kann durch Trailing Slash umgangen werden, was zu Sicherheitslücken führt.",
+        "2G-Mobilfunkstandard wird von Telefonica, Vodafone und Telekom abgeschaltet.",
+        "KI-Modelle wie ChatGPT verbrauchen so viel Strom wie ganze Länder, trotz grüner Versprechen der Tech-Konzerne."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "KI-Agent im Browser: „Let's Build K.I.T.T. With JavaScript“",
+          "link": "https://www.heise.de/hintergrund/KI-Agent-im-Browser-Let-s-Build-K-I-T-T-With-JavaScript-11293527.html",
+          "summary": "Mit WebAssembly, WebGPU und anderen modernen Browsertechnologien entsteht in diesem Vortrag auf der enterJS ein KI-Agent, der autonome Entscheidungen trifft.",
+          "published": "2026-05-30T07:19:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Semantische Anker verkürzen den Kontext für das agentische Coden",
+          "link": "https://www.heise.de/news/Semantische-Anker-verkuerzen-den-Kontext-fuer-das-agentische-Coden-11311061.html",
+          "summary": "Clean Architecture, Code Smells oder Wolf Schneider – ein Verzeichnis auf GitHub sammelt solche semantischen Anker für kurzen Prompt-Kontext.",
+          "published": "2026-05-29T08:21:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Moderne Technologien wie WebAssembly und WebGPU ermöglichen die Entwicklung eines KI-Agenten im Browser, der autonome Entscheidungen treffen kann. Zudem wird ein GitHub-Verzeichnis vorgestellt, das semantische Anker für die Verbesserung des agentischen Codierens bereitstellt.",
+      "highlights": [
+        "Vortrag über KI-Agenten auf der enterJS mit JavaScript.",
+        "Verwendung von WebAssembly und WebGPU für Browseranwendungen.",
+        "GitHub-Verzeichnis sammelt semantische Anker zur Optimierung des Codierens."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "IT-Sicherheitslösung Check Point Security Gateway ist verwundbar",
+          "link": "https://www.heise.de/news/IT-Sicherheitsloesung-Check-Point-Security-Gateway-ist-verwundbar-11312987.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Entwickler von Check Point haben in Spark Firewall und Security Gateway mehrere Schwachstellen geschlossen.",
+          "published": "2026-06-01T09:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Angriffe auf Palo Alto Networks PAN-OS GlobalProtect",
+          "link": "https://www.heise.de/news/Angriffe-auf-Palo-Alto-Networks-PAN-OS-GlobalProtect-11312921.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine Schwachstelle in Palo Altos PAN-OS wird angegriffen, warnen der Hersteller und die IT-Sicherheitsbehörde CISA.",
+          "published": "2026-06-01T08:42:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "DFKI: Browser-Erweiterung anonymisiert KI-Prompts direkt in Chrome",
+          "link": "https://www.golem.de/news/dfki-browser-erweiterung-anonymisiert-ki-prompts-direkt-in-chrome-2605-209222.html",
+          "summary": "Schluss mit Datenlecks im KI-Chat: Das DFKI bringt eine Chrome-Erweiterung, die sensible Inhalte unkenntlich macht, bevor sie in Chatbots landen. ( KI , Browser )",
+          "published": "2026-05-30T13:01:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle IT-Sicherheitslösungen zeigen Schwachstellen, die sowohl Check Point als auch Palo Alto Networks betreffen. Während Check Point mehrere Sicherheitslücken in seinen Produkten geschlossen hat, wird eine kritische Schwachstelle in Palo Altos PAN-OS aktiv angegriffen. Zudem entwickelt das DFKI eine Chrome-Erweiterung zur Anonymisierung von KI-Prompts.",
+      "highlights": [
+        "Check Point schließt mehrere Schwachstellen in Spark Firewall und Security Gateway.",
+        "Palo Alto Networks warnt vor Angriffen auf eine Schwachstelle in PAN-OS.",
+        "DFKI entwickelt eine Chrome-Erweiterung zur Anonymisierung von KI-Prompts, um Datenlecks zu verhindern."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "heise+ | Barrierefreie Webentwicklung: Was automatisierte Tests wirklich leisten",
+          "link": "https://www.heise.de/hintergrund/Barrierefreie-Webentwicklung-Was-automatisierte-Tests-wirklich-leisten-11311101.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Automatisierte Tests versprechen objektive Qualitätssicherung. Doch wie belastbar sind sie im Vergleich zu einem externen Barrierefreiheits-Audit?",
+          "published": "2026-06-01T09:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "DNS-AID: Agenten veröffentlichen wie Webseiten",
+          "link": "https://www.heise.de/news/DNS-AID-Telefonbuch-fuer-KI-Agenten-11311692.html",
+          "summary": "DNS-AID will KI-Agenten wie Websites auffindbar machen. Das Open-Source-Projekt der Linux Foundation setzt dafür auf etablierte DNS-Standards statt Registries.",
+          "published": "2026-05-29T13:19:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Automatisierte Tests in der barrierefreien Webentwicklung bieten objektive Qualitätssicherung, ihre Belastbarkeit im Vergleich zu externen Audits bleibt jedoch fraglich. Gleichzeitig zielt das Open-Source-Projekt DNS-AID darauf ab, KI-Agenten über etablierte DNS-Standards auffindbar zu machen.",
+      "highlights": [
+        "Automatisierte Tests können nicht alle Aspekte der Barrierefreiheit abdecken.",
+        "Externe Audits bieten oft tiefere Einblicke in die Barrierefreiheit von Webseiten.",
+        "DNS-AID nutzt etablierte DNS-Standards zur Auffindbarkeit von KI-Agenten."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Uber will Robotaxis in München testen – doch wichtige Fragen bleiben offen",
+          "link": "https://t3n.de/news/uber-robotaxis-muenchen-test-1745123/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Taxi ohne Fahrer, Cockpit überflüssig: In München rollen bald autonome Autos von Uber und Autobrains. Doch welche Marke macht das Rennen – und wer darf zuerst einsteigen? weiterlesen auf t3n.de",
+          "published": "Mon, 1 Jun 2026 08:55:16 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Keinerlei positiven Nutzen für die Umwelt“: NGOs kritisieren Greenwashing bei großen KI-Modellen",
+          "link": "https://t3n.de/news/ki-greenwahsing-umwelt-ngo-kritik-1745113/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Große KI-Modelle wie ChatGPT verbrauchen so viel Strom wie ganze Länder. Trotzdem werben Tech-Konzerne mit grünen Versprechen. Was steckt wirklich dahinter? weiterlesen auf t3n.de",
+          "published": "Mon, 1 Jun 2026 08:25:40 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "5 Dinge, die du diese Woche wissen musst: Wie gut sind KI-Alternativen aus Europa?",
+          "link": "https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-eu-ki-alternativen-oura-ring-5-openlaw-os-museum-iphone-schutz-1744897/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um KI-Alternativen zu ChatGPT und Co. aus Europa, einen neuen smarten Ring, die Arbeit mit Openclaw, ein Museum für Betriebssysteme und Diebstahlschutz fürs iPhone. weiterlesen auf t3n.de",
+          "published": "Mon, 1 Jun 2026 08:00:24 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Vatikan-Washing“: Kritiker zweifeln an Anthropics ethischen Ambitionen",
+          "link": "https://t3n.de/news/vatikan-washing-kritiker-zweifeln-an-anthropics-ethischen-ambitionen-1745095/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit einer Bewertung von 965 Milliarden Dollar ist Anthropic zum wertvollsten KI-Unternehmen aufgestiegen. Aber der Erfolg ist nicht unumstritten: Ausgerechnet für einen Auftritt mit Papst Leo hagelt es Kritik. weiterlesen auf t3n.de",
+          "published": "Sun, 31 May 2026 19:40:10 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "ChatGPT-Ads: Warum Googles Werbe-Imperium ins Wanken geraten könnte",
+          "link": "https://t3n.de/news/chatgpt-ads-googles-werbe-imperium-gefaehrdet-1744465/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Similarweb-Produktchef Harel Amir hat Werbung in ChatGPT analysiert und eine Entdeckung gemacht, die vor allem Google nicht gefallen dürfte. Denn die Art der Ads bei dem Chatbot unterscheidet sich fundamental von jenen in der Suchmaschine. weiterlesen auf t3n.de",
+          "published": "Sun, 31 May 2026 17:30:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Diskussion um generative KI und große Sprachmodelle (LLMs) wird von Bedenken hinsichtlich Umweltbelastung und ethischen Fragen geprägt. Während Unternehmen wie Uber autonome Fahrzeuge testen, kritisieren NGOs das Greenwashing großer KI-Modelle. Zudem wird die Werbestrategie von ChatGPT als potenzielle Bedrohung für Google angesehen.",
+      "highlights": [
+        "Uber plant Tests mit Robotaxis in München.",
+        "NGOs kritisieren den hohen Stromverbrauch großer KI-Modelle wie ChatGPT.",
+        "ChatGPT-Werbung könnte Googles Werbe-Imperium gefährden."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop: NIS-2-Richtlinie im Unternehmen umsetzen",
+          "link": "https://www.heise.de/news/iX-Workshop-NIS-2-Richtlinie-im-Unternehmen-umsetzen-11310897.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Erfahren Sie, welche NIS-2-Pflichten für Ihr Unternehmen gelten – und wie Sie passende Sicherheitsmaßnahmen für Ihre IT gezielt planen und umsetzen.",
+          "published": "2026-06-01T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "„Minecraft“-Fortsetzung heißt „A Minecraft Movie Squared“",
+          "link": "https://www.heise.de/news/Minecraft-Fortsetzung-heisst-A-Minecraft-Movie-Squared-11312917.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Titel der „Minecraft“-Fortsetzung steht fest: „A Minecraft Movie Squared“. Kirsten Dunst spielt Alex, gab Warner Bros. beim Minecraft-Live-Event bekannt.",
+          "published": "2026-06-01T09:12:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Computex: Nvidia zeigt PC-Roadmap bis 2030",
+          "link": "https://www.heise.de/news/Nvidia-zeigt-PC-Roadmap-bis-2030-11312959.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Nvidia will bei seinen Mobilprozessoren ernst machen. Bis 2030 kommen zwei weitere Generationen.",
+          "published": "2026-06-01T08:37:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Here’s your first look at ‘A Minecraft Movie Squared’ with Kirsten Dunst as Alex",
+          "link": "https://www.theverge.com/entertainment/940523/minecraft-movie-squared-sequel-kirsten-dunst-alex",
+          "summary": "The A Minecraft Movie sequel officially has a title: A Minecraft Movie Squared. What's more, we now know that Kirsten Dunst will star as Alex, the game's female character option, and that Matt Berry is set to play an even bigger role in this film. He voiced Nitwit in the first movie, but in this [&#8230;]",
+          "published": "2026-05-31T15:28:11-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Die EU-Tech-Regulierung wird durch die NIS-2-Richtlinie gestärkt, die Unternehmen verpflichtet, spezifische Sicherheitsmaßnahmen für ihre IT zu implementieren. Dies soll die Cybersicherheit innerhalb der EU verbessern.",
+      "highlights": [
+        "NIS-2-Richtlinie legt neue Sicherheitsanforderungen für Unternehmen fest.",
+        "Workshop von heise bietet Unterstützung bei der Umsetzung der Richtlinie.",
+        "Ziel ist die Verbesserung der Cybersicherheit in der EU."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "DLSS 4.5: Nvidia verbessert Ray Reconstruction für Raytracing-Spiele",
+          "link": "https://www.heise.de/news/DLSS-4-5-Nvidia-verbessert-Ray-Reconstruction-fuer-Raytracing-Spiele-11313102.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Nvidias Ray-Reconstruction-Modell für DLSS 4.5 kommt im August und verbessert die Grafik in Raytracing-Spielen wie „Cyberpunk 2077“ – auf Wunsch vieler Nutzer.",
+          "published": "2026-06-01T09:43:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Upscaler: Nvidia macht Raytracing in DLSS 4.5 schöner",
+          "link": "https://www.golem.de/news/upscaler-nvidia-macht-raytracing-in-dlss-4-5-schoener-2606-209249.html",
+          "summary": "Mit DLSS 4.5 erhält Ray Reconstruction im August ein großes Update. Nvidia verspricht bessere Beleuchtung, weniger Bildfehler und stabilere Darstellungen. ( DLSS , Nvidia )",
+          "published": "2026-06-01T11:37:11+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Nvidia kündigt für August das Update DLSS 4.5 an, das die Ray-Reconstruction-Technologie verbessert. Dies soll die Grafikqualität in Raytracing-Spielen wie „Cyberpunk 2077“ erheblich steigern.",
+      "highlights": [
+        "Verbesserte Ray-Reconstruction für DLSS 4.5 wird im August veröffentlicht.",
+        "Erwartete Verbesserungen: bessere Beleuchtung und weniger Bildfehler.",
+        "Zielspiele umfassen Titel wie „Cyberpunk 2077“."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Autonomes Fahren: Warum Teslas KI-Trainer nicht in ein Robotaxi mit Full Self-Driving steigen würden",
+          "link": "https://t3n.de/news/tesla-full-self-driving-probleme-1745130/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Expert:innen bezweifeln Teslas Behauptung, dass seine FSD-Software zehnmal sicherer sei als menschliche Fahrer:innen. KI-Trainer:innen des Autobauers erklärten, dass sie der Technologie nicht trauen und nie in ein Robotaxi steigen würden. weiterlesen auf t3n.de",
+          "published": "Mon, 1 Jun 2026 11:00:49 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Aleph Alpha wird kanadisch: Gefährdet das KI-Startup Cohere echte Souveränität?",
+          "link": "https://t3n.de/news/aleph-alpha-wird-kanadisch-gefaehrdet-das-ki-startup-cohere-echte-souveraenitaet-1744889/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Erst plant das kanadische Startup einen Zusammenschluss mit dem deutschen KI-Champion Aleph Alpha, jetzt folgt ein zweites KI-Labor mit deutschen Wurzeln. Was h weiterlesen auf t3n.de",
+          "published": "Mon, 1 Jun 2026 10:35:40 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nvidia zeigt RTX Spark: Dieser Chip für Windows‑PCs soll AMD und Intel Konkurrenz machen",
+          "link": "https://t3n.de/news/nvidia-rtx-spark-chip-windows-pc-konkurrenz-amd-intel-1745106/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit RTX Spark hat Nvidia einen neuen Chip vorgestellt, der für Windows-Systeme entwickelt wurde. Damit greift das Unternehmen direkt andere Chiphersteller wie Intel und AMD an. Was den RTX Spark konkurrenzfähig machen soll. weiterlesen auf t3n.de",
+          "published": "Mon, 1 Jun 2026 09:20:09 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "CRM mit KI: Warum integrierte Systeme im Vertrieb zum Standard werden",
+          "link": "https://t3n.de/news/crm-mit-ki-warum-integrierte-systeme-im-vertrieb-zum-standard-werden-1743596/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Vertriebsteams sollen heute schneller reagieren, personalisierter kommunizieren und gleichzeitig mehr Leads bearbeiten. In der Praxis stoßen viele dabei an Grenzen – nicht wegen fehlender Strategie, sondern wegen zu vieler manueller Aufgaben. weiterlesen auf t3n.de",
+          "published": "Mon, 1 Jun 2026 09:00:07 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Tracking der Mitarbeiterperformance: So wird die Technologie in Deutschland angewendet",
+          "link": "https://t3n.de/news/ki-tracking-der-mitarbeiterperformance-so-wird-das-in-deutschland-angewendet-1744421/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mithilfe der KI „Augie“ des US-Unternehmen Augmentir werden Arbeitsprozesse von Frontline-Arbeitern in der Industrie organisiert – aber auch die individue weiterlesen auf t3n.de",
+          "published": "Mon, 1 Jun 2026 06:30:36 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Diskussion um Open Source und Software Supply Chain wird durch aktuelle Entwicklungen in der KI- und Softwarebranche geprägt. Experten äußern Bedenken hinsichtlich der Sicherheit autonomer Fahrtechnologien, während neue Chips und KI-Anwendungen die Effizienz in verschiedenen Bereichen steigern sollen.",
+      "highlights": [
+        "Teslas FSD-Software wird von KI-Trainer:innen als unsicher eingeschätzt.",
+        "Nvidia hat mit RTX Spark einen neuen Chip vorgestellt, der gegen Intel und AMD konkurriert.",
+        "KI-Tracking-Technologien wie Augie optimieren Arbeitsprozesse in der Industrie."
+      ]
+    }
+  ]
+}
