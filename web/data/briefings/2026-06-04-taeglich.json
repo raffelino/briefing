@@ -1,0 +1,286 @@
+{
+  "date": "2026-06-04",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AWS Replaces Fat-Tree Data Center Networks with Random Graph Theory, Cutting Routers by 69%",
+          "link": "https://www.infoq.com/news/2026/06/aws-random-graph-data-center/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS disclosed that Resilient Network Graphs, a flat network architecture based on quasi-random graph theory, is now the default for most new data center builds. The design replaces fat-tree hierarchies with direct ToR-to-ToR mesh connections using passive optical ShuffleBoxes, cutting routers by 69%, boosting throughput by 33%, and reducing network power consumption by 40%. By Steef-Jan Wiggers",
+          "published": "Thu, 04 Jun 2026 08:25:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Digitale Souveränität in Deutschland: Wo wir bei der Abkehr von Big Tech wirklich stehen",
+          "link": "https://t3n.de/news/digitale-souveraenitaet-deutschland-wie-erreichen-politik-wirtschaft-1743739/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Dass Abhängigkeit von Big Tech ein Problem ist, ist in der Politik, Wirtschaft und Bevölkerung angekommen. Nur mit dem Wechseln tun sich viele schwer. Was Exp weiterlesen auf t3n.de",
+          "published": "Thu, 4 Jun 2026 08:45:06 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Souveräne Chips, Cloud und KI: EU stellt Gesetzespaket gegen Tech-Abhängigkeit vor",
+          "link": "https://t3n.de/news/souveraene-chips-cloud-und-ki-eu-stellt-gesetzespaket-gegen-tech-abhaengigkeit-vor-1745744/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Europa will unabhängiger werden von den USA und China. Die Europäische Kommission hat nun ein umfassendes Gesetzespaket mit genau diesem Ziel vorgestellt. Dazu gehören unter anderem ein Chips Act 2.0, ein Ausbau der Datenzentren und eine neue Open-Source-Strategie. weiterlesen auf t3n.de",
+          "published": "Wed, 3 Jun 2026 15:45:21 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Article: Two Misconfigurations That Caused Spark OOM Failures on Kubernetes",
+          "link": "https://www.infoq.com/articles/spark-oom-kubernetes-misconfigurations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "After migrating Spark pipelines to Azure Kubernetes Service, two infrastructure settings interacted destructively: spark.kubernetes.local.dirs.tmpfs=true backed shuffle spill with RAM instead of disk, and a hard podAffinity rule forced all executors onto one node. Together, they caused repeated OOM kills invisible to standard diagnostics. By Pranav Bhasker",
+          "published": "Wed, 03 Jun 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Wegwischen – Die unsichtbaren Kosten der Reibungslosigkeit",
+          "link": "https://www.heise.de/hintergrund/UX-Design-als-Muellmaschine-Die-versteckten-Kosten-digitaler-Reibungslosigkeit-11311079.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Gute UX versteckt ihren Müll. Aber er verschwindet nicht – er landet in Rechenzentren, Lieferketten und Telemetriedatenbanken.",
+          "published": "2026-06-04T09:05:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Cloud-Architektur zeigen einen Trend hin zu effizienteren Netzwerklösungen und einer verstärkten Unabhängigkeit von großen Technologiekonzernen. AWS hat eine neue Netzwerkarchitektur eingeführt, während die EU ein Gesetzespaket zur Reduzierung der Tech-Abhängigkeit vorstellt.",
+      "highlights": [
+        "AWS reduziert Router um 69% durch Resilient Network Graphs.",
+        "EU präsentiert Gesetzespaket mit Chips Act 2.0 zur Tech-Unabhängigkeit.",
+        "Ziel: Ausbau der Datenzentren und Förderung von Open-Source-Strategien."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Warum sich ein Ransomware-Betrüger bei einem Unternehmen entschuldigt",
+          "link": "https://t3n.de/news/warum-sich-ein-ransomware-betrueger-bei-einem-unternehmen-entschuldigt-1745822/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kurioses Fundstück: Eine Gruppe von Ransomware-Betrügern entschuldigt sich nach einer Attacke bei dem angegriffenen Unternehmen. Denn die Kriminellen hatten mit dem Angriff gegen ein ungeschriebenes Gesetz verstoßen. Das steckt dahinter. weiterlesen auf t3n.de",
+          "published": "Thu, 4 Jun 2026 09:30:57 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Forschende erschaffen KI-Wurm, der für jedes Ziel eine neue Strategie entwickelt",
+          "link": "https://t3n.de/news/it-sicherheit-cybersecurity-forschende-erschaffen-ki-wurm-der-fuer-jedes-ziel-eine-neue-strategie-entwickelt-1745734/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Herkömmliche Computerwürmer lassen sich stoppen, wenn man ihre Schwachstellen kennt. Eine neue Variante mit eingebauter KI entwickelte für jedes Ziel individuelle Angriffsstrategien – und nutzte sogar Schwachstellen aus, die es während ihres Trainings noch nicht gab. weiterlesen auf t3n.de",
+          "published": "Wed, 3 Jun 2026 17:30:27 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Donald Trump: US-Regierung erhält Vorabzugang zu neuen KI-Modellen",
+          "link": "https://www.golem.de/news/donald-trump-us-regierung-erhaelt-vorabzugang-zu-neuen-ki-modellen-2606-209381.html",
+          "summary": "Ursprünglich wollte die Trump-Regierung den KI-Entwicklern freie Hand lassen. Doch wegen Gefahren für die IT-Sicherheit ist nun ein Vorabzugriff vorgesehen. ( KI , Politik )",
+          "published": "2026-06-03T18:30:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der IT-Sicherheit zeigen sowohl kuriose als auch besorgniserregende Trends. Während Ransomware-Betrüger sich bei einem Unternehmen entschuldigen, entwickelt ein KI-Wurm individuelle Angriffsstrategien, die schwerer zu stoppen sind. Zudem erhält die US-Regierung Vorabzugang zu neuen KI-Modellen, um Sicherheitsrisiken zu minimieren.",
+      "highlights": [
+        "Ransomware-Betrüger entschuldigen sich bei einem Unternehmen für Verstöße gegen ungeschriebene Gesetze.",
+        "Ein neuer KI-Wurm entwickelt für jedes Ziel individuelle Angriffsstrategien und nutzt unbekannte Schwachstellen.",
+        "Die US-Regierung plant Vorabzugang zu KI-Modellen, um IT-Sicherheitsrisiken zu adressieren."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Bundesbeauftragte: Informationsfreiheit soll ins Grundgesetz",
+          "link": "https://www.heise.de/news/Bundesbeauftragte-Informationsfreiheit-soll-ins-Grundgesetz-11317290.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Neben einem Transparenzgesetz brauche es verfassungsrechtliche Absicherung des Anspruchs auf staatliche Informationen, fordert Louisa Specht-Riemenschneider.",
+          "published": "2026-06-03T15:39:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Neue GitHub-Copilot-App soll Chaos bei agentengetriebener Entwicklung bändigen",
+          "link": "https://www.heise.de/news/Neue-GitHub-Copilot-App-soll-Chaos-bei-agentengetriebener-Entwicklung-baendigen-11317392.html",
+          "summary": "GitHub hat auf der Microsoft Build eine Desktop-App vorgestellt, die parallele KI-Agentensitzungen bündelt und mit Agent Merge den CI/CD-Prozess begleitet.",
+          "published": "2026-06-04T08:10:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Funcom: Dune Awakening wird komplett solo spielbar",
+          "link": "https://www.golem.de/news/funcom-dune-awakening-wird-komplett-solo-spielbar-2606-209369.html",
+          "summary": "Und eine Eisregion kommt auch: Funcom hat wichtige Neuerungen für Dune Awakening vorgestellt, inklusive der Konsolenversion. ( Dune , Rollenspiel )",
+          "published": "2026-06-03T15:36:11+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die heutige Nachrichtenlage umfasst die Forderung nach verfassungsrechtlicher Absicherung der Informationsfreiheit in Deutschland sowie die Vorstellung einer neuen GitHub-Copilot-App, die den CI/CD-Prozess durch KI-Agenten optimiert. Zudem wurden Neuerungen für das Spiel Dune Awakening angekündigt.",
+      "highlights": [
+        "Louisa Specht-Riemenschneider fordert verfassungsrechtliche Absicherung der Informationsfreiheit.",
+        "GitHub präsentiert eine Desktop-App zur Bündelung von KI-Agentensitzungen für den CI/CD-Prozess.",
+        "Funcom kündigt an, dass Dune Awakening komplett solo spielbar sein wird."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Genehmigungen über Nacht? Wie Europa die Startup-Gründung beschleunigen will",
+          "link": "https://t3n.de/news/eu-inc-genehmigungen-ueber-nacht-wie-europa-die-startup-gruendung-beschleunigen-will-1743733/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Gründungen binnen 48 Stunden, digitale Prozesse: Mit der EU Inc. will die Europäische Kommission bürokratische Hürden abbauen. Wirtschaftsverbände applaudi weiterlesen auf t3n.de",
+          "published": "Thu, 4 Jun 2026 07:30:13 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Microsoft Store: Entwicklerkonto für Unternehmen wird kostenlos",
+          "link": "https://www.heise.de/news/Microsoft-Store-Entwicklerkonto-fuer-Unternehmen-wird-kostenlos-11317913.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Kein Obolus, Anmeldung per Entra ID, weniger Bürokratie: Microsoft senkt die Hürden für Unternehmen, die Apps im Microsoft Store veröffentlichen wollen.",
+          "published": "2026-06-04T08:59:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Microsoft bringt Linux-Container fürs WSL",
+          "link": "https://www.heise.de/news/Microsoft-bringt-Linux-Container-fuers-WSL-11317346.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Microsoft baut eine eigene Container-Plattform ins Windows Subsystem for Linux ein – samt CLI, API und SDK für Windows-Anwendungen.",
+          "published": "2026-06-03T17:31:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Microsoft Store: Entwicklerkonto für Unternehmen wird kostenlos",
+          "link": "https://www.heise.de/news/Microsoft-Store-Entwicklerkonto-fuer-Unternehmen-wird-kostenlos-11317913.html",
+          "summary": "Kein Obolus, Anmeldung per Entra ID, weniger Bürokratie: Microsoft senkt die Hürden für Unternehmen, die Apps im Microsoft Store veröffentlichen wollen.",
+          "published": "2026-06-04T06:59:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Microsoft bringt Linux-Container fürs WSL",
+          "link": "https://www.heise.de/news/Microsoft-bringt-Linux-Container-fuers-WSL-11317346.html",
+          "summary": "Microsoft baut eine eigene Container-Plattform ins Windows Subsystem for Linux ein – samt CLI, API und SDK für Windows-Anwendungen.",
+          "published": "2026-06-03T15:31:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die EU plant, die Gründung von Startups durch digitale Prozesse und Genehmigungen innerhalb von 48 Stunden zu beschleunigen. Microsoft senkt zudem die Hürden für Unternehmen, die Apps im Microsoft Store veröffentlichen möchten, indem es die Kosten für Entwicklerkonten auf null setzt.",
+      "highlights": [
+        "EU Inc. ermöglicht Startup-Gründungen in 48 Stunden.",
+        "Microsoft bietet kostenlose Entwicklerkonten für Unternehmen im Microsoft Store an.",
+        "Einführung von Linux-Containern im Windows Subsystem for Linux (WSL)."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Next.js 16.2: 400% Faster Dev Startup, Faster Rendering, and Deeper Tooling for AI Agents",
+          "link": "https://www.infoq.com/news/2026/06/nextjs-6-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Vercel has released Next.js 16.2, featuring performance enhancements that make development startup 400% faster and rendering up to 60% quicker. The update includes AI-assisted development tools, improved Turbopack efficiency, and better error reporting. Migration from Next.js 15 is supported, and compatibility is set for Node.js 20.9 and TypeScript 5.1 or newer. By Daniel Curtis",
+          "published": "Thu, 04 Jun 2026 06:47:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Why CPUs still matter in the age of AI agents",
+          "link": "https://thenewstack.io/why-cpus-still-matter-in-the-age-of-ai-agents/",
+          "summary": "When the conversation turns to AI infrastructure, it almost always lands on GPUs and TPUs. The New Stack sat down The post Why CPUs still matter in the age of AI agents appeared first on The New Stack .",
+          "published": "Wed, 03 Jun 2026 18:54:02 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "BYD zahlt bei Unfällen mit Fahrassistenz: Was hinter dem Versprechen steckt",
+          "link": "https://t3n.de/news/byd-zahlt-bei-unfaellen-mit-fahrassistenz-was-hinter-dem-versprechen-steckt-1745683/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der chinesische Autohersteller BYD verspricht, bei Unfällen mit aktiver Fahrassistenz vollständig für die Kosten aufzukommen. Eine Obergrenze für den entstandenen Schaden soll es nicht geben. Die Haftungsübernahme gilt zunächst nur in China. Allerdings bleiben viele Fragen offen. weiterlesen auf t3n.de",
+          "published": "Wed, 3 Jun 2026 15:00:01 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Project Solara: So will Microsoft KI mit Würfel und Badge tragbar machen",
+          "link": "https://t3n.de/news/solara-microsoft-testet-neue-ki-gadgets-fuer-arbeitsplatz-1745603/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Microsoft hat bei zukünftigen Entwicklungen auch ein besonderes Auge auf KI-Gadgets für den Arbeitsplatz. Das Unternehmen hat nun zwei potenzielle Geräte vorgestellt. weiterlesen auf t3n.de",
+          "published": "Wed, 3 Jun 2026 14:00:04 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Trotz einer Milliarde ChatGPT-Nutzern: OpenAI kämpft mit einem unerwarteten Problem",
+          "link": "https://t3n.de/news/trotz-milliarden-chatgpt-nutzern-openai-kaempft-mit-einem-unerwarteten-problem-1745665/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Daten von Sensor Tower zeigen, wie schnell ChatGPT eine Milliarde aktive App-User generieren konnte und welche Mega-Apps man damit in den Schatten stellt. Trotzdem hat OpenAI ein großes Problem. weiterlesen auf t3n.de",
+          "published": "Wed, 3 Jun 2026 13:30:31 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die neuesten Entwicklungen im Bereich generative KI und LLMs zeigen Fortschritte in der Software-Entwicklung und Herausforderungen für Unternehmen. Während Next.js 16.2 die Entwicklungsgeschwindigkeit erheblich steigert, kämpft OpenAI trotz einer Milliarde Nutzer mit unerwarteten Problemen.",
+      "highlights": [
+        "Next.js 16.2 ermöglicht 400% schnelleren Entwicklungsstart und 60% schnellere Rendering-Zeiten.",
+        "OpenAI hat eine Milliarde aktive ChatGPT-Nutzer, sieht sich jedoch mit einem großen Problem konfrontiert.",
+        "Microsoft präsentiert neue KI-Gadgets für den Arbeitsplatz im Rahmen von Project Solara."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Gerichtsurteil: Facebook Messenger gilt weiterhin als dominanter Internet-Dienst",
+          "link": "https://netzpolitik.org/2026/gerichtsurteil-facebook-messenger-gilt-weiterhin-als-dominanter-internet-dienst/",
+          "summary": "Der Facebook Messenger muss sich weiterhin an strenge DMA-Regeln halten, hat heute ein Gericht entschieden. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Brett Jordan Meta wollte seinen Facebook Messenger und den Marketplace nicht als marktmächtige Kerndienste eingestuft sehen. Der US-Konzern wehrte sich vor Gericht gegen die strengeren Auflagen des Digital Markets Act, bekam aber nur in einem Punkt recht.",
+          "published": "Wed, 03 Jun 2026 11:40:47 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Microsoft Majorana 2 verspricht zuverlässigere Qubits – Skepsis bleibt",
+          "link": "https://www.heise.de/news/Microsoft-Majorana-2-verspricht-zuverlaessigere-Qubits-Skepsis-bleibt-11316146.html",
+          "summary": "Microsoft stellt neuen Quantenchip Majorana 2 vor. Das Unternehmen verspricht drastisch verbesserte Stabilität und zieht die Roadmap vor.",
+          "published": "2026-06-02T22:42:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Ein Gericht hat entschieden, dass der Facebook Messenger weiterhin als dominanter Internet-Dienst gilt und somit den strengen Regeln des Digital Markets Act unterliegt. Microsoft hat den Quantenchip Majorana 2 vorgestellt, der verbesserte Qubit-Stabilität verspricht, jedoch bleibt Skepsis hinsichtlich der Umsetzung bestehen.",
+      "highlights": [
+        "Gerichtsurteil bestätigt Facebook Messenger als marktmächtigen Dienst.",
+        "Facebooks Klage gegen die Einstufung unter dem Digital Markets Act wurde größtenteils abgewiesen.",
+        "Microsofts Majorana 2 Chip soll die Stabilität von Qubits drastisch verbessern."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Nvidia stellt Cosmos 3 als Weltmodell vor: Aber was ist das eigentlich?",
+          "link": "https://t3n.de/news/genie-3-superintelligenz-und-weltmodell-was-hinter-den-ki-buzzwords-steckt-1702570/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Cosmos 3 ist Nvidias neues KI-Modell für Robotik und autonome Systeme. „Weltmodelle“ werden oft als „wichtiger Schritt“ zur Superintelligenz bezeichnet. Aber was sind „Weltmodelle“ und was hat das mit Künstlicher Intelligenz zu tun? weiterlesen auf t3n.de",
+          "published": "Wed, 3 Jun 2026 16:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Inside Google’s System for Coordinated A/B Testing Across Its Global Service Fleet",
+          "link": "https://www.infoq.com/news/2026/06/google-fleet-ab-experimentation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google has shared details of its fleet wide large scale A/B experimentation system designed to standardize experiment assignment, exposure logging, and configuration propagation across distributed services. The approach enables consistent measurement across products, reduces experiment conflicts, and improves reliability of data driven decision making at scale. By Leela Kumili",
+          "published": "Wed, 03 Jun 2026 14:54:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Scam-Anrufe mit KI-generierter Stimme: Google schützt Android-Nutzer mit dieser Neuerung",
+          "link": "https://t3n.de/news/scam-anrufe-ki-generierte-stimme-android-nutzer-schuetzen-1745653/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google will Android-User:innen noch besser vor Scam-Anrufen schützen. Dafür baut das Unternehmen eine neue KI-Warnung in die Telefon-App ein. Wie euch das vor größeren Schäden bewahren soll. weiterlesen auf t3n.de",
+          "published": "Wed, 3 Jun 2026 16:30:32 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nach über 20 Jahren: Astronomen entdecken Ursprung mysteriöser Radiosignale aus dem All",
+          "link": "https://t3n.de/news/ursprung-mysterioeser-radiosignale-askap-1745602/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Forschungsteam hat den Ursprung eines mysteriösen Radiosignals gefunden, das über eine Stunde andauert. Es stammt aus einem Doppelsternsystem mit einem Weißen und einem Roten Zwerg. Die Astronom:innen vergleichen die Entdeckung mit der des Rosetta-Steins. weiterlesen auf t3n.de",
+          "published": "Wed, 3 Jun 2026 13:00:26 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Warum Deutsche online mehr Geld ausgeben als im Geschäft – trotz mieser Konsumstimmung",
+          "link": "https://t3n.de/news/onlinehandel-legt-um-43-prozent-zu-waehrend-stationaere-laeden-hinterherhinken-1745651/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Zwei Drittel der Deutschen kaufen Kleidung und Schuhe mittlerweile überwiegend online. Experten sehen das &#8222;Ende des klassischen Einkaufsbummels&#8220; für bestimmte Warengruppen gekommen. weiterlesen auf t3n.de",
+          "published": "Wed, 3 Jun 2026 12:15:09 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Software Supply Chain wird zunehmend durch Open-Source-Technologien geprägt, die sowohl Chancen als auch Risiken bergen. Unternehmen müssen sich mit der Sicherheit und Integrität ihrer Software-Lieferketten auseinandersetzen, um potenzielle Bedrohungen zu minimieren.",
+      "highlights": [
+        "Open-Source-Software kann Sicherheitslücken enthalten, die ausgenutzt werden können.",
+        "Die Transparenz von Open Source ermöglicht eine bessere Überprüfung der Software-Sicherheit.",
+        "Unternehmen setzen zunehmend auf automatisierte Tools zur Überwachung ihrer Software-Lieferketten."
+      ]
+    }
+  ]
+}
