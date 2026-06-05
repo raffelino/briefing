@@ -1,0 +1,357 @@
+{
+  "date": "2026-06-05",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Snowflake thinks it knows what’s really slowing developers down",
+          "link": "https://thenewstack.io/snowflake-coco-coding-agent/",
+          "summary": "Ready or not, the agentic enterprise is here, and the key to enabling it efficiently is being debated from various The post Snowflake thinks it knows what&#8217;s really slowing developers down appeared first on The New Stack .",
+          "published": "Thu, 04 Jun 2026 19:22:24 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Why agentic AI makes the ops platform the most important layer in the enterprise",
+          "link": "https://thenewstack.io/hpe-greenlake-agentic-hybrid-ops/",
+          "summary": "The biggest obstacle to enterprise AI isn&#8217;t models, data science talent, or even infrastructure.&#160; It&#8217;s operations. Across today&#8217;s enterprises, hybrid The post Why agentic AI makes the ops platform the most important layer in the enterprise appeared first on The New Stack .",
+          "published": "Thu, 04 Jun 2026 18:35:21 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Snowflake identifiziert Operations als Hauptursache für Verzögerungen bei Entwicklern und betont die Bedeutung einer effektiven Betriebsplattform für die Implementierung von agentischer KI in Unternehmen. Der Fokus liegt auf der Optimierung von Abläufen, um die Effizienz zu steigern.",
+      "highlights": [
+        "Operations sind der größte Hemmschuh für die Einführung von KI in Unternehmen.",
+        "Agentische KI erfordert eine robuste und effiziente Betriebsplattform.",
+        "Entwickler leiden unter Verzögerungen, die durch ineffiziente Betriebsabläufe verursacht werden."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Cable lobby warns of chaos if FCC doesn't relax ban on foreign routers",
+          "link": "https://arstechnica.com/tech-policy/2026/06/cable-lobby-warns-of-chaos-if-fcc-doesnt-relax-ban-on-foreign-routers/",
+          "summary": "NCTA seeks waiver from foreign-router ban, citing memory and substrate shortages.",
+          "published": "Thu, 04 Jun 2026 18:34:33 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "How to secure Kubernetes in the age of AI workloads",
+          "link": "https://thenewstack.io/securing-kubernetes-ai-agents/",
+          "summary": "Securing Kubernetes has always been complex &#8212; spanning access control, image vulnerabilities, secrets management, and networking. AI workloads make it The post How to secure Kubernetes in the age of AI workloads appeared first on The New Stack .",
+          "published": "Thu, 04 Jun 2026 16:45:57 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS Replaces Fat-Tree Data Center Networks with Random Graph Theory, Cutting Routers by 69%",
+          "link": "https://www.infoq.com/news/2026/06/aws-random-graph-data-center/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS disclosed that Resilient Network Graphs, a flat network architecture based on quasi-random graph theory, is now the default for most new data center builds. The design replaces fat-tree hierarchies with direct ToR-to-ToR mesh connections using passive optical ShuffleBoxes, cutting routers by 69%, boosting throughput by 33%, and reducing network power consumption by 40%. By Steef-Jan Wiggers",
+          "published": "Thu, 04 Jun 2026 08:25:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Wegwischen – Die unsichtbaren Kosten der Reibungslosigkeit",
+          "link": "https://www.heise.de/hintergrund/UX-Design-als-Muellmaschine-Die-versteckten-Kosten-digitaler-Reibungslosigkeit-11311079.html",
+          "summary": "Gute UX versteckt ihren Müll. Aber er verschwindet nicht – er landet in Rechenzentren, Lieferketten und Telemetriedatenbanken.",
+          "published": "2026-06-04T07:05:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Namibia: Wo Windkraft grundlastfähig ist",
+          "link": "https://www.golem.de/news/namibia-wo-windkraft-grundlastfaehig-ist-2606-209408.html",
+          "summary": "An einem der windigsten Orte der Welt entsteht ein Windpark, der im Prinzip durchgehend Strom liefern kann. Aber technische Schwierigkeiten bremsen. Von Mario Petzold ( Windkraft , Windpark )",
+          "published": "2026-06-04T15:00:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Cloud-Architektur entwickelt sich weiter, wobei Unternehmen wie AWS innovative Netzwerktechnologien einführen, um Effizienz und Leistung zu steigern. Gleichzeitig stehen Sicherheitsherausforderungen im Zusammenhang mit Kubernetes und AI-Workloads im Fokus, während regulatorische Fragen zur Nutzung ausländischer Router diskutiert werden.",
+      "highlights": [
+        "AWS senkt Router-Anzahl um 69% durch neue Netzwerkarchitektur basierend auf quasi-zufälliger Graphentheorie.",
+        "Kubernetes-Sicherheit umfasst Zugangskontrolle, Bildanfälligkeiten und Geheimnisverwaltung, besonders relevant für AI-Workloads.",
+        "NCTA fordert Lockerung des Verbots ausländischer Router aufgrund von Engpässen bei Speicher und Substraten."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "TypeORM Reaches 1.0 After Nearly a Decade, Signalling Renewed Maintenance",
+          "link": "https://www.infoq.com/news/2026/06/typeorm-1-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "TypeORM 1.0 is the first major release of the open-source TypeScript and JavaScript ORM since its inception in 2016. This version modernizes platform requirements, removes deprecated APIs, and introduces numerous bug fixes and new features. TypeORM now supports ECMAScript 2023, dropping older Node.js versions and dependencies while enhancing security and migration processes. By Daniel Curtis",
+          "published": "Fri, 05 Jun 2026 06:52:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "TypeORM hat mit der Version 1.0 nach fast einem Jahrzehnt die erste große Veröffentlichung erreicht. Diese Version modernisiert die Plattformanforderungen, entfernt veraltete APIs und verbessert die Sicherheits- sowie Migrationsprozesse.",
+      "highlights": [
+        "Unterstützt jetzt ECMAScript 2023.",
+        "Ältere Node.js-Versionen und Abhängigkeiten wurden entfernt.",
+        "Enthält zahlreiche Bugfixes und neue Features."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Warten auf Sicherheitspatch: Zugangsdaten von Acer-Wave-7-Router einsehbar",
+          "link": "https://www.heise.de/news/Warten-auf-Sicherheitspatch-Zugangsdaten-von-Acer-Wave-7-Router-einsehbar-11318035.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Kritische Schwachstellen bedrohen Acer-Router der Wave-7-Serie. Sicherheitsupdates sind bislang nicht verfügbar.",
+          "published": "2026-06-05T09:23:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Angst vor Russland: Hacker entschuldigen sich bei attackierter Firma",
+          "link": "https://www.golem.de/news/angst-vor-russland-hacker-entschuldigen-sich-bei-attackierter-firma-2606-209426.html",
+          "summary": "Ein Cyberakteur entpuppt sich als \"Ransomware-Trottel des Tages\". Er hat ein Ziel attackiert, das ihm wirklich Probleme bereiten kann. ( Cybercrime , Cyberwar )",
+          "published": "2026-06-05T09:31:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle IT-Sicherheitsprobleme betreffen sowohl Acer-Router der Wave-7-Serie, deren Zugangsdaten aufgrund kritischer Schwachstellen einsehbar sind, als auch einen Cyberangriff auf eine Firma, bei dem sich der Angreifer entschuldigte, da er unerwartete Probleme verursachte.",
+      "highlights": [
+        "Acer-Wave-7-Router weisen kritische Schwachstellen auf.",
+        "Sicherheitsupdates für die betroffenen Router sind derzeit nicht verfügbar.",
+        "Ein Hacker entschuldigte sich für einen Angriff auf eine Firma, die ihm Schwierigkeiten bereitete."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "How a Culture of Data-Driven Conversations Can Support Platform Engineering",
+          "link": "https://www.infoq.com/news/2026/06/data-driven-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "To provide SRE as a service, a team built a center of excellence, introducing Federated SREs and roles like production manager and technical tribe lead. They created a culture of data-driven conversations where SLOs and SLAs were democratised. Surviving growing cognitive load meant continuously simplifying architecture and embedding sovereignty and resilience into platform design decisions. By Ben Linders",
+          "published": "Thu, 04 Jun 2026 11:54:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Neue GitHub-Copilot-App soll Chaos bei agentengetriebener Entwicklung bändigen",
+          "link": "https://www.heise.de/news/Neue-GitHub-Copilot-App-soll-Chaos-bei-agentengetriebener-Entwicklung-baendigen-11317392.html",
+          "summary": "GitHub hat auf der Microsoft Build eine Desktop-App vorgestellt, die parallele KI-Agentensitzungen bündelt und mit Agent Merge den CI/CD-Prozess begleitet.",
+          "published": "2026-06-04T08:10:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: LPIC-1 in fünf Tagen auffrischen",
+          "link": "https://www.golem.de/news/anzeige-lpic-1-in-fuenf-tagen-auffrischen-2606-209387.html",
+          "summary": "Ein LPIC-1 Vorbereitungskurs bündelt prüfungsrelevante Linux-Themen für LPI 101 und LPI 102. Das Online-Training strukturiert die Wiederholung von Architektur bis Security. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-06-05T07:15:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "DevOps und Test-Automatisierung gewinnen zunehmend an Bedeutung, insbesondere durch den Einsatz von KI und datengetriebenen Ansätzen. Unternehmen setzen auf neue Tools und Methoden, um Entwicklungsprozesse zu optimieren und die Effizienz zu steigern.",
+      "highlights": [
+        "Einführung von Federated SREs zur Unterstützung von SRE als Service.",
+        "GitHub präsentiert eine Desktop-App zur Bündelung paralleler KI-Agentensitzungen.",
+        "LPIC-1 Vorbereitungskurs bietet strukturiertes Online-Training für Linux-Themen."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Neuer Job als Senior System Administrator &amp; Onsite Lead gesucht? Schau dir unsere Top Jobs an",
+          "link": "https://t3n.de/news/unsere-jobs-der-woche-1175973/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hier findest du unsere besten Jobs aus den Bereichen Technik &amp; Entwicklung, Marketing, PR &amp; Kommunikation, Projektmanagement &amp; Produktmanagement, Design &amp; UX, Content &amp; Redaktion und Business Development. weiterlesen auf t3n.de",
+          "published": "Thu, 4 Jun 2026 15:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Aus für Cosmo Radio: Die ARD macht schon jetzt die Medienpolitik der AfD",
+          "link": "https://netzpolitik.org/2026/aus-fuer-cosmo-radio-die-ard-macht-schon-jetzt-die-medienpolitik-der-afd/",
+          "summary": "Soll abgewickelt werden: Der Sender Cosmo. – Alle Rechte vorbehalten: IMAGO / Panama Pictures Die Abschaffung des mehrsprachigen Cosmo Radio ist eine demokratische Bankrotterklärung. Wir erleben hier eine öffentlich-rechtliche Medienpolitik, die schon heute vor den Rechtsradikalen kuscht und die braune politische Agenda in vorauseilendem Gehorsam umsetzt. Ein Kommentar.",
+          "published": "Thu, 04 Jun 2026 10:56:54 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Tails 7.8.1: Update des anonymisierenden Linux schließt Sicherheitslücken",
+          "link": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-7-8-1-stopft-Sicherheitslecks-11319254.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das zum anonymen Surfen im Netz dienende Tails-Linux schließt Sicherheitslücken im Kernel und dem Tor-Client.",
+          "published": "2026-06-05T08:12:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Microsoft Store: Entwicklerkonto für Unternehmen wird kostenlos",
+          "link": "https://www.heise.de/news/Microsoft-Store-Entwicklerkonto-fuer-Unternehmen-wird-kostenlos-11317913.html",
+          "summary": "Kein Obolus, Anmeldung per Entra ID, weniger Bürokratie: Microsoft senkt die Hürden für Unternehmen, die Apps im Microsoft Store veröffentlichen wollen.",
+          "published": "2026-06-04T06:59:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Microsoft bringt Linux-Container fürs WSL",
+          "link": "https://www.heise.de/news/Microsoft-bringt-Linux-Container-fuers-WSL-11317346.html",
+          "summary": "Microsoft baut eine eigene Container-Plattform ins Windows Subsystem for Linux ein – samt CLI, API und SDK für Windows-Anwendungen.",
+          "published": "2026-06-03T15:31:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen im Bereich Technik und Entwicklung zeigen eine Vielzahl von Veränderungen, darunter kostenlose Entwicklerkonten im Microsoft Store und Sicherheitsupdates für Tails-Linux. Diese Neuerungen könnten die Nutzung und Entwicklung von Software sowie die Sicherheit im Internet beeinflussen.",
+      "highlights": [
+        "Microsoft bietet kostenlose Entwicklerkonten für Unternehmen im Microsoft Store an.",
+        "Tails 7.8.1 schließt kritische Sicherheitslücken im Kernel und Tor-Client.",
+        "Microsoft integriert eine eigene Container-Plattform ins Windows Subsystem for Linux."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "KI-Wettlauf: OpenAI-Rivale Anthropic plädiert für Entwicklungspause",
+          "link": "https://t3n.de/news/ki-wettlauf-openai-rivale-anthropic-plaediert-fuer-entwicklungspause-1745991/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn Künstliche Intelligenz sich selbst weiterentwickeln kann, steige das Risiko für die Menschheit, warnt die KI-Firma Anthropic. Sie regt eine Pause an, die jedoch kaum zu erreichen sein dürfte. weiterlesen auf t3n.de",
+          "published": "Fri, 5 Jun 2026 09:00:59 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Kostenexplosion auf GitHub: Neue Preise für Copilot lassen Entwickler Sturm laufen",
+          "link": "https://t3n.de/news/kostenexplosion-auf-github-neue-preise-fuer-copilot-lassen-entwickler-sturm-laufen-1745981/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bei GitHub Copilot gilt seit geraumer Zeit eine neue Preispolitik. Die Umstellung hat dafür gesorgt, dass viele Entwickler:innen jetzt deutlich mehr als vorher zahlen müssen. Warum das so ist und warum auch andere KI-Tools dem Beispiel folgen könnten. weiterlesen auf t3n.de",
+          "published": "Fri, 5 Jun 2026 09:00:42 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Bezahlen, verhandeln, kommunizieren: 5 neue Internet-Protokolle, die KI-Agenten vernetzen sollen",
+          "link": "https://t3n.de/news/bezahlen-verhandeln-kommunizieren-5-neue-internet-protokolle-die-ki-agenten-vernetzen-sollen-1743753/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Internet wurde für Menschen gebaut. Doch nun erobern KI-Agenten das Netz – und brauchen ihre ganz eigenen Regeln. Ein Blick auf die Protokolle, die unse weiterlesen auf t3n.de",
+          "published": "Fri, 5 Jun 2026 08:30:19 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Weiterbildung für die Arbeit geplant? Diese Dinge solltest du beachten",
+          "link": "https://t3n.de/news/ki-weiterbildung-arbeit-1744893/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Markt für KI-Weiterbildungen ist stark fragmentiert und schwer zu überblicken. Worauf Mitarbeiter, die sich für die Arbeit weiterbilden, achten müssen. weiterlesen auf t3n.de",
+          "published": "Fri, 5 Jun 2026 06:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "These LLMs are the best at resisting Russian propaganda",
+          "link": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+          "summary": "Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\"",
+          "published": "Thu, 04 Jun 2026 20:44:31 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Die Entwicklungen im Bereich der generativen KI und LLMs stehen im Fokus, wobei Anthropic eine Entwicklungspause fordert, während GitHub Copilot mit neuen Preisen für Aufregung sorgt. Zudem werden neue Internet-Protokolle für KI-Agenten vorgestellt und die Bedeutung von KI-Weiterbildung hervorgehoben.",
+      "highlights": [
+        "Anthropic warnt vor Risiken selbstentwickelnder KI und fordert eine Entwicklungspause.",
+        "GitHub Copilot hat seine Preise erhöht, was zu Unmut unter Entwicklern führt.",
+        "Neue Internet-Protokolle sollen speziell für die Vernetzung von KI-Agenten entwickelt werden."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "After 11 years at Mars, NASA's MAVEN spacecraft went out with a whisper",
+          "link": "https://arstechnica.com/space/2026/06/after-11-years-at-mars-nasas-maven-spacecraft-went-out-with-a-whisper/",
+          "summary": "“I think the team has really experienced the loss of a loved one with the end of the mission.”",
+          "published": "Thu, 04 Jun 2026 16:21:06 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Digital Markets Act: Teilerfolg für Meta vor dem EU-Gericht",
+          "link": "https://www.heise.de/news/Digital-Markets-Act-Teilerfolg-fuer-Meta-vor-dem-EU-Gericht-11319034.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das Gericht der EU kippt die Einstufung des Marketplace von Meta als Torwächter, bestätigt den Status und die Wettbewerbsauflagen aber für Facebooks Messenger.",
+          "published": "2026-06-04T17:56:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Microsoft Majorana 2 verspricht zuverlässigere Qubits – Skepsis bleibt",
+          "link": "https://www.heise.de/news/Microsoft-Majorana-2-verspricht-zuverlaessigere-Qubits-Skepsis-bleibt-11316146.html",
+          "summary": "Microsoft stellt neuen Quantenchip Majorana 2 vor. Das Unternehmen verspricht drastisch verbesserte Stabilität und zieht die Roadmap vor.",
+          "published": "2026-06-02T22:42:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Der Digital Markets Act zeigt erste Erfolge, da das EU-Gericht die Einstufung von Metas Marketplace als Torwächter aufhebt, während die Wettbewerbsauflagen für den Messenger bestehen bleiben. Dies könnte Auswirkungen auf die Wettbewerbslandschaft in der EU haben.",
+      "highlights": [
+        "EU-Gericht kippt Torwächter-Einstufung von Metas Marketplace.",
+        "Wettbewerbsauflagen für Facebook Messenger bleiben bestehen.",
+        "Digital Markets Act zielt auf faireren Wettbewerb im digitalen Sektor ab."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Deepseek vor Mega-Investment: KI-Firma könnte bald über 50 Milliarden Dollar wert sein",
+          "link": "https://t3n.de/news/deepseek-investment-milliarden-1745969/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die chinesische KI-Firma Deepseek soll eine milliardenschwere Finanzierungsrunde planen. Die Bewertung des Startups könnte dabei auf bis zu 59 Milliarden US-Dollar steigen. Als mit Abstand größter Investor gilt Gründer Liang Wenfeng. weiterlesen auf t3n.de",
+          "published": "Thu, 4 Jun 2026 22:09:33 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Caveman-Mode“: Wie du mit KI sprichst wie ein Höhlenmensch – und Tokens sparst",
+          "link": "https://t3n.de/news/caveman-mode-ki-hoehlenmensch-tokens-sparen-prompt-hack-1745898/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Token-Limits nerven und unterbrechen mitunter die Arbeit mit KI. Abhilfe soll der „Caveman-Mode“ schaffen: Wofür ist der Hack im Alltag geeignet? weiterlesen auf t3n.de",
+          "published": "Thu, 4 Jun 2026 17:30:58 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Soziologin warnt: KI-Bots füllen unsere Einsamkeit – und darauf setzen die Tech-Konzerne",
+          "link": "https://t3n.de/news/soziologin-warnt-ki-bots-fuellen-unsere-einsamkeit-und-darauf-setzen-die-tech-konzerne-1742865/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wir chatten mit Bots, als wären sie echte Freund:innen und Arbeitskolleg:innen. Dabei vergessen viele von uns, dass KI kein Bewusstsein hat. Die Zukunftsforsch weiterlesen auf t3n.de",
+          "published": "Thu, 4 Jun 2026 16:00:03 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "My SSN was exposed in a breach at Columbia—a school I have no connection with",
+          "link": "https://arstechnica.com/tech-policy/2026/06/my-ssn-was-exposed-in-a-breach-at-columbia-a-school-i-have-no-connection-with/",
+          "summary": "Columbia admits last year’s data breach exposed victims beyond its students, staff.",
+          "published": "Thu, 04 Jun 2026 13:48:51 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Ab 1. Juli: Onlineshopping bei Händlern außerhalb der EU wird teurer",
+          "link": "https://t3n.de/news/ab-1-juli-onlineshopping-bei-haendlern-ausserhalb-der-eu-wird-teurer-1745953/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit neuen Gebühren will die EU Billigimporte eindämmen und die Paketflut etwa aus China begrenzen. Wer künftig bei Händlern außerhalb der EU shoppen will, sollte genau nachrechnen. weiterlesen auf t3n.de",
+          "published": "Thu, 4 Jun 2026 14:25:49 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Software Supply Chain wird zunehmend durch Open-Source-Technologien beeinflusst, die sowohl Chancen als auch Risiken bergen. Insbesondere die Sicherheit und Integrität von Software-Lieferketten stehen im Fokus, da Schwachstellen in Open-Source-Komponenten zu erheblichen Datenpannen führen können.",
+      "highlights": [
+        "Open-Source-Software macht einen großen Teil moderner Software-Lieferketten aus.",
+        "Sicherheitslücken in Open-Source-Komponenten können zu Datenpannen führen.",
+        "Unternehmen müssen proaktive Maßnahmen zur Sicherstellung der Integrität ihrer Software-Lieferketten ergreifen."
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "(g+) Finops für mehr Effizienz: Cloud ohne Kostenfalle",
+          "link": "https://www.golem.de/news/finops-fuer-mehr-effizienz-cloud-ohne-kostenfalle-2606-209399.html",
+          "summary": "In Firmen sind Cloudkosten oft unnötig hoch. Durch Finops lassen sich zweistellige Prozentbeträge einsparen, ohne dass die Performance leidet. Ein Ratgebertext von Fabian Deitelhoff ( Cloud , CRM )",
+          "published": "2026-06-04T13:30:11+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Digitalisierung: EU will Stromnetz durch KI steuern lassen",
+          "link": "https://www.golem.de/news/digitalisierung-eu-will-stromnetz-durch-ki-steuern-lassen-2606-209400.html",
+          "summary": "Künstliche Intelligenz soll die Energieeffizienz steigern, die Netzstabilität erhöhen und intelligentes Laden, auch über Grenzen hinweg, ermöglichen. ( KI , GreenIT )",
+          "published": "2026-06-04T11:35:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Integration von Finops in Unternehmen kann Cloudkosten signifikant senken, während die Leistung erhalten bleibt. Zudem plant die EU, Künstliche Intelligenz zur Steuerung von Stromnetzen einzusetzen, um die Energieeffizienz und Netzstabilität zu verbessern.",
+      "highlights": [
+        "Finops kann Einsparungen von zweistelligen Prozentbeträgen bei Cloudkosten ermöglichen.",
+        "Die EU setzt auf KI, um intelligentes Laden und grenzüberschreitende Energieeffizienz zu fördern.",
+        "Ziel ist die Erhöhung der Netzstabilität durch optimierte Energieverteilung."
+      ]
+    }
+  ]
+}
