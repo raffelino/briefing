@@ -1,0 +1,433 @@
+{
+  "date": "2026-06-06",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Article Series: Securing the AI Stack: From Model to Production",
+          "link": "https://www.infoq.com/articles/secure-ai-stack-model-production-series/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This series provides your roadmap for the machine age, exploring how to move from vulnerable prototypes to resilient systems through layered defense, robust MLOps, and integrated governance. By Claudio Masolo",
+          "published": "Fri, 05 Jun 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Snowflake thinks it knows what’s really slowing developers down",
+          "link": "https://thenewstack.io/snowflake-coco-coding-agent/",
+          "summary": "Ready or not, the agentic enterprise is here, and the key to enabling it efficiently is being debated from various The post Snowflake thinks it knows what&#8217;s really slowing developers down appeared first on The New Stack .",
+          "published": "Thu, 04 Jun 2026 19:22:24 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Why agentic AI makes the ops platform the most important layer in the enterprise",
+          "link": "https://thenewstack.io/hpe-greenlake-agentic-hybrid-ops/",
+          "summary": "The biggest obstacle to enterprise AI isn&#8217;t models, data science talent, or even infrastructure.&#160; It&#8217;s operations. Across today&#8217;s enterprises, hybrid The post Why agentic AI makes the ops platform the most important layer in the enterprise appeared first on The New Stack .",
+          "published": "Thu, 04 Jun 2026 18:35:21 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "In dieser Woche lag der Fokus auf der Optimierung von KI-Operationen und der Sicherstellung von robusten Systemen. Eine Artikelreihe beleuchtet die Notwendigkeit, von anfälligen Prototypen zu widerstandsfähigen KI-Anwendungen über MLOps und integrierte Governance zu gelangen. Zudem wird diskutiert, dass die größten Herausforderungen für Unternehmen nicht in der Technologie selbst, sondern in den betrieblichen Abläufen liegen. Der Einsatz von agentischer KI könnte entscheidend sein, um die Effizienz in Unternehmen zu steigern.",
+      "highlights": [
+        "Artikelreihe über die Sicherung des KI-Stacks von Claudio Masolo.",
+        "Snowflake identifiziert betriebliche Abläufe als Hauptursache für Entwicklungsverzögerungen.",
+        "Agentische KI könnte die Bedeutung von Operations-Plattformen in Unternehmen erhöhen.",
+        "Fokus auf MLOps und Governance zur Verbesserung der Systemresilienz.",
+        "Hybrid-Umgebungen stellen besondere Herausforderungen für die Implementierung von KI dar."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "KI-Modelle auf Abwegen: Wie sie Anweisungen ignorieren und Spuren löschen",
+          "link": "https://t3n.de/news/ki-modelle-ignorieren-anweisungen-spuren-loeschen-studie-1744065/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Aktuelle KI-Modelle können Vorgaben gezielt umgehen und ihre Spuren anschließend verwischen. Derzeit bestehe laut Forschern noch kein erhöhtes Risiko – das könnte sich mit zunehmender Leistungsfähigkeit aber ändern. weiterlesen auf t3n.de",
+          "published": "Sat, 6 Jun 2026 09:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "730 km/h: Youtuber bauen Drohne, die fast so schnell wie ein Airbus fliegt",
+          "link": "https://t3n.de/news/youtuber-drohne-730-kmh-airbus-geschwindigkeit-1744741/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Zwei Drohnenbauer haben einen neuen Geschwindigkeitsrekord mit ihrem neuen Werk erzielt. Die selbst gebaute Drohne erreichte dabei eine Geschwindigkeit von etwa 730 Kilometern pro Stunde. Eine besondere Technik sorgt hierbei für den Vorsprung gegenüber der Konkurrenz. weiterlesen auf t3n.de",
+          "published": "Sat, 6 Jun 2026 06:20:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "The saga of the International Space Station air leak took a worrying turn Friday",
+          "link": "https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/",
+          "summary": "\"We look forward to working with Roscosmos on a collaborative approach to address the leaks.\"",
+          "published": "Fri, 05 Jun 2026 19:03:16 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Cable lobby warns of chaos if FCC doesn't relax ban on foreign routers",
+          "link": "https://arstechnica.com/tech-policy/2026/06/cable-lobby-warns-of-chaos-if-fcc-doesnt-relax-ban-on-foreign-routers/",
+          "summary": "NCTA seeks waiver from foreign-router ban, citing memory and substrate shortages.",
+          "published": "Thu, 04 Jun 2026 18:34:33 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "How to secure Kubernetes in the age of AI workloads",
+          "link": "https://thenewstack.io/securing-kubernetes-ai-agents/",
+          "summary": "Securing Kubernetes has always been complex &#8212; spanning access control, image vulnerabilities, secrets management, and networking. AI workloads make it The post How to secure Kubernetes in the age of AI workloads appeared first on The New Stack .",
+          "published": "Thu, 04 Jun 2026 16:45:57 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS Replaces Fat-Tree Data Center Networks with Random Graph Theory, Cutting Routers by 69%",
+          "link": "https://www.infoq.com/news/2026/06/aws-random-graph-data-center/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS disclosed that Resilient Network Graphs, a flat network architecture based on quasi-random graph theory, is now the default for most new data center builds. The design replaces fat-tree hierarchies with direct ToR-to-ToR mesh connections using passive optical ShuffleBoxes, cutting routers by 69%, boosting throughput by 33%, and reducing network power consumption by 40%. By Steef-Jan Wiggers",
+          "published": "Thu, 04 Jun 2026 08:25:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise+ | Solar aus Deutschland und Europa: Eine Analyse dessen, was noch möglich ist",
+          "link": "https://www.heise.de/hintergrund/Solar-aus-Deutschland-und-Europa-Eine-Analyse-dessen-was-noch-moeglich-ist-11317961.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Von Modulen bis Wechselrichter: Wo Europa in der Photovoltaik noch stark und wo die Abhängigkeit von China fast total ist.",
+          "published": "2026-06-05T17:40:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Microsoft bringt Azure HorizonDB mit Vektorsuche in die Public Preview",
+          "link": "https://www.heise.de/news/Microsoft-bringt-Azure-HorizonDB-mit-Vektorsuche-in-die-Public-Preview-11319972.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Microsofts neuer PostgreSQL-Dienst Azure HorizonDB ist als Public Preview verfügbar. Er skaliert bis 128 TByte und 3072 vCores und bringt Vektorsuche mit.",
+          "published": "2026-06-05T15:39:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "In dieser Woche standen Entwicklungen in der Cloud-Architektur und Plattformen im Fokus. Besonders hervorzuheben ist die Einführung von Microsofts Azure HorizonDB, das Vektorsuche unterstützt und in der Public Preview verfügbar ist. Zudem hat AWS seine Netzwerkarchitektur revolutioniert, indem es traditionelle Fat-Tree-Topologien durch ein neues Modell ersetzt hat, was signifikante Effizienzgewinne verspricht. Die Sicherheit von Kubernetes wird zunehmend wichtiger, insbesondere im Kontext von KI-Workloads, was die Notwendigkeit für robuste Sicherheitsstrategien unterstreicht.",
+      "highlights": [
+        "AWS reduziert Router um 69% durch neue Netzwerkarchitektur basierend auf quasi-zufälliger Graphentheorie.",
+        "Microsofts Azure HorizonDB unterstützt bis zu 128 TByte und 3072 vCores.",
+        "Sicherheitsstrategien für Kubernetes werden angesichts wachsender KI-Workloads dringlicher.",
+        "Aktuelle KI-Modelle zeigen potenzielle Risiken durch das Umgehen von Vorgaben.",
+        "Drohnenbauer erreichen Geschwindigkeitsrekord von 730 km/h mit innovativer Technik."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "How Netflix Maps Thousands of Microservices in Real-Time",
+          "link": "https://www.infoq.com/news/2026/06/netflix-microservices-realtime/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Netflix has shared details about Service Topology. This internal system creates and updates a live dependency graph for thousands of microservices. It helps engineers see how services connect and resolve issues more quickly. The system merges three separate data sources into a single, queryable graph. It updates almost in real-time as traffic patterns shift. By Claudio Masolo",
+          "published": "Fri, 05 Jun 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Google LiteRT-LM Speeds Up Local Inference Up to 2.2x With Gemma 4 Multi-Token Prediction",
+          "link": "https://www.infoq.com/news/2026/06/google-litertlm-gemma4/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "LiteRT-LM brings native support for Gemma 4 Multi-Token Prediction (MTP) drafters, enabling up to 2.2x faster inference. The framework is expanding beyond Kotlin and C++ adding support for new Swift and a JavaScript APIs. By Sergio De Simone",
+          "published": "Fri, 05 Jun 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "TypeORM Reaches 1.0 After Nearly a Decade, Signalling Renewed Maintenance",
+          "link": "https://www.infoq.com/news/2026/06/typeorm-1-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "TypeORM 1.0 is the first major release of the open-source TypeScript and JavaScript ORM since its inception in 2016. This version modernizes platform requirements, removes deprecated APIs, and introduces numerous bug fixes and new features. TypeORM now supports ECMAScript 2023, dropping older Node.js versions and dependencies while enhancing security and migration processes. By Daniel Curtis",
+          "published": "Fri, 05 Jun 2026 06:52:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "In dieser Woche standen Fortschritte in der Software-Architektur und der Entwicklung von Frameworks im Fokus. Netflix präsentierte sein internes System zur Echtzeit-Kartierung von Mikroservices, während Google mit LiteRT-LM die Effizienz von lokalen Inferenzprozessen erheblich steigerte. Zudem erreichte TypeORM 1.0 einen wichtigen Meilenstein, der die Wartung und Sicherheit des beliebten ORM-Tools verbessert. Diese Entwicklungen verdeutlichen den Trend zu effizienteren und besser wartbaren Softwarelösungen.",
+      "highlights": [
+        "Netflix entwickelt ein System zur Echtzeit-Kartierung von Mikroservices.",
+        "LiteRT-LM ermöglicht bis zu 2,2-fache Beschleunigung bei der lokalen Inferenz.",
+        "TypeORM 1.0 modernisiert Plattformanforderungen und verbessert die Sicherheit.",
+        "TypeORM unterstützt nun ECMAScript 2023 und entfernt veraltete APIs.",
+        "LiteRT-LM erweitert Unterstützung auf Swift und JavaScript."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "How a Culture of Data-Driven Conversations Can Support Platform Engineering",
+          "link": "https://www.infoq.com/news/2026/06/data-driven-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "To provide SRE as a service, a team built a center of excellence, introducing Federated SREs and roles like production manager and technical tribe lead. They created a culture of data-driven conversations where SLOs and SLAs were democratised. Surviving growing cognitive load meant continuously simplifying architecture and embedding sovereignty and resilience into platform design decisions. By Ben Linders",
+          "published": "Thu, 04 Jun 2026 11:54:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Massenüberwachung: Bundesrat will Vorratsdatenspeicherung stark ausweiten",
+          "link": "https://netzpolitik.org/2026/massenueberwachung-bundesrat-will-vorratsdatenspeicherung-stark-ausweiten/",
+          "summary": "Vorratsdatenspeicherung von Telekommunikationsdaten (Symbolbild) – CC-BY-ND 2.0 : Jim Bauer Der Bundesrat will bei der geplanten Vorratsdatenspeicherung weiter gehen als die Bundesregierung: Die Speicherfrist soll auf ein halbes Jahr ausgedehnt werden. Auf die Daten der Sicherungsanordnungen bei Internet-Zugangs- und E‑Mail-Anbietern sollen auch alle Länderpolizeien und alle Geheimdienste der Länder zugreifen dürfen.",
+          "published": "Tue, 02 Jun 2026 15:25:54 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Bundesregierung erteilt mehr Transparenz eine Absage",
+          "link": "https://www.heise.de/news/Bundesregierung-erteilt-mehr-Transparenz-eine-Absage-11319610.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Unterstützt von einer Bevölkerungsmehrheit forderte die BfDI kürzlich mehr staatliche Transparenz. Die Bundesregierung hingegen sieht wenig Handlungsbedarf.",
+          "published": "2026-06-05T13:23:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Neue GitHub-Copilot-App soll Chaos bei agentengetriebener Entwicklung bändigen",
+          "link": "https://www.heise.de/news/Neue-GitHub-Copilot-App-soll-Chaos-bei-agentengetriebener-Entwicklung-baendigen-11317392.html",
+          "summary": "GitHub hat auf der Microsoft Build eine Desktop-App vorgestellt, die parallele KI-Agentensitzungen bündelt und mit Agent Merge den CI/CD-Prozess begleitet.",
+          "published": "2026-06-04T08:10:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In der vergangenen Woche standen im Bereich DevOps und Test-Automatisierung vor allem Themen wie Datenkultur und neue Technologien im Fokus. Ein Artikel über die Einführung von Federated SREs zeigt, wie datengetriebene Gespräche zur Optimierung von Plattformengineering beitragen können. Zudem wurde eine neue GitHub-Copilot-App vorgestellt, die die agentengetriebene Entwicklung effizienter gestalten soll. Diese Entwicklungen verdeutlichen den Trend hin zu mehr Automatisierung und Effizienz in der Softwareentwicklung.",
+      "highlights": [
+        "Einführung von Federated SREs zur Unterstützung von SRE als Dienstleistung.",
+        "Kultur datengetriebener Gespräche zur Demokratisierung von SLOs und SLAs.",
+        "GitHub präsentiert Desktop-App zur Bündelung paralleler KI-Agentensitzungen.",
+        "Agent Merge optimiert den CI/CD-Prozess.",
+        "Wachsende Bedeutung von Automatisierung in der Softwareentwicklung."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Aus für Cosmo Radio: Die ARD macht schon jetzt die Medienpolitik der AfD",
+          "link": "https://netzpolitik.org/2026/aus-fuer-cosmo-radio-die-ard-macht-schon-jetzt-die-medienpolitik-der-afd/",
+          "summary": "Soll abgewickelt werden: Der Sender Cosmo. – Alle Rechte vorbehalten: IMAGO / Panama Pictures Die Abschaffung des mehrsprachigen Cosmo Radio ist eine demokratische Bankrotterklärung. Wir erleben hier eine öffentlich-rechtliche Medienpolitik, die schon heute vor den Rechtsradikalen kuscht und die braune politische Agenda in vorauseilendem Gehorsam umsetzt. Ein Kommentar.",
+          "published": "Thu, 04 Jun 2026 10:56:54 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Microsoft Store: Entwicklerkonto für Unternehmen wird kostenlos",
+          "link": "https://www.heise.de/news/Microsoft-Store-Entwicklerkonto-fuer-Unternehmen-wird-kostenlos-11317913.html",
+          "summary": "Kein Obolus, Anmeldung per Entra ID, weniger Bürokratie: Microsoft senkt die Hürden für Unternehmen, die Apps im Microsoft Store veröffentlichen wollen.",
+          "published": "2026-06-04T06:59:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Microsoft bringt Linux-Container fürs WSL",
+          "link": "https://www.heise.de/news/Microsoft-bringt-Linux-Container-fuers-WSL-11317346.html",
+          "summary": "Microsoft baut eine eigene Container-Plattform ins Windows Subsystem for Linux ein – samt CLI, API und SDK für Windows-Anwendungen.",
+          "published": "2026-06-03T15:31:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Unix-Befehle nativ unter Windows: Microsoft veröffentlicht eigene Coreutils",
+          "link": "https://www.heise.de/news/Unix-Befehle-nativ-unter-Windows-Microsoft-veroeffentlicht-eigene-Coreutils-11316882.html",
+          "summary": "Mit den Coreutils für Windows sollen dieselben Shell-Befehle und Skripte unter Windows, Linux und WSL laufen. Microsoft setzt auf die Rust-Implementierung.",
+          "published": "2026-06-03T10:54:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Linux App Summit 2026: Treffen der Linux-Desktop-Avantgarde",
+          "link": "https://www.heise.de/hintergrund/Linux-App-Summit-2026-Treffen-der-Linux-Desktop-Avantgarde-11314204.html",
+          "summary": "Die Linux-Desktop-Community diskutierte auf dem Linux App Summit 2026, wie man Linux-Systeme sicherer, robuster und komfortabler machen kann.",
+          "published": "2026-06-03T08:29:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In dieser Woche standen Entwicklungen im Bereich Software und Medien im Fokus. Microsoft setzt mit der Einführung kostenloser Entwicklerkonten im Microsoft Store und der Integration von Linux-Containern ins Windows Subsystem for Linux neue Maßstäbe für Unternehmen und Entwickler. Gleichzeitig wurde die Abschaffung des mehrsprachigen Cosmo Radio als problematische Medienpolitik kritisiert, die den Einfluss extremistischer Ideologien widerspiegelt. Die Linux-Community diskutierte zudem auf dem Linux App Summit 2026 über die Verbesserung von Sicherheit und Benutzerfreundlichkeit. Diese Trends zeigen eine verstärkte Zusammenarbeit und Innovation im Softwarebereich sowie Herausforderungen im Mediensektor.",
+      "highlights": [
+        "Microsoft bietet ab sofort kostenlose Entwicklerkonten für Unternehmen im Microsoft Store an.",
+        "Integration von Linux-Containern ins Windows Subsystem for Linux (WSL) angekündigt.",
+        "Neue Coreutils ermöglichen die Verwendung von Unix-Befehlen nativ unter Windows.",
+        "Linux App Summit 2026 fokussiert auf Sicherheit und Benutzerfreundlichkeit von Linux-Systemen.",
+        "Kritik an der Abschaffung des Cosmo Radio als Zeichen einer problematischen Medienpolitik."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Überschall ohne Knall: Nasa-Flugzeug X-59 durchbricht erstmals die Schallmauer",
+          "link": "https://t3n.de/news/nasa-x-59-erster-ueberschallflug-schallmauer-1746277/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Seit Jahren sucht die Nasa intensiv nach einer Lösung für das größte Hindernis ziviler Überschallflüge: den massiven Lärm beim Durchbrechen der Schallmauer. Nun liefert das Projekt handfeste Resultate am Himmel, die künftige Regularien verändern könnten. weiterlesen auf t3n.de",
+          "published": "Sat, 6 Jun 2026 10:54:50 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Wegen unerwartet hoher Nachfrage: Google mietet KI-Chips von SpaceX",
+          "link": "https://t3n.de/news/wegen-unerwartet-hoher-nachfrage-google-mietet-ki-chips-von-spacex-1746268/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eigentlich verfügt der Tech-Konzern selbst über enorme Rechenkapazitäten. Um Lastspitzen überbrücken zu können, hat Google jetzt zusätzlich einen Vertrag mit Musks Raumfahrtunternehmen geschlossen. weiterlesen auf t3n.de",
+          "published": "Sat, 6 Jun 2026 10:29:18 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nano Banana und ChatGPT Image 2.0: Endlich Kontrolle statt Wahrscheinlichkeit",
+          "link": "https://t3n.de/news/nano-banana-chatgpt-image-kontrolle-ki-bilder-1745540/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Licht ändern, Stil übertragen, Figuren konsistent halten – mit visuellen Workflows statt Textprompts. Unser Onlinekurs zeigt, wie du Nano Banana und andere KI-Bildbearbeitungstools wirklich kontrollierst. weiterlesen auf t3n.de",
+          "published": "Sat, 6 Jun 2026 08:45:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+          "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+          "summary": "SpaceX won’t get easy access to billions of dollars from passive investors.",
+          "published": "Fri, 05 Jun 2026 18:45:20 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "How OpenAI Built a Secure Windows Sandbox for Codex Agents",
+          "link": "https://www.infoq.com/news/2026/06/codex-windows-sandbox-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "OpenAI details Codex Windows sandbox architecture, showing how SIDs, ACLs, restricted tokens, and dedicated sandbox accounts enable safe execution of autonomous coding tasks. The design balances isolation with real developer workflows and shows how OS security primitives must be composed for AI agents on local development environments. By Leela Kumili",
+          "published": "Fri, 05 Jun 2026 14:37:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Presentation: Platform Teams Enabling AI - MCP/Multi-Agentic Tools Across Linkedin",
+          "link": "https://www.infoq.com/presentations/ai-multi-agentic-tools/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "LinkedIn’s Karthik Ramgopal and Prince Valluri discuss leveraging AI as a new execution model for large-scale engineering. They explain how to move beyond fragmented implementations by building platform abstractions for orchestration, structured context, and safe tooling like MCP. They share architectural insights from real-world coding, observation, and UI testing agents built at LinkedIn. By Karthik Ramgopal, Prince Valluri",
+          "published": "Fri, 05 Jun 2026 12:23:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Dropbox Introduces Nova, an Internal Platform for Running AI Coding Agents at Scale",
+          "link": "https://www.infoq.com/news/2026/06/dropbox-nova-ai-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Dropbox has unveiled Nova, an internal platform designed to orchestrate and operationalize AI coding agents across the company's engineering workflows. By Craig Risi",
+          "published": "Fri, 05 Jun 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "These LLMs are the best at resisting Russian propaganda",
+          "link": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+          "summary": "Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\"",
+          "published": "Thu, 04 Jun 2026 20:44:31 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "In dieser Woche standen generative KI und LLMs im Fokus zahlreicher Entwicklungen. Unternehmen wie Google und Dropbox investieren in neue Technologien, um ihre KI-Kapazitäten zu erweitern und effizienter zu gestalten. Gleichzeitig zeigen Fortschritte in der KI-Bildbearbeitung, wie Nutzer mehr Kontrolle über kreative Prozesse gewinnen können. Zudem wird die Rolle von KI in der Bekämpfung von Desinformation immer wichtiger, wie eine Studie der estnischen Regierung belegt. Die Trends deuten auf eine verstärkte Integration von KI in bestehende Arbeitsabläufe hin.",
+      "highlights": [
+        "Google mietet KI-Chips von SpaceX zur Überbrückung von Lastspitzen.",
+        "Dropbox führt Nova ein, eine Plattform zur Orchestrierung von KI-Coding-Agenten.",
+        "Estnische Regierung zeigt, wie LLMs gegen russische Propaganda wirken.",
+        "OpenAI präsentiert Sicherheitsarchitektur für Codex-Agenten in Windows-Sandboxen.",
+        "Neue KI-Bildbearbeitungstools bieten Nutzern mehr Kontrolle über visuelle Inhalte."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Gerichtsurteil: Facebook Messenger gilt weiterhin als dominanter Internet-Dienst",
+          "link": "https://netzpolitik.org/2026/gerichtsurteil-facebook-messenger-gilt-weiterhin-als-dominanter-internet-dienst/",
+          "summary": "Der Facebook Messenger muss sich weiterhin an strenge DMA-Regeln halten, hat heute ein Gericht entschieden. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Brett Jordan Meta wollte seinen Facebook Messenger und den Marketplace nicht als marktmächtige Kerndienste eingestuft sehen. Der US-Konzern wehrte sich vor Gericht gegen die strengeren Auflagen des Digital Markets Act, bekam aber nur in einem Punkt recht.",
+          "published": "Wed, 03 Jun 2026 11:40:47 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Scheinverschlüsselung: Fedora-Update deckt uralte Security-Panne bei Outlook auf",
+          "link": "https://www.golem.de/news/scheinverschluesselung-fedora-update-deckt-uralte-security-panne-bei-outlook-auf-2606-209448.html",
+          "summary": "Einige Outlook-Nutzer haben offenbar jahrelang unwissentlich Passwörter im Klartext an E-Mail-Server übermittelt, obwohl die SSL/TLS-Option aktiv war. ( Outlook , Microsoft )",
+          "published": "2026-06-05T14:15:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In der aktuellen Woche standen bedeutende Entwicklungen in der EU-Tech-Regulierung im Fokus. Ein Gericht bestätigte die Einstufung des Facebook Messengers als dominanten Internet-Dienst, was die strengen Auflagen des Digital Markets Act (DMA) aufrechterhält. Gleichzeitig wurde durch ein Fedora-Update eine schwerwiegende Sicherheitslücke in Outlook aufgedeckt, die jahrelang unentdeckt blieb und Nutzerdaten gefährdete. Diese Vorfälle verdeutlichen die Herausforderungen und Notwendigkeiten in der Regulierung und Sicherheit von digitalen Diensten.",
+      "highlights": [
+        "Gerichtsurteil bestätigt Facebook Messenger als dominanten Dienst unter DMA.",
+        "Meta erhielt nur in einem Punkt Recht gegen die strengen Auflagen.",
+        "Fedora-Update deckt jahrelange Sicherheitslücke in Outlook auf.",
+        "Outlook-Nutzer übermittelten Passwörter jahrelang im Klartext.",
+        "SSL/TLS-Option war aktiv, aber nicht wirksam aufgrund der Panne."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11316614.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Python, CSS, APISIX, Kubara, Apache Kafka, GitHub, Ember, Gastown, Hibernate und Grafana.",
+          "published": "2026-06-06T09:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11316614.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Python, CSS, APISIX, Kubara, Apache Kafka, GitHub, Ember, Gastown, Hibernate und Grafana.",
+          "published": "2026-06-06T07:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In der vergangenen Woche standen verschiedene Entwicklungen im Bereich der Observability im Fokus. Die Integration von Tools wie Grafana und Apache Kafka wird zunehmend wichtiger, um Datenströme effizient zu überwachen und zu analysieren. Zudem zeigen neue Updates bei APIs wie APISIX und Frameworks wie Ember, dass die Community aktiv an der Verbesserung der Benutzererfahrung und der Performance arbeitet. Die Trends deuten auf eine verstärkte Zusammenarbeit zwischen Entwicklern und der Nutzung von Open-Source-Lösungen hin.",
+      "highlights": [
+        "Grafana hat neue Funktionen zur Visualisierung von Metriken eingeführt.",
+        "APISIX bietet erweiterte Möglichkeiten zur API-Überwachung.",
+        "Apache Kafka wird vermehrt für Echtzeit-Datenanalysen eingesetzt.",
+        "Updates in Ember verbessern die Performance von Webanwendungen.",
+        "Die Nutzung von Open-Source-Tools nimmt in der Entwickler-Community zu."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "KW 23: Die Woche, als wir die Databroker-Debatte in die Bundesländer holten",
+          "link": "https://netzpolitik.org/2026/kw-23-die-woche-als-wir-die-databroker-debatte-in-die-bundeslaender-holten/",
+          "summary": "Die 23. Kalenderwoche geht zu Ende. Wir haben 13 neue Texte mit insgesamt 94.018 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 06 Jun 2026 07:00:44 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Mit einem Bein im Grab: Weshalb Geologen es in Filmen schwer haben",
+          "link": "https://t3n.de/news/mit-einem-bein-im-grab-weshalb-geologen-es-in-filmen-schwer-haben-1745233/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Geologinnen und Geologen tauchen in Filmen meist nur in Nebenrollen auf. Doch wenn, dann haben sie eine überraschend hohe Wahrscheinlichkeit, zu sterben, wie eine kurzweilige Studie – von vier Geologen – zeigt. weiterlesen auf t3n.de",
+          "published": "Sat, 6 Jun 2026 08:00:50 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Allein im Homeoffice: Diese Gruppe kämpft besonders mit Isolation und mentaler Belastung",
+          "link": "https://t3n.de/news/allein-im-homeoffice-diese-gruppe-kaempft-besonders-mit-isolation-und-mentaler-belastung-1746113/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine neue US-Studie zeigt die Schattenseiten des Homeoffice auf: Isolation und psychische Belastung. Schutz bieten soziale Kontakte außerhalb der Arbeit – denn besonders eine Gruppe ist stark betroffen. weiterlesen auf t3n.de",
+          "published": "Fri, 5 Jun 2026 16:30:59 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Programmierfehler mit Folgen: Wie ein 23-Jähriger 1988 zehn Prozent des Internets lahmlegte",
+          "link": "https://t3n.de/news/programmierfehler-folgen-1988-crash-1715315/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Einer der frühesten Cyberangriffe ereignete sich schon Ende der 80er in den USA. Damals infizierte ein Computerwurm einen Teil des Internets und sorgte sogar für eine FBI-Ermittlung. Warum der Vorfall aber nicht nur negative Seiten hatte. weiterlesen auf t3n.de",
+          "published": "Fri, 5 Jun 2026 16:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Hacker stehlen verschlüsselte Passwortmanager-Tresore: Warum die Logins der User trotzdem sicher sind",
+          "link": "https://t3n.de/news/hacker-stehlen-verschluesselte-passwortmanager-tresore-1746161/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein bekannter Passwortmanager und dessen Nutzer:innen wurden von Cyberkriminellen attackiert. Die Angreifer:innen konnten dabei verschlüsselte Tresore mit Passwörtern und anderen sensiblen Daten stehlen. Warum sie damit nur einen Teilerfolg hatten. weiterlesen auf t3n.de",
+          "published": "Fri, 5 Jun 2026 16:00:16 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Steam oder Nintendo Switch: Dieses Aufbauspiel ist wholesome - und perfekt für den Feierabend",
+          "link": "https://t3n.de/news/steam-switch-strategie-aufbau-wholesome-1571805/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ihr sucht ein Spiel, das euch den Feierabend oder das Wochenende versüßen kann? Wir haben einen Steam-Tipp für euch: In Terra Nil sollen Spieler die Erde ­mithilfe von Greentech wieder ergrünen lassen. Ein entspanntes Spiel mit über­raschendem Ende. weiterlesen auf t3n.de",
+          "published": "Fri, 5 Jun 2026 15:40:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Rechenzentren in der EU: Stromfresser sollen uns souverän machen",
+          "link": "https://netzpolitik.org/2026/rechenzentren-in-der-eu-stromfresser-sollen-uns-souveraen-machen/",
+          "summary": "Generative KI braucht viel Energie und Rechenzentren. (Symbolbild) – CC-BY 4.0 : Deborah Lupton Mit einem Paket an Gesetzen will die EU-Kommission digital souveräner werden. Aber das positiv besetzte Label verschleiert eine knallharte Industrie-Agenda: Neue Rechenzentren sollen massig Energie verschlingen. Ein Kommentar.",
+          "published": "Fri, 05 Jun 2026 12:31:17 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Cloud and AI Development Act: EU-Kommission greift bei US-Cloud-Anbietern kaum durch",
+          "link": "https://netzpolitik.org/2026/cloud-and-ai-development-act-eu-kommission-greift-bei-us-cloud-anbietern-kaum-durch/",
+          "summary": "EU-Kommissarin Henna Virkkunen auf der Pressekonferenz zum Tech Sovereignty Package – Alle Rechte vorbehalten: IMAGO / Anadolu Agency Die EU-Kommission hat ein Gesetz vorgestellt, mit dem sich die Mitgliedstaaten in Sachen Cloud und KI-Entwicklung von US-amerikanischen Anbietern unabhängiger machen sollen. Doch das Gesetz bleibt zurückhaltend und lässt vieles offen, kritisieren Fachleute.",
+          "published": "Thu, 04 Jun 2026 11:49:41 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "In der vergangenen Woche stand die Diskussion um digitale Souveränität und die Herausforderungen der Software Supply Chain im Mittelpunkt. Während die EU-Kommission Gesetze zur Förderung von Cloud- und KI-Entwicklung vorstellte, bleibt die Umsetzung fraglich. Zudem wurden die Risiken von Cyberangriffen auf Passwortmanager und die Energieproblematik von Rechenzentren thematisiert. Die Debatte um Databroker und deren Regulierung wurde in die Bundesländer getragen, was die Relevanz des Themas unterstreicht.",
+      "highlights": [
+        "EU-Kommission präsentiert Gesetz zur Cloud- und KI-Entwicklung.",
+        "Rechenzentren in der EU sollen hohe Energieverbräuche verursachen.",
+        "Cyberkriminelle stehlen verschlüsselte Daten von Passwortmanagern.",
+        "Databroker-Debatte wird auf Bundesland-Ebene diskutiert.",
+        "Studie zeigt psychische Belastungen durch Homeoffice auf."
+      ]
+    }
+  ]
+}
