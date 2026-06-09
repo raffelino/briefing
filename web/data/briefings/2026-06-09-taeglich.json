@@ -1,0 +1,362 @@
+{
+  "date": "2026-06-09",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "The weather and climate science AI revolution isn’t revolutionary",
+          "link": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
+          "summary": "Machine learning has its limits—how is it being used?",
+          "published": "Mon, 08 Jun 2026 11:00:58 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Der Artikel von Ars Technica beleuchtet die Grenzen des maschinellen Lernens in der Wetter- und Klimaforschung. Trotz der Fortschritte in der KI bleibt die Technologie hinter den Erwartungen zurück, wenn es um präzise Vorhersagen geht.",
+      "highlights": [
+        "Maschinelles Lernen hat Einschränkungen in der Wettervorhersage.",
+        "KI wird häufig zur Analyse großer Datenmengen eingesetzt, jedoch nicht immer effektiv.",
+        "Die Erwartungen an revolutionäre Durchbrüche in der Klimawissenschaft sind oft überzogen."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Neue Berufskrankheit? Wie intensive KI-Nutzung die mentale Gesundheit belastet",
+          "link": "https://t3n.de/news/neue-berufskrankheit-wie-intensive-ki-nutzung-die-mentale-gesundheit-belastet-1744069/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mentaler Nebel, ein summendes Gefühl im Kopf, Entscheidungsschwierigkeiten: Davon berichten Mitarbeitende, die durch intensive KI-Nutzung unter „AI Brain Fry weiterlesen auf t3n.de",
+          "published": "Tue, 9 Jun 2026 10:00:14 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
+          "link": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
+          "summary": "You'll need an M1 or better to run the next release of macOS.",
+          "published": "Mon, 08 Jun 2026 21:03:56 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Microsoft’s pitch to enterprises: Ditch Azure Repos for GitHub, despite its rocky reliability record",
+          "link": "https://thenewstack.io/azure-repos-github-migration/",
+          "summary": "GitHub hasn&#8217;t had an easy year. The platform has been hit by repeated outages affecting core services &#8212; including the The post Microsoft&#8217;s pitch to enterprises: Ditch Azure Repos for GitHub, despite its rocky reliability record appeared first on The New Stack .",
+          "published": "Mon, 08 Jun 2026 19:05:40 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+          "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+          "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
+          "published": "Mon, 08 Jun 2026 18:34:23 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Apple's iOS 27, macOS 27 Golden Gate, and other updates focus on refinement",
+          "link": "https://arstechnica.com/gadgets/2026/06/apples-ios-27-macos-27-golden-gate-and-other-updates-focus-on-refinement/",
+          "summary": "Apple's OSes come with Liquid Glass tweaks and performance optimizations.",
+          "published": "Mon, 08 Jun 2026 18:07:13 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Cloud-Architektur und Plattformen zeigen Herausforderungen und Veränderungen. Microsoft empfiehlt Unternehmen, Azure Repos zugunsten von GitHub aufzugeben, trotz dessen Zuverlässigkeitsproblemen. Zudem erfordert die neue macOS-Version Apple Silicon, was das Ende der Intel-Macs markiert.",
+      "highlights": [
+        "Microsoft wirbt für GitHub als Alternative zu Azure Repos, trotz wiederholter Ausfälle der Plattform.",
+        "Die kommende macOS-Version benötigt einen M1-Chip oder besser, was die Intel-Mac-Ära beendet.",
+        "Apple's iOS 27 und macOS 27 bringen Leistungsoptimierungen und neue Funktionen."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: JDK 27 in Rampdown, JDK 28 Expert Group, GlassFish, Infinispan, Kotlin",
+          "link": "https://www.infoq.com/news/2026/06/java-news-roundup-jun01-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for June 1st, 2026, features news highlighting: JDK 27 in Rampdown Phase One; the formation of the JDK 28 Expert Group; the GlassFish Arquillian Connectors Suite for Jakarta EE TCKs; point releases for Infinispan and Kotlin; maintenance releases of GlassFish and Micronaut; and the June 2026 beta release of Open Liberty. By Michael Redlich",
+          "published": "Mon, 08 Jun 2026 13:45:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "(g+) Blazor 2026: Warum C# im Web stärker wird - aber Javascript bleibt",
+          "link": "https://www.golem.de/news/blazor-2026-warum-c-im-web-staerker-wird-aber-javascript-bleibt-2606-209503.html",
+          "summary": "Blazor verspricht Webentwicklung ohne ständigen Wechsel zwischen C# und Javascript. Doch wie weit trägt das, wenn React, Angular und Vue das Web weiter prägen? Ein Ratgebertext von Fabian Deitelhoff ( Softwareentwicklung , .Net )",
+          "published": "2026-06-08T13:30:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In der aktuellen Java-Runde wird JDK 27 in die Rampdown-Phase überführt und die Expertengruppe für JDK 28 gebildet. Zudem gibt es Updates für GlassFish, Infinispan und Kotlin sowie die Beta-Version von Open Liberty.",
+      "highlights": [
+        "JDK 27 befindet sich in der Rampdown Phase One.",
+        "Gründung der JDK 28 Expert Group.",
+        "Beta-Version von Open Liberty wird im Juni 2026 veröffentlicht."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
+          "link": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
+          "summary": "WhatsApp disrupted spear phishing attempts, asks court to hold NSO in contempt.",
+          "published": "Mon, 08 Jun 2026 20:26:14 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Ströer und Verfassungsschutz kooperieren für IT-Sicherheitswarnungen",
+          "link": "https://www.heise.de/news/Stroeer-und-Verfassungsschutz-kooperieren-fuer-IT-Sicherheitswarnungen-11322559.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das Medienunternehmen Ströer und der Verfassungsschutz Bremen kooperieren, um auf den Werbeflächen IT-Sicherheitswarnungen anzuzeigen.",
+          "published": "2026-06-09T09:16:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Gerichtsbeschluss missachtet: Meta geht gegen Pegasus-Hersteller NSO Group vor",
+          "link": "https://www.heise.de/news/Gerichtsbeschluss-missachtet-Meta-geht-gegen-Pegasus-Hersteller-NSO-Group-vor-11322252.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Nach vereitelten Phishing-Angriffen wirft Meta der NSO Group vor, gegen eine vom Gericht verhängte dauerhafte Unterlassungsverfügung verstoßen zu haben.",
+          "published": "2026-06-08T21:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anzeige: Zero Trust Security Framework für IT-Sicherheitsprogramme",
+          "link": "https://www.golem.de/news/anzeige-zero-trust-security-framework-fuer-it-sicherheitsprogramme-2606-208602.html",
+          "summary": "Zero Trust Security Framework wird zur Leitlinie moderner IT-Sicherheit. Entscheidend ist die Umsetzung in Architektur und Prozessen. Ein Online-Workshop vermittelt dafür das Vorgehen. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-06-09T07:21:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der IT-Sicherheit zeigen, dass Unternehmen wie Meta rechtliche Schritte gegen die NSO Group einleiten, während Ströer und der Verfassungsschutz Bremen zusammenarbeiten, um Sicherheitswarnungen zu verbreiten. Zudem gewinnt das Zero Trust Security Framework an Bedeutung für moderne IT-Sicherheitsstrategien.",
+      "highlights": [
+        "Meta beschuldigt NSO Group, gegen Gerichtsbeschluss zu verstoßen.",
+        "Ströer und Verfassungsschutz Bremen kooperieren zur Anzeige von IT-Sicherheitswarnungen.",
+        "Zero Trust Security Framework wird als Leitlinie für IT-Sicherheitsprogramme hervorgehoben."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Ist Windows Defender wirklich ausreichend? Microsoft löscht ein Sicherheitsversprechen",
+          "link": "https://t3n.de/news/windows-defender-sicherheitsversprechen-fragen-1746402/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Microsoft hat still und heimlich einen Blogbeitrag entfernt, in dem es hieß, dass der Windows Defender ausreichenden Sicherheitsschutz biete. Doch es gibt auch Lob für das Tool. weiterlesen auf t3n.de",
+          "published": "Mon, 8 Jun 2026 13:00:41 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Thief: The Dark Project Remastered“ – Stealth-Klassiker von 1998 kehrt zurück",
+          "link": "https://www.heise.de/news/Thief-The-Dark-Project-Remastered-Stealth-Klassiker-von-1998-kehrt-zurueck-11322666.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Remaster-Experten von Nightdive Studios legen das einflussreiche Stealth-Abenteuer „Thief: The Dark Project“ für aktuelle Systeme neu auf.",
+          "published": "2026-06-09T09:55:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Neue GitHub-Copilot-App soll Chaos bei agentengetriebener Entwicklung bändigen",
+          "link": "https://www.heise.de/news/Neue-GitHub-Copilot-App-soll-Chaos-bei-agentengetriebener-Entwicklung-baendigen-11317392.html",
+          "summary": "GitHub hat auf der Microsoft Build eine Desktop-App vorgestellt, die parallele KI-Agentensitzungen bündelt und mit Agent Merge den CI/CD-Prozess begleitet.",
+          "published": "2026-06-04T08:10:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Nintendo: Frankreich verhängt Millionenstrafe wegen Joy-Con-Drift",
+          "link": "https://www.golem.de/news/nintendo-frankreich-verhaengt-millionenstrafe-wegen-joy-con-drift-2606-209543.html",
+          "summary": "Verbraucherschützer werfen Nintendo vor, Kunden beim bekannten Joy-Con-Drift nicht ausreichend informiert zu haben. ( Nintendo Switch , Nintendo )",
+          "published": "2026-06-09T08:14:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die heutige Nachrichtenlage umfasst Entwicklungen in der Software- und Gaming-Welt, darunter eine neue GitHub-Copilot-App zur Verbesserung von CI/CD-Prozessen und eine Millionenstrafe für Nintendo in Frankreich wegen mangelhafter Informationen zum Joy-Con-Drift. Zudem wird die Sicherheit des Windows Defenders hinterfragt.",
+      "highlights": [
+        "Microsoft entfernt Blogbeitrag, der Windows Defender als ausreichend bezeichnete.",
+        "GitHub stellt neue Desktop-App vor, die KI-Agentensitzungen bündelt.",
+        "Frankreich verhängt Millionenstrafe gegen Nintendo wegen Joy-Con-Drift."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "heise+ | Secure Boot: UEFI-Bootmanager unter Windows prüfen",
+          "link": "https://www.heise.de/ratgeber/Secure-Boot-UEFI-Bootmanager-unter-Windows-pruefen-11293288.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Secure Boot braucht Updates, doch booten Windows und Linux danach noch? Was ist mit Ihren bootfähigen USB-Laufwerken? Unser Skript prüft das alles.",
+          "published": "2026-06-09T07:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Microsoft Store: Entwicklerkonto für Unternehmen wird kostenlos",
+          "link": "https://www.heise.de/news/Microsoft-Store-Entwicklerkonto-fuer-Unternehmen-wird-kostenlos-11317913.html",
+          "summary": "Kein Obolus, Anmeldung per Entra ID, weniger Bürokratie: Microsoft senkt die Hürden für Unternehmen, die Apps im Microsoft Store veröffentlichen wollen.",
+          "published": "2026-06-04T06:59:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Microsoft bringt Linux-Container fürs WSL",
+          "link": "https://www.heise.de/news/Microsoft-bringt-Linux-Container-fuers-WSL-11317346.html",
+          "summary": "Microsoft baut eine eigene Container-Plattform ins Windows Subsystem for Linux ein – samt CLI, API und SDK für Windows-Anwendungen.",
+          "published": "2026-06-03T15:31:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Software- und Betriebssystemlandschaft zeigen, dass Microsoft die Integration von Linux-Containern in WSL vorantreibt und gleichzeitig die Hürden für Unternehmen zur Veröffentlichung von Apps im Microsoft Store senkt. Zudem wird die Sicherheit durch Updates für Secure Boot thematisiert.",
+      "highlights": [
+        "Microsoft ermöglicht kostenlose Entwicklerkonten für Unternehmen im Microsoft Store.",
+        "Einführung von Linux-Containern im Windows Subsystem for Linux (WSL) mit CLI, API und SDK.",
+        "Skript zur Überprüfung der Kompatibilität von Secure Boot mit Windows und Linux verfügbar."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Microsoft Foundry Adds Runtime, Tooling, and Governance for Production Agents",
+          "link": "https://www.infoq.com/news/2026/06/microsoft-foundry-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft used their Build 2026 event to announce new functionality for Microsoft Foundry. Citing Foundry as \"the place where AI agents move from experiments to production systems,\" in a blog post, Nick Brady writes that the release brings “runtime, tools, memory, grounding, models, observability, and governance” that developers need for production agents, rather than just new model endpoints. By Matt Saunders",
+          "published": "Tue, 09 Jun 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Das Trio ist komplett: OpenAI beantragt Börsengang",
+          "link": "https://t3n.de/news/das-trio-ist-komplett-openai-beantragt-boersengang-1746551/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der ChatGPT-Entwickler OpenAI nimmt Kurs auf die Börse. Zugleich signalisiert die Firma aber auch, dass man sich damit Zeit nehmen wolle. weiterlesen auf t3n.de",
+          "published": "Tue, 9 Jun 2026 07:15:36 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Apples Update-Fahrplan: Diese Geräte bekommen iOS 27, iPadOS 27 und macOS 27",
+          "link": "https://t3n.de/news/ios-27-update-iphone-ipad-mac-update-1740901/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Am 8. Juni hat Apple iOS 27 vorgestellt. Aber: Auf welchen Geräten läuft das kommende Update? Die Frage dürften sich auch iPad- und Mac-Besitzer:innen stellen. Wer sich doch noch freuen darf – und wer jetzt leer ausgeht. weiterlesen auf t3n.de",
+          "published": "Mon, 8 Jun 2026 22:25:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Claude Code’s biggest upgrade yet ran 5 agents at once — here’s what happened",
+          "link": "https://thenewstack.io/claude-code-dynamic-workflows-test/",
+          "summary": "Anthropic shipped Claude Opus 4.8 on May 28, and with it came dynamic workflows in Claude Code. This fully testable The post Claude Code&#8217;s biggest upgrade yet ran 5 agents at once — here&#8217;s what happened appeared first on The New Stack .",
+          "published": "Mon, 08 Jun 2026 19:01:20 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
+          "link": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
+          "summary": "NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now.",
+          "published": "Mon, 08 Jun 2026 19:00:30 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Die Entwicklungen im Bereich generative KI und LLMs nehmen Fahrt auf. Microsoft kündigte neue Funktionen für Foundry an, während OpenAI einen Börsengang plant. Zudem wurden bedeutende Updates für Claude Code und Google NotebookLM vorgestellt.",
+      "highlights": [
+        "Microsoft Foundry bietet nun Runtime, Tools und Governance für Produktionsagenten.",
+        "OpenAI hat einen Börsengang beantragt und plant, sich Zeit dafür zu nehmen.",
+        "Google NotebookLM erhält ein großes Upgrade mit Gemini 3.5, aktuell nur für AI Ultra und Unternehmenskonten."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "KI im Recruiting bleibt Hochrisiko: Was der AI Omnibus für Unternehmen wirklich ändert",
+          "link": "https://t3n.de/news/ki-im-recruiting-bleibt-hochrisiko-was-der-ai-omnibus-fuer-unternehmen-wirklich-aendert-1746005/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der AI Act der EU ist das weltweit erste Gesetz für Künstliche Intelligenz. Doch bevor es so richtig greift, soll es durch den „AI Omnibus“ entschärft werden. Was ändert sich jetzt für die Entwickler und Nutzer der Tools? Drei Tech-Lawyer haben das neue Gesetzespaket analysiert &#8211; das sind die fünf wichtigsten Änderungen. weiterlesen auf t3n.de",
+          "published": "Tue, 9 Jun 2026 08:00:53 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Der AI Act der EU, das erste Gesetz für Künstliche Intelligenz, wird durch den AI Omnibus entschärft. Dies hat Auswirkungen auf die Nutzung von KI im Recruiting und andere Bereiche, wobei fünf wesentliche Änderungen für Entwickler und Nutzer zu beachten sind.",
+      "highlights": [
+        "Der AI Omnibus soll den AI Act entschärfen.",
+        "KI im Recruiting bleibt als Hochrisiko eingestuft.",
+        "Drei Tech-Lawyer analysieren die fünf wichtigsten Änderungen im Gesetzespaket."
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "Zero Reaches 1.0, Marking the First Stable Release of Rocicorp's Web Sync Engine",
+          "link": "https://www.infoq.com/news/2026/06/zero-version-1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Rocicorp has released Zero 1.0, a stable version of its sync engine after two years of development. This update introduces a schema change hook for Supabase and includes bug fixes. Zero operates by pairing a client library with a read-only Postgres cache. Community feedback highlights positive developer experience but raises concerns about production readiness and existing limitations. By Daniel Curtis",
+          "published": "Mon, 08 Jun 2026 07:49:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Rocicorp hat die stabile Version 1.0 von Zero, seiner Web-Sync-Engine, veröffentlicht. Diese Version bringt eine Schema-Änderungs-Hook für Supabase und behebt mehrere Bugs, während die Community sowohl positive Rückmeldungen zur Entwicklererfahrung als auch Bedenken hinsichtlich der Produktionsbereitschaft äußert.",
+      "highlights": [
+        "Zero 1.0 ist die erste stabile Version nach zwei Jahren Entwicklung.",
+        "Einführung einer Schema-Änderungs-Hook für Supabase.",
+        "Positive Entwicklererfahrungen, jedoch Bedenken zur Produktionsreife."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11316614.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Python, CSS, APISIX, Kubara, Apache Kafka, GitHub, Ember, Gastown, Hibernate und Grafana.",
+          "published": "2026-06-06T07:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die heise developer News berichten über verschiedene Entwicklungen in der Software-Entwicklung, darunter Updates zu Python, CSS und Grafana. Diese Meldungen bieten Einblicke in neue Features und Verbesserungen in beliebten Technologien.",
+      "highlights": [
+        "Neue Funktionen in Python und CSS vorgestellt.",
+        "Updates zu APISIX und Apache Kafka angekündigt.",
+        "Grafana erhält Verbesserungen zur Datenvisualisierung."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Whatsapp-Warnung: „KI ab Samstag auf Whatsapp verfügbar“ – was wirklich hinter der Nachricht steckt",
+          "link": "https://t3n.de/news/whatsapp-warnung-ki-ab-samstag-nachricht-1746553/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Whatsapp-User:innen erhalten derzeit womöglich von ihren Kontakten beunruhigende Nachrichten. Angeblich soll Meta AI in wenigen Tagen sämtliche Chats mitlesen können und sogar Telefonnummern verarbeiten. Ein besonderer Modus soll davor schützen. Was ist wirklich dran an der Warnung? weiterlesen auf t3n.de",
+          "published": "Tue, 9 Jun 2026 09:46:49 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Tests suggest Russian satellites can jam GPS on a continental scale",
+          "link": "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/",
+          "summary": "Mystery of GPS interference across Europe raises questions about Russian motives.",
+          "published": "Mon, 08 Jun 2026 21:56:28 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "How AI is solving the memory crunch it created",
+          "link": "https://thenewstack.io/memory-constraint-virtualization-optimization/",
+          "summary": "Memory has replaced compute as a primary constraint for modern tech teams. A perfect storm of hardware architecture limitations, semiconductor The post How AI is solving the memory crunch it created appeared first on The New Stack .",
+          "published": "Mon, 08 Jun 2026 19:25:40 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "All Couture: Unterwäsche von Prada für Nasa-Astronauten",
+          "link": "https://t3n.de/news/prada-axiom-space-nasa-mondmission-raumanzug-1746532/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn es um die Ausstattung für extreme Bedingungen geht, denkt man selten an Laufstege. Doch für kommende Missionen abseits der Erde hat sich eine ungewöhnliche Allianz gebildet, die Funktionalität mit einem Hauch Haute Couture verbindet. weiterlesen auf t3n.de",
+          "published": "Mon, 8 Jun 2026 19:32:02 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Neue Töne aus Brüssel: Open Source soll Europa unabhängiger machen",
+          "link": "https://netzpolitik.org/2026/neue-toene-aus-bruessel-open-source-soll-europa-unabhaengiger-machen/",
+          "summary": "Die Kommission lässt es Versprechen und Wertschätzung für Open Source regnen. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Patrick Pahlke Die neue Open-Source-Strategie der EU-Kommission bringt viele Forderungen der Community auf Papier. Rechtlich bindend sind die Maßnahmen allerdings noch nicht. Die anstehende Reform des EU-Vergaberechts könnte das ändern.",
+          "published": "Mon, 08 Jun 2026 15:08:28 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "Die EU-Kommission hat eine neue Open-Source-Strategie vorgestellt, die darauf abzielt, die Unabhängigkeit Europas im digitalen Bereich zu stärken. Obwohl die Maßnahmen noch nicht rechtlich bindend sind, könnten sie durch die Reform des EU-Vergaberechts an Bedeutung gewinnen.",
+      "highlights": [
+        "Die Strategie umfasst Forderungen der Open-Source-Community.",
+        "Ziel ist es, die digitale Souveränität Europas zu erhöhen.",
+        "Reform des EU-Vergaberechts könnte die Maßnahmen rechtlich verbindlich machen."
+      ]
+    }
+  ]
+}
