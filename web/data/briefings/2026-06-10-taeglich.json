@@ -1,0 +1,364 @@
+{
+  "date": "2026-06-10",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "When your data model is the bottleneck: lessons from Medium’s feature store",
+          "link": "https://thenewstack.io/medium-scylladb-feature-store/",
+          "summary": "&#8220;Keep readers reading&#8221; is the not-so-simple goal of Medium&#8217;s recommendations system. To predict what&#8217;s most likely to appeal to a The post When your data model is the bottleneck: lessons from Medium’s feature store appeared first on The New Stack .",
+          "published": "Tue, 09 Jun 2026 14:40:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Medium hat Herausforderungen mit seinem Empfehlungssystem, das darauf abzielt, Leser länger zu halten. Die Analyse zeigt, dass ineffiziente Datenmodelle als Engpass fungieren können, was die Leistung des Systems beeinträchtigt.",
+      "highlights": [
+        "Medium nutzt ein Empfehlungssystem, um Leser länger zu halten.",
+        "Ineffiziente Datenmodelle können die Leistung des Empfehlungssystems beeinträchtigen.",
+        "Die Analyse von Mediums Feature Store bietet wertvolle Einblicke in Datenmodellierung und -optimierung."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "&quot;Experten auf Weltniveau&quot;: Bundesregierung gründet KI-Sicherheitsinstitut",
+          "link": "https://t3n.de/news/experten-auf-weltniveau-bundesregierung-gruendet-ki-sicherheitsinstitut-1746679/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI-Modelle bergen Chancen wie Risiken. Mit einer neuen Einrichtung will die Regierung ihre Analysefähigkeiten stärken. weiterlesen auf t3n.de",
+          "published": "Tue, 9 Jun 2026 13:20:03 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Schluss mit doppelter Lizenzierung: Microsoft SQL Server in Amazon RDS",
+          "link": "https://www.heise.de/news/Schluss-mit-doppelter-Lizenzierung-Microsoft-SQL-Server-in-Amazon-RDS-11326774.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "SQL Server im verwalteten AWS-Dienst betreiben, ohne erneut zu lizenzieren: Amazon RDS erlaubt jetzt die Mitnahme vorhandener Lizenzen und Installationsmedien.",
+          "published": "2026-06-10T10:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | Justitia auf Irrwegen: Die Rechtsprechung und der Kampf mit dem KI-Müll",
+          "link": "https://www.heise.de/hintergrund/Justitia-auf-Irrwegen-Die-Rechtsprechung-und-der-Kampf-mit-dem-KI-Muell-11313496.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Die Justiz stand lange für Glaubwürdigkeit und Faktentreue. KI machte das zunichte. Schriftsätze und Urteile mit KI-Hilfe beschädigen diesen Ruf.",
+          "published": "2026-06-10T09:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Reaktion auf Claude Mythos? Bundesregierung gründet KI-Sicherheitsinstitut",
+          "link": "https://www.heise.de/news/Bundesregierung-will-KI-Sicherheitsinstitut-gruenden-11326247.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mit einer neuen Einrichtung will die Bundesregierung ihre Analysefähigkeiten bei KI-Modellen stärken. Minister Wildberger verspricht „Experten auf Weltniveau“.",
+          "published": "2026-06-09T18:01:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Microsoft bringt Azure HorizonDB mit Vektorsuche in die Public Preview",
+          "link": "https://www.heise.de/news/Microsoft-bringt-Azure-HorizonDB-mit-Vektorsuche-in-die-Public-Preview-11319972.html",
+          "summary": "Microsofts neuer PostgreSQL-Dienst Azure HorizonDB ist als Public Preview verfügbar. Er skaliert bis 128 TByte und 3072 vCores und bringt Vektorsuche mit.",
+          "published": "2026-06-05T13:39:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Bundesregierung gründet ein KI-Sicherheitsinstitut zur Stärkung der Analysefähigkeiten im Bereich Künstliche Intelligenz. Microsoft führt die Mitnahme vorhandener Lizenzen für SQL Server in Amazon RDS ein und bringt Azure HorizonDB mit Vektorsuche in die Public Preview.",
+      "highlights": [
+        "Bundesregierung startet KI-Sicherheitsinstitut zur Risikominimierung.",
+        "Amazon RDS erlaubt Nutzung vorhandener SQL Server-Lizenzen.",
+        "Azure HorizonDB skaliert bis 128 TByte und 3072 vCores."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Spring is 23 years old. AI just made it a security emergency.",
+          "link": "https://thenewstack.io/broadcom-spring-java-cve-security-ai/",
+          "summary": "AI is rewriting the rules of software security, and the Java ecosystem &#8212; the backbone of enterprise computing for more The post Spring is 23 years old. AI just made it a security emergency. appeared first on The New Stack .",
+          "published": "Tue, 09 Jun 2026 18:48:06 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Der Spring-Framework, das vor 23 Jahren ins Leben gerufen wurde, sieht sich aufgrund von KI-Entwicklungen neuen Sicherheitsherausforderungen gegenüber. Diese Veränderungen betreffen insbesondere die Java-Ökosysteme, die für viele Unternehmen essenziell sind.",
+      "highlights": [
+        "Spring-Framework wurde vor 23 Jahren gegründet.",
+        "KI verändert die Regeln der Software-Sicherheit erheblich.",
+        "Java bleibt das Rückgrat der Unternehmens-IT, ist aber nun anfälliger für Sicherheitsrisiken."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
+          "link": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
+          "summary": "New frontier model refuses cybersecurity, biology, and chemistry queries.",
+          "published": "Tue, 09 Jun 2026 19:20:25 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Programmierfehler mit Cybersecurity-Folgen: Wie ein Student 1988 zehn Prozent des Internets lahmlegte",
+          "link": "https://t3n.de/news/cybersecurity-morris-wurm-1988-internet-lahmgelegt-1715315/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Einer der frühesten Cyberangriffe ereignete sich schon Ende der 80er in den USA. Damals infizierte ein Computerwurm einen Teil des Internets und sorgte sogar für eine FBI-Ermittlung. Warum der Vorfall aber nicht nur negative Seiten hatte. weiterlesen auf t3n.de",
+          "published": "Tue, 9 Jun 2026 14:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Patchday: Adobe schließt mehr als 120 Sicherheitslücken in InDesign & Co.",
+          "link": "https://www.heise.de/news/Patchday-Adobe-schliesst-mehr-als-120-Sicherheitsluecken-in-InDesign-Co-11326790.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Angreifer können unter anderem an Schadcode-Schwachstellen in ColdFusion und Dreamwaver ansetzen.",
+          "published": "2026-06-10T09:29:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Datenleck: Cyberangriff auf französischen Regierungs-Messenger Tchap",
+          "link": "https://www.heise.de/news/Datenleck-Cyberangriff-auf-franzoesischen-Regierungs-Messenger-Tchap-11326766.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Frankreichs Digitalstelle DINUM räumt ein Datenleck beim Regierungs-Messenger Tchap ein. Angreifer konnten ein Konto kompromittieren.",
+          "published": "2026-06-10T09:01:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Microsoft-Patchday mit offenem Ende: Forscher legt RoguePlanet-Zero-Day nach",
+          "link": "https://www.heise.de/news/Microsoft-begeht-Patchday-IT-Forscher-schiebt-RoguePlanet-Zero-Day-nach-11326714.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Unter anderem eine kritische Kernel-Schwachstelle bedroht Windows 11. Zusätzlich schließt Microsoft Ende Mai bekannt gewordene Zero-Day-Lücken.",
+          "published": "2026-06-10T09:01:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der IT-Sicherheit zeigen sowohl Fortschritte als auch Herausforderungen. Während Unternehmen wie Anthropic bestimmte gefährliche Themen in ihren KI-Modellen meiden, kämpfen andere mit ernsthaften Sicherheitslücken und Cyberangriffen, die bereits in der Vergangenheit verheerende Auswirkungen hatten.",
+      "highlights": [
+        "Anthropic verbietet seinem Fable 5 Modell Anfragen zu Cybersecurity, Biologie und Chemie.",
+        "1988 legte ein Computerwurm zehn Prozent des Internets lahm und führte zu einer FBI-Ermittlung.",
+        "Adobe schließt über 120 Sicherheitslücken in InDesign und anderen Programmen, während Microsoft kritische Zero-Day-Lücken behebt."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Werbewirkung neu denken: Warum Klicks und Views nicht mehr ausreichen",
+          "link": "https://t3n.de/news/werbewirkung-neu-denken-1732622/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In der Werbung zählt heute nicht mehr allein die Sichtbarkeit, sondern ob eine Anzeige wirklich Aufmerksamkeit erhält. Um trotz der Reizüberflutung im Web zu weiterlesen auf t3n.de",
+          "published": "Tue, 9 Jun 2026 15:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Datadog baut Observability-Plattform zum autonomen KI-Teamkollegen aus",
+          "link": "https://www.heise.de/news/Datadog-baut-Observability-Plattform-zum-autonomen-KI-Teamkollegen-aus-11326423.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Auf der DASH-Konferenz präsentiert Datadog mit Bits AI SRE, AI Guard und Bring Your Own Cloud neue Funktionen für autonomen IT-Betrieb und KI-Sicherheit.",
+          "published": "2026-06-10T09:48:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Datadog baut Observability-Plattform zum autonomen KI-Teamkollegen aus",
+          "link": "https://www.heise.de/news/Datadog-baut-Observability-Plattform-zum-autonomen-KI-Teamkollegen-aus-11326423.html",
+          "summary": "Auf der DASH-Konferenz präsentiert Datadog mit Bits AI SRE, AI Guard und Bring Your Own Cloud neue Funktionen für autonomen IT-Betrieb und KI-Sicherheit.",
+          "published": "2026-06-10T07:48:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Neue GitHub-Copilot-App soll Chaos bei agentengetriebener Entwicklung bändigen",
+          "link": "https://www.heise.de/news/Neue-GitHub-Copilot-App-soll-Chaos-bei-agentengetriebener-Entwicklung-baendigen-11317392.html",
+          "summary": "GitHub hat auf der Microsoft Build eine Desktop-App vorgestellt, die parallele KI-Agentensitzungen bündelt und mit Agent Merge den CI/CD-Prozess begleitet.",
+          "published": "2026-06-04T08:10:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die neuesten Entwicklungen im Bereich DevOps und Test-Automatisierung zeigen, dass Unternehmen zunehmend auf KI-gestützte Lösungen setzen, um Effizienz und Sicherheit zu verbessern. Datadog erweitert seine Observability-Plattform, während GitHub eine neue App zur Optimierung agentengetriebener Entwicklung vorstellt.",
+      "highlights": [
+        "Datadog präsentiert neue Funktionen wie Bits AI SRE und AI Guard auf der DASH-Konferenz.",
+        "GitHub stellt eine Desktop-App vor, die parallele KI-Agentensitzungen bündelt.",
+        "Die App unterstützt den CI/CD-Prozess durch Agent Merge."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "High-severity vulnerability in Linux caused by a single faulty character",
+          "link": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
+          "summary": "Use-after-free bug can be exploited to evade sandbox defenses.",
+          "published": "Tue, 09 Jun 2026 15:12:43 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "heise+ | Chromebooks: ChromeOS entfernen und stattdessen Linux oder Windows installieren",
+          "link": "https://www.heise.de/ratgeber/Chromebooks-ChromeOS-entfernen-und-stattdessen-Linux-oder-Windows-installieren-11320182.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Auf Chromebooks läuft nicht nur ChromeOS. Wenige Handgriffe verwandeln sie in vollwertige Notebooks mit Linux oder Windows. Wir zeigen, wie das geht.",
+          "published": "2026-06-10T07:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Microsoft Store: Entwicklerkonto für Unternehmen wird kostenlos",
+          "link": "https://www.heise.de/news/Microsoft-Store-Entwicklerkonto-fuer-Unternehmen-wird-kostenlos-11317913.html",
+          "summary": "Kein Obolus, Anmeldung per Entra ID, weniger Bürokratie: Microsoft senkt die Hürden für Unternehmen, die Apps im Microsoft Store veröffentlichen wollen.",
+          "published": "2026-06-04T06:59:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Barrierefreiheit im Web: BFSG, WCAG und Automatisierung",
+          "link": "https://www.golem.de/news/anzeige-barrierefreiheit-im-web-bfsg-wcag-und-automatisierung-2606-207403.html",
+          "summary": "Barrierefreiheit im Web wird durch BFSG und Standards wie WCAG/EN 301 549 zur Pflicht. Drei Online-Workshops zeigen Grundlagen, Umsetzung und Prüfungen. ( Golem Karrierewelt , Unternehmenssoftware )",
+          "published": "2026-06-09T18:45:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Agile Methoden und UX/UI-Design sind entscheidend für die Entwicklung benutzerfreundlicher Software. Die Integration von Nutzerfeedback und iterative Prozesse verbessern die Benutzererfahrung und die Effizienz im Entwicklungszyklus.",
+      "highlights": [
+        "Agile Methoden fördern schnelle Anpassungen an Nutzerbedürfnisse.",
+        "UX/UI-Design erhöht die Benutzerzufriedenheit und -bindung.",
+        "Iterative Prozesse ermöglichen kontinuierliche Verbesserung der Software."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Claude im Alltag: 5 Tipps für effizienteres Arbeiten mit der KI",
+          "link": "https://t3n.de/news/claude-ki-tipps-1746715/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Claude produziert ganz ohne Anpassungen oft schon gute Resultate. Mit unseren 5 Tipps könnt ihr im Alltag aber noch mehr aus Anthropics KI-Tool herausholen.Nac weiterlesen auf t3n.de",
+          "published": "Wed, 10 Jun 2026 06:30:07 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Git real: AI agents aren’t just for solo developers anymore",
+          "link": "https://thenewstack.io/coding-agents-team-infrastructure/",
+          "summary": "In the first week of June, three vendors pushed coding agents past the single-developer loop. The three launches sit at The post Git real: AI agents aren&#8217;t just for solo developers anymore appeared first on The New Stack .",
+          "published": "Tue, 09 Jun 2026 19:58:07 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Mythos-Modell Claude Fable 5: Anthropic veröffentlicht bisher mächtigstes KI-Tool",
+          "link": "https://t3n.de/news/mythos-claude-fable-5-anthropic-1746783/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Unter dem Namen Claude Fable 5 macht Anthropic sein bisher mächtigstes KI-Modell Mythos jetzt einer breiteren Öffentlichkeit zugänglich. Das Tool hatte im Vorfeld für Besorgnis bei Regierungen, Tech-Firmen und Finanzinstituten gesorgt. weiterlesen auf t3n.de",
+          "published": "Tue, 9 Jun 2026 21:53:25 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anthropic launches Claude Mythos/Fable 5, but you better try it soon",
+          "link": "https://thenewstack.io/anthropic-claude-mythos-fable-5/",
+          "summary": "On Tuesday, Anthropic launched Fable 5, its first generally available Mythos-class model. Fable 5 is essentially the highly capable Mythos The post Anthropic launches Claude Mythos/Fable 5, but you better try it soon appeared first on The New Stack .",
+          "published": "Tue, 09 Jun 2026 19:30:45 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
+          "link": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
+          "summary": "Voice translations preserve speaker's tone, pacing, pitch—with SynthID watermarks for security.",
+          "published": "Tue, 09 Jun 2026 18:57:25 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Die neuesten Entwicklungen im Bereich generative KI und LLMs zeigen Fortschritte bei Tools wie Claude Fable 5 von Anthropic und Google Gemini 3.5, die neue Möglichkeiten für effizientes Arbeiten und Sprachübersetzungen bieten. Die Einführung dieser Technologien wirft jedoch auch Bedenken hinsichtlich ihrer Auswirkungen auf verschiedene Sektoren auf.",
+      "highlights": [
+        "Anthropic hat Claude Fable 5 als sein bisher mächtigstes KI-Modell veröffentlicht.",
+        "Google Gemini 3.5 ermöglicht sofortige Sprachübersetzungen mit Ton- und Sprachbewahrung.",
+        "AI-Agenten werden zunehmend für Teams und nicht nur für Einzelentwickler eingesetzt."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "IBM Vault Enterprise 2.0 Brings Automated LDAP Secrets Management to Enterprise Identity Security",
+          "link": "https://www.infoq.com/news/2026/06/ibm-hashicorp-vault-ldap-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "IBM and HashiCorp have announced new LDAP secrets management capabilities in IBM Vault Enterprise 2.0, introducing a redesigned architecture to manage LDAP credentials, support password rotation, and automate the identity lifecycle. By Craig Risi",
+          "published": "Tue, 09 Jun 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Von Rettungsdienst bis Klinik: Wer unter NIS2 und KRITIS fällt",
+          "link": "https://www.heise.de/news/Von-Rettungsdienst-bis-Klinik-Wer-unter-NIS2-und-KRITIS-faellt-11326363.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "NIS2 und KRITIS-Dachgesetz verschärfen die Sicherheitsanforderungen im Gesundheitswesen.",
+          "published": "2026-06-09T16:35:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "(g+) Artificial Intelligence: 'Picks and shovels' companies profit from data centre scramble",
+          "link": "https://www.golem.de/news/artificial-intelligence-picks-and-shovels-companies-profit-from-data-centre-scramble-2606-209566.html",
+          "summary": "Caterpillar and Hochtief among the once-staid industrial stocks lifted by the AI boom ( KI , Wirtschaft )",
+          "published": "2026-06-09T13:00:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die EU-Tech-Regulierung wird durch neue Sicherheitsanforderungen im Gesundheitswesen verstärkt, während Unternehmen wie IBM und HashiCorp innovative Lösungen zur Identitätsverwaltung einführen. Zudem profitieren traditionelle Industriefirmen von der KI-Entwicklung, was die Bedeutung der Technologie im wirtschaftlichen Kontext unterstreicht.",
+      "highlights": [
+        "NIS2 und KRITIS verschärfen Sicherheitsanforderungen im Gesundheitswesen.",
+        "IBM Vault Enterprise 2.0 bietet automatisiertes LDAP-Management.",
+        "Traditionelle Unternehmen wie Caterpillar profitieren vom KI-Boom."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11316614.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Python, CSS, APISIX, Kubara, Apache Kafka, GitHub, Ember, Gastown, Hibernate und Grafana.",
+          "published": "2026-06-06T07:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die heise developer News berichten über verschiedene Entwicklungen in der Softwarewelt, darunter Updates zu Python, CSS und Grafana. Diese Meldungen bieten einen Überblick über aktuelle Trends und Technologien für Entwickler.",
+      "highlights": [
+        "Neuerungen in Python und CSS vorgestellt.",
+        "Updates zu APISIX und Apache Kafka veröffentlicht.",
+        "Grafana erhält Verbesserungen für die Datenvisualisierung."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Europa produziert doppelt so viele Windräder und E-Autos, wie es selbst braucht - und merkt es kaum",
+          "link": "https://t3n.de/news/europa-produziert-doppelt-so-viele-windraeder-und-e-autos-wie-es-selbst-braucht-und-merkt-es-kaum-1746799/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Europa produziert bereits doppelt so viele Windkraftanlagen und E-Autos, wie es selbst in Betrieb nimmt. Bei Wärmepumpen ist es sogar das Dreifache. Eine Analyse der Denkfabrik Ember zeigt: Die EU könnte sich längst selbst mit grüner Technologie versorgen, zahlt aber weiter Milliarden für Öl-Importe. weiterlesen auf t3n.de",
+          "published": "Wed, 10 Jun 2026 08:05:49 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Demo gegen Überwachung: „Wir können die Welle brechen“",
+          "link": "https://netzpolitik.org/2026/demo-gegen-ueberwachung-wir-koennen-die-welle-brechen/",
+          "summary": "Kämpfen gegen KI-gestützte Überwachung: Sebastian Marg und Tom Jennissen von der Digitalen Gesellschaft. – CC-BY 4.0 : Jan Fels Gerade werden deutschlandweit Polizeigesetze hart verschärft. Kollege KI zieht ein, die Überwachung ist künftig automatisiert. Dagegen stellt sich eine Demo am Samstag in Berlin. Im Interview erzählen zwei Mitorganisatoren, warum sich die Teilnahme lohnt.",
+          "published": "Tue, 09 Jun 2026 19:00:06 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it",
+          "link": "https://arstechnica.com/space/2026/06/nasa-assigns-crew-for-artemis-iii-sets-aggressive-timeline-for-flying-it/",
+          "summary": "\"Artemis III will be an extraordinary demonstration of what is possible.\"",
+          "published": "Tue, 09 Jun 2026 18:42:19 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Schon wieder ein neues iPhone kaufen? Apples KI-Strategie ist Kunden gegenüber unfair",
+          "link": "https://t3n.de/news/schon-wieder-ein-neues-iphone-kaufen-apples-ki-strategie-ist-kunden-gegenueber-unfair-1746562/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit Fokus auf Apple Intelligence sei das iPhone 16 entwickelt worden. Aber keine zwei Jahre später bekommt es gar nicht alle neuen vorgestellten KI-Funktionen von iOS 27. Wer die will, braucht schon wieder das neueste Modell. Unfair, findet unser Autor. weiterlesen auf t3n.de",
+          "published": "Tue, 9 Jun 2026 15:30:08 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Stromspeicher für Balkonkraftwerke: Ab wann sich die Anschaffung für dich lohnt",
+          "link": "https://t3n.de/news/stromspeicher-fuer-balkonkraftwerke-ab-wann-sich-die-anschaffung-fuer-dich-lohnt-1746658/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit einem Stromspeicher lässt sich noch mehr aus der Energie herausholen, die ein Balkonkraftwerk erzeugt. Wie funktionieren die zusätzlichen Geräte? Worauf muss man achten? Und wo liegen die Kosten? weiterlesen auf t3n.de",
+          "published": "Tue, 9 Jun 2026 15:00:03 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Europa produziert mehr Windkraftanlagen und E-Autos, als es selbst benötigt, während es weiterhin Milliarden für Öl-Importe ausgibt. Die Überwachung durch KI wird durch neue Polizeigesetze in Deutschland vorangetrieben, was zu Protesten führt. Zudem wird die Ungerechtigkeit in Apples KI-Strategie kritisiert, da ältere iPhone-Modelle nicht alle neuen Funktionen erhalten.",
+      "highlights": [
+        "EU produziert doppelt so viele Windkraftanlagen und E-Autos wie benötigt.",
+        "Neue Polizeigesetze in Deutschland ermöglichen automatisierte KI-Überwachung.",
+        "Ältere iPhone-Modelle erhalten nicht alle neuen KI-Funktionen von iOS 27."
+      ]
+    }
+  ]
+}
