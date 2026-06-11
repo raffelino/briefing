@@ -1,0 +1,324 @@
+{
+  "date": "2026-06-11",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Databricks wants to kill the “email me a file” problem for AI agent skills",
+          "link": "https://thenewstack.io/databricks-opensharing-ai-agents/",
+          "summary": "Databricks on Wednesday launched OpenSharing, the successor to its open-source Delta Sharing protocol. This updated protocol adds support for Apache The post Databricks wants to kill the &#8220;email me a file&#8221; problem for AI agent skills appeared first on The New Stack .",
+          "published": "Wed, 10 Jun 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Databricks hat OpenSharing vorgestellt, das den Delta Sharing-Protokoll ersetzt. Dieses aktualisierte Protokoll ermöglicht eine verbesserte Unterstützung für Apache und zielt darauf ab, das Problem des Dateiaustauschs per E-Mail für KI-Agenten zu lösen.",
+      "highlights": [
+        "OpenSharing ist der Nachfolger des Delta Sharing-Protokolls.",
+        "Das neue Protokoll unterstützt Apache.",
+        "Ziel ist es, den Dateiaustausch für KI-Agenten zu optimieren."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Reparieren statt Wegwerfen: Was dich ein kaputtes Display wirklich kostet",
+          "link": "https://t3n.de/news/reparieren-statt-wegwerfen-kosten-display-reparatur-1743170/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Defekte Elektronik muss nicht im Müll landen. Fachgerechte Reparaturen schonen Ressourcen und sind oft günstiger als Neukauf. Eine Geräteversicherung macht Nachhaltigkeit bezahlbar und schützt vor hohen Kosten bei Displaybruch oder Wasserschaden. weiterlesen auf t3n.de",
+          "published": "Thu, 11 Jun 2026 09:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Man sues Florida cops over arrest spurred by \"93% match\" in facial recognition",
+          "link": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
+          "summary": "Lawsuit: \"Police let an error-prone AI system stand in for an investigation.\"",
+          "published": "Wed, 10 Jun 2026 21:30:44 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "AWS can now mathematically prove your VMs are isolated",
+          "link": "https://thenewstack.io/graviton5-nitro-isolation-engine/",
+          "summary": "On Wednesday, AWS announced that its Graviton5 processor is now generally available and powers two new Amazon EC2 instances: M9g The post AWS can now mathematically prove your VMs are isolated appeared first on The New Stack .",
+          "published": "Wed, 10 Jun 2026 16:46:34 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Neue 3D-Scanner am Flughafen: Wie sie das Verbot von Flüssigkeiten an Bord lockern sollen",
+          "link": "https://t3n.de/news/neue-3d-scanner-am-flughafen-wie-sie-das-verbot-von-fluessigkeiten-an-bord-lockern-sollen-1746892/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Für Flugreisende könnten bald einige Regeln gelockert werden. Dazu setzen erste Flughäfen auf 3D-Scanner, die Sicherheitskontrollen effizienter machen sollen. Welche Verbesserungen sich durch die neue Technik ergeben. weiterlesen auf t3n.de",
+          "published": "Wed, 10 Jun 2026 15:30:21 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Azure API Management Ships Unified Model API and MCP Content Safety at Build 2026",
+          "link": "https://www.infoq.com/news/2026/06/azure-apim-ai-gateway-build/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Azure API Management shipped a Unified Model API that lets clients speak one format while APIM transforms requests to Anthropic, Vertex AI, and other backends. Content safety policies now cover MCP tool calls and Agent-to-Agent payloads alongside LLM traffic. Token metrics expanded to track reasoning, cached, and audio tokens across providers. By Steef-Jan Wiggers",
+          "published": "Wed, 10 Jun 2026 09:38:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Die Cloud-Architektur entwickelt sich weiter, insbesondere durch neue Technologien und Sicherheitsmaßnahmen. AWS hat seine Fähigkeit zur mathematischen Isolation von VMs verbessert, während Azure API Management neue Funktionen zur Integration unterschiedlicher Backend-Systeme eingeführt hat.",
+      "highlights": [
+        "AWS Graviton5-Prozessor ermöglicht mathematische Isolation von VMs.",
+        "Azure API Management bietet Unified Model API für nahtlose Backend-Integration.",
+        "Erweiterte Sicherheitsrichtlinien für Content Safety in Azure API Management."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Fable 5 blockiert auch sicheren Code",
+          "link": "https://www.heise.de/news/Fable-5-blockiert-auch-sicheren-Code-11328448.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Schon das Stichwort „Security Audit“ reicht: Forscher kritisieren Anthropics Fable 5, weil dessen Cybersecurity-Filter auch harmlose Anfragen ausbremsen.",
+          "published": "2026-06-11T10:29:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anzeige: KI-gestütztes Pentesting und Reporting in zwei Tagen",
+          "link": "https://www.golem.de/news/anzeige-ki-gestuetztes-pentesting-und-reporting-in-zwei-tagen-2606-209637.html",
+          "summary": "KI in der IT-Sicherheit verändert Pentesting und Schwachstellenanalysen. Ein Online-Workshop zeigt Vorgehen, Grenzen und praxisnahe Testszenarien bis zum Reporting. ( Golem Karrierewelt , Unternehmenssoftware )",
+          "published": "2026-06-11T07:15:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Diskussion um IT-Sicherheit und Security by Design wird durch die Kritik an Anthropics Fable 5 verstärkt, dessen Cybersecurity-Filter auch harmlose Anfragen blockiert. Gleichzeitig zeigt ein neuer Workshop, wie KI das Pentesting und die Schwachstellenanalyse revolutioniert.",
+      "highlights": [
+        "Fable 5 blockiert harmlose Anfragen bei Cybersecurity-Audits.",
+        "Kritik an der Effektivität von Sicherheitsfiltern in KI-Anwendungen.",
+        "Ein Online-Workshop vermittelt KI-gestütztes Pentesting in zwei Tagen."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Made in China: Sind humanoide Roboter aus der Volksrepublik die Zukunft?",
+          "link": "https://t3n.de/news/made-in-china-sind-humanoide-roboter-aus-der-volksrepublik-die-zukunft-1744057/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wie kein anderes Land treibt China die Entwicklung humanoider Roboter voran – und pumpt Milliarden in das Ökosystem. Dahinter steckt ein strategisches Kalkü weiterlesen auf t3n.de",
+          "published": "Thu, 11 Jun 2026 07:30:12 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Observability overload is drowning engineers",
+          "link": "https://thenewstack.io/observability-overload-is-drowning-engineers/",
+          "summary": "If you can see everything, you may see nothing at all. That&#8217;s what SREs and DevOps engineers are learning as The post Observability overload is drowning engineers appeared first on The New Stack .",
+          "published": "Wed, 10 Jun 2026 17:27:46 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Datadog baut Observability-Plattform zum autonomen KI-Teamkollegen aus",
+          "link": "https://www.heise.de/news/Datadog-baut-Observability-Plattform-zum-autonomen-KI-Teamkollegen-aus-11326423.html",
+          "summary": "Auf der DASH-Konferenz präsentiert Datadog mit Bits AI SRE, AI Guard und Bring Your Own Cloud neue Funktionen für autonomen IT-Betrieb und KI-Sicherheit.",
+          "published": "2026-06-10T07:48:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Commonwealth Fusion Systems: Fusionsreaktor mit 400 MW bleibt technisches Wagnis",
+          "link": "https://www.golem.de/news/commonwealth-fusion-systems-fusionsreaktor-mit-400-mw-bleibt-technisches-wagnis-2606-209653.html",
+          "summary": "In unter 10 Jahren soll das Kraftwerk stehen. Die Kernfusion im Inneren wird aber mehr Probleme bereiten als erwartet - das zeigen gleich fünf neue Studien. ( Kernfusion , Iter )",
+          "published": "2026-06-11T10:21:03+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Tankrabatt-Ende: Ab Juli zahlen Autofahrer wieder voll",
+          "link": "https://www.golem.de/news/tankrabatt-ende-ab-juli-zahlen-autofahrer-wieder-voll-2606-209641.html",
+          "summary": "Der Tankrabatt läuft am 30. Juni aus. Die Koalition warnt die Ölkonzerne vor Preistreiberei, verrät aber nicht, ob sie eingreift. ( Auto , Bundesregierung )",
+          "published": "2026-06-11T07:57:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die heutige Berichterstattung zeigt, dass DevOps- und SRE-Teams zunehmend mit der Herausforderung der Überlastung durch Observability-Tools konfrontiert sind. Gleichzeitig entwickelt Datadog neue KI-gestützte Funktionen, um den IT-Betrieb zu optimieren.",
+      "highlights": [
+        "Datadog präsentiert auf der DASH-Konferenz neue KI-Funktionen für den IT-Betrieb.",
+        "Überlastung durch Observability-Tools führt zu Schwierigkeiten für SREs und DevOps-Teams.",
+        "Humanoide Roboter aus China könnten die Zukunft der Robotik prägen."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop: Linux-Server absichern – effektiv und umfassend",
+          "link": "https://www.heise.de/news/iX-Workshop-Linux-Server-absichern-effektiv-und-umfassend-11313841.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen – von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
+          "published": "2026-06-11T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Meta-Partner EssilorLuxottica fertigt Smart Glasses künftig auch in Europa",
+          "link": "https://www.heise.de/news/Meta-Partner-EssilorLuxottica-fertigt-Smart-Glasses-kuenftig-auch-in-Europa-11328020.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "EssilorLuxottica baut in Italien Fertigungslinien für Smart Glasses auf. Das könnte dem Konzern und Technologiepartner Meta einen großen Vorteil bringen.",
+          "published": "2026-06-11T05:38:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "OpenProject 17.5 führt projektbezogene IDs ein",
+          "link": "https://www.heise.de/news/OpenProject-17-5-fuehrt-projektbezogene-IDs-ein-11327652.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Projektbezogene IDs statt globaler Nummern: OpenProject 17.5 erleichtert den Umstieg von Jira und baut die Backlog-Verwaltung für agile Teams aus.",
+          "published": "2026-06-10T15:37:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "OpenProject 17.5 führt projektbezogene IDs ein",
+          "link": "https://www.heise.de/news/OpenProject-17-5-fuehrt-projektbezogene-IDs-ein-11327652.html",
+          "summary": "Projektbezogene IDs statt globaler Nummern: OpenProject 17.5 erleichtert den Umstieg von Jira und baut die Backlog-Verwaltung für agile Teams aus.",
+          "published": "2026-06-10T13:37:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Recht auf Vollausbau: Kabinett beschließt TKG-Novelle für schnelleren Netzausbau",
+          "link": "https://www.golem.de/news/recht-auf-vollausbau-kabinett-beschliesst-tkg-novelle-fuer-schnelleren-netzausbau-2606-209631.html",
+          "summary": "Die Reform des Telekommunikationsgesetzes soll den Netzausbau beschleunigen und Bürokratie abbauen. Der Wirtschaft reichen die Pläne nicht. ( Glasfaser , DSL )",
+          "published": "2026-06-10T17:45:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Agile Methoden gewinnen an Bedeutung, insbesondere mit der Einführung projektbezogener IDs in OpenProject 17.5, die den Umstieg von Jira erleichtern. Dies unterstützt die Backlog-Verwaltung für agile Teams und fördert eine effizientere Arbeitsweise.",
+      "highlights": [
+        "OpenProject 17.5 führt projektbezogene IDs ein, um den Umstieg von Jira zu erleichtern.",
+        "Die neue Version verbessert die Backlog-Verwaltung für agile Teams.",
+        "Agile Methoden werden zunehmend in Projektmanagement-Tools integriert."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Dario Amodei: Anthropic-Chef fordert KI-Behörde nach Vorbild der Flugaufsicht",
+          "link": "https://t3n.de/news/dario-amodei-anthropic-chef-fordert-ki-behoerde-nach-vorbild-der-flugaufsicht-1747039/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der OpenAI-Rivale Anthropic spricht sich schon länger für eine härtere Regulierung der KI-Entwicklung aus. Jetzt fordert Firmenchef Dario Amodei sogar eine Notbremse für die Regierung. weiterlesen auf t3n.de",
+          "published": "Thu, 11 Jun 2026 08:00:14 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Fable 5: Guardrails and burn rate are annoying users, who say it’s still better than Opus 4.8",
+          "link": "https://thenewstack.io/fable-5-developer-reactions/",
+          "summary": "On Tuesday, Anthropic debuted Fable 5, the first &#8212; and much-anticipated &#8212;&#160;generally available Mythos-class model.&#160; Anthropic says it can work The post Fable 5: Guardrails and burn rate are annoying users, who say it&#8217;s still better than Opus 4.8 appeared first on The New Stack .",
+          "published": "Wed, 10 Jun 2026 17:11:37 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "The Anthropic leader who built Claude Code says he ditched prompting — now he just writes loops.",
+          "link": "https://thenewstack.io/loop-engineering/",
+          "summary": "The fastest-moving conversation in AI developer tooling this week began with a job description. Boris Cherny, head of Claude Code The post The Anthropic leader who built Claude Code says he ditched prompting — now he just writes loops. appeared first on The New Stack .",
+          "published": "Wed, 10 Jun 2026 17:01:52 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "SpaceX-Börsengang: Deutsche Anleger können Aktien zeichnen - sollten es sich aber gut überlegen",
+          "link": "https://t3n.de/news/spacex-elon-musk-boersengang-ipo-deutsche-anleger-koennen-aktien-zeichnen-sollten-es-sich-aber-gut-ueberlegen-1746891/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Mega-IPO von Elon Musks Raumfahrtkonzern geht in die entscheidende Phase &#8211; und auch deutsche Privatanleger können sich direkt beteiligen. Doch bei einer Bewertung, die beim 94-Fachen des Jahresumsatzes liegt, stellt sich die Frage: Ist SpaceX ein gutes Investment oder eine enorm überteuerte Wette? weiterlesen auf t3n.de",
+          "published": "Wed, 10 Jun 2026 17:00:39 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Bestandsdatenauskunft 2025: Behörden fragen öfter als jede Sekunde, wem eine Telefonnummer gehört",
+          "link": "https://netzpolitik.org/2026/bestandsdatenauskunft-2025-behoerden-fragen-oefter-als-jede-sekunde-wem-eine-telefonnummer-gehoert/",
+          "summary": "Wem gehört dieser Telefonanschluss? (Symbolbild) – CC-BY-NC-ND 2.0 : pat uriku Staatliche Stellen haben letztes Jahr über 35 Millionen Mal abgefragt, wem eine Telefonnummer gehört. Diese Abfragen haben sich innerhalb von fünf Jahren verdoppelt. Auch Inhaber von IP-Adressen werden abgefragt, laut Telekom vor allem wegen Urheberrechtsverletzungen.",
+          "published": "Wed, 10 Jun 2026 14:41:07 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "Dario Amodei, CEO von Anthropic, fordert eine staatliche Aufsichtsbehörde für KI-Entwicklung nach dem Vorbild der Flugaufsicht. Gleichzeitig hat Anthropic das Modell Fable 5 vorgestellt, das trotz Nutzerbeschwerden als besser als Opus 4.8 angesehen wird.",
+      "highlights": [
+        "Dario Amodei fordert eine Notbremse für die KI-Entwicklung.",
+        "Anthropic hat das Mythos-KI-Modell Fable 5 veröffentlicht.",
+        "Nutzer empfinden die neuen Guardrails von Fable 5 als störend."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "EU-Kommission legt Verhaltenskodex zur Kennzeichnung von KI-Inhalten vor",
+          "link": "https://www.heise.de/news/KI-Transparenz-Wie-die-EU-kuenstlich-generierte-Inhalte-entlarven-will-11327956.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die EU-Kommission hat den finalen Verhaltenskodex zur Kennzeichnung von KI-Inhalten vorgelegt, der Anbietern zweckmäßige Wege zur Einhaltung des AI Act weist.",
+          "published": "2026-06-10T18:27:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die EU-Kommission hat einen Verhaltenskodex zur Kennzeichnung von KI-Inhalten veröffentlicht, der Anbietern hilft, die Anforderungen des AI Act zu erfüllen. Dieser Kodex soll die Transparenz und Verantwortlichkeit im Umgang mit KI-Technologien fördern.",
+      "highlights": [
+        "Der Verhaltenskodex bietet praktische Leitlinien für Anbieter von KI-Inhalten.",
+        "Er zielt darauf ab, die Einhaltung des AI Act zu erleichtern.",
+        "Die Initiative fördert Transparenz und Verantwortlichkeit in der KI-Nutzung."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11316614.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Python, CSS, APISIX, Kubara, Apache Kafka, GitHub, Ember, Gastown, Hibernate und Grafana.",
+          "published": "2026-06-06T07:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In der aktuellen Ausgabe von heise developer News werden verschiedene kleinere Entwicklungen und Updates in der Softwareentwicklung vorgestellt, darunter Themen wie Python, CSS und Grafana. Diese Meldungen bieten einen Überblick über aktuelle Trends und Technologien in der Entwickler-Community.",
+      "highlights": [
+        "Updates zu Python und CSS veröffentlicht.",
+        "Neue Funktionen in Grafana vorgestellt.",
+        "Entwicklungen zu Apache Kafka und GitHub thematisiert."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Presentation: Building and Scaling UI Systems for Internal Tools at Meta",
+          "link": "https://www.infoq.com/presentations/internal-tools-meta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cindy Zhang discusses the evolution of XDS, a unified UI system powering 10,000+ internal tools. She shares actionable insights for architects and engineering leaders on managing large-scale community contributions, executing safe monorepo refactors using JS AST and AI codemods, mitigating breaking changes via feature flags, and expanding UI libraries into full-stack platform systems. By Cindy Zhang",
+          "published": "Thu, 11 Jun 2026 09:05:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "So groß wie eine Briefmarke: MIT-Forscher entwickeln Herzschrittmacher zum Aufkleben",
+          "link": "https://t3n.de/news/so-gross-wie-eine-briefmarke-mit-forscher-entwickeln-herzschrittmacher-zum-aufkleben-1746937/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Team aus Forschenden hat ein neues Design für Herzschrittmacher entwickelt. Das nutzt für die Stimulation Ultraschallwellen. Das Verfahren bringt damit ei weiterlesen auf t3n.de",
+          "published": "Thu, 11 Jun 2026 10:30:12 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+          "link": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+          "summary": "Google AI Overview court loss in Germany could spell doom for AI search industry.",
+          "published": "Wed, 10 Jun 2026 17:19:31 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Gmail-Trick: So bekommst du neue Mail-Adressen, ohne einen neuen Account zu erstellen",
+          "link": "https://t3n.de/news/gmail-trick-neue-adressen-ohne-weitere-accounts-1746848/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Benötigst du eine neue Gmail-Adresse, aber dir einen neuen Account zu erstellen, ist zu umständlich? Dann gibt es eine praktische Alternative, mit der du in wenigen Handgriffen eine enorme Anzahl an neuen Adressen erstellen kannst. weiterlesen auf t3n.de",
+          "published": "Wed, 10 Jun 2026 16:30:37 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Wow, das ist kurz“: Psychologin darüber, wie KI-Chatbots unsere Aufmerksamkeitsspanne verringern",
+          "link": "https://t3n.de/news/wow-das-ist-wirklich-kurz-psychologin-darueber-wie-ki-chatbots-unsere-aufmerksamkeitsspanne-verringern-1746475/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Psychologin Gloria Mark untersucht seit mehr als zwanzig Jahren, wie sich die Nutzung von digitalen Technologien auf unser Gehirn und damit unsere Aufmerksa weiterlesen auf t3n.de",
+          "published": "Wed, 10 Jun 2026 16:00:31 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die heutige Berichterstattung umfasst Entwicklungen im Bereich Open Source und Software Supply Chain, insbesondere in Bezug auf UI-Systeme und die Herausforderungen bei der Integration von KI in Suchtechnologien. Zudem wird die Bedeutung von Community-Beiträgen und sicheren Refaktorisierungen hervorgehoben.",
+      "highlights": [
+        "Cindy Zhang präsentiert XDS, ein UI-System für über 10.000 interne Tools bei Meta.",
+        "Gerichtsurteil in Deutschland könnte negative Auswirkungen auf die KI-Suchindustrie haben.",
+        "Forschung zu Herzschrittmachern zeigt innovative Ansätze zur Nutzung von Ultraschallwellen."
+      ]
+    }
+  ]
+}
