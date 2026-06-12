@@ -1,0 +1,331 @@
+{
+  "date": "2026-06-12",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "“The manual model breaks”: What happens when agents write to production data",
+          "link": "https://thenewstack.io/lakefs-agentic-ai-sandbox/",
+          "summary": "Beneath the chatbots and copilots, there&#8217;s a quiet revolution happening in the data services space. From pure-play database vendors to The post &#8220;The manual model breaks&#8221;: What happens when agents write to production data appeared first on The New Stack .",
+          "published": "Thu, 11 Jun 2026 17:35:59 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "KI als kognitive Krücke: Wie Chatbots die Fähigkeit schwächen, Falschmeldungen zu erkennen",
+          "link": "https://t3n.de/news/ki-als-kognitive-kruecke-wie-chatbots-die-faehigkeit-schwaechen-falschmeldungen-zu-erkennen-1747176/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "ChatGPT und Co. werden inzwischen auch zum Checken der Nachrichten genutzt. Eine aktuelle MIT-Studie warnt vor den Folgen: Proband:innen wurden mit KI deutlich schlechter darin, Fake News zu identifizieren. weiterlesen auf t3n.de",
+          "published": "Thu, 11 Jun 2026 16:30:20 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Agentic development hinges on verification. For cloud-native software, that is a runtime problem.",
+          "link": "https://thenewstack.io/verifying-async-ai-agents/",
+          "summary": "Async agents are only useful if you can trust what they hand back. In a distributed system, that trust comes The post Agentic development hinges on verification. For cloud-native software, that is a runtime problem. appeared first on The New Stack .",
+          "published": "Thu, 11 Jun 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Building and Scaling a Platform with Project-as-a-Service",
+          "link": "https://www.infoq.com/news/2026/06/platform-project-as-a-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "When a platform started with total developer autonomy, teams felt overwhelmed and ended up solving the same problems in completely different ways. The company shifted to enablement over support, working together with teams intensively, and helping teams feel confident and capable, turning the right way into being the easiest way. By Ben Linders",
+          "published": "Thu, 11 Jun 2026 11:17:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "OpenAI's GPT-5.5 and Codex Reach General Availability on Amazon Bedrock",
+          "link": "https://www.infoq.com/news/2026/06/openai-frontier-models-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "OpenAI's GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock, one month after OpenAI revised its exclusive Azure arrangement. Pricing matches OpenAI's direct rates with usage counting toward AWS commitments. Codex shifts to pay-per-token billing with no seat fees. GPT-5.4 is the first OpenAI model available in AWS GovCloud. By Steef-Jan Wiggers",
+          "published": "Thu, 11 Jun 2026 09:24:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Die Cloud-Architektur und Plattformen entwickeln sich rasant weiter, wobei neue Technologien wie OpenAI's GPT-5.5 auf Amazon Bedrock verfügbar sind. Gleichzeitig wird die Bedeutung von Verifikation in cloud-nativen Softwarelösungen und die Herausforderungen bei der Nutzung von KI zur Nachrichtenüberprüfung thematisiert.",
+      "highlights": [
+        "OpenAI's GPT-5.5 und Codex sind jetzt allgemein auf Amazon Bedrock verfügbar.",
+        "Eine MIT-Studie zeigt, dass KI-gestützte Tools die Fähigkeit zur Erkennung von Fake News beeinträchtigen.",
+        "Verifikation ist entscheidend für das Vertrauen in asynchrone Agenten in verteilten Systemen."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Oracle's OpenJDK Bans Generative AI Contributions While Oracle's GraalVM Allows Them",
+          "link": "https://www.infoq.com/news/2026/06/oracle-genai-policies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Two related, Oracle-backed projects published opposing policies on open-source contributions created with generative AI: The OpenJDK Governing Board approved an interim policy prohibiting such contributions, while the Coding Assistants policy from GraalVM permits them. Both projects require contributors to sign the same Oracle Contributor Agreement (OCA) for intellectual property. By Karsten Silz",
+          "published": "Fri, 12 Jun 2026 06:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Transform your AI coding agent into a deterministic Java Spring expert",
+          "link": "https://thenewstack.io/deterministic-ai-spring-upgrades/",
+          "summary": "With the rise of AI coding agents, developers have begun experimenting with complex, multi-step upgrade requests. Since Spring is the The post Transform your AI coding agent into a deterministic Java Spring expert appeared first on The New Stack .",
+          "published": "Thu, 11 Jun 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Oracle hat widersprüchliche Richtlinien für Open-Source-Beiträge von generativer KI veröffentlicht: Während OpenJDK solche Beiträge verbietet, erlaubt GraalVM sie. Beide Projekte erfordern die Unterzeichnung derselben Oracle Contributor Agreement (OCA).",
+      "highlights": [
+        "OpenJDK verbietet Beiträge, die mit generativer KI erstellt wurden.",
+        "GraalVM erlaubt generative KI-Beiträge unter bestimmten Bedingungen.",
+        "Beide Projekte erfordern die Unterzeichnung der Oracle Contributor Agreement (OCA)."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+          "link": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11308225.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
+          "published": "2026-06-12T08:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Der heise-Workshop vermittelt Strategien zur Absicherung von Active Directory gegen Cyberangriffe, insbesondere Ransomware. Teilnehmer lernen, wie Angreifer vorgehen und welche Maßnahmen zur Verteidigung ergriffen werden können.",
+      "highlights": [
+        "Schutz von Active Directory vor Ransomware und Cyberangriffen",
+        "Praktische Einblicke in Angriffsvektoren auf AD",
+        "Effektive Sicherheitsstrategien zur Risikominderung"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "20 Jahre Informationsfreiheitsgesetz: Transparenz nicht schwächen, sondern ausbauen",
+          "link": "https://netzpolitik.org/2026/20-jahre-informationsfreiheitsgesetz-transparenz-nicht-schwaechen-sondern-ausbauen/",
+          "summary": "Louisa Specht-Riemenschneider – Alle Rechte vorbehalten: Johanna Wittig Vor 20 Jahren hat der Bund das Informationsfreiheitsgesetz eingeführt, heute steht das Auskunftsrecht unter Druck. Doch Sicherheit dürfe nicht gegen demokratische Teilhabe ausgespielt werden, sagt die Bundesbeauftragte für Datenschutz und Informationsfreiheit. Sie fordert ein Transparenzgesetz.",
+          "published": "Thu, 11 Jun 2026 15:01:42 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Glasfaserausbau für Wohnungen förden: Diese Änderungen plant die Bundesregierung",
+          "link": "https://t3n.de/news/glasfaserausbau-fuer-wohnungen-foerden-diese-aenderungen-plant-die-bundesregierung-1747204/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Für Hausbesitzer:innen und Vermieter:innen könnten sich die Spielregeln beim Glasfaserausbau bald deutlich ändern. Mit einer Reform des Telekommunikationsgesetzes will die Bundesregierung dafür sorgen, dass Netzbetreiber den Ausbau leichter umsetzen können – und Eigentümer:innen nur noch begrenzt blockieren dürfen. weiterlesen auf t3n.de",
+          "published": "Thu, 11 Jun 2026 17:00:01 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Auslaufmodell Antennenfernsehen? Mobilfunker machen Druck",
+          "link": "https://www.heise.de/news/Auslaufmodell-Antennenfernsehen-Mobilfunker-machen-Druck-11329504.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In einigen Jahren laufen wichtige Nutzungsrechte für Funkfrequenzen aus. Her damit, heißt es schon jetzt von Telekommunikationsanbietern.",
+          "published": "2026-06-11T18:50:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Datadog baut Observability-Plattform zum autonomen KI-Teamkollegen aus",
+          "link": "https://www.heise.de/news/Datadog-baut-Observability-Plattform-zum-autonomen-KI-Teamkollegen-aus-11326423.html",
+          "summary": "Auf der DASH-Konferenz präsentiert Datadog mit Bits AI SRE, AI Guard und Bring Your Own Cloud neue Funktionen für autonomen IT-Betrieb und KI-Sicherheit.",
+          "published": "2026-06-10T07:48:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die heutige Nachrichtenlage zeigt Entwicklungen in der IT- und Telekommunikationsbranche, insbesondere im Bereich der Transparenzgesetze und des Glasfaserausbaus. Zudem wird die Rolle von KI im IT-Betrieb durch neue Funktionen von Datadog hervorgehoben.",
+      "highlights": [
+        "20 Jahre Informationsfreiheitsgesetz: Forderung nach einem Transparenzgesetz.",
+        "Bundesregierung plant Reform des Telekommunikationsgesetzes zur Förderung des Glasfaserausbaus.",
+        "Datadog präsentiert neue KI-Funktionen zur Unterstützung autonomer IT-Operationen."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Asahi Linux warnt vor Upgrade auf macOS 27 „Golden Gate“",
+          "link": "https://www.heise.de/news/Asahi-Linux-warnt-vor-Upgrade-auf-macOS-27-Golden-Gate-11329636.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Nutzer von Asahi Linux sollen nicht auf die Beta-Version macOS 27 „Golden Gate“ aktualisieren, warnt das Projekt aktuell.",
+          "published": "2026-06-12T07:50:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "OpenProject 17.5 führt projektbezogene IDs ein",
+          "link": "https://www.heise.de/news/OpenProject-17-5-fuehrt-projektbezogene-IDs-ein-11327652.html",
+          "summary": "Projektbezogene IDs statt globaler Nummern: OpenProject 17.5 erleichtert den Umstieg von Jira und baut die Backlog-Verwaltung für agile Teams aus.",
+          "published": "2026-06-10T13:37:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Kernel-Bug: FreeBSD-Exploit \"Bumsrakete\" verleiht Root-Zugriff",
+          "link": "https://www.golem.de/news/kernel-bug-freebsd-exploit-bumsrakete-verleiht-root-zugriff-2606-209694.html",
+          "summary": "Ein Exploit namens Bumsrakete gefährdet alle FreeBSD-Versionen der letzten fünf Jahre. Die Entdecker nehmen es mit reichlich Humor. ( Sicherheitslücke , Linux-Kernel )",
+          "published": "2026-06-12T10:45:06+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Anzeige: LPIC-1-Prüfungen 101/102: Linux-Wissen strukturiert auffrischen",
+          "link": "https://www.golem.de/news/anzeige-lpic-1-pruefungen-101-102-linux-wissen-strukturiert-auffrischen-2606-208668.html",
+          "summary": "LPIC-1 ist ein gängiger Nachweis für Linux-Systemadministration. Wer LPI 101 und LPI 102 bestehen will, muss Grundlagen sicher beherrschen und sauber wiederholen. Ein Online-Workshop bereitet strukturiert vor. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-06-11T18:45:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen im Bereich Agile Methoden und UX/UI zeigen, dass OpenProject 17.5 projektbezogene IDs einführt, um den Umstieg von Jira zu erleichtern. Dies unterstützt agile Teams bei der Backlog-Verwaltung. Weitere technische Warnungen betreffen Asahi Linux und FreeBSD-Exploits.",
+      "highlights": [
+        "OpenProject 17.5 führt projektbezogene IDs ein.",
+        "Asahi Linux warnt vor Upgrade auf macOS 27 'Golden Gate'.",
+        "FreeBSD-Exploit 'Bumsrakete' gewährt Root-Zugriff auf alle Versionen der letzten fünf Jahre."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "KI-Agent übernimmt Slack-Support bei Notion – und löst 60 Prozent der Fälle selbst",
+          "link": "https://t3n.de/news/ki-agent-slack-support-notion-60-prozent-1746434/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein gut gepflegtes Wiki löst kein Support-Problem, Mitarbeitende fragen trotzdem in Slack. Wie ein KI-Agent das ändert. weiterlesen auf t3n.de",
+          "published": "Fri, 12 Jun 2026 06:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "“Don’t just grab random stuff off the internet”: What Chainguard found in 52,000 open-source packages",
+          "link": "https://thenewstack.io/chainguard-greyware-scanner-vibe-coding/",
+          "summary": "The promise of agentic development is that anyone &#8212; the finance analyst, the operations manager, the non-technical founder &#8212; can The post &#8220;Don&#8217;t just grab random stuff off the internet&#8221;: What Chainguard found in 52,000 open-source packages appeared first on The New Stack .",
+          "published": "Thu, 11 Jun 2026 20:38:54 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "KI-Preiskampf: OpenAI soll ChatGPT-Preise drastisch senken wollen – Anthropic könnte folgen",
+          "link": "https://t3n.de/news/openai-chatgpt-preise-anthropic-1747290/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Vorfeld der geplanten Börsengänge sollen die KI-Rivalen OpenAI und Anthropic versuchen, sich über Preissenkungen gegenseitig Kund:innen abzuluchsen. Davon könnten sowohl private Nutzer:innen als auch Firmenkund:innen profitieren. weiterlesen auf t3n.de",
+          "published": "Thu, 11 Jun 2026 19:28:24 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AI agents need infrastructure: Why Europe’s regional cloud strategy matters",
+          "link": "https://thenewstack.io/agentic-ai-cloud-sovereignty/",
+          "summary": "It&#8217;s no secret that generative AI has shifted the operations and business models of companies in nearly every sector. But The post AI agents need infrastructure: Why Europe’s regional cloud strategy matters appeared first on The New Stack .",
+          "published": "Thu, 11 Jun 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Cleaner AI training data, fewer bugs: Sonar’s SonarSweep explained",
+          "link": "https://thenewstack.io/ai-training-data-quality/",
+          "summary": "Large language models have moved quickly from novelty to daily infrastructure in software development. We are no longer using AI The post Cleaner AI training data, fewer bugs: Sonar&#8217;s SonarSweep explained appeared first on The New Stack .",
+          "published": "Thu, 11 Jun 2026 12:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Generative KI und große Sprachmodelle (LLMs) revolutionieren die Unternehmenslandschaft, indem sie Support-Prozesse optimieren und Kosten senken. Unternehmen setzen zunehmend auf KI-Agenten, um Effizienz zu steigern und die Qualität von Trainingsdaten zu verbessern.",
+      "highlights": [
+        "KI-Agent bei Notion löst 60% der Support-Anfragen selbst.",
+        "OpenAI plant drastische Preissenkungen für ChatGPT, um Kunden zu gewinnen.",
+        "SonarSweep verbessert die Qualität von KI-Trainingsdaten und reduziert Fehler."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Did Iron Age Britons remove brains of the dead?",
+          "link": "https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead/",
+          "summary": "Archaeologists found apparent scrape marks inside a skull; long bones may have been sharpened into tools.",
+          "published": "Thu, 11 Jun 2026 17:21:53 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "DSGVO: Gericht reduziert Millionen-Buße für Deutsche Wohnen deutlich",
+          "link": "https://www.heise.de/news/DSGVO-Gericht-reduziert-Millionen-Busse-fuer-Deutsche-Wohnen-deutlich-11329298.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Berliner Datenschutzbehörde hatte gegen den Immobilienkonzern ein Bußgeld von 14,5 Millionen Euro verhängt. Nach Jahren vor Gericht fiel jetzt ein Urteil.",
+          "published": "2026-06-11T15:58:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "AI Act: EU-Kommission veröffentlicht Verhaltenskodex für KI-Inhalte",
+          "link": "https://www.golem.de/news/ai-act-eu-kommission-veroeffentlicht-verhaltenskodex-fuer-ki-inhalte-2606-209690.html",
+          "summary": "Generative KI-Inhalte müssen ab dem 2. August 2026 maschinenlesbar gekennzeichnet sein. Der Kodex der EU-Kommission setzt dafür den Rahmen. ( KI , Politik )",
+          "published": "2026-06-12T09:24:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die EU-Kommission hat einen Verhaltenskodex für generative KI-Inhalte veröffentlicht, der ab dem 2. August 2026 eine maschinenlesbare Kennzeichnung vorschreibt. Dies ist ein Teil der laufenden Regulierung von Technologien in der EU, um Transparenz und Sicherheit zu gewährleisten.",
+      "highlights": [
+        "Verhaltenskodex für KI-Inhalte veröffentlicht.",
+        "Kennzeichnungspflicht für generative KI-Inhalte ab 2. August 2026.",
+        "Ziel: Erhöhung der Transparenz und Sicherheit im Umgang mit KI."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "AGE statt AGI: Was Jeff Bezos mit seinem KI-Startup erreichen will",
+          "link": "https://t3n.de/news/age-statt-agi-was-jeff-bezos-mit-seinem-ki-startup-erreichen-will-1747309/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit Project Prometheus verfolgt der Amazon-Gründer Jeff Bezos ambitionierte Ziele. Das Startup soll eine Künstliche Intelligenz entwickeln, die es zuvor noch nie gab. Was er jetzt zu seinem Unternehmen verraten hat. weiterlesen auf t3n.de",
+          "published": "Fri, 12 Jun 2026 08:47:26 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11316614.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Python, CSS, APISIX, Kubara, Apache Kafka, GitHub, Ember, Gastown, Hibernate und Grafana.",
+          "published": "2026-06-06T07:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Jeff Bezos plant mit seinem KI-Startup Project Prometheus die Entwicklung einer neuartigen Künstlichen Intelligenz. In der aktuellen Woche wurden zudem kleinere Neuigkeiten aus der Entwickler-Community zu verschiedenen Technologien veröffentlicht.",
+      "highlights": [
+        "Jeff Bezos' Startup Project Prometheus zielt auf die Entwicklung einer einzigartigen KI ab.",
+        "Die Woche brachte Neuigkeiten zu Technologien wie Python, CSS und Apache Kafka.",
+        "Entwickler können sich über Updates zu GitHub, Ember und Grafana informieren."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Von iPhone bis Powerbook: So hat Steve Jobs die Apple-Geräte genutzt",
+          "link": "https://t3n.de/news/steve-jobs-iphone-powerbook-nutzung-1746190/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Lange Jahre war Steve Jobs nicht nur CEO von Apple, sondern natürlich auch Nutzer der ersten Stunde. Was hat der Mitgründer des Unternehmens mit den Geräten gemacht, an deren Schaffung er maßgeblich beteiligt war? weiterlesen auf t3n.de",
+          "published": "Fri, 12 Jun 2026 08:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Rekord trotz roter Zahlen: SpaceX glückt Börsengang – Musk wird erster Billionär",
+          "link": "https://t3n.de/news/spacex-boersengang-rekord-musk-billionaer-1747307/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "SpaceX macht nicht besonders viel Umsatz und steckt tief in den roten Zahlen. Dennoch legt das Unternehmen den bisher größten Börsengang hin – und macht CEO Elon Musk damit zum ersten Billionär. weiterlesen auf t3n.de",
+          "published": "Fri, 12 Jun 2026 07:21:46 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AcuRite admits new app falls short, delays old app’s May shutdown to fix problems",
+          "link": "https://arstechnica.com/gadgets/2026/06/iot-gadget-firm-acurite-delays-forced-app-migration-due-to-new-apps-shortfalls/",
+          "summary": "The old app \"still needs to be retired,\" AcuRite tells us.",
+          "published": "Thu, 11 Jun 2026 19:08:54 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "“AI is disrupting everything”: Where do entry-level tech jobs go now?",
+          "link": "https://thenewstack.io/ai-junior-developer-hiring/",
+          "summary": "The impact AI is making on the world&#8217;s workforce is being felt across every industry, but perhaps nowhere more acutely The post &#8220;AI is disrupting everything&#8221;: Where do entry-level tech jobs go now? appeared first on The New Stack .",
+          "published": "Thu, 11 Jun 2026 18:34:19 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Unerwartetes Update: Android Auto kann jetzt PDFs öffnen",
+          "link": "https://t3n.de/news/android-auto-adobe-acrobat-pdf-1747291/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ganz plötzlich ist er da: der Adobe Acrobat Reader für Android Auto. Ohne Ankündigung sorgt die PDF-App im Auto für Verwunderung: Was soll man damit im Auto denn machen? Die Antwort verbirgt sich einer neuen Audio-Funktion. weiterlesen auf t3n.de",
+          "published": "Thu, 11 Jun 2026 19:00:37 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die heutige Nachrichtenlage umfasst verschiedene Themen, darunter Steve Jobs' Nutzung von Apple-Geräten, SpaceX' erfolgreichen Börsengang und die Einführung von PDF-Funktionen in Android Auto. Zudem wird die Auswirkung von KI auf den Arbeitsmarkt und die Herausforderungen bei AcuRite's App-Updates thematisiert.",
+      "highlights": [
+        "Steve Jobs war ein aktiver Nutzer der von ihm mitgeschaffenen Apple-Geräte.",
+        "SpaceX erzielt den größten Börsengang und macht Elon Musk zum ersten Billionär.",
+        "Android Auto unterstützt jetzt PDF-Dateien dank eines neuen Updates."
+      ]
+    }
+  ]
+}
