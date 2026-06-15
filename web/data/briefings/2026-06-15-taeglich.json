@@ -1,0 +1,329 @@
+{
+  "date": "2026-06-15",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "OpenSharing soll proprietäre Datensilos in der KI-Welt aufbrechen",
+          "link": "https://www.heise.de/news/OpenSharing-soll-proprietaere-Datensilos-in-der-KI-Welt-aufbrechen-11328802.html",
+          "summary": "Databricks übergibt OpenSharing an die Linux Foundation. Das Protokoll soll den Austausch von KI-Modellen, Agent-Skills und Daten standardisieren.",
+          "published": "2026-06-12T09:29:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Databricks hat OpenSharing an die Linux Foundation übergeben, um ein Protokoll zu entwickeln, das den Austausch von KI-Modellen, Agent-Skills und Daten standardisiert. Ziel ist es, proprietäre Datensilos in der KI-Welt aufzubrechen.",
+      "highlights": [
+        "OpenSharing wird von Databricks an die Linux Foundation übergeben.",
+        "Das Protokoll soll den Austausch von KI-Modellen und Daten standardisieren.",
+        "Ziel ist die Auflösung proprietärer Datensilos in der KI-Branche."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "KI-Schockwelle: Der US-Bann für Anthropic alarmiert Europa und Asien",
+          "link": "https://t3n.de/news/anthropic-bann-globale-reaktionen-ki-abhaengigkeit-1747587/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein plötzlicher Stopp bei einer stark gefragten Technologie löst weltweit eine intensive Debatte über Abhängigkeiten aus. Die Reaktionen auf politischer und wirtschaftlicher Ebene zeigen, wie tief die Verunsicherung in der Industrie wirklich sitzt. weiterlesen auf t3n.de",
+          "published": "Sun, 14 Jun 2026 15:01:45 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AWS Introduces Durable Storage Option for ElastiCache for Valkey",
+          "link": "https://www.infoq.com/news/2026/06/elasticache-valkey-durability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has recently introduced durability for Amazon ElastiCache for Valkey, enabling reliable data retention across failures and expanding support beyond caching to persistent workloads. The feature offers new options that prioritize either minimizing data loss or maintaining lower write latency, expanding the range of use cases supported by the Redis fork. By Renato Losio",
+          "published": "Sun, 14 Jun 2026 05:13:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "„Sommer der Glückseligkeit“: curl nimmt einen Monat lang keine Bug-Reports an",
+          "link": "https://www.heise.de/news/Sommer-der-Glueckseligkeit-curl-nimmt-einen-Monat-lang-keine-Bug-Reports-an-11332339.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Seit Wochen kämpft der Maintainer von curl mit der Arbeitslast durch die Flut an KI-generierten Bug-Reports. Im Juli soll deshalb keiner angenommen werden.",
+          "published": "2026-06-15T12:11:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Experimentelles Flugzeug X-59 erreicht Reiseflughöhe und -geschwindigkeit",
+          "link": "https://www.heise.de/news/X-59-erreicht-Flughoehe-und-Geschwindigkeit-fuer-Ueberschalltests-11332409.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das experimentelle Flugzeug X-59 ist erstmals in der Höhe und mit der Geschwindigkeit geflogen, wie es das Testprogramm für den leisen Überschallflug vorsieht.",
+          "published": "2026-06-15T12:05:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Apple Maps: Interner Umbau und neue Funktionen in iOS 27, macOS 27 und Co.",
+          "link": "https://www.heise.de/news/Apple-Maps-Interner-Umbau-und-neue-Funktionen-in-iOS-27-macOS-27-und-Co-11330243.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Apple schraubt im Rahmen seiner neuen Betriebssysteme auch an der Kartenanwendung. Das gilt nicht nur für Kleinigkeiten wie Icons, sondern auch für Funktionen.",
+          "published": "2026-06-15T11:48:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Cloud-Architektur und Plattformen stehen im Fokus aktueller Entwicklungen, insbesondere durch die Einführung neuer Funktionen bei AWS und die Auswirkungen politischer Entscheidungen auf die Technologiebranche. Die Diskussion über Abhängigkeiten und die Reaktion der Industrie sind ebenfalls von Bedeutung.",
+      "highlights": [
+        "AWS führt eine dauerhafte Speicheroption für ElastiCache ein, die zuverlässige Datenhaltung ermöglicht.",
+        "Der US-Bann für Anthropic löst internationale Besorgnis über technologische Abhängigkeiten aus.",
+        "curl nimmt im Juli aufgrund von KI-generierten Bug-Reports keine neuen Bug-Reports an."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Spring Boot 4.1 Adds gRPC Auto-Configuration, SSRF Mitigation, and Kotlin 2.3 Support",
+          "link": "https://www.infoq.com/news/2026/06/spring-boot-4-1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Broadcom released Spring Boot 4.1 on June 10, 2026, to deliver gRPC auto-configuration, HTTP-client SSRF mitigation, and upgrades to Kotlin 2.3. It also brings lazy datasource connections, async context propagation for @Async methods, and improved OpenTelemetry support. Uncharacteristically, Broadcom moved the releases twice, first from May 11-22 to June 1-5, then to June 8-12. By Karsten Silz",
+          "published": "Mon, 15 Jun 2026 05:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Eclipse IDE 2026-06: Java 26, Statement-Level-Stepping und Auto-Fetch",
+          "link": "https://www.heise.de/news/Eclipse-IDE-2026-06-Java-26-Statement-Level-Stepping-und-Auto-Fetch-11330749.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das Quartals-Release bringt unter anderem Unterstützung für Java 26, Statement-Level-Stepping beim Java-Debuggen und Auto-Fetch bei der Versionierung mit Git.",
+          "published": "2026-06-15T09:50:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Eclipse IDE 2026-06: Java 26, Statement-Level-Stepping und Auto-Fetch",
+          "link": "https://www.heise.de/news/Eclipse-IDE-2026-06-Java-26-Statement-Level-Stepping-und-Auto-Fetch-11330749.html",
+          "summary": "Das Quartals-Release bringt unter anderem Unterstützung für Java 26, Statement-Level-Stepping beim Java-Debuggen und Auto-Fetch bei der Versionierung mit Git.",
+          "published": "2026-06-15T07:50:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die neuesten Entwicklungen in der Software-Architektur und Java umfassen die Veröffentlichung von Spring Boot 4.1 mit gRPC Auto-Configuration und Kotlin 2.3 Unterstützung sowie das Quartals-Release der Eclipse IDE 2026-06, das Java 26 und neue Debugging-Funktionen bietet.",
+      "highlights": [
+        "Spring Boot 4.1 bietet gRPC Auto-Configuration und HTTP-Client SSRF Mitigation.",
+        "Eclipse IDE 2026-06 unterstützt Java 26 und führt Statement-Level-Stepping beim Debuggen ein.",
+        "Das Release enthält auch Auto-Fetch für die Git-Versionierung."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Präparierte PDF-Datei kann Avira Antivirus gefährlich werden",
+          "link": "https://www.heise.de/news/Praeparierte-PDF-Datei-kann-Avira-Antivirus-gefaehrlich-werden-11332323.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In einer Schwachstellendatenbank sind Lücken in Avira Antivirus aufgetaucht. Bislang listet der Softwarehersteller die Lücken nicht auf. Sie sind aber gepatcht.",
+          "published": "2026-06-15T11:28:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Cybergang ShinyHunters attackiert Oracle-PeopleSoft-Schwachstelle",
+          "link": "https://www.heise.de/news/Cybergang-ShinyHunters-attackiert-Oracle-PeopleSoft-Schwachstelle-11331861.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die kriminelle Gruppe ShinyHunters greift die kritische Sicherheitslücke in Oracle PeopleSoft an, die zum Wochenende bekannt wurde.",
+          "published": "2026-06-15T08:33:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | Secrets Management: IT-Pipelines mit dynamischen Secrets absichern",
+          "link": "https://www.heise.de/ratgeber/Secrets-Management-Pipelines-mit-dynamischen-Secrets-absichern-11315739.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Das sichere Speichern von Zugangsdaten ist für die IT-Sicherheit essenziell, aber häufig komplex. Maschinenidentitäten erfordern einen anderen Ansatz.",
+          "published": "2026-06-14T14:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+          "summary": "According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a [&#8230;]",
+          "published": "2026-06-13T17:39:26-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Aktuelle IT-Sicherheitsmeldungen zeigen, dass Schwachstellen in Avira Antivirus und Oracle PeopleSoft ausgenutzt werden. Zudem wird die Bedeutung von sicherem Secrets Management in IT-Pipelines hervorgehoben.",
+      "highlights": [
+        "Avira Antivirus hat unaufgeführte Schwachstellen, die jedoch bereits gepatcht sind.",
+        "Die Cybergang ShinyHunters nutzt eine kritische Sicherheitslücke in Oracle PeopleSoft.",
+        "Sicheres Secrets Management ist entscheidend für die IT-Sicherheit und erfordert angepasste Ansätze für Maschinenidentitäten."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Datadog baut Observability-Plattform zum autonomen KI-Teamkollegen aus",
+          "link": "https://www.heise.de/news/Datadog-baut-Observability-Plattform-zum-autonomen-KI-Teamkollegen-aus-11326423.html",
+          "summary": "Auf der DASH-Konferenz präsentiert Datadog mit Bits AI SRE, AI Guard und Bring Your Own Cloud neue Funktionen für autonomen IT-Betrieb und KI-Sicherheit.",
+          "published": "2026-06-10T07:48:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Datadog hat auf der DASH-Konferenz neue Funktionen für seine Observability-Plattform vorgestellt, darunter Bits AI SRE, AI Guard und Bring Your Own Cloud. Diese Tools zielen darauf ab, den autonomen IT-Betrieb und die KI-Sicherheit zu verbessern.",
+      "highlights": [
+        "Bits AI SRE unterstützt Site Reliability Engineering (SRE) durch KI-gestützte Automatisierung.",
+        "AI Guard bietet Sicherheitsfunktionen zur Überwachung und Absicherung von IT-Umgebungen.",
+        "Bring Your Own Cloud ermöglicht die Integration verschiedener Cloud-Dienste in die Datadog-Plattform."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Massive Störungen bei iranischen Banken nach Cyberangriff",
+          "link": "https://www.heise.de/news/Iran-Cyberangriff-auf-staatliche-Banken-11331525.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Hackerangriff auf staatliche Banken im Iran: Online-Zahlungen sind landesweit gestört – ein weiterer Schlag gegen Irans ohnehin fragile Infrastruktur.",
+          "published": "2026-06-15T07:45:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Homebrew 6.0 sichert Paketquellen ab",
+          "link": "https://www.heise.de/news/Homebrew-6-0-sichert-Paketquellen-ab-11329886.html",
+          "summary": "Homebrew 6.0 ist da: Externe Paketquellen müssen sich künftig als vertrauenswürdig erweisen. Dazu gibt es eine Linux-Sandbox und eine schnellere Standard-API.",
+          "published": "2026-06-12T09:23:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "OpenProject 17.5 führt projektbezogene IDs ein",
+          "link": "https://www.heise.de/news/OpenProject-17-5-fuehrt-projektbezogene-IDs-ein-11327652.html",
+          "summary": "Projektbezogene IDs statt globaler Nummern: OpenProject 17.5 erleichtert den Umstieg von Jira und baut die Backlog-Verwaltung für agile Teams aus.",
+          "published": "2026-06-10T13:37:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Agile Methoden gewinnen an Bedeutung, insbesondere durch neue Tools wie OpenProject 17.5, das den Umstieg von Jira erleichtert. Die Integration projektbezogener IDs verbessert die Backlog-Verwaltung für agile Teams. Gleichzeitig sorgt die neueste Homebrew-Version für mehr Sicherheit bei Paketquellen.",
+      "highlights": [
+        "OpenProject 17.5 führt projektbezogene IDs ein.",
+        "Homebrew 6.0 erfordert vertrauenswürdige externe Paketquellen.",
+        "OpenProject verbessert die Backlog-Verwaltung für agile Teams."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "„Ein System fragt nicht nach dem Logo“: Wie KI den Wettbewerb im E-Commerce verändert",
+          "link": "https://t3n.de/news/e-commerce-der-neue-wettbewerbsvorteil-heisst-nicht-markenstaerke-sondern-datenguete-experte-warnt-haendler-1747267/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Jahrzehntelang investierten Unternehmen Milliarden in den Aufbau ihrer Marken. Doch im Zeitalter des Agentic Commerce könnte diese Strategie wertlos werden. De weiterlesen auf t3n.de",
+          "published": "Mon, 15 Jun 2026 12:03:54 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Sie ist mehr als 2.000 Quadratmeter groß: In dieser Modellstadt simuliert das FBI Cyberattacken",
+          "link": "https://t3n.de/news/fbi-modellstadt-ausbildung-cyberangriffe-1747635/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das FBI lässt seine Agenten in einer echten Kleinstadt trainieren – eigens erbaut, aber komplett mit funktionierender Infrastruktur und lebensnahen Bedingungen. So funktioniert die Ausbildung in „Kinetic Cyber Range“. weiterlesen auf t3n.de",
+          "published": "Mon, 15 Jun 2026 11:15:34 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "5 Dinge, die du diese Woche wissen musst: Das Hin und Her um Claude Mythos",
+          "link": "https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-das-hin-und-her-um-claude-mythos-1747315/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um das neueste Modell von Anthropic, die Auswirkungen von KI auf unsere mentale Gesundheit, ein deutsches Robotik-Startup, Gmail und darum, wer für Falschaussagen von KI haftet. weiterlesen auf t3n.de",
+          "published": "Mon, 15 Jun 2026 08:00:54 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anthropic Releases and Temporarily Suspends Claude Fable 5",
+          "link": "https://www.infoq.com/news/2026/06/claude-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "On June 9, 2026, Anthropic launched Claude Fable 5, a model designed for long-horizon tasks, but it was taken offline shortly after due to a U.S. government export directive. It shares architecture with Claude Mythos 5, supporting extensive token usage. The model includes mandatory data retention requirements, which have affected its deployment with partners like Microsoft. By Andrew Hoblitzell",
+          "published": "Mon, 15 Jun 2026 05:01:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Xiaomi’s MiMo Code claims it beats Claude Code past 200 steps",
+          "link": "https://thenewstack.io/coding-agent-endurance-gap/",
+          "summary": "A coding agent that scaffolds a working app over lunch will routinely stall around 30 steps into a production refactor. The post Xiaomi&#8217;s MiMo Code claims it beats Claude Code past 200 steps appeared first on The New Stack .",
+          "published": "Sun, 14 Jun 2026 17:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Generative KI und große Sprachmodelle (LLMs) revolutionieren verschiedene Branchen, insbesondere den E-Commerce, wo traditionelle Markenstrategien an Bedeutung verlieren. Neueste Entwicklungen zeigen auch Herausforderungen in der KI-Entwicklung und -Regulierung.",
+      "highlights": [
+        "Anthropic hat Claude Fable 5 veröffentlicht, aber aufgrund einer Exportanweisung vorübergehend offline genommen.",
+        "Das FBI trainiert seine Agenten in einer Modellstadt, um Cyberattacken realistisch zu simulieren.",
+        "Xiaomi behauptet, dass MiMo Code Claude Code in der App-Entwicklung über 200 Schritte hinaus überlegen ist."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11328464.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu VS Code, Grafana Tempo, Zig, Stack Overflow, Testwell, Apache Pulsar, GitLab und Qt.",
+          "published": "2026-06-13T07:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In der aktuellen Ausgabe von heise developer News werden verschiedene kleinere Entwicklungen und Updates aus der Software-Entwicklung vorgestellt, darunter Tools wie VS Code und Grafana Tempo. Diese Meldungen bieten einen Überblick über neue Funktionen und Verbesserungen in der Entwickler-Community.",
+      "highlights": [
+        "VS Code erhält neue Erweiterungen zur Verbesserung der Benutzererfahrung.",
+        "Grafana Tempo wird aktualisiert, um die Trace-Analyse zu optimieren.",
+        "GitLab führt neue Funktionen zur Unterstützung von CI/CD-Pipelines ein."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Proteste gegen Polizeigesetz-Verschärfungen: Eine Welle von Widerstand",
+          "link": "https://netzpolitik.org/2026/proteste-gegen-polizeigesetz-verschaerfungen-eine-welle-von-widerstand/",
+          "summary": "Am vergangenen Samstag sperrten Aktivist*innen einen rechten Youtuber (o.l.) von einer Anti-Überwachungsdemo in Berlin (o.r.) aus, dort fanden sich auch zahlreiche Papp-Kameras (u.r.). Zeitgleich lief eine Demo durch Kiel (u.l.). Deutsche Polizeien sollen uns mit KI überwachen. Lange blieb der Aufschrei aus, jetzt gab und gibt es in gleich vier Städten Demonstrationen dagegen.",
+          "published": "Mon, 15 Jun 2026 09:50:57 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Einfache Tricks: Wie chinesische Nutzer versuchen, Teslas FSD-System zu umgehen",
+          "link": "https://t3n.de/news/tesla-fsd-system-tricks-1747611/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Seit Tesla in China schärfer überwacht, ob Fahrer:innen mit eingeschaltetem FSD-System aufmerksam sind, boomen dort Angebote, das Ganze zu umgehen. So kommen etwa Plastikköpfe in der Größe von Tischtennisbällen zum Einsatz. Doch es gibt auch Kritik. weiterlesen auf t3n.de",
+          "published": "Mon, 15 Jun 2026 10:30:54 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Von mehr als 2 Minuten auf 47 Sekunden: Wie KI-Chatbots unsere Aufmerksamkeit zerstören",
+          "link": "https://t3n.de/news/zwei-minuten-sekunden-ki-chatbots-aufmerksamkeit-1746475/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Psychologin Gloria Mark untersucht seit mehr als zwanzig Jahren, wie sich die Nutzung von digitalen Technologien auf unser Gehirn und damit unsere Aufmerksa weiterlesen auf t3n.de",
+          "published": "Mon, 15 Jun 2026 08:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Bis zu 1.200 Euro pro Jahr: Wie Influencer das Kaufverhalten von Jugendlichen beeinflussen",
+          "link": "https://t3n.de/news/bis-zu-1-200-euro-pro-jahr-wie-influencer-das-kaufverhalten-von-jugendlichen-beeinflussen-1747610/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit nur einem Klick landen Sneaker, Beauty-Produkte und Co. im Warenkorb. Wie stark Social Media und Influencer den Kaufrausch bei Jugendlichen anheizen – und was Eltern wissen sollten. weiterlesen auf t3n.de",
+          "published": "Mon, 15 Jun 2026 08:47:41 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Halluzinationen stoppen: Mit diesem System-Prompt minimierst du KI-Lügen",
+          "link": "https://t3n.de/news/system-prompt-ki-halluzinationen-stoppen-1747136/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI-Tools erfinden Fakten, Quellen und Zahlen, das ist ein bekanntes Problem im Büroalltag. Der passende System-Prompt reduziert jedoch die KI-Halluzinationen. Bei t3n MeisterPrompter gibt es die Vorlage zum Kopieren. weiterlesen auf t3n.de",
+          "published": "Mon, 15 Jun 2026 06:05:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Software Supply Chain wird zunehmend durch Open-Source-Technologien beeinflusst, die sowohl Chancen als auch Risiken mit sich bringen. Die Sicherheit und Integrität dieser Software-Lieferketten stehen im Fokus, insbesondere im Hinblick auf mögliche Angriffe und Schwachstellen.",
+      "highlights": [
+        "Open-Source-Software kann Sicherheitsrisiken durch unzureichende Wartung und Updates bergen.",
+        "Die Transparenz von Open-Source-Projekten ermöglicht eine bessere Überprüfung von Sicherheitslücken.",
+        "Unternehmen setzen zunehmend auf Open-Source-Lösungen, um Kosten zu sparen und Innovationen voranzutreiben."
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Vereinfachter Prozess: Künstliche Photosynthese erzeugt Treibstoff",
+          "link": "https://www.golem.de/news/vereinfachter-prozess-kuenstliche-photosynthese-erzeugt-treibstoff-2606-209778.html",
+          "summary": "Im Sonnenlicht lassen sich Wasser und CO2 in Sauerstoff und Methansäure umwandeln. Der Prozess konnte nun wesentlich einfacher umgesetzt werden. ( Synthetische Kraftstoffe , Solarenergie )",
+          "published": "2026-06-15T12:26:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Wissenschaftler haben einen vereinfachten Prozess zur künstlichen Photosynthese entwickelt, der es ermöglicht, Wasser und CO2 mithilfe von Sonnenlicht in Sauerstoff und Methansäure umzuwandeln. Dieser Fortschritt könnte die Herstellung synthetischer Kraftstoffe revolutionieren.",
+      "highlights": [
+        "Umwandlung von Wasser und CO2 in Sauerstoff und Methansäure durch Sonnenlicht.",
+        "Vereinfachter Prozess steigert Effizienz der künstlichen Photosynthese.",
+        "Potenzial zur Herstellung nachhaltiger synthetischer Kraftstoffe."
+      ]
+    }
+  ]
+}
