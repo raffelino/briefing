@@ -1,0 +1,364 @@
+{
+  "date": "2026-06-16",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "OpenSharing soll proprietäre Datensilos in der KI-Welt aufbrechen",
+          "link": "https://www.heise.de/news/OpenSharing-soll-proprietaere-Datensilos-in-der-KI-Welt-aufbrechen-11328802.html",
+          "summary": "Databricks übergibt OpenSharing an die Linux Foundation. Das Protokoll soll den Austausch von KI-Modellen, Agent-Skills und Daten standardisieren.",
+          "published": "2026-06-12T09:29:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Databricks hat das OpenSharing-Protokoll an die Linux Foundation übergeben, um den Austausch von KI-Modellen, Agent-Skills und Daten zu standardisieren. Ziel ist es, proprietäre Datensilos in der KI-Welt aufzubrechen.",
+      "highlights": [
+        "OpenSharing wird von der Linux Foundation verwaltet.",
+        "Das Protokoll zielt auf die Standardisierung des Austauschs von KI-Ressourcen ab.",
+        "Erwartete Verbesserung der Interoperabilität zwischen verschiedenen KI-Systemen."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Sperrung von Claude Mythos: „Man diskutiert mehr über Erbschaftssteuer als über KI-Abhängigkeiten”",
+          "link": "https://t3n.de/news/sperrung-von-claude-mythos-man-diskutiert-mehr-ueber-erbschaftssteuer-als-ueber-ki-abhaengigkeiten-1747745/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Für den KI Bundesverband war das Exportverbot der neusten KI-Modelle von Anthropic abzusehen – und er stellt jetzt klare Forderungen an Berlin und Brüssel. weiterlesen auf t3n.de",
+          "published": "Tue, 16 Jun 2026 11:45:33 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+          "link": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+          "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.",
+          "published": "Mon, 15 Jun 2026 19:07:02 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "A Chinese rocket breaks apart dangerously close to the Starlink constellation",
+          "link": "https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/",
+          "summary": "The rocket's breakup likely generated 100 to 150 new pieces of space junk.",
+          "published": "Mon, 15 Jun 2026 18:55:41 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Presentation: Practical Performance Tuning for Serverless Java on AWS",
+          "link": "https://www.infoq.com/presentations/java-aws-serverless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS Hero Vadym Kazulkin explains how to overcome Java’s enterprise hurdle on AWS Lambda: cold starts and memory footprints. He shares a technical deep dive into performance tuning, comparing fully managed AWS SnapStart (with pre-snapshot priming hooks) against GraalVM ahead-of-time compilation, while addressing the latest architectural implications of Project Leyden and Java 25. By Vadym Kazulkin",
+          "published": "Mon, 15 Jun 2026 13:12:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Analyse: Fable-Sperre offenbart Gefahren für die europäische Cybersicherheit",
+          "link": "https://www.heise.de/meinung/Analyse-Europa-kann-und-muss-aus-den-Abhaengigkeiten-bei-KI-ausbrechen-11333471.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Europa muss aus der Abhängigkeitsfalle bei KI-Modellen heraus, und erste Schritte sind trotz fehlender eigener Frontier-Modelle möglich, meint Mirko Ross.",
+          "published": "2026-06-16T09:44:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Diskussion um KI-Abhängigkeiten und Cybersicherheit in Europa gewinnt an Bedeutung. Der KI Bundesverband fordert klare Maßnahmen von der Politik, während Unternehmen wie Nvidia ihre Kapitalbeschaffung im AI-Sektor vorantreiben. Technische Herausforderungen bei der Nutzung von Java auf AWS werden ebenfalls thematisiert.",
+      "highlights": [
+        "KI Bundesverband fordert Maßnahmen gegen Abhängigkeiten von KI-Modellen.",
+        "Nvidia plant Anleihe über 25 Milliarden Dollar zur Finanzierung im AI-Sektor.",
+        "AWS Hero erklärt Performance-Tuning für Serverless Java und vergleicht neue Technologien."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "AI Coding Agents Get a Stack Overflow of Their Own",
+          "link": "https://www.infoq.com/news/2026/06/stack-overflow-for-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Stack Overflow has announced Stack Overflow for Agents, a beta API-first knowledge exchange aimed at AI coding agents rather than human developers. The service is presented as a way to close what the company calls the Ephemeral Intelligence Gap, where agents repeatedly rediscover the same fixes and patterns in isolation instead of sharing them through a common memory. By Matt Saunders",
+          "published": "Tue, 16 Jun 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Java News Roundup: A2A Java SDK 1.0, Jakarta EE 12, JNoSQL, GraalVM, Micrometer, OpenXava, Gradle",
+          "link": "https://www.infoq.com/news/2026/06/java-news-roundup-jun08-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for June 8th, 2026, features news highlighting: the GA release of A2A Java SDK 1.0; an update on Jakarta EE 12; point releases of Micrometer Metrics and Micrometer Tracing; maintenance releases of GraalVM Native Build Tools and OpenXava; the second release candidate of Gradle 9.6; and the first milestone release of Eclipse JNoSQL 1.2. By Michael Redlich",
+          "published": "Tue, 16 Jun 2026 02:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Spring News Roundup: Point Releases of Boot, Security, Integration, Modulith and Spring AI 2.0",
+          "link": "https://www.infoq.com/news/2026/06/spring-news-roundup-jun08-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "There was a flurry of activity in the Spring ecosystem during the week of June 8th, 2026, highlighting point releases of: Spring Boot, Spring Security, Spring Session, Spring Integration, Spring Modulith, Spring AMQP and Spring Vault; and GA releases of Spring AI 2.0 and Spring Data 2026.0.0. By Michael Redlich",
+          "published": "Mon, 15 Jun 2026 14:15:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Spring Boot 4.1 Adds gRPC Auto-Configuration, SSRF Mitigation, and Kotlin 2.3 Support",
+          "link": "https://www.infoq.com/news/2026/06/spring-boot-4-1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Broadcom released Spring Boot 4.1 on June 10, 2026, to deliver gRPC auto-configuration, HTTP-client SSRF mitigation, and upgrades to Kotlin 2.3. It also brings lazy datasource connections, async context propagation for @Async methods, and improved OpenTelemetry support. Uncharacteristically, Broadcom moved the releases twice, first from May 11-22 to June 1-5, then to June 8-12. By Karsten Silz",
+          "published": "Mon, 15 Jun 2026 05:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Eclipse IDE 2026-06: Java 26, Statement-Level-Stepping und Auto-Fetch",
+          "link": "https://www.heise.de/news/Eclipse-IDE-2026-06-Java-26-Statement-Level-Stepping-und-Auto-Fetch-11330749.html",
+          "summary": "Das Quartals-Release bringt unter anderem Unterstützung für Java 26, Statement-Level-Stepping beim Java-Debuggen und Auto-Fetch bei der Versionierung mit Git.",
+          "published": "2026-06-15T07:50:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Software-Architektur und Java entwickeln sich kontinuierlich weiter, mit neuen Releases und Updates in verschiedenen Bereichen. Insbesondere die Spring- und Jakarta-EE-Ökosysteme zeigen signifikante Fortschritte, während neue Tools für AI-Coding-Agenten entstehen.",
+      "highlights": [
+        "Release von Spring Boot 4.1 mit gRPC Auto-Configuration und Kotlin 2.3 Unterstützung.",
+        "Veröffentlichung des A2A Java SDK 1.0 und Jakarta EE 12.",
+        "Eclipse IDE 2026-06 unterstützt Java 26 und bietet neue Debugging-Funktionen."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Podcast Besser Wissen: Der Fokus auf mobile Security",
+          "link": "https://www.golem.de/news/podcast-besser-wissen-der-fokus-auf-mobile-security-2606-209766.html",
+          "summary": "Wie IT-Sicherheit zu ihrem Forschungsthema wurde, und welche Lücken Angriffe möglich machen, besprechen wir mit Jiska Classen im Podcast. ( Besser Wissen , Bluetooth )",
+          "published": "2026-06-16T10:30:08+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Anzeige: Nur im Juni: 15 Prozent Rabatt auf IT-Security-Workshops",
+          "link": "https://www.golem.de/news/anzeige-nur-im-juni-15-prozent-rabatt-auf-it-security-workshops-2606-209281.html",
+          "summary": "IT-Security-Workshops bündeln Governance, Zero Trust, AppSec und Incident Response. Die Juni-Aktion bietet bis einschließlich 30. Juni 15 Prozent Rabatt auf diese und weitere IT-Security-Weiterbildungen. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-06-16T09:37:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die IT-Sicherheit gewinnt zunehmend an Bedeutung, insbesondere im Bereich der mobilen Sicherheit. Aktuelle Diskussionen und Angebote zielen darauf ab, Sicherheitslücken zu identifizieren und durch gezielte Schulungen zu schließen.",
+      "highlights": [
+        "Podcast mit Jiska Classen thematisiert mobile Security und Angriffsvektoren.",
+        "15 Prozent Rabatt auf IT-Security-Workshops bis 30. Juni.",
+        "Workshops decken Governance, Zero Trust, AppSec und Incident Response ab."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Medizinregistergesetz: „Ein lebenslanges, unverhältnismäßiges Risiko“",
+          "link": "https://netzpolitik.org/2026/medizinregistergesetz-ein-lebenslanges-unverhaeltnismaessiges-risiko/",
+          "summary": "Im Gesundheitsausschuss wurde der Gesetzentwurf der Regierung auf Herz und Nieren geprüft. Und es blitzte Kritik auf. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Danielle-Claude Bélanger Im Gesundheitsausschuss des Bundestages musste die Regierung massive Kritik für ihren Entwurf des Medizinregistergesetzes einstecken. Er beschränke den Datenschutz, beschneide das Widerspruchsrecht und gefährde die Grundrechte der Patient:innen. Zuspruch gab es für einen Änderungsantrag der Grünen.",
+          "published": "Mon, 15 Jun 2026 14:24:07 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Black Friday im Sommer? Was du zum 618-Event von Joybuy wissen musst",
+          "link": "https://t3n.de/news/black-friday-im-sommer-was-du-zum-618-event-von-joybuy-wissen-musst-1747649/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Was in China unter dem Namen „618“ Millionen Menschen zum Einkaufen bewegt, soll nun auch in Europa Aufmerksamkeit erzeugen. Joybuy startet seinen ersten „Summer Black Friday“ und kombiniert das Erfolgsrezept des Mutterkonzerns JD.com mit bekannten Elementen wie Blitzangeboten und Gutscheinen. weiterlesen auf t3n.de",
+          "published": "Mon, 15 Jun 2026 12:30:04 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Datadog baut Observability-Plattform zum autonomen KI-Teamkollegen aus",
+          "link": "https://www.heise.de/news/Datadog-baut-Observability-Plattform-zum-autonomen-KI-Teamkollegen-aus-11326423.html",
+          "summary": "Auf der DASH-Konferenz präsentiert Datadog mit Bits AI SRE, AI Guard und Bring Your Own Cloud neue Funktionen für autonomen IT-Betrieb und KI-Sicherheit.",
+          "published": "2026-06-10T07:48:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Falschfahrer und andere Verkehrsgefahren: Warum das Radio für Warnhinweise nicht mehr ausreicht",
+          "link": "https://www.golem.de/news/falschfahrer-und-andere-verkehrsgefahren-warum-das-radio-fuer-warnhinweise-nicht-mehr-ausreicht-2606-209511.html",
+          "summary": "Gefahren auf der Autobahn bedürfen schneller und zuverlässiger Warnungen. Bei vielen Autofahrern kommen die aber nicht mehr an. Eine Analyse von Mathias Küfner ( Technik/Hardware , Server )",
+          "published": "2026-06-16T09:45:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die heutige Berichterstattung umfasst Themen wie Datenschutz im Medizinregistergesetz, den bevorstehenden Sommerverkauf von Joybuy und neue KI-Funktionen von Datadog zur Verbesserung der IT-Observability. Insbesondere die Kritik am Medizinregistergesetz zeigt die Spannungen zwischen Datenschutz und Gesundheitsversorgung auf.",
+      "highlights": [
+        "Medizinregistergesetz: Massive Kritik wegen Datenschutz- und Grundrechtsverletzungen.",
+        "Joybuy startet ersten 'Summer Black Friday' in Europa, inspiriert von Chinas 618-Event.",
+        "Datadog präsentiert neue KI-Funktionen zur Unterstützung autonomer IT-Betriebe auf der DASH-Konferenz."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Keine Cloud, kein Smartphone: Diese Smart Glasses laufen autark",
+          "link": "https://www.heise.de/news/US-Start-up-stellt-autarke-Smart-Glasses-mit-Linux-und-Wechselakku-vor-11333639.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Auf der Augmented World Expo zeigt ein kalifornisches Start-up Smart Glasses, die ohne gekoppeltes Smartphone funktionieren und unter Linux laufen sollen.",
+          "published": "2026-06-16T10:28:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux 7.1 mit neuem NTFS und FRED erschienen",
+          "link": "https://www.heise.de/news/Linux-7-1-mit-neuem-NTFS-und-FRED-erschienen-11333467.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der neue Kernel Linux 7.1 bringt einen modernen NTFS-Treiber und aktiviert Intels FRED standardmäßig. Zudem erregt der KI-Einsatz bei der Entwicklung Aufsehen.",
+          "published": "2026-06-16T08:48:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux 7.1 mit neuem NTFS und FRED erschienen",
+          "link": "https://www.heise.de/news/Linux-7-1-mit-neuem-NTFS-und-FRED-erschienen-11333467.html",
+          "summary": "Der neue Kernel Linux 7.1 bringt einen modernen NTFS-Treiber und aktiviert Intels FRED standardmäßig. Zudem erregt der KI-Einsatz bei der Entwicklung Aufsehen.",
+          "published": "2026-06-16T06:48:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Homebrew 6.0 sichert Paketquellen ab",
+          "link": "https://www.heise.de/news/Homebrew-6-0-sichert-Paketquellen-ab-11329886.html",
+          "summary": "Homebrew 6.0 ist da: Externe Paketquellen müssen sich künftig als vertrauenswürdig erweisen. Dazu gibt es eine Linux-Sandbox und eine schnellere Standard-API.",
+          "published": "2026-06-12T09:23:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "OpenProject 17.5 führt projektbezogene IDs ein",
+          "link": "https://www.heise.de/news/OpenProject-17-5-fuehrt-projektbezogene-IDs-ein-11327652.html",
+          "summary": "Projektbezogene IDs statt globaler Nummern: OpenProject 17.5 erleichtert den Umstieg von Jira und baut die Backlog-Verwaltung für agile Teams aus.",
+          "published": "2026-06-10T13:37:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Agile Methoden gewinnen durch neue Software-Tools an Bedeutung, die die Zusammenarbeit und Verwaltung in Teams optimieren. OpenProject 17.5 ermöglicht eine verbesserte Backlog-Verwaltung und erleichtert den Umstieg von Jira.",
+      "highlights": [
+        "OpenProject 17.5 führt projektbezogene IDs ein.",
+        "Die Backlog-Verwaltung wird für agile Teams ausgebaut.",
+        "Homebrew 6.0 erfordert vertrauenswürdige externe Paketquellen."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "PostgreSQL 19 Beta Introduces SQL Graph Queries and Concurrent Table Repacking",
+          "link": "https://www.infoq.com/news/2026/06/postgresql-19-graph-queries/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "PostgreSQL 19 Beta has been announced, with general availability expected in September, following the project's yearly major-release cadence. This release introduces native SQL Property Graph Queries (SQL/PGQ), concurrent table repacking to reclaim storage without downtime, and a broad set of performance, observability, and administration improvements. By Renato Losio",
+          "published": "Tue, 16 Jun 2026 07:15:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Xcode 27 Extends Agent Integration, Revamps UI, and Introduces DeviceHub",
+          "link": "https://www.infoq.com/news/2026/06/xcode-27-agents-device-hub/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "At WWDC 2026, Apple introduced Xcode 27, which makes it easy to kick off tasks with coding agents, iterate on new project ideas, and customize the workspace. It also introduces DeviceHub for unified simulator and device management, along with enhancements to Organizer and Instruments, among many other improvements. By Sergio De Simone",
+          "published": "Mon, 15 Jun 2026 21:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Anthropic Explains How Claude Builds Its Own Execution Harnesses",
+          "link": "https://www.infoq.com/news/2026/06/claude-code-harnesses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Anthropic has published additional details about the orchestration system behind Claude Code's recently introduced Dynamic Workflows, highlighting how the feature generates custom execution harnesses designed to coordinate teams of AI agents for complex tasks. By Robert Krzaczyński",
+          "published": "Mon, 15 Jun 2026 20:55:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "The Anthropic Fable mess, explained",
+          "link": "https://thenewstack.io/anthropic-fable-mess-explained/",
+          "summary": "The&#160;Anthropic-Mythos-Fable story&#160;has been The Topic since Friday, and it moved fast enough to lose anyone who blinked. Here&#8217;s my opinionated The post The Anthropic Fable mess, explained appeared first on The New Stack .",
+          "published": "Mon, 15 Jun 2026 18:24:34 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Cohere sold sovereign AI to enterprises, now it’s targeting developers with its first coding model",
+          "link": "https://thenewstack.io/cohere-sovereign-coding-model-north-mini-code/",
+          "summary": "Canadian foundation model company Cohere has spent the past few years selling a specific idea to banks, governments, and healthcare The post Cohere sold sovereign AI to enterprises, now it&#8217;s targeting developers with its first coding model appeared first on The New Stack .",
+          "published": "Mon, 15 Jun 2026 14:54:16 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Die Entwicklungen im Bereich generative KI und LLMs zeigen Fortschritte in der Automatisierung und Integration von KI-Systemen. Unternehmen wie Anthropic und Cohere erweitern ihre Angebote, um komplexe Aufgaben zu bewältigen und Entwickler anzusprechen.",
+      "highlights": [
+        "Anthropic hat Details zu Claude Codes Dynamic Workflows veröffentlicht, die maßgeschneiderte Ausführungsumgebungen für KI-Agenten generieren.",
+        "Cohere richtet sich mit seinem ersten Codierungsmodell gezielt an Entwickler, nachdem es zuvor souveräne KI-Lösungen für Unternehmen angeboten hat.",
+        "PostgreSQL 19 Beta führt native SQL Property Graph Queries ein und verbessert die Verwaltung von Datenbanken."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Russia appears set to finally address long-term, serious space station cracks",
+          "link": "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/",
+          "summary": "This has been a persistent, behind-the-scenes dispute between NASA and Roscosmos.",
+          "published": "Mon, 15 Jun 2026 13:54:02 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Russland plant, langfristige Risse in der Internationalen Raumstation zu beheben, die seit geraumer Zeit ein Streitpunkt zwischen NASA und Roscosmos sind. Diese technischen Probleme könnten die Zusammenarbeit im Weltraum beeinträchtigen.",
+      "highlights": [
+        "Langfristige Risse in der Internationalen Raumstation betroffen.",
+        "Streitpunkt zwischen NASA und Roscosmos seit mehreren Jahren.",
+        "Behebung der Risse könnte zukünftige Kooperation im Weltraum sichern."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11328464.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu VS Code, Grafana Tempo, Zig, Stack Overflow, Testwell, Apache Pulsar, GitLab und Qt.",
+          "published": "2026-06-13T07:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In der aktuellen Ausgabe von heise developer News werden verschiedene kleinere Entwicklungen in der Software-Entwicklung vorgestellt, darunter Updates zu Tools wie VS Code und Grafana Tempo sowie Neuigkeiten zu Stack Overflow und GitLab.",
+      "highlights": [
+        "VS Code erhält neue Funktionen zur Verbesserung der Entwicklerproduktivität.",
+        "Grafana Tempo wird aktualisiert, um die Observability in Microservices zu optimieren.",
+        "GitLab führt neue Features ein, die die Zusammenarbeit im Team erleichtern."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Google schließt Hintertür: Warum viele Adblocker in Chrome bald nicht mehr funktionieren",
+          "link": "https://t3n.de/news/google-adblocker-chrome-1747725/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Spätestens mit dem Update auf Chrome 151 im Juli 2026 wird Google die letzte Hintertür für die Nutzung populärer älterer Adblocker wie uBlock Origin schließen. Welche Alternativen Nutzer:innen jetzt haben. weiterlesen auf t3n.de",
+          "published": "Tue, 16 Jun 2026 10:10:13 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nur 13 Wörter nötig: So einfach lassen sich KI-Bots durch Reddit manipulieren",
+          "link": "https://t3n.de/news/ki-bots-manipuliert-durch-reddit-13-woerter-1747718/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI-Bots, die Quellen wie Reddit für ihre Antworten heranziehen, lassen sich mit einfachsten Mitteln manipulieren. Zu diesem Ergebnis kommen jetzt Forscher. Warum das Probleme für User:innen mit sich bringt. weiterlesen auf t3n.de",
+          "published": "Tue, 16 Jun 2026 09:00:27 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Drei Jahre mit Gehirnimplantat: Dieser Mensch ist „der erste Power-User“",
+          "link": "https://t3n.de/news/drei-jahre-mit-gehirnimplantat-dieser-als-patient-ist-der-erste-power-user-eines-bci-1747707/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "2023 erhielt der ALS-Patient Casey Harrell eine Gehirn-Computer-Schnittstelle, um ihm die Kommunikation mit seinen Mitmenschen zu ermöglichen. Doch die täglic weiterlesen auf t3n.de",
+          "published": "Tue, 16 Jun 2026 09:00:02 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Neue Zollabgabe für Bestellungen bei Temu und Shein: Mit diesen Kosten müssen Schnäppchenjäger rechnen",
+          "link": "https://t3n.de/news/neue-zollabgabe-fuer-bestellungen-bei-temu-und-shein-mit-diesen-kosten-muessen-schnaeppchenjaeger-rechnen-1747696/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ab Juli ändert sich beim Onlinehandel eine Zollregel, die alle betrifft, die Waren aus dem Ausland kaufen. Demnach entfällt die bisherige Zollfreigrenze für Kleinsendungen unter 150 Euro. Für Sendungen aus dem Nicht-EU-Ausland wird stattdessen pauschal ein Zoll ab drei Euro erhoben. Doch es kann auch teurer werden. weiterlesen auf t3n.de",
+          "published": "Tue, 16 Jun 2026 07:30:03 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "iPhone 16 bekommt iOS 27 – aber nicht alle KI-Funktionen, die Apple versprochen hat",
+          "link": "https://t3n.de/news/iphone-16-ios-27-ki-funktionen-apple-intelligence-1746562/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit Fokus auf Apple Intelligence sei das iPhone 16 entwickelt worden. Aber keine zwei Jahre später bekommt es gar nicht alle neuen vorgestellten KI-Funktionen von iOS 27. Wer die will, braucht schon wieder das neueste Modell. Unfair, findet unser Autor. weiterlesen auf t3n.de",
+          "published": "Tue, 16 Jun 2026 06:55:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Software Supply Chain steht im Fokus aktueller Entwicklungen, insbesondere durch Änderungen bei Google Chrome, die Adblocker betreffen. Zudem zeigen neue Forschungsergebnisse, wie KI-Bots manipuliert werden können, was potenzielle Risiken für Nutzer:innen birgt.",
+      "highlights": [
+        "Google schließt mit Chrome 151 die Nutzung älterer Adblocker wie uBlock Origin aus.",
+        "KI-Bots können mit nur 13 Wörtern auf Reddit manipuliert werden.",
+        "Ab Juli 2023 wird eine neue Zollabgabe für Bestellungen aus dem Nicht-EU-Ausland eingeführt."
+      ]
+    }
+  ]
+}
