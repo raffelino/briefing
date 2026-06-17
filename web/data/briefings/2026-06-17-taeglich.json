@@ -1,0 +1,310 @@
+{
+  "date": "2026-06-17",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Databricks wants to merge the two databases every company runs",
+          "link": "https://thenewstack.io/databricks-is-rebuilding-the-data-stack-for-ai-agents/",
+          "summary": "Databricks wants to erase the divide between the databases that run a business and the systems that analyze it. At The post Databricks wants to merge the two databases every company runs appeared first on The New Stack .",
+          "published": "Tue, 16 Jun 2026 21:30:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenSharing soll proprietäre Datensilos in der KI-Welt aufbrechen",
+          "link": "https://www.heise.de/news/OpenSharing-soll-proprietaere-Datensilos-in-der-KI-Welt-aufbrechen-11328802.html",
+          "summary": "Databricks übergibt OpenSharing an die Linux Foundation. Das Protokoll soll den Austausch von KI-Modellen, Agent-Skills und Daten standardisieren.",
+          "published": "2026-06-12T09:29:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Databricks strebt an, die Trennung zwischen Geschäftsdatenbanken und Analyse-Systemen zu überwinden. Gleichzeitig wird das OpenSharing-Protokoll, das den Austausch von KI-Modellen und Daten standardisieren soll, an die Linux Foundation übergeben.",
+      "highlights": [
+        "Databricks plant die Fusion von Geschäftsdatenbanken und Analyse-Systemen.",
+        "OpenSharing soll proprietäre Datensilos in der KI-Welt aufbrechen.",
+        "Das OpenSharing-Protokoll wird an die Linux Foundation übergeben."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+          "link": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+          "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
+          "published": "Tue, 16 Jun 2026 22:22:44 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "US approval of Paramount/Warner Bros. deal surprised DOJ lawyers, report says",
+          "link": "https://arstechnica.com/tech-policy/2026/06/us-approval-of-paramount-warner-bros-deal-surprised-doj-lawyers-report-says/",
+          "summary": "Trump admin green-lighting $111B deal \"reeks of corruption,\" Sen. Warren says.",
+          "published": "Tue, 16 Jun 2026 18:48:45 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Android 17 starts hitting Pixel phones and watches today",
+          "link": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
+          "summary": "Pixels will get their OTA in the coming weeks, but don't expect monumental changes.",
+          "published": "Tue, 16 Jun 2026 18:00:08 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Why did my AWS bill spike? There’s now an agent for that",
+          "link": "https://thenewstack.io/aws-finops-agent-ai/",
+          "summary": "Amazon Web Services has added a third specialized &#8220;frontier agent&#8221; to its growing portfolio of AI tools aimed at IT The post Why did my AWS bill spike? There&#8217;s now an agent for that appeared first on The New Stack .",
+          "published": "Tue, 16 Jun 2026 15:15:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "KI-Agenten übernehmen immer mehr Arbeit: Warum die Überprüfung zum zentralen Problem wird",
+          "link": "https://t3n.de/news/ki-agenten-uebernehmen-immer-mehr-arbeit-warum-die-ueberpruefung-zum-zentralen-problem-wird-1747778/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Führungskräfte sehen in KI-Tools großes Potenzial. Auf einer Konferenz tauschten sie sich kürzlich zu aktuellen Herausforderungen aus – und forderten in diesem Zuge mehr Zuverlässigkeit und Transparenz. weiterlesen auf t3n.de",
+          "published": "Tue, 16 Jun 2026 16:30:29 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Cloud-Architektur und Plattformen stehen im Fokus aktueller Entwicklungen, insbesondere im Hinblick auf KI-Tools und deren Integration in IT-Prozesse. Die Herausforderungen bei der Zuverlässigkeit und Transparenz von KI-Agenten wurden auf einer Konferenz thematisiert, während AWS neue Funktionen zur Kostenkontrolle einführt.",
+      "highlights": [
+        "AWS hat einen neuen 'Frontier Agent' zur Überwachung von Kosten eingeführt.",
+        "Führungskräfte fordern mehr Zuverlässigkeit und Transparenz bei KI-Tools.",
+        "xAI sieht sich rechtlichen Herausforderungen wegen fehlender Genehmigungen für Gas-Turbinen im Grok-Datenzentrum gegenüber."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "AI Coding Agents Get a Stack Overflow of Their Own",
+          "link": "https://www.infoq.com/news/2026/06/stack-overflow-for-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Stack Overflow has announced Stack Overflow for Agents, a beta API-first knowledge exchange aimed at AI coding agents rather than human developers. The service is presented as a way to close what the company calls the Ephemeral Intelligence Gap, where agents repeatedly rediscover the same fixes and patterns in isolation instead of sharing them through a common memory. By Matt Saunders",
+          "published": "Tue, 16 Jun 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Eclipse IDE 2026-06: Java 26, Statement-Level-Stepping und Auto-Fetch",
+          "link": "https://www.heise.de/news/Eclipse-IDE-2026-06-Java-26-Statement-Level-Stepping-und-Auto-Fetch-11330749.html",
+          "summary": "Das Quartals-Release bringt unter anderem Unterstützung für Java 26, Statement-Level-Stepping beim Java-Debuggen und Auto-Fetch bei der Versionierung mit Git.",
+          "published": "2026-06-15T07:50:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Software-Architektur im Java-Bereich entwickelt sich weiter mit neuen Tools und Funktionen. Stack Overflow hat eine API für AI-Coding-Agenten eingeführt, während die Eclipse IDE 2026-06 Unterstützung für Java 26 und neue Debugging-Funktionen bietet.",
+      "highlights": [
+        "Stack Overflow for Agents: Beta API für AI-Coding-Agenten zur Wissensaustausch.",
+        "Eclipse IDE 2026-06 unterstützt Java 26 und bietet Statement-Level-Stepping.",
+        "Neue Auto-Fetch-Funktion für Git-Versionskontrolle in der Eclipse IDE."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Malware erbeutet 124 Millionen Passwörter - was du jetzt tun solltest",
+          "link": "https://t3n.de/news/haveibeenpwned-malware-erbeutet-124-millionen-nutzerdaten-was-du-jetzt-tun-solltest-1747930/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Datenleckprüfdienst HaveIbeenPwned schlägt Alarm: 124 Millionen Passwörter und 56 Millionen E-Mail-Adressen wurden mit Malware erbeutet und stehen in Stealer-Logs. So findest du heraus, ob du auch betroffen bist. weiterlesen auf t3n.de",
+          "published": "Wed, 17 Jun 2026 11:00:19 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anzeige: Zero Trust Security Framework für IT-Sicherheitsprogramme",
+          "link": "https://www.golem.de/news/anzeige-zero-trust-security-framework-fuer-it-sicherheitsprogramme-2606-208602.html",
+          "summary": "Zero Trust Security Framework wird zur Leitlinie moderner IT-Sicherheit. Entscheidend ist die Umsetzung in Architektur und Prozessen. Ein Online-Workshop vermittelt dafür das Vorgehen. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-06-16T18:45:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle Berichte warnen vor einem massiven Datenleck, bei dem 124 Millionen Passwörter und 56 Millionen E-Mail-Adressen erbeutet wurden. Zudem wird das Zero Trust Security Framework als wichtige Leitlinie für moderne IT-Sicherheitsstrategien hervorgehoben.",
+      "highlights": [
+        "124 Millionen Passwörter und 56 Millionen E-Mail-Adressen erbeutet.",
+        "Daten sind in Stealer-Logs verfügbar.",
+        "Zero Trust Security Framework als Schlüssel zur effektiven IT-Sicherheit."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "heise+ | So funktioniert die Umstellung eines automatisierten CI-Prozesses mit KI",
+          "link": "https://www.heise.de/hintergrund/So-funktioniert-die-Umstellung-eines-automatisierten-CI-Prozesses-mit-KI-11309615.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Ein automatisierter Delivery-Workflow für Linux-Pakete wurde mithilfe agentischer KI auf eine aktuelle Distribution migriert und dabei grundlegend optimiert.",
+          "published": "2026-06-16T17:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux 7.1 mit neuem NTFS und FRED erschienen",
+          "link": "https://www.heise.de/news/Linux-7-1-mit-neuem-NTFS-und-FRED-erschienen-11333467.html",
+          "summary": "Der neue Kernel Linux 7.1 bringt einen modernen NTFS-Treiber und aktiviert Intels FRED standardmäßig. Zudem erregt der KI-Einsatz bei der Entwicklung Aufsehen.",
+          "published": "2026-06-16T06:48:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Homebrew 6.0 sichert Paketquellen ab",
+          "link": "https://www.heise.de/news/Homebrew-6-0-sichert-Paketquellen-ab-11329886.html",
+          "summary": "Homebrew 6.0 ist da: Externe Paketquellen müssen sich künftig als vertrauenswürdig erweisen. Dazu gibt es eine Linux-Sandbox und eine schnellere Standard-API.",
+          "published": "2026-06-12T09:23:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "OpenProject 17.5 führt projektbezogene IDs ein",
+          "link": "https://www.heise.de/news/OpenProject-17-5-fuehrt-projektbezogene-IDs-ein-11327652.html",
+          "summary": "Projektbezogene IDs statt globaler Nummern: OpenProject 17.5 erleichtert den Umstieg von Jira und baut die Backlog-Verwaltung für agile Teams aus.",
+          "published": "2026-06-10T13:37:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: LPIC-1-Prüfungen 101/102: Linux-Wissen strukturiert auffrischen",
+          "link": "https://www.golem.de/news/anzeige-lpic-1-pruefungen-101-102-linux-wissen-strukturiert-auffrischen-2606-208668.html",
+          "summary": "LPIC-1 ist ein gängiger Nachweis für Linux-Systemadministration. Wer LPI 101 und LPI 102 bestehen will, muss Grundlagen sicher beherrschen und sauber wiederholen. Ein Online-Workshop bereitet strukturiert vor. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-06-17T07:15:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die neuesten Entwicklungen im Bereich Agile Methoden und UX/UI zeigen, dass Tools wie OpenProject 17.5 den Umstieg von Jira erleichtern und die Backlog-Verwaltung für agile Teams verbessern. Zudem wird der Einsatz von KI in CI-Prozessen und bei der Entwicklung von Linux 7.1 thematisiert.",
+      "highlights": [
+        "OpenProject 17.5 führt projektbezogene IDs ein, um den Umstieg von Jira zu erleichtern.",
+        "Linux 7.1 bringt einen modernen NTFS-Treiber und aktiviert Intels FRED standardmäßig.",
+        "Homebrew 6.0 erfordert vertrauenswürdige externe Paketquellen und bietet eine schnellere Standard-API."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "GitHub Copilot Desktop App Targets Parallel Agentic Workflows",
+          "link": "https://www.infoq.com/news/2026/06/github-copilot-app/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "GitHub has introduced the GitHub Copilot app, a desktop control centre for agent-native development that aims to keep engineers in charge while AI agents handle more coding work. Mario Rodriguez writes on the GitHub blog that the recent wave of coding agents has brought faster delivery but also \"disjointed workflows, more context switching, and too much time spent reviewing agent-generated code\". By Matt Saunders",
+          "published": "Wed, 17 Jun 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "48 Prozent der Jugendlichen finden Social Media gut für ihre Psyche - Eltern sind anderer Meinung",
+          "link": "https://t3n.de/news/eu-umfrage-48-prozent-der-jugendlichen-finden-social-media-gut-fuer-ihre-psyche-eltern-sind-anderer-meinung-1747908/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Fast die Hälfte der 13- bis 18-Jährigen in der EU sieht positive Effekte der sozialen Medien auf die eigene mentale Gesundheit. Die meisten Eltern teilen diese Einschätzung nicht. Eine Umfrage offenbart eine massive Wahrnehmungslücke zwischen den Generationen, während die EU ein Social-Media-Verbot in Betracht zieht. weiterlesen auf t3n.de",
+          "published": "Wed, 17 Jun 2026 08:30:43 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+          "link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+          "summary": "Move originally planned for Monday would have heavily increased power users' costs.",
+          "published": "Tue, 16 Jun 2026 21:00:35 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "SpaceX acquires Cursor for $60 billion. Can it fix Musk’s coding division?",
+          "link": "https://thenewstack.io/spacex-cursor-ai-coding/",
+          "summary": "Today it was announced SpaceX will buy Anysphere, Inc., maker of AI coding agent Cursor, for $60 billion.&#160; The news The post SpaceX acquires Cursor for $60 billion. Can it fix Musk’s coding division? appeared first on The New Stack .",
+          "published": "Tue, 16 Jun 2026 18:30:45 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+          "link": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+          "summary": "Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses.",
+          "published": "Tue, 16 Jun 2026 16:18:07 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Die Entwicklungen im Bereich generative KI und LLMs zeigen sowohl Fortschritte als auch Herausforderungen. GitHub und SpaceX investieren in KI-Technologien, während Unternehmen wie Anthropic ihre Preismodelle überdenken müssen. Gleichzeitig stehen Unternehmen wie OpenAI vor finanziellen Schwierigkeiten trotz wachsender Einnahmen.",
+      "highlights": [
+        "GitHub hat die Copilot Desktop-App eingeführt, um die Effizienz bei der Softwareentwicklung zu steigern.",
+        "SpaceX erwirbt Anysphere, Inc. für 60 Milliarden Dollar, um seine Programmierabteilung zu stärken.",
+        "Leaked-Dokumente zeigen, dass OpenAI jährlich Milliarden verliert, trotz steigender Einnahmen."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "DSGVO-Compliance mit KI: Was die Technologie wirklich leisten kann",
+          "link": "https://t3n.de/news/dsgvo-compliance-ki-datenschutz-1741238/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Datenschutz scheitert nicht am Fachwissen, sondern an der Zuarbeit aus Fachbereichen. Ein KI-Assistent ändert das: VVT, DSFA und TOM werden strukturiert, prüfbar und skalierbar. Eine Praxis-Demo zeigt wie. weiterlesen auf t3n.de",
+          "published": "Wed, 17 Jun 2026 09:00:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Ein KI-Assistent kann die DSGVO-Compliance durch strukturierte und prüfbare Prozesse in den Bereichen Verzeichnis von Verarbeitungstätigkeiten (VVT), Datenschutz-Folgenabschätzung (DSFA) und technische-organisatorische Maßnahmen (TOM) verbessern. Eine Praxis-Demo verdeutlicht die Anwendungsmöglichkeiten.",
+      "highlights": [
+        "KI optimiert die DSGVO-Compliance-Prozesse.",
+        "VVT, DSFA und TOM werden durch KI strukturiert.",
+        "Praxis-Demo zeigt konkrete Anwendungsmöglichkeiten."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11328464.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu VS Code, Grafana Tempo, Zig, Stack Overflow, Testwell, Apache Pulsar, GitLab und Qt.",
+          "published": "2026-06-13T07:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die aktuellen Developer-News bieten Einblicke in verschiedene Tools und Technologien, darunter Updates zu VS Code, Grafana Tempo und GitLab. Diese Meldungen sind für Entwickler von Interesse, die ihre Arbeitsabläufe optimieren möchten.",
+      "highlights": [
+        "VS Code erhält neue Erweiterungen zur Verbesserung der Benutzererfahrung.",
+        "Grafana Tempo bietet erweiterte Funktionen zur Trace-Analyse.",
+        "GitLab integriert neue CI/CD-Features zur Effizienzsteigerung."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Wifi 7, 6-GHz-Band und mehr: WLAN-Stick von Fritz möbelt ältere Computer auf",
+          "link": "https://t3n.de/news/wifi-7-fritz-wlan-stick-1747917/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Fritz (früher: AVM) hat seinen WLAN-Stick 6700 in den Handel gebracht. Damit können Nutzer:innen ältere Computer fit für den aktuellen Standard Wifi 7 machen. Ein Austausch der Hardware ist dabei nicht notwendig. weiterlesen auf t3n.de",
+          "published": "Wed, 17 Jun 2026 10:45:12 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google veröffentlicht Android 17: Diese Smartphones bekommen das Update ab jetzt",
+          "link": "https://t3n.de/news/google-android-17-update-smartphones-1747912/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google hat mit dem Rollout von Android 17 für erste Smartphones begonnen. Mit dem großen Update gehen zahlreiche Neuerungen einher. Welche User:innen in den kommenden Tagen mit Android 17 rechnen können und wer noch warten muss. weiterlesen auf t3n.de",
+          "published": "Wed, 17 Jun 2026 09:15:14 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Steve Jobs: Warum das FBI eine Akte über den Apple-Gründer hatte – und was drinsteht",
+          "link": "https://t3n.de/news/steve-jobs-fbi-akte-apple-gruender-inhalt-1747849/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Steve Jobs ist nicht nur Technik-Fans ein Name. Auch beim FBI war der Apple-Mitgründer aktenkundig. Was hat die Behörde über Jobs herausgefunden? Und warum hat sie diese Nachforschungen überhaupt angestellt? weiterlesen auf t3n.de",
+          "published": "Wed, 17 Jun 2026 07:30:40 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
+          "link": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
+          "summary": "Partner tells Ars that HPE should be giving out more free VM Essentials licenses.",
+          "published": "Tue, 16 Jun 2026 22:11:15 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
+          "link": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
+          "summary": "Transferring genes across species doesn't just happen in microbes.",
+          "published": "Tue, 16 Jun 2026 21:54:41 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Die Software-Lieferkette gewinnt zunehmend an Bedeutung, insbesondere im Kontext von Open-Source-Software. Unternehmen müssen sicherstellen, dass ihre Software sicher und zuverlässig ist, um Risiken zu minimieren.",
+      "highlights": [
+        "Zunehmende Bedeutung von Open-Source-Software in der Software-Lieferkette.",
+        "Unternehmen müssen Sicherheitsrisiken in der Softwareentwicklung adressieren.",
+        "Integration von Sicherheitsmaßnahmen in den Entwicklungsprozess ist entscheidend."
+      ]
+    }
+  ]
+}
