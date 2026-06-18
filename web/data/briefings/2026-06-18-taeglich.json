@@ -1,0 +1,364 @@
+{
+  "date": "2026-06-18",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "“A data lake of nuance for AI agents to swim in”: AWS Context gets shipshape on reasoning",
+          "link": "https://thenewstack.io/aws-context-knowledge-graph-agents/",
+          "summary": "AI consumes a lot of data, but all-you-can-eat data in the world of agentic intelligence eventually loses its flavor. Simply The post “A data lake of nuance for AI agents to swim in”: AWS Context gets shipshape on reasoning appeared first on The New Stack .",
+          "published": "Wed, 17 Jun 2026 18:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Meta-Harness für KI-Agenten: Databricks veröffentlicht Omnigent als Open Source",
+          "link": "https://www.heise.de/news/Meta-Harness-fuer-KI-Agenten-Databricks-veroeffentlicht-Omnigent-als-Open-Source-11334159.html",
+          "summary": "Der Meta-Harness Omnigent vereint KI-Agenten wie Claude Code und Codex unter einer gemeinsamen Policy- und Kollaborationsschicht – unter Apache-2.0-Lizenz.",
+          "published": "2026-06-17T09:34:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "OpenSharing soll proprietäre Datensilos in der KI-Welt aufbrechen",
+          "link": "https://www.heise.de/news/OpenSharing-soll-proprietaere-Datensilos-in-der-KI-Welt-aufbrechen-11328802.html",
+          "summary": "Databricks übergibt OpenSharing an die Linux Foundation. Das Protokoll soll den Austausch von KI-Modellen, Agent-Skills und Daten standardisieren.",
+          "published": "2026-06-12T09:29:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen im Bereich Data & AI zeigen Fortschritte in der Datenverarbeitung und -nutzung. AWS optimiert seine Dateninfrastruktur für KI-Agenten, während Databricks mit Omnigent einen Open-Source-Ansatz für die Zusammenarbeit von KI-Agenten präsentiert. Zudem wird OpenSharing an die Linux Foundation übergeben, um den Austausch von KI-Modellen zu standardisieren.",
+      "highlights": [
+        "AWS verbessert die Datenverarbeitung für KI-Agenten mit einem neuen Ansatz.",
+        "Databricks veröffentlicht Omnigent als Open Source unter der Apache-2.0-Lizenz.",
+        "OpenSharing wird an die Linux Foundation übergeben, um den Austausch von KI-Modellen zu standardisieren."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Kiro goes mobile: AWS brings agentic coding supervision to the iPhone",
+          "link": "https://thenewstack.io/aws-kiro-mobile-ios-agentic-coding/",
+          "summary": "AWS has launched a native iOS app for Kiro, its AI-powered development environment, giving developers a way to monitor, steer, The post Kiro goes mobile: AWS brings agentic coding supervision to the iPhone appeared first on The New Stack .",
+          "published": "Wed, 17 Jun 2026 17:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS puts an AI bouncer at the merge queue",
+          "link": "https://thenewstack.io/aws-devops-agent-ai-delivery-pipeline/",
+          "summary": "The bottleneck in software development has moved. &#160;Writing code is no longer the constraint. Getting it safely to production is. The post AWS puts an AI bouncer at the merge queue appeared first on The New Stack .",
+          "published": "Wed, 17 Jun 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Presentation: From Hype to Strong Foundations: What the Rise, Fall and Resurgence of Agents Can Teach Us About Outlasting the Cycle",
+          "link": "https://www.infoq.com/presentations/llm-compound-ai-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Aditya Kumarakrishnan explains how to move past the \"amnesia phase\" of AI. He shares a blueprint for engineering leaders to build modular agent frameworks using CoALA, leverage decades of process science for scalable workflows, and \"terraform\" legacy environments into robust, event-sourced artifacts capable of handling unpredictable, cross-functional agent demands. By Aditya Kumarakrishnan",
+          "published": "Wed, 17 Jun 2026 11:04:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Weg von Big Tech: Deutschland und Frankreich beschließen Souveränitäts-Plan",
+          "link": "https://www.heise.de/news/Weg-von-Big-Tech-Deutschland-und-Frankreich-beschliessen-Souveraenitaets-Plan-11336262.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mit einer neuen Definition und in sechs Kernbereichen nebst Kriterien treiben Deutschland und Frankreich Europas digitale Unabhängigkeit konkret voran.",
+          "published": "2026-06-17T18:54:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Meta-Partner EssilorLuxottica stärkt Eigenständigkeit mit neuer Partnerschaft",
+          "link": "https://www.heise.de/news/Meta-Partner-EssilorLuxottica-stellt-Weichen-fuer-eigene-AR-Brille-11336174.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "EssilorLuxottica stellt mit Meta erfolgreich Smart Glasses her. Mit einer neuen Partnerschaft stärkt es seine technologische Eigenständigkeit.",
+          "published": "2026-06-17T18:05:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Cloud-Architektur zeigen, dass AWS mit neuen mobilen Anwendungen und KI-gestützten Lösungen die Softwareentwicklung optimiert. Gleichzeitig arbeiten Deutschland und Frankreich an einem Souveränitäts-Plan zur digitalen Unabhängigkeit von Big Tech.",
+      "highlights": [
+        "AWS hat eine iOS-App für Kiro eingeführt, um Entwicklern mobile Überwachungsmöglichkeiten zu bieten.",
+        "Ein KI-gestützter 'Bouncer' soll den Merge-Prozess in der Softwareentwicklung sicherer gestalten.",
+        "Deutschland und Frankreich verfolgen mit einem neuen Plan die digitale Souveränität in Europa."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Eclipse IDE 2026-06: Java 26, Statement-Level-Stepping und Auto-Fetch",
+          "link": "https://www.heise.de/news/Eclipse-IDE-2026-06-Java-26-Statement-Level-Stepping-und-Auto-Fetch-11330749.html",
+          "summary": "Das Quartals-Release bringt unter anderem Unterstützung für Java 26, Statement-Level-Stepping beim Java-Debuggen und Auto-Fetch bei der Versionierung mit Git.",
+          "published": "2026-06-15T07:50:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Eclipse IDE hat ihr Quartals-Release 2026-06 veröffentlicht, das Unterstützung für Java 26 bietet. Zudem wurden neue Funktionen wie Statement-Level-Stepping beim Debuggen und Auto-Fetch für Git-Versionierung integriert.",
+      "highlights": [
+        "Unterstützung für Java 26 implementiert.",
+        "Einführung von Statement-Level-Stepping beim Debuggen.",
+        "Auto-Fetch-Funktion für Git-Versionierung hinzugefügt."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Athena Coalition Brings Coordinated Defence to Open Source Security",
+          "link": "https://www.infoq.com/news/2026/06/athena-security-coalition/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cybersecurity firm Chainguard has announced the launch of Athena, an industry coalition to use artificial intelligence to find and fix vulnerabilities in widely-used open-source software before attackers can exploit them. The coalition focuses on libraries, containers and other components that underpin web browsers, data centres, smartphones and payment systems. By Matt Saunders",
+          "published": "Thu, 18 Jun 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "NIS2-Mahnung: BSI setzt neue Frist zur Registrierung bis Ende Juli",
+          "link": "https://www.heise.de/news/NIS2-Mahnung-BSI-setzt-neue-Frist-zur-Registrierung-bis-Ende-Juli-11336134.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Registrierungszahlen zum IT-Sicherheitsgesetz enttäuschen. Das BSI mahnt Firmen, NIS2-Vorgaben einzuhalten, und gibt eine neue Deadline vor.",
+          "published": "2026-06-17T17:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anzeige: Schwachstellenmanagement und Patchmanagement praxisnah umsetzen",
+          "link": "https://www.golem.de/news/anzeige-schwachstellenmanagement-und-patchmanagement-praxisnah-umsetzen-2606-209585.html",
+          "summary": "Schwachstellenmanagement erfordert belastbare Priorisierung statt CVSS-Autopilot. Ein Live-Online-Workshop vermittelt Methoden, um Risiken einzuordnen und Maßnahmen abzuleiten. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-06-17T18:45:06+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "HGÜ: 2-Gigawatt-Konverter kommt aus Rostock",
+          "link": "https://www.golem.de/news/hgue-2-gigawatt-konverter-kommt-aus-rostock-2606-209882.html",
+          "summary": "Erstmals kommt die Technik für leistungsstarke Offshore-Konverterplattformen vorwiegend aus Deutschland. Sie bringt den Strom vom Meer an Land. ( Windpark , Siemens )",
+          "published": "2026-06-17T15:58:07+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Jährliche Treffen seit 2006: Datenleck gibt Einblick in Peter-Thiel-Netzwerk",
+          "link": "https://www.golem.de/news/jaehrliche-treffen-seit-2006-datenleck-gibt-einblick-in-peter-thiel-netzwerk-2606-209881.html",
+          "summary": "Ein Datenleck zeigt, wie einflussreiche US-Politiker, ausländische Regierungsvertreter und Tech-Führungskräfte zusammenkommen. ( Datenleck , Paypal )",
+          "published": "2026-06-17T15:33:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die IT-Sicherheit steht im Fokus aktueller Entwicklungen, insbesondere durch die Gründung der Athena Coalition, die KI zur Identifizierung von Schwachstellen in Open-Source-Software nutzt. Zudem mahnt das BSI Unternehmen zur Einhaltung der NIS2-Vorgaben und bietet praxisnahe Workshops zum Schwachstellenmanagement an.",
+      "highlights": [
+        "Athena Coalition zielt darauf ab, Schwachstellen in Open-Source-Software proaktiv zu beheben.",
+        "Das BSI setzt eine neue Frist zur Registrierung gemäß NIS2 bis Ende Juli.",
+        "Ein Workshop vermittelt Methoden zur effektiven Priorisierung im Schwachstellenmanagement."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "heise-Angebot: Mastering GitOps 2026: Letzte Chance auf Tickets für die Konferenz am 25. Juni",
+          "link": "https://www.heise.de/news/Mastering-GitOps-2026-Letzte-Chance-auf-Tickets-fuer-die-Konferenz-am-25-Juni-11333731.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "GitOps-Know-how aus der Praxis für die Praxis steht im Fokus der Online-Konferenz am 25. Juni 2026. Jetzt noch Tickets sichern.",
+          "published": "2026-06-18T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Künstliche Intelligenz: Nvidia-KI trainiert Roboter autonom im Labor",
+          "link": "https://www.golem.de/news/kuenstliche-intelligenz-nvidia-ki-trainiert-roboter-autonom-im-labor-2606-209906.html",
+          "summary": "Das Software-Framework Enpire lässt Teams aus KI-Codierungsagenten autonome Trainingsregimen für Roboter entwickeln. ( Roboter , Nvidia )",
+          "published": "2026-06-18T09:13:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die DevOps-Community bereitet sich auf die Online-Konferenz 'Mastering GitOps 2026' am 25. Juni vor, die praxisnahe Einblicke in GitOps bietet. Gleichzeitig entwickelt Nvidia mit dem Software-Framework Enpire KI-gesteuerte Trainingsregime für Roboter, um deren Autonomie zu fördern.",
+      "highlights": [
+        "Online-Konferenz 'Mastering GitOps 2026' am 25. Juni 2026.",
+        "Nvidia's Enpire ermöglicht KI-gestützte autonome Roboterschulungen.",
+        "Fokus auf praxisnahe Anwendungen in DevOps und Robotik."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Google, Microsoft, and OpenAI join forces to help create AI’s missing trust layer",
+          "link": "https://thenewstack.io/google-microsoft-and-openai-join-forces-to-help-create-ais-missing-trust-layer/",
+          "summary": "The Linux Foundation has long transcended its roots as a steward of the Linux kernel, emerging as a &#8220;foundation of The post Google, Microsoft, and OpenAI join forces to help create AI&#8217;s missing trust layer appeared first on The New Stack .",
+          "published": "Wed, 17 Jun 2026 13:27:38 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
+          "link": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
+          "summary": "What you need to know about the expiration of keys securing your machine's boot sequence.",
+          "published": "Wed, 17 Jun 2026 11:15:17 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "heise+ | Fünf smarte Waagen im Test: Vom Basisgerät bis zur Luxuswaage",
+          "link": "https://www.heise.de/tests/Fuenf-smarte-Waagen-im-Test-Vom-Basisgeraet-bis-zur-Luxuswaage-11208354.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Mehr als Kilozählen: Fünf smarte Waagen zeigen im Test, was ihre Körperanalyse wirklich leistet – vom Spargerät bis zur Luxuswaage mit Handsensoren.",
+          "published": "2026-06-18T09:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | Gamingmäuse unter Linux einstellen",
+          "link": "https://www.heise.de/ratgeber/Gamingmaeuse-unter-Linux-einstellen-11274038.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Beim Einstellen von Auflösung und Polling-Rate vieler Gamingmäuse sowie bei der Tastenbeleuchtung helfen Linux-Tools – ohne Bloatware und Cloudzwang.",
+          "published": "2026-06-17T17:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux 7.1 mit neuem NTFS und FRED erschienen",
+          "link": "https://www.heise.de/news/Linux-7-1-mit-neuem-NTFS-und-FRED-erschienen-11333467.html",
+          "summary": "Der neue Kernel Linux 7.1 bringt einen modernen NTFS-Treiber und aktiviert Intels FRED standardmäßig. Zudem erregt der KI-Einsatz bei der Entwicklung Aufsehen.",
+          "published": "2026-06-16T06:48:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Zusammenarbeit von Google, Microsoft und OpenAI zielt darauf ab, eine vertrauenswürdige Schicht für KI zu schaffen. Dies geschieht im Rahmen der Linux Foundation, die sich über ihre Ursprünge hinaus entwickelt hat. Zudem bringt der neue Linux-Kernel 7.1 Verbesserungen im NTFS-Treiber und aktiviert Intels FRED standardmäßig.",
+      "highlights": [
+        "Google, Microsoft und OpenAI arbeiten zusammen an einer vertrauenswürdigen KI-Infrastruktur.",
+        "Linux 7.1 führt einen modernen NTFS-Treiber ein und aktiviert FRED standardmäßig.",
+        "Die Linux Foundation hat ihre Rolle über die Pflege des Linux-Kernels hinaus erweitert."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Aufgaben in ChatGPT vorplanen: Was jetzt mit dem Chatbot möglich ist",
+          "link": "https://t3n.de/news/aufgaben-in-chatgpt-vorplanen-was-jetzt-mit-dem-chatbot-moeglich-ist-1748157/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "ChatGPT kann künftig wiederkehrende Aufgaben für User:innen erledigen. Dafür hat OpenAI jetzt eine Funktion eingeführt, mit der sich solche Tasks planen lassen. Warum dadurch aber auch eine Funktion des Chatbots verschwindet. weiterlesen auf t3n.de",
+          "published": "Thu, 18 Jun 2026 09:30:14 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Microsoft Scout, New  Enterprise Autopilot Built on OpenClaw, Announced at Build 2026",
+          "link": "https://www.infoq.com/news/2026/06/microsoft-scout-openclaw-build/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft recently introduced at Build 2026 Microsoft Scout, an always-on agent. Scout belongs to a new category of agents Microsoft called Autopilots: always-on agents that work autonomously on a user’s behalf with their own identity, without needing to be prompted each time. Microsoft Scout integrates with Work IQ and is based on the open-source agent framework OpenClaw. By Bruno Couriol",
+          "published": "Thu, 18 Jun 2026 05:26:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Kontrolle: Estland will jedem KI-Agenten eine eigene ID-Nummer zuweisen",
+          "link": "https://t3n.de/news/estland-ki-agenten-id-nummer-1748139/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Estland könnte das erste Land der Welt werden, in dem KI-Agenten eigene ID-Nummern erhalten sollen. Das hat der Premierminister des Landes angekündigt. Estland gilt als Vorreiter bei der Digitalisierung, fast alle Einwohner:innen nutzen E-IDs. weiterlesen auf t3n.de",
+          "published": "Wed, 17 Jun 2026 22:48:25 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+          "link": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+          "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents.",
+          "published": "Wed, 17 Jun 2026 19:25:19 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Vercel launches eve, an open-source framework that treats agents as directories",
+          "link": "https://thenewstack.io/vercel-launches-eve-an-open-source-framework-that-treats-agents-as-directories/",
+          "summary": "Vercel on Wednesday launched&#160;eve, a new open-source framework for building AI agents that treats each agent as a directory of The post Vercel launches eve, an open-source framework that treats agents as directories appeared first on The New Stack .",
+          "published": "Wed, 17 Jun 2026 16:59:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Die Entwicklungen im Bereich generative KI und LLMs zeigen Fortschritte in der Automatisierung und Identifikation von KI-Agenten. OpenAI führt neue Funktionen in ChatGPT ein, während Estland plant, KI-Agenten eigene ID-Nummern zuzuweisen.",
+      "highlights": [
+        "OpenAI ermöglicht in ChatGPT die Planung wiederkehrender Aufgaben.",
+        "Estland plant als erstes Land, KI-Agenten eigene ID-Nummern zuzuweisen.",
+        "Microsoft stellt mit Scout einen autonomen Agenten vor, der ohne Aufforderung arbeitet."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Neuer Regulierungsärger für Apple: Italien leitet DMA-Untersuchung ein",
+          "link": "https://www.heise.de/news/Neuer-Regulierungsaerger-fuer-Apple-Italien-leitet-DMA-Untersuchung-ein-11336120.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die italienische Wettbewerbsbehörde AGCM prüft, ob Apple mit der iCloud alternative Cloudanbieter auf iPhone und iPad benachteiligt und gegen den DMA verstößt.",
+          "published": "2026-06-17T17:58:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "KI-Verordnung: Europaparlament verbietet Nacktbildgeneratoren",
+          "link": "https://www.golem.de/news/ki-verordnung-europaparlament-verbietet-nacktbildgeneratoren-2606-209894.html",
+          "summary": "Die Europaabgeordneten haben Änderungen an der KI-Verordnung zugestimmt. Das betrifft auch Umsetzungsfristen für riskante KI-Anwendungen. ( AI Act , KI )",
+          "published": "2026-06-17T17:51:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die EU-Technologieregulierung nimmt Fahrt auf: Italien untersucht Apple wegen möglicher Verstöße gegen den Digital Markets Act (DMA) und das Europaparlament hat Änderungen an der KI-Verordnung beschlossen, die Nacktbildgeneratoren verbieten.",
+      "highlights": [
+        "Italienische Wettbewerbsbehörde AGCM prüft Apple wegen möglicher Benachteiligung alternativer Cloudanbieter.",
+        "Änderungen an der KI-Verordnung betreffen Umsetzungsfristen für riskante KI-Anwendungen.",
+        "Verbot von Nacktbildgeneratoren durch das Europaparlament im Rahmen der neuen KI-Regulierung."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11328464.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu VS Code, Grafana Tempo, Zig, Stack Overflow, Testwell, Apache Pulsar, GitLab und Qt.",
+          "published": "2026-06-13T07:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die heise developer News berichten über verschiedene kleinere Entwicklungen in der Software-Entwicklung, darunter Updates zu VS Code und Grafana Tempo. Diese Meldungen bieten einen Überblick über aktuelle Trends und Tools in der Entwickler-Community.",
+      "highlights": [
+        "VS Code erhält neue Funktionen zur Verbesserung der Benutzererfahrung.",
+        "Grafana Tempo wird aktualisiert, um die Observability von Microservices zu optimieren.",
+        "Stack Overflow führt neue Features ein, um die Interaktion zwischen Entwicklern zu fördern."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Preiserhöhungen laut Tim Cook &quot;unvermeidbar&quot;: Worauf sich Apple-Fans einstellen müssen",
+          "link": "https://t3n.de/news/apple-preiserhoehungen-tim-cook-unvermeidbar-iphone-apple-fans-1748191/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit Blick auf die anhaltende Knappheit von Chips haben Unternehmen wie Nintendo und Sony bereits Preiserhöhungen für ihre Geräte angekündigt oder umgesetzt. Auch das nächste iPhone könnte teurer werden. Darüber sprach CEO Tim Cook in einem Interview. weiterlesen auf t3n.de",
+          "published": "Thu, 18 Jun 2026 11:00:45 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Bewerbung mit KI: Was Arbeitgeber sehen möchten – und was sie abschreckt",
+          "link": "https://t3n.de/news/bewerbung-mit-ki-was-arbeitgeber-sehen-moechten-1747190/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Inzwischen schreiben ein Großteil der Bewerber ihre Bewerbungen mit Künstlicher Intelligenz. Die Gefahr steigt, in der Masse unterzugehen. Doch Studien zeigen weiterlesen auf t3n.de",
+          "published": "Thu, 18 Jun 2026 10:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Android 17: Update bringt WLAN-Probleme mit sich – so behebst du sie",
+          "link": "https://t3n.de/news/android-17-update-bringt-wlan-probleme-mit-sich-so-behebst-du-sie-1748171/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Android 17 bereitet einigen User:innen Probleme. Die WLAN-Verbindung lässt sich nicht in allen Anwendungen reibungslos nutzen. Ein Workaround soll Abhilfe schaffen, bis Google den Fehler behebt. weiterlesen auf t3n.de",
+          "published": "Thu, 18 Jun 2026 10:30:44 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Xiaomi 17T Pro ausprobiert: Dieses Android-Smartphone kann etwas, das dem iPhone in der EU fehlt",
+          "link": "https://t3n.de/news/xiaomi-17t-pro-macbook-mirroring-test-1748058/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mac und iPhone sollen im besten Fall nahtlos zusammenarbeiten. In der EU sind einige der entsprechenden Features allerdings nicht verfügbar. Ein Android-Hersteller liefert sie nach. Aber wie gut funktioniert das? Wir haben es mit dem Xiaomi 17T Pro ausprobiert. weiterlesen auf t3n.de",
+          "published": "Thu, 18 Jun 2026 10:00:27 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Online-Shopping:  Ab jetzt muss der Widerruf genauso einfach sein wie der Kauf",
+          "link": "https://t3n.de/news/online-shopping-ab-jetzt-muss-der-widerruf-genauso-einfach-sein-wie-der-kauf-1748163/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit einem neuen Gesetz müssen Online-Shops ab sofort einen gut sichtbaren Widerrufsbutton anbieten. Was das für Verbraucher und Händler bedeutet – und welche Bedenken die Branche hat. weiterlesen auf t3n.de",
+          "published": "Thu, 18 Jun 2026 09:00:46 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Software Supply Chain steht im Fokus, da Unternehmen wie Apple aufgrund von Chipknappheit Preiserhöhungen ankündigen. Gleichzeitig beeinflussen neue gesetzliche Vorgaben das Online-Shopping und die Nutzung von KI in Bewerbungen.",
+      "highlights": [
+        "Apple CEO Tim Cook bezeichnet Preiserhöhungen als 'unvermeidbar' aufgrund von Chipmangel.",
+        "Online-Shops müssen ab sofort einen gut sichtbaren Widerrufsbutton anbieten.",
+        "Ein Großteil der Bewerbungen wird mittlerweile mit Künstlicher Intelligenz erstellt."
+      ]
+    }
+  ]
+}
