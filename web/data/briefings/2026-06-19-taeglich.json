@@ -1,0 +1,390 @@
+{
+  "date": "2026-06-19",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Databricks: Lakehouse//RT soll separate Echtzeitdatenbanken überflüssig machen",
+          "link": "https://www.heise.de/news/Databricks-Lakehouse-RT-soll-separate-Echtzeitdatenbanken-ueberfluessig-machen-11336849.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Databricks bringt mit Lakehouse//RT eine Echtzeitanalyse-Engine für Delta-Lake- und Apache-Iceberg-Tabellen, um spezialisierte Echtzeitdatenbanken zu ersetzen.",
+          "published": "2026-06-19T08:47:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Databricks: Lakehouse//RT soll separate Echtzeitdatenbanken überflüssig machen",
+          "link": "https://www.heise.de/news/Databricks-Lakehouse-RT-soll-separate-Echtzeitdatenbanken-ueberfluessig-machen-11336849.html",
+          "summary": "Databricks bringt mit Lakehouse//RT eine Echtzeitanalyse-Engine für Delta-Lake- und Apache-Iceberg-Tabellen, um spezialisierte Echtzeitdatenbanken zu ersetzen.",
+          "published": "2026-06-19T06:47:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Databricks Genie One: KI-Agent soll Antworten aus Unternehmensdaten ableiten",
+          "link": "https://www.heise.de/news/Databricks-Genie-One-KI-Agent-soll-Antworten-aus-Unternehmensdaten-ableiten-11336737.html",
+          "summary": "Databricks ergänzt seine KI-Plattform um den KI-Agenten Genie One, der dank der neuen Kontextschicht Ontology Unternehmensdaten nutzbar machen soll.",
+          "published": "2026-06-18T09:40:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Meta-Harness für KI-Agenten: Databricks veröffentlicht Omnigent als Open Source",
+          "link": "https://www.heise.de/news/Meta-Harness-fuer-KI-Agenten-Databricks-veroeffentlicht-Omnigent-als-Open-Source-11334159.html",
+          "summary": "Der Meta-Harness Omnigent vereint KI-Agenten wie Claude Code und Codex unter einer gemeinsamen Policy- und Kollaborationsschicht – unter Apache-2.0-Lizenz.",
+          "published": "2026-06-17T09:34:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Databricks hat mit Lakehouse//RT eine Echtzeitanalyse-Engine vorgestellt, die spezialisierte Echtzeitdatenbanken überflüssig machen soll. Zudem wurde der KI-Agent Genie One eingeführt, der Unternehmensdaten durch eine neue Kontextschicht nutzbar macht. Das Open-Source-Projekt Omnigent vereint verschiedene KI-Agenten unter einer gemeinsamen Policy- und Kollaborationsschicht.",
+      "highlights": [
+        "Lakehouse//RT ersetzt spezialisierte Echtzeitdatenbanken für Delta-Lake- und Apache-Iceberg-Tabellen.",
+        "Genie One nutzt eine neue Kontextschicht, um Unternehmensdaten effizient zu analysieren.",
+        "Omnigent vereint KI-Agenten wie Claude Code und Codex unter einer Apache-2.0-Lizenz."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Azure Functions Ships Serverless Agents Runtime at Build 2026",
+          "link": "https://www.infoq.com/news/2026/06/azure-functions-serverless-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Azure Functions shipped a serverless agents runtime in public preview at Build 2026. Agents are defined in .agent.md markdown files with YAML triggers, MCP server access, 1,400+ connectors, and sandboxed execution. The Functions team confirmed to InfoQ that the runtime adds no cold start overhead and no billing premium beyond standard Flex Consumption. By Steef-Jan Wiggers",
+          "published": "Fri, 19 Jun 2026 08:57:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Smarte Trinkflaschen: So vergisst du nie wieder, genug zu trinken",
+          "link": "https://t3n.de/news/smarte-trinkflaschen-so-vergisst-du-nie-wieder-genug-zu-trinken-1748318/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Zwischen To-Dos und Terminen verliert man seinen täglichen Flüssigkeitsbedarf schnell aus den Augen. Smarte Flaschen können mit optischen Signalen und App-Benachrichtigungen gezielt gegensteuern. weiterlesen auf t3n.de",
+          "published": "Fri, 19 Jun 2026 08:30:15 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: Write-Ahead Intent Log: A Foundation for Efficient CDC at Scale",
+          "link": "https://www.infoq.com/presentations/write-ahead-intent-log/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Vinay Chella and Akshat Goel discuss the challenges of running traditional CDC across heterogeneous databases during peak order traffic. They explain how Debezium hit limits under high load and share how they built Write-Ahead Intent Log (WAIL) - a custom architecture that utilizes a dumb producer proxy and a smart consumer pattern to cleanly separate the intent from the state payload. By Vinay Chella, Akshat Goel",
+          "published": "Thu, 18 Jun 2026 13:13:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Google Cloud: Souveräne Cloud in Deutschland bis Ende 2026",
+          "link": "https://www.heise.de/news/Google-Cloud-Souveraene-Cloud-in-Deutschland-bis-Ende-2026-11338334.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Google Cloud hat den Zeitplan für seine souveräne Cloud in Deutschland vorgestellt. Thales betreibt die Plattform, die bis Ende 2026 verfügbar sein soll.",
+          "published": "2026-06-19T11:01:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Firmen unterschätzen ihre KI-Abhängigkeiten massiv",
+          "link": "https://www.heise.de/news/Firmen-unterschaetzen-ihre-KI-Abhaengigkeiten-massiv-11337683.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine IBM-Studie zeigt: Viele deutsche Unternehmen sprechen über KI-Souveränität, kennen aber ihre Abhängigkeiten kaum.",
+          "published": "2026-06-19T09:17:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Cloud-Architektur entwickelt sich rasant weiter, mit neuen Angeboten wie der serverlosen Agenten-Runtime von Azure und der geplanten souveränen Cloud von Google in Deutschland bis Ende 2026. Unternehmen müssen sich jedoch auch ihrer Abhängigkeiten von KI bewusst werden, wie eine aktuelle Studie zeigt.",
+      "highlights": [
+        "Azure Functions bietet eine serverlose Agenten-Runtime in der öffentlichen Vorschau mit über 1.400 Konnektoren.",
+        "Google Cloud plant die Einführung einer souveränen Cloud in Deutschland bis Ende 2026, betrieben von Thales.",
+        "Eine IBM-Studie zeigt, dass viele deutsche Unternehmen ihre Abhängigkeiten von KI nicht ausreichend verstehen."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Ky 2.0 Fetch API Wrapper with Revamped Hooks, Smarter Timeouts, and Built-In Schema Validation",
+          "link": "https://www.infoq.com/news/2026/06/ky-2-revamp-axios/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Ky 2.0 is an open-source JavaScript HTTP client built on the Fetch API, featuring significant updates such as consolidated hook handling, enhanced timeout management, and improved URL processing. The release includes response validation through schema validation libraries and addresses migration from earlier versions. It aims to provide a lightweight alternative to axios. By Daniel Curtis",
+          "published": "Thu, 18 Jun 2026 11:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Eclipse IDE 2026-06: Java 26, Statement-Level-Stepping und Auto-Fetch",
+          "link": "https://www.heise.de/news/Eclipse-IDE-2026-06-Java-26-Statement-Level-Stepping-und-Auto-Fetch-11330749.html",
+          "summary": "Das Quartals-Release bringt unter anderem Unterstützung für Java 26, Statement-Level-Stepping beim Java-Debuggen und Auto-Fetch bei der Versionierung mit Git.",
+          "published": "2026-06-15T07:50:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Software-Architektur umfassen die Veröffentlichung von Ky 2.0, einem HTTP-Client für JavaScript mit neuen Funktionen, und das Quartals-Release der Eclipse IDE 2026-06, das Unterstützung für Java 26 bietet.",
+      "highlights": [
+        "Ky 2.0 bietet verbesserte Hook-Verwaltung und Schema-Validierung.",
+        "Eclipse IDE 2026-06 unterstützt Java 26 und ermöglicht Statement-Level-Stepping.",
+        "Das Update beinhaltet auch Auto-Fetch für die Git-Versionierung."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "2.300 Cyberangriffe auf Urlauber in nur einer Woche: So schützen sich Reisende vor der Gefahr",
+          "link": "https://t3n.de/news/2300-cyberangriffe-auf-urlauber-so-schuetzen-sich-reisende-1748237/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Sommer bringt die Urlaubssaison mit sich – und ruft damit auch zahlreiche Cyberkriminelle auf den Plan. Sie wollen dich mit Phishing-Angeboten in die Falle locken. Was du dazu wissen musst, um dich zu schützen. weiterlesen auf t3n.de",
+          "published": "Thu, 18 Jun 2026 17:30:05 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Athena Coalition Brings Coordinated Defence to Open Source Security",
+          "link": "https://www.infoq.com/news/2026/06/athena-security-coalition/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cybersecurity firm Chainguard has announced the launch of Athena, an industry coalition to use artificial intelligence to find and fix vulnerabilities in widely-used open-source software before attackers can exploit them. The coalition focuses on libraries, containers and other components that underpin web browsers, data centres, smartphones and payment systems. By Matt Saunders",
+          "published": "Thu, 18 Jun 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Anzeige: KI-gestütztes Pentesting und Reporting in zwei Tagen",
+          "link": "https://www.golem.de/news/anzeige-ki-gestuetztes-pentesting-und-reporting-in-zwei-tagen-2606-209637.html",
+          "summary": "KI in der IT-Sicherheit verändert Pentesting und Schwachstellenanalysen. Ein Online-Workshop zeigt Vorgehen, Grenzen und praxisnahe Testszenarien bis zum Reporting. ( Golem Karrierewelt , Unternehmenssoftware )",
+          "published": "2026-06-18T18:45:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die IT-Sicherheit steht im Fokus, insbesondere mit der Zunahme von Cyberangriffen auf Urlauber und der Einführung der Athena Coalition zur Verbesserung der Sicherheit in Open-Source-Software. KI-gestützte Lösungen revolutionieren zudem das Pentesting und die Schwachstellenanalyse.",
+      "highlights": [
+        "2.300 Cyberangriffe auf Urlauber innerhalb einer Woche identifiziert.",
+        "Athena Coalition nutzt KI zur frühzeitigen Erkennung von Schwachstellen in Open-Source-Software.",
+        "Online-Workshop zeigt den Einsatz von KI im Pentesting in nur zwei Tagen."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Neuer EU-Aktionsplan: Frontex soll Schiffe und Flugzeuge in Ärmelkanal schicken",
+          "link": "https://netzpolitik.org/2026/neuer-eu-aktionsplan-frontex-soll-schiffe-und-flugzeuge-in-aermelkanal-schicken/",
+          "summary": "Immer wieder versuchen Geflüchtete, über den Ärmelkanal zu kommen. – Alle Rechte vorbehalten: IMAGO / NurPhoto Die EU-Kommission will verhindern, dass Migrant*innen nach Großbritannien ausreisen. Dazu gibt es auch diplomatischen Druck auf die Herkunftsländer.",
+          "published": "Fri, 19 Jun 2026 08:53:22 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Google Brazos: Wassergekühlte Server in Bestandsrechenzentren nutzen",
+          "link": "https://www.golem.de/news/google-brazos-wassergekuehlte-server-in-bestandsrechenzentren-nutzen-2606-209931.html",
+          "summary": "Grundsätzlich ist Brazos nur ein Wasser-Luft-Wärmetauscher. Das Design soll aber die Nutzung in bestehenden Rechenzentren besonders einfach machen. ( Kühlung , Google )",
+          "published": "2026-06-18T15:35:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die EU-Kommission plant Maßnahmen zur Eindämmung der Migration über den Ärmelkanal, einschließlich diplomatischem Druck auf Herkunftsländer. Google stellt mit Brazos eine neue Technologie vor, die wassergekühlte Server in bestehenden Rechenzentren effizient nutzt.",
+      "highlights": [
+        "EU-Kommission will Migration über den Ärmelkanal verhindern.",
+        "Frontex soll Schiffe und Flugzeuge einsetzen.",
+        "Google Brazos ermöglicht einfache Integration wassergekühlter Server in Bestandsrechenzentren."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Neuer Job als Head of IT (m/w/d) gesucht? Schau dir unsere Top Jobs an",
+          "link": "https://t3n.de/news/unsere-jobs-der-woche-1175973/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hier findest du unsere besten Jobs aus den Bereichen Technik &amp; Entwicklung, Marketing, PR &amp; Kommunikation, Projektmanagement &amp; Produktmanagement, Design &amp; UX, Content &amp; Redaktion und Business Development. weiterlesen auf t3n.de",
+          "published": "Thu, 18 Jun 2026 15:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Linux 7.1 mit neuem NTFS und FRED erschienen",
+          "link": "https://www.heise.de/news/Linux-7-1-mit-neuem-NTFS-und-FRED-erschienen-11333467.html",
+          "summary": "Der neue Kernel Linux 7.1 bringt einen modernen NTFS-Treiber und aktiviert Intels FRED standardmäßig. Zudem erregt der KI-Einsatz bei der Entwicklung Aufsehen.",
+          "published": "2026-06-16T06:48:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: BFSG und WCAG in Webprojekten umsetzen",
+          "link": "https://www.golem.de/news/anzeige-bfsg-und-wcag-in-webprojekten-umsetzen-2606-209713.html",
+          "summary": "Barrierefreiheit im Web verbindet Recht, Standards und Entwicklung. Ein Online-Workshop zeigt, wie BFSG, WCAG und Prüfprozesse umgesetzt werden. ( Golem Karrierewelt , Unternehmenssoftware )",
+          "published": "2026-06-19T07:15:10+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Anzeige: Barrierefreiheit im Web: BFSG, WCAG und Automatisierung",
+          "link": "https://www.golem.de/news/anzeige-barrierefreiheit-im-web-bfsg-wcag-und-automatisierung-2606-207403.html",
+          "summary": "Barrierefreiheit im Web wird durch BFSG und Standards wie WCAG/EN 301 549 zur Pflicht. Drei Online-Workshops zeigen Grundlagen, Umsetzung und Prüfungen. ( Golem Karrierewelt , Unternehmenssoftware )",
+          "published": "2026-06-19T07:15:09+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "This robotic self-driving toilet comes to you",
+          "link": "https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet",
+          "summary": "During a recent expo in Shanghai that focuses on elderly care, assistive devices, and rehabilitation medicine, a Chinese company called Yueban debuted a smart toilet that does something we haven't seen before; it comes to you. The autonomous self-driving Xiaoban toilet was designed to improve accessibility for those dealing with mobility issues due to age, [&#8230;]",
+          "published": "2026-06-18T14:08:17-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Agile Methoden und UX/UI sind entscheidend für die Entwicklung benutzerfreundlicher digitaler Produkte. Die Implementierung von Barrierefreiheit gemäß BFSG und WCAG wird zunehmend zur Pflicht in Webprojekten. Innovative Technologien, wie der neue Linux-Kernel, unterstützen diese Entwicklungen durch verbesserte Funktionalitäten.",
+      "highlights": [
+        "BFSG und WCAG sind gesetzliche Standards für Barrierefreiheit im Web.",
+        "Der neue Linux 7.1 Kernel bringt einen modernen NTFS-Treiber.",
+        "Online-Workshops bieten Schulungen zur Umsetzung von Barrierefreiheit in Webprojekten."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Windows Platform Security and the Race to Secure AI Agents",
+          "link": "https://www.infoq.com/news/2026/06/windows-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In a new Windows Developer Blog post titled \"Windows platform security for AI agents\", Microsoft positions Windows as the trustworthy operating system for autonomous agents and introduces the Microsoft Execution Containers (MXC) SDK as the core of that strategy. The post argues that containment, identity and manageability must be built into the operating system. By Matt Saunders",
+          "published": "Fri, 19 Jun 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "GitLab 19.0 Embeds Agentic AI in Secrets, Merge Requests, and Supply Chain Security",
+          "link": "https://www.infoq.com/news/2026/06/gitlab-19-agentic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "GitLab 19.0 extends agentic AI beyond code generation into securing credentials, reviewing and merging changes, and scanning dependencies, adding a public beta Secrets Manager, a full merge request Developer Flow, usage-based GitLab Duo billing, and generally available SBOM dependency scanning. By Mark Silvester",
+          "published": "Fri, 19 Jun 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Gusto Cofounder: An AI agent that runs payroll, HR, and benefits without waiting to be asked",
+          "link": "https://thenewstack.io/gusto-cofounder-small-business-ai/",
+          "summary": "Almost every startup or small business today has a wingperson, a principal working partner, or a co-founder.&#160; When it comes The post Gusto Cofounder: An AI agent that runs payroll, HR, and benefits without waiting to be asked appeared first on The New Stack .",
+          "published": "Thu, 18 Jun 2026 20:40:59 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "MCP gets its missing enterprise authorization layer",
+          "link": "https://thenewstack.io/mcp-gets-its-missing-enterprise-authorization-layer/",
+          "summary": "Every enterprise company is seemingly trying to adopt the&#160;Model Context Protocol (MCP)&#160;to connect its AI agents to tools. But so The post MCP gets its missing enterprise authorization layer appeared first on The New Stack .",
+          "published": "Thu, 18 Jun 2026 18:21:43 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "The database storage problem is solved. Here’s what comes next.",
+          "link": "https://thenewstack.io/postgres-data-movement-interoperability/",
+          "summary": "For most of its 30-year history, Postgres has been viewed as a transactional database. Organizations trust it with customer records, The post The database storage problem is solved. Here’s what comes next. appeared first on The New Stack .",
+          "published": "Thu, 18 Jun 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Die neuesten Entwicklungen im Bereich generative KI und LLMs zeigen, dass Unternehmen wie Microsoft und GitLab KI-Agenten in ihre Plattformen integrieren, um Sicherheit und Effizienz zu erhöhen. Zudem wird die Notwendigkeit einer autorisierten Verbindung zwischen KI-Agenten und Tools in Unternehmen thematisiert.",
+      "highlights": [
+        "Microsoft führt das Microsoft Execution Containers (MXC) SDK ein, um Windows als sicheres Betriebssystem für KI-Agenten zu positionieren.",
+        "GitLab 19.0 integriert agentic AI zur Sicherung von Anmeldeinformationen und zur Überprüfung von Änderungen in Merge-Requests.",
+        "Der Model Context Protocol (MCP) erhält eine autorisierte Schicht, um KI-Agenten in Unternehmen besser zu vernetzen."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Navigieren ohne GPS: So funktioniert es mit dem Magnetfeld der Erde",
+          "link": "https://t3n.de/news/navigieren-ohne-gps-so-funktioniert-es-mit-dem-magnetfeld-der-erde-1748347/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Satellitensignale für die Navigation sind störungsanfällig und in Innenräumen kommen sie selten an. Eine Alternative ist die Wegfindung mithilfe des Erdmagn weiterlesen auf t3n.de",
+          "published": "Fri, 19 Jun 2026 09:30:40 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise+ | Im Test: Nachrüst-Stromspeicher Anker Solix Solarbank AC Max",
+          "link": "https://www.heise.de/tests/Im-Test-Nachruest-Stromspeicher-Anker-Solix-Solarbank-AC-Max-11313336.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Batteriespeicher ist günstig wie nie und auch manche PV-Bestandsanlage könnte ein wenig mehr davon gebrauchen. Anker verspricht ein Update in fünf Minuten.",
+          "published": "2026-06-19T10:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Verbrenner statt Brennstoffzelle: Rekordfahrt mit Wasserstoff-Verbrennungsmotor geplant",
+          "link": "https://www.golem.de/news/verbrenner-statt-brennstoffzelle-rekordfahrt-mit-wasserstoff-verbrennungsmotor-geplant-2606-209930.html",
+          "summary": "Mit einem 1.600 PS starken, eigentlich für Bagger entworfenen Motor, der Wasserstoff direkt verbrennt, sollen Rekordmarken gebrochen werden. ( Wasserstoff , Mobil )",
+          "published": "2026-06-18T15:17:01+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die EU-Tech-Regulierung fokussiert sich auf innovative Technologien und deren Integration in bestehende Systeme. Dabei stehen alternative Navigationsmethoden, effiziente Energiespeicherlösungen und neue Antriebstechnologien im Vordergrund.",
+      "highlights": [
+        "Erdmagnetfeld als alternative Navigationsmethode zu GPS.",
+        "Anker Solix Solarbank AC Max verspricht schnelle Nachrüstung von Batteriespeichern.",
+        "Geplante Rekordfahrt mit einem 1.600 PS starken Wasserstoff-Verbrennungsmotor."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11328464.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu VS Code, Grafana Tempo, Zig, Stack Overflow, Testwell, Apache Pulsar, GitLab und Qt.",
+          "published": "2026-06-13T07:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Woche brachte mehrere interessante Entwicklungen in der Software-Entwicklung, darunter Updates zu VS Code und Grafana Tempo sowie Neuigkeiten von Stack Overflow und GitLab. Diese Meldungen bieten Einblicke in aktuelle Trends und Tools der Branche.",
+      "highlights": [
+        "VS Code erhält neue Funktionen zur Verbesserung der Entwicklerproduktivität.",
+        "Grafana Tempo wird aktualisiert, um die Observability von Microservices zu optimieren.",
+        "GitLab führt neue Features ein, die die Zusammenarbeit im Team erleichtern."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": ".NET 11 Preview 5: Brings File-Based App Improvements, New C# Features, and a Blazor Validation Wave",
+          "link": "https://www.infoq.com/news/2026/06/dotnet-11-preview-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has released the fifth preview of .NET 11, with updates across the SDK, C#, ASP.NET Core, .NET MAUI, and EF Core. Highlights include file-based app improvements, new C# closed classes and unions, a Blazor validation wave, a large MAUI reliability rollup, and SQL Server 2022 as the default EF Core compatibility level. By Almir Vuk",
+          "published": "Fri, 19 Jun 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Schufa vor Gericht: Ein überholter Streit – mit Folgen für die Zukunft der KI",
+          "link": "https://t3n.de/news/schufa-vor-gericht-ein-ueberholter-streit-mit-folgen-fuer-die-zukunft-der-ki-1748344/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Auf den ersten Blick wirkt der heutige Schufa-Prozess wie ein Streit über die Vergangenheit. Tatsächlich könnte das Verfahren aber festlegen, wie transparent KI- und Scoring-Systeme künftig gegenüber Verbraucher sein müssen. weiterlesen auf t3n.de",
+          "published": "Fri, 19 Jun 2026 08:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "NASA asks Northrop Grumman to stop working on lunar HALO module",
+          "link": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/",
+          "summary": "\"We are reassigning most affected employees across existing opportunities and programs.\"",
+          "published": "Thu, 18 Jun 2026 20:49:55 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "From Camera to Cloud: Netflix’s Scalable Media Processing Pipeline",
+          "link": "https://www.infoq.com/news/2026/06/netflix-camera-file-processing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Netflix has detailed a cloud-based system for scaling camera file processing across global film and TV workflows. The pipeline handles ingest, validation, metadata extraction, and media transformation at scale using FilmLight API and distributed compute. It standardizes workflows across editorial, VFX, and color pipelines, improving consistency and reducing manual handling across productions. By Leela Kumili",
+          "published": "Thu, 18 Jun 2026 14:36:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "iOS 27 kommt: Welches iPhone bekommt jetzt welche Funktionen?",
+          "link": "https://t3n.de/news/ios-27-iphone-funktionen-apple-intelligence-1748297/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein neues iPhone ist selten günstig. In den vergangenen Jahren hat es sich beim Erscheinen neuer Modelle deswegen gelohnt, einen Blick auf die Vorgänger zu werfen. Doch mit iOS 27 macht es Apple-Kund:innen unnötig schwer. Welches iPhone kann denn jetzt was? Ein Überblick. weiterlesen auf t3n.de",
+          "published": "Thu, 18 Jun 2026 16:30:40 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Software Supply Chain wird durch neue Entwicklungen in der Open-Source-Software und durch rechtliche Auseinandersetzungen um KI-Transparenz beeinflusst. Microsoft hat mit .NET 11 Preview 5 bedeutende Updates veröffentlicht, während der Schufa-Prozess potenzielle Auswirkungen auf zukünftige KI-Scoring-Systeme hat.",
+      "highlights": [
+        ".NET 11 Preview 5 bringt Verbesserungen für dateibasierte Apps und neue C#-Funktionen.",
+        "Der Schufa-Prozess könnte die Transparenzanforderungen für KI- und Scoring-Systeme festlegen.",
+        "Netflix hat eine cloudbasierte Pipeline für die Verarbeitung von Kameradateien vorgestellt, die globale Film- und TV-Workflows standardisiert."
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "CO2-Filter für das Meerwasser: Neue Pilotanlage soll auf dem Weg zur Klimaneutralität helfen",
+          "link": "https://t3n.de/news/co2-filter-fuer-das-meerwasser-neue-pilotanlage-soll-auf-dem-weg-zur-klimaneutralitaet-helfen-1748295/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine neue Pilotanlage soll künftig CO2 aus dem Meer herausfiltern. Die Projektpartner sehen das als einen zusätzlichen Weg zur Klima-Neutralität. Obwohl mehr weiterlesen auf t3n.de",
+          "published": "Thu, 18 Jun 2026 15:45:54 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Eine neue Pilotanlage zur CO2-Filterung aus Meerwasser wurde vorgestellt, um zur Klimaneutralität beizutragen. Die Projektpartner betrachten diese Technologie als zusätzlichen Ansatz zur Bekämpfung des Klimawandels.",
+      "highlights": [
+        "Pilotanlage zur CO2-Filterung aus Meerwasser",
+        "Ziel: Unterstützung der Klimaneutralität",
+        "Zusätzlicher Ansatz zur Bekämpfung des Klimawandels"
+      ]
+    }
+  ]
+}
