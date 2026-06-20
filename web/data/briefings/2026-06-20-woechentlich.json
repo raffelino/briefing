@@ -1,0 +1,466 @@
+{
+  "date": "2026-06-20",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "“A data lake of nuance for AI agents to swim in”: AWS Context gets shipshape on reasoning",
+          "link": "https://thenewstack.io/aws-context-knowledge-graph-agents/",
+          "summary": "AI consumes a lot of data, but all-you-can-eat data in the world of agentic intelligence eventually loses its flavor. Simply The post “A data lake of nuance for AI agents to swim in”: AWS Context gets shipshape on reasoning appeared first on The New Stack .",
+          "published": "Wed, 17 Jun 2026 18:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Databricks wants to merge the two databases every company runs",
+          "link": "https://thenewstack.io/databricks-is-rebuilding-the-data-stack-for-ai-agents/",
+          "summary": "Databricks wants to erase the divide between the databases that run a business and the systems that analyze it. At The post Databricks wants to merge the two databases every company runs appeared first on The New Stack .",
+          "published": "Tue, 16 Jun 2026 21:30:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Databricks: Lakehouse//RT soll separate Echtzeitdatenbanken überflüssig machen",
+          "link": "https://www.heise.de/news/Databricks-Lakehouse-RT-soll-separate-Echtzeitdatenbanken-ueberfluessig-machen-11336849.html",
+          "summary": "Databricks bringt mit Lakehouse//RT eine Echtzeitanalyse-Engine für Delta-Lake- und Apache-Iceberg-Tabellen, um spezialisierte Echtzeitdatenbanken zu ersetzen.",
+          "published": "2026-06-19T06:47:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Databricks Genie One: KI-Agent soll Antworten aus Unternehmensdaten ableiten",
+          "link": "https://www.heise.de/news/Databricks-Genie-One-KI-Agent-soll-Antworten-aus-Unternehmensdaten-ableiten-11336737.html",
+          "summary": "Databricks ergänzt seine KI-Plattform um den KI-Agenten Genie One, der dank der neuen Kontextschicht Ontology Unternehmensdaten nutzbar machen soll.",
+          "published": "2026-06-18T09:40:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Meta-Harness für KI-Agenten: Databricks veröffentlicht Omnigent als Open Source",
+          "link": "https://www.heise.de/news/Meta-Harness-fuer-KI-Agenten-Databricks-veroeffentlicht-Omnigent-als-Open-Source-11334159.html",
+          "summary": "Der Meta-Harness Omnigent vereint KI-Agenten wie Claude Code und Codex unter einer gemeinsamen Policy- und Kollaborationsschicht – unter Apache-2.0-Lizenz.",
+          "published": "2026-06-17T09:34:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "(g+) Data Engineering: Wie man Daten zu einem Produkt veredelt",
+          "link": "https://www.golem.de/news/data-engineering-wie-man-daten-zu-einem-produkt-veredelt-2606-209962.html",
+          "summary": "Jeder weiß, was ein Produkt ist. Nur wenige wissen, wie man Daten dazu macht. Dabei bergen sie erhebliches Business-Potenzial. Wir zeigen, wie man es nutzt. Ein Ratgebertext von Mario Meir-Huber ( Daten mit Wert , API )",
+          "published": "2026-06-19T13:30:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In dieser Woche standen Entwicklungen im Bereich Datenintegration und KI im Fokus. Databricks kündigte mehrere Lösungen an, die darauf abzielen, die Trennung zwischen Datenbanken für Geschäftsbetrieb und Analyse zu überwinden. Zudem wurde ein neuer KI-Agent vorgestellt, der Unternehmensdaten effizienter nutzen soll. AWS präsentierte Verbesserungen für KI-Agenten, um deren Datenverarbeitung zu optimieren. Die Trends zeigen eine zunehmende Verschmelzung von Datenmanagement und KI-Technologien.",
+      "highlights": [
+        "Databricks führt Lakehouse//RT ein, um Echtzeitanalyse ohne separate Datenbanken zu ermöglichen.",
+        "Der KI-Agent Genie One von Databricks nutzt eine neue Kontextschicht zur Datenverwertung.",
+        "Meta-Harness Omnigent von Databricks wird als Open Source veröffentlicht und vereint verschiedene KI-Agenten.",
+        "AWS verbessert die Datenverarbeitung für KI-Agenten mit einem neuen Ansatz zur Kontextualisierung.",
+        "Golem.de bietet einen Ratgeber zur Veredelung von Daten zu Produkten mit hohem Geschäftswert."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Claude Fable 5 on Bedrock Requires Sharing Inference Data with Anthropic",
+          "link": "https://www.infoq.com/news/2026/06/bedrock-fable-5-data-sharing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Using Claude Fable 5 or Mythos 5 on Amazon Bedrock requires opting into provider_data_share, sending prompts and outputs to Anthropic for 30-day retention with human review. Previous Bedrock models kept inference data inside the AWS boundary. Three days after launch, Anthropic asked AWS to revoke access to both models citing US export control compliance. By Steef-Jan Wiggers",
+          "published": "Sat, 20 Jun 2026 09:03:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AWS Adds Multi-Region Replication to Amazon Cognito Identity Service",
+          "link": "https://www.infoq.com/news/2026/06/cognito-replication-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS recently introduced Amazon Cognito multi-region replication, which automatically replicates user identities and user pool configurations from a primary region to a secondary one. This enables applications to continue authenticating users from a replica region during outages, without requiring custom replication and failover mechanisms. By Renato Losio",
+          "published": "Sat, 20 Jun 2026 07:40:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Display selbst reparieren oder nicht? Fachwerkstätten warnen vor diesen Risiken",
+          "link": "https://t3n.de/news/display-selbst-reparieren-risiken-fachwerkstaetten-warnung-1743170/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Defekte Elektronik muss nicht im Müll landen. Fachgerechte Reparaturen schonen Ressourcen und sind oft günstiger als Neukauf. Eine Geräteversicherung macht Nachhaltigkeit bezahlbar und schützt vor hohen Kosten bei Displaybruch oder Wasserschaden. weiterlesen auf t3n.de",
+          "published": "Sat, 20 Jun 2026 09:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Azure Functions Ships Serverless Agents Runtime at Build 2026",
+          "link": "https://www.infoq.com/news/2026/06/azure-functions-serverless-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Azure Functions shipped a serverless agents runtime in public preview at Build 2026. Agents are defined in .agent.md markdown files with YAML triggers, MCP server access, 1,400+ connectors, and sandboxed execution. The Functions team confirmed to InfoQ that the runtime adds no cold start overhead and no billing premium beyond standard Flex Consumption. By Steef-Jan Wiggers",
+          "published": "Fri, 19 Jun 2026 08:57:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Presentation: Write-Ahead Intent Log: A Foundation for Efficient CDC at Scale",
+          "link": "https://www.infoq.com/presentations/write-ahead-intent-log/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Vinay Chella and Akshat Goel discuss the challenges of running traditional CDC across heterogeneous databases during peak order traffic. They explain how Debezium hit limits under high load and share how they built Write-Ahead Intent Log (WAIL) - a custom architecture that utilizes a dumb producer proxy and a smart consumer pattern to cleanly separate the intent from the state payload. By Vinay Chella, Akshat Goel",
+          "published": "Thu, 18 Jun 2026 13:13:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Kiro goes mobile: AWS brings agentic coding supervision to the iPhone",
+          "link": "https://thenewstack.io/aws-kiro-mobile-ios-agentic-coding/",
+          "summary": "AWS has launched a native iOS app for Kiro, its AI-powered development environment, giving developers a way to monitor, steer, The post Kiro goes mobile: AWS brings agentic coding supervision to the iPhone appeared first on The New Stack .",
+          "published": "Wed, 17 Jun 2026 17:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS puts an AI bouncer at the merge queue",
+          "link": "https://thenewstack.io/aws-devops-agent-ai-delivery-pipeline/",
+          "summary": "The bottleneck in software development has moved. &#160;Writing code is no longer the constraint. Getting it safely to production is. The post AWS puts an AI bouncer at the merge queue appeared first on The New Stack .",
+          "published": "Wed, 17 Jun 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Why did my AWS bill spike? There’s now an agent for that",
+          "link": "https://thenewstack.io/aws-finops-agent-ai/",
+          "summary": "Amazon Web Services has added a third specialized &#8220;frontier agent&#8221; to its growing portfolio of AI tools aimed at IT The post Why did my AWS bill spike? There&#8217;s now an agent for that appeared first on The New Stack .",
+          "published": "Tue, 16 Jun 2026 15:15:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "In dieser Woche standen Entwicklungen in der Cloud-Architektur und Plattformen im Fokus. Besonders hervorzuheben ist die Einführung neuer Funktionen bei AWS, die die Nutzererfahrung und Effizienz verbessern sollen. Zudem wird die Notwendigkeit von Datensicherheit und Compliance bei der Nutzung von KI-Modellen deutlich. Die Trends zeigen eine verstärkte Integration von KI in Entwicklungsprozesse und die Optimierung von Identitätsmanagement über mehrere Regionen hinweg.",
+      "highlights": [
+        "Claude Fable 5 erfordert das Teilen von Inferenzdaten mit Anthropic.",
+        "AWS führt Multi-Region Replication für Amazon Cognito ein.",
+        "Azure Functions hat eine serverlose Agenten-Runtime in der öffentlichen Vorschau veröffentlicht.",
+        "AWS hat eine iOS-App für Kiro, seine KI-Entwicklungsumgebung, eingeführt.",
+        "AWS hat einen 'frontier agent' zur Überwachung von Kosten in der Cloud hinzugefügt."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Behind the Scenes:  Block 450 JVM Repositories Into Monorepo to Reduce Dependency Drift",
+          "link": "https://www.infoq.com/news/2026/06/block-450-jvm-monorepo-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Block, Inc. describes migrating ~450 JVM repositories into a monorepo across Cash App and Square engineering to reduce dependency drift and coordination overhead. The system supports ~8,800 weekly builds with ~10 min p90 CI time. The approach improves cross-service changes, build visibility, and developer experience through dependency graph–based builds, selective CI, and custom IDE tooling. By Leela Kumili",
+          "published": "Fri, 19 Jun 2026 14:47:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Ky 2.0 Fetch API Wrapper with Revamped Hooks, Smarter Timeouts, and Built-In Schema Validation",
+          "link": "https://www.infoq.com/news/2026/06/ky-2-revamp-axios/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Ky 2.0 is an open-source JavaScript HTTP client built on the Fetch API, featuring significant updates such as consolidated hook handling, enhanced timeout management, and improved URL processing. The release includes response validation through schema validation libraries and addresses migration from earlier versions. It aims to provide a lightweight alternative to axios. By Daniel Curtis",
+          "published": "Thu, 18 Jun 2026 11:30:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "In dieser Woche standen bedeutende Entwicklungen in der Software-Architektur und Java im Fokus. Block, Inc. hat erfolgreich etwa 450 JVM-Repositories in ein Monorepo migriert, um Abhängigkeitsprobleme zu minimieren und die Entwicklererfahrung zu verbessern. Gleichzeitig wurde Ky 2.0 veröffentlicht, ein aktualisierter HTTP-Client für JavaScript, der neue Funktionen zur Handhabung von Hooks und zur Schema-Validierung bietet. Diese Trends verdeutlichen den fortlaufenden Bedarf an verbesserten Build-Prozessen und effizienteren Tools im Software-Entwicklungszyklus.",
+      "highlights": [
+        "Block, Inc. migriert ~450 JVM-Repositories in ein Monorepo.",
+        "Das System unterstützt ~8.800 wöchentliche Builds mit ~10 min p90 CI-Zeit.",
+        "Ky 2.0 bietet verbesserte Hook-Verwaltung und Timeout-Management.",
+        "Schema-Validierung wird jetzt in Ky 2.0 integriert.",
+        "Ky 2.0 zielt darauf ab, eine leichtere Alternative zu axios zu sein."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "F5 patcht außerplanmäßig kritische Nginx-Sicherheitslücken",
+          "link": "https://www.heise.de/news/F5-patcht-ausserplanmaessig-kritische-Nginx-Sicherheitsluecken-11338310.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Hersteller F5 bessert außer der Reihe in Nginx vier Schwachstellen aus, von denen zwei als kritisches Risiko gelten.",
+          "published": "2026-06-19T11:53:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anzeige: Zero Trust Security Framework für IT-Sicherheitsprogramme",
+          "link": "https://www.golem.de/news/anzeige-zero-trust-security-framework-fuer-it-sicherheitsprogramme-2606-208602.html",
+          "summary": "Zero Trust Security Framework wird zur Leitlinie moderner IT-Sicherheit. Entscheidend ist die Umsetzung in Architektur und Prozessen. Ein Online-Workshop vermittelt dafür das Vorgehen. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-06-19T18:45:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In der vergangenen Woche rückte die IT-Sicherheit erneut in den Fokus, insbesondere durch die außerplanmäßige Patch-Aktion von F5, die kritische Sicherheitslücken in Nginx schloss. Zwei der vier behobenen Schwachstellen wurden als besonders riskant eingestuft. Zudem gewinnt das Zero Trust Security Framework an Bedeutung, da es als Leitlinie für moderne IT-Sicherheitsstrategien dient. Die Implementierung dieses Ansatzes in Architektur und Prozessen ist entscheidend für den Schutz vor Bedrohungen.",
+      "highlights": [
+        "F5 schließt vier Sicherheitslücken in Nginx, zwei davon als kritisch eingestuft.",
+        "Zero Trust Security Framework wird zur zentralen Strategie für IT-Sicherheit.",
+        "Online-Workshop zur Umsetzung des Zero Trust Ansatzes angeboten.",
+        "Fokus auf Architektur und Prozesse zur Verbesserung der IT-Sicherheit.",
+        "Kritische Schwachstellen erfordern sofortige Maßnahmen zur Risikominderung."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Neuer EU-Aktionsplan: Frontex soll Schiffe und Flugzeuge in Ärmelkanal schicken",
+          "link": "https://netzpolitik.org/2026/neuer-eu-aktionsplan-frontex-soll-schiffe-und-flugzeuge-in-aermelkanal-schicken/",
+          "summary": "Immer wieder versuchen Geflüchtete, über den Ärmelkanal zu kommen. – Alle Rechte vorbehalten: IMAGO / NurPhoto Die EU-Kommission will verhindern, dass Migrant*innen nach Großbritannien ausreisen. Dazu gibt es auch diplomatischen Druck auf die Herkunftsländer.",
+          "published": "Fri, 19 Jun 2026 08:53:22 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Medizinregistergesetz: „Ein lebenslanges, unverhältnismäßiges Risiko“",
+          "link": "https://netzpolitik.org/2026/medizinregistergesetz-ein-lebenslanges-unverhaeltnismaessiges-risiko/",
+          "summary": "Im Gesundheitsausschuss wurde der Gesetzentwurf der Regierung auf Herz und Nieren geprüft. Und es blitzte Kritik auf. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Danielle-Claude Bélanger Im Gesundheitsausschuss des Bundestages musste die Regierung massive Kritik für ihren Entwurf des Medizinregistergesetzes einstecken. Er beschränke den Datenschutz, beschneide das Widerspruchsrecht und gefährde die Grundrechte der Patient:innen. Zuspruch gab es für einen Änderungsantrag der Grünen.",
+          "published": "Mon, 15 Jun 2026 14:24:07 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Kestra: Ops-Automation jenseits von CI/CD",
+          "link": "https://www.heise.de/hintergrund/Kestra-Ops-Automation-jenseits-von-CI-CD-11337589.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "CI/CD-Pipelines sind für Code-Deployments optimiert. Langlebige Betriebsprozesse und Self-Service-Workflows lassen sich flexibler mit Kestra orchestrieren.",
+          "published": "2026-06-20T09:05:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kestra: Ops-Automation jenseits von CI/CD",
+          "link": "https://www.heise.de/hintergrund/Kestra-Ops-Automation-jenseits-von-CI-CD-11337589.html",
+          "summary": "CI/CD-Pipelines sind für Code-Deployments optimiert. Langlebige Betriebsprozesse und Self-Service-Workflows lassen sich flexibler mit Kestra orchestrieren.",
+          "published": "2026-06-20T07:05:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In der vergangenen Woche rückte die Automatisierung im DevOps-Bereich verstärkt in den Fokus. Besonders die neue Plattform Kestra bietet innovative Ansätze zur Orchestrierung von Betriebsprozessen jenseits traditioneller CI/CD-Pipelines. Dies zeigt einen Trend hin zu flexibleren Self-Service-Workflows, die die Effizienz in der Softwareentwicklung steigern können. Die Diskussion um die Optimierung von Automatisierungsprozessen verdeutlicht die wachsende Bedeutung von DevOps in modernen IT-Umgebungen.",
+      "highlights": [
+        "Kestra ermöglicht eine flexible Orchestrierung von Betriebsprozessen.",
+        "CI/CD-Pipelines sind primär für Code-Deployments optimiert.",
+        "Die Automatisierung von Self-Service-Workflows wird zunehmend wichtiger.",
+        "Innovationen im DevOps-Bereich fördern Effizienzsteigerungen."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Memes, Memifizierung, Memokratie: „Wer nicht mitlacht, gehört nicht dazu“",
+          "link": "https://netzpolitik.org/2026/memes-wer-nicht-mitlacht-gehoert-nicht-dazu/",
+          "summary": "Rechts der Anführer vom Trump-\"Klan\". Das Meme spielt auf Obamas \"Yes We Can\" an und verweist auf den Nepotismus und die Selbstbereicherung der Trump-Familie. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Bruno Figueiredo Memes und AI-Slop prägen die zweite Amtszeit von US-Präsident Donald Trump. Der Kunsthistoriker Wolfgang Ullrich sieht darin eine neue illiberale Regierungsform begründet – die „Memokratie“. Ein Interview über autoritäre Bildpolitik, das emanzipatorische Potenzial von Memes und ihre politische Zukunft.",
+          "published": "Sat, 20 Jun 2026 07:10:56 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Google, Microsoft, and OpenAI join forces to help create AI’s missing trust layer",
+          "link": "https://thenewstack.io/google-microsoft-and-openai-join-forces-to-help-create-ais-missing-trust-layer/",
+          "summary": "The Linux Foundation has long transcended its roots as a steward of the Linux kernel, emerging as a &#8220;foundation of The post Google, Microsoft, and OpenAI join forces to help create AI&#8217;s missing trust layer appeared first on The New Stack .",
+          "published": "Wed, 17 Jun 2026 13:27:38 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Vorreiter, Verwaltung und politischer Rückhalt: Wie Open Source in die Schulen kommt",
+          "link": "https://netzpolitik.org/2026/vorreiter-verwaltung-und-politischer-rueckhalt-wie-open-source-in-die-schulen-kommt/",
+          "summary": "So sieht Open Source an Schulen aus: Tux, das offizielle Maskottchen des freien Linux-Kernels. – Alle Rechte vorbehalten: Marcel Roth Schulbildung macht mündig, Open-Source-Software ebenfalls. Ob aber an den mehr als 30.000 deutschen Schulen Open Source eingesetzt wird, hängt oftmals von drei Faktoren ab. Das zeigen erfolgreiche Beispiele in Lübeck und im Harz.",
+          "published": "Sat, 13 Jun 2026 06:38:10 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Datenschutz im Umbruch: Aufsichtsbehörden fordern digitale Modernisierung",
+          "link": "https://www.heise.de/news/Datenschutz-im-Umbruch-Aufsichtsbehoerden-fordern-digitale-Modernisierung-11339193.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mit den „Stuttgarter Impulsen“ reagieren die Landesdatenschützer auf anhaltende Kritik und unterstützen eine Reform für mehr Effizienz und weniger Bürokratie.",
+          "published": "2026-06-19T18:32:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Zorin OS im Test | c't 3003",
+          "link": "https://www.heise.de/news/Zorin-OS-im-Test-c-t-3003-11337551.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Desktop-Symbole, bekanntes Fenster-Management und Software-Hilfe: Zorin OS greift Linux-Neulingen unter die Arme, kommt aber nicht ohne Probleme.",
+          "published": "2026-06-19T14:20:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anonymisierendes Linux: Tails 7.9 pflegt Kernkomponenten",
+          "link": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-7-9-pflegt-Kernkomponenten-11338456.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In der Version 7.9 der anonymisierenden Linux-Distribution Tails betreiben die Entwickler nur leichte Software-Pflege.",
+          "published": "2026-06-19T12:28:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux 7.1 mit neuem NTFS und FRED erschienen",
+          "link": "https://www.heise.de/news/Linux-7-1-mit-neuem-NTFS-und-FRED-erschienen-11333467.html",
+          "summary": "Der neue Kernel Linux 7.1 bringt einen modernen NTFS-Treiber und aktiviert Intels FRED standardmäßig. Zudem erregt der KI-Einsatz bei der Entwicklung Aufsehen.",
+          "published": "2026-06-16T06:48:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In der vergangenen Woche wurde deutlich, dass agile Methoden und UX/UI zunehmend von aktuellen Entwicklungen in der Technologie und Gesellschaft beeinflusst werden. Die Diskussion um Memes und deren politische Implikationen zeigt, wie visuelle Kommunikation in digitalen Räumen neue Formen der Interaktion und Governance hervorbringt. Gleichzeitig arbeiten große Tech-Unternehmen an der Schaffung eines vertrauenswürdigen Rahmens für KI, was auch Auswirkungen auf UX/UI-Design haben könnte. Open-Source-Initiativen gewinnen an Bedeutung in der Bildung, während Datenschutzreformen gefordert werden, um digitale Prozesse zu modernisieren.",
+      "highlights": [
+        "Wolfgang Ullrich beschreibt die 'Memokratie' als neue Regierungsform, die durch Memes geprägt wird.",
+        "Google, Microsoft und OpenAI kooperieren zur Schaffung einer vertrauenswürdigen KI-Infrastruktur.",
+        "Erfolgreiche Open-Source-Projekte an Schulen in Lübeck und im Harz zeigen Potenzial für digitale Bildung.",
+        "Die Landesdatenschützer fordern mit den 'Stuttgarter Impulsen' eine Reform zur Effizienzsteigerung.",
+        "Der neue Linux-Kernel 7.1 bringt einen modernen NTFS-Treiber und aktiviert Intels FRED standardmäßig."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Checkmarx’s new SAST engine isn’t about the LLM. It’s about what happens after.",
+          "link": "https://thenewstack.io/checkmarx-ai-llm-sast-security/",
+          "summary": "The major static application security testing (SAST) vendors are now wrapping a large language model around their legacy scanning engines The post Checkmarx&#8217;s new SAST engine isn&#8217;t about the LLM. It&#8217;s about what happens after. appeared first on The New Stack .",
+          "published": "Fri, 19 Jun 2026 16:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Anthropic overhauled Claude Design to fix the handoff. A designer and an engineer disagree on whether it worked.",
+          "link": "https://thenewstack.io/anthropic-claude-design-overhaul/",
+          "summary": "Anthropic this week announced a major overhaul of Claude Design, the design tool it launched in April as a research The post Anthropic overhauled Claude Design to fix the handoff. A designer and an engineer disagree on whether it worked. appeared first on The New Stack .",
+          "published": "Fri, 19 Jun 2026 13:35:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Presentation: AI Agents to Make Sense of Data at OpenAI",
+          "link": "https://www.infoq.com/presentations/data-aware-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "OpenAI’s Bonnie Xu discusses Kepler, an internal AI data analyst agent built to query 600+ petabytes of data. She explains how they overcome context window limits using MCP, automated code crawling, and RAG. Xu also shares how their team leverages scoped semantic memory for self-learning and utilizes AST-based LLM grading to build a robust, regression-free evaluation pipeline. By Bonnie Xu",
+          "published": "Fri, 19 Jun 2026 12:02:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "CircleCI Introduces Chunk Sidecars to Bring CI Validation Directly Into AI Coding Workflows",
+          "link": "https://www.infoq.com/news/2026/06/circleci-chunk-sidecars/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "CircleCI has launched Chunk Sidecars, a new capability designed to bring CI-style validation directly into an AI coding agent's inner development loop By Craig Risi",
+          "published": "Fri, 19 Jun 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Artifacts in Claude Code: So zeigt die KI jetzt, wie sie Aufgaben bewältigt hat",
+          "link": "https://t3n.de/news/claude-code-artifacts-ki-aufgaben-erledigt-1748437/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Artifacts kommen jetzt auch zu Claude Code: Die Funktion, die bisher nur für Cowork verfügbar war, zeigt automatisch, was die KI gemacht hat, und hält Teams mit Live-Updates auf dem Laufenden. weiterlesen auf t3n.de",
+          "published": "Fri, 19 Jun 2026 13:30:35 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Windows Platform Security and the Race to Secure AI Agents",
+          "link": "https://www.infoq.com/news/2026/06/windows-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In a new Windows Developer Blog post titled \"Windows platform security for AI agents\", Microsoft positions Windows as the trustworthy operating system for autonomous agents and introduces the Microsoft Execution Containers (MXC) SDK as the core of that strategy. The post argues that containment, identity and manageability must be built into the operating system. By Matt Saunders",
+          "published": "Fri, 19 Jun 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "GitLab 19.0 Embeds Agentic AI in Secrets, Merge Requests, and Supply Chain Security",
+          "link": "https://www.infoq.com/news/2026/06/gitlab-19-agentic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "GitLab 19.0 extends agentic AI beyond code generation into securing credentials, reviewing and merging changes, and scanning dependencies, adding a public beta Secrets Manager, a full merge request Developer Flow, usage-based GitLab Duo billing, and generally available SBOM dependency scanning. By Mark Silvester",
+          "published": "Fri, 19 Jun 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Gusto Cofounder: An AI agent that runs payroll, HR, and benefits without waiting to be asked",
+          "link": "https://thenewstack.io/gusto-cofounder-small-business-ai/",
+          "summary": "Almost every startup or small business today has a wingperson, a principal working partner, or a co-founder.&#160; When it comes The post Gusto Cofounder: An AI agent that runs payroll, HR, and benefits without waiting to be asked appeared first on The New Stack .",
+          "published": "Thu, 18 Jun 2026 20:40:59 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "In dieser Woche lag der Fokus auf der Integration von generativer KI in bestehende Softwarelösungen und Sicherheitsstrategien. Unternehmen wie Checkmarx und GitLab erweitern ihre Produkte um KI-Funktionalitäten, um Sicherheits- und Entwicklungsprozesse zu optimieren. Zudem wurden neue Tools und Ansätze vorgestellt, die die Effizienz von KI-Agenten in der Datenanalyse und im Projektmanagement verbessern sollen. Die Diskussion über die Sicherheit von KI-Agenten und deren Integration in Betriebssysteme nimmt ebenfalls zu.",
+      "highlights": [
+        "Checkmarx integriert LLM in SAST-Engine, fokussiert sich auf nachgelagerte Prozesse.",
+        "Anthropic überarbeitet Claude Design zur Verbesserung der Zusammenarbeit zwischen Designern und Ingenieuren.",
+        "OpenAI präsentiert Kepler, einen internen KI-Datenanalysten zur Abfrage von 600+ Petabyte Daten.",
+        "GitLab 19.0 erweitert agentic AI auf Sicherheitsfunktionen wie Secrets Management und Merge Requests.",
+        "Microsoft stellt MXC SDK vor, um Windows als vertrauenswürdige Plattform für KI-Agenten zu positionieren."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "AI Act und DSGVO: Warum manuelle Datenschutz-Prozesse jetzt an ihre Grenzen stoßen",
+          "link": "https://t3n.de/news/ai-act-dsgvo-manuelle-datenschutz-prozesse-grenzen-1741238/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Datenschutz scheitert nicht am Fachwissen, sondern an der Zuarbeit aus Fachbereichen. Ein KI-Assistent ändert das: VVT, DSFA und TOM werden strukturiert, prüfbar und skalierbar. Eine Praxis-Demo zeigt wie. weiterlesen auf t3n.de",
+          "published": "Sat, 20 Jun 2026 08:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
+          "link": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
+          "summary": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
+          "published": "Fri, 19 Jun 2026 13:36:53 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
+          "link": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
+          "summary": "Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecraft, rocket, and cruise operations\" to fly Aeolus to Mars, where the payload will \"provide the first [&#8230;]",
+          "published": "2026-06-19T14:41:48-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "In dieser Woche rückte die EU-Tech-Regulierung in den Fokus, insbesondere im Zusammenhang mit dem AI Act und der DSGVO. Die Diskussionen verdeutlichen, dass manuelle Datenschutz-Prozesse zunehmend an ihre Grenzen stoßen, während KI-gestützte Lösungen wie VVT, DSFA und TOM eine strukturiertere und skalierbare Handhabung ermöglichen. Die Notwendigkeit einer verbesserten Zusammenarbeit zwischen Fachbereichen wird ebenfalls betont. Diese Entwicklungen zeigen, dass die Regulierung von Technologien in der EU weiterhin eine zentrale Herausforderung darstellt.",
+      "highlights": [
+        "AI Act und DSGVO stehen im Fokus der Diskussion.",
+        "Manuelle Datenschutz-Prozesse stoßen an ihre Grenzen.",
+        "KI-gestützte Lösungen bieten strukturierte Ansätze.",
+        "Notwendigkeit der Zusammenarbeit zwischen Fachbereichen wird betont.",
+        "EU-Tech-Regulierung bleibt zentrale Herausforderung."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Internet aus der Steckdose: Warum Powerline oft besser ist als WLAN-Repeater",
+          "link": "https://t3n.de/news/powerline-adapter-besser-als-wlan-repeater-1747896/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Schwaches WLAN im Keller oder Dachgeschoss? Powerline nutzt die Stromleitung im Haus, um Internet auch in entlegene Räume zu bringen. Wie die Technologie funktioniert und welche Adapter sich lohnen. weiterlesen auf t3n.de",
+          "published": "Sat, 20 Jun 2026 10:50:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Vom Powerbook bis iPad: Ein Blick in den digitalen Alltag von Steve Jobs",
+          "link": "https://t3n.de/news/steve-jobs-apple-geraete-nutzung-alltag-1746190/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Lange Jahre war Steve Jobs nicht nur CEO von Apple, sondern natürlich auch Nutzer der ersten Stunde. Was hat der Mitgründer des Unternehmens mit den Geräten gemacht, an deren Schaffung er maßgeblich beteiligt war? weiterlesen auf t3n.de",
+          "published": "Sat, 20 Jun 2026 09:25:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KW 25: Die Woche, in der Sachsen ihren Landtag zur Vernunft riefen",
+          "link": "https://netzpolitik.org/2026/kw-25-die-woche-in-der-sachsen-ihren-landtag-zur-vernunft-riefen/",
+          "summary": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 25. Kalenderwoche geht zu Ende. Wir haben 11 neue Texte mit insgesamt 91.181 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 20 Jun 2026 07:11:49 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Forscher nutzen recycelte Reifen, um dieses spezifische Problem von E-Autos zu lösen",
+          "link": "https://t3n.de/news/e-autos-reifen-recycling-daemmung-1747622/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Forscher:innen der Uni Magdeburg arbeiten derzeit an einem besonderen Projekt. Sie wollen E-Autos mit altem Reifengummi leiser machen. Warum das nötig ist, um den Fahrtkomfort für viele Menschen zu erhöhen. weiterlesen auf t3n.de",
+          "published": "Sat, 20 Jun 2026 06:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Jede bekannte Art von Malware“: Sicherheitsexperten warnen vor Wallpapern auf Steam",
+          "link": "https://t3n.de/news/steam-sicherheitsexperten-warnen-wallpaper-malware-1748487/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Auf Steam hat sich monatelang Schadsoftware versteckt. Dabei wurden Wallpaper von Cyberkriminellen mit Malware infiziert, um Nutzer:innen zu schaden. Wie du dich vor den Angriffen künftig schützen kannst. weiterlesen auf t3n.de",
+          "published": "Fri, 19 Jun 2026 16:45:40 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Gesundheitsrisiken durch Klimaanlagen oder Ventilatoren? Worauf du achten solltest",
+          "link": "https://t3n.de/news/gesundheitsrisiken-durch-klimaanlagen-oder-ventilatoren-worauf-du-achten-solltest-1748405/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kommt die Sommerhitze, freuen wir uns über kühle Innenräume. Die Mittel der Wahl heißen Ventilator oder Klimaanlage. Doch sie können auch gesundheitliche Auswirkungen haben. weiterlesen auf t3n.de",
+          "published": "Fri, 19 Jun 2026 16:30:13 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mit 2.000 alten Smartphones: Forscher bauen funktionsfähiges Rechenzentrum",
+          "link": "https://t3n.de/news/2000-alte-pixel-smartphones-forscher-rechenzentrum-1748440/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Kampf gegen Elektroschrott haben Forscher:innen bei Google gezeigt, wie alte Smartphones einen neuen Zweck erfüllen können. So werden tausende Pixel-Geräte zu einem kleinen Rechenzentrum. weiterlesen auf t3n.de",
+          "published": "Fri, 19 Jun 2026 15:00:46 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Erneuter Rückruf bei Waymo: Robotaxis könnten ungebremst in Baustelleneinfahrten fahren",
+          "link": "https://t3n.de/news/erneuter-rueckruf-bei-waymo-robotaxis-koennten-ungebremst-in-baustelleneinfahrten-fahren-1748423/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Waymo-Taxis haben noch immer mit diversen Problemen zu kämpfen. Vor allem der Betrieb auf Autobahnen bleibt herausfordernd. Mehrere tausend Fahrzeuge brauchten deshalb jetzt ein Software-Update. weiterlesen auf t3n.de",
+          "published": "Fri, 19 Jun 2026 14:30:43 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "In dieser Woche standen verschiedene technologische Entwicklungen im Fokus, die sowohl innovative Ansätze als auch Sicherheitsrisiken thematisieren. Während Forscher an nachhaltigen Lösungen für E-Autos und Rechenzentren arbeiten, warnen Sicherheitsexperten vor Malware auf Plattformen wie Steam. Zudem wird die Bedeutung von Software-Updates bei autonomen Fahrzeugen hervorgehoben. Diese Themen verdeutlichen die Herausforderungen und Chancen in der Software- und Hardwarelandschaft.",
+      "highlights": [
+        "Forscher nutzen 2.000 alte Smartphones zur Schaffung eines funktionsfähigen Rechenzentrums.",
+        "Sicherheitsexperten warnen vor Malware, die sich über Wallpaper auf Steam verbreitet hat.",
+        "Waymo-Taxis benötigen ein Software-Update aufgrund von Problemen beim Betrieb auf Autobahnen.",
+        "E-Autos sollen mit recyceltem Reifengummi leiser gemacht werden."
+      ]
+    }
+  ]
+}
