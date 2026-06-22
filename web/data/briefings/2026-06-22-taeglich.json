@@ -1,0 +1,286 @@
+{
+  "date": "2026-06-22",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Databricks: Lakehouse//RT soll separate Echtzeitdatenbanken überflüssig machen",
+          "link": "https://www.heise.de/news/Databricks-Lakehouse-RT-soll-separate-Echtzeitdatenbanken-ueberfluessig-machen-11336849.html",
+          "summary": "Databricks bringt mit Lakehouse//RT eine Echtzeitanalyse-Engine für Delta-Lake- und Apache-Iceberg-Tabellen, um spezialisierte Echtzeitdatenbanken zu ersetzen.",
+          "published": "2026-06-19T06:47:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Databricks Genie One: KI-Agent soll Antworten aus Unternehmensdaten ableiten",
+          "link": "https://www.heise.de/news/Databricks-Genie-One-KI-Agent-soll-Antworten-aus-Unternehmensdaten-ableiten-11336737.html",
+          "summary": "Databricks ergänzt seine KI-Plattform um den KI-Agenten Genie One, der dank der neuen Kontextschicht Ontology Unternehmensdaten nutzbar machen soll.",
+          "published": "2026-06-18T09:40:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Meta-Harness für KI-Agenten: Databricks veröffentlicht Omnigent als Open Source",
+          "link": "https://www.heise.de/news/Meta-Harness-fuer-KI-Agenten-Databricks-veroeffentlicht-Omnigent-als-Open-Source-11334159.html",
+          "summary": "Der Meta-Harness Omnigent vereint KI-Agenten wie Claude Code und Codex unter einer gemeinsamen Policy- und Kollaborationsschicht – unter Apache-2.0-Lizenz.",
+          "published": "2026-06-17T09:34:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Databricks hat mehrere neue Produkte vorgestellt, darunter Lakehouse//RT für Echtzeitanalysen und den KI-Agenten Genie One zur Nutzung von Unternehmensdaten. Zudem wurde der Meta-Harness Omnigent als Open Source veröffentlicht, um verschiedene KI-Agenten zu integrieren.",
+      "highlights": [
+        "Lakehouse//RT ersetzt spezialisierte Echtzeitdatenbanken für Delta-Lake- und Apache-Iceberg-Tabellen.",
+        "Genie One nutzt eine neue Kontextschicht namens Ontology zur Ableitung von Antworten aus Unternehmensdaten.",
+        "Omnigent vereint KI-Agenten unter einer gemeinsamen Policy- und Kollaborationsschicht und ist unter Apache-2.0-Lizenz verfügbar."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AWS Graviton5 Reaches General Availability with 192 Cores and Formally Verified VM Isolation",
+          "link": "https://www.infoq.com/news/2026/06/aws-graviton5-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS made Graviton5-powered EC2 M9g and M9gd instances generally available with 192 ARM cores, formally verified VM isolation via the Nitro Isolation Engine, and DDR5-8800 memory. ClickHouse reported 36% better performance with zero code changes. Meta committed tens of millions of cores. On-demand pricing is 9% above Graviton4, translating to roughly 15% better price-performance. By Steef-Jan Wiggers",
+          "published": "Mon, 22 Jun 2026 10:05:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Smarte Wasserflasche trackt jeden Schluck — und blinkt, wenn du zu wenig trinkst",
+          "link": "https://t3n.de/news/smarte-wasserflasche-trackt-jeden-schluck-erinnerung-1748318/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Zwischen To-Dos und Terminen verliert man seinen täglichen Flüssigkeitsbedarf schnell aus den Augen. Smarte Flaschen können mit optischen Signalen und App-Benachrichtigungen gezielt gegensteuern. weiterlesen auf t3n.de",
+          "published": "Mon, 22 Jun 2026 11:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Samsung One UI 9-Update: So holst du dir die Netzgeschwindigkeitsanzeige auf dein Smartphone",
+          "link": "https://t3n.de/news/samsung-one-ui-9-netzgeschwindigkeitsanzeige-aktivieren-1747694/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Schon bald können Galaxy-Nutzer:innen eine Funktion in ihrem Smartphone aktivieren, um mehr Informationen zu ihrer Internetverbindung zu bekommen. Allerdings lässt sich die langersehnte Neuerung nur über Umwege aktivieren. Wie das funktioniert. weiterlesen auf t3n.de",
+          "published": "Sun, 21 Jun 2026 17:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Verdrehte Nanofolien: Ein überraschend simpler Kniff stabilisiert Quanten-Hardware",
+          "link": "https://t3n.de/news/quantencomputer-hardware-mechanischer-twist-1748629/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Hardware von morgen kämpft heute oft noch mit Unzuverlässigkeit im atomaren Maßstab. Ein winziger physikalischer Trick mit verblüffender Wirkung könnte jetzt ein massives Problem lösen und künftige Rechner-Architekturen entscheidend voranbringen. weiterlesen auf t3n.de",
+          "published": "Sun, 21 Jun 2026 15:15:42 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Die souveräne Cloud, die keine ist: ein Etikett für die falsche Ebene",
+          "link": "https://www.heise.de/blog/Die-souveraene-Cloud-die-keine-ist-ein-Etikett-fuer-die-falsche-Ebene-11320242.html",
+          "summary": "AWS und Microsoft verkaufen ihre EU-Angebote 2026 als souverän. Doch das Etikett trifft die falsche Ebene und lässt die rechtliche Abhängigkeit bestehen.",
+          "published": "2026-06-17T10:38:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Cloud-Architektur entwickelt sich weiter, insbesondere mit der Einführung von AWS Graviton5, das verbesserte Leistung und VM-Isolation bietet. Gleichzeitig wird die Diskussion über die Souveränität von Cloud-Diensten in der EU intensiver, während neue Technologien wie Nanofolien die Hardware-Zuverlässigkeit erhöhen könnten.",
+      "highlights": [
+        "AWS Graviton5 bietet 192 ARM-Kerne und formell verifiziertes VM-Isolation.",
+        "ClickHouse verzeichnete 36% bessere Leistung mit Graviton5 ohne Codeänderungen.",
+        "EU-Angebote von AWS und Microsoft 2026 werden als souverän verkauft, jedoch bleibt die rechtliche Abhängigkeit bestehen."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
+          "link": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Pentests-methodisch-planen-anfordern-und-analysieren-11331877.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Schritt für Schritt zum sicheren System: Penetrationstests methodisch planen, beauftragen und auswerten, um Schwachstellen in der eigenen IT aufzuspüren.",
+          "published": "2026-06-22T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: IT-Sicherheitstag Dortmund 2026: Digitale Souveränität im Fokus",
+          "link": "https://www.heise.de/news/IT-Sicherheitstag-Dortmund-2026-Digitale-Souveraenitaet-im-Fokus-11297105.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Am 16. September dreht sich beim IT-Sicherheitstag Dortmund alles um aktuelle Herausforderungen der Informationssicherheit.",
+          "published": "2026-06-22T08:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die IT-Sicherheit gewinnt zunehmend an Bedeutung, insbesondere durch methodische Ansätze wie Penetrationstests zur Identifizierung von Schwachstellen. Der IT-Sicherheitstag Dortmund 2026 thematisiert die digitale Souveränität und aktuelle Herausforderungen der Informationssicherheit.",
+      "highlights": [
+        "Workshop zur Planung und Analyse von Penetrationstests für sichere Systeme.",
+        "IT-Sicherheitstag Dortmund 2026 am 16. September fokussiert auf digitale Souveränität.",
+        "Veranstaltungen bieten praxisnahe Ansätze zur Verbesserung der IT-Sicherheit."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Schluss mit dem nervigem Scrollen: Mit dieser Open-Source-Lösung verwalte ich meine Rezepte einfach selbst",
+          "link": "https://t3n.de/news/rezepte-verwalten-open-source-nervig-scrollen-1674456/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Genervt von Foodblogs und Rezeptewebsites? Unser Autor verwaltet seine Lieblingsrezepte mit einer Open-Source-Lösung. Warum er darauf nicht mehr verzichten könnte. weiterlesen auf t3n.de",
+          "published": "Sun, 21 Jun 2026 14:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Social-Media-Verbot für Jugendliche: Lösungen gefordert, die schnell wirken",
+          "link": "https://www.heise.de/news/Social-Media-Verbot-fuer-Jugendliche-Loesungen-gefordert-die-schnell-wirken-11339983.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Kurz bevor die Bundesregierung Empfehlungen zum digitalen Jugendschutz vorstellt, fordert eine Initiative ein striktes Social-Media-Mindestalter von 16 Jahren.",
+          "published": "2026-06-22T12:12:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | Testautomatisierung: Warum die Testpyramide in der Praxis oft scheitert",
+          "link": "https://www.heise.de/hintergrund/Testautomatisierung-Warum-die-Testpyramide-in-der-Praxis-oft-scheitert-11312171.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Testautomatisierung scheitert in der Praxis oft an starren Modellen. Ein Blick auf Projekte zeigt, wie man die Testpyramide als Kompass statt als Dogma nutzt.",
+          "published": "2026-06-22T12:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kestra: Ops-Automation jenseits von CI/CD",
+          "link": "https://www.heise.de/hintergrund/Kestra-Ops-Automation-jenseits-von-CI-CD-11337589.html",
+          "summary": "CI/CD-Pipelines sind für Code-Deployments optimiert. Langlebige Betriebsprozesse und Self-Service-Workflows lassen sich flexibler mit Kestra orchestrieren.",
+          "published": "2026-06-20T07:05:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die aktuelle Diskussion über Testautomatisierung beleuchtet Herausforderungen wie die oft scheiternde Testpyramide und die Notwendigkeit flexiblerer Ansätze. Zudem wird Kestra als innovative Lösung für Ops-Automation jenseits von traditionellen CI/CD-Pipelines vorgestellt.",
+      "highlights": [
+        "Testautomatisierung scheitert häufig an starren Modellen.",
+        "Die Testpyramide sollte als Kompass und nicht als Dogma betrachtet werden.",
+        "Kestra ermöglicht die Orchestrierung langlebiger Betriebsprozesse und Self-Service-Workflows."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Mysteriöse Schallkanone in Serbien: Staatsanwaltschaft beschuldigt Protestierende",
+          "link": "https://netzpolitik.org/2026/mysterioese-schallkanone-in-serbien-staatsanwaltschaft-beschuldigt-protestierende/",
+          "summary": "Die eingesetzte Waffe teilt die Menge entlang einer Linie. Das Bild zeigt einen Ausschnitt aus einem Video einer Überwachungskamera – : My_roman-empire / Reddit Die Oberstaatsanwaltschaft von Belgrad ermittelt gegen die demokratische Protestbewegung. Sie wirft dieser vor, den Einsatz einer Schallkanone am 15. März 2025 simuliert zu haben, um einen Bürgerkrieg zu starten. Aktivist:innen sprechen von Repression und Einschüchterung.",
+          "published": "Mon, 22 Jun 2026 04:00:14 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Ubuntu Myna: Spracherkennung für den Linux-Desktop",
+          "link": "https://www.heise.de/news/Ubuntu-Myna-Spracherkennung-fuer-den-Linux-Desktop-11339967.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Canonical entwickelt Myna, eine lokale Spracherkennung für Ubuntu Desktop. Sie soll ab Version 26.10 eine Diktierfunktion bieten.",
+          "published": "2026-06-22T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux 7.1 mit neuem NTFS und FRED erschienen",
+          "link": "https://www.heise.de/news/Linux-7-1-mit-neuem-NTFS-und-FRED-erschienen-11333467.html",
+          "summary": "Der neue Kernel Linux 7.1 bringt einen modernen NTFS-Treiber und aktiviert Intels FRED standardmäßig. Zudem erregt der KI-Einsatz bei der Entwicklung Aufsehen.",
+          "published": "2026-06-16T06:48:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Great Tang: BYDs Luxus-7-Sitzer mit großer Reichweite soll nach Europa kommen",
+          "link": "https://www.golem.de/news/great-tang-byds-luxus-7-sitzer-mit-grosser-reichweite-soll-nach-europa-kommen-2606-209992.html",
+          "summary": "Der Great Tang von BYD hat bis zu sieben Sitze, reichlich Platz und Komfort, eine große Reichweite und eine hohe Ladeleistung. ( BYD , Elektroauto )",
+          "published": "2026-06-20T13:00:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die heutigen Nachrichten umfassen eine Ermittlung gegen Protestierende in Serbien, die angeblich eine Schallkanone simuliert haben. Zudem wurden neue Entwicklungen in der Linux-Welt und ein neues Elektroauto von BYD vorgestellt.",
+      "highlights": [
+        "Belgrader Staatsanwaltschaft ermittelt gegen Protestbewegung wegen angeblicher Simulation einer Schallkanone.",
+        "Ubuntu Myna bietet ab Version 26.10 lokale Spracherkennung für den Desktop.",
+        "Linux 7.1 bringt modernen NTFS-Treiber und aktiviert Intels FRED standardmäßig."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Sicherheitsrisiko: Signal-Chefin Meredith Whittaker warnt vor KI-Chatbots",
+          "link": "https://t3n.de/news/sicherheitsrisiko-signal-ki-chatbots-1748658/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Signal-Chefin Meredith Whittaker hat sich gegen die übermäßige Verwendung von KI-Chatbots und KI-Agenten ausgesprochen. Diese könnten ein massives Sicherheitsrisiko darstellen, etwa, indem sie die Ende-zu-Ende-Verschlüsselung aushebelten. weiterlesen auf t3n.de",
+          "published": "Sun, 21 Jun 2026 22:47:10 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Gemini in Google Maps: Wenn die Sushi-Empfehlung wichtiger ist als die Öffnungszeiten",
+          "link": "https://t3n.de/news/google-maps-gemini-ki-tipps-nerven-oeffnungszeiten-1748010/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google Maps nervt neuerdings mit KI-generierten Tipps für Restaurants und Speisen. Das ist bevormundend und nutzlos. Das Gemini-Feature zeigt, wie KI sich immer stärker zwischen Nutzende und Informationen drängt, nicht nur bei kulinarischen Fragen. weiterlesen auf t3n.de",
+          "published": "Sun, 21 Jun 2026 19:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "A public Sentry key is all it takes to hijack Claude Code, Cursor, and Codex",
+          "link": "https://thenewstack.io/agentjacking-sentry-mcp-attack/",
+          "summary": "On June 17, the Threat Labs team at Tenet Security, an AI-agent security startup newly out of stealth, documented an The post A public Sentry key is all it takes to hijack Claude Code, Cursor, and Codex appeared first on The New Stack .",
+          "published": "Sun, 21 Jun 2026 17:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Anthropic Reports Claude Now Handles 95% of Internal Analytics Queries",
+          "link": "https://www.infoq.com/news/2026/06/anthropic-claude-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Anthropic recently reported that Claude now handles around 95% of its internal analytics requests, letting employees query business data independently instead of relying on data teams. The company attributes this result less to advances in models and more to data governance, semantic definitions, and operational discipline. By Renato Losio",
+          "published": "Sun, 21 Jun 2026 16:47:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Your agent wants to search like a 2010 quant",
+          "link": "https://thenewstack.io/search-like-2010-quant/",
+          "summary": "AI agents need the right information to work well. Whether they manage to find it is the difference between success The post Your agent wants to search like a 2010 quant appeared first on The New Stack .",
+          "published": "Sun, 21 Jun 2026 16:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Die Diskussion um generative KI und LLMs wird durch Sicherheitsbedenken und die zunehmende Integration in Alltagsanwendungen geprägt. Experten warnen vor den Risiken, die mit KI-Chatbots verbunden sind, während Unternehmen wie Anthropic Fortschritte in der Datenverarbeitung verzeichnen.",
+      "highlights": [
+        "Meredith Whittaker warnt vor Sicherheitsrisiken durch KI-Chatbots, die Ende-zu-Ende-Verschlüsselung gefährden könnten.",
+        "Anthropic berichtet, dass Claude 95% interner Analyseanfragen bearbeitet, was auf verbesserte Datenverwaltung hinweist.",
+        "Google Maps integriert KI-generierte Restauranttipps, was Nutzer als bevormundend empfinden."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "&quot;Das ist ein proaktives Augenverschließen&quot;: Warum Unternehmen Schatten-KI ernst nehmen sollten",
+          "link": "https://t3n.de/news/das-ist-ein-proaktives-augenverschliessen-warum-unternehmen-schatten-ki-ernst-nehmen-sollten-1747767/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mitarbeitende nutzen immer häufiger unerlaubte KI-Anwendungen am Arbeitsplatz. Jens Ferner ist Fachanwalt für Straf- und IT-Recht und erklärt, warum er beson weiterlesen auf t3n.de",
+          "published": "Mon, 22 Jun 2026 10:37:16 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Behavioral Finance: Wie uns unser Gehirn beim Anlegen in die Irre führt",
+          "link": "https://t3n.de/news/behavioral-finance-wie-uns-unser-gehirn-beim-anlegen-in-die-irre-fuehrt-1748356/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "An der Börse geht es nur nach oben, Aktien mit dem größten Potenzial kennt man besser als die Profis, Erfolg ist Talent und Verlust einfach Pech? Dann spricht man von Behavioral Finance. Wie dieses irrationale Anlegerverhalten dein Depot beeinflusst – und was dagegen hilft. weiterlesen auf t3n.de",
+          "published": "Mon, 22 Jun 2026 10:00:31 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Whatsapp: Mit dieser Funktion findest du heraus, ob du von jemandem blockiert wurdest",
+          "link": "https://t3n.de/news/whatsapp-blockiert-herausfinden-funktion-1748664/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Whatsapp-User:innen, die den Verdacht hegen, von einem ihrer Kontakte blockiert worden zu sein, können das ganz einfach überprüfen. Der Meta-Messenger hat dafür eine passende Funktion, die euch die notwendige Info bereitstellt. Was ihr dabei beachten müsst. weiterlesen auf t3n.de",
+          "published": "Mon, 22 Jun 2026 09:30:52 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Private Nachrichten bei Slack, Teams und Co.? Wann dein Chef deine Chats kontrollieren darf",
+          "link": "https://t3n.de/news/slack-teams-private-nachrichten-chef-mitlesen-1748665/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Verabredungen zur Mittagspause, der kurze Austausch über den neuen Kollegen – oder kleinere Lästereien: Viele nutzen Dienst-Messenger auch für private Gespräche. Wann dabei jemand mitlesen darf. weiterlesen auf t3n.de",
+          "published": "Mon, 22 Jun 2026 07:50:58 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Nie im Leben hätte ich gedacht, dass ich so viel erreiche&quot;: Was dieses Gehirn-Implantat einem ALS-Patienten zurückgibt",
+          "link": "https://t3n.de/news/gehirn-implantat-als-patient-bci-kommunikation-1747707/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "2023 erhielt der ALS-Patient Casey Harrell eine Gehirn-Computer-Schnittstelle, um ihm die Kommunikation mit seinen Mitmenschen zu ermöglichen. Doch die täglic weiterlesen auf t3n.de",
+          "published": "Sun, 21 Jun 2026 16:45:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Das Thema Open Source und Software Supply Chain gewinnt zunehmend an Bedeutung, insbesondere im Kontext der Sicherheit und der Nutzung unerlaubter KI-Anwendungen am Arbeitsplatz. Unternehmen müssen sich proaktiv mit diesen Herausforderungen auseinandersetzen, um Risiken zu minimieren.",
+      "highlights": [
+        "Mitarbeitende nutzen zunehmend unerlaubte KI-Anwendungen am Arbeitsplatz.",
+        "Fachanwalt Jens Ferner warnt vor den Risiken von Schatten-KI.",
+        "Unternehmen sollten Sicherheitsmaßnahmen in der Software Supply Chain verstärken."
+      ]
+    }
+  ]
+}
