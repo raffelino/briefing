@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-23",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Article: Understanding ML Model Poisoning: How It Happens and How to Detect It",
+          "link": "https://www.infoq.com/articles/understanding-ml-model-poisoning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In this article, the author explores data poisoning as a threat to machine learning systems, covering techniques such as label flipping, backdoors, clean-label poisoning, and gradient manipulation. The article reviews real-world incidents, discusses the challenges of detecting poisoned data, and presents practical defenses, tools, and operational practices for securing ML training pipelines. By Igor Maljkovic",
+          "published": "Mon, 22 Jun 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Databricks: Lakehouse//RT soll separate Echtzeitdatenbanken überflüssig machen",
+          "link": "https://www.heise.de/news/Databricks-Lakehouse-RT-soll-separate-Echtzeitdatenbanken-ueberfluessig-machen-11336849.html",
+          "summary": "Databricks bringt mit Lakehouse//RT eine Echtzeitanalyse-Engine für Delta-Lake- und Apache-Iceberg-Tabellen, um spezialisierte Echtzeitdatenbanken zu ersetzen.",
+          "published": "2026-06-19T06:47:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Databricks Genie One: KI-Agent soll Antworten aus Unternehmensdaten ableiten",
+          "link": "https://www.heise.de/news/Databricks-Genie-One-KI-Agent-soll-Antworten-aus-Unternehmensdaten-ableiten-11336737.html",
+          "summary": "Databricks ergänzt seine KI-Plattform um den KI-Agenten Genie One, der dank der neuen Kontextschicht Ontology Unternehmensdaten nutzbar machen soll.",
+          "published": "2026-06-18T09:40:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Meta-Harness für KI-Agenten: Databricks veröffentlicht Omnigent als Open Source",
+          "link": "https://www.heise.de/news/Meta-Harness-fuer-KI-Agenten-Databricks-veroeffentlicht-Omnigent-als-Open-Source-11334159.html",
+          "summary": "Der Meta-Harness Omnigent vereint KI-Agenten wie Claude Code und Codex unter einer gemeinsamen Policy- und Kollaborationsschicht – unter Apache-2.0-Lizenz.",
+          "published": "2026-06-17T09:34:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen im Bereich Data & AI zeigen Fortschritte in der Sicherheit von ML-Modellen und der Effizienz von Datenanalysen. Databricks führt neue Technologien ein, um Echtzeitanalysen zu optimieren und Unternehmensdaten besser nutzbar zu machen.",
+      "highlights": [
+        "Artikel zu ML-Modellvergiftung behandelt Techniken wie Label-Flipping und Gradient-Manipulation.",
+        "Databricks präsentiert Lakehouse//RT zur Ablösung spezialisierter Echtzeitdatenbanken.",
+        "Die KI-Plattform von Databricks wird um den Agenten Genie One erweitert, der Unternehmensdaten kontextualisiert."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "A US military exercise in space got underway with barely anyone noticing",
+          "link": "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/",
+          "summary": "The Space Force wants to cut the time to field new satellites from years to weeks, days, or hours.",
+          "published": "Mon, 22 Jun 2026 15:18:23 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "AWS Graviton5 Reaches General Availability with 192 Cores and Formally Verified VM Isolation",
+          "link": "https://www.infoq.com/news/2026/06/aws-graviton5-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS made Graviton5-powered EC2 M9g and M9gd instances generally available with 192 ARM cores, formally verified VM isolation via the Nitro Isolation Engine, and DDR5-8800 memory. ClickHouse reported 36% better performance with zero code changes. Meta committed tens of millions of cores. On-demand pricing is 9% above Graviton4, translating to roughly 15% better price-performance. By Steef-Jan Wiggers",
+          "published": "Mon, 22 Jun 2026 10:05:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "KI-Basis entwickeln: Die Architektur smarter Systeme",
+          "link": "https://www.heise.de/hintergrund/KI-Basis-entwickeln-Die-Architektur-smarter-Systeme-11340347.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine gute Softwarearchitektur stellt sicher, dass ein KI-System nicht von der Leistungsfähigkeit eines bestimmten Modells abhängt.",
+          "published": "2026-06-23T09:10:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Patientenvertreterin: „Wir haben bei der Digitalisierung den Überblick verloren“",
+          "link": "https://www.heise.de/hintergrund/Die-Digitalisierung-hat-grosses-Potenzial-fuer-Patientinnen-und-Patienten-11340915.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Digitalisierung darf Menschen nicht in neue Abhängigkeiten drängen, sagt Jana Hassel von der BAG SELBSTHILFE. Die ePA dürfe kein Zwangszugang werden.",
+          "published": "2026-06-23T09:08:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Secure-Boot: Zertifikatablauf steht an, Microsoft gibt weitere Hilfestellung",
+          "link": "https://www.heise.de/news/Secure-Boot-Zertifikate-Ablauf-startet-weitere-Handreichungen-von-Microsoft-11341007.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die ersten Secure-Boot-Zertifikate laufen in diesen Tagen ab. Microsoft legt noch mal Handreichungen nach, für Linux auf Azure-VMs.",
+          "published": "2026-06-23T09:06:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Cloud-Architektur entwickelt sich rasant weiter, insbesondere durch neue Technologien wie AWS Graviton5 und die Notwendigkeit smarter Systeme für KI. Gleichzeitig stehen Herausforderungen in der Digitalisierung und der Sicherheit, wie beim Secure-Boot, im Fokus.",
+      "highlights": [
+        "AWS Graviton5 mit 192 ARM-Kernen und verbesserter VM-Isolation jetzt allgemein verfügbar.",
+        "Meta investiert in Millionen von Kernen für verbesserte Leistung ohne Codeänderungen.",
+        "Microsoft bietet Unterstützung für ablaufende Secure-Boot-Zertifikate auf Azure-VMs."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: Spring Tools, Helidon, Open Liberty, TomEE, JobRunr, Hibernate, Commonhaus",
+          "link": "https://www.infoq.com/news/2026/06/java-news-roundup-jun15-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for June 15th, 2026, features news highlighting: point releases of Spring Tools, Helidon, JobRunr and Gradle; the June 2026 edition of Open Liberty; the first milestone release of Apache TomEE 11.0; the first beta release of Hibernate ORM 8.0; Quarkus emergency maintenance releases to address CVE-2026-50559; and four open-source projects join the Commonhaus Foundation. By Michael Redlich",
+          "published": "Mon, 22 Jun 2026 13:15:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "In der aktuellen Java-Rundschau vom 15. Juni 2026 werden mehrere wichtige Entwicklungen vorgestellt, darunter neue Versionen von Spring Tools, Helidon und Hibernate sowie die Gründung von vier Open-Source-Projekten in der Commonhaus Foundation.",
+      "highlights": [
+        "Spring Tools und Helidon erhalten Punkt-Releases.",
+        "Erste Meilenstein-Version von Apache TomEE 11.0 veröffentlicht.",
+        "Hibernate ORM 8.0 erreicht erste Beta-Version."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Kestra: Ops-Automation jenseits von CI/CD",
+          "link": "https://www.heise.de/hintergrund/Kestra-Ops-Automation-jenseits-von-CI-CD-11337589.html",
+          "summary": "CI/CD-Pipelines sind für Code-Deployments optimiert. Langlebige Betriebsprozesse und Self-Service-Workflows lassen sich flexibler mit Kestra orchestrieren.",
+          "published": "2026-06-20T07:05:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Kestra bietet eine flexible Orchestrierung für langlebige Betriebsprozesse und Self-Service-Workflows, die über die traditionellen CI/CD-Pipelines hinausgeht. Dies ermöglicht eine effizientere Automatisierung von Betriebsabläufen.",
+      "highlights": [
+        "Kestra optimiert Betriebsprozesse jenseits von Code-Deployments.",
+        "Ermöglicht Self-Service-Workflows für Benutzer.",
+        "Fokussiert auf die Orchestrierung von langanhaltenden Prozessen."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Podcast: How eBPF Empowers Developers to Observe Inside the Linux Kernel in a Safe and Unintrusive Way",
+          "link": "https://www.infoq.com/podcasts/empowers-developers-inside-linux-kernel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Dan Fineran explores how eBPF has evolved far beyond its roots in packet filtering into a robust, safe way to extend the Linux kernel. He explains how the eBPF \"verifier\", the security guardrail, enables implementation of deep observability and networking without the risks of traditional kernel modules or the slow upstreaming process. By Dan Fineran",
+          "published": "Mon, 22 Jun 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Mysteriöse Schallkanone in Serbien: Staatsanwaltschaft beschuldigt Protestierende",
+          "link": "https://netzpolitik.org/2026/mysterioese-schallkanone-in-serbien-staatsanwaltschaft-beschuldigt-protestierende/",
+          "summary": "Die eingesetzte Waffe teilt die Menge entlang einer Linie. Das Bild zeigt einen Ausschnitt aus einem Video einer Überwachungskamera – : My_roman-empire / Reddit Die Oberstaatsanwaltschaft von Belgrad ermittelt gegen die demokratische Protestbewegung. Sie wirft dieser vor, den Einsatz einer Schallkanone am 15. März 2025 simuliert zu haben, um einen Bürgerkrieg zu starten. Aktivist:innen sprechen von Repression und Einschüchterung.",
+          "published": "Mon, 22 Jun 2026 04:00:14 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "Agile Methoden und UX/UI sind entscheidend für die Entwicklung benutzerfreundlicher Software. Durch iterative Prozesse und kontinuierliches Feedback wird die Nutzererfahrung optimiert, was zu höherer Kundenzufriedenheit führt.",
+      "highlights": [
+        "Agile Methoden fördern schnelle Anpassungen an Nutzerbedürfnisse.",
+        "UX/UI-Design verbessert die Interaktion zwischen Nutzer und Produkt.",
+        "Regelmäßige Nutzerfeedbacks sind zentral für den Entwicklungsprozess."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
+          "link": "https://thenewstack.io/cursor-acquires-continue-coding/",
+          "summary": "The AI developer tools consolidation continues apace, with news that Cursor has snapped up open-source coding assistant Continue &#8212; its The post Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot appeared first on The New Stack .",
+          "published": "Mon, 22 Jun 2026 19:48:42 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Grüne: Palantir nein, Datenanalyse ja",
+          "link": "https://netzpolitik.org/2026/gruene-palantir-nein-datenanalyse-ja/",
+          "summary": "Landesdelegiertenkonferenz der Grünen NRW: Viel Liebe für die automatisierte Datenanalyse – nicht jedoch mit Palantir. – CC-BY-SA 4.0 : Bündnis 90/Die Grünen Nordrhein-Westfalen Die grüne Partei diskutiert das Für und Wider der Zusammenarbeit der Polizei mit dem US-Konzern Palantir. Die Urabstimmung „Stoppt Palantir, sofort!“ wird Anfang Juli in Baden-Württemberg stattfinden. Auch in Nordrhein-Westfalen votierten die Landesgrünen einstimmig gegen Palantir. Aber es geht fast nur um den Tech-Giganten und kaum darum, die automatisierte Datenanalyse zu hinterfragen.",
+          "published": "Mon, 22 Jun 2026 15:03:23 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "How Anthropic may have talked itself into an AI export ban",
+          "link": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+          "summary": "The company warned about dangers of advanced AI far more than rival OpenAI.",
+          "published": "Mon, 22 Jun 2026 13:45:24 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Forscher machen KI-Agenten zu CEOs: Welches Startup ging schon nach weniger als 40 Tagen pleite?",
+          "link": "https://t3n.de/news/forscher-machen-ki-agenten-zu-ceos-welches-modell-ging-schon-nach-weniger-als-40-tagen-pleite-1748776/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine Million Startkapital, 500 Tage Zeit: Eine neue Studie hat anhand eines fiktiven Startups untersucht, ob KI-Agenten langfristig planen können – und kommt zu interessanten Erkenntnissen. weiterlesen auf t3n.de",
+          "published": "Mon, 22 Jun 2026 14:15:29 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "PACT: Cloudflare will mit Browserherstellern böswilligen Traffic aussortieren",
+          "link": "https://www.heise.de/news/PACT-Cloudflare-will-mit-Browserherstellern-boeswilligen-Traffic-aussortieren-11340973.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Browser sollen gegenüber Internetseiten künftig ausweisen, dass Menschen – oder autorisierte KI-Agenten – für den Traffic verantwortlich sind.",
+          "published": "2026-06-23T07:52:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Entwicklungen im Bereich generative KI und LLMs zeigen eine zunehmende Konsolidierung und kritische Auseinandersetzung mit Technologien. Unternehmen wie Cursor erweitern ihre Angebote, während politische Diskussionen über den Einsatz von KI in der Datenanalyse an Intensität gewinnen.",
+      "highlights": [
+        "Cursor erwirbt das Open-Source-Tool Continue als Alternative zu GitHub Copilot.",
+        "Die Grünen in NRW lehnen eine Zusammenarbeit mit Palantir ab, befürworten jedoch automatisierte Datenanalysen.",
+        "Eine Studie zeigt, dass KI-Agenten in einem fiktiven Startup nach weniger als 40 Tagen scheitern können."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "NHTSA investigating alleged Tesla Autopilot crash that killed woman in her home",
+          "link": "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/",
+          "summary": "Tesla touts Autopilot as lifesaving a day after grandmother died in crash.",
+          "published": "Mon, 22 Jun 2026 17:10:52 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Pokémon in Stop-Motion: Wallace-&-Gromit-Studio zeigt erste Szenen der neuen Pokémon-Serie",
+          "link": "https://www.golem.de/news/pokemon-in-stop-motion-wallace-gromit-studio-zeigt-erste-szenen-der-neuen-pokemon-serie-2606-210062.html",
+          "summary": "Die Serie von Aardman heißt Die Abenteuer von Lauchzelot & Pichu, spielt in Galar und setzt auf britischen Humor sowie klassische Stop-Motion-Animation. ( Pokémon , Reisen )",
+          "published": "2026-06-23T09:50:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die EU arbeitet an neuen Tech-Regulierungen, um die Sicherheit und Transparenz von Technologien wie autonomem Fahren zu erhöhen. Dies geschieht vor dem Hintergrund aktueller Vorfälle, die Fragen zur Verantwortung und Sicherheit aufwerfen.",
+      "highlights": [
+        "NHTSA untersucht einen Tesla-Unfall, bei dem eine Frau starb.",
+        "Tesla bewirbt Autopilot als lebensrettende Technologie.",
+        "Die EU plant strengere Vorschriften für autonome Fahrzeuge und deren Sicherheit."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "iPad und Apple Watch zum Amazon Prime Day: Bei diesen 9 Angeboten kannst du wirklich sparen",
+          "link": "https://t3n.de/news/amazon-prime-day-apple-ipad-watch-macbook-1748884/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Zum Amazon Prime Day senkt der Versandhändler bei vielen Apple-Produkten den Preis. Aber sind iPads, Airpods und Apple Watches deswegen echte Schnäppchen? Wir haben die Preise gecheckt, damit ihr es nicht tun müsst. weiterlesen auf t3n.de",
+          "published": "Tue, 23 Jun 2026 10:00:52 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Südkorea zeigt, wie KI-Zukunft aussieht – doch die Schattenseiten werden ignoriert",
+          "link": "https://t3n.de/news/suedkorea-ki-zukunft-schattenseiten-1748103/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In Südkorea ist man von Künstlicher Intelligenz vor allem begeistert. Die Technologie ist allgegenwärtig. Doch es zeigt sich mitunter ein soziales und ethisc weiterlesen auf t3n.de",
+          "published": "Tue, 23 Jun 2026 07:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Android Auto Nachrüsten im Test: So gut funktionieren die externen Displays wirklich",
+          "link": "https://t3n.de/news/android-auto-nachruesten-externe-displays-test-1747813/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Willst du deine Autoreisen mit Apples Carplay oder Android Auto verbessern, aber dein Fahrzeug unterstützt die Systeme nicht? Dann gibt es externe Bildschirme, mit denen sich die Software leicht nachrüsten lassen soll. Wie gut das funktioniert, zeigen wir im Selbstversuch. weiterlesen auf t3n.de",
+          "published": "Tue, 23 Jun 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Einigung mit Nokia: Acer und Asus bringen PCs und Notebooks zurück in den deutschen Handel",
+          "link": "https://t3n.de/news/nokia-acer-asus-pcs-deutschland-1748875/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nach einer Einigung im Patentstreit mit Nokia dürfen Acer und Asus ihre PCs und Notebooks wieder in Deutschland verkaufen. Die Einigung erfolgte unter Zuhilfenahme eines privaten Schiedsgerichts. Details verrieten die Unternehmen nicht. weiterlesen auf t3n.de",
+          "published": "Mon, 22 Jun 2026 22:12:54 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Qodo just shipped cross-repo review. Here’s why it matters for AI-flooded teams.",
+          "link": "https://thenewstack.io/qodo-cross-repo-code-review/",
+          "summary": "Late-night debugging sessions aren&#8217;t a rare edge case anymore. They are what happens when reviews can&#8217;t keep up with volume. The post Qodo just shipped cross-repo review. Here&#8217;s why it matters for AI-flooded teams. appeared first on The New Stack .",
+          "published": "Mon, 22 Jun 2026 19:42:18 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Die Software Supply Chain wird zunehmend durch Open-Source-Lösungen geprägt, die Teams helfen, effizienter zu arbeiten. Qodo hat eine neue Funktion für Cross-Repo-Reviews eingeführt, um den steigenden Anforderungen an Code-Reviews in KI-gestützten Umgebungen gerecht zu werden.",
+      "highlights": [
+        "Qodo ermöglicht jetzt Cross-Repo-Reviews, um den Review-Prozess zu optimieren.",
+        "Die Einführung zielt darauf ab, den Herausforderungen durch hohe Code-Review-Volumina in KI-gestützten Teams zu begegnen.",
+        "Open-Source-Software spielt eine zentrale Rolle in der modernen Software Supply Chain."
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "„Pilze nicht länger übersehen“: Forscher messen unerwartet viel CO2 in den Organismen im Meeresboden",
+          "link": "https://t3n.de/news/pilze-forscher-co2-meer-1748245/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Forschende haben untersucht, wie gut Mikroorganismen Kohlenstoff im Meeresboden aufnehmen – und dauerhaft halten können. Sie sind zu überraschenden Erkenntnissen gekommen. weiterlesen auf t3n.de",
+          "published": "Tue, 23 Jun 2026 06:30:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Forschende haben herausgefunden, dass Mikroorganismen im Meeresboden, insbesondere Pilze, erheblich mehr CO2 speichern können als bisher angenommen. Diese Erkenntnisse könnten wichtige Implikationen für die Kohlenstoffbindung und den Klimaschutz haben.",
+      "highlights": [
+        "Mikroorganismen im Meeresboden können mehr CO2 aufnehmen und speichern als erwartet.",
+        "Die Studie zeigt die Bedeutung von Pilzen für die Kohlenstoffbindung.",
+        "Unerwartete Ergebnisse könnten neue Ansätze für den Klimaschutz eröffnen."
+      ]
+    }
+  ]
+}
