@@ -1,0 +1,371 @@
+{
+  "date": "2026-06-24",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Databricks: Lakehouse//RT soll separate Echtzeitdatenbanken überflüssig machen",
+          "link": "https://www.heise.de/news/Databricks-Lakehouse-RT-soll-separate-Echtzeitdatenbanken-ueberfluessig-machen-11336849.html",
+          "summary": "Databricks bringt mit Lakehouse//RT eine Echtzeitanalyse-Engine für Delta-Lake- und Apache-Iceberg-Tabellen, um spezialisierte Echtzeitdatenbanken zu ersetzen.",
+          "published": "2026-06-19T06:47:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Databricks Genie One: KI-Agent soll Antworten aus Unternehmensdaten ableiten",
+          "link": "https://www.heise.de/news/Databricks-Genie-One-KI-Agent-soll-Antworten-aus-Unternehmensdaten-ableiten-11336737.html",
+          "summary": "Databricks ergänzt seine KI-Plattform um den KI-Agenten Genie One, der dank der neuen Kontextschicht Ontology Unternehmensdaten nutzbar machen soll.",
+          "published": "2026-06-18T09:40:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Databricks hat zwei neue Produkte vorgestellt: Lakehouse//RT, eine Echtzeitanalyse-Engine, die spezialisierte Echtzeitdatenbanken ersetzen soll, sowie den KI-Agenten Genie One, der Unternehmensdaten durch eine neue Kontextschicht nutzbar macht.",
+      "highlights": [
+        "Lakehouse//RT ermöglicht Echtzeitanalysen für Delta-Lake- und Apache-Iceberg-Tabellen.",
+        "Genie One nutzt eine neue Kontextschicht namens Ontology zur Ableitung von Antworten aus Unternehmensdaten.",
+        "Beide Produkte zielen darauf ab, die Effizienz in der Datenverarbeitung und -nutzung zu steigern."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Kubernetes teams trust automation to ship code but not to touch CPU, and AI is raising the stakes",
+          "link": "https://thenewstack.io/kubernetes-teams-trust-automation/",
+          "summary": "Kubernetes teams automate deployments without thinking about it. CI/CD pipelines fire dozens of times a day, autoscaling adjusts replicas in The post Kubernetes teams trust automation to ship code but not to touch CPU, and AI is raising the stakes appeared first on The New Stack .",
+          "published": "Tue, 23 Jun 2026 20:56:47 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Europa 2031: Warum ein Szenario über Europas Niedergang für Aufregung sorgt",
+          "link": "https://t3n.de/news/europa-2031-warum-ein-szenario-ueber-europas-niedergang-fuer-aufregung-sorgt-1749047/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das fiktive Szenario Europa 2031 zeigt, wie Europas Plan für eine technologische Souveränität geradewegs in die wirtschaftliche Bedeutungslosigkeit führt. Das Papier sorgt für hitzige Diskussionen. weiterlesen auf t3n.de",
+          "published": "Tue, 23 Jun 2026 16:15:24 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Prime Day 2026: Diese Balkonkraftwerke und Solarspeicher lohnen sich jetzt",
+          "link": "https://t3n.de/news/prime-day-2026-diese-balkonkraftwerke-und-solarspeicher-lohnen-sich-jetzt-1749009/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Steigende Strompreise und der Wunsch nach mehr Unabhängigkeit bei der Energieversorgung sorgen dafür, dass Balkonkraftwerke weiterhin stark gefragt sind, zumal die Preise für Solarpanels und Speicher in den letzten Jahren aufgrund höherer Stückzahlen zunehmend günstiger geworden sind. weiterlesen auf t3n.de",
+          "published": "Tue, 23 Jun 2026 15:45:49 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: The Time It Wasn't DNS",
+          "link": "https://www.infoq.com/presentations/incident-dns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Sean Klein discusses why \"human error\" is a dangerous myth in complex systems. Sharing the inside story of Azure’s 2023 global WAN outage, he explains how modern incident analysis looks past the \"Five Whys\" to uncover systemic issues. Learn how engineering leaders can move away from blame, improve Standard Operating Procedures, and design resilient systems that actively protect their engineers. By Sean Klein",
+          "published": "Tue, 23 Jun 2026 13:05:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Microsoft Expands Azure Kubernetes Service with Bare Metal, Fleet Management and AI Infrastructure",
+          "link": "https://www.infoq.com/news/2026/06/microsoft-build-aks-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "At this year's Microsoft Build 2026, Microsoft unveiled a broad set of enhancements to Azure Kubernetes Service (AKS) aimed at making Kubernetes a first-class platform for AI training, inference, and large-scale cloud-native applications. By Craig Risi",
+          "published": "Tue, 23 Jun 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Die Cloud-Architektur entwickelt sich weiter, insbesondere durch die Integration von KI in Kubernetes-Plattformen. Microsoft hat kürzlich neue Funktionen für Azure Kubernetes Service vorgestellt, um die Plattform für KI-Anwendungen zu optimieren.",
+      "highlights": [
+        "Microsoft kündigte auf der Build 2026 Verbesserungen für Azure Kubernetes Service an.",
+        "Die neuen Funktionen zielen darauf ab, Kubernetes als Plattform für KI-Training und cloud-native Anwendungen zu stärken.",
+        "Automatisierung in Kubernetes-Teams wird zunehmend genutzt, während Bedenken hinsichtlich der CPU-Nutzung durch KI wachsen."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Spuren von Cyberangriffen führen oft nach Russland",
+          "link": "https://www.heise.de/news/Spuren-von-Cyberangriffen-fuehren-oft-nach-Russland-11342220.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Deutschland ist Hotspot für Ransomware. Experte erklärt, warum Kliniken im Visier sind und Russland als sicherer Hafen für Cyberkriminelle dient.",
+          "published": "2026-06-24T08:31:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: OWASP Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
+          "link": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-11331962.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie die wichtigsten Sicherheitslücken in Webanwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
+          "published": "2026-06-24T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Meta setzt das Mitarbeiter-Tracking für KI-Training nach möglichem Datenleck aus",
+          "link": "https://www.heise.de/news/Meta-setzt-das-Mitarbeiter-Tracking-fuer-KI-Training-nach-moeglichem-Datenleck-aus-11342168.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die für das KI-Training erfassten Daten vom Mitarbeiter-Tracking sollen nicht ausreichend geschützt sein. Meta Platforms hat die Überwachung vorerst gestoppt.",
+          "published": "2026-06-24T05:05:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Cyberangriff auf Klue: Hacker erbeutet Daten von Lastpass-Nutzern",
+          "link": "https://www.golem.de/news/cyberangriff-auf-klue-hacker-erbeutet-daten-von-lastpass-nutzern-2606-210107.html",
+          "summary": "Bei einem Cyberangriff auf das Unternehmen Klue sind Daten unzähliger Salesforce-Kunden abgeflossen. Auch Lastpass-Nutzer sind betroffen. ( Datenleck , API )",
+          "published": "2026-06-24T08:52:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Cyberangriffe nehmen in Deutschland zu, insbesondere Ransomware-Attacken auf Kliniken. Sicherheitslücken in Webanwendungen und Datenlecks bei Unternehmen wie Klue zeigen die Dringlichkeit von IT-Sicherheit. Meta hat aufgrund unzureichender Datensicherheit das Mitarbeiter-Tracking für KI-Training ausgesetzt.",
+      "highlights": [
+        "Deutschland gilt als Hotspot für Ransomware-Angriffe, insbesondere auf Kliniken.",
+        "Ein Cyberangriff auf Klue führte zum Datenverlust von Salesforce- und Lastpass-Nutzern.",
+        "Meta stoppt Mitarbeiter-Tracking für KI-Training wegen unzureichendem Datenschutz."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Energieeffizienz: Bundesregierung will Vorgaben für Rechenzentren lockern",
+          "link": "https://www.heise.de/news/Energieeffizienz-Bundesregierung-will-Vorgaben-fuer-Rechenzentren-lockern-11342120.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die geplante Novelle des Energieeffizienzgesetzes ist weniger streng beim Stromverbrauch von IT-Infrastruktur. Die Wirtschaft atmet auf, doch es hagelt Kritik.",
+          "published": "2026-06-23T21:32:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kestra: Ops-Automation jenseits von CI/CD",
+          "link": "https://www.heise.de/hintergrund/Kestra-Ops-Automation-jenseits-von-CI-CD-11337589.html",
+          "summary": "CI/CD-Pipelines sind für Code-Deployments optimiert. Langlebige Betriebsprozesse und Self-Service-Workflows lassen sich flexibler mit Kestra orchestrieren.",
+          "published": "2026-06-20T07:05:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Deutsche Tochterfirma: Waymo landet in München",
+          "link": "https://www.golem.de/news/deutsche-tochterfirma-waymo-landet-in-muenchen-2606-210115.html",
+          "summary": "Die Waymo Germany GmbH steht seit Mitte Juni im Handelsregister. Jobausschreibungen und eine mögliche Partnerschaft deuten auf einen baldigen Start hin. ( Waymo , Auto )",
+          "published": "2026-06-24T10:08:07+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Pflichten nicht erfüllt: Schwere Vorwürfe gegen Instagram, Tiktok, Youtube und Co.",
+          "link": "https://www.golem.de/news/pflichten-werden-nicht-erfuellt-schwere-vorwuerfe-gegen-instagram-tiktok-youtube-und-co-2606-210085.html",
+          "summary": "Verbraucherschützer belegen in einer Untersuchung, dass Social-Media-Anbieter Minderjährige nicht ausreichend vor Risiken schützen. ( Soziales Netz , Verbraucherschutz )",
+          "published": "2026-06-23T14:15:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die heutige Berichterstattung thematisiert Entwicklungen in der IT-Branche, insbesondere im Bereich DevOps und Test-Automatisierung. Während Kestra neue Möglichkeiten zur Orchestrierung von Betriebsprozessen bietet, sorgt die Lockerung der Vorgaben für Rechenzentren für Kontroversen.",
+      "highlights": [
+        "Kestra ermöglicht flexiblere Orchestrierung von Betriebsprozessen jenseits von CI/CD.",
+        "Die Bundesregierung plant eine Novelle des Energieeffizienzgesetzes mit weniger strengen Vorgaben für Rechenzentren.",
+        "Verbraucherschützer werfen Social-Media-Anbietern vor, Minderjährige nicht ausreichend zu schützen."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Can DNS become the basis for AI agent identity?",
+          "link": "https://thenewstack.io/can-dns-become-the-basis-for-ai-agent-identity/",
+          "summary": "The Linux Foundation on Tuesday declared its intent to launch the Agent Name Service (ANS), an open standard that gives The post Can DNS become the basis for AI agent identity? appeared first on The New Stack .",
+          "published": "Tue, 23 Jun 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Qualcomm: Linux-Neustart für Dragonwing-Plattform",
+          "link": "https://www.heise.de/news/Qualcomm-Linux-Neustart-fuer-Dragonwing-Plattform-11341860.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Qualcomm verspricht einen grundlegenden Neustart beim Linux-Support für seine Dragonwing-Linie und hat „Qualcomm Linux 2.0“ angekündigt.",
+          "published": "2026-06-23T17:36:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Meta Glasses: Neue KI-Brillenmarke löst sich vom Ray-Ban-Design",
+          "link": "https://www.heise.de/news/Meta-Glasses-Neue-KI-Brillenmarke-loest-sich-vom-Ray-Ban-Design-11341740.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Meta bringt mit EssilorLuxottica eine eigene Brillenlinie auf den Markt. Sie ist günstiger als die Ray-Ban-Modelle und setzt auf ein neues KI-Modell.",
+          "published": "2026-06-23T16:17:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anzeige: Ninja Luxe Premier Kaffeemaschine mit hohem Prime-Rabatt",
+          "link": "https://www.golem.de/news/anzeige-ninja-luxe-premier-kaffeemaschine-mit-hohem-prime-rabatt-2606-210086.html",
+          "summary": "Die Ninja Luxe Premier 3-in-1 Kaffeemaschine gibt es am Prime Day 150 Euro günstiger. Auch eine mobile Alternative von OutIn ist reduziert. ( Technik/Hardware )",
+          "published": "2026-06-23T13:50:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Tech-Welt zeigen Fortschritte in den Bereichen KI und Hardware. Die Linux Foundation plant einen neuen Standard für KI-Agenten, während Qualcomm seine Linux-Plattform überarbeitet und Meta eine neue Brillenlinie mit KI-Integration einführt.",
+      "highlights": [
+        "Linux Foundation kündigt Agent Name Service (ANS) für KI-Agenten an.",
+        "Qualcomm stellt 'Qualcomm Linux 2.0' für die Dragonwing-Plattform vor.",
+        "Meta bringt günstigere KI-Brillen auf den Markt, die sich vom Ray-Ban-Design abheben."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Anthropic gives @Claude a permanent seat in your Slack channels",
+          "link": "https://thenewstack.io/anthropic-claude-tag-slack/",
+          "summary": "Anthropic has announced Claude Tag, a new product that embeds Claude directly into Slack as a persistent, shared team member The post Anthropic gives @Claude a permanent seat in your Slack channels appeared first on The New Stack .",
+          "published": "Tue, 23 Jun 2026 18:50:18 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Sicherheitslücken finden: OpenAIs GPT-5.5-Cyber soll Anthropics Mythos 5 übertreffen",
+          "link": "https://t3n.de/news/benchmark-gpt-5-5-cyber-mythos-5-1749083/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "OpenAI hat sein auf KI-Sicherheit spezialisiertes Modell GPT-5.5-Cyber upgedatet. Die neue Version soll Anthropics Mythos 5 beim Auffinden von Sicherheitslücken in großen Codebasen übertreffen. Zudem wird das Update für Partnerfirmen geöffnet. weiterlesen auf t3n.de",
+          "published": "Tue, 23 Jun 2026 19:57:36 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenClaw and Hermes agree on what an agent is. They disagree on what controls it.",
+          "link": "https://thenewstack.io/openclaw-hermes-agent-harness/",
+          "summary": "At Microsoft’s Build keynote this month, CEO Satya Nadella described a platform shift away from operating systems and apps, and The post OpenClaw and Hermes agree on what an agent is. They disagree on what controls it. appeared first on The New Stack .",
+          "published": "Tue, 23 Jun 2026 17:56:26 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Nx debuts Polygraph, taking aim at what’s stalling AI coding agents",
+          "link": "https://thenewstack.io/nx-polygraph-synthetic-monorepo-agents/",
+          "summary": "Nx, the company behind the open-source monorepo build system of the same name, on Tuesday launched Polygraph, a service that The post Nx debuts Polygraph, taking aim at what&#8217;s stalling AI coding agents appeared first on The New Stack .",
+          "published": "Tue, 23 Jun 2026 16:30:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AI can write the code. Your team still owns the debt.",
+          "link": "https://thenewstack.io/ai-technical-debt-verification/",
+          "summary": "The software industry is still talking about AI mostly in terms of speed. Models and agents can now generate code The post AI can write the code. Your team still owns the debt. appeared first on The New Stack .",
+          "published": "Tue, 23 Jun 2026 16:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Die neuesten Entwicklungen im Bereich generative KI und LLMs zeigen Fortschritte in der Integration von KI in Arbeitsumgebungen und der Verbesserung von Sicherheitslösungen. Unternehmen wie Anthropic und OpenAI setzen neue Produkte und Updates ein, um die Effizienz und Sicherheit in der Softwareentwicklung zu steigern.",
+      "highlights": [
+        "Anthropic hat Claude Tag eingeführt, der als permanentes Teammitglied in Slack integriert wird.",
+        "OpenAI aktualisiert GPT-5.5-Cyber, um Sicherheitslücken in Codebasen effektiver zu identifizieren.",
+        "Nx hat Polygraph gestartet, um Herausforderungen bei KI-Coding-Agenten anzugehen."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Thunderbird: Webmail-Alpha kommt im nächsten Monat",
+          "link": "https://www.heise.de/news/Thunderbird-Webmail-Alpha-kommt-im-naechsten-Monat-11342374.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Thunderbird passt Roadmap an: Eine Webmail-Oberfläche kommt schon bald als frühe Alpha. Auch 2FA, Mailzustellung und Onboarding werden verbessert.",
+          "published": "2026-06-24T09:19:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Verbraucherschützer fordern Safety by Design für alle statt Social-Media-Verbote",
+          "link": "https://www.heise.de/news/Verbraucherschuetzer-fordern-Safety-by-Design-fuer-alle-statt-Social-Media-Verbote-11341844.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der vzbv hat Facebook, Instagram, Snapchat, TikTok und YouTube untersucht: Suchtfördernde Mechanismen und Dark Patterns gefährden Minderjährige trotz DSA.",
+          "published": "2026-06-23T17:58:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "GSM-R: Fehlerhaftes Update hat wohl den Bahnfunk lahmgelegt",
+          "link": "https://www.golem.de/news/gsm-r-fehlerhaftes-update-hat-wohl-den-bahnfunk-lahmgelegt-2606-210111.html",
+          "summary": "Der Bahnfunk dürfte durch ein Update im Core des GSM-R gecrasht sein. Schuld daran könnten der Ausrüster oder die Deutsche Bahn selbst sein. Ein Bericht von Achim Sawall ( Deutsche Bahn , GSM )",
+          "published": "2026-06-24T09:19:02+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "(g+) GDScript im Praxistest: Warten in der Godot-Engine",
+          "link": "https://www.golem.de/news/gdscript-im-praxistest-warten-in-der-godot-engine-2606-210075.html",
+          "summary": "GDScript ist eng mit Godot verknüpft und deswegen gut für Einsteiger. Sie sollten allerdings um seine Schwächen wissen, damit ihr Gameplay-Code nicht crasht. Von Fabian Deitelhoff ( Softwareentwicklung , Server )",
+          "published": "2026-06-23T13:30:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die EU-Tech-Regulierung steht im Fokus, insbesondere im Hinblick auf den Schutz von Minderjährigen vor schädlichen Online-Inhalten. Verbraucherschützer fordern umfassende Sicherheitsstandards anstelle von Verboten für soziale Medien.",
+      "highlights": [
+        "Verbraucherschützer untersuchen Facebook, Instagram, Snapchat, TikTok und YouTube auf suchtfördernde Mechanismen.",
+        "Der vzbv fordert 'Safety by Design' für alle digitalen Plattformen.",
+        "DSA (Digital Services Act) soll Minderjährige besser schützen, indem schädliche Praktiken reguliert werden."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Schluss mit Kreditkarte: Wie du mit der Girocard bald Mietwagen und Hotels buchen kannst",
+          "link": "https://t3n.de/news/schluss-mit-kreditkarte-wie-du-mit-der-girocard-bald-mietwagen-und-hotels-buchen-kannst-1749117/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Girocard kann bald, was bisher nur mit Kreditkarte ging: Mietwagen buchen und Hotelzimmer reservieren. Für Händler wird es deutlich günstiger. Das sind die neuen Funktionen. weiterlesen auf t3n.de",
+          "published": "Wed, 24 Jun 2026 08:15:53 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Girocard wird künftig die Möglichkeit bieten, Mietwagen und Hotelzimmer zu buchen, was bisher nur mit Kreditkarten möglich war. Diese Neuerung senkt die Kosten für Händler erheblich.",
+      "highlights": [
+        "Girocard kann bald für Mietwagenbuchungen verwendet werden.",
+        "Hotelreservierungen sind ebenfalls mit der Girocard möglich.",
+        "Händler profitieren von niedrigeren Transaktionskosten."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Magic Mushrooms gegen Alzheimer? In einer Einzelfallstudie besserten sich manche Symptome",
+          "link": "https://t3n.de/news/magic-mushrooms-gegen-alzheimer-symptome-verbessern-psychedelika-1748978/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nur eine Dosis Psilocybin – und eine Frau mit schwerem Alzheimer kann wieder sprechen. Auch andere Symptome bessern sich. Wie aussagekräftig sind die Ergebnisse einer Aufsehen erregenden Fallstudie aus Brasilien? weiterlesen auf t3n.de",
+          "published": "Wed, 24 Jun 2026 09:15:40 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Lineshine schlägt El Capitan: China gewinnt das Rennen um den schnellsten Rechner der Welt",
+          "link": "https://t3n.de/news/supercompter-lineshine-schlaegt-el-capitan-china-gewinnt-das-rennen-um-den-schnellsten-rechner-der-welt-top500-1749126/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "China überholt die USA: Der Supercomputer Lineshine aus Shenzhen schafft 2,2 Trillionen Rechenoperationen pro Sekunde und ist damit schneller als jedes andere System auf der Welt. Ein deutscher Supercomputer liegt nun auf Platz fünf. weiterlesen auf t3n.de",
+          "published": "Wed, 24 Jun 2026 08:40:36 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Arbeitstrend Chronoworking: &quot;Chef, ich kann morgens um 7 noch nicht so gut arbeiten&quot;",
+          "link": "https://t3n.de/news/arbeitstrend-chronoworking-chef-ich-kann-morgens-um-7-noch-nicht-so-gut-arbeiten-1748828/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Häufig profitieren vor allem Frühaufsteher von gängigen Regelungen zur Arbeitszeit. Ein Trend stellt sich allerdings dagegen: Das &#8222;Chronoworking&#8220;. Wie man zusammen mit der eigenen inneren Uhr seinen Arbeitsalltag produktiver macht. weiterlesen auf t3n.de",
+          "published": "Wed, 24 Jun 2026 07:30:02 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "A curious crossover: The Toyota C-HR review",
+          "link": "https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/",
+          "summary": "Although it's on the smaller side, this electric vehicle is not very chill.",
+          "published": "Tue, 23 Jun 2026 18:19:50 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Alternative zu Visa, Paypal und Co.: EU-Abgeordnete stimmen für Digitalen Euro",
+          "link": "https://netzpolitik.org/2026/alternative-zu-visa-paypal-und-co-eu-abgeordnete-stimmen-fuer-digitalen-euro/",
+          "summary": "Der Digitale Euro soll auch offline funktionieren - so anonym wie Bargeld. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Immo Wegmann Das Europäische Parlament hat für den Digitalen Euro votiert. Im weiteren Aushandlungsverfahren zwischen Parlament, Rat und Kommission stehen dann Haltelimits, Gebühren und Offline-Zahlungen im Fokus. Eine Einführung des digitalen Zentralbankgeldes ist frühestens ab 2029 möglich.",
+          "published": "Tue, 23 Jun 2026 15:42:06 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "Das Thema Open Source und Software Supply Chain gewinnt zunehmend an Bedeutung, insbesondere im Kontext von Sicherheitsrisiken und der Notwendigkeit für Transparenz in der Softwareentwicklung. Unternehmen müssen sich verstärkt mit der Integrität ihrer Software-Lieferketten auseinandersetzen, um potenzielle Bedrohungen zu minimieren.",
+      "highlights": [
+        "Open Source Software ist anfällig für Sicherheitslücken, die durch unsichere Abhängigkeiten entstehen können.",
+        "Eine transparente Software Supply Chain ermöglicht es Unternehmen, Risiken besser zu identifizieren und zu managen.",
+        "Regulatorische Anforderungen fordern zunehmend Nachweise über die Sicherheit und Herkunft von Softwarekomponenten."
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "CO2 aus dem Meer entfernen: Neue Pilotanlage soll es besser machen als Filter für die Atmosphäre",
+          "link": "https://t3n.de/news/co2-meer-pilotanlage-filter-atmosphaere-1748295/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine neue Pilotanlage soll künftig CO2 aus dem Meer herausfiltern. Die Projektpartner sehen das als einen zusätzlichen Weg zur Klima-Neutralität. Obwohl mehr weiterlesen auf t3n.de",
+          "published": "Wed, 24 Jun 2026 06:30:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Eine neue Pilotanlage wird entwickelt, um CO2 direkt aus dem Meer zu filtern. Die Projektpartner betrachten dies als ergänzenden Ansatz zur Erreichung der Klima-Neutralität.",
+      "highlights": [
+        "Pilotanlage zur CO2-Entfernung aus dem Meer",
+        "Zusätzlicher Weg zur Klima-Neutralität",
+        "Entwicklung von Technologien zur Bekämpfung des Klimawandels"
+      ]
+    }
+  ]
+}
