@@ -1,0 +1,340 @@
+{
+  "date": "2026-06-25",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Mehr Unabhängigkeit von Nvidia: OpenAI bringt mit Jalapeño ersten eigenen KI-Chip",
+          "link": "https://t3n.de/news/openai-jalapeno-ki-chip-1749447/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die im Oktober 2025 bekanntgegebene Kooperation zwischen OpenAI und Broadcom trägt erste Früchte. Mit Jalapeño haben die beiden Konzerne den ersten eigenen KI-Chip präsentiert. Zu dessen Entwicklung sollen auch KI-Tools von OpenAI beigetragen haben. weiterlesen auf t3n.de",
+          "published": "Thu, 25 Jun 2026 10:08:10 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Slack Outlines Four-Phase Journey to a Multi-Cloud AI Serving Platform",
+          "link": "https://www.infoq.com/news/2026/06/slack-multicloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Slack has outlined how its AI serving infrastructure evolved through four distinct phases, moving from a self-managed Amazon SageMaker deployment to a multi-cloud architecture spanning AWS Bedrock and Google Cloud Vertex AI. By Matt Foster",
+          "published": "Thu, 25 Jun 2026 07:02:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Grab Builds Secure Agentic AI Workload Platform",
+          "link": "https://www.infoq.com/news/2026/06/grab-ai-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Grab's security team built Palana, a Kubernetes-native secure execution platform, to run autonomous AI agents safely. Unlike deterministic software, model-driven agents exhibit unpredictable tool-use, code-writing, and prompt injection risks. Palana contains these threats at the infrastructure level using isolated namespaces, out-of-process control planes, and proxy-mediated, Vault-backed secrets. By Patrick Farry",
+          "published": "Thu, 25 Jun 2026 02:08:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Disney agreed to $50M settlement over claims it made live-TV streaming expensive",
+          "link": "https://arstechnica.com/tech-policy/2026/06/disney-agreed-to-50m-settlement-over-claims-it-made-live-tv-streaming-expensive/",
+          "summary": "Lawsuit alleged Disney inflated market prices by making carriers include ESPN.",
+          "published": "Wed, 24 Jun 2026 20:22:58 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Google OpenRL is an Experimental Self-hosted API for LLM Post-Training Fine-tuning",
+          "link": "https://www.infoq.com/news/2026/06/google-open-rl-fine-tuning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google's GKE Labs has introduced OpenRL, an open-source project that provides a self-hosted API for post-training and fine-tuning Large Language Models (LLMs) on standard Kubernetes clusters. By Sergio De Simone",
+          "published": "Wed, 24 Jun 2026 18:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "OpenAI hat mit Jalapeño seinen ersten eigenen KI-Chip vorgestellt, um die Abhängigkeit von Nvidia zu reduzieren. Slack und Grab entwickeln ihre Cloud-Architekturen weiter, um KI-Dienste effizienter und sicherer bereitzustellen. Google hat OpenRL eingeführt, ein selbstgehostetes API für das Fine-Tuning von LLMs auf Kubernetes.",
+      "highlights": [
+        "OpenAI und Broadcom präsentieren den KI-Chip Jalapeño.",
+        "Slack entwickelt eine Multi-Cloud AI Serving Plattform mit AWS und Google Cloud.",
+        "Google's OpenRL ermöglicht das Fine-Tuning von LLMs auf Kubernetes-Clustern."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Azul wants to find your unpatched JVMs before AI does",
+          "link": "https://thenewstack.io/azul-java-security-jvm-mythos/",
+          "summary": "Azul Systems is offering a free Java Virtual Machine (JVM) vulnerability risk assessment designed to reveal Java runtime exposure before The post Azul wants to find your unpatched JVMs before AI does appeared first on The New Stack .",
+          "published": "Wed, 24 Jun 2026 20:53:07 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Chainguard targets Java’s unpatched vulnerability backlog with drop-in remediated libraries",
+          "link": "https://thenewstack.io/chainguard-java-libraries-spring-boot-cves/",
+          "summary": "Legacy Java shops are sitting on a growing pile of unpatched vulnerabilities. Chainguard says it has a fix for that. The post Chainguard targets Java&#8217;s unpatched vulnerability backlog with drop-in remediated libraries appeared first on The New Stack .",
+          "published": "Wed, 24 Jun 2026 20:48:37 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Azul Systems bietet eine kostenlose Risikoanalyse für Java Virtual Machines (JVMs) an, um ungeschützte Laufzeitumgebungen zu identifizieren. Chainguard präsentiert Lösungen zur Behebung unpatched vulnerabilities in Legacy-Java-Anwendungen durch einsatzbereite Bibliotheken.",
+      "highlights": [
+        "Azul Systems führt eine kostenlose JVM-Sicherheitsbewertung ein.",
+        "Chainguard bietet remediated libraries für unpatchte Java-Sicherheitslücken an.",
+        "Die Anzahl ungeschützter Java-Anwendungen wächst stetig."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Datenleck bei Meta: Umstrittene Tracking-Software gibt persönliche Informationen preis",
+          "link": "https://t3n.de/news/datenleck-bei-meta-umstrittene-tracking-software-gibt-persoenliche-informationen-preis-1749304/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mehr als 1.600 Angestellte haben beim Facebook-Konzern Meta aufgrund von Datenschutzbedenken eine Petition gegen den Einsatz einer neuen Software unterzeichnet. Das Tool soll unter anderem Klicks und Mausbewegungen tracken. Jetzt gesteht der Tech-Konzern mangelhafte Sicherheitsvorkehrungen ein. weiterlesen auf t3n.de",
+          "published": "Wed, 24 Jun 2026 17:30:11 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise-Angebot:  c’t-Workshop: Physische IT-Sicherheit",
+          "link": "https://www.heise.de/news/c-t-Workshop-Physische-IT-Sicherheit-11330102.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Workshop zeigt praxisnah, wie Angreifer physische Schwachstellen in Unternehmen ausnutzen und wie Sie Ihre IT-Infrastruktur wirksam dagegen schützen können.",
+          "published": "2026-06-25T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Minimus stellt tausende CVE-freie Container-Images kostenlos bereit",
+          "link": "https://www.heise.de/news/Minimus-oeffnet-Katalog-gehaerteter-Container-Images-fuer-alle-Entwickler-11342569.html",
+          "summary": "Entwickler erhalten uneingeschränkten Zugriff auf tausende nahezu CVE-freie Images aus dem Minimus-Katalog distroloser, gehärteter Container-Images.",
+          "published": "2026-06-24T10:46:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Datenleck stoppt KI-Training: Meta setzt Überwachung seiner Angestellten aus",
+          "link": "https://www.golem.de/news/datenleck-stoppt-ki-training-meta-setzt-ueberwachung-seiner-angestellten-aus-2606-210141.html",
+          "summary": "Meta-Angestellte haben zuvor gegen die Praxis protestiert, dass Tastaturanschläge und Bildschirminhalte für KI-Trainings aufgezeichnet wurden. ( KI , Wirtschaft )",
+          "published": "2026-06-24T16:29:02+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Gesundheitspersonal empört: Drama um Phishing-Übung mit Extra-Urlaubstag",
+          "link": "https://www.golem.de/news/gesundheitspersonal-empoert-drama-um-phishing-uebung-mit-extra-urlaubstag-2606-210129.html",
+          "summary": "Eine Phishing-Übung der kanadischen NL Health Services stößt auf heftige Kritik. Sie hat das Personal genau dort getroffen, wo es gerade weh tat. ( Phishing , E-Mail )",
+          "published": "2026-06-24T13:19:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle Berichte zeigen, dass Datenschutzbedenken bei Meta zu einem Datenleck führten, während eine Phishing-Übung im Gesundheitswesen für Empörung sorgte. Zudem bietet Minimus CVE-freie Container-Images an, um die IT-Sicherheit zu verbessern.",
+      "highlights": [
+        "1.600 Meta-Mitarbeiter unterzeichnen Petition gegen Tracking-Software.",
+        "Meta setzt Überwachung zur KI-Trainingszwecken aufgrund von Protesten aus.",
+        "Minimus stellt tausende CVE-freie Container-Images kostenlos zur Verfügung."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Jugendschutz-Empfehlungen: Expert*innen-Kommission schlägt Alternativen zum Social-Media-Verbot vor",
+          "link": "https://netzpolitik.org/2026/jugendschutz-empfehlungen-expertinnen-kommission-schlaegt-alternativen-zum-social-media-verbot-vor/",
+          "summary": "Familienministerin Karin Prien flankiert von den Co-Vorsitzenden ihrer Expert*innenkommission, Olaf Köller und Nadine Schön. – Alle Rechte vorbehalten: IMAGO / IPON Im Auftrag der Bundesregierung haben Fachleute Empfehlungen für Jugendschutz im Netz erarbeitet. Sie schlagen neben einem EU-weiten Social-Media-Verbot unter 13 Jahren auch vor, die Plattformen stärker in die Pflicht zu nehmen – und spielen den Ball so zurück an die Politik.",
+          "published": "Wed, 24 Jun 2026 10:00:28 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "ADAC-Ganzjahresreifentest: Ein Modell ist „gut“, fünf sind ein Sicherheitsrisiko",
+          "link": "https://www.heise.de/ratgeber/ADAC-Ganzjahresreifentest-Ein-Modell-ist-gut-fuenf-sind-ein-Sicherheitsrisiko-11342926.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der ADAC hat 16 Ganzjahresreifen für Kleinwagen getestet. Nur ein Modell erhält die Note „gut“, acht bekommen keine Kaufempfehlung, fünf sind mangelhaft.",
+          "published": "2026-06-24T14:05:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kestra: Ops-Automation jenseits von CI/CD",
+          "link": "https://www.heise.de/hintergrund/Kestra-Ops-Automation-jenseits-von-CI-CD-11337589.html",
+          "summary": "CI/CD-Pipelines sind für Code-Deployments optimiert. Langlebige Betriebsprozesse und Self-Service-Workflows lassen sich flexibler mit Kestra orchestrieren.",
+          "published": "2026-06-20T07:05:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Weniger für mehr Geld: Microsoft rechtfertigt 8 GByte RAM in eigenen Laptops",
+          "link": "https://www.golem.de/news/weniger-fuer-mehr-geld-microsoft-rechtfertigt-8-gbyte-ram-in-eigenen-laptops-2606-210161.html",
+          "summary": "Der Hersteller hat den RAM im Vergleich zum Vorjahr halbiert und die Preise trotzdem erhöht. Das soll laut Microsoft-FAQ ausreichen. ( Surface , Microsoft )",
+          "published": "2026-06-25T09:44:03+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Energieeffizienzgesetz: Bundesregierung weicht Rechenzentrumseffizienz weiter auf",
+          "link": "https://www.golem.de/news/energieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html",
+          "summary": "Niedrigere Effizienz, mehr Zeit für Modernisierung und Doppelbilanzierung: Die Bundesregierung kommt Betreibern von Rechenzentren noch weiter entgegen. ( Energie & Klima , GreenIT )",
+          "published": "2026-06-24T18:07:06+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die heutige Berichterstattung umfasst Themen wie Jugendschutz im Internet, die Sicherheit von Ganzjahresreifen und innovative Ansätze zur Automatisierung von Betriebsprozessen mit Kestra. Zudem wird die Aufweichung des Energieeffizienzgesetzes für Rechenzentren durch die Bundesregierung thematisiert.",
+      "highlights": [
+        "Expert*innenkommission empfiehlt EU-weites Social-Media-Verbot unter 13 Jahren.",
+        "ADAC testet 16 Ganzjahresreifen, nur ein Modell erhält die Note 'gut'.",
+        "Kestra ermöglicht flexiblere Orchestrierung von Betriebsprozessen jenseits von CI/CD."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Figma: KI-Werkzeuge für Design, Code und Zusammenarbeit",
+          "link": "https://www.heise.de/news/Figma-KI-Werkzeuge-fuer-Design-Code-und-Zusammenarbeit-11343035.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Figma entwickelt Werkzeuge, mit denen Entwickler und Designer gemeinsam Apps und Webseiten erarbeiten, statt anfangs leere Entwürfe später in Code nachzubauen.",
+          "published": "2026-06-24T18:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux-Touchpanel mit A20-Rechner",
+          "link": "https://www.heise.de/news/Linux-Touchpanel-mit-A20-Rechner-11343187.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das LCD7-PANEL-LIME2 kombiniert einen Linux-Rechner mit einem 7-Zoll-Touchscreen und kommt komplett vormontiert.",
+          "published": "2026-06-24T15:09:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anzeige: Eismaschine Ninja Creami Deluxe zum günstigen Prime Day Preis",
+          "link": "https://www.golem.de/news/anzeige-eismaschine-ninja-creami-deluxe-zum-guenstigen-prime-day-preis-2606-210159.html",
+          "summary": "Die Eismaschine Ninja Creami Deluxe mit zehn Programmen für Eis, Frozen Yoghurt, Slushi und mehr ist am Prime Day stark reduziert. ( Technik/Hardware , Prime Day )",
+          "published": "2026-06-25T10:01:11+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Anzeige: BFSG und WCAG in Webprojekten umsetzen",
+          "link": "https://www.golem.de/news/anzeige-bfsg-und-wcag-in-webprojekten-umsetzen-2606-209713.html",
+          "summary": "Barrierefreiheit im Web verbindet Recht, Standards und Entwicklung. Ein Online-Workshop zeigt, wie BFSG, WCAG und Prüfprozesse umgesetzt werden. ( Golem Karrierewelt , Unternehmenssoftware )",
+          "published": "2026-06-25T06:30:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Figma entwickelt neue KI-Werkzeuge, die die Zusammenarbeit zwischen Entwicklern und Designern verbessern, indem sie die Erstellung von Apps und Webseiten effizienter gestalten. Dies ermöglicht eine nahtlose Integration von Design und Code, anstatt dass Designer zunächst leere Entwürfe erstellen müssen.",
+      "highlights": [
+        "Figma's KI-Werkzeuge fördern die Zusammenarbeit zwischen Designern und Entwicklern.",
+        "Die neuen Funktionen ermöglichen eine direkte Umsetzung von Designs in Code.",
+        "Ziel ist es, den Entwicklungsprozess von Apps und Webseiten zu optimieren."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Diese 5 Wörter helfen: Wie ChatGPT und Claude deinen Schreibstil lernen",
+          "link": "https://t3n.de/news/ai-slop-prompt-gegen-generische-ki-texte-1749404/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "„Schreibt“ ChatGPT, wird es oberflächlich: KI-generierte Texte sind meist voller Worthülsen. Wer das ändern will, muss seinen eigenen Schreibstil kennen und ihn dem KI-Chatbot vermitteln. Zwei Prompts helfen dabei, die eigene Tonalität zu definieren und weiterzugeben. weiterlesen auf t3n.de",
+          "published": "Thu, 25 Jun 2026 09:00:37 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anthropic wirft Alibaba massiven Datendiebstahl vor - und fordert Kongress zum Handeln auf",
+          "link": "https://t3n.de/news/anthropic-wirft-alibaba-massiven-datendiebstahl-vor-und-fordert-kongress-zum-handeln-auf-1749440/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die KI-Firma Anthropic gilt als schärfster Rivale des ChatGPT-Entwicklers OpenAI. Jetzt könnten ihre Vorwürfe in Richtung China für neuen Zündstoff zwischen Washington und Peking sorgen. weiterlesen auf t3n.de",
+          "published": "Thu, 25 Jun 2026 08:00:06 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Pleite in 500 Tagen: Warum die meisten KI-Agenten als CEO kläglich scheitern",
+          "link": "https://t3n.de/news/pleite-ki-agenten-ceo-scheitern-1748776/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine Million Startkapital, 500 Tage Zeit: Eine neue Studie hat anhand eines fiktiven Startups untersucht, ob KI-Agenten langfristig planen können – und kommt zu interessanten Erkenntnissen. weiterlesen auf t3n.de",
+          "published": "Thu, 25 Jun 2026 06:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anthropic Lead: HTML Increasingly Better Than Markdown at Keeping Humans Engaged in Agentic Loops",
+          "link": "https://www.infoq.com/news/2026/06/anthropic-html-markdown-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Thariq Shihipar, engineering lead for the Claude Code team, recently published a blog post (Using Claude Code: The Unreasonable Effectiveness of HTML) arguing that HTML, with its richer visualizations, color, and interactivity, improves the productivity of human-agent communication in many settings, especially when compared to default Markdown outputs. By Bruno Couriol",
+          "published": "Wed, 24 Jun 2026 23:06:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
+          "link": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
+          "summary": "The silicon race is heating up amid the struggle to keep up with demand.",
+          "published": "Wed, 24 Jun 2026 22:28:18 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Die Entwicklungen im Bereich generative KI und LLMs zeigen sowohl Fortschritte als auch Herausforderungen. Während Unternehmen wie Anthropic Vorwürfe gegen Wettbewerber erheben, wird die Effektivität von KI-Agenten in Führungspositionen hinterfragt.",
+      "highlights": [
+        "Anthropic beschuldigt Alibaba des Datendiebstahls und fordert Maßnahmen vom US-Kongress.",
+        "Eine Studie zeigt, dass KI-Agenten in 500 Tagen scheitern können, wenn es um langfristige Planung geht.",
+        "OpenAI und Broadcom haben einen neuen Chip für LLM-Inferenz angekündigt, um der steigenden Nachfrage gerecht zu werden."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Quantensicherer NFC- und eSIM-Chip für Smartphones und Smartwatches",
+          "link": "https://www.heise.de/news/Quantensicherer-NFC-und-eSIM-Chip-fuer-Smartphones-und-Smartwatches-11343305.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Im winzigen ST54M vereint STMicroelectronics zwei ARM-Kerne mit einem Hardware-Beschleuniger für die PQC-Algorithmen ML-KEM (FIPS-203) und ML-DSA (FIPS-204).",
+          "published": "2026-06-24T16:58:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Drohnen im Polizeieinsatz: Polizei entwaffnet Verdächtigen mit Magnetdrohne",
+          "link": "https://www.golem.de/news/drohnen-im-polizeieinsatz-polizei-entwaffnet-verdaechtigen-mit-magnetdrohne-2606-210149.html",
+          "summary": "Das Sacramento County Sheriff's Office hat eine Drohne mit einem Magneten genutzt, um einem regungslosen Verdächtigen ein Messer zu entziehen. ( Drohne , Technologie )",
+          "published": "2026-06-24T17:31:10+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Charlie Kirk&#8217;s legacy is a 30-year sentence for moving zines",
+          "link": "https://www.theverge.com/policy/956404/prairieland-sentencing-zines-trump-antifa",
+          "summary": "Just days after a gunman killed conservative activist Charlie Kirk, it became clear that President Donald Trump would use the assassination to fuel a crackdown on free speech. To avenge Kirk's death, the administration vowed to go after so-called \"antifa\" (otherwise known as antifascist) terrorists. Now that promise is bearing fruit. This week, eight Texas [&#8230;]",
+          "published": "2026-06-24T17:40:26-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Die EU-Technologie-Regulierung wird durch neue Entwicklungen in der Sicherheits- und Überwachungstechnologie geprägt. Während STMicroelectronics einen quantensicheren Chip für mobile Geräte vorstellt, demonstriert die Polizei in Kalifornien den Einsatz von Drohnen zur Entwaffnung von Verdächtigen.",
+      "highlights": [
+        "STMicroelectronics präsentiert den ST54M Chip mit quantensicherer Technologie für Smartphones und Smartwatches.",
+        "Der Chip kombiniert zwei ARM-Kerne und Hardware-Beschleuniger für post-quantum Kryptografie.",
+        "Die Polizei in Sacramento nutzt eine Magnetdrohne, um einem Verdächtigen ein Messer zu entziehen."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Handheld-Launcher für Android: Diese App bringt den Nintendo DS auf dein Smartphone",
+          "link": "https://t3n.de/news/handheld-launcher-android-nintendo-ds-smartphone-1749445/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn du die gute alte Gaming-Zeit mit deinem Nintendo DS vermisst, kannst du dir bald ein Stück dieser Nostalgie zurückholen. Ein Entwickler bringt den Nintendo-Handheld als Launcher auf Android-Smartphones. Für welche Geräte sich das besonders eignet. weiterlesen auf t3n.de",
+          "published": "Thu, 25 Jun 2026 09:30:09 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nebeneffekte von Ventilatoren und Klimaanlagen: Einige Punkte gilt es zu beachten",
+          "link": "https://t3n.de/news/ventilatoren-klimaanlagen-beachten-1748405/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kommt die Sommerhitze, freuen wir uns über kühle Innenräume. Die Mittel der Wahl heißen Ventilator oder Klimaanlage. Doch sie können auch gesundheitliche Auswirkungen haben. weiterlesen auf t3n.de",
+          "published": "Thu, 25 Jun 2026 08:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "EUV-Lithografie: Wie ASML mit Zinn, Spiegeln und Lasern die Welt mit Computerchips versorgt",
+          "link": "https://t3n.de/news/euv-lithografie-wie-asml-mit-zinn-spiegeln-und-lasern-die-welt-mit-computerchips-versorgt-1748711/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die EUV-Lithografiemaschinen von ASML sind zu einem zentralen Streitpunkt im Chipkrieg zwischen den USA und China geworden. Was macht diese Anlagen so wichtig? weiterlesen auf t3n.de",
+          "published": "Thu, 25 Jun 2026 08:30:29 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
+          "link": "https://www.infoq.com/news/2026/06/ai-prd-code-review-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Technology companies are extending AI beyond code generation into earlier stages of the software lifecycle, including PRD validation, design inputs, and code review. Initiatives from Uber, DoorDash, and Cloudflare highlight a shift toward AI-driven governance layers that evaluate engineering artifacts before implementation while preserving human oversight across the development pipeline. By Leela Kumili",
+          "published": "Wed, 24 Jun 2026 14:57:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Google Play: Alternative Bezahlsysteme ab 30. Juni weltweit erlaubt",
+          "link": "https://www.heise.de/news/Play-Store-Google-laesst-externe-Bezahlmethoden-zu-11343864.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ab 30. Juni erlaubt es Google Entwicklern, Nutzer auf externe Bezahlmethoden weiterzuleiten. Sie können damit 5 Prozent Bezahlgebühr sparen.",
+          "published": "2026-06-25T08:01:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Software-Lieferkette wird zunehmend durch den Einsatz von KI in verschiedenen Phasen des Entwicklungszyklus optimiert. Unternehmen wie Uber und Cloudflare integrieren KI-gestützte Governance, um die Qualität von Softwareartefakten vor der Implementierung zu gewährleisten.",
+      "highlights": [
+        "KI wird in der Softwareentwicklung von der Code-Generierung bis zur PRD-Validierung eingesetzt.",
+        "Unternehmen wie Uber und DoorDash setzen auf KI-gesteuerte Governance-Schichten.",
+        "Die Integration von KI soll menschliche Aufsicht während des gesamten Entwicklungsprozesses bewahren."
+      ]
+    }
+  ]
+}
