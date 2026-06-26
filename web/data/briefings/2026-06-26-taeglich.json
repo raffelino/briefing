@@ -1,0 +1,260 @@
+{
+  "date": "2026-06-26",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Studie: Auch bei Säugetieren können Gliedmaßen nachwachsen",
+          "link": "https://t3n.de/news/studie-auch-bei-saeugetieren-koennen-gliedmassen-nachwachsen-1749629/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "US-Forschenden ist es gelungen, amputierte Gliedmaßen bei einer Maus nachwachsen zu lassen. Damit zeigen sie: Nicht nur Amphibien, auch Säugetiere besitzen die Fähigkeit zur Regeneration. weiterlesen auf t3n.de",
+          "published": "Fri, 26 Jun 2026 08:00:58 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Public cloud vs. on-prem: Summit on where each workload belongs",
+          "link": "https://thenewstack.io/cloud-costs-private-repatriation/",
+          "summary": "We&#8217;re more than 20 years past the launch of AWS, the starter gun for the shift of compute and storage The post Public cloud vs. on-prem: Summit on where each workload belongs appeared first on The New Stack .",
+          "published": "Fri, 26 Jun 2026 00:09:24 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Agent Toolkit for AWS includes 20+ agent skills, but your agent might not load them without this one file",
+          "link": "https://thenewstack.io/aws-agent-toolkit-rules-file/",
+          "summary": "If you’re like me, sometimes you get so excited to try something new that you don’t read the docs all The post Agent Toolkit for AWS includes 20+ agent skills, but your agent might not load them without this one file appeared first on The New Stack .",
+          "published": "Thu, 25 Jun 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Building a European Cloud Orchestration Platform within an Enterprise",
+          "link": "https://www.infoq.com/news/2026/06/europe-cloud-enterprise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Modern cloud deployments involve many tools with different lifecycles, creating a heavy burden on engineers. The Kubernetes ecosystem offers a unified Control Plane approach. Sharing best practices through tech talks and inner-source collaboration can create an engaged community and drive adoption. By Ben Linders",
+          "published": "Thu, 25 Jun 2026 11:06:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Slack Outlines Four-Phase Journey to a Multi-Cloud AI Serving Platform",
+          "link": "https://www.infoq.com/news/2026/06/slack-multicloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Slack has outlined how its AI serving infrastructure evolved through four distinct phases, moving from a self-managed Amazon SageMaker deployment to a multi-cloud architecture spanning AWS Bedrock and Google Cloud Vertex AI. By Matt Foster",
+          "published": "Thu, 25 Jun 2026 07:02:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Die Cloud-Architektur entwickelt sich weiter, wobei Unternehmen zunehmend hybride und Multi-Cloud-Lösungen implementieren. Neueste Ansätze beinhalten die Nutzung von Kubernetes für eine einheitliche Steuerung sowie den Übergang zu Multi-Cloud-Plattformen für KI-Anwendungen.",
+      "highlights": [
+        "Slack hat seine KI-Infrastruktur in vier Phasen von Amazon SageMaker zu einer Multi-Cloud-Architektur weiterentwickelt.",
+        "Eine europäische Cloud-Orchestrierungsplattform nutzt Kubernetes für eine vereinheitlichte Steuerung.",
+        "Der Summit diskutiert die Zuordnung von Workloads zwischen Public Cloud und On-Premises."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Cyberversicherung für Privatpersonen: Sinnvoller Schutz oder überflüssige Zusatzpolice?",
+          "link": "https://t3n.de/news/cyberversicherung-fuer-privatpersonen-sinnvoller-schutz-oder-ueberfluessige-zusatzpolice-1748826/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Cyberversicherungen für Privatpersonen versprechen Hilfe bei Phishing, Identitätsdiebstahl und gehackten Bankkonten. Doch viele Schäden sind bereits durch Banken, andere Versicherungen oder gesetzliche Ansprüche abgedeckt. Wann ein Abschluss dennoch lohnt und wann die Policen nicht benötigt werden. weiterlesen auf t3n.de",
+          "published": "Fri, 26 Jun 2026 07:30:21 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Cloudflare Ships Agent Skills for Zero Trust Deployment and Migration",
+          "link": "https://www.infoq.com/news/2026/06/cloudflare-one-stack-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare released the Cloudflare One stack, an open-source library of agent skills for planning, deploying, and managing Zero Trust environments. The skills include automated migration logic for Zscaler and Palo Alto Networks, the same logic used in Cloudflare's Descaler program that has moved enterprise customers in hours rather than months. By Steef-Jan Wiggers",
+          "published": "Thu, 25 Jun 2026 09:27:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Minimus stellt tausende CVE-freie Container-Images kostenlos bereit",
+          "link": "https://www.heise.de/news/Minimus-oeffnet-Katalog-gehaerteter-Container-Images-fuer-alle-Entwickler-11342569.html",
+          "summary": "Entwickler erhalten uneingeschränkten Zugriff auf tausende nahezu CVE-freie Images aus dem Minimus-Katalog distroloser, gehärteter Container-Images.",
+          "published": "2026-06-24T10:46:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der IT-Sicherheit zeigen sowohl die Relevanz von Cyberversicherungen für Privatpersonen als auch Fortschritte in der Zero Trust-Architektur und der Bereitstellung sicherer Container-Images. Diese Themen verdeutlichen die Notwendigkeit eines proaktiven Ansatzes in der IT-Sicherheit.",
+      "highlights": [
+        "Cyberversicherungen bieten Schutz gegen Phishing und Identitätsdiebstahl, sind jedoch oft redundant.",
+        "Cloudflare hat ein Open-Source-Toolkit für die schnelle Implementierung von Zero Trust-Umgebungen veröffentlicht.",
+        "Minimus stellt tausende von nahezu CVE-freien Container-Images kostenlos zur Verfügung."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Flensburg ohne Tricks: Warum der Gesetzgeber beim Punktehandel jetzt durchgreift",
+          "link": "https://t3n.de/news/flensburg-ohne-tricks-warum-der-gesetzgeber-beim-punktehandel-jetzt-durchgreift-1749607/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer in Deutschland zu oft gegen Verkehrsregeln verstößt, muss mit Punkten in Flensburg oder sogar einem Fahrverbot rechnen. Doch bislang gab es Möglichkeiten, diese Konsequenzen auf andere Personen abzuwälzen. Damit soll ab Juli endgültig Schluss sein. weiterlesen auf t3n.de",
+          "published": "Fri, 26 Jun 2026 07:16:14 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Windows-10-Support verlängert: So lange gibt es jetzt noch Sicherheitsupdates",
+          "link": "https://t3n.de/news/windows-10-support-verlaengert-sicherheitsupdates-1749639/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eigentlich ist der Support für Windows 10 längst ausgelaufen. Über das sogenannte ESU-Programm können Nutzer:innen aber bis Oktober 2026 weiterhin sicherheitsrelevante Updates laden. Jetzt hat Microsoft den Zeitraum überraschend verlängert. weiterlesen auf t3n.de",
+          "published": "Thu, 25 Jun 2026 18:35:14 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Vom Bewusstsein bis zum Tod des Universums: Was KI antwortet, wenn sie ihr Nutzungslimit ausreizen soll",
+          "link": "https://t3n.de/news/ki-nutzungslimit-ausreizen-bewusstsein-tod-des-universums-1749485/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Was passiert, wenn man ChatGPT, Claude und Gemini dazu auffordert, absichtlich ihr Nutzungslimit aufzubrauchen? Welche Themen die KI-Tools für die ausführliche Antwort wählen und warum sich ein Chatbot gegen die Anweisungen gestellt hat. weiterlesen auf t3n.de",
+          "published": "Thu, 25 Jun 2026 15:45:39 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nach Bahnstörung: Ruf nach Verbot chinesischer Teile in kritischer Infrastruktur",
+          "link": "https://www.heise.de/news/Nach-Bahnstoerung-Ruf-nach-Verbot-chinesischer-Teile-in-kritischer-Infrastruktur-11345581.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine folgenreiche Funkstörung entfacht abermals die Debatte um Elektronik aus China: Zu groß sei die Gefahr, dass die Volksrepublik Infrastruktur angreift.",
+          "published": "2026-06-26T10:05:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | Cloud-Hosting im Preischeck: Virtuelle Server werden spürbar teurer",
+          "link": "https://www.heise.de/ratgeber/Cloud-Hosting-im-Preischeck-Virtuelle-Server-werden-spuerbar-teurer-11335507.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Mehrere Anbieter erhöhten ihre Preise in den letzten Monaten kräftig. Unsere Analyse zeigt, warum das kein Ausreißer ist und was Kunden daraus ableiten müssen.",
+          "published": "2026-06-26T09:30:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die aktuellen News zeigen Entwicklungen in verschiedenen Bereichen, darunter Gesetzesänderungen im Verkehrsrecht, verlängerte Sicherheitsupdates für Windows 10, Debatten über kritische Infrastruktur und steigende Preise im Cloud-Hosting. Diese Themen spiegeln sowohl technologische als auch gesellschaftliche Herausforderungen wider.",
+      "highlights": [
+        "Punktehandel in Deutschland wird ab Juli 2023 eingeschränkt.",
+        "Windows 10-Support durch Microsoft bis Oktober 2026 verlängert.",
+        "Preiserhöhungen bei Cloud-Hosting-Anbietern sind keine Einzelfälle."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Neuer Job als Analytics Consultant / Tracking Specialist gesucht? Schau dir unsere Top Jobs an",
+          "link": "https://t3n.de/news/unsere-jobs-der-woche-1175973/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hier findest du unsere besten Jobs aus den Bereichen Technik &amp; Entwicklung, Marketing, PR &amp; Kommunikation, Projektmanagement &amp; Produktmanagement, Design &amp; UX, Content &amp; Redaktion und Business Development. weiterlesen auf t3n.de",
+          "published": "Thu, 25 Jun 2026 15:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anzeige: Laptop von Lenovo mit 15,3'' am Prime Day stark reduziert",
+          "link": "https://www.golem.de/news/anzeige-laptop-von-lenovo-mit-15-3-am-prime-day-stark-reduziert-2606-210173.html",
+          "summary": "Den Laptop Lenovo IdeaPad Slim 3 mit 15,3'' großem WUXGA-Display und AMD Ryzen 5 gibt es am Prime Day bei Amazon zum günstigen Aktionspreis. ( Lenovo , Notebook )",
+          "published": "2026-06-25T12:37:05+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Framework has good news and bad news",
+          "link": "https://www.theverge.com/gadgets/957338/framework-laptop-13-pro-ssd-price-cpu",
+          "summary": "Thanks to the component crisis, it's a bad time to want a new computer. But if you are waiting on a preorder for the Framework Laptop 13 Pro - which Framework's CEO has called the \"MacBook Pro for Linux users\" - the company shared good news on Thursday that might mean yours will cost less [&#8230;]",
+          "published": "2026-06-25T17:23:47-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Aktuelle Nachrichten umfassen Jobangebote im Bereich Analytics und UX/UI sowie reduzierte Laptop-Angebote am Prime Day. Zudem gibt es Neuigkeiten zum Framework Laptop 13 Pro, der für Linux-Nutzer optimiert ist.",
+      "highlights": [
+        "Top Jobs in Technik, Marketing, UX und Projektmanagement auf t3n.de.",
+        "Lenovo IdeaPad Slim 3 am Prime Day stark reduziert.",
+        "Framework Laptop 13 Pro könnte aufgrund von Kostensenkungen günstiger werden."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "World of Warcraft von einer KI: Vibe-Coder erschafft mit Claude Fable 5 ein kostenlos spielbares MMORPG",
+          "link": "https://t3n.de/news/world-of-warcraft-vibe-coder-claude-fable-5-1749653/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit &#8222;World of Claudecraft&#8220; hat ein Vibe-Coder eine eigene Version des MMORPG World of Warcraft erschaffen. Dafür musste er nur wenige hundert US-Dollar in das Projekt investieren. Was das Spiel auf dem Kasten hat und wo es bisher nicht an das Original heranreicht. weiterlesen auf t3n.de",
+          "published": "Fri, 26 Jun 2026 10:04:26 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Von Donna bis Britta: Wie eine Coachin ihr Business mit über 20 KI-Agenten organisiert",
+          "link": "https://t3n.de/news/von-donna-bis-britta-wie-eine-coachin-ihr-business-mit-ueber-20-ki-agenten-organisiert-1749254/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Karriereberaterin Silke Grotegut arbeitet mit über 20 KI-Agenten an ihrem Business. Wie sie sich organisiert und warum sie ihren Agenten Namen gegeben hat, erz weiterlesen auf t3n.de",
+          "published": "Fri, 26 Jun 2026 09:00:28 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+          "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+          "summary": "Notion is \"going all in on using agents to run your inbox.\"",
+          "published": "Thu, 25 Jun 2026 19:04:57 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+          "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+          "summary": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.",
+          "published": "Thu, 25 Jun 2026 18:01:48 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Moritz Hennemann: Neuer Bundesbeauftragter für Datenschutz und Informationsfreiheit gewählt",
+          "link": "https://netzpolitik.org/2026/moritz-hennemann-neuer-bundesbeauftragter-fuer-datenschutz-und-informationsfreiheit-gewaehlt/",
+          "summary": "Die scheidende und der neue BfDI: Louisa Specht-Riemenschneider und Moritz Hennemann – Alle Rechte vorbehalten: Specht: Johanna Wittig, Hennemann: Julian Vogel Der neue Bundesbeauftragte für Datenschutz und Informationsfreiheit war vorher Jura-Professor und gilt als Verfechter eines wirtschaftsorientierten Datenschutzes. Er wurde heute vom Bundestag gewählt.",
+          "published": "Thu, 25 Jun 2026 14:40:33 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "Die Entwicklungen im Bereich generative KI und LLMs zeigen innovative Anwendungen, von einem KI-entwickelten MMORPG bis hin zu KI-Agenten in der Unternehmensorganisation. Gleichzeitig gibt es rechtliche Herausforderungen, wie den Vorwurf gegen Alibaba wegen des Klonens von Claude.",
+      "highlights": [
+        "Vibe-Coder erschafft mit Claude Fable 5 ein kostenlos spielbares MMORPG namens 'World of Claudecraft'.",
+        "Karriereberaterin Silke Grotegut nutzt über 20 KI-Agenten zur Organisation ihres Business.",
+        "Alibaba wird vorgeworfen, 25.000 Konten genutzt zu haben, um Claude über 28,8 Millionen Interaktionen zu klonen."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Planeten wie Zuckerwatte: Nasa-Mission Tess entdeckt besondere Riesen im All",
+          "link": "https://t3n.de/news/nasa-mission-tess-zuckerwatte-planeten-1749620/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "So groß wie Jupiter, aber sehr viel leichter: Forscher:innen haben mithilfe der Daten der Nasa-Mission &#8222;Tess&#8220; zwei unerwartete Planeten entdeckt. Ihre Dichte ist vergleichbar mit der von Zuckerwatte. weiterlesen auf t3n.de",
+          "published": "Fri, 26 Jun 2026 07:45:50 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "E-Auto-Akkus leiden unter Hitze: Wie Forscher mithilfe von Bakterien gegensteuern wollen",
+          "link": "https://t3n.de/news/e-auto-akkus-hitze-bakterien-1749643/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die aktuelle Hitzewelle mit Temperaturen weit jenseits der 30-Grad-Marke macht nicht Menschen, sondern auch E-Auto-Akkus zu schaffen. US-Forscher:innen haben ein Verfahren entwickelt, das Abhilfe schaffen soll und setzen dabei auf Bakterien. weiterlesen auf t3n.de",
+          "published": "Thu, 25 Jun 2026 21:49:35 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "How Cloudflare Solved a Congestion Bug in quiche",
+          "link": "https://www.infoq.com/news/2026/06/cloudflare-bug-quiche/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare has recently shared how they uncovered an issue in their Rust implementation of CUBIC, a congestion controller algorithm, which prevented it from recovering from a scenario of heavy packet loss at the start of a connection. By Gianmarco Nalin",
+          "published": "Thu, 25 Jun 2026 19:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Airpods Pro 3: So gut funktioniert die Herzfrequenzmessung",
+          "link": "https://t3n.de/news/airpods-pro-3-herzfrequenzmessung-1749612/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit den Airpods Pro 3 warf Apple im vergangenen Jahr zum ersten Mal einen In-Ear-Kopfhörer mit einem Herzfrequenzmesser auf den Markt. Wie jetzt ein Test zeigte, können die Airpods Pro 3 mit den meisten Smart-Watches mithalten. weiterlesen auf t3n.de",
+          "published": "Thu, 25 Jun 2026 19:00:26 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Verwaltungsdigitalisierung: Trotz Einigung von Bund und Ländern droht Schnittstellen-Chaos",
+          "link": "https://netzpolitik.org/2026/verwaltungsdigitalisierung-trotz-einigung-von-bund-und-laendern-droht-schnittstellen-chaos/",
+          "summary": "Einigung von Bund und Ländern: damit Anträge genau dort ankommen, wo sie hingehören (Symbolbild) – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Unsplash / Malcolm Choong Bürger:innen stellen digitale Anträge und die Verwaltung bearbeitet sie. Damit sie an der richtigen Stelle ankommen, braucht es eine Transport-Infrastruktur. Bund und Länder haben sich nun auf eine Lösung dafür geeinigt und wollen sie bundesweit ausrollen. Scheitern könnte das jedoch schon an den Landesgrenzen.",
+          "published": "Thu, 25 Jun 2026 15:06:49 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "Die Software Supply Chain wird zunehmend durch Open Source-Projekte geprägt, die innovative Lösungen und Technologien bereitstellen. Dabei stehen sowohl Sicherheitsaspekte als auch die Effizienz von Software-Entwicklungsprozessen im Fokus.",
+      "highlights": [
+        "Open Source-Software ermöglicht schnellere Innovationszyklen.",
+        "Sicherheitslücken in der Software Supply Chain können erhebliche Risiken darstellen.",
+        "Die Zusammenarbeit in der Open Source-Community fördert den Wissensaustausch und die Problemlösung."
+      ]
+    }
+  ]
+}
