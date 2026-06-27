@@ -1,0 +1,417 @@
+{
+  "date": "2026-06-27",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Databricks will ETL zwischen Datenbanken und Analytics überflüssig machen",
+          "link": "https://www.heise.de/news/Databricks-will-ETL-zwischen-Datenbanken-und-Analytics-ueberfluessig-machen-11346423.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "LTAP heißt die neue Architektur von Databricks, mit der operative Datenbanken und analytische Systeme nur noch eine gemeinsame Datenbasis benötigen sollen.",
+          "published": "2026-06-26T16:45:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Databricks will ETL zwischen Datenbanken und Analytics überflüssig machen",
+          "link": "https://www.heise.de/news/Databricks-will-ETL-zwischen-Datenbanken-und-Analytics-ueberfluessig-machen-11346423.html",
+          "summary": "LTAP heißt die neue Architektur von Databricks, mit der operative Datenbanken und analytische Systeme nur noch eine gemeinsame Datenbasis benötigen sollen.",
+          "published": "2026-06-26T14:45:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In dieser Woche hat Databricks seine neue Architektur LTAP vorgestellt, die darauf abzielt, den ETL-Prozess zwischen operativen Datenbanken und analytischen Systemen zu eliminieren. Durch die Schaffung einer gemeinsamen Datenbasis sollen Unternehmen effizienter arbeiten können, indem sie Daten nahtlos zwischen verschiedenen Systemen nutzen. Diese Entwicklung könnte einen bedeutenden Fortschritt in der Datenintegration und -analyse darstellen, da sie die Komplexität der Datenverarbeitung reduziert und die Echtzeit-Analyse fördert.",
+      "highlights": [
+        "LTAP-Architektur von Databricks vorgestellt.",
+        "Ziel: ETL-Prozess zwischen Datenbanken und Analytics überflüssig machen.",
+        "Einführung einer gemeinsamen Datenbasis für operative und analytische Systeme.",
+        "Erwartete Effizienzsteigerung in der Datenverarbeitung.",
+        "Förderung von Echtzeit-Analysen durch vereinfachte Datenintegration."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Smarte Wasserflasche trackt jeden Schluck – und nervt dich, wenn du zu wenig trinkst",
+          "link": "https://t3n.de/news/smarte-wasserflasche-test-1748318/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Zwischen To-Dos und Terminen verliert man seinen täglichen Flüssigkeitsbedarf schnell aus den Augen. Smarte Flaschen können mit optischen Signalen und App-Benachrichtigungen gezielt gegensteuern. weiterlesen auf t3n.de",
+          "published": "Sat, 27 Jun 2026 08:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "The US government just told OpenAI who’s allowed to use the next GPT 5.6 model",
+          "link": "https://thenewstack.io/openai-gpt56-access-restricted/",
+          "summary": "The release of leading AI foundation model technologies has reached a watershed moment.&#160;Just two weeks after Anthropic received a directive The post The US government just told OpenAI who&#8217;s allowed to use the next GPT 5.6 model appeared first on The New Stack .",
+          "published": "Fri, 26 Jun 2026 18:26:50 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS, Microsoft, and Google agree the session is the new unit of compute. They disagree on how to isolate it.",
+          "link": "https://thenewstack.io/agent-session-aware-runtime/",
+          "summary": "Over the past few months, four AI giants quietly rebuilt the same thing at once: AWS, Microsoft, Google, and Anthropic The post AWS, Microsoft, and Google agree the session is the new unit of compute. They disagree on how to isolate it. appeared first on The New Stack .",
+          "published": "Fri, 26 Jun 2026 14:11:18 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Public cloud vs. on-prem: Summit on where each workload belongs",
+          "link": "https://thenewstack.io/cloud-costs-private-repatriation/",
+          "summary": "We&#8217;re more than 20 years past the launch of AWS, the starter gun for the shift of compute and storage The post Public cloud vs. on-prem: Summit on where each workload belongs appeared first on The New Stack .",
+          "published": "Fri, 26 Jun 2026 00:09:24 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Agent Toolkit for AWS includes 20+ agent skills, but your agent might not load them without this one file",
+          "link": "https://thenewstack.io/aws-agent-toolkit-rules-file/",
+          "summary": "If you’re like me, sometimes you get so excited to try something new that you don’t read the docs all The post Agent Toolkit for AWS includes 20+ agent skills, but your agent might not load them without this one file appeared first on The New Stack .",
+          "published": "Thu, 25 Jun 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Building a European Cloud Orchestration Platform within an Enterprise",
+          "link": "https://www.infoq.com/news/2026/06/europe-cloud-enterprise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Modern cloud deployments involve many tools with different lifecycles, creating a heavy burden on engineers. The Kubernetes ecosystem offers a unified Control Plane approach. Sharing best practices through tech talks and inner-source collaboration can create an engaged community and drive adoption. By Ben Linders",
+          "published": "Thu, 25 Jun 2026 11:06:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Slack Outlines Four-Phase Journey to a Multi-Cloud AI Serving Platform",
+          "link": "https://www.infoq.com/news/2026/06/slack-multicloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Slack has outlined how its AI serving infrastructure evolved through four distinct phases, moving from a self-managed Amazon SageMaker deployment to a multi-cloud architecture spanning AWS Bedrock and Google Cloud Vertex AI. By Matt Foster",
+          "published": "Thu, 25 Jun 2026 07:02:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Grab Builds Secure Agentic AI Workload Platform",
+          "link": "https://www.infoq.com/news/2026/06/grab-ai-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Grab's security team built Palana, a Kubernetes-native secure execution platform, to run autonomous AI agents safely. Unlike deterministic software, model-driven agents exhibit unpredictable tool-use, code-writing, and prompt injection risks. Palana contains these threats at the infrastructure level using isolated namespaces, out-of-process control planes, and proxy-mediated, Vault-backed secrets. By Patrick Farry",
+          "published": "Thu, 25 Jun 2026 02:08:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "In dieser Woche stand die Entwicklung von Cloud-Architekturen und Plattformen im Fokus. Die großen Anbieter wie AWS, Microsoft und Google diskutieren über die Definition und Isolation von Sessions als neue Recheneinheit. Zudem wird die Bedeutung von Multi-Cloud-Strategien und Sicherheitsaspekten bei der Ausführung autonomer KI-Modelle hervorgehoben. Die Integration von Kubernetes in moderne Cloud-Umgebungen zeigt sich als zentraler Trend, um die Komplexität der Deployments zu reduzieren.",
+      "highlights": [
+        "AWS, Microsoft und Google einigen sich auf Sessions als neue Recheneinheit.",
+        "Slack entwickelt eine Multi-Cloud KI-Plattform mit AWS und Google Cloud.",
+        "Grab präsentiert Palana, eine sichere Plattform für autonome KI-Agenten.",
+        "Kubernetes wird als Schlüsseltechnologie für Cloud-Orchestrierung hervorgehoben.",
+        "Diskussion über Public Cloud vs. On-Premise-Workloads auf einem Gipfel."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Azul wants to find your unpatched JVMs before AI does",
+          "link": "https://thenewstack.io/azul-java-security-jvm-mythos/",
+          "summary": "Azul Systems is offering a free Java Virtual Machine (JVM) vulnerability risk assessment designed to reveal Java runtime exposure before The post Azul wants to find your unpatched JVMs before AI does appeared first on The New Stack .",
+          "published": "Wed, 24 Jun 2026 20:53:07 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Chainguard targets Java’s unpatched vulnerability backlog with drop-in remediated libraries",
+          "link": "https://thenewstack.io/chainguard-java-libraries-spring-boot-cves/",
+          "summary": "Legacy Java shops are sitting on a growing pile of unpatched vulnerabilities. Chainguard says it has a fix for that. The post Chainguard targets Java&#8217;s unpatched vulnerability backlog with drop-in remediated libraries appeared first on The New Stack .",
+          "published": "Wed, 24 Jun 2026 20:48:37 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11345467.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Slint, VS Code, Spring Boot, Next.js, Vaadin, curl, Stack Overflow, Drupal und Rust.",
+          "published": "2026-06-27T09:18:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11345467.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Slint, VS Code, Spring Boot, Next.js, Vaadin, curl, Stack Overflow, Drupal und Rust.",
+          "published": "2026-06-27T07:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In dieser Woche standen unpatched Java Virtual Machines (JVMs) und die damit verbundenen Sicherheitsrisiken im Fokus. Azul Systems bietet ein kostenloses Risikoassessment an, um ungeschützte JVMs zu identifizieren. Gleichzeitig hat Chainguard eine Lösung entwickelt, um die wachsende Anzahl unpatched Vulnerabilities in Legacy-Java-Anwendungen mit remediated Libraries anzugehen. Diese Entwicklungen verdeutlichen den anhaltenden Bedarf an Sicherheitslösungen in der Java-Community.",
+      "highlights": [
+        "Azul Systems bietet ein kostenloses Risikoassessment für JVMs an.",
+        "Chainguard hat remediated Libraries zur Behebung unpatched Vulnerabilities veröffentlicht.",
+        "Legacy-Java-Anwendungen sind zunehmend von Sicherheitsrisiken betroffen.",
+        "Die Nachfrage nach Sicherheitslösungen in der Java-Community wächst."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Vollzugriff auf Fifa-Plattform: Hackerin findet Sicherheitslücke, die es nicht geben dürfte",
+          "link": "https://t3n.de/news/fifa-hackerin-sicherheitsluecke-vollzugriff-1748696/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die IT-Sicherheitsforscherin „Bobdahacker“ hat sich laut eigenen Angaben relativ einfach Vollzugriff auf das Fifa-Netz verschafft. Damit hätte sie den WM-Livestream manipulieren können. Die Fifa war aber nicht erreichbar. Das FBI musste ran. weiterlesen auf t3n.de",
+          "published": "Sat, 27 Jun 2026 08:45:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Cloudflare Ships Agent Skills for Zero Trust Deployment and Migration",
+          "link": "https://www.infoq.com/news/2026/06/cloudflare-one-stack-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare released the Cloudflare One stack, an open-source library of agent skills for planning, deploying, and managing Zero Trust environments. The skills include automated migration logic for Zscaler and Palo Alto Networks, the same logic used in Cloudflare's Descaler program that has moved enterprise customers in hours rather than months. By Steef-Jan Wiggers",
+          "published": "Thu, 25 Jun 2026 09:27:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Minimus stellt tausende CVE-freie Container-Images kostenlos bereit",
+          "link": "https://www.heise.de/news/Minimus-oeffnet-Katalog-gehaerteter-Container-Images-fuer-alle-Entwickler-11342569.html",
+          "summary": "Entwickler erhalten uneingeschränkten Zugriff auf tausende nahezu CVE-freie Images aus dem Minimus-Katalog distroloser, gehärteter Container-Images.",
+          "published": "2026-06-24T10:46:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In dieser Woche wurden bedeutende Entwicklungen im Bereich IT-Sicherheit und Security by Design bekannt. Eine Sicherheitslücke in der Fifa-Plattform wurde von der Forscherin 'Bobdahacker' entdeckt, die potenziell den WM-Livestream hätte manipulieren können. Zudem hat Cloudflare ein Open-Source-Tool für die Implementierung von Zero Trust-Umgebungen veröffentlicht, während Minimus tausende von CVE-freien Container-Images zur Verfügung stellt. Diese Ereignisse verdeutlichen die anhaltende Relevanz von Sicherheitsmaßnahmen in der Softwareentwicklung und -bereitstellung.",
+      "highlights": [
+        "Hackerin erhält Vollzugriff auf Fifa-Netzwerk, Sicherheitslücke entdeckt.",
+        "Cloudflare veröffentlicht Cloudflare One, ein Open-Source-Tool für Zero Trust-Umgebungen.",
+        "Automatisierte Migration für Zscaler und Palo Alto Networks in Stunden statt Monaten.",
+        "Minimus stellt tausende CVE-freie Container-Images kostenlos zur Verfügung.",
+        "FBI interveniert bei Fifa-Sicherheitsvorfall."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Jugendschutz-Empfehlungen: Expert*innen-Kommission schlägt Alternativen zum Social-Media-Verbot vor",
+          "link": "https://netzpolitik.org/2026/jugendschutz-empfehlungen-expertinnen-kommission-schlaegt-alternativen-zum-social-media-verbot-vor/",
+          "summary": "Familienministerin Karin Prien flankiert von den Co-Vorsitzenden ihrer Expert*innenkommission, Olaf Köller und Nadine Schön. – Alle Rechte vorbehalten: IMAGO / IPON Im Auftrag der Bundesregierung haben Fachleute Empfehlungen für Jugendschutz im Netz erarbeitet. Sie schlagen neben einem EU-weiten Social-Media-Verbot unter 13 Jahren auch vor, die Plattformen stärker in die Pflicht zu nehmen – und spielen den Ball so zurück an die Politik.",
+          "published": "Wed, 24 Jun 2026 10:00:28 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Freiwillig statt Zwang: Das doppelte Spiel um die EU-Chatkontrolle",
+          "link": "https://www.heise.de/news/Freiwillig-statt-Zwang-Das-doppelte-Spiel-um-die-EU-Chatkontrolle-11346573.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Konzerne liefern auch ohne Gesetz viele Hinweise auf sexuellen Kindesmissbrauch. Die Bundesregierung bricht offenbar ihr Versprechen gegen Massenüberwachung.",
+          "published": "2026-06-26T17:49:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Prognose: 2028 wird KI-Coding teurer als Entwicklergehälter",
+          "link": "https://www.heise.de/news/Prognose-2028-wird-KI-Coding-teurer-als-Entwicklergehaelter-11343464.html",
+          "summary": "Von der Produktivitätsrevolution zur Kostenfalle: KI-Coding könnte Unternehmen bald teurer kommen als das Entwicklergehalt, prognostizieren Marktforscher.",
+          "published": "2026-06-25T13:23:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In der vergangenen Woche standen Themen rund um Jugendschutz und die Rolle von KI im Coding im Fokus. Während eine Expert*innenkommission Empfehlungen für den Jugendschutz im Netz vorlegte, zeigt eine Prognose, dass KI-Coding möglicherweise teurer wird als die Gehälter von Entwicklern. Diese Entwicklungen verdeutlichen die wachsenden Herausforderungen im digitalen Raum und die Notwendigkeit, sowohl rechtliche als auch technologische Lösungen zu finden.",
+      "highlights": [
+        "Expert*innenkommission empfiehlt EU-weites Social-Media-Verbot unter 13 Jahren.",
+        "Plattformen sollen stärker in die Verantwortung genommen werden.",
+        "Bundesregierung bricht Versprechen gegen Massenüberwachung im Kontext der EU-Chatkontrolle.",
+        "Prognose: KI-Coding könnte bis 2028 teurer werden als Entwicklergehälter."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Can DNS become the basis for AI agent identity?",
+          "link": "https://thenewstack.io/can-dns-become-the-basis-for-ai-agent-identity/",
+          "summary": "The Linux Foundation on Tuesday declared its intent to launch the Agent Name Service (ANS), an open standard that gives The post Can DNS become the basis for AI agent identity? appeared first on The New Stack .",
+          "published": "Tue, 23 Jun 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Mysteriöse Schallkanone in Serbien: Staatsanwaltschaft beschuldigt Protestierende",
+          "link": "https://netzpolitik.org/2026/mysterioese-schallkanone-in-serbien-staatsanwaltschaft-beschuldigt-protestierende/",
+          "summary": "Die eingesetzte Waffe teilt die Menge entlang einer Linie. Das Bild zeigt einen Ausschnitt aus einem Video einer Überwachungskamera – : My_roman-empire / Reddit Die Oberstaatsanwaltschaft von Belgrad ermittelt gegen die demokratische Protestbewegung. Sie wirft dieser vor, den Einsatz einer Schallkanone am 15. März 2025 simuliert zu haben, um einen Bürgerkrieg zu starten. Aktivist:innen sprechen von Repression und Einschüchterung.",
+          "published": "Mon, 22 Jun 2026 04:00:14 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Memes, Memifizierung, Memokratie: „Wer nicht mitlacht, gehört nicht dazu“",
+          "link": "https://netzpolitik.org/2026/memes-wer-nicht-mitlacht-gehoert-nicht-dazu/",
+          "summary": "Rechts der Anführer vom Trump-\"Klan\". Das Meme spielt auf Obamas \"Yes We Can\" an und verweist auf den Nepotismus und die Selbstbereicherung der Trump-Familie. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Bruno Figueiredo Memes und AI-Slop prägen die zweite Amtszeit von US-Präsident Donald Trump. Der Kunsthistoriker Wolfgang Ullrich sieht darin eine neue illiberale Regierungsform begründet – die „Memokratie“. Ein Interview über autoritäre Bildpolitik, das emanzipatorische Potenzial von Memes und ihre politische Zukunft.",
+          "published": "Sat, 20 Jun 2026 07:10:56 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "In dieser Woche wurden verschiedene Themen im Bereich Technologie und Gesellschaft behandelt. Die Diskussion um die Identität von KI-Agenten und die Rolle von offenen Standards wie dem Agent Name Service (ANS) durch die Linux Foundation zeigt die wachsende Bedeutung von Identität im digitalen Raum. Gleichzeitig wird die politische Landschaft durch Memes und deren Einfluss auf die öffentliche Wahrnehmung geprägt, was zu einem neuen Konzept der 'Memokratie' führt. Diese Entwicklungen verdeutlichen die Verbindung zwischen Technologie, Politik und Gesellschaft.",
+      "highlights": [
+        "Die Linux Foundation plant den Agent Name Service (ANS) zur Identität von KI-Agenten.",
+        "In Serbien wird die Protestbewegung wegen des angeblichen Einsatzes einer Schallkanone kriminalisiert.",
+        "Memes beeinflussen die politische Kommunikation, insbesondere während der zweiten Amtszeit von Donald Trump.",
+        "Der Kunsthistoriker Wolfgang Ullrich beschreibt die 'Memokratie' als neue Regierungsform.",
+        "Die Diskussion über Memes thematisiert deren emanzipatorisches Potenzial und autoritäre Bildpolitik."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Chatbots als Therapieersatz: Wo die KI-Hilfe gefährlich wird",
+          "link": "https://t3n.de/news/ki-chatbots-therapie-risiken-1748585/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Laut einer Umfrage von Betterhelp hat sich der Einsatz von KI für das mentale Wohlbefinden im Vergleich zum Vorjahr verdoppelt. Trotzdem werden menschliche Berater:innen nicht überflüssig – ganz im Gegenteil. weiterlesen auf t3n.de",
+          "published": "Sat, 27 Jun 2026 09:15:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+          "link": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+          "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
+          "published": "Fri, 26 Jun 2026 20:04:55 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "After Fable 5 ban, Anthropic and 19 organizations launch open source security body",
+          "link": "https://thenewstack.io/akrites-open-source-vulnerability-coordination/",
+          "summary": "The arrival of frontier AI models capable of scanning major open-source projects and surfacing multiple vulnerabilities in a single pass The post After Fable 5 ban, Anthropic and 19 organizations launch open source security body appeared first on The New Stack .",
+          "published": "Fri, 26 Jun 2026 18:36:35 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Vercel Introduces Eve, an Open-Source Framework for Building AI Agents",
+          "link": "https://www.infoq.com/news/2026/06/vercel-eve-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Vercel has released Eve, an open-source framework for building, deploying, and operating AI agents in production. The framework uses a filesystem-based project structure to organize agent instructions, tools, skills, subagents, communication channels, and scheduled tasks, enabling developers to define agent behavior while reducing the amount of supporting infrastructure they need to implement. By Daniel Dominguez",
+          "published": "Fri, 26 Jun 2026 16:39:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Presentation: AI Works, Pull Requests Don’t: How AI Is Breaking the SDLC and What To Do About It",
+          "link": "https://www.infoq.com/presentations/ai-sdlc-pull-request/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Michael Webster discusses the rise of headless AI agents and their impact on software delivery pipelines. He shares how massive, AI-generated pull requests create a severe bottleneck for human reviewers and introduce persistent technical debt. Learn how engineering leaders can leverage test impact analysis and automated validation pipelines to verify agentic output without sacrificing stability. By Michael Webster",
+          "published": "Fri, 26 Jun 2026 14:17:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Shopify taught AI to spot duplicate products. Here’s why retailers are scrambling.",
+          "link": "https://thenewstack.io/shopify-catalog-agent-discovery/",
+          "summary": "Retailers are rushing to make their product listings discoverable by AI shopping agents, but AI assistants often struggle to determine The post Shopify taught AI to spot duplicate products. Here&#8217;s why retailers are scrambling. appeared first on The New Stack .",
+          "published": "Fri, 26 Jun 2026 13:52:28 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "ChatGPT und Claude unter Verschluss: Warum sich Europa trotzdem keine Sorgen machen muss",
+          "link": "https://t3n.de/news/chatgpt-und-claude-unter-verschluss-warum-sich-europa-trotzdem-keine-sorgen-machen-muss-1749722/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die US-Regierung will immer stärker kontrollieren, wer auf Top-Modelle von heimischen KI-Firmen Zugriff bekommt. Dabei ist der Zugang zu diesen Sprachmodellen heutzutage weniger relevant denn je, meint unser Autor. weiterlesen auf t3n.de",
+          "published": "Fri, 26 Jun 2026 15:30:06 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "The AI agent identity problem nobody’s talking about",
+          "link": "https://thenewstack.io/agent-workload-identity-authentication/",
+          "summary": "Many agentic projects can sail through development just fine. Then they hit security review &#8212; and that&#8217;s where things can The post The AI agent identity problem nobody&#8217;s talking about appeared first on The New Stack .",
+          "published": "Fri, 26 Jun 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "In dieser Woche stand die Entwicklung und Anwendung von generativer KI und LLMs im Fokus. Während der Einsatz von KI im Bereich der psychischen Gesundheit zunimmt, bleibt die Notwendigkeit menschlicher Berater bestehen. Zudem wurden neue Open-Source-Initiativen ins Leben gerufen, um Sicherheitsprobleme bei KI-Modellen anzugehen. Die Diskussion über Urheberrechtsverletzungen im Zusammenhang mit KI-Entwicklungen und die Herausforderungen bei der Integration von KI in bestehende Software-Entwicklungsprozesse sind ebenfalls zentrale Themen.",
+      "highlights": [
+        "Einsatz von KI für mentale Gesundheit hat sich laut Betterhelp verdoppelt.",
+        "Anthropic und 19 Organisationen gründen ein Open-Source-Sicherheitsgremium nach Fable 5-Verbot.",
+        "Vercel veröffentlicht Eve, ein Open-Source-Framework für KI-Agenten.",
+        "US-Regierung plant strengere Kontrollen für den Zugang zu KI-Modellen.",
+        "AI-generierte Pull-Requests verursachen Engpässe in Software-Entwicklungsprozessen."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Neue M-Chips: Was Apple bei M5, M6 und M7 plant",
+          "link": "https://www.heise.de/news/Neue-M-Chips-Was-Apple-bei-M5-M6-und-M7-plant-11345868.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "M6 ohne Max und Pro, M7 mit (noch) mehr KI – und neue M5-Varianten: Das steht laut einem neuen Insiderbericht auf Apples Prozessor-Roadmap.",
+          "published": "2026-06-26T12:10:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
+          "link": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
+          "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retailers, so if you’ve been craving a popular [&#8230;]",
+          "published": "2026-06-26T22:54:45-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "In dieser Woche standen technologische Entwicklungen und Marktaktivitäten im Fokus. Apple plant laut Insiderberichten neue M-Chips, die die Leistung ihrer Geräte weiter steigern sollen. Gleichzeitig läuft der Prime Day, der zahlreiche Rabatte auf Elektronikprodukte bietet. Diese Ereignisse verdeutlichen den anhaltenden Wettbewerb im Tech-Sektor und die Innovationsbestrebungen der Unternehmen.",
+      "highlights": [
+        "Apple entwickelt M5, M6 und M7 Chips mit Fokus auf KI.",
+        "M6 wird ohne Max- und Pro-Varianten angeboten.",
+        "Prime Day bietet über 140 Rabatte auf Elektronik und Gadgets.",
+        "Beliebte Artikel wie Fernseher und Smart-Home-Technik sind schnell ausverkauft.",
+        "Wettbewerb im Tech-Sektor bleibt intensiv, Innovationen sind entscheidend."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "KW 26: Die Woche, in der die Politik vor eine Wahl gestellt wird",
+          "link": "https://netzpolitik.org/2026/die-woche-in-der-die-politik-vor-eine-wahl-gestellt-wird/",
+          "summary": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 26. Kalenderwoche geht zu Ende. Wir haben 16 neue Texte mit insgesamt 145.481 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 27 Jun 2026 07:06:05 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Schluss mit Massen-Mails: So personalisiert KI deine Kampagnen für jeden einzelnen Kunden",
+          "link": "https://t3n.de/news/ki-personalisiert-email-kampagnen-kunden-1741937/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Klaviyo AI verändert, wie Teams Kampagnen planen, Zielgruppen verstehen und Kommunikation personalisieren. Hier sind fünf Wege, wie Klaviyo AI E-Mail- und SMS-Marketing effizienter und relevanter macht. weiterlesen auf t3n.de",
+          "published": "Sat, 27 Jun 2026 09:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Gefilmt, bestraft, zum Schweigen gebracht: Wie russische Überwachungssoftware die georgische Zivilgesellschaft unterdrückt",
+          "link": "https://netzpolitik.org/2026/gefilmt-bestraft-zum-schweigen-gebracht-wie-russische-ueberwachungssoftware-die-georgische-zivilgesellschaft-unterdrueckt/",
+          "summary": "Seit rund 580 Tagen demonstrieren Menschen allabendlich vor dem Parlamentsgebäude in Tiflis. – CC-BY 4.0 : George Beridze Auch nach fast 580 Tagen demonstrieren in der georgischen Hauptstadt Tiflis jeden Abend Hunderte Menschen gegen die autoritäre Regierung. Der gelang es, die Protestbewegung in Georgien zu brechen: mit physischer Gewalt – und mit Gesichtserkennungssoftware und einem Netzwerk aus KI-gestützten Kameras. Eine Reportage.",
+          "published": "Sat, 27 Jun 2026 06:59:07 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Data Poisoning: Wenn die KI-Suche Donald Trump für tot erklärt",
+          "link": "https://t3n.de/news/duckduckgo-ki-suche-data-poisoning-trump-1749884/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Künstliche Intelligenz soll das Auffinden von Informationen vereinfachen. Doch was passiert, wenn die Datenbasis gezielt mit absurden Details manipuliert wird, um Verwirrung zu stiften? Ein aktueller Vorfall demonstriert die Schwächen von Suchmaschinen eindrucksvoll. weiterlesen auf t3n.de",
+          "published": "Fri, 26 Jun 2026 19:16:51 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Das Silicon Valley hat ein Problem mit Zombie-Einhörnern",
+          "link": "https://t3n.de/news/startups-silicon-valley-einhoerner-bewertungsverluste-1749878/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Startups mit Einhorn-Status haben mit sinkenden Bewertungen zu kämpfen und gelten als „gefallene Einhörner“. Woran das liegt und wohin das Geld der Investoren stattdessen fließt. weiterlesen auf t3n.de",
+          "published": "Fri, 26 Jun 2026 19:04:02 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Runtergesetzt auf Steam: Mit diesem Aufbauspiel kommt ihr kühl in den Feierabend",
+          "link": "https://t3n.de/news/steam-runtergesetzt-aufbau-kuehl-1571805/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ihr sucht ein Spiel, das euch den Feierabend oder das Wochenende versüßen kann? Wir haben einen Steam-Tipp für euch: In Terra Nil sollen Spieler die Erde ­mithilfe von Greentech wieder ergrünen lassen. Ein entspanntes Spiel mit über­raschendem Ende. weiterlesen auf t3n.de",
+          "published": "Fri, 26 Jun 2026 15:25:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Modelle unserer Welt: Wie KI die simulierten Abbilder vorantreibt",
+          "link": "https://t3n.de/news/modelle-unserer-welt-wie-ki-die-simulierten-abbilder-vorantreibt-1749759/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wir bauen immer komplexere Modelle unserer Welt. Doch dadurch erreichen sie einen Grad, den selbst Fachleute nicht immer vollständig verstehen. Wie weit heutige Modelle unser Leben prägen, ergründet die neue Ausgabe der MIT Technologie Review. weiterlesen auf t3n.de",
+          "published": "Fri, 26 Jun 2026 15:00:32 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Kennzeichnung auf Steam: Warum ausgerechnet der Epic-Games-CEO dagegen ist",
+          "link": "https://t3n.de/news/ki-kennzeichnung-steam-epic-games-ceo-dagegen-1749738/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Games, die mithilfe von KI erstellt wurden, werden von Valve auf Steam mit einem prominenten Hinweis versehen. Laut Epic-Games-CEO Tim Sweeney ist das unfair. Warum er den Einsatz von KI-Tools sogar lieber unterstützen will. weiterlesen auf t3n.de",
+          "published": "Fri, 26 Jun 2026 14:00:50 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "In dieser Woche standen verschiedene Themen im Fokus, die die Schnittstelle zwischen Technologie und Gesellschaft beleuchten. Besonders die Herausforderungen durch Überwachungssoftware und die Manipulation von Daten durch Künstliche Intelligenz (KI) wurden thematisiert. Zudem wird die Rolle von KI in der Marketing- und Spielebranche diskutiert. Die Entwicklungen im Silicon Valley zeigen, dass die Bewertungen von Startups unter Druck stehen, während gleichzeitig innovative Ansätze zur Personalisierung von Kampagnen durch KI entstehen.",
+      "highlights": [
+        "580 Tage anhaltende Proteste in Georgien gegen autoritäre Maßnahmen, unterstützt durch Überwachungssoftware.",
+        "Vorfall von Data Poisoning, der die Schwächen von KI-gestützten Suchmaschinen aufzeigt.",
+        "Klaviyo AI revolutioniert das E-Mail- und SMS-Marketing durch personalisierte Ansätze.",
+        "Epic-Games-CEO kritisiert die Kennzeichnung von KI-generierten Spielen auf Steam als unfair.",
+        "Sinkende Bewertungen von Einhorn-Startups im Silicon Valley, die als 'Zombie-Einhörner' bezeichnet werden."
+      ]
+    }
+  ]
+}
