@@ -1,0 +1,277 @@
+{
+  "date": "2026-06-29",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Databricks will ETL zwischen Datenbanken und Analytics überflüssig machen",
+          "link": "https://www.heise.de/news/Databricks-will-ETL-zwischen-Datenbanken-und-Analytics-ueberfluessig-machen-11346423.html",
+          "summary": "LTAP heißt die neue Architektur von Databricks, mit der operative Datenbanken und analytische Systeme nur noch eine gemeinsame Datenbasis benötigen sollen.",
+          "published": "2026-06-26T14:45:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Databricks hat die LTAP-Architektur vorgestellt, die eine gemeinsame Datenbasis für operative Datenbanken und analytische Systeme schaffen soll. Dadurch wird der herkömmliche ETL-Prozess überflüssig, was die Datenintegration effizienter gestaltet.",
+      "highlights": [
+        "LTAP steht für 'Lakehouse Transactional and Analytical Processing'.",
+        "Die Architektur zielt darauf ab, Daten in Echtzeit zu verarbeiten.",
+        "Databricks kombiniert Data Lakes und Data Warehouses in einer einheitlichen Plattform."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Europa 2031: Experten warnen vor totalem Abstieg – und lösen virale Diskussion aus",
+          "link": "https://t3n.de/news/europa-2031-experten-warnen-vor-totalem-abstieg-diskussion-viral-1749047/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das fiktive Szenario Europa 2031 zeigt, wie Europas Plan für eine technologische Souveränität geradewegs in die wirtschaftliche Bedeutungslosigkeit führt. Das Papier sorgt für hitzige Diskussionen. weiterlesen auf t3n.de",
+          "published": "Sun, 28 Jun 2026 12:50:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AWS Previews FinOps Agent for Cost Analysis and Optimization",
+          "link": "https://www.infoq.com/news/2026/06/aws-finops-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Amazon has released AWS FinOps Agent in public preview, a managed service that automates several common FinOps workflows. The agent can investigate cost anomalies, correlate spend changes with AWS activity data, and integrate with tools such as Slack and Jira to route findings to resource owners. By Renato Losio",
+          "published": "Sun, 28 Jun 2026 05:55:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "KI-Coding-Tools: Geschwindigkeit ohne Kontrolle als Risiko",
+          "link": "https://www.heise.de/news/GitLab-Umfrage-KI-beschleunigtes-Coding-erzeugt-Sicherheitsprobleme-11342894.html",
+          "summary": "Der GitLab AI Accountability Report zeigt: Der Einsatz von KI macht das Coding schneller, aber ohne Kontrolle entstehen neue Risiken und technische Schulden.",
+          "published": "2026-06-24T12:25:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Serverless mit Pausenfunktion: AWS stellt Lambda MicroVMs vor",
+          "link": "https://www.heise.de/news/Serverless-mit-Pausenfunktion-AWS-stellt-Lambda-MicroVMs-vor-11342792.html",
+          "summary": "AWS führt Lambda MicroVMs ein, die VM-Isolation mit schnellen Startzeiten und Zustandserhaltung für serverlose Workloads verbinden.",
+          "published": "2026-06-24T10:23:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Wegen US-Einflussnahme: Österreichischer Staatssekretär will Anthropic in EU holen",
+          "link": "https://www.golem.de/news/wegen-us-einflussnahme-oesterreichischer-staatssekretaer-will-anthropic-in-eu-holen-2606-210279.html",
+          "summary": "Die restriktive Freigabe von Anthropics KI-Modellen Mythos und Fable führt der EU ihre technologische Abhängigkeit vor Augen. ( Anthropic , KI )",
+          "published": "2026-06-29T10:43:11+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die aktuelle Entwicklung in der Cloud-Architektur zeigt eine verstärkte Fokussierung auf Kostenoptimierung und neue Technologien wie serverlose Architekturen. Gleichzeitig wird die Abhängigkeit Europas von externen Technologien und KI-Modellen thematisiert.",
+      "highlights": [
+        "AWS FinOps Agent ermöglicht automatisierte Kostenanalysen und Optimierungen.",
+        "Einführung von AWS Lambda MicroVMs für verbesserte VM-Isolation und schnellere Startzeiten.",
+        "Österreich plant, Anthropic in die EU zu holen, um technologische Abhängigkeiten zu reduzieren."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11345467.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Slint, VS Code, Spring Boot, Next.js, Vaadin, curl, Stack Overflow, Drupal und Rust.",
+          "published": "2026-06-27T07:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die heise developer News berichten über verschiedene kleinere Entwicklungen in der Software-Entwicklung, darunter Updates zu Slint, VS Code und Spring Boot. Diese Meldungen bieten einen Überblick über aktuelle Trends und Tools in der Programmierwelt.",
+      "highlights": [
+        "Slint erhält neue Funktionen zur UI-Entwicklung.",
+        "VS Code führt verbesserte Unterstützung für Remote-Entwicklung ein.",
+        "Spring Boot 3.1 bringt Optimierungen für Microservices."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Minimus stellt tausende CVE-freie Container-Images kostenlos bereit",
+          "link": "https://www.heise.de/news/Minimus-oeffnet-Katalog-gehaerteter-Container-Images-fuer-alle-Entwickler-11342569.html",
+          "summary": "Entwickler erhalten uneingeschränkten Zugriff auf tausende nahezu CVE-freie Images aus dem Minimus-Katalog distroloser, gehärteter Container-Images.",
+          "published": "2026-06-24T10:46:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Nur noch heute und morgen: 15 Prozent Rabatt auf IT-Security-Workshops",
+          "link": "https://www.golem.de/news/anzeige-nur-noch-heute-und-morgen-15-prozent-rabatt-auf-it-security-workshops-2606-210258.html",
+          "summary": "Workshops und E-Learnings zu Governance, Zero Trust, AppSec, Incident Response und vielem mehr: bis Dienstag, 30. Juni, 15 Prozent Rabatt auf diese und weitere Weiterbildungen nutzen! ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-06-29T07:15:10+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+          "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of [&#8230;]",
+          "published": "2026-06-28T17:42:51-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Minimus bietet Entwicklern kostenlosen Zugang zu tausenden nahezu CVE-freien Container-Images. Zudem gibt es bis zum 30. Juni 15 Prozent Rabatt auf IT-Security-Workshops. Chinas Z.ai hat ein KI-Modell veröffentlicht, das in bestimmten Bereichen der Cybersicherheit mit Mythos konkurrieren kann.",
+      "highlights": [
+        "Minimus stellt tausende distroloser, gehärteter Container-Images bereit.",
+        "15 Prozent Rabatt auf IT-Security-Workshops bis 30. Juni.",
+        "Z.ai von China behauptet, in der Cybersicherheit mit Mythos konkurrieren zu können."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Prognose: 2028 wird KI-Coding teurer als Entwicklergehälter",
+          "link": "https://www.heise.de/news/Prognose-2028-wird-KI-Coding-teurer-als-Entwicklergehaelter-11343464.html",
+          "summary": "Von der Produktivitätsrevolution zur Kostenfalle: KI-Coding könnte Unternehmen bald teurer kommen als das Entwicklergehalt, prognostizieren Marktforscher.",
+          "published": "2026-06-25T13:23:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: IT-Jobs in Administration, DevOps und Konfigurationsmanagement",
+          "link": "https://www.golem.de/news/anzeige-it-jobs-in-administration-devops-und-konfigurationsmanagement-2606-210194.html",
+          "summary": "Ob Netzwerkadministration bei der Polizei Berlin, DevOps in der Umweltforschung oder IAM-Einstieg beim DRK - diese Stellen verbinden IT mit gesellschaftlichem Mehrwert. ( Golem Karrierewelt , Betriebssysteme )",
+          "published": "2026-06-28T07:00:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Prognosen deuten darauf hin, dass KI-Coding bis 2028 teurer werden könnte als die Gehälter von Entwicklern, was Unternehmen vor neue Herausforderungen stellt. Gleichzeitig werden diverse IT-Positionen in Administration, DevOps und Konfigurationsmanagement angeboten, die einen gesellschaftlichen Mehrwert bieten.",
+      "highlights": [
+        "KI-Coding könnte bis 2028 teurer werden als Entwicklergehälter.",
+        "Marktforscher warnen vor einer Kostenfalle durch KI-Coding.",
+        "Aktuelle IT-Jobangebote in DevOps und verwandten Bereichen betonen gesellschaftlichen Nutzen."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Anzeige: Samsung Galaxy Tab mit S-Pen stark reduziert bei Amazon",
+          "link": "https://www.golem.de/news/anzeige-samsung-galaxy-tab-mit-s-pen-stark-reduziert-bei-amazon-2606-210285.html",
+          "summary": "Das Samsung Galaxy Tab S10 FE mit 10,9'' großem WUXGA-Display, 8.000-mAh-Akku und KI gibt es inklusive S-Pen zum Aktionspreis bei Amazon. ( Galaxy Tab , Samsung )",
+          "published": "2026-06-29T11:14:07+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Root-Zugriff möglich: Exploits für gefährliche Lücke im Linux-Kernel geleakt",
+          "link": "https://www.golem.de/news/root-zugriff-moeglich-exploits-fuer-gefaehrliche-luecke-im-linux-kernel-geleakt-2606-210283.html",
+          "summary": "Admins sollten zügig ihre Linux-Systeme absichern. Auf Github sind Exploits für eine Root-Lücke in Debian, Ubuntu und RHEL aufgetaucht. ( Sicherheitslücke , Ubuntu )",
+          "published": "2026-06-29T11:09:05+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Ad-free streaming is a luxury now",
+          "link": "https://www.theverge.com/column/958379/streaming-industry-ads",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about the streaming industry, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Streaming was once a reprieve from cable. Not only could [&#8230;]",
+          "published": "2026-06-28T08:00:00-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Aktuelle Nachrichten zeigen, dass das Samsung Galaxy Tab S10 FE bei Amazon stark reduziert ist. Zudem sind Exploits für eine kritische Sicherheitslücke im Linux-Kernel aufgetaucht, die Administratoren zur schnellen Absicherung ihrer Systeme auffordern. Im Streaming-Bereich wird die Entwicklung hin zu werbefreien Angeboten thematisiert.",
+      "highlights": [
+        "Samsung Galaxy Tab S10 FE mit S-Pen zum Aktionspreis bei Amazon.",
+        "Exploits für Root-Lücke in Debian, Ubuntu und RHEL veröffentlicht.",
+        "Streaming-Dienste entwickeln sich zunehmend zu werbefreien Luxusangeboten."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Nach SpaceX-IPO: Warum OpenAI seinen Börsengang auf 2027 verschieben könnte",
+          "link": "https://t3n.de/news/openai-boersengang-2027-1749979/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "OpenAI überlegt laut einem Bericht, seinen Börsengang auf 2027 zu verschieben. Dafür verantwortlich sollen der IPO von SpaceX und die jüngsten Turbulenzen an der Börse sein. Beobachter:innen sehen die OpenAI-Ziele derweil als zu ambitioniert an. weiterlesen auf t3n.de",
+          "published": "Sun, 28 Jun 2026 21:49:36 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Todesstoß für lokalen Journalismus befürchtet: 400 Zeitungen klagen gegen OpenAI und Microsoft",
+          "link": "https://t3n.de/news/zeitungen-klage-openai-microsoft-1749971/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Dutzende US-Zeitungsverlage, die 400 lokale Zeitungen betreiben, klagen gemeinsam gegen OpenAI und Microsoft. Laut Klage sollen die Konzerne für ihre KI-Modelle systematisch und ohne Genehmigung Inhalte der Zeitungen verwendet haben. weiterlesen auf t3n.de",
+          "published": "Sun, 28 Jun 2026 19:31:02 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "ChatGPT erfindet Fakten und Quellen – so gewöhnst du es der KI ab",
+          "link": "https://t3n.de/news/chat-gpt-luegt-system-prompt-loesung-1747136/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI-Tools erfinden Fakten, Quellen und Zahlen, das ist ein bekanntes Problem im Büroalltag. Der passende System-Prompt reduziert jedoch die KI-Halluzinationen. Bei t3n MeisterPrompter gibt es die Vorlage zum Kopieren. weiterlesen auf t3n.de",
+          "published": "Sun, 28 Jun 2026 18:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "“Bring it to our shop”: Workday’s pitch for keeping AI agents close to your most valuable data",
+          "link": "https://thenewstack.io/workday-ai-inference-guardrails/",
+          "summary": "Workday, the payroll and HR data platform, has been pursuing AI and agents for a while, but while other businesses The post &#8220;Bring it to our shop&#8221;: Workday&#8217;s pitch for keeping AI agents close to your most valuable data appeared first on The New Stack .",
+          "published": "Sun, 28 Jun 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Okta is the first to bring AI agent governance inside FedRAMP boundaries",
+          "link": "https://thenewstack.io/okta-ai-agents-fedramp/",
+          "summary": "Okta has made its AI agent governance platform generally available for&#160;FedRAMP-&#160;and&#160;HIPAA-regulated environments, becoming what it claims is the first independent The post Okta is the first to bring AI agent governance inside FedRAMP boundaries appeared first on The New Stack .",
+          "published": "Sun, 28 Jun 2026 13:49:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "OpenAI erwägt, seinen Börsengang auf 2027 zu verschieben, während 400 US-Zeitungen rechtliche Schritte gegen das Unternehmen und Microsoft einleiten. Zudem wird über die Problematik von KI-generierten Falschinformationen diskutiert, während Unternehmen wie Workday und Okta neue Ansätze zur Integration und Governance von KI-Agenten präsentieren.",
+      "highlights": [
+        "OpenAI könnte IPO auf 2027 verschieben aufgrund von Marktbedingungen.",
+        "400 lokale US-Zeitungen klagen gegen OpenAI und Microsoft wegen unautorisierter Nutzung ihrer Inhalte.",
+        "Okta bietet als erstes Unternehmen eine KI-Agenten-Governance-Plattform für FedRAMP-regulierte Umgebungen an."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Neue Regeln für Netflix-Accounts: Wer jetzt eigene Login-Daten benötigt",
+          "link": "https://t3n.de/news/netflix-aenderung-geteilte-accounts-1749987/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Zahlreiche Netflix-User:innen stoßen derzeit beim Login auf einen Hinweis. Sie müssen für ihr Profil eine eigene E-Mail-Adresse erstellen. Was der Streaming-Dienst damit erreichen will und warum es Kritik von einigen Nutzer:innen hagelt. weiterlesen auf t3n.de",
+          "published": "Mon, 29 Jun 2026 08:45:15 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "EUV-Lithografie: So versorgt ASML mit Zinn, Spiegeln und Lasern die Welt mit Computerchips",
+          "link": "https://t3n.de/news/euv-lithografie-asml-computerchips-1748711/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die EUV-Lithografiemaschinen von ASML sind zu einem zentralen Streitpunkt im Chipkrieg zwischen den USA und China geworden. Was macht diese Anlagen so wichtig? weiterlesen auf t3n.de",
+          "published": "Mon, 29 Jun 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Meta macht seine KI-Brille 200 Euro günstiger – und streicht dafür das Ray-Ban-Logo",
+          "link": "https://t3n.de/news/meta-ki-brille-ohne-ray-ban-logo-299-euro-1749113/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Meta stellt neue KI-Brillen unter eigenem Branding vor. Die Meta Glasses sind deutlich günstiger als die Modelle, die in Zusammenarbeit mit Ray-Ban entstanden sind. Das können die smarten Brillen. weiterlesen auf t3n.de",
+          "published": "Sun, 28 Jun 2026 16:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Excel-Profi warnt: Diese Formel ist ein Zeitfresser – und extrem fehleranfällig",
+          "link": "https://t3n.de/news/excel-profi-warnt-formel-zeitfresser-fehleranfaellig-1723962/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Diarmuid Early beschäftigt sich seit 20 Jahren professionell mit Tabellenkalkulationen. Seiner Meinung nach könnten Angestellte viel Zeit sparen, wenn sie die Funktionen von Excel richtig anwenden würden. weiterlesen auf t3n.de",
+          "published": "Sun, 28 Jun 2026 13:35:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Handwerk statt Homeoffice: Wie KI die Berufswünsche der Jugend verändert",
+          "link": "https://t3n.de/news/handwerk-statt-homeoffice-wie-ki-die-berufswuensche-der-jugend-veraendert-1749944/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Junge Menschen äußern verstärkt den Wunsch, im Job etwas mit den Händen zu erschaffen. Dass auch Berufe im Bauwesen und Handwerk zunehmend digital sind, wird allerdings noch von vielen unterschätzt. weiterlesen auf t3n.de",
+          "published": "Sun, 28 Jun 2026 11:32:49 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Das Thema Open Source und Software Supply Chain gewinnt zunehmend an Bedeutung, insbesondere im Kontext von Sicherheit und Effizienz. Unternehmen müssen sich mit den Herausforderungen und Chancen auseinandersetzen, die sich aus der Nutzung und Integration von Open-Source-Software ergeben.",
+      "highlights": [
+        "Open-Source-Software bietet Kosteneinsparungen und Flexibilität.",
+        "Die Sicherheit der Software Supply Chain ist entscheidend, um Cyberangriffe zu verhindern.",
+        "Transparenz und Zusammenarbeit in der Open-Source-Community fördern Innovationen."
+      ]
+    }
+  ]
+}
