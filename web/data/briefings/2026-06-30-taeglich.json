@@ -1,0 +1,329 @@
+{
+  "date": "2026-06-30",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Databricks will ETL zwischen Datenbanken und Analytics überflüssig machen",
+          "link": "https://www.heise.de/news/Databricks-will-ETL-zwischen-Datenbanken-und-Analytics-ueberfluessig-machen-11346423.html",
+          "summary": "LTAP heißt die neue Architektur von Databricks, mit der operative Datenbanken und analytische Systeme nur noch eine gemeinsame Datenbasis benötigen sollen.",
+          "published": "2026-06-26T14:45:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Databricks hat die LTAP-Architektur vorgestellt, die darauf abzielt, den ETL-Prozess zwischen operativen Datenbanken und analytischen Systemen zu eliminieren. Diese neue Architektur ermöglicht es, dass beide Systeme auf einer gemeinsamen Datenbasis operieren können.",
+      "highlights": [
+        "LTAP steht für 'Lakehouse Transactional and Analytical Processing'.",
+        "Die Architektur soll die Effizienz von Datenanalysen erhöhen.",
+        "Ziel ist es, die Komplexität und den Aufwand für Datenintegration zu reduzieren."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "„Die schlechteste App, die ich in meinem Leben genutzt habe“: Openclaws Android-App sorgt für verärgerte Nutzer",
+          "link": "https://t3n.de/news/openclaw-android-app-veraergerte-nutzer-1750191/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Verantwortlichen hinter Openclaw haben dedizierte iOS- und Android-Apps für den KI-Assistenten veröffentlicht. Während die Version für iPhones einen guten ersten Eindruck hinterlässt, ist es bei der Android-Variante etwas anders. weiterlesen auf t3n.de",
+          "published": "Tue, 30 Jun 2026 09:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI entwickelt Burger-Rezepte – und schlägt den Big Mac im Blindtest",
+          "link": "https://t3n.de/news/ki-designt-burger-rezepte-und-schlaegt-den-big-mac-im-blindtest-1750177/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Geschmack, Nährstoffgehalt, Nachhaltigkeit: Eine von Forschern erstellte KI designt individuell optimierte Burger. In einem Restaurant mussten sich die Tech-Produkte dann mit einem Klassiker messen. weiterlesen auf t3n.de",
+          "published": "Tue, 30 Jun 2026 08:00:44 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Die Strukturen waren alle da“: Forschende zeigen, wie bei Mäusen Gliedmaßen nachwachsen",
+          "link": "https://t3n.de/news/forschende-maeusen-gliedmassen-nachwachsen-1749629/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "US-Forschenden ist es gelungen, amputierte Gliedmaßen bei einer Maus nachwachsen zu lassen. Damit zeigen sie: Nicht nur Amphibien, auch Säugetiere besitzen die Fähigkeit zur Regeneration. weiterlesen auf t3n.de",
+          "published": "Tue, 30 Jun 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Psychische Gesundheit: Dieser KI-Assistent soll noch vor dir erkennen, ob du gestresst bist",
+          "link": "https://t3n.de/news/psychische-gesundheit-dieser-ki-assistent-soll-noch-vor-dir-erkennen-ob-du-gestresst-bist-1750002/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Viele Menschen fühlen sich psychisch belastet, haben aber Schwierigkeiten, sich Hilfe zu suchen. Kanadische Forscher:innen haben deshalb ein System entwickelt, das in Notlagen proaktiv Unterstützung bieten soll. weiterlesen auf t3n.de",
+          "published": "Mon, 29 Jun 2026 15:10:42 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Podcast: Architectural Patterns: Moving Beyond Cloud-Native to Local-First - Insights from Adam Wiggins",
+          "link": "https://www.infoq.com/podcasts/natural-evolution-cloud-native/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In this episode, Heroku co-founder and Ink & Switch founder Adam Wiggins argues for a 'local-first' architecture that reconciles cloud-based collaboration with the performance and data ownership of local software. He explores the role of CRDTs and version control primitives in non-code domains, and examines how a hybrid AI future might leverage local models for core productivity tasks. By Adam Wiggins",
+          "published": "Mon, 29 Jun 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Die Cloud-Architektur entwickelt sich weiter, wobei lokale Ansätze an Bedeutung gewinnen. Adam Wiggins diskutiert in einem Podcast, wie lokale Software die Vorteile der Cloud mit besserer Leistung und Datenhoheit vereinen kann.",
+      "highlights": [
+        "Adam Wiggins plädiert für eine 'local-first' Architektur.",
+        "CRDTs und Versionskontrolle spielen eine zentrale Rolle in der neuen Architektur.",
+        "Hybrid-Modelle könnten die Produktivität durch lokale KI-Modelle steigern."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: Hardwood 1.0, Endive 1.0, Azul Payara, Quarkus, WildFly, LangChain4j, OSSI",
+          "link": "https://www.infoq.com/news/2026/06/java-news-roundup-jun22-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for June 22nd, 2026, features news highlighting: the GA releases of Hardwood 1.0 and Endive 1.0; the June 2026 edition of Azul Payara; point releases of Quarkus, LangChain4j; the first beta release of WildFly 41; and introducing Eliya JDK and the Open Source Sustainability Initiative (OSSI), the latter of which was founded by HeroDevs and Commonhaus Foundation. By Michael Redlich",
+          "published": "Mon, 29 Jun 2026 23:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Eliya 25 Brings a JVM-Level Diagnostic Profile to OpenJDK 25 LTS",
+          "link": "https://www.infoq.com/news/2026/06/eliya-jvm-diagnostic-profile/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Asymm Systems has released Eliya 25.0.3, an OpenJDK 25 LTS distribution aimed at improving production diagnostics in Java environments. It consolidates several HotSpot features into an opt-in Production profile. Eliya is designed for teams needing reliable diagnostic data, especially in regulated settings. Future enhancements are planned for Phase 2. By A N M Bazlur Rahman",
+          "published": "Mon, 29 Jun 2026 14:50:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11345467.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Slint, VS Code, Spring Boot, Next.js, Vaadin, curl, Stack Overflow, Drupal und Rust.",
+          "published": "2026-06-27T07:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die aktuellen Entwicklungen in der Java-Software-Architektur umfassen die Veröffentlichung von Hardwood 1.0 und Endive 1.0 sowie die Einführung von Eliya 25, das eine verbesserte Diagnostik für OpenJDK 25 LTS bietet. Zudem gibt es Updates für Quarkus und LangChain4j.",
+      "highlights": [
+        "Hardwood 1.0 und Endive 1.0 jetzt verfügbar.",
+        "Eliya 25.0.3 verbessert Produktionsdiagnosen in Java-Umgebungen.",
+        "Erste Beta-Version von WildFly 41 veröffentlicht."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Hacking-Turbo dank KI? Warum der Mittelstand andere Sorgen als Claude Mythos hat",
+          "link": "https://t3n.de/news/hacking-turbo-dank-ki-warum-der-mittelstand-andere-sorgen-als-claude-mythos-hat-1749602/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Anthropics großes Sprachmodell versetzt die Cybersecurity-Branche in helle Aufregung. Aber für kleinere Unternehmen liegen die größten Gefahren an ganz ande weiterlesen auf t3n.de",
+          "published": "Tue, 30 Jun 2026 07:30:02 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nach Signal-Attacken: USA bieten üppiges Kopfgeld für russische Hacker",
+          "link": "https://www.golem.de/news/nach-signal-hacks-usa-bieten-10-millionen-us-dollar-kopfgeld-fuer-russische-hacker-2606-210321.html",
+          "summary": "Wer Infos über die Akteure hinter den ständigen Phishing-Angriffen auf Signal-Nutzer hat, bekommt dafür bei der US-Regierung eine Menge Geld. ( Phishing , Cyberwar )",
+          "published": "2026-06-30T09:10:03+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "(g+) IKEv1-Altlast: Abgekündigtes Protokoll öffnet Ransomware-Banden das Firmen-VPN",
+          "link": "https://www.golem.de/news/ikev1-altlast-abgekuendigtes-protokoll-oeffnet-ransomware-banden-das-firmen-vpn-2606-210290.html",
+          "summary": "Eine kritische Lücke in Check Points VPN wird aktiv ausgenutzt. Kern ist ein totgesagtes Protokoll. Admins sollten IKEv1 abschalten und sich eine grundsätzliche Frage stellen. Ein Ratgebertext von Steffen Zahn ( Security , Server )",
+          "published": "2026-06-29T13:30:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die IT-Sicherheit steht vor neuen Herausforderungen, insbesondere für den Mittelstand, der oft von grundlegenden Sicherheitsfragen abgelenkt wird. Während die USA Kopfgelder für Informationen über russische Hacker anbieten, wird ein veraltetes VPN-Protokoll aktiv von Ransomware-Banden ausgenutzt.",
+      "highlights": [
+        "Anthropics KI-Modell sorgt für Aufregung in der Cybersecurity-Branche.",
+        "US-Regierung bietet hohe Belohnungen für Informationen über Phishing-Angriffe auf Signal-Nutzer.",
+        "Kritische Sicherheitslücke in Check Points VPN durch IKEv1-Protokoll erfordert sofortige Maßnahmen von Admins."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Taucheranzug ermöglicht ferngesteuerten Cyborg-Kakerlaken das Atmen unter Wasser",
+          "link": "https://www.heise.de/news/Taucheranzug-ermoeglicht-ferngesteuerten-Cyborg-Kakerlaken-das-Atmen-unter-Wasser-11348666.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Cyborg-Kakerlaken sollen auch unter Wasser ihren Dienst verrichten. Ein Taucheranzug mit Sauerstoffgenerator sorgt für ausreichend Atemluft.",
+          "published": "2026-06-30T10:06:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Geheimdienste im Visier: Straßburger Gericht prüft deutsche Überwachungspraxis",
+          "link": "https://www.heise.de/news/Geheimdienste-im-Visier-Strassburger-Gericht-prueft-deutsche-Ueberwachungspraxis-11348311.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Reporter ohne Grenzen hat neue BND-Befugnisse und Staatstrojaner vor den Gerichtshof für Menschenrechte gebracht. Der wendet sich nun an die Bundesregierung.",
+          "published": "2026-06-29T17:50:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Prognose: 2028 wird KI-Coding teurer als Entwicklergehälter",
+          "link": "https://www.heise.de/news/Prognose-2028-wird-KI-Coding-teurer-als-Entwicklergehaelter-11343464.html",
+          "summary": "Von der Produktivitätsrevolution zur Kostenfalle: KI-Coding könnte Unternehmen bald teurer kommen als das Entwicklergehalt, prognostizieren Marktforscher.",
+          "published": "2026-06-25T13:23:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Entwicklungen im Bereich DevOps und Test-Automatisierung zeigen, dass innovative Technologien wie KI-Coding möglicherweise teurer werden als die Gehälter von Entwicklern. Gleichzeitig wird die Überwachungspraxis in Deutschland rechtlich hinterfragt, während neue Technologien wie ferngesteuerte Cyborg-Kakerlaken getestet werden.",
+      "highlights": [
+        "KI-Coding könnte bis 2028 teurer werden als Entwicklergehälter.",
+        "Geheimdienste stehen unter rechtlicher Prüfung durch den Gerichtshof für Menschenrechte.",
+        "Cyborg-Kakerlaken erhalten Taucheranzug mit Sauerstoffgenerator für den Einsatz unter Wasser."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Neue Allianz für mehr Open-Source-Schutz",
+          "link": "https://www.heise.de/news/Neues-Buendnis-fuer-Open-Source-Schutz-11347664.html",
+          "summary": "Die Linux Foundation und Tech-Giganten starten Akrites, um Open-Source-Sicherheitslücken zentral und vertraulich zu beheben.",
+          "published": "2026-06-29T10:37:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: BFSG und WCAG in Webprojekten umsetzen",
+          "link": "https://www.golem.de/news/anzeige-bfsg-und-wcag-in-webprojekten-umsetzen-2606-209713.html",
+          "summary": "Barrierefreiheit im Web verbindet Recht, Standards und Entwicklung. Ein Online-Workshop zeigt, wie BFSG, WCAG und Prüfprozesse umgesetzt werden. ( Golem Karrierewelt , Unternehmenssoftware )",
+          "published": "2026-06-30T07:15:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Linux Foundation und führende Tech-Unternehmen haben die Allianz Akrites gegründet, um Sicherheitslücken in Open-Source-Software zu beheben. Zudem wird in einem Online-Workshop gezeigt, wie die Barrierefreiheit im Web durch die Umsetzung von BFSG und WCAG verbessert werden kann.",
+      "highlights": [
+        "Akrites zielt darauf ab, Open-Source-Sicherheitslücken zentral und vertraulich zu beheben.",
+        "Der Workshop behandelt die Umsetzung von BFSG und WCAG in Webprojekten.",
+        "Barrierefreiheit im Web vereint rechtliche Anforderungen, Standards und Entwicklungsprozesse."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Österreich will Anthropic in die EU locken – wie realistisch ist das?",
+          "link": "https://t3n.de/news/oesterreich-will-anthropic-in-die-eu-locken-wie-realistisch-ist-das-1750132/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In den USA steht Anthropic zunehmend unter Druck. Die Regierung in Wien fordert nun die EU auf, das KI-Unternehmen anzuwerben, um seinen Sitz zu verlagern. Doch die Chancen sind gering. weiterlesen auf t3n.de",
+          "published": "Mon, 29 Jun 2026 18:00:12 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Claude fordert Nutzer auf, schlafen zu gehen: Was steckt dahinter?",
+          "link": "https://t3n.de/news/claude-fordert-nutzer-auf-schlafen-zu-gehen-was-steckt-dahinter-1750103/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nutzer:innen berichten, dass der Chatbot während der Sitzung immer wieder „Gute Nacht“ sagt – teilweise mitten am Tag. Expert:innen finden unterschiedliche Erklärungsansätze für dieses seltsame Verhalten. weiterlesen auf t3n.de",
+          "published": "Mon, 29 Jun 2026 17:30:42 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Inside Target’s LLM-Based System for Semantic Matching in Marketing Forecast Pipelines",
+          "link": "https://www.infoq.com/news/2026/06/target-ai-campaign-forecasting/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Target built a generative AI system to improve marketing campaign forecasting by retrieving and ranking similar historical campaigns. Using embeddings, vector search, and LLM ranking, it replaces rule-based workflows. Evaluation shows 75% top-1 and 100% top-3 coverage. The system reduces manual effort, improves consistency, and uses feedback loops to refine retrieval using campaign outcomes. By Leela Kumili",
+          "published": "Mon, 29 Jun 2026 14:26:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Tulongfeng und Fugu: Neue KI-Modelle sollen es mit Mythos 5 und Fable 5 aufnehmen können",
+          "link": "https://t3n.de/news/tulongfeng-fugu-ki-mythos-1750009/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kurz nach dem Launch hatte Anthropic sein neues KI-Modell Mythos 5 sowie dessen abgespeckte Version Fable 5 wieder abschalten müssen. Jetzt sollen gleich zwei KI-Modelle aus Asien der US-Konkurrenz die Stirn bieten können. weiterlesen auf t3n.de",
+          "published": "Mon, 29 Jun 2026 15:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Article: Virtual panel: Security in the Machine Age: Expert Insights on AI Threat Evolution",
+          "link": "https://www.infoq.com/articles/security-ai-threat-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This virtual panel brings together AI security experts to examine the evolution of AI-driven threats, from prompt injection and data poisoning to agent abuse and AI-powered social engineering. The discussion explores emerging attack patterns, incident response challenges, and the changes security teams must make as AI systems become more autonomous and integrated into critical workflows. By Claudio Masolo, Elham Arshad, Sabri Allani, Vijay Dilwale, Igor Maljkovic",
+          "published": "Mon, 29 Jun 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen im Bereich generative KI und LLMs zeigen sowohl Herausforderungen als auch Fortschritte. Während Österreich versucht, das KI-Unternehmen Anthropic in die EU zu holen, sorgt ein seltsames Verhalten des Chatbots Claude für Diskussionen. Zudem hat Target ein neues KI-System zur Verbesserung von Marketingprognosen implementiert.",
+      "highlights": [
+        "Österreich fordert die EU auf, Anthropic anzuworben, jedoch sind die Chancen gering.",
+        "Claude, der Chatbot von Anthropic, sagt Nutzern wiederholt 'Gute Nacht', was zu Verwirrung führt.",
+        "Target hat ein LLM-basiertes System entwickelt, das die Effizienz von Marketingkampagnen um 75% verbessert."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Robotik: Erstes Hotel ohne menschliches Personal öffnet 2027",
+          "link": "https://www.golem.de/news/robotik-erstes-hotel-ohne-menschliches-personal-oeffnet-2027-2606-210329.html",
+          "summary": "Auf einer künstlichen Insel in China entsteht ein Hotel, in dem Roboter alle Aufgaben von Reinigung bis Rezeption übernehmen. ( Roboter , KI )",
+          "published": "2026-06-30T10:17:11+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In China wird bis 2027 ein Hotel auf einer künstlichen Insel eröffnet, das vollständig ohne menschliches Personal auskommt. Roboter übernehmen sämtliche Aufgaben, von der Reinigung bis zur Rezeption.",
+      "highlights": [
+        "Eröffnung des Hotels ist für 2027 geplant.",
+        "Das Hotel befindet sich auf einer künstlichen Insel in China.",
+        "Roboter übernehmen alle Aufgaben, einschließlich Reinigung und Rezeption."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "IdentityServer4 is dead. Here’s what comes next.",
+          "link": "https://thenewstack.io/rsk-forks-open-identityserver/",
+          "summary": "Developers weren&#8217;t happy when identity and access control software company Duende commercialized its open source IdentityServer product in December 2022, The post IdentityServer4 is dead. Here&#8217;s what comes next. appeared first on The New Stack .",
+          "published": "Tue, 30 Jun 2026 08:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Ozone loss was a thing even before CFCs were widely used",
+          "link": "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
+          "summary": "With today’s scientific tools, the problem could have been spotted in the 1950s.",
+          "published": "Mon, 29 Jun 2026 19:00:23 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "60 Millionen Sterne auf einem Bild: Euclids neuer Blick auf die Milchstraße",
+          "link": "https://t3n.de/news/euclid-teleskop-milchstrasse-60-millionen-sterne-1750168/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein neues Teleskop liefert bislang unerreichte Einblicke in unsere Heimatgalaxie. Die gigantische Datenmenge offenbart Details, die selbst etablierte Observatorien vor Herausforderungen stellen würden. Die Jagd nach neuen Welten erreicht damit eine neue Stufe. weiterlesen auf t3n.de",
+          "published": "Mon, 29 Jun 2026 17:59:46 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Automatisierte Löschung: Wie ein Algorithmus historische Texte von Max Planck verschwinden ließ",
+          "link": "https://t3n.de/news/algorithmus-loescht-max-planck-artikel-springer-nature1750164-1750164/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In der digitalen Archivierung von Forschungstexten lauern Tücken, die mitunter groteske Züge annehmen. Ein aktueller Fall zeigt sehr deutlich, was passiert, wenn automatisierte Kontrollsysteme ohne menschliche Aufsicht historische Dokumente bewerten. weiterlesen auf t3n.de",
+          "published": "Mon, 29 Jun 2026 17:45:08 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Bargeld-Verordnung: Wie die EU die Rolle des Bargelds stärken will",
+          "link": "https://netzpolitik.org/2026/bargeld-verordnung-wie-die-eu-die-rolle-des-bargelds-staerken-will/",
+          "summary": "Parlament und Mitgliedstaaten wollen solche Schilder wirkungslos machen. – Alle Rechte vorbehalten: IMAGO / Sven Simon Mit der Einführung des Digitalen Euro versprechen die EU-Institutionen, auch das Bargeld zu stärken. Parlament und Mitgliedstaaten wollen etwa „No Cash“-Schilder wirkungslos machen. Damit reagieren sie auch auf Kritik von Bargeld-Befürworter:innen.",
+          "published": "Mon, 29 Jun 2026 15:27:32 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "Die Open-Source-Software IdentityServer4 wurde von Duende kommerzialisiert, was bei Entwicklern auf Unmut stieß. Die Software-Versorgungskette steht vor Herausforderungen, insbesondere in Bezug auf die Archivierung und den Umgang mit historischen Dokumenten.",
+      "highlights": [
+        "Duende hat IdentityServer4 im Dezember 2022 kommerzialisiert.",
+        "Automatisierte Systeme können historische Texte ohne menschliche Aufsicht falsch bewerten.",
+        "Die EU plant, die Rolle des Bargelds trotz der Einführung des Digitalen Euro zu stärken."
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Nordamerika-Premiere: CO2-Zertifikate aus Direct Air Capture für Microsoft",
+          "link": "https://www.heise.de/news/Nordamerika-Premiere-CO2-Zertifikate-aus-Direct-Air-Capture-fuer-Microsoft-11348475.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Direct Air Capture holt CO2 aus der Luft – ein aufwändiger Weg zu CO2-Zertifikaten. Jetzt hat Microsoft die ersten solchen Zertifikate aus Nordamerika bekommen.",
+          "published": "2026-06-29T23:07:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Microsoft hat in Nordamerika die ersten CO2-Zertifikate aus Direct Air Capture erhalten, einem Verfahren, das CO2 direkt aus der Luft entfernt. Dies stellt einen bedeutenden Schritt in Richtung nachhaltiger CO2-Reduktion dar.",
+      "highlights": [
+        "Direct Air Capture entfernt CO2 aus der Atmosphäre.",
+        "Microsoft ist der erste Anbieter in Nordamerika, der solche Zertifikate erhält.",
+        "CO2-Zertifikate unterstützen Unternehmen bei der Erreichung von Klimazielen."
+      ]
+    }
+  ]
+}
