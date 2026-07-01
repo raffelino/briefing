@@ -1,0 +1,343 @@
+{
+  "date": "2026-07-01",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Databricks will ETL zwischen Datenbanken und Analytics überflüssig machen",
+          "link": "https://www.heise.de/news/Databricks-will-ETL-zwischen-Datenbanken-und-Analytics-ueberfluessig-machen-11346423.html",
+          "summary": "LTAP heißt die neue Architektur von Databricks, mit der operative Datenbanken und analytische Systeme nur noch eine gemeinsame Datenbasis benötigen sollen.",
+          "published": "2026-06-26T14:45:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Databricks hat die LTAP-Architektur vorgestellt, die darauf abzielt, den ETL-Prozess zwischen operativen Datenbanken und analytischen Systemen zu eliminieren. Durch die Schaffung einer gemeinsamen Datenbasis sollen Datenanalysen effizienter gestaltet werden.",
+      "highlights": [
+        "LTAP steht für 'Lakehouse Transactional Analytics Platform'.",
+        "Die Architektur ermöglicht eine nahtlose Integration von operativen und analytischen Daten.",
+        "Ziel ist die Reduzierung der Komplexität und Verbesserung der Datenverfügbarkeit."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "One-Pedal-Drive: Diese Fahrweise erhöht das Unfallrisiko bei E-Autos",
+          "link": "https://t3n.de/news/one-pedal-drive-unfall-e-auto-1750445/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "E-Autos sind Unfallforscher:innen zufolge ähnlich sicher wie Verbrenner, wenn es um die Schadenhäufigkeit geht. Allerdings sind einzelne Unfallmuster auffällig, etwa das ungewollte Beschleunigen beim Anfahren. Das könnte am One-Pedal-Drive liegen. weiterlesen auf t3n.de",
+          "published": "Tue, 30 Jun 2026 22:44:46 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AWS launches a desktop for agents",
+          "link": "https://thenewstack.io/aws-workspaces-desktops-for-agents/",
+          "summary": "After a short public preview, AWS on Tuesday made its Amazon WorkSpaces for Agents &#8212; which you should definitely not The post AWS launches a desktop for agents appeared first on The New Stack .",
+          "published": "Tue, 30 Jun 2026 16:01:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS just put $1 billion into forward deployed engineers. Here’s why it matters for enterprise teams.",
+          "link": "https://thenewstack.io/aws-forward-deployed-engineering/",
+          "summary": "Amazon Web Services is investing $1 billion in a new engineering organization that will work directly with enterprise customers building The post AWS just put $1 billion into forward deployed engineers. Here&#8217;s why it matters for enterprise teams. appeared first on The New Stack .",
+          "published": "Tue, 30 Jun 2026 15:02:22 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Operating Kubernetes at scale: a few stories from running Amazon EKS",
+          "link": "https://thenewstack.io/eks-kubernetes-etcd-scale/",
+          "summary": "Amazon EKS runs hundreds of thousands of Kubernetes clusters across more than thirty AWS regions. Operating at that scale has The post Operating Kubernetes at scale: a few stories from running Amazon EKS appeared first on The New Stack .",
+          "published": "Tue, 30 Jun 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Microsoft Brings AI-Powered Vulnerability Remediation to Azure DevOps with Copilot Autofix",
+          "link": "https://www.infoq.com/news/2026/06/azuredevops-copilot-autofix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has announced the limited public preview of Copilot Autofix for GitHub Advanced Security for Azure DevOps, extending AI-powered vulnerability remediation to teams using Azure Repos. By Craig Risi",
+          "published": "Tue, 30 Jun 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Cloud-Architektur zeigen, dass AWS in neue Ingenieurteams investiert und neue Produkte wie Amazon WorkSpaces für Agenten einführt. Microsoft erweitert seine Sicherheitslösungen in Azure DevOps mit KI-gestützter Fehlerbehebung.",
+      "highlights": [
+        "AWS investiert 1 Milliarde USD in Ingenieure für direkte Zusammenarbeit mit Unternehmenskunden.",
+        "Amazon EKS betreibt Hunderttausende von Kubernetes-Clustern in über 30 AWS-Regionen.",
+        "Microsoft führt Copilot Autofix für Azure DevOps ein, um KI-gestützte Sicherheitslösungen anzubieten."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11345467.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Slint, VS Code, Spring Boot, Next.js, Vaadin, curl, Stack Overflow, Drupal und Rust.",
+          "published": "2026-06-27T07:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In der aktuellen Woche wurden verschiedene kleinere Entwicklungen in der Software-Architektur und Programmierung vorgestellt, darunter Updates zu Slint, VS Code und Spring Boot. Diese Meldungen bieten Einblicke in neue Funktionen und Verbesserungen in beliebten Tools und Frameworks.",
+      "highlights": [
+        "Slint erhält neue Features zur UI-Entwicklung.",
+        "VS Code verbessert die Unterstützung für Remote-Entwicklung.",
+        "Spring Boot 3.1 bringt erweiterte Sicherheitsfunktionen."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Presentation: Trustworthy Productivity: Securing AI-Accelerated Development",
+          "link": "https://www.infoq.com/presentations/ai-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Sriram Madapusi Vasudevan discusses industry-converging patterns for securing autonomous AI agents in production. He explains the critical vulnerabilities hidden inside the ReAct loop across context, reasoning, and tool execution. He shares how to mitigate risks like memory poisoning and rogue tool execution using defense-in-depth strategies, LLM-as-a-judge critics, and MAESTRO threat modeling. By Sriram Madapusi Vasudevan",
+          "published": "Tue, 30 Jun 2026 14:35:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Aikido acquires Root to backport open source fixes without forcing upgrades",
+          "link": "https://thenewstack.io/aikido-acquires-root-security/",
+          "summary": "Developer-focused cybersecurity platform Aikido Security has announced that it has acquired Root, a company that patches known vulnerabilities directly into The post Aikido acquires Root to backport open source fixes without forcing upgrades appeared first on The New Stack .",
+          "published": "Tue, 30 Jun 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Sicherheitslücken in Apples AirDrop und Androids Quick Share entdeckt",
+          "link": "https://www.heise.de/news/Sicherheitsluecken-in-Apples-AirDrop-und-Androids-Quick-Share-entdeckt-11349745.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Sicherheitsforscher haben Schwachstellen in Apples AirDrop sowie in Googles und Samsungs Quick Share gefunden, die Systemabstürze provozieren können.",
+          "published": "2026-06-30T18:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "(g+) Security: Wie Unternehmen mit IAM Risiken reduzieren",
+          "link": "https://www.golem.de/news/security-wie-unternehmen-mit-iam-risiken-reduzieren-2606-210334.html",
+          "summary": "Identität ist der Schlüssel moderner IT-Sicherheit. Wie Identity-Access-Management Zugriffe kontrolliert und Risiken reduziert. Ein Ratgebertext von Klaus Manhart ( Sicherheit im Wandel , OpenID )",
+          "published": "2026-06-30T13:30:06+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der IT-Sicherheit zeigen die Bedeutung von Sicherheitsstrategien und Identitätsmanagement. Unternehmen müssen sich auf neue Bedrohungen einstellen und gleichzeitig bestehende Systeme absichern.",
+      "highlights": [
+        "Sicherheitsforscher entdeckten Schwachstellen in Apples AirDrop und Androids Quick Share, die Systemabstürze verursachen können.",
+        "Aikido Security erwirbt Root, um Open-Source-Patches ohne erzwungene Upgrades bereitzustellen.",
+        "Sriram Madapusi Vasudevan thematisiert in seiner Präsentation kritische Schwachstellen in der Nutzung autonomer KI-Agenten."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Deutschland als KI-Nation: Bundesregierung will Taskforce einsetzen",
+          "link": "https://t3n.de/news/deutschland-als-ki-nation-bundesregierung-will-taskforce-einsetzen-1750463/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Künstliche Intelligenz wird die Zukunft bestimmen, doch wie genau, scheint noch unklar. Schwarz-Rot plant, das Thema innerhalb der Regierung besser zu bündeln. weiterlesen auf t3n.de",
+          "published": "Wed, 1 Jul 2026 08:00:25 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Prognose: 2028 wird KI-Coding teurer als Entwicklergehälter",
+          "link": "https://www.heise.de/news/Prognose-2028-wird-KI-Coding-teurer-als-Entwicklergehaelter-11343464.html",
+          "summary": "Von der Produktivitätsrevolution zur Kostenfalle: KI-Coding könnte Unternehmen bald teurer kommen als das Entwicklergehalt, prognostizieren Marktforscher.",
+          "published": "2026-06-25T13:23:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Bundesregierung plant die Einrichtung einer Taskforce, um die Entwicklung und Anwendung von Künstlicher Intelligenz in Deutschland besser zu koordinieren. Gleichzeitig wird prognostiziert, dass die Kosten für KI-Coding bis 2028 die Gehälter von Entwicklern übersteigen könnten.",
+      "highlights": [
+        "Bundesregierung will Taskforce für Künstliche Intelligenz einsetzen.",
+        "Prognose: KI-Coding könnte 2028 teurer werden als Entwicklergehälter.",
+        "Ziel ist eine bessere Bündelung der KI-Themen innerhalb der Regierung."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Anthropic launches Claude Science, an AI workbench for scientific research",
+          "link": "https://thenewstack.io/anthropic-claude-science-workbench/",
+          "summary": "On Tuesday, Anthropic launched Claude Science, a new application for scientists that can run locally on macOS and Linux or The post Anthropic launches Claude Science, an AI workbench for scientific research appeared first on The New Stack .",
+          "published": "Tue, 30 Jun 2026 17:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "heise+ | Sprachmodelle mit Open WebUI: LLM-Server für kleine Teams selbst hosten",
+          "link": "https://www.heise.de/ratgeber/Sprachmodelle-mit-Open-WebUI-LLM-Server-fuer-kleine-Teams-selbst-hosten-11333185.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Es gibt genug Gründe, mit selbstgehosteten LLMs unabhängiger zu werden. Mit diesen Open-Source-Werkzeugen wird aus einer Linux-Maschine mit GPU ein KI-Server.",
+          "published": "2026-07-01T07:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Neue Allianz für mehr Open-Source-Schutz",
+          "link": "https://www.heise.de/news/Neues-Buendnis-fuer-Open-Source-Schutz-11347664.html",
+          "summary": "Die Linux Foundation und Tech-Giganten starten Akrites, um Open-Source-Sicherheitslücken zentral und vertraulich zu beheben.",
+          "published": "2026-06-29T10:37:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die neuesten Entwicklungen im Bereich KI und Open Source zeigen Fortschritte in der Forschung und Sicherheit. Anthropic hat Claude Science für wissenschaftliche Anwendungen eingeführt, während die Linux Foundation eine Allianz zur Verbesserung der Open-Source-Sicherheit gegründet hat.",
+      "highlights": [
+        "Anthropic lanciert Claude Science, eine KI-Anwendung für Wissenschaftler, die lokal auf macOS und Linux läuft.",
+        "Open-Source-Werkzeuge ermöglichen es kleinen Teams, LLM-Server selbst zu hosten und unabhängiger zu arbeiten.",
+        "Die Linux Foundation startet Akrites zur zentralen Behebung von Open-Source-Sicherheitslücken."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Gemini Spark: Google bringt den KI-Agenten jetzt auch auf den Mac",
+          "link": "https://t3n.de/news/gemini-spark-mac-1750487/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google bringt Gemini Spark in die macOS-App. Damit soll der KI-Assistent jetzt auch Macs steuern können – künftig auch auf Anweisung aus der Ferne. Noch gibt es aber einen Haken. weiterlesen auf t3n.de",
+          "published": "Wed, 1 Jul 2026 10:30:18 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Agentjacking: Wie gefälschte Fehlerberichte KI-Agenten kapern",
+          "link": "https://t3n.de/news/agentjacking-manipulierte-fehlerberichte-kapern-ki-agenten-1750469/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Integration smarter Helfer in den Programmieralltag verspricht enorme Effizienzgewinne für moderne Entwicklungsteams. Doch diese neue Arbeitsweise öffnet zugleich Türen für Angriffsvektoren, die etablierte Sicherheitskonzepte völlig ins Leere laufen lassen. weiterlesen auf t3n.de",
+          "published": "Wed, 1 Jul 2026 09:00:32 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "&quot;World of Claudecraft&quot;: Dieses kostenlose Online-Rollenspiel wurde komplett von einer KI programmiert",
+          "link": "https://t3n.de/news/world-of-claudecraft-mmorpg-1749653/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit &#8222;World of Claudecraft&#8220; hat ein Vibe-Coder eine eigene Version des MMORPG World of Warcraft erschaffen. Dafür musste er nur wenige hundert US-Dollar in das Projekt investieren. Was das Spiel auf dem Kasten hat und wo es bisher nicht an das Original heranreicht. weiterlesen auf t3n.de",
+          "published": "Wed, 1 Jul 2026 08:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Claude Fable 5 kommt zurück: US-Regierung hebt Sperrung des KI-Modells auf",
+          "link": "https://t3n.de/news/claude-fable-5-kommt-zurueck-us-regierung-hebt-sperrung-des-ki-modells-auf-1750458/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der OpenAI-Rivale Anthropic musste den Zugang zu seinem besten KI-Modell plötzlich blockieren, weil die US-Regierung ein Sicherheitsrisiko befürchtete. Nun gibt es eine Lösung. weiterlesen auf t3n.de",
+          "published": "Wed, 1 Jul 2026 07:28:32 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "How Anthropic is bringing Fable 5 back — and when it’ll cost you",
+          "link": "https://thenewstack.io/how-anthropic-is-bringing-fable-5-back/",
+          "summary": "After the U.S. government lifted its export controls for Fable 5 on Tuesday, Anthropic announced that it would bring the The post How Anthropic is bringing Fable 5 back — and when it&#8217;ll cost you appeared first on The New Stack .",
+          "published": "Wed, 01 Jul 2026 04:12:09 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen im Bereich generative KI und LLMs zeigen Fortschritte und Herausforderungen. Google bringt Gemini Spark auf den Mac, während Sicherheitsrisiken durch Agentjacking aufgedeckt werden. Zudem kehrt das KI-Modell Claude Fable 5 zurück, nachdem die US-Regierung die Sperrung aufgehoben hat.",
+      "highlights": [
+        "Google veröffentlicht Gemini Spark für macOS.",
+        "Agentjacking bedroht die Sicherheit von KI-Agenten in der Softwareentwicklung.",
+        "Claude Fable 5 wird nach Aufhebung der US-Sperrung wieder verfügbar."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Reddit will require you to log in to use old.reddit.com",
+          "link": "https://arstechnica.com/gadgets/2026/06/reddit-will-require-you-to-log-in-to-use-old-reddit-com/",
+          "summary": "Logged-out Old Reddit access is “significant source of abusive scraping.\"",
+          "published": "Tue, 30 Jun 2026 21:46:35 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Florida bans local governments from pursuing net-zero emissions goals",
+          "link": "https://arstechnica.com/science/2026/06/florida-bans-local-governments-from-pursuing-net-zero-emissions-goals/",
+          "summary": "Gov. Ron DeSantis calls it a crackdown on \"radical climate policies.\"",
+          "published": "Tue, 30 Jun 2026 13:40:16 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Euro NCAP: Unterfahrschutz an Lkw-Anhänger versagt im Crashtest",
+          "link": "https://www.heise.de/news/Euro-NCAP-Unterfahrschutz-an-Lkw-Anhaenger-versagt-im-Crashtest-11349024.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Crashtests zeigen erhebliche Mängel beim europäischen Unterfahrschutz an Lkw. Euro NCAP regt eine Angleichung an den deutlich strengeren US-Standard an.",
+          "published": "2026-06-30T14:25:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Nerviger Bug: Rechtsklick lässt Outlook plötzlich abstürzen",
+          "link": "https://www.golem.de/news/nerviger-bug-rechtsklick-laesst-outlook-ploetzlich-abstuerzen-2607-210371.html",
+          "summary": "Im Netz häufen sich Beschwerden von Nutzern, bei denen Outlook Classic neuerdings durch Rechtsklicks crasht. Doch es gibt eine Lösung dafür. ( Outlook , Microsoft )",
+          "published": "2026-07-01T08:43:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die EU-Tech-Regulierung steht im Fokus aktueller Diskussionen, während Unternehmen wie Reddit ihre Nutzungsrichtlinien anpassen. Gleichzeitig zeigen Crashtests von Euro NCAP Mängel bei Sicherheitsstandards für Lkw-Anhänger auf, was die Notwendigkeit strengerer Vorschriften unterstreicht.",
+      "highlights": [
+        "Reddit verlangt künftig eine Anmeldung für den Zugriff auf alte Versionen der Plattform.",
+        "Euro NCAP fordert eine Angleichung des Unterfahrschutzes an Lkw an strengere US-Standards.",
+        "In Florida werden lokale Regierungen von der Verfolgung von Netto-Null-Emissionszielen abgehalten."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "DLR-Projekt Loki: KI soll Fluglotsen und Piloten bei der Arbeit unterstützen",
+          "link": "https://www.heise.de/news/Loki-DLR-entwickelt-KI-Assistenten-fuer-Fluglotsen-und-Piloten-11349451.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Flugverkehr nimmt zu, aber es gibt weniger Fluglotsen. Das DLR hat einen KI-Fluglotsen entwickelt, der künftig die Menschen im Tower unterstützen soll.",
+          "published": "2026-06-30T16:01:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Das DLR hat im Rahmen des Projekts Loki eine KI entwickelt, die Fluglotsen und Piloten unterstützen soll. Angesichts des steigenden Flugverkehrs und der abnehmenden Zahl an Fluglotsen soll diese Technologie die Effizienz und Sicherheit im Luftraum verbessern.",
+      "highlights": [
+        "Entwicklung einer KI für die Unterstützung von Fluglotsen und Piloten.",
+        "Steigender Flugverkehr bei gleichzeitig sinkender Anzahl an Fluglotsen.",
+        "Ziel: Effizienz und Sicherheit im Luftraum erhöhen."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Weil sie denken, sie wären in einem Spiel: KI-Browser geben Passwörter heraus",
+          "link": "https://t3n.de/news/ki-browser-geben-passwoerter-heraus-spiel-1750471/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit einem simplen Trick haben Sicherheitsforscher:innen KI-Browser dazu gebracht, sensible Daten wie Passwörter zu offenbaren. Sie mussten den Tools nur vorgaukeln, dass sie sich in einem Spiel befinden. weiterlesen auf t3n.de",
+          "published": "Wed, 1 Jul 2026 10:13:49 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Die Sonne verschluckt die Erde? Forscher sind sich auf einmal nicht mehr sicher",
+          "link": "https://t3n.de/news/sonne-verschluckt-erde-1750437/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bisher galt es als ausgemachte Sache, dass die Sonne sich am Ende ihrer Lebenszeit so weit aufblähen wird, dass sie die Erde verschluckt. Neue Berechnungen zeigen aber, dass die Erde letztlich mit dem Schrecken davonkommen könnte. weiterlesen auf t3n.de",
+          "published": "Tue, 30 Jun 2026 20:50:33 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Millionendeal mit Überwachungsfirma: Regierung in Österreich will Menschen mit illegalen Daten orten können",
+          "link": "https://netzpolitik.org/2026/millionendeal-mit-ueberwachungsfirma-regierung-in-oesterreich-will-menschen-mit-illegalen-daten-orten-koennen/",
+          "summary": "Haben Handy-Standortdaten Begehrlichkeiten bei Österreichs Innenminister Gerhard Karner (ÖVP) geweckt? – Porträt: IMAGO / photonews.at; Grafische Elemente: Pixabay; Montage: netzpolitik.org Das Werkzeug Webloc soll Menschen anhand ihrer Handy-Standorte ausspionieren können. Zu den bislang bekannten Kunden gehören die US-Abschiebemiliz ICE und die abgewählte Orbán-Regierung in Ungarn. Jetzt ist klar: Auch Österreich hat zugegriffen.",
+          "published": "Tue, 30 Jun 2026 16:01:01 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Cyber-Sklaverei in Scam-Fabriken: „Wer dem Tiger entkommt, trifft auf das Krokodil“",
+          "link": "https://netzpolitik.org/2026/cyber-sklaverei-in-scam-fabriken-wer-dem-tiger-entkommt-trifft-auf-das-krokodil/",
+          "summary": "Aus Scam-Fabriken befreite Menschen harrten im Januar 2026 wochenlang vor der indonesischen Botschaft in Phnom Penh aus - in der Hoffnung endlich heimreisen zu dürfen. – Alle Rechte vorbehalten: IMAGO / Anadolu Agency Kambodscha meldet, Hunderte von Scam-Fabriken geschlossen zu haben. Berichte von Amnesty International, der UN und Interpol widersprechen dieser Darstellung und zeigen, was tatsächlich mit den Zwangsarbeiter:innen geschieht.",
+          "published": "Tue, 30 Jun 2026 15:08:30 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Du bewertest deine Reels falsch: Was Instagram-Chef Mosseri wirklich wichtig findet",
+          "link": "https://t3n.de/news/reels-instagram-bewerten-mosseri-1744320/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Du bewertest deine Reels wahrscheinlich noch immer falsch. Denn viele Views bedeuten laut Instagram-Chef Adam Mosseri längst nicht automatisch erfolgreiche Kurzvideos. Diese Reels-Metriken priorisiert Instagram stattdessen wirklich. weiterlesen auf t3n.de",
+          "published": "Tue, 30 Jun 2026 15:55:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Sicherheitsforschung zeigt, dass KI-Browser durch einen einfachen Trick sensible Daten wie Passwörter preisgeben können. Gleichzeitig gibt es Bedenken hinsichtlich der Nutzung illegaler Standortdaten durch die österreichische Regierung. Zudem wird die Situation von Zwangsarbeitern in Scam-Fabriken kritisch beleuchtet.",
+      "highlights": [
+        "Sicherheitsforscher:innen täuschten KI-Browser, um Passwörter zu erhalten.",
+        "Österreich plant den Einsatz von Webloc zur Überwachung von Handy-Standorten.",
+        "Berichte über Scam-Fabriken in Kambodscha widersprechen offiziellen Schließungsangaben."
+      ]
+    }
+  ]
+}
