@@ -1,0 +1,289 @@
+{
+  "date": "2026-07-02",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Databricks will ETL zwischen Datenbanken und Analytics überflüssig machen",
+          "link": "https://www.heise.de/news/Databricks-will-ETL-zwischen-Datenbanken-und-Analytics-ueberfluessig-machen-11346423.html",
+          "summary": "LTAP heißt die neue Architektur von Databricks, mit der operative Datenbanken und analytische Systeme nur noch eine gemeinsame Datenbasis benötigen sollen.",
+          "published": "2026-06-26T14:45:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Databricks hat die LTAP-Architektur vorgestellt, die eine gemeinsame Datenbasis für operative Datenbanken und analytische Systeme schaffen soll. Dadurch wird der traditionelle ETL-Prozess überflüssig, was die Datenintegration effizienter gestalten könnte.",
+      "highlights": [
+        "LTAP steht für 'Lakehouse Transactional and Analytical Processing'.",
+        "Die Architektur zielt darauf ab, Daten in Echtzeit zwischen Systemen zu integrieren.",
+        "Databricks möchte die Komplexität von ETL-Prozessen reduzieren und die Datenverarbeitung vereinfachen."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+          "link": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+          "summary": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
+          "published": "Wed, 01 Jul 2026 21:21:21 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Digitale Verblödung: Warum ich plötzlich meine analogen Freunde brauche",
+          "link": "https://t3n.de/news/offline-gewinnt-umgang-ki-digitale-abhaengigkeit-1746588/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Unsere Kolumnistin belächelte lange Bekannte, die sich im Digitalen schwertun. Doch jetzt erkennt sie: Das Wissen um analoge Fähigkeiten hat unschlagbare Vort weiterlesen auf t3n.de",
+          "published": "Wed, 1 Jul 2026 14:00:19 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise+ |  Batterien für Elektroautos: Was kommt nach Lithium?",
+          "link": "https://www.heise.de/hintergrund/Batterien-fuer-Elektroautos-Was-kommt-nach-Lithium-11347691.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Die Forschung an Batteriezellen geht weit über das Elektroauto hinaus. Neue Zellchemien sollen Kosten und Abhängigkeiten senken und die Energiedichte steigern.",
+          "published": "2026-07-02T09:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "#heiseshow: EU-US-Datendeal, KI-Euphorie, Streaming-Abgabe",
+          "link": "https://www.heise.de/news/heiseshow-EU-US-Datendeal-KI-Euphorie-Streaming-Abgabe-11350931.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In der #heiseshow: Ein US-Urteil bedroht EU-Daten bei AWS & Co., Experten warnen vor einer KI-Blase und die Streaming-Abgabe steckt in der Verfassungskrise.",
+          "published": "2026-07-02T06:11:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Android-Backup erlaubt das Ausschließen einzelner Apps",
+          "link": "https://www.heise.de/news/Android-Backup-erlaubt-das-Ausschliessen-einzelner-Apps-11350797.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Google erweitert die Backupfunktion unter Android. Künftig können Nutzer gezielt einzelne Apps von der Sicherung in der Google Cloud ausschließen.",
+          "published": "2026-07-01T16:04:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Cloud-Architektur steht im Fokus aktueller Entwicklungen, insbesondere im Hinblick auf rechtliche Auseinandersetzungen und technologische Fortschritte. T-Mobile verlagert zahlreiche virtuelle Maschinen von VMware, während Google die Backup-Funktion für Android-Nutzer erweitert.",
+      "highlights": [
+        "T-Mobile verlagert zehntausende virtuelle Maschinen von VMware aufgrund eines Rechtsstreits.",
+        "Google erlaubt Android-Nutzern, einzelne Apps von der Cloud-Backup-Funktion auszuschließen.",
+        "Forschung an neuen Batteriezellen für Elektroautos zielt darauf ab, Kosten zu senken und die Energiedichte zu steigern."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11345467.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Slint, VS Code, Spring Boot, Next.js, Vaadin, curl, Stack Overflow, Drupal und Rust.",
+          "published": "2026-06-27T07:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die heise developer News präsentieren eine Sammlung kleiner, aber bemerkenswerter Updates aus der Software-Entwicklung, die verschiedene Technologien und Frameworks betreffen. Dazu gehören unter anderem Slint, VS Code und Spring Boot.",
+      "highlights": [
+        "Slint erhält neue Funktionen zur UI-Entwicklung.",
+        "VS Code bietet verbesserte Unterstützung für Remote-Entwicklung.",
+        "Spring Boot 3.1 bringt erweiterte Sicherheitsfeatures."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop API-Sicherheit: OWASP Top 10 API Security Risks",
+          "link": "https://www.heise.de/news/iX-Workshop-API-Sicherheit-OWASP-Top-10-API-Security-Risks-11343524.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie praxisnah, wie Sie Schwachstellen in der API-Implementierung vermeiden und Angriffe abwehren.",
+          "published": "2026-07-01T14:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Der iX-Workshop von heise bietet praxisnahe Schulungen zur Vermeidung von Schwachstellen in API-Implementierungen und zur Abwehr von Angriffen. Teilnehmer lernen die OWASP Top 10 API Security Risks kennen und erhalten wertvolle Tipps zur Verbesserung der IT-Sicherheit.",
+      "highlights": [
+        "Fokus auf die OWASP Top 10 API Security Risks, die häufigsten Sicherheitsrisiken für APIs.",
+        "Praxisnahe Ansätze zur Identifikation und Behebung von Schwachstellen in API-Implementierungen.",
+        "Schulung zur Entwicklung sicherer APIs im Rahmen von Security by Design."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Cordyceps flaw pattern is more proof CI/CD is part of the attack surface",
+          "link": "https://thenewstack.io/cordyceps-cicd/",
+          "summary": "On June 24, research from Novee Security was released, reporting a CI/CD weakness that could enable anyone with an unauthenticated The post Cordyceps flaw pattern is more proof CI/CD is part of the attack surface appeared first on The New Stack .",
+          "published": "Wed, 01 Jul 2026 20:29:58 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Prognose: 2028 wird KI-Coding teurer als Entwicklergehälter",
+          "link": "https://www.heise.de/news/Prognose-2028-wird-KI-Coding-teurer-als-Entwicklergehaelter-11343464.html",
+          "summary": "Von der Produktivitätsrevolution zur Kostenfalle: KI-Coding könnte Unternehmen bald teurer kommen als das Entwicklergehalt, prognostizieren Marktforscher.",
+          "published": "2026-06-25T13:23:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen im Bereich DevOps und Test-Automatisierung zeigen sowohl Sicherheitsrisiken als auch wirtschaftliche Herausforderungen. Eine neue Forschung weist auf Schwächen in CI/CD-Pipelines hin, während Prognosen darauf hindeuten, dass KI-gestütztes Coding teurer werden könnte als die Gehälter von Entwicklern.",
+      "highlights": [
+        "CI/CD-Schwächen könnten unbefugten Zugriff ermöglichen.",
+        "Marktforscher prognostizieren, dass KI-Coding 2028 teurer wird als Entwicklergehälter.",
+        "Die Sicherheitsforschung stammt von Novee Security und wurde am 24. Juni veröffentlicht."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "HeroUI v3 Lands as a Ground-Up Rewrite for React and React Native, Built on Tailwind CSS v4",
+          "link": "https://www.infoq.com/news/2026/07/heroui-v3-rewrite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "HeroUI v3 is a redesigned React component library, previously NextUI, offering over 75 components, including 21 new ones, and a new React Native library with 37 components. Built on React Aria and Tailwind CSS v4, it emphasizes accessibility and customization. The library has experienced many updates since its release, and migration from the previous version is necessary. By Daniel Curtis",
+          "published": "Wed, 01 Jul 2026 12:16:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Neue Allianz für mehr Open-Source-Schutz",
+          "link": "https://www.heise.de/news/Neues-Buendnis-fuer-Open-Source-Schutz-11347664.html",
+          "summary": "Die Linux Foundation und Tech-Giganten starten Akrites, um Open-Source-Sicherheitslücken zentral und vertraulich zu beheben.",
+          "published": "2026-06-29T10:37:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "WSL Preview: Windows 11 kann künftig Linux-Container ausführen",
+          "link": "https://www.golem.de/news/wsl-preview-windows-11-kann-kuenftig-linux-container-ausfuehren-2607-210401.html",
+          "summary": "Die Linux-Container sollen Entwicklern bei ihren Arbeiten helfen. Dafür werden Teile des Windows-Subsystems für Linux angepasst. ( Windows 11 , API )",
+          "published": "2026-07-01T16:45:03+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "(g+) Kernel Live-Patching: Patchen ohne Neustart - und warum der Reboot trotzdem kommt",
+          "link": "https://www.golem.de/news/kernel-live-patching-patchen-ohne-neustart-und-warum-der-reboot-trotzdem-kommt-2607-210375.html",
+          "summary": "Live-Patching schließt Kernel-Lücken ohne Neustart - aber nicht jede Lücke. Wie Live-Patching funktioniert und wo seine Grenzen liegen. Ein Ratgebertext von Steffen Zahn ( Security , Linux-Kernel )",
+          "published": "2026-07-01T13:30:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die neuesten Entwicklungen in der Softwareentwicklung umfassen die Veröffentlichung von HeroUI v3, einer umfassend überarbeiteten React-Komponentenbibliothek, sowie Initiativen zur Verbesserung der Open-Source-Sicherheit und der Unterstützung von Linux-Containern unter Windows 11.",
+      "highlights": [
+        "HeroUI v3 bietet über 75 Komponenten, darunter 21 neue, und ist auf Tailwind CSS v4 aufgebaut.",
+        "Die Linux Foundation und Tech-Giganten haben die Allianz Akrites gegründet, um Open-Source-Sicherheitslücken zu beheben.",
+        "Windows 11 wird künftig die Ausführung von Linux-Containern unterstützen, um Entwicklern zu helfen."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Claude Fable 5: KI-Modell hilft bereitwillig, Cyberverbrechen zu planen",
+          "link": "https://t3n.de/news/claude-fable-5-cyberverbrechen-planen-1750729/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Anthropic hat Fable 5 nach mehreren Wochen zurückgebracht. Schon jetzt zeigt sich aber, dass das KI-Modell noch Probleme hat. Laut einem Entwickler lassen sich die Sicherheitsrichtlinien ziemlich einfach aushebeln, um Verbrechen zu planen. weiterlesen auf t3n.de",
+          "published": "Thu, 2 Jul 2026 09:45:22 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "5 Prozent Anteile für Trump: Darum will OpenAI die US-Regierung an Bord holen",
+          "link": "https://t3n.de/news/open-ai-trump-regierung-5-prozent-anteile-1750735/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "OpenAI soll der Trump-Regierung eine Beteiligung am Unternehmen vorgeschlagen haben. CEO Sam Altman glaube einem Bericht zufolge, dies sei der beste Weg, um durch KI generierte Gewinne mit der Öffentlichkeit zu teilen. Ein anderer Aspekt dürfte schwerer wiegen. weiterlesen auf t3n.de",
+          "published": "Thu, 2 Jul 2026 08:33:23 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "56-mal schneller als die meisten LLMs? US-Startup macht mit seinem Modell spektakuläres KI-Versprechen",
+          "link": "https://t3n.de/news/schneller-llms-startup-ki-versprechen-1748987/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Große Sprachmodelle sind teuer, langsam und energiehungrig, sobald der Kontext wächst. Subquadratic behauptet, all diese Probleme auf einen Schlag gelöst zu weiterlesen auf t3n.de",
+          "published": "Thu, 2 Jul 2026 06:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Lenkradloses Robotaxi: Tesla startet Cybercab-Tests in Austin",
+          "link": "https://t3n.de/news/tesla-cybercab-tests-1750708/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Tesla hat mit Testfahrten seines Cybercabs in Austin begonnen. Das zweisitzige Robotaxi kommt jetzt ohne Lenkrad und Strompedal daher und soll schon bald an private Kund:innen verkauft werden. Aber wichtige Fragen bleiben offen. weiterlesen auf t3n.de",
+          "published": "Wed, 1 Jul 2026 21:09:05 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
+          "link": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+          "summary": "US lifts curbs on Anthropic’s advanced Fable and Mythos models.",
+          "published": "Wed, 01 Jul 2026 16:44:18 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen im Bereich generative KI und LLMs zeigen sowohl Fortschritte als auch Herausforderungen. Während Anthropic sein KI-Modell Fable 5 zurückgebracht hat, das Sicherheitsprobleme aufweist, plant OpenAI eine Beteiligung der US-Regierung an seinem Unternehmen. Zudem verspricht das Startup Subquadratic eine erhebliche Leistungssteigerung seiner Sprachmodelle.",
+      "highlights": [
+        "Anthropic Fable 5 hat Sicherheitslücken, die Cyberverbrechen erleichtern könnten.",
+        "OpenAI bietet der Trump-Regierung 5 Prozent Anteile an, um KI-Gewinne zu teilen.",
+        "Subquadratic behauptet, ein KI-Modell zu entwickeln, das 56-mal schneller ist als herkömmliche LLMs."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Digital Markets Act: Apple und die EU beraten über Siri AI",
+          "link": "https://www.golem.de/news/digital-markets-act-apple-und-die-eu-beraten-ueber-siri-ai-2607-210399.html",
+          "summary": "Apples neue KI-Siri gibt es in der EU nicht - wegen des DMA. Tim Cook und die EU-Tech-Verantwortliche Henna Virkkunen haben sich nun getroffen. ( Apple , KI )",
+          "published": "2026-07-01T16:15:12+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Apple diskutiert mit der EU über die Einführung seiner KI-Siri in Europa, die aufgrund des Digital Markets Act (DMA) bislang nicht verfügbar ist. Tim Cook traf sich mit der EU-Tech-Verantwortlichen Henna Virkkunen, um mögliche Lösungen zu erörtern.",
+      "highlights": [
+        "Siri ist in der EU aufgrund des Digital Markets Act nicht verfügbar.",
+        "Tim Cook und Henna Virkkunen führten Gespräche über die KI-Integration.",
+        "Der Digital Markets Act zielt darauf ab, faire Wettbewerbsbedingungen im digitalen Markt zu schaffen."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "A good little EV you won't be able to buy soon: The Volvo EX30 Cross Country",
+          "link": "https://arstechnica.com/cars/2026/07/the-volvo-ex30-cross-country-review-a-victim-of-geopolitics/",
+          "summary": "Tariffs and anti-China policies killed this little Volvo in the United States.",
+          "published": "Wed, 01 Jul 2026 18:24:04 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Cyborg-Kakerlaken mit Taucheranzug: Einsatzkräfte für geflutete Trümmer",
+          "link": "https://t3n.de/news/cyborg-kakerlaken-taucheranzug-katastrophenschutz-1750713/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn Rettungskräfte an unzugänglichen Orten nicht mehr weiterkommen, schlägt die Stunde unkonventioneller Hilfsmittel. Eine neue Entwicklung aus Asien rüstet nun winzige Helfer für extreme Bedingungen auf und überwindet dabei physikalische Grenzen. weiterlesen auf t3n.de",
+          "published": "Wed, 1 Jul 2026 19:39:17 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Instacart Scales Personalized Marketing via Configuration-Driven Multi-Tenant Platform",
+          "link": "https://www.infoq.com/news/2026/07/instacart-multi-tenant-marketing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Instacart redesigned its personalized marketing system using a configuration-driven multi-tenant architecture on Storefront Pro. The system replaces retailer-specific implementations with a shared execution engine, enabling scalable personalization, faster configuration propagation in under a minute, and 99.9% delivery success across hundreds of retail banners through a unified campaign platform. By Leela Kumili",
+          "published": "Wed, 01 Jul 2026 14:05:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Von wegen Kinderspiel: In Super Mario stecken die schwersten Matheprobleme",
+          "link": "https://t3n.de/news/von-wegen-kinderspiel-in-super-mario-stecken-die-schwersten-matheprobleme-1749889/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die epische Reise des berühmten Nintendo-Klempners Super Mario hat mehr mit Mathematik und Informatik zu tun, als viele denken. Das könnte auch der Forschung weiterlesen auf t3n.de",
+          "published": "Wed, 1 Jul 2026 15:30:07 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Android 17: Warum du bald weniger Versuche hast, deine PIN einzugeben",
+          "link": "https://t3n.de/news/android-17-weniger-versuche-pin-eingeben-1750555/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit Android 17 führt Google eine Änderung ein, die dein Smartphone besser schützen soll. Künftig hast du dadurch aber deutlich weniger Versuche, den Sperrbildschirm deines Geräts mit deiner PIN zu entsperren. Was du dabei beachten musst. weiterlesen auf t3n.de",
+          "published": "Wed, 1 Jul 2026 15:00:36 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Software Supply Chain wird zunehmend durch Open-Source-Technologien beeinflusst, die eine flexible und skalierbare Entwicklung ermöglichen. Unternehmen setzen auf konfigurationsgesteuerte Architekturen, um personalisierte Marketinglösungen effizienter zu gestalten und Sicherheitsmaßnahmen zu verbessern.",
+      "highlights": [
+        "Instacart implementiert eine konfigurationsgesteuerte Multi-Tenant-Plattform für personalisiertes Marketing.",
+        "Die neue Architektur ermöglicht eine schnelle Konfiguration und eine Erfolgsquote von 99,9% bei Kampagnen.",
+        "Android 17 reduziert die Anzahl der Versuche zur PIN-Eingabe, um die Sicherheit zu erhöhen."
+      ]
+    }
+  ]
+}
