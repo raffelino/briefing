@@ -1,0 +1,357 @@
+{
+  "date": "2026-07-03",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Databricks will ETL zwischen Datenbanken und Analytics überflüssig machen",
+          "link": "https://www.heise.de/news/Databricks-will-ETL-zwischen-Datenbanken-und-Analytics-ueberfluessig-machen-11346423.html",
+          "summary": "LTAP heißt die neue Architektur von Databricks, mit der operative Datenbanken und analytische Systeme nur noch eine gemeinsame Datenbasis benötigen sollen.",
+          "published": "2026-06-26T14:45:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Databricks hat die LTAP-Architektur vorgestellt, die darauf abzielt, den ETL-Prozess zwischen operativen Datenbanken und analytischen Systemen überflüssig zu machen. Diese neue Architektur ermöglicht eine gemeinsame Datenbasis für beide Systeme.",
+      "highlights": [
+        "LTAP steht für 'Lakehouse Transactional and Analytical Processing'.",
+        "Die Architektur soll die Datenintegration vereinfachen und Echtzeitanalysen ermöglichen.",
+        "Databricks zielt darauf ab, die Effizienz von Datenpipelines zu steigern."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Apple Extends Private Cloud Compute to Google Cloud for the First Time",
+          "link": "https://www.infoq.com/news/2026/07/apple-pcc-google-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Apple chose Google Cloud to run Private Cloud Compute outside its own data centers for the first time, using NVIDIA Blackwell GPUs, Intel TDX, and Google's Titan chip. Apple maintains an independent append-only hardware ledger and dual-vendor attestation roots. AWS and Azure are not part of the collaboration. By Steef-Jan Wiggers",
+          "published": "Thu, 02 Jul 2026 10:04:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Arbeitsmarkt für IT-Berufe wird enger",
+          "link": "https://www.heise.de/news/Arbeitsmarkt-fuer-IT-Berufe-wird-enger-11352608.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Zumindest kurzfristig ist die Arbeitslosigkeit auch in der Zukunftsbranche der Informations- und Kommunikationstechnik gestiegen.",
+          "published": "2026-07-03T09:25:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Won’t fix! – Teil 3: Warum verteilter Konsens schwer bis unmöglich ist",
+          "link": "https://www.heise.de/hintergrund/Won-t-fix-Teil-3-Warum-verteilter-Konsens-schwer-bis-unmoeglich-ist-11350521.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In verteilten Systemen ist Einigkeit nicht bloß schwierig, sondern unter bestimmten Bedingungen mathematisch beweisbar unmöglich.",
+          "published": "2026-07-03T09:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Mecklenburg-Vorpommern verabschiedet sich von Microsoft",
+          "link": "https://www.heise.de/news/Mecklenburg-Vorpommern-verabschiedet-sich-von-Microsoft-11352440.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mit Open-Source-Software will das Bundesland seine digitale Unabhängigkeit sichern. Langfristig sollen über 50.000 Beschäftigte mit den neuen Systemen arbeiten.",
+          "published": "2026-07-03T06:31:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Meta dekodiert getippte Sätze aus Hirnströmen – ohne Operation",
+          "link": "https://www.heise.de/news/Meta-dekodiert-getippte-Saetze-aus-Hirnstroemen-ohne-Operation-11351463.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Metas KI-Modell Brain2Qwerty rekonstruiert getippte Sätze aus EEG- und MEG-Hirnströmen – ohne Implantate. Die KI erreicht im Schnitt 61 Prozent Wortgenauigkeit.",
+          "published": "2026-07-02T18:46:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Cloud-Architektur entwickelt sich weiter, während Unternehmen wie Apple neue Partnerschaften eingehen und sich von traditionellen Anbietern abwenden. Gleichzeitig zeigt der IT-Arbeitsmarkt Anzeichen von Verknappung, und der Einsatz von Open-Source-Software gewinnt an Bedeutung.",
+      "highlights": [
+        "Apple nutzt Google Cloud für Private Cloud Compute mit NVIDIA Blackwell GPUs.",
+        "Mecklenburg-Vorpommern plant den Umstieg auf Open-Source-Software für über 50.000 Beschäftigte.",
+        "Die Arbeitslosigkeit im IT-Sektor ist kurzfristig gestiegen."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11345467.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Slint, VS Code, Spring Boot, Next.js, Vaadin, curl, Stack Overflow, Drupal und Rust.",
+          "published": "2026-06-27T07:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die heise developer News berichten über verschiedene Entwicklungen in der Software-Architektur und Programmierung. Themen sind unter anderem Updates zu Slint, VS Code und Spring Boot sowie Neuigkeiten zu Next.js und Rust.",
+      "highlights": [
+        "Slint erhält neue Features zur UI-Entwicklung.",
+        "VS Code hat ein Update mit verbesserten Debugging-Tools veröffentlicht.",
+        "Spring Boot 3.1 bietet erweiterte Unterstützung für Cloud-Anwendungen."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Forscher warnen: Ransomware-Befall durch Interpol-Masche mit Fake-Beweisen",
+          "link": "https://www.golem.de/news/ransomware-im-anmarsch-hacker-greifen-mit-fieser-interpol-masche-an-2607-210436.html",
+          "summary": "Angreifer geben sich bei Unternehmen als Personal von Interpol aus und ködern mit angeblichen Beweismitteln. Doch stattdessen gibt es Ransomware. ( Phishing , Virus )",
+          "published": "2026-07-02T13:15:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Forscher warnen vor einer neuen Ransomware-Attacke, bei der Angreifer sich als Interpol-Mitarbeiter ausgeben und Unternehmen mit gefälschten Beweisen ködern. Statt tatsächlicher Beweise erhalten die Opfer Ransomware, die ihre Systeme gefährdet.",
+      "highlights": [
+        "Angreifer nutzen Phishing-Methoden und geben sich als Interpol-Personal aus.",
+        "Die Masche beinhaltet gefälschte Beweismittel, um Vertrauen zu erwecken.",
+        "Ziel ist die Verbreitung von Ransomware in Unternehmensnetzwerke."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Why traditional CI/CD fails for LLMs (and the release gates we built to fix it)",
+          "link": "https://thenewstack.io/why-cicd-fails-llms/",
+          "summary": "This article explains why traditional CI/CD gates are not enough for production AI systems. I share a practical release-gating approach The post Why traditional CI/CD fails for LLMs (and the release gates we built to fix it) appeared first on The New Stack .",
+          "published": "Thu, 02 Jul 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Freitag: Vorbereitung für Disc-lose Xbox, Amazon Leo mit ausreichend Satelliten",
+          "link": "https://www.heise.de/news/Freitag-Vorbereitung-fuer-Disc-lose-Xbox-Amazon-Leo-mit-ausreichend-Satelliten-11352434.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Digitalisierung von Xbox-Discs + Starlink-Konkurrenz einsatzbereit + Kritik am Aus für Telefon-AU + Pläne der neuen Krankschreibung + Verbraucherschutz-Podcast",
+          "published": "2026-07-03T06:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Amazon Leo: Genügend Satelliten im All für Satelliten-Internet-Konstellation",
+          "link": "https://www.heise.de/news/Amazon-Leo-Genuegend-Satelliten-im-All-fuer-Satelliten-Internet-Konstellation-11352318.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Fast 400 Satelliten hat Amazon nun im Erdorbit – ausreichend viele für einen kontinuierlichen Service des Satellitennetzwerks Leo. Weitere Starts sind geplant.",
+          "published": "2026-07-02T20:49:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Ärzte protestieren: Krankschreibung wird ab dem ersten Tag zur Pflicht",
+          "link": "https://www.golem.de/news/aerzte-protestieren-krankschreibung-wird-ab-dem-ersten-tag-zur-pflicht-2607-210437.html",
+          "summary": "Die Bundesregierung will die gesetzlichen Regeln rund um die Krankschreibung ändern. Dabei entfällt auch die telefonische Krankschreibung. ( Bundesregierung , Politik )",
+          "published": "2026-07-02T13:01:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die heutigen Nachrichten thematisieren Herausforderungen und Entwicklungen in der Technologiebranche, insbesondere im Bereich der CI/CD-Prozesse für KI-Systeme sowie Fortschritte im Satelliten-Internet. Zudem gibt es politische Änderungen bezüglich der Krankschreibung in Deutschland.",
+      "highlights": [
+        "Traditionelle CI/CD-Gates sind unzureichend für Produktions-KI-Systeme.",
+        "Amazon hat fast 400 Satelliten für sein Leo-Satelliten-Internet im Orbit.",
+        "Ärzte protestieren gegen die Pflicht zur Krankschreibung ab dem ersten Tag."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "KI im Handwerk: Angebote schreiben lassen per Chat",
+          "link": "https://t3n.de/news/ki-im-handwerk-synatos-1749600/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Handwerksbetriebe kämpfen mit Bürokratie. Ein neuer Vertical-AI-Ansatz mit MCP-Schnittstelle verbindet Fachsoftware direkt mit LLMs wie Claude und ChatGPT. Das Ergebnis: Ein KI-Agent, der Angebote schreibt und Analysen liefert. weiterlesen auf t3n.de",
+          "published": "Fri, 3 Jul 2026 09:05:52 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google Releases A2UI v0.9: Portable, Framework-Agnostic Generative UI",
+          "link": "https://www.infoq.com/news/2026/07/google-a2ui-genui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google has released A2UI v0.9, a framework-agnostic standard for AI agents to declare user interface intent across multiple platforms without arbitrary code. The update emphasizes alignment with existing design systems. It includes a new SDK for Python, improved error handling, and various transport methods. Migration guidance and evolution specifications are also provided. By Daniel Curtis",
+          "published": "Fri, 03 Jul 2026 06:38:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Neuer Job als Senior AI Scientist gesucht? Schau dir unsere Top Jobs an",
+          "link": "https://t3n.de/news/unsere-jobs-der-woche-1175973/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hier findest du unsere besten Jobs aus den Bereichen Technik &amp; Entwicklung, Marketing, PR &amp; Kommunikation, Projektmanagement &amp; Produktmanagement, Design &amp; UX, Content &amp; Redaktion und Business Development. weiterlesen auf t3n.de",
+          "published": "Thu, 2 Jul 2026 15:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise+ | Test: Erster Mini-PC mit RISC-V-CPU für Ubuntu ab Version 26.04",
+          "link": "https://www.heise.de/tests/Test-Erster-Mini-PC-mit-RISC-V-CPU-fuer-Ubuntu-ab-Version-26-04-11302381.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Moderne Linux-Distros für RISC-V laufen nur auf Chips mit RVA23-Erweiterung. Einer der ersten ist der SpacemiT K3 in der AIBOX-K3, die recht raue Kanten hat.",
+          "published": "2026-07-03T09:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Collabora Office 26.04: Desktop-Suite mit selbst gewählter KI",
+          "link": "https://www.heise.de/news/Collabora-Office-26-04-Desktop-Suite-mit-selbst-gewaehlter-KI-11350947.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die neue Version von Collabora Office rückt näher an Windows, macOS und Linux. Dazu kommt ein optionaler KI-Assistent, bei dem Nutzer das LLM selbst wählen.",
+          "published": "2026-07-02T14:33:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen im Bereich Agile Methoden und UX/UI zeigen, wie KI und neue Standards die Benutzererfahrung verbessern. Insbesondere Google hat mit A2UI v0.9 einen framework-unabhängigen Ansatz zur UI-Entwicklung vorgestellt, während KI-gestützte Lösungen im Handwerk die Bürokratie reduzieren.",
+      "highlights": [
+        "Google A2UI v0.9 ermöglicht plattformübergreifende UI-Entwicklung ohne spezifischen Code.",
+        "Ein neuer KI-Agent für Handwerksbetriebe erstellt Angebote und Analysen direkt über Fachsoftware.",
+        "Collabora Office 26.04 bietet einen optionalen KI-Assistenten, bei dem Nutzer das LLM selbst wählen können."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Entwickler will das Macbook seiner Ehefrau mit Claude organisieren – und vernichtet 15 Jahre Fotos",
+          "link": "https://t3n.de/news/ki-agent-macbook-fotos-geloescht-1729759/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Entwickler hätte beinahe alle Erinnerungsfotos gelöscht, die seine Frau in den vergangenen Jahren aufgenommen hat. Nur, weil er ihr Macbook mit einer KI aufräumen wollte. Wie er die Erinnerungen schließlich doch noch retten konnte. weiterlesen auf t3n.de",
+          "published": "Fri, 3 Jul 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "“AI contributions are demoralizing”: Godot bans coding agents to save its mentoring model",
+          "link": "https://thenewstack.io/godot-bans-ai-coding-agents/",
+          "summary": "Godot Engine, the open-source alternative to game engines such as Unity, is rewriting its contribution policy to bar most AI-generated The post &#8220;AI contributions are demoralizing&#8221;: Godot bans coding agents to save its mentoring model appeared first on The New Stack .",
+          "published": "Thu, 02 Jul 2026 20:31:26 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages",
+          "link": "https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/",
+          "summary": "Early reports indicate there may be another case, but spread is thought to be localized.",
+          "published": "Thu, 02 Jul 2026 16:30:37 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
+          "link": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+          "summary": "Insiders say Sam Altman is in active talks with the Trump administration.",
+          "published": "Thu, 02 Jul 2026 15:12:25 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "KI-Kollege „Alex“ : Forscherin warnt, dass die falsche Bezeichnung deine Arbeit schlechter macht",
+          "link": "https://t3n.de/news/ki-kollege-alex-forscherin-warnt-dass-die-falsche-bezeichnung-deine-arbeit-schlechter-macht-1750321/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Unternehmen, die KI-Agenten wie menschliche Mitarbeiter:innen mit Namen behandeln, gibt es mehr und mehr. Doch die Menge an Fehlern, die durch echte Angestellte nicht mehr entdeckt werden, steigt – und Verantwortlichkeiten verschieben sich. weiterlesen auf t3n.de",
+          "published": "Thu, 2 Jul 2026 15:30:22 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die aktuellen Nachrichten über generative KI und LLMs zeigen sowohl die Herausforderungen als auch die Risiken im Umgang mit dieser Technologie. Während Entwickler versuchen, KI zur Organisation von Daten zu nutzen, gibt es auch Bedenken hinsichtlich der Auswirkungen auf menschliche Arbeitskräfte und Verantwortlichkeiten.",
+      "highlights": [
+        "Ein Entwickler löschte versehentlich 15 Jahre Fotos seiner Frau beim Versuch, ihr Macbook mit KI zu organisieren.",
+        "Die Godot Engine verbietet AI-generierte Beiträge, um das Mentoring-Modell zu schützen.",
+        "Eine Forscherin warnt, dass die falsche Behandlung von KI-Agenten als menschliche Mitarbeiter zu mehr Fehlern und verschobenen Verantwortlichkeiten führt."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Koalitionspaket: Kahlschlag bei Transparenz und Datenschutz, Turbo für die Netze",
+          "link": "https://www.heise.de/news/Koalitionspaket-Kahlschlag-bei-Transparenz-und-Datenschutz-Turbo-fuer-die-Netze-11352148.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "SPD und Union planen zahlreiche Reformen. Smart Meter Light sollen eingeführt werden. Dem IFG droht das faktische Aus, die DSGVO-Reichweite wird eingeschränkt.",
+          "published": "2026-07-02T17:36:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Statt Totalblockade: Cloudflare trennt KI-Crawler nach Zweck",
+          "link": "https://www.heise.de/news/Statt-Totalblockade-Cloudflare-trennt-KI-Crawler-nach-Zweck-11351571.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Cloudflare erweitert die Steuerung von KI-Crawlern. Websitebetreiber können Zugriffe nun nach Einsatzzweck unterscheiden und blockieren.",
+          "published": "2026-07-02T14:44:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: KI im Unternehmen verankern – vom Use Case zur skalierten KI-Strategie",
+          "link": "https://www.heise.de/news/KI-Transformation-im-Unternehmen-vom-Use-Case-zur-skalierten-KI-Strategie-11348293.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In fünf Sessions lernen IT-Entscheider, KI strategisch im Unternehmen zu verankern und dabei Mitarbeitende mitzunehmen – alles im Einklang mit dem EU AI Act.",
+          "published": "2026-07-02T14:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
+          "link": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
+          "summary": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving his Model 3 using Tesla's Full-Self Driving (FSD) [&#8230;]",
+          "published": "2026-07-02T18:09:33-04:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Weber marks down grills and griddles to their best prices ever for July 4th",
+          "link": "https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal",
+          "summary": "If our recent Decoder interview with Weber Blackstone CEO Roger Dahle has you craving freshly grilled meats or veggies, Weber just so happens to have a variety of grills, smokers, griddles, and accessories selling at big discounts ahead of the July 4th holiday. It makes a bunch of models, but we’ve landed on a range [&#8230;]",
+          "published": "2026-07-02T14:19:03-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Die EU-Tech-Regulierung steht im Fokus aktueller Reformen, die Transparenz und Datenschutz einschränken könnten. Gleichzeitig wird die Nutzung von KI durch neue Regelungen und Schulungen gefördert.",
+      "highlights": [
+        "SPD und Union planen Reformen, die DSGVO-Reichweite einschränken.",
+        "Cloudflare ermöglicht Websitebetreibern, KI-Crawler nach Einsatzzweck zu steuern.",
+        "Heise bietet Schulungen zur Integration von KI im Einklang mit dem EU AI Act an."
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "Shifting Platform Development from Projects to Products",
+          "link": "https://www.infoq.com/news/2026/07/platform-projects-products/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "A company shifted from project- to product-thinking after their platform outgrew single-team use. The limitations that they felt with their platform were one-off deliveries, lack of product vision, and weak feedback loops. They have moved toward a self-service, API-driven, multi-tenant infrastructure with clearer ownership and better abstractions. By Ben Linders",
+          "published": "Thu, 02 Jul 2026 11:27:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Ein Unternehmen hat den Fokus von projektbasierter auf produktbasierte Plattformentwicklung verlagert, um den Anforderungen einer wachsenden Nutzerbasis gerecht zu werden. Dies führte zu einer selbstbedienbaren, API-gesteuerten Infrastruktur mit klarer Verantwortlichkeit und verbesserten Rückkopplungsmechanismen.",
+      "highlights": [
+        "Wechsel von einmaligen Lieferungen zu kontinuierlicher Produktentwicklung.",
+        "Einführung einer multi-tenant Infrastruktur zur Unterstützung mehrerer Teams.",
+        "Verbesserung der Feedback-Schleifen durch klarere Produktvision und Ownership."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "56 von 100: USA dominieren Börsen-Ranking dank KI – Deutschland fällt zurück",
+          "link": "https://t3n.de/news/nvidia-ueberholt-apple-und-co-diese-100-unternehmen-sind-an-der-boerse-am-wertvollsten-1750984/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die USA geben mit ihren Techriesen den Ton an den Börsen an &#8211; und mit dem KI-Boom wächst ihre Macht. Deutschland fällt bei den 100 wertvollsten Börsenkonzernen zurück. Einige Firmen holen aber auf. weiterlesen auf t3n.de",
+          "published": "Fri, 3 Jul 2026 08:30:50 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Microsoft just admitted its biggest AI mistake — and spent $2.5 billion fixing it",
+          "link": "https://thenewstack.io/enterprise-ai-model-routing/",
+          "summary": "Microsoft&#8217;s latest AI services announcement suggests the era of standardizing on a single model may be ending. This week, the The post Microsoft just admitted its biggest AI mistake — and spent $2.5 billion fixing it appeared first on The New Stack .",
+          "published": "Thu, 02 Jul 2026 21:03:36 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Wenn sich KI schlecht benimmt: Hier kannst du jetzt unerwünschte Verhaltensweisen von Chatbots melden",
+          "link": "https://t3n.de/news/wenn-sich-ki-schlecht-benimmt-hier-kannst-du-jetzt-unerwuenschte-verhaltensweisen-von-chatbots-melden-1750795/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Forscher.innen fordern mehr Transparenz und Kontrolle, wenn es um Probleme mit KI-Systemen geht. Ein Expert:innenteam hat jetzt ein Register gestartet, um unerwünschte Verhaltensweisen zentral zu erfassen. weiterlesen auf t3n.de",
+          "published": "Thu, 2 Jul 2026 15:15:38 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "CRM mit KI: Diese fünf Zeitfresser im Vertrieb kannst du jetzt automatisieren",
+          "link": "https://t3n.de/news/crm-mit-ki-fuenf-zeitfresser-vertrieb-automatisieren-1743596/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Vertriebsteams sollen heute schneller reagieren, personalisierter kommunizieren und gleichzeitig mehr Leads bearbeiten. In der Praxis stoßen viele dabei an Grenzen – nicht wegen fehlender Strategie, sondern wegen zu vieler manueller Aufgaben. weiterlesen auf t3n.de",
+          "published": "Thu, 2 Jul 2026 13:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Sicherheitslücke: Apples E-Mail-verbergen-Feature soll richtige Adressen verraten",
+          "link": "https://t3n.de/news/sicherheitsluecke-apple-e-mail-verbergen-1750756/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Apple-Feature &#8222;E-Mail-Adresse verbergen&#8220; soll laut einem Experten eine eklatante Sicherheitslücke haben. Mit der Funktion können Nutzer:innen einmalige, zufällig erzeugte E-Mail-Adressen verwenden. Doch der Bug deckt die echten Adressen auf. weiterlesen auf t3n.de",
+          "published": "Thu, 2 Jul 2026 12:45:38 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Software Supply Chain wird zunehmend durch KI-Technologien beeinflusst, während Unternehmen wie Microsoft ihre Strategien anpassen müssen. Gleichzeitig gibt es wachsende Bedenken hinsichtlich der Sicherheit und Transparenz von KI-Systemen, was zu neuen Initiativen zur Meldung unerwünschter Verhaltensweisen führt.",
+      "highlights": [
+        "Microsoft investierte 2,5 Milliarden Dollar zur Behebung eines KI-Fehlers.",
+        "Ein Expertenteam hat ein Register zur Meldung unerwünschter KI-Verhaltensweisen gestartet.",
+        "Apples E-Mail-verbergen-Feature hat eine Sicherheitslücke, die echte Adressen offenbart."
+      ]
+    }
+  ]
+}
