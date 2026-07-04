@@ -1,0 +1,452 @@
+{
+  "date": "2026-07-04",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Apple Extends Private Cloud Compute to Google Cloud for the First Time",
+          "link": "https://www.infoq.com/news/2026/07/apple-pcc-google-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Apple chose Google Cloud to run Private Cloud Compute outside its own data centers for the first time, using NVIDIA Blackwell GPUs, Intel TDX, and Google's Titan chip. Apple maintains an independent append-only hardware ledger and dual-vendor attestation roots. AWS and Azure are not part of the collaboration. By Steef-Jan Wiggers",
+          "published": "Thu, 02 Jul 2026 10:04:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+          "link": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+          "summary": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
+          "published": "Wed, 01 Jul 2026 21:21:21 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "AWS launches a desktop for agents",
+          "link": "https://thenewstack.io/aws-workspaces-desktops-for-agents/",
+          "summary": "After a short public preview, AWS on Tuesday made its Amazon WorkSpaces for Agents &#8212; which you should definitely not The post AWS launches a desktop for agents appeared first on The New Stack .",
+          "published": "Tue, 30 Jun 2026 16:01:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS just put $1 billion into forward deployed engineers. Here’s why it matters for enterprise teams.",
+          "link": "https://thenewstack.io/aws-forward-deployed-engineering/",
+          "summary": "Amazon Web Services is investing $1 billion in a new engineering organization that will work directly with enterprise customers building The post AWS just put $1 billion into forward deployed engineers. Here&#8217;s why it matters for enterprise teams. appeared first on The New Stack .",
+          "published": "Tue, 30 Jun 2026 15:02:22 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Operating Kubernetes at scale: a few stories from running Amazon EKS",
+          "link": "https://thenewstack.io/eks-kubernetes-etcd-scale/",
+          "summary": "Amazon EKS runs hundreds of thousands of Kubernetes clusters across more than thirty AWS regions. Operating at that scale has The post Operating Kubernetes at scale: a few stories from running Amazon EKS appeared first on The New Stack .",
+          "published": "Tue, 30 Jun 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Won’t fix! – Teil 3: Warum verteilter Konsens schwer bis unmöglich ist",
+          "link": "https://www.heise.de/hintergrund/Won-t-fix-Teil-3-Warum-verteilter-Konsens-schwer-bis-unmoeglich-ist-11350521.html",
+          "summary": "In verteilten Systemen ist Einigkeit nicht bloß schwierig, sondern unter bestimmten Bedingungen mathematisch beweisbar unmöglich.",
+          "published": "2026-07-03T07:00:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Meta dekodiert getippte Sätze aus Hirnströmen – ohne Operation",
+          "link": "https://www.heise.de/news/Meta-dekodiert-getippte-Saetze-aus-Hirnstroemen-ohne-Operation-11351463.html",
+          "summary": "Metas KI-Modell Brain2Qwerty rekonstruiert getippte Sätze aus EEG- und MEG-Hirnströmen – ohne Implantate. Die KI erreicht im Schnitt 61 Prozent Wortgenauigkeit.",
+          "published": "2026-07-02T16:46:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Chinas GLM-5.2 erreicht Anthropics Opus 4.8 bei der Schwachstellensuche",
+          "link": "https://www.heise.de/news/Hacking-Faehigkeiten-von-Chinas-KI-Z-ai-angeblich-so-gut-wie-die-von-Claude-11348003.html",
+          "summary": "Zhipu AIs offenes Modell GLM-5.2 erreicht laut Sicherheitsexperten die Fähigkeiten von Anthropics Opus 4.8 bei der Bug-Erkennung.",
+          "published": "2026-06-29T15:46:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In dieser Woche standen bedeutende Entwicklungen in der Cloud-Architektur und -Plattformen im Fokus. Apple hat erstmals Google Cloud für seine Private Cloud Compute gewählt, während T-Mobile sich in einem Rechtsstreit um VMware-Lizenzen befindet. AWS investiert massiv in neue Ingenieure und hat ein Desktop-Angebot für Agenten eingeführt. Zudem wurden Einblicke in den Betrieb von Kubernetes auf Amazon EKS gegeben, was die Herausforderungen bei der Skalierung verdeutlicht.",
+      "highlights": [
+        "Apple nutzt Google Cloud für Private Cloud Compute mit NVIDIA Blackwell GPUs.",
+        "T-Mobile fordert Unterstützung für VMware-Lizenzen im Rahmen eines Rechtsstreits.",
+        "AWS investiert 1 Milliarde USD in eine neue Ingenieureinheit für Unternehmenslösungen.",
+        "Amazon EKS betreibt Hunderttausende von Kubernetes-Clustern in über 30 Regionen."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Hardwood Promises High-Speed JVM Apache Parquet Processing with Zero Mandatory Dependencies",
+          "link": "https://www.infoq.com/news/2026/07/hardwood-java-parquet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Hardwood, the project Gunnar Morling kick-started to improve the handling of Parquet files in Java, reached version 1. Its multi-threaded approach and zero mandatory external dependencies promise a simpler, optimal alternative to the Apache Parquet Java implementation. For now, the library provides a reading via API and a CLI for visualisation; writing support is expected in the upcoming versions. By Olimpiu Pop",
+          "published": "Fri, 03 Jul 2026 12:12:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11345467.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Slint, VS Code, Spring Boot, Next.js, Vaadin, curl, Stack Overflow, Drupal und Rust.",
+          "published": "2026-06-27T07:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In der vergangenen Woche standen insbesondere Fortschritte in der Java-Software-Architektur im Fokus. Das Projekt Hardwood, initiiert von Gunnar Morling, hat mit Version 1 einen bedeutenden Schritt zur Verbesserung der Parquet-Dateiverarbeitung in Java gemacht. Zudem wurden kleinere Updates und Entwicklungen in verschiedenen Tools und Frameworks wie Spring Boot und Next.js vorgestellt, die die Community weiterhin beschäftigen.",
+      "highlights": [
+        "Hardwood erreicht Version 1 mit schneller JVM-Verarbeitung von Apache Parquet.",
+        "Multi-threaded Ansatz und keine zwingenden externen Abhängigkeiten.",
+        "Aktuell unterstützt die Bibliothek das Lesen von Parquet-Dateien über API und CLI.",
+        "Schreibunterstützung für zukünftige Versionen angekündigt.",
+        "Kleinere Updates zu Slint, VS Code, Vaadin und Rust veröffentlicht."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Aikido acquires Root to backport open source fixes without forcing upgrades",
+          "link": "https://thenewstack.io/aikido-acquires-root-security/",
+          "summary": "Developer-focused cybersecurity platform Aikido Security has announced that it has acquired Root, a company that patches known vulnerabilities directly into The post Aikido acquires Root to backport open source fixes without forcing upgrades appeared first on The New Stack .",
+          "published": "Tue, 30 Jun 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "In der vergangenen Woche stand die IT-Sicherheit im Fokus, insbesondere die Integration von Sicherheitslösungen in bestehende Systeme. Aikido Security hat die Übernahme von Root bekannt gegeben, um Open-Source-Fehlerbehebungen direkt in Software zu implementieren, ohne dass Nutzer gezwungen sind, auf neue Versionen umzusteigen. Dies zeigt einen Trend hin zu 'Security by Design', bei dem Sicherheit von Anfang an in den Entwicklungsprozess integriert wird. Solche Ansätze könnten die Reaktionszeiten auf Sicherheitslücken erheblich verkürzen und die allgemeine Software-Sicherheit verbessern.",
+      "highlights": [
+        "Aikido Security erwirbt Root zur Verbesserung der IT-Sicherheit.",
+        "Ziel ist es, Open-Source-Patches ohne erzwungene Upgrades bereitzustellen.",
+        "Der Fokus liegt auf der Integration von Sicherheitslösungen in bestehende Software.",
+        "Trend zu 'Security by Design' wird verstärkt.",
+        "Schnellere Reaktionszeiten auf Sicherheitslücken werden angestrebt."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Staatliche Transparenz: Angriff auf Informationsfreiheit sorgt weiter für heftige Kritik",
+          "link": "https://netzpolitik.org/2026/staatliche-transparenz-angriff-auf-informationsfreiheit-sorgt-weiter-fuer-heftige-kritik/",
+          "summary": "So transparent wird die Sicht auf den Staat, wenn es nach der Bundesregierung geht. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Federico Bottos Die Bundesdatenschutzbeauftragte hält die Pläne der Bundesregierung für „undemokratisch“, Journalisten warnen vor einem Vertrauensverlust. Sie verweisen zudem auf Machenschaften von Koalitionspolitikern, die nur dank des Informationsfreiheitsgesetzes ans Licht kamen.",
+          "published": "Fri, 03 Jul 2026 08:44:09 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Why traditional CI/CD fails for LLMs (and the release gates we built to fix it)",
+          "link": "https://thenewstack.io/why-cicd-fails-llms/",
+          "summary": "This article explains why traditional CI/CD gates are not enough for production AI systems. I share a practical release-gating approach The post Why traditional CI/CD fails for LLMs (and the release gates we built to fix it) appeared first on The New Stack .",
+          "published": "Thu, 02 Jul 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Cordyceps flaw pattern is more proof CI/CD is part of the attack surface",
+          "link": "https://thenewstack.io/cordyceps-cicd/",
+          "summary": "On June 24, research from Novee Security was released, reporting a CI/CD weakness that could enable anyone with an unauthenticated The post Cordyceps flaw pattern is more proof CI/CD is part of the attack surface appeared first on The New Stack .",
+          "published": "Wed, 01 Jul 2026 20:29:58 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Chatkontrolle: EU-Rat trickst Parlament vor Pause aus",
+          "link": "https://www.heise.de/news/Chatkontrolle-1-0-EU-Ministerrat-will-Messenger-Scans-im-Eiltempo-durchdruecken-11353562.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Mitgliedstaaten reaktivieren offiziell die ausgelaufene Übergangsregelung zur Chatkontrolle. Das EU-Parlament wird kurz vor der Sommerpause überrumpelt.",
+          "published": "2026-07-03T17:19:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Mangelnde Governance bei KI-Nutzung: Schatten-KI bedroht Sicherheit in Unternehmen",
+          "link": "https://www.golem.de/news/mangelnde-governance-bei-ki-nutzung-schatten-ki-bedroht-sicherheit-in-unternehmen-2607-210496.html",
+          "summary": "Deutsche Firmen nutzen KI-Agenten ohne ausreichende Regelung. Sicherheitsverantwortliche sehen eine wachsende Gefahr für Unternehmensdaten. ( Studien , Datenschutz )",
+          "published": "2026-07-03T16:40:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In dieser Woche standen die Herausforderungen und Risiken im Bereich DevOps und Test-Automatisierung im Fokus. Besonders die Schwächen traditioneller CI/CD-Prozesse wurden thematisiert, insbesondere im Kontext von KI-Anwendungen. Zudem wurde auf die Gefahren durch mangelnde Governance bei der Nutzung von KI in Unternehmen hingewiesen. Die Diskussion um staatliche Transparenz und Informationsfreiheit zeigt, wie wichtig eine klare Regelung in der digitalen Landschaft ist.",
+      "highlights": [
+        "Traditionelle CI/CD-Prozesse sind unzureichend für Produktionssysteme mit KI.",
+        "Eine neue Release-Gating-Strategie wurde als Lösung vorgeschlagen.",
+        "Eine CI/CD-Schwäche wurde als Teil der Angriffsfläche identifiziert.",
+        "Deutsche Unternehmen nutzen KI-Agenten ohne ausreichende Governance.",
+        "Die Bundesdatenschutzbeauftragte kritisiert die Pläne der Bundesregierung zur Informationsfreiheit."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Google Releases A2UI v0.9: Portable, Framework-Agnostic Generative UI",
+          "link": "https://www.infoq.com/news/2026/07/google-a2ui-genui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google has released A2UI v0.9, a framework-agnostic standard for AI agents to declare user interface intent across multiple platforms without arbitrary code. The update emphasizes alignment with existing design systems. It includes a new SDK for Python, improved error handling, and various transport methods. Migration guidance and evolution specifications are also provided. By Daniel Curtis",
+          "published": "Fri, 03 Jul 2026 06:38:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "HeroUI v3 Lands as a Ground-Up Rewrite for React and React Native, Built on Tailwind CSS v4",
+          "link": "https://www.infoq.com/news/2026/07/heroui-v3-rewrite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "HeroUI v3 is a redesigned React component library, previously NextUI, offering over 75 components, including 21 new ones, and a new React Native library with 37 components. Built on React Aria and Tailwind CSS v4, it emphasizes accessibility and customization. The library has experienced many updates since its release, and migration from the previous version is necessary. By Daniel Curtis",
+          "published": "Wed, 01 Jul 2026 12:16:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Anthropic launches Claude Science, an AI workbench for scientific research",
+          "link": "https://thenewstack.io/anthropic-claude-science-workbench/",
+          "summary": "On Tuesday, Anthropic launched Claude Science, a new application for scientists that can run locally on macOS and Linux or The post Anthropic launches Claude Science, an AI workbench for scientific research appeared first on The New Stack .",
+          "published": "Tue, 30 Jun 2026 17:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11350126.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Flux, Dragonfly, Endive, Kotlin Notebook, Spring AI, SharePoint, VS Code, Kai, CMake und W3C.",
+          "published": "2026-07-04T09:12:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "So laufen Nicht-Steam-Spiele unter Linux | c't 3003",
+          "link": "https://www.heise.de/news/So-laufen-Nicht-Steam-Spiele-unter-Linux-c-t-3003-11353554.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Steam-Spiele laufen unter Linux längst reibungslos. Aber wie sieht es mit GOG, Epic, Battle.net & Co. aus? c't 3003 hat Lutris, Heroic und Faugus getestet.",
+          "published": "2026-07-03T18:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11350126.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Flux, Dragonfly, Endive, Kotlin Notebook, Spring AI, SharePoint, VS Code, Kai, CMake und W3C.",
+          "published": "2026-07-04T07:12:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Neue Allianz für mehr Open-Source-Schutz",
+          "link": "https://www.heise.de/news/Neues-Buendnis-fuer-Open-Source-Schutz-11347664.html",
+          "summary": "Die Linux Foundation und Tech-Giganten starten Akrites, um Open-Source-Sicherheitslücken zentral und vertraulich zu beheben.",
+          "published": "2026-06-29T10:37:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Blinder Gamer: Der Sound verrät ihm, wo sich sein Gegner befindet",
+          "link": "https://www.golem.de/news/blinder-gamer-der-sound-verraet-ihm-wo-sich-sein-gegner-befindet-2607-210454.html",
+          "summary": "BlindWarriorSven ist ein blinder Content Creator, der sich für Barrierefreiheit in der Games-Branche einsetzt. Im Interview erzählt er, wie er sich in Spielen orientiert und warum er sich über einige Spielefirmen ärgert. Ein Interview von Achim Fehrenbach ( Barrierefreiheit , Playstation 4 )",
+          "published": "2026-07-03T16:00:06+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In dieser Woche standen agile Methoden und UX/UI im Fokus der Entwicklungen. Google hat mit A2UI v0.9 einen framework-agnostischen Standard für KI-Agenten veröffentlicht, der die Benutzeroberfläche über verschiedene Plattformen hinweg vereinheitlicht. Zudem wurde HeroUI v3 als umfassendes Update für React und React Native vorgestellt, das auf Barrierefreiheit und Anpassbarkeit setzt. Diese Fortschritte zeigen eine zunehmende Integration von Designsystemen und Benutzerzentrierung in der Softwareentwicklung.",
+      "highlights": [
+        "Google veröffentlicht A2UI v0.9 für plattformübergreifende UI-Absichtserklärung.",
+        "HeroUI v3 bietet über 75 Komponenten und betont Barrierefreiheit.",
+        "A2UI umfasst ein neues SDK für Python und verbesserte Fehlerbehandlung.",
+        "HeroUI v3 erfordert Migration von der vorherigen Version.",
+        "Neue Allianz Akrites zur Behebung von Open-Source-Sicherheitslücken gegründet."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "World of Warcraft von einer KI: Vibe-Coder erschafft in 2 Tagen ein kostenlos spielbares MMORPG",
+          "link": "https://t3n.de/news/world-of-warcraft-ki-claude-fable-5-mmorpg-1749653/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit &#8222;World of Claudecraft&#8220; hat ein Vibe-Coder eine eigene Version des MMORPG World of Warcraft erschaffen. Dafür musste er nur wenige hundert US-Dollar in das Projekt investieren. Was das Spiel auf dem Kasten hat und wo es bisher nicht an das Original heranreicht. weiterlesen auf t3n.de",
+          "published": "Sat, 4 Jul 2026 06:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Apple just turned Safari into something AI agents can control",
+          "link": "https://thenewstack.io/safari-mcp-platform-infrastructure/",
+          "summary": "Earlier this week, Apple&#8217;s WebKit team shipped Safari Technology Preview 247 with a built-in Model Context Protocol server &#8212; 16 The post Apple just turned Safari into something AI agents can control appeared first on The New Stack .",
+          "published": "Fri, 03 Jul 2026 17:19:46 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Kein Startmenü, nur noch KI: So radikal wollte Microsoft Windows neu erfinden",
+          "link": "https://t3n.de/news/kein-startmenue-nur-noch-ki-so-radikal-wollte-microsoft-windows-neu-erfinden-1751117/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Unter dem Codenamen „Project Aion” hat Microsoft offenbar eine agentische Alternative zu Windows 11 entwickelt. Es gibt allerdings mehrere Anzeichen, dass dieses &#8222;Copilot OS&#8220; vorerst nicht veröffentlicht wird. weiterlesen auf t3n.de",
+          "published": "Fri, 3 Jul 2026 16:30:35 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Cloudflare Details Unified Data Platform Where Billing Workloads Account for 53% of Queries",
+          "link": "https://www.infoq.com/news/2026/07/cloudflare-unified-data-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare details Town Lake, an internal unified data platform, and Skipper, an AI analytics agent unifying access to operational, billing, security, and business data. The platform processed ~91K billing queries, with billing forming majority usage. Built on a lakehouse architecture using Trino, Iceberg, R2, and DataHub, it enables governed cross-system analytics and natural language access. By Leela Kumili",
+          "published": "Fri, 03 Jul 2026 14:29:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Meta-Mitarbeiter nutzen lieber Gemini statt eigene Modelle – warum Google jetzt den Zugriff beschränkt",
+          "link": "https://t3n.de/news/meta-mitarbeiter-gemini-statt-llama-googl-zugriff-beschraenkt-1751102/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Meta tut sich offenbar weiterhin schwer damit, im KI-Rennen den Anschluss zu finden. Intern sollen Mitarbeiter:innen statt der eigenen Llama-Modelle auf Gemini setzen. Doch Google hat den Zugang jetzt offenbar begrenzt. weiterlesen auf t3n.de",
+          "published": "Fri, 3 Jul 2026 15:15:19 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
+          "link": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
+          "summary": "New York City’s Summer of Ludd festival is teaching people how to live offline.",
+          "published": "Fri, 03 Jul 2026 12:00:36 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Mini book: Agentic AI Architecture",
+          "link": "https://www.infoq.com/minibooks/agentic-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In this eMag, we try to establish agentic AI architecture as a new type of software architecture that will likely dominate the industry for years to come. The articles, written by industry experts, cover various elements and aspects of agentic AI architecture. We aim to present the latest trends and developments shaping the new type of architecture as it enters the mainstream. By InfoQ",
+          "published": "Fri, 03 Jul 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Oracle Quietly Halves Free Tier Ampere A1 Compute Limits with No Public Announcement",
+          "link": "https://www.infoq.com/news/2026/07/oracle-cloud-free-tier-limits/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Oracle halved the Always Free Ampere A1 compute allowance from 4 OCPUs and 24 GB RAM to 2 OCPUs and 12 GB RAM with no public announcement. Support agents gave conflicting answers on whether PAYG accounts are affected. Documentation states the new limits apply to \"all tenancies\" while support emails say only free-tier accounts. By Steef-Jan Wiggers",
+          "published": "Fri, 03 Jul 2026 10:13:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "In dieser Woche stand die Entwicklung generativer KI und deren Integration in verschiedene Technologien im Fokus. Besonders bemerkenswert ist die Schaffung eines kostenlosen MMORPGs durch einen Vibe-Coder, der innerhalb von zwei Tagen eine eigene Version von World of Warcraft entwickelte. Zudem experimentiert Apple mit KI-gesteuerten Funktionen in Safari, während Microsoft an einem radikalen Windows-Update arbeitet. Die Nutzung von Googles Gemini durch Meta-Mitarbeiter zeigt den Wettbewerb im KI-Sektor, während Cloudflare eine neue Datenplattform vorstellt, die KI-Analysen vereinfacht.",
+      "highlights": [
+        "World of Claudecraft: Kostenloses MMORPG in 2 Tagen entwickelt",
+        "Apple integriert KI-Agenten in Safari",
+        "Microsoft plant 'Copilot OS' ohne Startmenü",
+        "Meta-Mitarbeiter nutzen Googles Gemini statt eigener Modelle",
+        "Cloudflare präsentiert Unified Data Platform für KI-Analysen"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "OpenTelemetry Graduates to CNCF's Highest Maturity Level",
+          "link": "https://www.infoq.com/news/2026/07/opentelemetry-cncf-maturity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The Cloud Native Computing Foundation (CNCF) has announced the graduation of OpenTelemetry, elevating the project to the foundation's highest level of maturity and formally recognizing it as production-ready for enterprise use. By Craig Risi",
+          "published": "Fri, 03 Jul 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Podman 6 baut Docker-Kompatibilität aus",
+          "link": "https://www.heise.de/news/Podman-6-baut-Docker-Kompatibilitaet-aus-11352642.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Podman 6.0.0 bringt einen modernisierten Netzwerk-Stack, Verbesserungen für Podman Machine und Quadlet sowie mehr Docker-Kompatibilität.",
+          "published": "2026-07-03T11:02:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Podman 6 baut Docker-Kompatibilität aus",
+          "link": "https://www.heise.de/news/Podman-6-baut-Docker-Kompatibilitaet-aus-11352642.html",
+          "summary": "Podman 6.0.0 bringt einen modernisierten Netzwerk-Stack, Verbesserungen für Podman Machine und Quadlet sowie mehr Docker-Kompatibilität.",
+          "published": "2026-07-03T09:02:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Halbleiterfertigung: Imec gibt Ausblick auf Halbleitertechnik bis 2041",
+          "link": "https://www.golem.de/news/halbleiterfertigung-imec-gibt-ausblick-auf-halbleitertechnik-bis-2041-2607-210495.html",
+          "summary": "Für die Zukunft der Halbleiterfertigung sieht das Forschungszentrum Imec mehrere Entwicklungsrichtungen. Die neue Roadmap gibt eine Transistorform auf. ( Halbleiterfertigung , IBM )",
+          "published": "2026-07-04T10:30:07+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "This slim camera has a transparent LCD screen for a viewfinder",
+          "link": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
+          "summary": "Despite the fact that smartphones have become impressively capable shooters, standalone point-and-shoot cameras are enjoying a renaissance. The tiny Kodak Charmera is still wildly popular, while influencers are scrambling to find aging Canon cameras on eBay. Godox, a company best known for its photography lighting products, is the latest to join the simple camera craze, [&#8230;]",
+          "published": "2026-07-03T10:51:38-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "In dieser Woche standen technologische Entwicklungen und deren Auswirkungen auf die EU-Tech-Regulierung im Fokus. Die Graduierung von OpenTelemetry zur höchsten Reifegradstufe der CNCF verdeutlicht den Trend hin zu standardisierten und interoperablen Technologien. Zudem zeigt die Einführung von Podman 6.0.0, wie Container-Technologien zunehmend Docker-Kompatibilität anstreben, was die Marktvielfalt fördert. Im Bereich der Halbleiterfertigung gibt der Forschungsbericht von Imec einen Ausblick auf zukünftige Technologien, die für die europäische Industrie von Bedeutung sind.",
+      "highlights": [
+        "OpenTelemetry erreicht höchsten Reifegrad der CNCF.",
+        "Podman 6.0.0 verbessert Docker-Kompatibilität und Netzwerk-Stack.",
+        "Imec präsentiert Roadmap für Halbleitertechnik bis 2041.",
+        "Steigende Nachfrage nach interoperablen Technologien in der EU."
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "Shifting Platform Development from Projects to Products",
+          "link": "https://www.infoq.com/news/2026/07/platform-projects-products/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "A company shifted from project- to product-thinking after their platform outgrew single-team use. The limitations that they felt with their platform were one-off deliveries, lack of product vision, and weak feedback loops. They have moved toward a self-service, API-driven, multi-tenant infrastructure with clearer ownership and better abstractions. By Ben Linders",
+          "published": "Thu, 02 Jul 2026 11:27:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "In der aktuellen Diskussion um Platform Engineering zeigt sich ein klarer Trend hin zu einem produktorientierten Ansatz. Unternehmen erkennen die Limitierungen traditioneller Projektansätze, insbesondere in Bezug auf Einmal-Lieferungen und unzureichende Feedback-Schleifen. Der Fokus verlagert sich auf selbstbedienbare, API-gesteuerte Infrastrukturen, die eine bessere Skalierbarkeit und Ownership ermöglichen. Dies fördert nicht nur die Effizienz, sondern auch die Innovationskraft innerhalb der Teams.",
+      "highlights": [
+        "Unternehmen wechseln von projekt- zu produktorientiertem Denken.",
+        "Herausforderungen: Einmal-Lieferungen, fehlende Produktvision, schwache Feedback-Schleifen.",
+        "Entwicklung hin zu selbstbedienbaren, API-gesteuerten Infrastrukturen.",
+        "Stärkung der Teamverantwortung und Verbesserung der Abstraktionen.",
+        "Ziel: Skalierbarkeit und Effizienzsteigerung in der Plattformnutzung."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "WhatsApp-Update: Benutzername reservieren und Nummer schützen",
+          "link": "https://t3n.de/news/whatsapp-benutzername-reservieren-anleitung-1750201/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Whatsapp lässt User:innen jetzt einen Nutzernamen reservieren. Damit kannst du künftig darauf verzichten, deine Telefonnummer weiterzugeben. Wie du deinen Nicknamen im Messenger sichern kannst. weiterlesen auf t3n.de",
+          "published": "Sat, 4 Jul 2026 10:15:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Datenträger schlagen Downloads: Darum kaufe ich Filme nur noch auf Blu-ray",
+          "link": "https://t3n.de/news/datentraeger-downloads-filme-blu-ray-kaufen-1750398/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Box mit den DVDs und Blu-rays hat unser Autor schon vor Jahren in den Keller verbannt. Doch durch eine aktuelle Meldung werden die Datenträger plötzlich wieder aktuell. Anders als digitale Inhalte gehören sie einem schließlich wirklich. weiterlesen auf t3n.de",
+          "published": "Sat, 4 Jul 2026 10:00:28 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Handwerk im KI-Zeitalter: Warum Jugendliche wieder mit den Händen arbeiten wollen",
+          "link": "https://t3n.de/news/handwerk-ki-zeitalter-jugendliche-haende-arbeiten-1749944/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Junge Menschen äußern verstärkt den Wunsch, im Job etwas mit den Händen zu erschaffen. Dass auch Berufe im Bauwesen und Handwerk zunehmend digital sind, wird allerdings noch von vielen unterschätzt. weiterlesen auf t3n.de",
+          "published": "Sat, 4 Jul 2026 09:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KW 27: Die Woche, in der wir Vertrauen vermisst haben",
+          "link": "https://netzpolitik.org/2026/kw-27-die-woche-in-der-wir-vertrauen-vermisst-haben/",
+          "summary": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 27. Kalenderwoche geht zu Ende. Wir haben 12 neue Texte mit insgesamt 120.074 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 04 Jul 2026 04:52:07 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Frühere Staatstrojaner-Untersuchungen der EU: Ausschussmitglied mehrfach mit Pegasus-Software infiziert",
+          "link": "https://netzpolitik.org/2026/fruehere-staatstrojaner-untersuchungen-der-eu-ausschussmitglied-mehrfach-mit-pegasus-software-infiziert/",
+          "summary": "Stelios Kouloglou nahm an zahlreichen Anhörungen des PEGA-Ausschusses teil – offenbar mit Spion in der Hosentasche. (Archivbild) – Alle Rechte vorbehalten: IMAGO / Depositphotos Ein Mitglied des EU-Komitees zur Untersuchung von Staatstrojaner-Einsätzen in der EU wurde mehrfach selbst ausspioniert — während der Ermittlungen.",
+          "published": "Fri, 03 Jul 2026 14:33:54 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Vereinte Nationen: „Wir können nicht mehr sagen, wir hätten von nichts gewusst“",
+          "link": "https://netzpolitik.org/2026/vereinte-nationen-wir-koennen-nicht-mehr-sagen-wir-haetten-von-nichts-gewusst/",
+          "summary": "UN-Generalsekretär António Guterres betont, dass die Mitgliedsstaaten ohne gemeinsame Regeln jede Kontrolle über KI verlieren. (Archivbild) – Alle Rechte vorbehalten: IMAGO / Pacific Press Agency Der KI-Expertenrat der UN hat den ersten globalen Wissenschaftsbericht zu Künstlicher Intelligenz vorgelegt. Er zeigt: Regulierung kann mit der rasanten Entwicklung von KI nicht Schritt halten.",
+          "published": "Fri, 03 Jul 2026 10:07:52 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Microsoft just admitted its biggest AI mistake — and spent $2.5 billion fixing it",
+          "link": "https://thenewstack.io/enterprise-ai-model-routing/",
+          "summary": "Microsoft&#8217;s latest AI services announcement suggests the era of standardizing on a single model may be ending. This week, the The post Microsoft just admitted its biggest AI mistake — and spent $2.5 billion fixing it appeared first on The New Stack .",
+          "published": "Thu, 02 Jul 2026 21:03:36 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Presentation: Enhancing Reliability Using Service-Level Prioritized Load Shedding at Netflix",
+          "link": "https://www.infoq.com/presentations/service-level-prioritized-load-shedding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The speakers discuss Netflix’s architecture for surviving extreme traffic spikes. They explain the mechanics of prioritized load shedding embedded in their Envoy sidecar proxy, allowing user-initiated requests to steal capacity from non-critical traffic. They share automated platform strategies for continuous chaos load testing, config generation, and retry storm mitigation. By Anirudh Mendiratta, Benjamin Fedorka",
+          "published": "Thu, 02 Jul 2026 09:20:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "In dieser Woche standen Themen rund um digitale Sicherheit und die Herausforderungen der Software-Lieferkette im Fokus. Die Diskussion über den Einsatz von Staatstrojanern und die Notwendigkeit von Regulierung in der KI-Entwicklung verdeutlichen die wachsenden Bedenken hinsichtlich Datenschutz und Überwachung. Gleichzeitig zeigt die Einführung neuer Funktionen bei WhatsApp, wie Unternehmen versuchen, die Privatsphäre der Nutzer zu stärken. Die Entwicklungen bei Microsoft und Netflix verdeutlichen zudem die Herausforderungen im Bereich der Software-Architektur und -Zuverlässigkeit.",
+      "highlights": [
+        "WhatsApp ermöglicht die Reservierung von Nutzernamen zur Wahrung der Privatsphäre.",
+        "EU-Ausschussmitglied wurde während Staatstrojaner-Untersuchungen mit Pegasus-Software ausspioniert.",
+        "UN-Generalsekretär fordert gemeinsame Regeln für KI, um Kontrolle zu behalten.",
+        "Microsoft investiert 2,5 Milliarden Dollar zur Behebung eines AI-Fehlers.",
+        "Netflix präsentiert Strategien zur Bewältigung von Verkehrsspitzen in ihrer Architektur."
+      ]
+    }
+  ]
+}
