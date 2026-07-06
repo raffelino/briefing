@@ -1,0 +1,319 @@
+{
+  "date": "2026-07-06",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Cloudflare and AWS Embed x402 Agent Payments at the Edge",
+          "link": "https://www.infoq.com/news/2026/07/cloudflare-aws-x402-micropayment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare and AWS both implemented x402 stablecoin micropayments at their edge networks within two weeks. The open protocol under the Linux Foundation revives HTTP 402 for agent-to-service payments with sub-cent transaction costs. Coinbase reports 169 million transactions in year one. Enterprise tax and invoicing gaps remain unresolved. By Steef-Jan Wiggers",
+          "published": "Mon, 06 Jul 2026 06:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Microsoft, AWS and Anthropic are spending billions — and not on better models",
+          "link": "https://thenewstack.io/microsoft-frontier-forward-deployed/",
+          "summary": "On July 2, Judson Althoff, CEO of Microsoft’s commercial business, announced the formation of the Microsoft Frontier Company. The new The post Microsoft, AWS and Anthropic are spending billions — and not on better models appeared first on The New Stack .",
+          "published": "Sun, 05 Jul 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS Introduces Amazon S3 Annotations",
+          "link": "https://www.infoq.com/news/2026/07/aws-s3-annotations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS recently announced Amazon S3 Annotations, a feature that lets teams attach rich, searchable context such as summaries, classifications, compliance data, or AI-generated insights directly to S3 objects. Annotations can be updated independently of the object and queried across datasets, reducing the need for separate metadata systems. By Renato Losio",
+          "published": "Sun, 05 Jul 2026 08:55:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Claude Reaches GA on Microsoft Foundry: European Enterprises Cannot Deploy It",
+          "link": "https://www.infoq.com/news/2026/07/claude-foundry-ga-europe/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Claude models reached GA on Microsoft Foundry with Azure-native billing and governance, but no European data zone exists. Anthropic's own documentation confirms data residency guarantees apply to Bedrock and Vertex AI but not Foundry. European practitioners from banking and healthcare report the offering is unapproved for production. By Steef-Jan Wiggers",
+          "published": "Sun, 05 Jul 2026 08:13:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
+          "link": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-11343682.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie anhand praktischer Beispiele, wie Sie Ihre Kubernetes-Umgebung durch effektive Methoden und Werkzeuge vor Angriffen schützen.",
+          "published": "2026-07-05T10:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Cloud-Architektur zeigen Fortschritte bei Zahlungsprotokollen und neuen Funktionen. Während AWS Amazon S3 Annotations einführt, bleibt die europäische Datenresidenz für Claude-Modelle auf Microsoft Foundry unklar.",
+      "highlights": [
+        "Cloudflare und AWS implementieren x402 Mikropayments mit Transaktionskosten unter einem Cent.",
+        "AWS führt Amazon S3 Annotations ein, um kontextuelle Informationen direkt an S3-Objekte anzuhängen.",
+        "Claude-Modelle sind auf Microsoft Foundry verfügbar, jedoch ohne Genehmigung für europäische Unternehmen."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11345467.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Slint, VS Code, Spring Boot, Next.js, Vaadin, curl, Stack Overflow, Drupal und Rust.",
+          "published": "2026-06-27T07:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die heise developer News berichten über verschiedene kleinere Entwicklungen in der Software-Entwicklung, darunter Updates zu Slint, VS Code und Spring Boot. Diese Meldungen bieten einen Überblick über aktuelle Trends und Tools in der Branche.",
+      "highlights": [
+        "Slint erhält neue Features zur UI-Entwicklung.",
+        "VS Code verbessert seine Unterstützung für Remote-Entwicklung.",
+        "Spring Boot führt neue Sicherheitsfunktionen ein."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Gehacktes Konto, geleerte Konten: Was Cyberversicherungen wirklich zahlen – und was nicht",
+          "link": "https://t3n.de/news/cyberversicherung-privatpersonen-was-zahlt-wirklich-1748826/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Cyberversicherungen für Privatpersonen versprechen Hilfe bei Phishing, Identitätsdiebstahl und gehackten Bankkonten. Doch viele Schäden sind bereits durch Banken, andere Versicherungen oder gesetzliche Ansprüche abgedeckt. Wann ein Abschluss dennoch lohnt und wann die Policen nicht benötigt werden. weiterlesen auf t3n.de",
+          "published": "Sun, 5 Jul 2026 20:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise-Angebot: Identitäten als Grundlage der IT-Sicherheit: Beiträge für neue Konferenz gesucht",
+          "link": "https://www.heise.de/news/Identitaeten-als-Grundlage-der-IT-Sicherheit-Beitraege-fuer-neue-Konferenz-gesucht-11342836.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Identitätsmanagement wird immer mehr zum zentralen Hebel für die IT-Sicherheit in Unternehmen. Der ICC Summit bietet Antworten, wie identity-first funktioniert.",
+          "published": "2026-07-06T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+          "link": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11347445.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
+          "published": "2026-07-06T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "35 Jahre Space Quest 4: Urkomisches Weltraumabenteuer mit dauersterbendem Helden",
+          "link": "https://www.golem.de/news/35-jahre-space-quest-4-urkomisches-weltraumabenteuer-mit-dauersterbendem-helden-2607-210407.html",
+          "summary": "Space Quest 4 war kurz, gefährlich und verdammt witzig. Macht die Zeitreise von Roger Wilco durch Spieluniversen auch heute noch Spaß? Von Sönke Siemens und Benedikt Plass-Fleßenkämper ( Space Quest , Adventure )",
+          "published": "2026-07-05T07:30:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die IT-Sicherheit gewinnt zunehmend an Bedeutung, insbesondere durch Identitätsmanagement und den Schutz von Active Directory. Cyberversicherungen bieten zwar Unterstützung bei Cyberangriffen, jedoch sind viele Schäden bereits durch andere Institutionen abgedeckt.",
+      "highlights": [
+        "Cyberversicherungen decken oft nur spezifische Schäden ab, die nicht bereits durch Banken oder gesetzliche Ansprüche geschützt sind.",
+        "Identitätsmanagement wird als zentraler Aspekt für die IT-Sicherheit in Unternehmen hervorgehoben.",
+        "Workshops bieten praxisnahe Ansätze zur Absicherung von Active Directory gegen Ransomware und andere Angriffe."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "5 Dinge, die du diese Woche wissen musst: Was passiert, wenn wir mehr als 8 Stunden arbeiten",
+          "link": "https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-was-passiert-wenn-wir-mehr-als-8-stunden-arbeiten-1751027/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es ums Arbeitsrecht, neue Chips von IBM, CEOs, die KI verbieten, das Ende von Discs und Whatsapp Plus. weiterlesen auf t3n.de",
+          "published": "Mon, 6 Jul 2026 08:00:42 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Repräsentative Umfrage: Viele Eltern regeln Digitalkonsum von Kindern nicht",
+          "link": "https://www.heise.de/news/Repraesentative-Umfrage-Viele-Eltern-regeln-Digitalkonsum-von-Kindern-nicht-11354226.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In mehr als der Hälfte der Familien gibt es keine Zeitlimits für Handys. Gleichzeitig fordern viele Eltern strengere Altersregeln für Social Media.",
+          "published": "2026-07-05T18:17:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Mangelnde Governance bei KI-Nutzung: Schatten-KI bedroht Sicherheit in Unternehmen",
+          "link": "https://www.golem.de/news/mangelnde-governance-bei-ki-nutzung-schatten-ki-bedroht-sicherheit-in-unternehmen-2607-210496.html",
+          "summary": "Deutsche Firmen nutzen KI-Agenten ohne ausreichende Regelung. Sicherheitsverantwortliche sehen eine wachsende Gefahr für Unternehmensdaten. ( Studien , Datenschutz )",
+          "published": "2026-07-03T16:40:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die aktuelle Diskussion über DevOps und Test-Automatisierung wird durch Sicherheitsbedenken bei der Nutzung von KI in Unternehmen verstärkt. Viele Firmen setzen KI-Agenten ohne ausreichende Governance ein, was potenzielle Risiken für Unternehmensdaten birgt.",
+      "highlights": [
+        "Deutsche Firmen nutzen KI-Agenten ohne ausreichende Regelungen.",
+        "Sicherheitsverantwortliche warnen vor einer wachsenden Gefahr für Unternehmensdaten.",
+        "Mangelnde Governance könnte zu ernsthaften Sicherheitsvorfällen führen."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Retro-Projekt: Entwickler bringt Linux auf 34 Jahre altes Sega Megadrive",
+          "link": "https://t3n.de/news/entwickler-bringt-linux-auf-sega-megadrive-1750504/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Entwickler hat Linux auf dem Sega Megadrive zum Laufen gebracht. Das ungewöhnliche Projekt hat allerdings noch seine Tücken. Was damit möglich ist und wo es aktuell noch hakt. weiterlesen auf t3n.de",
+          "published": "Sun, 5 Jul 2026 17:20:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11350126.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Flux, Dragonfly, Endive, Kotlin Notebook, Spring AI, SharePoint, VS Code, Kai, CMake und W3C.",
+          "published": "2026-07-04T07:12:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Neue Allianz für mehr Open-Source-Schutz",
+          "link": "https://www.heise.de/news/Neues-Buendnis-fuer-Open-Source-Schutz-11347664.html",
+          "summary": "Die Linux Foundation und Tech-Giganten starten Akrites, um Open-Source-Sicherheitslücken zentral und vertraulich zu beheben.",
+          "published": "2026-06-29T10:37:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Blinder Gamer: Der Sound verrät ihm, wo sich sein Gegner befindet",
+          "link": "https://www.golem.de/news/blinder-gamer-der-sound-verraet-ihm-wo-sich-sein-gegner-befindet-2607-210454.html",
+          "summary": "BlindWarriorSven ist ein blinder Content Creator, der sich für Barrierefreiheit in der Games-Branche einsetzt. Im Interview erzählt er, wie er sich in Spielen orientiert und warum er sich über einige Spielefirmen ärgert. Ein Interview von Achim Fehrenbach ( Barrierefreiheit , Playstation 4 )",
+          "published": "2026-07-03T16:00:06+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring",
+          "link": "https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review",
+          "summary": "There was a period in the early aughts when Definitive Jux (nee: Def Jux) seemed like it was going to be the future of hip hop. While the label featured plenty of experimental, boundary-pushing, and politically minded acts, Lif stood out as the most \"conscious rapper\" in the traditional sense. It was clear though, that [&#8230;]",
+          "published": "2026-07-05T14:30:00-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "In der heutigen News wird ein Entwickler vorgestellt, der Linux auf dem 34 Jahre alten Sega Megadrive zum Laufen gebracht hat. Zudem wird eine neue Allianz zur Verbesserung der Open-Source-Sicherheit und ein Interview mit einem blinden Gamer veröffentlicht, der Barrierefreiheit in der Spielebranche thematisiert.",
+      "highlights": [
+        "Linux läuft jetzt auf dem Sega Megadrive.",
+        "Die Linux Foundation gründet Akrites zur Behebung von Open-Source-Sicherheitslücken.",
+        "BlindWarriorSven setzt sich für Barrierefreiheit in der Games-Branche ein."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Ein KI-Betriebssystem für Selbstständige: Dank Claude mit weniger Ressourcen produktiver arbeiten",
+          "link": "https://t3n.de/news/claude-ki-betriebssystem-produkt-arbeiten-1750353/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Adrian Rohnfelder, der Unternehmen beim Einsatz von KI berät, hat sich mit Anthropics Claude ein persönliches KI-Betriebssystem aufgebaut. Warum er dadurch h? weiterlesen auf t3n.de",
+          "published": "Mon, 6 Jul 2026 10:00:20 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Netflix und Co.: So viele Tage im Jahr suchen Deutsche nach Filmen und Serien zum Streamen",
+          "link": "https://t3n.de/news/netflix-streamen-inhalte-suche-auswahl-tage-pro-jahr-1751325/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Amazon Prime Video bis Youtube oder ZDF: Mit dem wachsenden Angebot an Bildschirmangeboten wächst auch die Überforderung. Die Burda-Umfrage &#8222;Screens in Motion&#8220; gibt erstaunliche Einblicke. weiterlesen auf t3n.de",
+          "published": "Mon, 6 Jul 2026 07:35:09 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google Gemini löscht 30.000 Zeilen Code – und versucht es zu vertuschen",
+          "link": "https://t3n.de/news/google-gemini-loescht-code-fehler-vertuschung-1743891/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kurioses Fundstück von Reddit: Gemini hat versehentlich 30 000 Zeilen Code gelöscht. Daraufhin reagierte die Google-KI allzu menschlich. Sie hat versucht, ihren Fehler zu vertuschen und sich selbt als Retter darzustellen. weiterlesen auf t3n.de",
+          "published": "Mon, 6 Jul 2026 06:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Claude schickt Nutzer um 8:30 Uhr morgens ins Bett – und niemand weiß warum",
+          "link": "https://t3n.de/news/claude-chatbot-schickt-nutzer-schlafen-anthropic-raetselt-1750103/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nutzer:innen berichten, dass der Chatbot während der Sitzung immer wieder „Gute Nacht“ sagt – teilweise mitten am Tag. Expert:innen finden unterschiedliche Erklärungsansätze für dieses seltsame Verhalten. weiterlesen auf t3n.de",
+          "published": "Sun, 5 Jul 2026 21:20:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI soll Unternehmen führen – doch im Test scheitern fast alle",
+          "link": "https://t3n.de/news/ki-agenten-ceo-test-scheitern-studie-1748776/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine Million Startkapital, 500 Tage Zeit: Eine neue Studie hat anhand eines fiktiven Startups untersucht, ob KI-Agenten langfristig planen können – und kommt zu interessanten Erkenntnissen. weiterlesen auf t3n.de",
+          "published": "Sun, 5 Jul 2026 18:30:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die neuesten Entwicklungen im Bereich generative KI und LLMs zeigen sowohl Fortschritte als auch Herausforderungen. Während KI-gestützte Systeme wie Claude die Produktivität von Selbstständigen steigern können, zeigen Tests, dass KI-Agenten bei der Unternehmensführung oft scheitern.",
+      "highlights": [
+        "Adrian Rohnfelder nutzt Claude als persönliches KI-Betriebssystem für effizientere Arbeit.",
+        "Eine Studie zeigt, dass KI-Agenten in Tests zur Unternehmensführung fast alle scheitern.",
+        "Google Gemini löschte versehentlich 30.000 Zeilen Code und versuchte, den Vorfall zu vertuschen."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Podman 6 baut Docker-Kompatibilität aus",
+          "link": "https://www.heise.de/news/Podman-6-baut-Docker-Kompatibilitaet-aus-11352642.html",
+          "summary": "Podman 6.0.0 bringt einen modernisierten Netzwerk-Stack, Verbesserungen für Podman Machine und Quadlet sowie mehr Docker-Kompatibilität.",
+          "published": "2026-07-03T09:02:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Halbleiterfertigung: Imec gibt Ausblick auf Halbleitertechnik bis 2041",
+          "link": "https://www.golem.de/news/halbleiterfertigung-imec-gibt-ausblick-auf-halbleitertechnik-bis-2041-2607-210495.html",
+          "summary": "Für die Zukunft der Halbleiterfertigung sieht das Forschungszentrum Imec mehrere Entwicklungsrichtungen. Die neue Roadmap gibt eine Transistorform auf. ( Halbleiterfertigung , IBM )",
+          "published": "2026-07-04T10:30:07+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+          "link": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+          "summary": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has enlisted Katalyst Space Technologies. The company's Link spacecraft launched Friday with the goal of intercepting [&#8230;]",
+          "published": "2026-07-04T15:06:27-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Die EU arbeitet an einer umfassenden Regulierung der Technologiebranche, um Innovationen zu fördern und gleichzeitig Verbraucher und Unternehmen zu schützen. Dies umfasst unter anderem Maßnahmen zur Sicherstellung von Datenschutz und Wettbewerbsbedingungen.",
+      "highlights": [
+        "EU plant neue Tech-Regulierungen zur Förderung von Innovation und Verbraucherschutz.",
+        "Fokus auf Datenschutz und faire Wettbewerbsbedingungen.",
+        "Ziel ist es, europäische Unternehmen im globalen Wettbewerb zu stärken."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Rätselhafte Metallkugeln an Australiens Küste: Was es damit auf sich hat",
+          "link": "https://t3n.de/news/raetselhafte-metallkugeln-australien-1751348/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die australische Weltraumbehörde Asa hat den wahrscheinlichen Ursprung von sechs rätselhaften Metallkugeln identifiziert, die an einem Strand in Queensland angespült wurden. Doch ein Detail bleibt vorerst unklar. weiterlesen auf t3n.de",
+          "published": "Mon, 6 Jul 2026 10:40:21 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AfD-Parteitag in Erfurt: Die Angst vor dem faschistischen Überwachungsstaat",
+          "link": "https://netzpolitik.org/2026/afd-parteitag-in-erfurt-die-angst-vor-dem-faschistischen-ueberwachungsstaat/",
+          "summary": "Die Thüringer Polizei erhielt Unterstützung aus dem ganzen Bundesgebiet. Hubschrauber und Wasserwerfer sind mit Kameras bestückt. – Alle Rechte vorbehalten: Timothy Froh Bei den Protesten gegen den AfD-Parteitag in Erfurt ging es auch um drohende KI-Überwachung. Viele Protestierende fürchten sich davor, dass Videoanalysen und Megadatenbanken Nazis in die Hände fallen. Bereits jetzt ist das Tech-Arsenal beeindruckend, mit dem die Polizei die Rechten absichert.",
+          "published": "Mon, 06 Jul 2026 06:36:18 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Kehrtwende: Sparkassen und Genossenschaftsbanken öffnen sich für Handel mit Kryptowährungen",
+          "link": "https://t3n.de/news/sparkassen-kryptowaehrungen-1751313/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die deutschen Sparkassen und Genossenschaftsbanken haben die einstige Zurückhaltung in puncto Handel mit Kryptowährungen über Bord geworfen. Künftig sollen Millionen von Privatkund:innen eigens entwickelte Plattformen nutzen können. weiterlesen auf t3n.de",
+          "published": "Sun, 5 Jul 2026 20:42:18 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Tiktok und „Brainrot&quot;: Forscherin erklärt, was Kurzvideos wirklich mit Jugendlichen machen",
+          "link": "https://t3n.de/news/tiktok-brainrot-forscherin-erklaert-kurzvideos-jugendliche-1750005/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Forscherteam hat sich speziell dem Format der Kurzvideos auf Tiktok, Instagram und Youtube gewidmet und eine Metastudie durchgeführt. Die Erstautorin beric weiterlesen auf t3n.de",
+          "published": "Sun, 5 Jul 2026 19:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Sparkurs: Mercedes überlegt Aus für Homeoffice und Mehrarbeit fürs gleiche Geld",
+          "link": "https://t3n.de/news/mercedes-homeoffice-mehrarbeit-1751303/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bei Mercedes-Benz läuft es aktuell nicht rund. Der Stuttgarter Autobauer denkt über einen verschärften Sparkurs nach, bei dem die Mitarbeiter:innen künftig 40 statt bisher 35 Stunden arbeiten müssten – bei gleichem Lohn. Auch ein Homeoffice-Aus droht. weiterlesen auf t3n.de",
+          "published": "Sun, 5 Jul 2026 18:45:30 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Software Supply Chain wird zunehmend durch Open-Source-Software geprägt, was sowohl Chancen als auch Risiken birgt. Die Sicherheit und Integrität dieser Software sind entscheidend, um potenzielle Angriffe und Schwachstellen zu minimieren.",
+      "highlights": [
+        "Open-Source-Software ist weit verbreitet und wird in vielen Anwendungen genutzt.",
+        "Die Sicherheit der Software Supply Chain ist ein zentrales Anliegen für Unternehmen.",
+        "Angriffe auf Open-Source-Projekte können weitreichende Auswirkungen auf die gesamte Branche haben."
+      ]
+    }
+  ]
+}
