@@ -1,0 +1,324 @@
+{
+  "date": "2026-07-07",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
+          "link": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
+          "summary": "It will take several weeks for the Link spacecraft to rendezvous with NASA's Swift observatory.",
+          "published": "Mon, 06 Jul 2026 17:14:09 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Heftige Kritik der zuständigen Behörden: Pläne der Bundesregierung führen zu weniger Transparenz und mehr Bürokratie",
+          "link": "https://netzpolitik.org/2026/heftige-kritik-der-zustaendigen-behoerden-plaene-der-bundesregierung-fuehren-zu-weniger-transparenz-und-mehr-buerokratie/",
+          "summary": "Union und SPD wollen zur Politik hinter verschlossenen Türen zurückkehren. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Masaaki Komori Die schwarz-rote Koalition behauptet, geplante Einschnitte bei der Transparenz würden der Sicherheit dienen und die Nutzung des IFG erleichtern. Die Informationsfreiheitsbeauftragten von Bund und Ländern widersprechen vehement und warnen: Die Pläne würden Deutschland zurück in die Zeit des „verschlossenen Obrigkeitswissens“ katapultieren.",
+          "published": "Mon, 06 Jul 2026 13:38:23 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Cloudflare and AWS Embed x402 Agent Payments at the Edge",
+          "link": "https://www.infoq.com/news/2026/07/cloudflare-aws-x402-micropayment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare and AWS both implemented x402 stablecoin micropayments at their edge networks within two weeks. The open protocol under the Linux Foundation revives HTTP 402 for agent-to-service payments with sub-cent transaction costs. Coinbase reports 169 million transactions in year one. Enterprise tax and invoicing gaps remain unresolved. By Steef-Jan Wiggers",
+          "published": "Mon, 06 Jul 2026 06:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "KI-Firma von Elon Musk: Aus xAI wird SpaceXAI",
+          "link": "https://www.heise.de/news/KI-Firma-von-Elon-Musk-Aus-xAI-wird-SpaceXAI-11355723.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Im Frühjahr hat SpaceX von Elon Musk dessen KI-Firma xAI übernommen, jetzt folgt die Umbenennung. Der Name SpaceXAI soll die Zugehörigkeit verdeutlichen.",
+          "published": "2026-07-07T06:49:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Won’t fix! – Teil 3: Warum verteilter Konsens schwer bis unmöglich ist",
+          "link": "https://www.heise.de/hintergrund/Won-t-fix-Teil-3-Warum-verteilter-Konsens-schwer-bis-unmoeglich-ist-11350521.html",
+          "summary": "In verteilten Systemen ist Einigkeit nicht bloß schwierig, sondern unter bestimmten Bedingungen mathematisch beweisbar unmöglich.",
+          "published": "2026-07-03T07:00:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Cloud-Architektur zeigen Fortschritte bei Micropayments durch Cloudflare und AWS sowie Herausforderungen im Bereich verteilter Systeme. Zudem wird die Umbenennung von xAI zu SpaceXAI thematisiert, während die Bundesregierung in der Kritik steht, Transparenz zu verringern.",
+      "highlights": [
+        "Cloudflare und AWS implementieren x402 Micropayments mit Transaktionskosten unter einem Cent.",
+        "SpaceX übernimmt die KI-Firma xAI und benennt sie in SpaceXAI um.",
+        "Kritik an der Bundesregierung wegen geplanter Einschnitte bei der Transparenz und der Rückkehr zu weniger Offenheit."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: Strict Field Initialization, GlassFish, GraalVM, JReleaser, RefactorFirst",
+          "link": "https://www.infoq.com/news/2026/07/java-news-roundup-jun29-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for June 29th, 2026, features news highlighting: a new JEP candidate, Strict Field Initialization; point releases of GraalVM, JReleaser, RefactorFirst and Java Operator SDK; maintenance releases of GlassFish and Micronaut; the second milestone release of Grails 8.0; and the beta release of Open Liberty 26.0.0.7. By Michael Redlich",
+          "published": "Mon, 06 Jul 2026 23:30:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "In der aktuellen Java-Rundschau vom 29. Juni 2026 werden mehrere wichtige Entwicklungen vorgestellt, darunter die Einführung von Strict Field Initialization und verschiedene Wartungs- sowie Punktversionen von GraalVM, JReleaser und GlassFish.",
+      "highlights": [
+        "Neuer JEP-Kandidat: Strict Field Initialization.",
+        "Wartungsupdates für GlassFish und Micronaut veröffentlicht.",
+        "Beta-Version von Open Liberty 26.0.0.7 verfügbar."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "InfoQ Opens AI Security & Privacy Engineering Cohort for Regulated Industries",
+          "link": "https://www.infoq.com/news/2026/07/online-cohort-ai-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "InfoQ has opened enrollment for a five-week AI Security & Privacy Engineering cohort for senior engineers and architects in regulated industries, focused on applying security, privacy, threat modeling, observability, and governance practices to production AI systems. By Artenisa Chatziou",
+          "published": "Mon, 06 Jul 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Anzeige: Penetration Testing: Schwachstellen in Webanwendungen erkennen",
+          "link": "https://www.golem.de/news/anzeige-penetration-testing-schwachstellen-in-webanwendungen-erkennen-2607-208603.html",
+          "summary": "Penetration Testing deckt Schwachstellen in Webanwendungen und Netzwerken auf. Ein Online-Workshop vermittelt Methodik und Tools, um Findings nachvollziehbar zu prüfen. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-07-07T07:15:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "InfoQ bietet ein fünfwöchiges Programm zur AI-Sicherheits- und Datenschutztechnik für Fachkräfte in regulierten Branchen an. Gleichzeitig informiert Golem.de über einen Online-Workshop zum Penetration Testing, der Methoden zur Identifizierung von Schwachstellen in Webanwendungen vermittelt.",
+      "highlights": [
+        "InfoQ's AI Security & Privacy Engineering Cohort richtet sich an erfahrene Ingenieure und Architekten.",
+        "Der Kurs umfasst Themen wie Bedrohungsmodellierung und Governance für Produktions-AI-Systeme.",
+        "Der Online-Workshop von Golem.de fokussiert auf die Methodik und Tools zur Überprüfung von Sicherheitslücken."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "heise+ | Git für Maker erklärt, Teil 4: Wie man in Github Actions Workflows anlegt",
+          "link": "https://www.heise.de/ratgeber/Git-fuer-Maker-erklaert-Teil-4-Wie-man-in-Github-Actions-Workflows-anlegt-11342212.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "GitHub Actions automatisiert Aufgaben im Repository. Am Beispiel eines RSS-Feed-Projekts zeigt der Artikel, wie man Workflows anlegt.",
+          "published": "2026-07-07T09:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Fluggastdaten: Deutsche Behörden scannten 2025 über 627 Millionen Datensätze",
+          "link": "https://www.heise.de/news/Fluggastdaten-Deutsche-Behoerden-scannten-2025-ueber-627-Millionen-Datensaetze-11355459.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das PNR-Überwachungssystem für den Flugverkehr wächst massiv. Welche Airlines Daten liefern, behält die Bundesregierung aus Geheimschutzgründen lieber für sich.",
+          "published": "2026-07-06T18:12:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Node.js kämpft mit Flut an automatisierten Sicherheitsreports",
+          "link": "https://www.heise.de/news/Sicherheitswarnungen-Node-js-will-KI-Flut-mit-KI-bekaempfen-11355142.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In der Node.js-Community ist eine Diskussion darüber entstanden, wie sie weiter mit der Vielzahl an LLM-generierten Sicherheitsmeldungen verfahren soll.",
+          "published": "2026-07-06T15:38:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | ChatGPT als Layoutwerkzeug: OpenAI-Produktleiterin Adele Li im Interview",
+          "link": "https://www.heise.de/hintergrund/OpenAI-Produktleiterin-Adele-Li-Haltet-die-Prompts-einfach-11338452.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "OpenAI-Produktleiterin Adele Li erklärt im Interview, warum ChatGPT Bilder, Text und Layout besser kombiniert als zuvor und weshalb kurze Prompts ausreichen.",
+          "published": "2026-07-06T15:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Node.js kämpft mit Flut an automatisierten Sicherheitsreports",
+          "link": "https://www.heise.de/news/Sicherheitswarnungen-Node-js-will-KI-Flut-mit-KI-bekaempfen-11355142.html",
+          "summary": "In der Node.js-Community ist eine Diskussion darüber entstanden, wie sie weiter mit der Vielzahl an LLM-generierten Sicherheitsmeldungen verfahren soll.",
+          "published": "2026-07-06T13:38:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die aktuelle Diskussion in der Node.js-Community dreht sich um die Bewältigung einer Flut von automatisierten Sicherheitsreports, die durch LLMs generiert werden. Parallel dazu bietet ein Artikel auf heise+ eine Anleitung zur Erstellung von Workflows in GitHub Actions, die die Automatisierung von Aufgaben im Repository erleichtert.",
+      "highlights": [
+        "GitHub Actions ermöglicht die Automatisierung von Aufgaben im Repository.",
+        "Node.js-Community diskutiert über den Umgang mit zahlreichen LLM-generierten Sicherheitsmeldungen.",
+        "Artikel auf heise+ zeigt praktische Beispiele zur Workflow-Erstellung in GitHub Actions."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11350126.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Flux, Dragonfly, Endive, Kotlin Notebook, Spring AI, SharePoint, VS Code, Kai, CMake und W3C.",
+          "published": "2026-07-04T07:12:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Neue Allianz für mehr Open-Source-Schutz",
+          "link": "https://www.heise.de/news/Neues-Buendnis-fuer-Open-Source-Schutz-11347664.html",
+          "summary": "Die Linux Foundation und Tech-Giganten starten Akrites, um Open-Source-Sicherheitslücken zentral und vertraulich zu beheben.",
+          "published": "2026-06-29T10:37:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Auch Android betroffen: Exploit für gefährliche Root-Lücke im Linux-Kernel geleakt",
+          "link": "https://www.golem.de/news/auch-android-betroffen-exploit-fuer-gefaehrliche-root-luecke-im-linux-kernel-geleakt-2607-210571.html",
+          "summary": "Eine Lücke im Epoll-Subsystem des Linux-Kernels verleiht Angreifern auf anfälligen Systemen Root-Rechte. Inzwischen gibt es auch einen Exploit dafür. ( Sicherheitslücke , Linux-Kernel )",
+          "published": "2026-07-07T09:18:03+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Luxushersteller: Bentley tauft sein erstes Elektroauto Torcal",
+          "link": "https://www.golem.de/news/luxushersteller-bentley-tauft-sein-erstes-elektroauto-torcal-2607-210566.html",
+          "summary": "Der Autobauer Bentley will sein erstes vollelektrisches Modell Torcal nennen. Der Name folgt einer vertrauten Tradition. ( Auto , Elektroauto )",
+          "published": "2026-07-07T07:41:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In der aktuellen Nachrichtenlage stehen agile Methoden und UX/UI-Entwicklung im Fokus. Die Diskussion über Open-Source-Sicherheit und neue Technologien wie Kotlin Notebook und Spring AI zeigt die Relevanz agiler Ansätze in der Softwareentwicklung.",
+      "highlights": [
+        "Linux Foundation startet Akrites zur Behebung von Open-Source-Sicherheitslücken.",
+        "Exploit für Root-Lücke im Linux-Kernel wurde geleakt, betrifft auch Android.",
+        "Bentley kündigt sein erstes vollelektrisches Modell Torcal an."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Presentation: Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery",
+          "link": "https://www.infoq.com/presentations/reliable-ai-platforms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Aaron Erickson explains how NVIDIA designs and tests purpose-built AI agent hierarchies. For senior developers and architects, he outlines why balancing deterministic tools with agentic discovery is crucial. Discover how to leverage rare context, implement LLM-as-a-judge test pyramids, and avoid the paradox of choice to build highly reliable, production-grade AI systems at scale. By Aaron Erickson",
+          "published": "Tue, 07 Jul 2026 08:03:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "How HubSpot Scaled Semantic Search to 20 Billion Vectors",
+          "link": "https://www.infoq.com/news/2026/07/hubspot-semantic-vector-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "SaaS software vendor HubSpot has described how its semantic search platform grew from a proof of concept into an internal service that now manages more than 20 billion vectors across 38-plus teams. The company says the system now supports agents, RAG, and contact deduplication, and that the increase in agent usage has made retrieval quality and latency more important than before. By Matt Saunders",
+          "published": "Tue, 07 Jul 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Copilot wird selbst von zahlenden Kunden kaum genutzt: So will Microsoft das Ruder rumreißen",
+          "link": "https://t3n.de/news/copilot-selbst-zahlende-kunden-kaum-genutzt-1751576/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Microsoft Copilot hat offenbar einen schweren Stand bei Kund:innen. Nur wenige zahlen für die KI. Und selbst wenn sie für den Dienst zahlen, nutzen sie ihn kaum. Wie Microsoft das Problem jetzt angehen will. weiterlesen auf t3n.de",
+          "published": "Tue, 7 Jul 2026 09:30:53 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Arbeit mit KI-Agenten: Diese zwei Kommunikationsstile sind heute unverzichtbar",
+          "link": "https://t3n.de/news/arbeit-mit-ki-agenten-diese-zwei-kommunikationsstile-sind-heute-unverzichtbar-1746643/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nico Kreiling ist Teamleiter beim IT-Dienstleister Scieneers. Er erzählt, was für ihn herausragende Mitarbeiter ausmachen, und welchen konkreten Skill er beso weiterlesen auf t3n.de",
+          "published": "Tue, 7 Jul 2026 07:30:11 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "A new study just debunked the biggest fear about AI and open source",
+          "link": "https://thenewstack.io/ai-open-source-newcomers-study/",
+          "summary": "There&#8217;s a common fear about what AI could do to open source. Coding agents take over the beginner-friendly issues that The post A new study just debunked the biggest fear about AI and open source appeared first on The New Stack .",
+          "published": "Mon, 06 Jul 2026 21:26:47 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen im Bereich generative KI und LLMs zeigen Fortschritte in der Zuverlässigkeit von AI-Plattformen, der Skalierung semantischer Suche und Herausforderungen bei der Nutzung von KI-Tools. Unternehmen wie HubSpot und Microsoft arbeiten an der Optimierung ihrer Systeme und der Benutzerakzeptanz.",
+      "highlights": [
+        "NVIDIA entwickelt AI-Agenten-Hierarchien zur Verbesserung der Zuverlässigkeit.",
+        "HubSpot verwaltet über 20 Milliarden Vektoren in seiner semantischen Suchplattform.",
+        "Microsoft kämpft mit geringer Nutzung seines Copilot-Services trotz zahlender Kunden."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Staatstrojaner: Hoffnung auf eine Grundsatzentscheidung",
+          "link": "https://netzpolitik.org/2026/staatstrojaner-hoffnung-auf-eine-grundsatzentscheidung/",
+          "summary": "Der Europäische Gerichtshof für Menschenrechte in Straßburg. – CC-BY-SA 2.0 : Davide Restivo Reporter ohne Grenzen klagt beim Europäischen Gerichtshof für Menschenrechte gegen den Einsatz von Staatstrojanern durch den BND. Anwalt Niko Härting will erreichen, dass der Gerichtshof den Schutz gegen die mächtigen Hacking-Instrumente verbessert.",
+          "published": "Tue, 07 Jul 2026 06:23:30 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Podman 6 baut Docker-Kompatibilität aus",
+          "link": "https://www.heise.de/news/Podman-6-baut-Docker-Kompatibilitaet-aus-11352642.html",
+          "summary": "Podman 6.0.0 bringt einen modernisierten Netzwerk-Stack, Verbesserungen für Podman Machine und Quadlet sowie mehr Docker-Kompatibilität.",
+          "published": "2026-07-03T09:02:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Der Europäische Gerichtshof für Menschenrechte wird sich mit der Klage von Reporter ohne Grenzen gegen den Einsatz von Staatstrojanern durch den BND befassen, um den Schutz vor diesen Hacking-Instrumenten zu verbessern. Zudem bringt die neue Version von Podman erweiterte Docker-Kompatibilität und Netzwerk-Optimierungen.",
+      "highlights": [
+        "Reporter ohne Grenzen klagt gegen den BND wegen Staatstrojanern.",
+        "Ziel der Klage ist ein verbesserter Schutz gegen Hacking-Instrumente.",
+        "Podman 6.0.0 bietet erweiterte Docker-Kompatibilität und einen modernisierten Netzwerk-Stack."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Verbraucherschutz: Tripadvisor-KI beschönigt negative Hotelbewertungen",
+          "link": "https://www.golem.de/news/verbraucherschutz-tripadvisor-ki-beschoenigt-negative-hotelbewertungen-2607-210538.html",
+          "summary": "Lebensmittelvergiftungen bei Hunderten Gästen und schwere Hygienemängel werden von der KI bei Tripadvisor beschönigt oder ignoriert. ( Verbraucherschutz , KI )",
+          "published": "2026-07-06T11:43:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die KI von Tripadvisor verschönert negative Hotelbewertungen, indem sie schwerwiegende Probleme wie Lebensmittelvergiftungen und Hygienemängel ignoriert. Dies wirft Fragen zum Verbraucherschutz auf.",
+      "highlights": [
+        "Hunderte Gäste berichteten über Lebensmittelvergiftungen.",
+        "Schwere Hygienemängel wurden von der KI nicht berücksichtigt.",
+        "Verbraucherschutzorganisationen kritisieren die Praxis von Tripadvisor."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Xbox-Umbau: Microsoft streicht tausende Jobs – und 14 Management-Ebenen",
+          "link": "https://t3n.de/news/xbox-umbau-microsoft-streicht-tausende-jobs-und-14-management-ebenen-1751596/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Microsoft wollte sein Xbox-Geschäft mit dem 69 Milliarden Dollar teuren Kauf des Konzerns Activision Blizzard stärken &#8211; doch die Sparte kämpft trotzdem mit Problemen. Jetzt soll ein &#8222;Reset&#8220; helfen. weiterlesen auf t3n.de",
+          "published": "Tue, 7 Jul 2026 09:45:40 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Über 3.000 neue Startups in sechs Monaten: Deutschland erlebt historischen Gründungsboom",
+          "link": "https://t3n.de/news/ueber-3-000-neue-startups-in-sechs-monaten-deutschland-erlebt-historischen-gruendungsboom-1751571/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In Deutschland entstehen mehr als 3.000 Startups im ersten Halbjahr – so viele wie nie zuvor. Dahinter stecken Geschäftschancen und neue Möglichkeiten mit KI, aber auch Zwänge am Arbeitsmarkt. weiterlesen auf t3n.de",
+          "published": "Tue, 7 Jul 2026 08:30:15 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Studio kündigt Spielfilm mit digitaler Schauspielerin an – und erntet heftige Kritik",
+          "link": "https://t3n.de/news/ki-studio-kuendigt-spielfilm-mit-digitaler-schauspielerin-an-und-erntet-heftige-kritik-1751567/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine von Künstlicher Intelligenz erstellte Figur namens Tilly Norwood soll ihren ersten Spielfilm-Auftritt erhalten. Das KI-Studio Particle 6 beschreibt Misaligned als Comedy-Drama. weiterlesen auf t3n.de",
+          "published": "Tue, 7 Jul 2026 08:00:53 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
+          "link": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
+          "summary": "Drone intruders that possibly flew from Russian ships showed Europe isn’t ready.",
+          "published": "Mon, 06 Jul 2026 20:52:42 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Trump-Memecoin: Knapp 1 Million Anleger verlieren 3,8 Milliarden Dollar",
+          "link": "https://t3n.de/news/trump-memecoin-knapp-1-million-anleger-verlieren-38-milliarden-dollar-1751547/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "US-Präsident Donald Trump hat 2025 rund 1,4 Milliarden US-Dollar mit Kryptogeschäften verdient. Dabei verlor etwa der Trump-Memecoin bis heute 98 Prozent an Wert. Verloren haben auch Hunderttausende Anleger:innen. weiterlesen auf t3n.de",
+          "published": "Mon, 6 Jul 2026 18:40:50 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Software Supply Chain wird zunehmend durch Open-Source-Technologien geprägt, die sowohl Chancen als auch Herausforderungen mit sich bringen. Unternehmen müssen sich mit Sicherheitsrisiken und der Integration von Open-Source-Software in ihre Systeme auseinandersetzen.",
+      "highlights": [
+        "Open-Source-Software ermöglicht schnellere Innovationen und Kosteneinsparungen.",
+        "Sicherheitsrisiken in der Software Supply Chain sind ein wachsendes Problem.",
+        "Unternehmen setzen verstärkt auf Transparenz und Nachverfolgbarkeit von Softwarekomponenten."
+      ]
+    }
+  ]
+}
