@@ -1,0 +1,284 @@
+{
+  "date": "2026-07-08",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Data Science: JupyterLab 4.6 bringt Neuerungen für Usability und Accessibility",
+          "link": "https://www.heise.de/news/Data-Science-JupyterLab-4-6-bringt-Neuerungen-fuer-Usability-und-Accessibility-11356115.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine neue Scratchpad-Konsole, zusätzliche benutzerdefinierte Anpassungsmöglichkeiten und eine erhöhte Barrierefreiheit sind für Jupyter-User verfügbar.",
+          "published": "2026-07-08T08:42:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Data Science: JupyterLab 4.6 bringt Neuerungen für Usability und Accessibility",
+          "link": "https://www.heise.de/news/Data-Science-JupyterLab-4-6-bringt-Neuerungen-fuer-Usability-und-Accessibility-11356115.html",
+          "summary": "Eine neue Scratchpad-Konsole, zusätzliche benutzerdefinierte Anpassungsmöglichkeiten und eine erhöhte Barrierefreiheit sind für Jupyter-User verfügbar.",
+          "published": "2026-07-08T06:42:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "JupyterLab 4.6 führt neue Funktionen ein, die die Benutzerfreundlichkeit und Barrierefreiheit verbessern. Dazu gehören eine Scratchpad-Konsole und erweiterte Anpassungsmöglichkeiten für Nutzer.",
+      "highlights": [
+        "Einführung einer neuen Scratchpad-Konsole für flexibles Arbeiten.",
+        "Zusätzliche benutzerdefinierte Anpassungsmöglichkeiten für eine personalisierte Benutzererfahrung.",
+        "Erhöhte Barrierefreiheit für eine breitere Nutzerbasis."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Watch AWS engineers troubleshoot agentic AI with OpenTelemetry and OpenSearch",
+          "link": "https://thenewstack.io/opentelemetry-opensearch-agent-observability/",
+          "summary": "Your organization constantly needs more information about system performance, usage, and data while in production &#8212; or better yet, before The post Watch AWS engineers troubleshoot agentic AI with OpenTelemetry and OpenSearch appeared first on The New Stack .",
+          "published": "Tue, 07 Jul 2026 20:29:14 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production",
+          "link": "https://www.infoq.com/news/2026/07/aws-devops-ai-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Amazon Web Services (AWS) has announced a major expansion of its AWS DevOps Agent, introducing new release management capabilities designed to assess code changes and autonomously test software before it reaches production. By Craig Risi",
+          "published": "Tue, 07 Jul 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Neues aus dem Fernsehrat (115): Sanktionierte Freiheit",
+          "link": "https://netzpolitik.org/2026/neues-aus-dem-fernsehrat-115-sanktionierte-freiheit/",
+          "summary": "Was wird durch die Sanktionsklausel eingeschränkt? – CC-BY 4.0 : PantheraLeo1359531, Bearbeitung: netzpolitik.org Menschen sorgen sich wegen Sanktionsklauseln in Verträgen des ZDF um die journalistische Unabhängigkeit des Senders. Unser Kolumnist schlägt mehrere Maßnahmen vor, wie der Sender sowohl kritische Berichterstattung sichern als auch Mitarbeitende in den USA schützen kann.",
+          "published": "Tue, 07 Jul 2026 11:11:23 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "heise+ | Für Mac und mehr: Fragen und Antworten zu Festplatten und SSDs",
+          "link": "https://www.heise.de/hintergrund/Fuer-Mac-und-mehr-Fragen-und-Antworten-zu-Festplatten-und-SSDs-11348751.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Speicher ist teuer, aber unverzichtbar. Doch wo sind Daten sicher und wie sieht es mit der Langlebigkeit aus? Wir klären zu Speichermedien auf.",
+          "published": "2026-07-08T09:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Won’t fix! – Teil 3: Warum verteilter Konsens schwer bis unmöglich ist",
+          "link": "https://www.heise.de/hintergrund/Won-t-fix-Teil-3-Warum-verteilter-Konsens-schwer-bis-unmoeglich-ist-11350521.html",
+          "summary": "In verteilten Systemen ist Einigkeit nicht bloß schwierig, sondern unter bestimmten Bedingungen mathematisch beweisbar unmöglich.",
+          "published": "2026-07-03T07:00:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Cloud-Architektur zeigen, wie AWS neue Funktionen zur Leistungsüberwachung und Codevalidierung einführt. Insbesondere die Integration von KI in DevOps-Tools verbessert die Effizienz und Sicherheit vor der Produktionsfreigabe.",
+      "highlights": [
+        "AWS erweitert DevOps Agent mit KI-gestütztem Release Management.",
+        "OpenTelemetry und OpenSearch werden zur Überwachung von KI-Systemen eingesetzt.",
+        "Verteilte Konsensfindung in Systemen ist unter bestimmten Bedingungen mathematisch unmöglich."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Erster agentenbasierter Ransomware-Angriff: Wie autonom war der Vorgang wirklich?",
+          "link": "https://t3n.de/news/erster-agentenbasierter-ransomware-angriff-wie-autonom-war-der-vorgang-wirklich-1751690/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Sicherheitsrisiko hat durch neue Technologien deutlich zugenommen. Aber können KI-Agenten Cyberangriffe wirklich schon ohne menschliche Hilfe durchführen? weiterlesen auf t3n.de",
+          "published": "Tue, 7 Jul 2026 16:00:35 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Sicherheitsalbtraum Wechselrichter: Hoymiles lässt Nachbarschaften verstummen",
+          "link": "https://www.heise.de/news/Sicherheitsalbtraum-Wechselrichter-Hoymiles-laesst-Nachbarschaften-verstummen-11357067.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Schwere Funkschwachstellen bei Hunderttausenden PV-Anlagen erlauben laut Forschern das Abschalten im Vorbeifahren und sogar die physische Zerstörung der Geräte.",
+          "published": "2026-07-07T17:30:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die IT-Sicherheit steht durch neue Technologien unter Druck, insbesondere durch den ersten agentenbasierten Ransomware-Angriff, der Fragen zur Autonomie von KI-Agenten aufwirft. Zudem zeigen gravierende Sicherheitslücken bei Wechselrichtern von Hoymiles, dass Hunderttausende PV-Anlagen gefährdet sind.",
+      "highlights": [
+        "Erster agentenbasierter Ransomware-Angriff wirft Fragen zur Autonomie von KI-Agenten auf.",
+        "Hunderttausende PV-Anlagen von Hoymiles weisen schwere Funkschwachstellen auf.",
+        "Forschungen zeigen, dass Angreifer Geräte im Vorbeifahren abschalten oder physisch zerstören können."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Fusionskraftwerk bis 2039: Warum Deutschlands 2,4-Milliarden-Plan scheitern wird",
+          "link": "https://t3n.de/news/fusionskraftwerk-bis-2039-warum-deutschlands-24-milliarden-plan-scheitern-wird-1751607/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Kernfusion als Energiequelle zu nutzen, ist wissenschaftlich und technisch extrem spannend, doch der Aktionsplan Fusionsenergie der Bundesregierung dient nicht in erster Linie der Entwicklung einer neuen Energietechnologie. Dahinter steckt ein anderes Motiv, meint unser Autor. weiterlesen auf t3n.de",
+          "published": "Tue, 7 Jul 2026 17:00:55 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Node.js kämpft mit Flut an automatisierten Sicherheitsreports",
+          "link": "https://www.heise.de/news/Sicherheitswarnungen-Node-js-will-KI-Flut-mit-KI-bekaempfen-11355142.html",
+          "summary": "In der Node.js-Community ist eine Diskussion darüber entstanden, wie sie weiter mit der Vielzahl an LLM-generierten Sicherheitsmeldungen verfahren soll.",
+          "published": "2026-07-06T13:38:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Reformpaket der Bundesregierung: Smart Meter light soll kommen",
+          "link": "https://www.golem.de/news/reformpaket-der-bundesregierung-smart-meter-light-soll-kommen-2607-210578.html",
+          "summary": "Dass das deutsche Stromnetz der Energiewende hinterherhinkt, ist schon länger bekannt. Es soll schnell flexibel werden, nur der Weg dahin bleibt unklar. Von Mario Petzold ( Smart Meter , Bundesnetzagentur )",
+          "published": "2026-07-07T15:16:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die aktuelle Diskussion im Bereich DevOps und Test-Automatisierung wird durch die Herausforderungen in der Node.js-Community geprägt, die mit einer Vielzahl von automatisierten Sicherheitsreports konfrontiert ist. Dies wirft Fragen zur Handhabung und Priorisierung dieser Meldungen auf.",
+      "highlights": [
+        "Node.js-Community diskutiert über LLM-generierte Sicherheitsmeldungen.",
+        "Automatisierte Sicherheitsreports stellen Entwickler vor neue Herausforderungen.",
+        "Effektive Handhabung dieser Berichte ist entscheidend für die Sicherheit von Anwendungen."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Widerstand gegen Beseitigung der Informationsfreiheit: „Keine lästige Pflicht, sondern historische Errungenschaft“",
+          "link": "https://netzpolitik.org/2026/widerstand-gegen-beseitigung-der-informationsfreiheit-keine-laestige-pflicht-sondern-historische-errungenschaft/",
+          "summary": "Lars Klingbeil (SPD) und Friedrich Merz (CDU) im Gespräch. – Alle Rechte vorbehalten: IMAGO / Political-Moments Verbrämt als „Bürokratierückbau“ plant die Regierungskoalition das Plattmachen der Informationsfreiheit. Mehr als hundert Organisationen fordern heute in einem offenen Brief, den tiefen Einschnitt in Transparenzrechte und Pressefreiheit zu verhindern.",
+          "published": "Tue, 07 Jul 2026 13:13:26 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11350126.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Flux, Dragonfly, Endive, Kotlin Notebook, Spring AI, SharePoint, VS Code, Kai, CMake und W3C.",
+          "published": "2026-07-04T07:12:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Regierungskoalition plant eine Reform, die die Informationsfreiheit einschränken könnte, was auf Widerstand von über hundert Organisationen stößt. Lars Klingbeil und Friedrich Merz diskutieren die Thematik, die als Bürokratierückbau bezeichnet wird.",
+      "highlights": [
+        "Regierungskoalition plant Beseitigung der Informationsfreiheit.",
+        "Über hundert Organisationen fordern den Erhalt von Transparenzrechten.",
+        "Diskussion zwischen Lars Klingbeil (SPD) und Friedrich Merz (CDU) über die Reform."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Coinbase runs 1,200 agents and just slashed its AI bill in half",
+          "link": "https://thenewstack.io/multi-model-ai-infrastructure/",
+          "summary": "Vercel CEO Guillermo Rauch and Coinbase CEO Brian Armstrong run very different companies, but they&#8217;re making the same architectural bet. The post Coinbase runs 1,200 agents and just slashed its AI bill in half appeared first on The New Stack .",
+          "published": "Tue, 07 Jul 2026 20:55:05 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Vercel acquires Better Auth to give AI agents their own identity",
+          "link": "https://thenewstack.io/vercel-acquires-better-auth/",
+          "summary": "AI agents increasingly act on people&#8217;s behalf, opening pull requests, reviewing code, creating deployments, querying internal systems, or updating business The post Vercel acquires Better Auth to give AI agents their own identity appeared first on The New Stack .",
+          "published": "Tue, 07 Jul 2026 20:13:37 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Switching from PostgreSQL to ClickHouse for Improved Performance and Scalability",
+          "link": "https://www.infoq.com/news/2026/07/momentic-postgres-clickhouse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Momentic, the company behind an AI-driven software testing platform, recently rearchitected its caching system to handle over 2 million queries per day across 20 billion total entries, while maintaining an average response latency of around 250 ms. This improvement was made possible by transitioning from PostgreSQL to the column-oriented database ClickHouse. By Sergio De Simone",
+          "published": "Tue, 07 Jul 2026 20:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Anthropic gives Claude subscribers five more days with Fable 5",
+          "link": "https://thenewstack.io/anthropic-extends-fable-5/",
+          "summary": "Anthropic was scheduled to remove included access to its flagship Fable model from its subscription accounts today, July 7, and The post Anthropic gives Claude subscribers five more days with Fable 5 appeared first on The New Stack .",
+          "published": "Tue, 07 Jul 2026 18:45:26 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Anthropic’s Claude Cowork now keeps working when you close your laptop",
+          "link": "https://thenewstack.io/claude-cowork-cloud-mobile/",
+          "summary": "Since its launch,&#160;Claude Cowork, Anthropic&#8217;s agentic tool for knowledge workers, has run only on the desktop, leaving it tethered to The post Anthropic&#8217;s Claude Cowork now keeps working when you close your laptop appeared first on The New Stack .",
+          "published": "Tue, 07 Jul 2026 16:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen im Bereich generative KI und LLMs zeigen, dass Unternehmen wie Coinbase und Vercel innovative Ansätze verfolgen, um ihre KI-Kosten zu optimieren und die Identität von KI-Agenten zu stärken. Zudem verbessert Anthropic die Funktionalität seiner Tools für Wissensarbeiter.",
+      "highlights": [
+        "Coinbase reduziert seine KI-Kosten um 50% bei gleichzeitiger Nutzung von 1.200 Agenten.",
+        "Vercel erwirbt Better Auth, um KI-Agenten eine eigene Identität zu verleihen.",
+        "Anthropic ermöglicht mit Claude Cowork, dass die Arbeit auch beim Schließen des Laptops fortgesetzt wird."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Staatstrojaner: Hoffnung auf eine Grundsatzentscheidung",
+          "link": "https://netzpolitik.org/2026/staatstrojaner-hoffnung-auf-eine-grundsatzentscheidung/",
+          "summary": "Der Europäische Gerichtshof für Menschenrechte in Straßburg. – CC-BY-SA 2.0 : Davide Restivo Reporter ohne Grenzen klagt beim Europäischen Gerichtshof für Menschenrechte gegen den Einsatz von Staatstrojanern durch den BND. Anwalt Niko Härting will erreichen, dass der Gerichtshof den Schutz gegen die mächtigen Hacking-Instrumente verbessert.",
+          "published": "Tue, 07 Jul 2026 06:23:30 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Podman 6 baut Docker-Kompatibilität aus",
+          "link": "https://www.heise.de/news/Podman-6-baut-Docker-Kompatibilitaet-aus-11352642.html",
+          "summary": "Podman 6.0.0 bringt einen modernisierten Netzwerk-Stack, Verbesserungen für Podman Machine und Quadlet sowie mehr Docker-Kompatibilität.",
+          "published": "2026-07-03T09:02:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Der Europäische Gerichtshof für Menschenrechte wird von Reporter ohne Grenzen verklagt, um den Einsatz von Staatstrojanern durch den BND rechtlich zu überprüfen. Gleichzeitig bringt Podman 6.0.0 Verbesserungen in der Docker-Kompatibilität und im Netzwerk-Stack.",
+      "highlights": [
+        "Reporter ohne Grenzen klagt gegen den BND wegen Staatstrojanern.",
+        "Ziel ist eine Grundsatzentscheidung zum Schutz vor Hacking-Instrumenten.",
+        "Podman 6.0.0 verbessert Docker-Kompatibilität und Netzwerk-Stack."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Sicherheitsrisiko Whatsapp-Nutzernamen: Welche Funktion du laut Verbraucherschützern jetzt aktivieren solltest",
+          "link": "https://t3n.de/news/whatsapp-nutzernamen-sicherheitsrisiko-funktion-aktivieren-1751646/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit Whatsapp-Benutzernamen will Meta User:innen mehr Anonymität geben. Jetzt gibt es Bedenken, dass sie es Cyberkriminellen leichter machen, Messenger-Nutzer:innen in die Falle zu locken. Welche Risiken es gibt. weiterlesen auf t3n.de",
+          "published": "Wed, 8 Jul 2026 08:20:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Schlechtes Bild, schlechter Eindruck: Wann sich eine externe Webcam für dich lohnt",
+          "link": "https://t3n.de/news/schlechtes-bild-schlechter-eindruck-wann-sich-eine-externe-webcam-fuer-dich-lohnt-1751718/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ruckelige Video-Meetings sind nicht nur nervig – sie beeinflussen auch, wie dein Gegenüber dich wahrnimmt. Hier erfährst du, welche Vorteile externe Webcams bieten und mit welchen Kosten du rechnen musst. weiterlesen auf t3n.de",
+          "published": "Wed, 8 Jul 2026 07:45:12 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Transistoren wie Kuchen-Schichten: IBMs neuer Ansatz könnte KI-Chips effizienter machen",
+          "link": "https://t3n.de/news/transistoren-schichten-ibm-ki-chips-1750401/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "IBM verfolgt zusammen mit anderen Unternehmen ein neues Konzept, um mehr Transistoren auf Chips unterzubringen. Es geht dabei in die Vertikale. weiterlesen auf t3n.de",
+          "published": "Wed, 8 Jul 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
+          "link": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
+          "summary": "Google's new phones could feature glowing LEDs and higher price tags.",
+          "published": "Tue, 07 Jul 2026 19:08:34 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Michael Saylors Strategy verkauft fast 3.600 Bitcoin: So reagiert der Kryptomarkt",
+          "link": "https://t3n.de/news/strategy-verkauft-bitcoin-2-1751773/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ende Mai hatte die Bitcoin-Treasury-Firma Strategy erstmals seit 2022 einen winzigen Teil ihrer Bestände verkauft – und damit ein Beben auf dem Kryptomarkt ausgelöst. Jetzt hat Strategy fast 3.600 Bitcoin abgestoßen. Wie reagieren die Märkte? weiterlesen auf t3n.de",
+          "published": "Tue, 7 Jul 2026 18:36:52 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die heutige Nachrichtenlage umfasst Sicherheitsbedenken zu WhatsApp-Benutzernamen, die Cyberkriminellen den Zugriff erleichtern könnten, sowie technische Entwicklungen bei IBM zur Effizienzsteigerung von KI-Chips. Zudem wird der Kryptomarkt durch den Verkauf von Bitcoin durch Michael Saylors Strategy beeinflusst.",
+      "highlights": [
+        "WhatsApp-Benutzernamen könnten Cyberkriminellen den Zugang zu Nutzern erleichtern.",
+        "IBM entwickelt einen neuen Ansatz zur vertikalen Anordnung von Transistoren auf Chips.",
+        "Michael Saylors Strategy verkauft fast 3.600 Bitcoin, was den Kryptomarkt beeinflusst."
+      ]
+    }
+  ]
+}
