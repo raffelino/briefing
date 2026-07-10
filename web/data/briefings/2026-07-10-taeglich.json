@@ -1,0 +1,364 @@
+{
+  "date": "2026-07-10",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Data Science: JupyterLab 4.6 bringt Neuerungen für Usability und Accessibility",
+          "link": "https://www.heise.de/news/Data-Science-JupyterLab-4-6-bringt-Neuerungen-fuer-Usability-und-Accessibility-11356115.html",
+          "summary": "Eine neue Scratchpad-Konsole, zusätzliche benutzerdefinierte Anpassungsmöglichkeiten und eine erhöhte Barrierefreiheit sind für Jupyter-User verfügbar.",
+          "published": "2026-07-08T06:42:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "JupyterLab 4.6 bietet neue Funktionen zur Verbesserung der Benutzerfreundlichkeit und Barrierefreiheit. Dazu gehören eine Scratchpad-Konsole und erweiterte Anpassungsmöglichkeiten für Nutzer.",
+      "highlights": [
+        "Einführung einer neuen Scratchpad-Konsole.",
+        "Erweiterte benutzerdefinierte Anpassungsmöglichkeiten.",
+        "Verbesserte Barrierefreiheit für alle Nutzer."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Develop like you deploy: closing the Kubernetes local-to-cluster gap",
+          "link": "https://thenewstack.io/krumware-epinio-kubernetes-mcp/",
+          "summary": "Despite significant investments and technological developments in platform engineering over the past decade, most developers still face the same problem The post Develop like you deploy: closing the Kubernetes local-to-cluster gap appeared first on The New Stack .",
+          "published": "Thu, 09 Jul 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI Fixes 18-Year-Old GNU libunwind Bug by Treating Crash Debugging Like Epidemiology",
+          "link": "https://www.infoq.com/news/2026/07/openai-libunwind-core-dumps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "OpenAI found two unrelated bugs masquerading as one in ChatGPT's data infrastructure. Silent hardware corruption on one Azure host and an 18-year-old race condition in GNU libunwind's setcontext function with a one-instruction vulnerability window. The breakthrough came from switching to population-level crash analysis rather than examining individual core dumps. By Steef-Jan Wiggers",
+          "published": "Thu, 09 Jul 2026 10:15:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AWS Details How One Customer Scaled to One Million Lambda Functions",
+          "link": "https://www.infoq.com/news/2026/07/aws-lambda-1m/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has outlined how ProGlove, an industrial-wearables manufacturer, was able to scale its SaaS platform to run more than one million AWS Lambda functions spread across thousands of dedicated customer accounts. By Matt Foster",
+          "published": "Thu, 09 Jul 2026 07:44:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "The Kubernetes Approach to AI-Assisted Maintainership Prioritises Human Accountability",
+          "link": "https://www.infoq.com/news/2026/07/kubernetes-ai-policy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The Kubernetes community has introduced a framework for integrating AI into open-source maintainership, emphasising human accountability in code quality and oversight. AI tools may streamline workflows, but ultimate responsibility lies with human maintainers. The framework requires disclosure of AI usage in contributions and prohibits AI-generated commit messages. By Olimpiu Pop",
+          "published": "Thu, 09 Jul 2026 07:07:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Netflix: Lineare Kanäle gegen die Streaming-Müdigkeit",
+          "link": "https://www.heise.de/news/Netflix-erwaegt-Live-Kanaele-und-Abo-Bundles-gegen-Streaming-Muedigkeit-11360381.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Netflix-Nutzer verbringen weniger Zeit mit dem Dienst. Intern diskutiert das Unternehmen Live-Kanäle und Abo-Bundles, berichtet das Wall Street Journal.",
+          "published": "2026-07-10T09:16:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die aktuelle Berichterstattung über Cloud-Architektur und Plattformen beleuchtet Entwicklungen in Kubernetes, AWS und OpenAI. Insbesondere wird die Integration von KI in die Wartung von Open-Source-Projekten sowie die Skalierung von Cloud-Diensten thematisiert.",
+      "highlights": [
+        "Kubernetes-Framework betont menschliche Verantwortung bei der Integration von KI in die Wartung.",
+        "AWS zeigt, wie ProGlove über eine Million Lambda-Funktionen in tausenden von Kundenkonten skalierte.",
+        "OpenAI identifizierte einen 18 Jahre alten Bug in GNU libunwind durch population-level Crash-Analyse."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Why a five-minute sniff test is your secret supply chain defense",
+          "link": "https://thenewstack.io/sbom-sniff-test-hardened-images/",
+          "summary": "In its updated 2025 guidance on SBOMs, the Cybersecurity and Infrastructure Security Agency (CISA) states, &#8220;An SBOM should include information The post Why a five-minute sniff test is your secret supply chain defense appeared first on The New Stack .",
+          "published": "Thu, 09 Jul 2026 16:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "n8n: CERT-Bund veröffentlicht Warnmeldung zu kürzlich beseitigten Schwachstellen",
+          "link": "https://www.heise.de/news/n8n-CERT-Bund-veroeffentlicht-Warnmeldung-zu-kuerzlich-beseitigten-Schwachstellen-11359656.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Kritisch ist keine der jüngst gefixten Lücken in der Automatisierungslösung n8n. Dennoch betont eine Warnmeldung des BSI die hohe Update-Relevanz.",
+          "published": "2026-07-09T16:27:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Schwachstelle in Coding-Agenten: Zugriff auf beliebige Dateien über Symlinks",
+          "link": "https://www.heise.de/news/Schwachstelle-in-Coding-Agenten-Zugriff-auf-beliebige-Dateien-ueber-Symlinks-11358849.html",
+          "summary": "Angreifer könnten über ein Repository mit Schadcode auch Zugriff auf Dateien außerhalb einer Sandbox erhalten.",
+          "published": "2026-07-09T07:54:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Microsoft 365 mit Zero Trust absichern",
+          "link": "https://www.golem.de/news/anzeige-microsoft-365-mit-zero-trust-absichern-2607-210522.html",
+          "summary": "Microsoft 365 Zero Trust verlangt klare Kontrollen für Identitäten, Daten und Geräte. Ein Online-Workshop zeigt, wie Schutzmechanismen und Monitoring strukturiert umgesetzt werden. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-07-10T07:15:03+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Behörden greifen durch: Großer Schlag gegen Onlinebetrug mit über 5.800 Festnahmen",
+          "link": "https://www.golem.de/news/behoerden-greifen-durch-grosser-schlag-gegen-onlinebetrug-mit-ueber-5-800-festnahmen-2607-210691.html",
+          "summary": "Einsatzkräfte aus 97 Ländern haben im Kampf gegen Cyberbetrug Tausende Verdächtige verhaftet und gestohlene Vermögenswerte beschlagnahmt. ( Cybercrime , Phishing )",
+          "published": "2026-07-09T12:13:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die IT-Sicherheit steht im Fokus aktueller Entwicklungen, insbesondere im Bereich der Lieferkettensicherheit und der Schwachstellenmanagement. Behörden weltweit verstärken ihre Maßnahmen gegen Cyberbetrug, während Unternehmen aufgefordert werden, Sicherheitsstandards wie Zero Trust und regelmäßige Updates zu implementieren.",
+      "highlights": [
+        "CISA aktualisiert 2025 Richtlinien zu SBOMs für bessere Lieferkettensicherheit.",
+        "BSI warnt vor Schwachstellen in n8n, betont jedoch die Notwendigkeit regelmäßiger Updates.",
+        "Über 5.800 Festnahmen weltweit im Kampf gegen Cyberbetrug durch internationale Behörden."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Die KI-Falle: Wie ein Wirtschaftsprofessor betrügende Studenten überführte",
+          "link": "https://t3n.de/news/elite-uni-professor-deckt-ki-betrug-auf-1752084/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein renommierter Wirtschaftsprofessor an einer US-Eliteuniversität ändert aus Mitgefühl die Prüfungsregeln für seinen Kurs. Was als Entgegenkommen gedacht war, mündet jedoch völlig unerwartet in einem weitreichenden Skandal für die Hochschule. weiterlesen auf t3n.de",
+          "published": "Thu, 9 Jul 2026 14:30:16 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Node.js kämpft mit Flut an automatisierten Sicherheitsreports",
+          "link": "https://www.heise.de/news/Sicherheitswarnungen-Node-js-will-KI-Flut-mit-KI-bekaempfen-11355142.html",
+          "summary": "In der Node.js-Community ist eine Diskussion darüber entstanden, wie sie weiter mit der Vielzahl an LLM-generierten Sicherheitsmeldungen verfahren soll.",
+          "published": "2026-07-06T13:38:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die Node.js-Community steht vor der Herausforderung, mit einer Flut von automatisierten Sicherheitsreports umzugehen, die durch LLMs generiert werden. Dies hat zu intensiven Diskussionen über die zukünftige Handhabung dieser Meldungen geführt.",
+      "highlights": [
+        "Node.js sieht sich mit einer Vielzahl an LLM-generierten Sicherheitsmeldungen konfrontiert.",
+        "Die Community diskutiert über die effektive Verarbeitung dieser automatisierten Reports.",
+        "Die Problematik betrifft die Qualität und Relevanz der Sicherheitsmeldungen."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Neuer Job als Strategic FinOps Manager gesucht? Schau dir unsere Jobs der Woche an",
+          "link": "https://t3n.de/news/unsere-jobs-der-woche-1175973/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hier findest du unsere besten Jobs aus den Bereichen Technik &amp; Entwicklung, Marketing, PR &amp; Kommunikation, Projektmanagement &amp; Produktmanagement, Design &amp; UX, Content &amp; Redaktion und Business Development. weiterlesen auf t3n.de",
+          "published": "Thu, 9 Jul 2026 16:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "RootAsRole 4.0: Mehr Kontrolle als bei sudo",
+          "link": "https://www.heise.de/news/RootAsRole-4-0-Mehr-Kontrolle-als-bei-sudo-11358217.html",
+          "summary": "RootAsRole 4.0 erweitert die sudo-Alternative um ein neues Ausführungsmodell und feinere Richtlinien für privilegierte Linux-Befehle.",
+          "published": "2026-07-08T13:44:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11350126.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Flux, Dragonfly, Endive, Kotlin Notebook, Spring AI, SharePoint, VS Code, Kai, CMake und W3C.",
+          "published": "2026-07-04T07:12:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Heizungsgesetz: Gas- und Ölheizungen werden hinter Bürokratie versteckt",
+          "link": "https://www.golem.de/news/heizungsgesetz-gas-und-oelheizungen-werden-hinter-buerokratie-versteckt-2607-210736.html",
+          "summary": "Der Einbau neuer Gasheizungen wird wieder erlaubt, aber für Mieter wie Vermieter könnte es kompliziert werden. ( Energiewende , Politik )",
+          "published": "2026-07-10T09:58:08+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Abstimmung im EU-Parlament: Die anlasslose Chatkontrolle ist wieder da",
+          "link": "https://www.golem.de/news/abstimmung-im-eu-parlament-die-anlasslose-chatkontrolle-ist-wieder-da-2607-210709.html",
+          "summary": "Das umstrittene Vorgehen der christdemokratischen EVP-Fraktion hat dazu geführt, dass die Chatkontrolle trotz ablehnender Mehrheit verlängert wird. ( Chatkontrolle , Datenschutz )",
+          "published": "2026-07-09T16:49:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Agile Methoden und UX/UI sind entscheidend für die Entwicklung benutzerzentrierter Produkte. Sie fördern Flexibilität und Anpassungsfähigkeit in Design- und Entwicklungsprozessen, um den sich ständig ändernden Nutzerbedürfnissen gerecht zu werden.",
+      "highlights": [
+        "Agile Methoden ermöglichen iterative Entwicklungsprozesse.",
+        "UX/UI-Design fokussiert auf Nutzererfahrungen und -interaktionen.",
+        "Die Kombination verbessert die Produktqualität und Kundenzufriedenheit."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "How Datadog Used Claude and Cursor for Test-Driven Production Migration",
+          "link": "https://www.infoq.com/news/2026/07/datadog-ai-production-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In a recent article, Datadog engineer Arnold Wakim shared what worked, what didn't, and the lessons they learned while evolving a critical production system using AI to overcome hard limits in its storage backend and significantly improve performance. By Sergio De Simone",
+          "published": "Fri, 10 Jul 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Energie aus dem Reaktor: So weißt du das Wichtigste über Kernfusion",
+          "link": "https://t3n.de/news/energie-reaktor-kernfusion-1654719/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Kernfusions-Startup Proxima Fusion wird zum höchstbewerteten Fusionsunternehmen der Branche. Aber wie weit ist die Technologie? MIT Technology Review klärt die wichtigsten Fragen. weiterlesen auf t3n.de",
+          "published": "Fri, 10 Jul 2026 08:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI wants its new tool to do your work for you and with you",
+          "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+          "summary": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
+          "published": "Thu, 09 Jul 2026 21:25:55 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
+          "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+          "summary": "OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.",
+          "published": "Thu, 09 Jul 2026 18:57:53 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "OpenAI is folding Codex into the ChatGPT app — and taking aim at Claude Cowork",
+          "link": "https://thenewstack.io/openai-codex-work-atlas/",
+          "summary": "OpenAI&#8217;s GPT-5.6 launch on Thursday was widely expected, but in addition to the new models, the company also made a The post OpenAI is folding Codex into the ChatGPT app — and taking aim at Claude Cowork appeared first on The New Stack .",
+          "published": "Thu, 09 Jul 2026 18:55:19 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Generative KI und LLMs (Large Language Models) entwickeln sich rasant weiter, wobei Unternehmen wie Datadog und OpenAI neue Tools und Strategien implementieren, um ihre Systeme zu optimieren und Arbeitsabläufe zu automatisieren. Gleichzeitig sieht sich OpenAI rechtlichen Herausforderungen gegenüber, die ihre Praktiken im Umgang mit Nutzerdaten betreffen.",
+      "highlights": [
+        "Datadog nutzt Claude und Cursor zur Verbesserung der Produktionssysteme.",
+        "OpenAI integriert Codex in die ChatGPT-App und zielt auf Konkurrenzprodukte ab.",
+        "OpenAI könnte rechtliche Konsequenzen wegen des Versteckens von ChatGPT-Logs im Urheberrechtsstreit mit Nachrichtenorganisationen erleiden."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "KI-Kennzeichnungspflicht: Was Marketer jetzt umsetzen müssen",
+          "link": "https://t3n.de/news/ki-kennzeichnungspflicht-marketer-umsetzen-muessen-1752203/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ab August 2026 greifen offiziell die Transparenzpflichten nach Artikel 50 des AI Acts der EU. Wer KI-generierte Inhalte über digitale Kanäle verbreitet, muss si weiterlesen auf t3n.de",
+          "published": "Fri, 10 Jul 2026 09:00:50 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Landmaschinenhersteller John Deere verspricht Recht auf Reparatur für 10 Jahre",
+          "link": "https://www.heise.de/news/Landmaschinenhersteller-John-Deere-verspricht-Recht-auf-Reparatur-fuer-10-Jahre-11360253.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die US-Handelskommission und der Landmaschinenhersteller haben sich geeinigt. John Deere muss seine Software und Reparaturwerkzeuge allen zur Verfügung stellen.",
+          "published": "2026-07-10T05:03:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Podman 6 baut Docker-Kompatibilität aus",
+          "link": "https://www.heise.de/news/Podman-6-baut-Docker-Kompatibilitaet-aus-11352642.html",
+          "summary": "Podman 6.0.0 bringt einen modernisierten Netzwerk-Stack, Verbesserungen für Podman Machine und Quadlet sowie mehr Docker-Kompatibilität.",
+          "published": "2026-07-03T09:02:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Supraleiter: Antriebssystem für Satelliten benötigt keinen Treibstoff",
+          "link": "https://www.golem.de/news/supraleiter-antriebssystem-fuer-satelliten-benoetigt-keinen-treibstoff-2607-210688.html",
+          "summary": "Ein starker Magnet kann Satelliten allein mit dem Erdmagnetfeld steuern. Die Lebensdauer von Technik im Orbit könnte sich dadurch deutlich verlängern. ( Satelliten , Solarenergie )",
+          "published": "2026-07-09T12:39:18+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die EU-Tech-Regulierung nimmt Fahrt auf, insbesondere durch die bevorstehenden Transparenzpflichten für KI-generierte Inhalte ab August 2026. Zudem wird das Recht auf Reparatur für Landmaschinen gestärkt, während technologische Fortschritte in der Satellitentechnologie ohne Treibstoff auskommen könnten.",
+      "highlights": [
+        "Ab August 2026 müssen KI-generierte Inhalte gekennzeichnet werden.",
+        "John Deere verpflichtet sich, Reparaturwerkzeuge für 10 Jahre bereitzustellen.",
+        "Neues Antriebssystem für Satelliten nutzt das Erdmagnetfeld zur Steuerung."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "The “silent hallucination” loop: how our autonomous data pipeline poisoned its own vector store",
+          "link": "https://thenewstack.io/silent-llm-hallucination-loop/",
+          "summary": "Nothing matches the dread of checking a perfectly green observability dashboard with sub-100ms latency, right before an enterprise client emails The post The &#8220;silent hallucination&#8221; loop: how our autonomous data pipeline poisoned its own vector store appeared first on The New Stack .",
+          "published": "Thu, 09 Jul 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Der Artikel beschreibt, wie eine autonome Datenpipeline durch einen 'stillen Halluzinations'-Loop ihren eigenen Vektorenspeicher beschädigte. Trotz einer optimalen Überwachungsoberfläche traten unerwartete Probleme auf, die die Datenintegrität gefährdeten.",
+      "highlights": [
+        "Autonome Datenpipeline erzeugte fehlerhafte Daten durch einen internen Loop.",
+        "Überwachungsdashboard zeigte optimale Werte, während Probleme auftraten.",
+        "E-Mail eines Unternehmenskunden offenbarte die Diskrepanz zwischen Monitoring und Realität."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Bis in 2.000 Metern Tiefe: Forscher messen alarmierende Wärme in den Ozeanen",
+          "link": "https://t3n.de/news/bis-in-2-000-metern-tiefe-forscher-messen-alarmierende-waerme-in-den-ozeanen-1752116/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mehr als 90 Prozent der Wärme, die durch die Emissionen fossiler Energie frei werden, nehmen Ozeane auf. Ein Forscherteam berechnete, dass sich diese Aufnahme i weiterlesen auf t3n.de",
+          "published": "Fri, 10 Jul 2026 07:30:14 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Es gibt viele biologische Gründe“: So leidet unser Gehirn unter Hitzewellen",
+          "link": "https://t3n.de/news/biologische-gruende-gehirn-hitzewellen-1750623/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Hitzerekorde im Juni haben weitgreifende Folgen – auch für unser Gehirn. Es gibt erste Hinweise darauf, dass Kinder, Babys und Menschen mit psychischen Erkrankungen besonders gefährdet sind. weiterlesen auf t3n.de",
+          "published": "Fri, 10 Jul 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Studie: Gezieltes Geoengineering könnte El Niño abschwächen – indem man die Sonne dimmt",
+          "link": "https://t3n.de/news/geoengineering-el-nino-sonne-1752187/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Forscher:innen zufolge könnte Geoengineering wie das Dimmen der Sonne durch das Aufhellung von Meereswolken das Klimaphänomen El Niño abschwächen und damit Extremwetter-Ereignisse verringern. Aber nicht alle Expert:innen sind überzeugt. weiterlesen auf t3n.de",
+          "published": "Thu, 9 Jul 2026 22:57:52 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Zur ersten Lesung im Bundestag: Mehr als 167.000 Unterschriften gegen das Überwachungspaket",
+          "link": "https://netzpolitik.org/2026/zur-ersten-lesung-im-bundestag-mehr-als-167-000-unterschriften-gegen-das-ueberwachungspaket/",
+          "summary": "Zur Petitionsübergabe nur aus Pappmaché erschienen: Bundesinnenminister Alexander Dobrindt (CSU). – Alle Rechte vorbehalten: Chris Grodotzki / Campact Die Gesetzentwürfe zu digitalen Befugnissen für Sicherheitsbehörden haben im Bundestag viel Kritik eingesteckt. Wer will, kann mit einer Petition und E‑Mail-Aktion den Gegenwind verstärken.",
+          "published": "Thu, 09 Jul 2026 15:59:41 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Presentation: Accelerating Netflix Data: A Cross-Team Journey from Offline to Online",
+          "link": "https://www.infoq.com/presentations/netflix-data-offline-online/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Raj Ummadisetty and Ken Kurzweil share Netflix's architectural pivot to CloudStream, a repeatable capture, conversion, and deployment framework. They discuss shifting key-value abstractions from stateless to stateful to move terabytes of bulk data safely. Software architects will learn to exploit data access patterns, use \"Pathfinder\" prototypes, and maintain a 99% faster rollout. By Rajasekhar Ummadisetty, Ken Kurzweil",
+          "published": "Thu, 09 Jul 2026 15:20:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Die Software-Lieferkette wird zunehmend durch innovative Ansätze wie CloudStream bei Netflix optimiert, um Daten effizienter zu verarbeiten. Gleichzeitig gibt es gesellschaftliche und politische Herausforderungen, wie die Kritik an Überwachungsgesetzen und die Auswirkungen des Klimawandels auf die menschliche Gesundheit.",
+      "highlights": [
+        "Netflix implementiert CloudStream für schnellere Datenverarbeitung mit 99% schnellerem Rollout.",
+        "Über 167.000 Unterschriften gegen das Überwachungspaket im Bundestag.",
+        "Geoengineering könnte El Niño durch das Dimmen der Sonne abschwächen, Experten sind jedoch skeptisch."
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Microsoft’s carbon emissions went up 25 percent last year",
+          "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+          "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our [&#8230;]",
+          "published": "2026-07-09T20:04:13-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Microsoft verzeichnete im Jahr 2025 einen Anstieg der Kohlenstoffemissionen um 25 Prozent, was insgesamt 34 Millionen metrischen Tonnen entspricht. Dies geschah trotz der eigenen Klimaziele und wurde hauptsächlich durch das Unternehmenswachstum verursacht.",
+      "highlights": [
+        "Kohlenstoffemissionen stiegen um 25 Prozent im Jahr 2025.",
+        "Gesamtemissionen erreichten 34 Millionen metrische Tonnen.",
+        "Anstieg der Emissionen hauptsächlich durch Unternehmenswachstum bedingt."
+      ]
+    }
+  ]
+}
