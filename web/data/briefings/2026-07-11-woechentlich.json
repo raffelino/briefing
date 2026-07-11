@@ -1,0 +1,466 @@
+{
+  "date": "2026-07-11",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Data Science: JupyterLab 4.6 bringt Neuerungen für Usability und Accessibility",
+          "link": "https://www.heise.de/news/Data-Science-JupyterLab-4-6-bringt-Neuerungen-fuer-Usability-und-Accessibility-11356115.html",
+          "summary": "Eine neue Scratchpad-Konsole, zusätzliche benutzerdefinierte Anpassungsmöglichkeiten und eine erhöhte Barrierefreiheit sind für Jupyter-User verfügbar.",
+          "published": "2026-07-08T06:42:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In der vergangenen Woche wurde die neue Version 4.6 von JupyterLab veröffentlicht, die signifikante Verbesserungen in der Benutzerfreundlichkeit und Barrierefreiheit bietet. Diese Entwicklungen spiegeln den Trend wider, Data-Science-Tools inklusiver und benutzerfreundlicher zu gestalten. Die Einführung einer Scratchpad-Konsole ermöglicht eine flexiblere Arbeitsweise, während benutzerdefinierte Anpassungsmöglichkeiten den individuellen Bedürfnissen der Nutzer gerecht werden. Diese Neuerungen sind Teil eines größeren Bestrebens, die Effizienz und Zugänglichkeit in der Datenwissenschaft zu erhöhen.",
+      "highlights": [
+        "Einführung einer neuen Scratchpad-Konsole",
+        "Erhöhte Barrierefreiheit für Nutzer",
+        "Zusätzliche benutzerdefinierte Anpassungsmöglichkeiten",
+        "Fokus auf Benutzerfreundlichkeit in Data-Science-Tools",
+        "Version 4.6 von JupyterLab veröffentlicht"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "What running Kubernetes across millions of clusters taught AWS about zonal failures",
+          "link": "https://thenewstack.io/eks-zonal-shift-resilience/",
+          "summary": "Handling the obvious failures is the easy part: a server goes down, you spin up another. The failures that actually The post What running Kubernetes across millions of clusters taught AWS about zonal failures appeared first on The New Stack .",
+          "published": "Fri, 10 Jul 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Develop like you deploy: closing the Kubernetes local-to-cluster gap",
+          "link": "https://thenewstack.io/krumware-epinio-kubernetes-mcp/",
+          "summary": "Despite significant investments and technological developments in platform engineering over the past decade, most developers still face the same problem The post Develop like you deploy: closing the Kubernetes local-to-cluster gap appeared first on The New Stack .",
+          "published": "Thu, 09 Jul 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI Fixes 18-Year-Old GNU libunwind Bug by Treating Crash Debugging Like Epidemiology",
+          "link": "https://www.infoq.com/news/2026/07/openai-libunwind-core-dumps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "OpenAI found two unrelated bugs masquerading as one in ChatGPT's data infrastructure. Silent hardware corruption on one Azure host and an 18-year-old race condition in GNU libunwind's setcontext function with a one-instruction vulnerability window. The breakthrough came from switching to population-level crash analysis rather than examining individual core dumps. By Steef-Jan Wiggers",
+          "published": "Thu, 09 Jul 2026 10:15:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AWS Details How One Customer Scaled to One Million Lambda Functions",
+          "link": "https://www.infoq.com/news/2026/07/aws-lambda-1m/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has outlined how ProGlove, an industrial-wearables manufacturer, was able to scale its SaaS platform to run more than one million AWS Lambda functions spread across thousands of dedicated customer accounts. By Matt Foster",
+          "published": "Thu, 09 Jul 2026 07:44:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Watch AWS engineers troubleshoot agentic AI with OpenTelemetry and OpenSearch",
+          "link": "https://thenewstack.io/opentelemetry-opensearch-agent-observability/",
+          "summary": "Your organization constantly needs more information about system performance, usage, and data while in production &#8212; or better yet, before The post Watch AWS engineers troubleshoot agentic AI with OpenTelemetry and OpenSearch appeared first on The New Stack .",
+          "published": "Tue, 07 Jul 2026 20:29:14 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Neues aus dem Fernsehrat (115): Sanktionierte Freiheit",
+          "link": "https://netzpolitik.org/2026/neues-aus-dem-fernsehrat-115-sanktionierte-freiheit/",
+          "summary": "Was wird durch die Sanktionsklausel eingeschränkt? – CC-BY 4.0 : PantheraLeo1359531, Bearbeitung: netzpolitik.org Menschen sorgen sich wegen Sanktionsklauseln in Verträgen des ZDF um die journalistische Unabhängigkeit des Senders. Unser Kolumnist schlägt mehrere Maßnahmen vor, wie der Sender sowohl kritische Berichterstattung sichern als auch Mitarbeitende in den USA schützen kann.",
+          "published": "Tue, 07 Jul 2026 11:11:23 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Heftige Kritik der zuständigen Behörden: Pläne der Bundesregierung führen zu weniger Transparenz und mehr Bürokratie",
+          "link": "https://netzpolitik.org/2026/heftige-kritik-der-zustaendigen-behoerden-plaene-der-bundesregierung-fuehren-zu-weniger-transparenz-und-mehr-buerokratie/",
+          "summary": "Union und SPD wollen zur Politik hinter verschlossenen Türen zurückkehren. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Masaaki Komori Die schwarz-rote Koalition behauptet, geplante Einschnitte bei der Transparenz würden der Sicherheit dienen und die Nutzung des IFG erleichtern. Die Informationsfreiheitsbeauftragten von Bund und Ländern widersprechen vehement und warnen: Die Pläne würden Deutschland zurück in die Zeit des „verschlossenen Obrigkeitswissens“ katapultieren.",
+          "published": "Mon, 06 Jul 2026 13:38:23 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Cyber-Spezialisten des Schweizer Militärs verlassen Microsoft-Cloud",
+          "link": "https://www.heise.de/news/Schweizer-Armee-bricht-mit-Microsoft-Kommando-Cyber-setzt-auf-Open-Source-11361475.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Wegen Cloud-Zwang und geopolitischer Abhängigkeit von den USA migrieren die Cyber-Spezialisten der Schweizer Armee in Rekordzeit zur deutschen Lösung OpenDesk.",
+          "published": "2026-07-10T18:45:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "In dieser Woche standen Cloud-Architektur und Plattformen im Fokus, insbesondere im Hinblick auf die Herausforderungen und Lösungen im Kubernetes-Umfeld sowie die Skalierung von Cloud-Diensten. AWS berichtete über Erkenntnisse aus dem Betrieb von Millionen von Kubernetes-Clustern und die erfolgreiche Skalierung von Lambda-Funktionen. Zudem wurde die Migration der Schweizer Cyber-Spezialisten von Microsoft zur deutschen Cloud-Lösung OpenDesk thematisiert, was geopolitische Abhängigkeiten reflektiert. Die Diskussion um Transparenz und Bürokratie in der deutschen Politik bleibt ebenfalls relevant.",
+      "highlights": [
+        "AWS lernt aus Millionen von Kubernetes-Clustern, um zonale Ausfälle besser zu managen.",
+        "ProGlove skalierte seine SaaS-Plattform auf über eine Million AWS Lambda-Funktionen.",
+        "OpenAI beseitigte einen 18 Jahre alten Bug in GNU libunwind durch innovative Crash-Analyse.",
+        "Schweizer Militär migriert aufgrund geopolitischer Bedenken von Microsoft zur deutschen Cloud-Lösung OpenDesk.",
+        "Entwickler kämpfen weiterhin mit der Kluft zwischen lokaler Entwicklung und Kubernetes-Deployment."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Ransomware negotiator hired to represent victims was working for the attackers",
+          "link": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
+          "summary": "Six years in prison for man who \"sold out the very victims he was hired to represent.\"",
+          "published": "Fri, 10 Jul 2026 19:40:11 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Why a five-minute sniff test is your secret supply chain defense",
+          "link": "https://thenewstack.io/sbom-sniff-test-hardened-images/",
+          "summary": "In its updated 2025 guidance on SBOMs, the Cybersecurity and Infrastructure Security Agency (CISA) states, &#8220;An SBOM should include information The post Why a five-minute sniff test is your secret supply chain defense appeared first on The New Stack .",
+          "published": "Thu, 09 Jul 2026 16:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Lückenflut durch KI-Funde – Software-Hersteller schrauben an Patch-Strategien",
+          "link": "https://www.heise.de/news/Lueckenflut-durch-KI-Funde-Software-Hersteller-schrauben-an-Patch-Strategien-11360569.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Wöchentliche Veröffentlichungen, Patch-Vorankündigungen und gebündelte CVEs sollen Herstellern und IT-Verantwortlichen helfen, der Update-Flut Herr zu werden.",
+          "published": "2026-07-10T14:45:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Schwachstelle in Coding-Agenten: Zugriff auf beliebige Dateien über Symlinks",
+          "link": "https://www.heise.de/news/Schwachstelle-in-Coding-Agenten-Zugriff-auf-beliebige-Dateien-ueber-Symlinks-11358849.html",
+          "summary": "Angreifer könnten über ein Repository mit Schadcode auch Zugriff auf Dateien außerhalb einer Sandbox erhalten.",
+          "published": "2026-07-09T07:54:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Gaming: Retro Achievements bringt Trophäen in alte Spiele",
+          "link": "https://www.golem.de/news/gaming-retro-achievements-bringt-trophaeen-in-alte-spiele-2607-209984.html",
+          "summary": "Fast 1,8 Millionen Spieler sammeln inzwischen Erfolge in Retrogames. Hinter dem Projekt steckt die Idee eines ehemaligen Spieleentwicklers. Von Sönke Siemens und Benedikt Plass-Fleßenkämper ( Retrogaming , Xbox 360 )",
+          "published": "2026-07-11T07:30:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In dieser Woche standen IT-Sicherheit und die Herausforderungen im Bereich Software-Patch-Management im Fokus. Ein skandalöser Fall eines Ransomware-Verhandlers, der seine Opfer verriet, verdeutlicht die Risiken im Bereich Cybersecurity. Zudem zeigt die Cybersecurity and Infrastructure Security Agency (CISA) neue Ansätze zur Verbesserung der Lieferkettensicherheit durch Software Bill of Materials (SBOM). Die zunehmende Entdeckung von Schwachstellen durch KI zwingt Software-Hersteller, ihre Patch-Strategien zu überdenken.",
+      "highlights": [
+        "Ransomware-Verhandler erhielt sechs Jahre Haft für Verrat an Opfern.",
+        "CISA aktualisiert 2025-Leitlinien zu SBOMs zur Stärkung der Lieferkettensicherheit.",
+        "Software-Hersteller reagieren auf KI-gestützte Schwachstellensuche mit neuen Patch-Strategien.",
+        "Schwachstelle in Coding-Agenten ermöglicht Zugriff auf Dateien außerhalb von Sandboxes."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Bundeserprobungsgesetz: Im Namen der Innovation, ohne demokratische Kontrolle",
+          "link": "https://netzpolitik.org/2026/bundeserprobungsgesetz-im-namen-der-innovation-ohne-demokratische-kontrolle/",
+          "summary": "Ralph Brinkhaus hat die Parlamentsinitiative fürs Bundeserprobungsgesetz mit angestoßen. – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Nach dem Motto „Ausprobieren statt Abwarten“ brachte die Bundesregierung ein Gesetz durchs Parlament, mit dem die öffentliche Verwaltung neue Technologien testen darf. Die große Koalition hofft, so die Verwaltungsdigitalisierung anzukurbeln. Doch das Reallabore-Gesetz widerspricht demokratischen Grundsätzen, wissenschaftlichen Standards und dem Prinzip der Transparenz.",
+          "published": "Wed, 08 Jul 2026 10:47:46 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "In dieser Woche wurde das Bundeserprobungsgesetz von der Bundesregierung vorgestellt, das es der öffentlichen Verwaltung ermöglicht, neue Technologien in Reallaboren zu testen. Während die große Koalition auf eine Beschleunigung der Verwaltungsdigitalisierung hofft, gibt es erhebliche Bedenken hinsichtlich der demokratischen Kontrolle und Transparenz. Kritiker warnen, dass das Gesetz wissenschaftlichen Standards widerspricht und potenziell die Bürgerrechte gefährdet. Die Diskussion um Test-Automatisierung und DevOps-Praktiken wird durch diese Entwicklungen weiter angeheizt, da innovative Ansätze in der Verwaltung gefordert werden.",
+      "highlights": [
+        "Bundesregierung fördert Test neuer Technologien in der Verwaltung.",
+        "Gesetz soll Verwaltungsdigitalisierung beschleunigen.",
+        "Kritik an mangelnder demokratischer Kontrolle und Transparenz.",
+        "Wissenschaftliche Standards werden als gefährdet angesehen.",
+        "Debatte über DevOps und Test-Automatisierung gewinnt an Bedeutung."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Warum Optimisten Prokrastination besiegen – und wie du es auch schaffst",
+          "link": "https://t3n.de/news/rokrastination-besiegen-optimismus-studie-japan-1632259/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Warum prokrastinieren Optimisten seltener? Japanische Forscher:innen haben herausgefunden, dass die Erwartung an eine stressfreie Zukunft der Schlüssel ist, um Aufgaben endlich anzupacken. Die gezielte Anwendung dieses psychologischen Hebels ermöglicht es, das eigene Aufschiebeverhalten nachhaltig zu reduzieren. weiterlesen auf t3n.de",
+          "published": "Sat, 11 Jul 2026 05:40:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered  Threats",
+          "link": "https://www.infoq.com/news/2026/07/akrites-open-source-ai-threats/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The Linux Foundation has launched Akrites, a new industry-wide initiative aimed at defending the world's most critical open source software against a rapidly evolving generation of AI-enabled cyber threats. By Craig Risi",
+          "published": "Fri, 10 Jul 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Widerstand gegen Beseitigung der Informationsfreiheit: „Keine lästige Pflicht, sondern historische Errungenschaft“",
+          "link": "https://netzpolitik.org/2026/widerstand-gegen-beseitigung-der-informationsfreiheit-keine-laestige-pflicht-sondern-historische-errungenschaft/",
+          "summary": "Lars Klingbeil (SPD) und Friedrich Merz (CDU) im Gespräch. – Alle Rechte vorbehalten: IMAGO / Political-Moments Verbrämt als „Bürokratierückbau“ plant die Regierungskoalition das Plattmachen der Informationsfreiheit. Mehr als hundert Organisationen fordern heute in einem offenen Brief, den tiefen Einschnitt in Transparenzrechte und Pressefreiheit zu verhindern.",
+          "published": "Tue, 07 Jul 2026 13:13:26 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Kommentar: Chatkontrolle – Abstimmen, bis das Ergebnis stimmt",
+          "link": "https://www.heise.de/meinung/Kommentar-Chatkontrolle-Abstimmen-bis-das-Ergebnis-stimmt-11360867.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Brüsseler Intrigantenstadl um die Chatkontrolle bringt schwere Demokratiedefizite dieser Europäischen Union ans Tageslicht, meint Volker Briegleb.",
+          "published": "2026-07-10T13:27:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "RootAsRole 4.0: Mehr Kontrolle als bei sudo",
+          "link": "https://www.heise.de/news/RootAsRole-4-0-Mehr-Kontrolle-als-bei-sudo-11358217.html",
+          "summary": "RootAsRole 4.0 erweitert die sudo-Alternative um ein neues Ausführungsmodell und feinere Richtlinien für privilegierte Linux-Befehle.",
+          "published": "2026-07-08T13:44:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Linux: aus der Nische in den Mainstream?",
+          "link": "https://www.golem.de/news/anzeige-linux-aus-der-nische-in-den-mainstream-2607-210752.html",
+          "summary": "Der Wechsel von Windows zu Linux wird immer einfacher. Und auch das Interesse daran steigt. ( Betriebssysteme , Microsoft )",
+          "published": "2026-07-10T15:05:03+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Ghostlock: 15 Jahre alte Root-Lücke im Linux-Kernel aufgedeckt",
+          "link": "https://www.golem.de/news/ghostlock-15-jahre-alte-root-luecke-im-linux-kernel-aufgedeckt-2607-210750.html",
+          "summary": "Seit Version 2.6.39 von 2011 klafft im Linux-Kernel eine gefährliche Root-Lücke. Es gibt zwar einen Patch, doch der ist noch längst nicht überall angekommen. ( Sicherheitslücke , Ubuntu )",
+          "published": "2026-07-10T12:59:05+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Tipps für die nächste Hitzewelle: \"Linux läuft meist cooler - ähm kühler\"",
+          "link": "https://www.golem.de/news/technik-und-hitze-uns-ist-die-primaere-klimaanlage-im-rechenzentrum-ausgefallen-2607-210696.html",
+          "summary": "Von Servern im Not-Aus bis zur 3D-gedruckten Handyform mit Kühlakkufach: Ihr habt uns erzählt, wie eure Technik unter der Hitze leidet und wie ihr sie schützt. ( Computer , Smartphone )",
+          "published": "2026-07-10T12:00:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In dieser Woche standen verschiedene Themen im Fokus, die sowohl psychologische als auch technologische Aspekte beleuchten. Während Optimismus als Schlüssel zur Überwindung von Prokrastination hervorgehoben wird, zeigt die Linux Foundation mit der Initiative Akrites, wie wichtig der Schutz kritischer Open-Source-Software vor KI-gesteuerten Bedrohungen ist. Zudem gibt es Widerstand gegen die geplante Einschränkung der Informationsfreiheit in Deutschland, was die Debatte um Transparenz und Pressefreiheit anheizt.",
+      "highlights": [
+        "Optimisten prokrastinieren seltener, laut japanischer Forschung.",
+        "Linux Foundation startet Akrites zum Schutz von Open-Source-Software.",
+        "Über 100 Organisationen fordern den Erhalt der Informationsfreiheit.",
+        "Ghostlock: 15 Jahre alte Root-Lücke im Linux-Kernel entdeckt.",
+        "RootAsRole 4.0 bietet verbesserte Kontrolle für Linux-Befehle."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "56-mal schneller als die meisten LLMs? US-Startup macht spektakuläres KI-Versprechen",
+          "link": "https://t3n.de/news/us-startup-ki-56-mal-schneller-als-llms-1748987/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Große Sprachmodelle sind teuer, langsam und energiehungrig, sobald der Kontext wächst. Subquadratic behauptet, all diese Probleme auf einen Schlag gelöst zu hab weiterlesen auf t3n.de",
+          "published": "Sat, 11 Jul 2026 09:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Simulationshypothese: So testen Physiker, ob wir in der Matrix leben",
+          "link": "https://t3n.de/news/simulationshypothese-experimente-matrix-theorie-1750203/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Leben wir in einer gigantischen Computersimulation? Die Frage beschäftigt nicht nur Science-Fiction-Autoren, sondern auch Forschende. Es gibt sogar Vorschläge f weiterlesen auf t3n.de",
+          "published": "Sat, 11 Jul 2026 07:50:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Forschung: Anthropics Claude entwickelt internen Arbeitsbereich – ohne menschliche Hilfe",
+          "link": "https://t3n.de/news/forschung-ki-claude-anthropic-arbeitsbereich-1751650/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Laut Studie könne der Chatbot im Vordergrund eine Aufgabe ausführen – und im Hintergrund über andere Konzepte und Ideen grübeln. Besonders überraschend: Die interne Struktur habe sich selbstständig gebildet. weiterlesen auf t3n.de",
+          "published": "Sat, 11 Jul 2026 07:20:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Entwickler erfindet mit Claude Code neue Programmiersprache: „Nicht gut für meine mentale Gesundheit&quot;",
+          "link": "https://t3n.de/news/entwickler-erfindet-mit-claude-code-programmiersprache-cutlet-mentale-gesundheit-1733551/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Claude Code kann nicht nur in bekannten Programmiersprachen arbeiten. Wie ein Entwickler jetzt gezeigt hat, kann der KI-Agent auch eine neue Sprache erfinden – und das in kürzester Zeit. Warum das Projekt laut seinem Schöpfer dennoch mit einigen Problemen behaftet ist. weiterlesen auf t3n.de",
+          "published": "Sat, 11 Jul 2026 06:35:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Aus für ChatGPT Atlas: Warum OpenAIs KI-Browser nach 9 Monaten Geschichte ist",
+          "link": "https://t3n.de/news/openai-chatgpt-atlas-ki-browser-1752387/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Weniger als ein Jahr nach dem Start zieht OpenAI seinem KI-Browser ChatGPT Atlas schon wieder den Stecker. Der Atlas-Browser soll in die neue Desktop-App ChatGPT Work integriert werden. Hinter dem Schritt steckt eine strategische Neuausrichtung. weiterlesen auf t3n.de",
+          "published": "Fri, 10 Jul 2026 18:57:33 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Why retrieval quality is becoming the defining challenge in AI agent architecture",
+          "link": "https://thenewstack.io/retrieval-ai-agent-architecture/",
+          "summary": "Agentic systems usually have two jobs: Build context, then use that context to produce an answer or action. Many failures The post Why retrieval quality is becoming the defining challenge in AI agent architecture appeared first on The New Stack .",
+          "published": "Fri, 10 Jul 2026 16:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment",
+          "link": "https://www.infoq.com/news/2026/07/cloudflare-temp-accounts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare has recently introduced temporary accounts that let AI agents deploy Cloudflare Workers immediately, without first creating or authenticating with a permanent account. If left unclaimed, the accounts and their deployments expire automatically after 60 minutes. By Renato Losio",
+          "published": "Fri, 10 Jul 2026 15:16:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Anthropic wants you to use AI to decide whether or not you should use AI.",
+          "link": "https://thenewstack.io/claude-reflection-ai-judgment/",
+          "summary": "On Thursday, Anthropic released reflection, a new feature that lets users track and review their Claude activity.&#160;Available now in beta The post Anthropic wants you to use AI to decide whether or not you should use AI. appeared first on The New Stack .",
+          "published": "Fri, 10 Jul 2026 14:14:40 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "In der vergangenen Woche standen Entwicklungen im Bereich generative KI und große Sprachmodelle (LLMs) im Fokus. Ein US-Startup, Subquadratic, behauptet, die Effizienz von LLMs erheblich steigern zu können. Zudem hat Anthropic mit Claude einen internen Arbeitsbereich entwickelt, der ohne menschliche Hilfe funktioniert. OpenAI hat seinen KI-Browser ChatGPT Atlas eingestellt, was auf eine strategische Neuausrichtung hinweist. Die Herausforderungen in der KI-Architektur, insbesondere die Qualität der Informationsretrieval, gewinnen zunehmend an Bedeutung.",
+      "highlights": [
+        "Subquadratic verspricht 56-mal schnellere LLMs.",
+        "Anthropic entwickelt Claude mit selbstständiger interner Struktur.",
+        "OpenAI stellt ChatGPT Atlas nach 9 Monaten ein.",
+        "Claude Code kann neue Programmiersprachen erfinden.",
+        "Qualität des Informationsretrieval wird zentrale Herausforderung in KI-Architektur."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
+          "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+          "summary": "Digital Services Act may force Meta to make big changes on its platforms.",
+          "published": "Fri, 10 Jul 2026 15:46:18 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Presentation: Chaos Engineering GPU Clusters",
+          "link": "https://www.infoq.com/presentations/chaos-engineering-gpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Bryan Oliver discusses the frontier of AI infrastructure: chaos engineering for large-scale GPU clusters. He shares how engineering leaders can handle complex topologies, network protocols like RDMA, and NUMA misalignments. Discover seven practical fault-injection strategies to maximize multi-million dollar hardware efficiency and build robust observability loops. By Bryan Oliver",
+          "published": "Fri, 10 Jul 2026 13:42:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Like a cheat code for your car: We investigate ECU tuning",
+          "link": "https://arstechnica.com/cars/2026/07/like-a-cheat-code-for-your-car-we-investigate-ecu-tuning/",
+          "summary": "Now it's an arms race between OEMs locking down chips and tuners trying to crack them.",
+          "published": "Fri, 10 Jul 2026 11:00:32 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Staatstrojaner: Hoffnung auf eine Grundsatzentscheidung",
+          "link": "https://netzpolitik.org/2026/staatstrojaner-hoffnung-auf-eine-grundsatzentscheidung/",
+          "summary": "Der Europäische Gerichtshof für Menschenrechte in Straßburg. – CC-BY-SA 2.0 : Davide Restivo Reporter ohne Grenzen klagt beim Europäischen Gerichtshof für Menschenrechte gegen den Einsatz von Staatstrojanern durch den BND. Anwalt Niko Härting will erreichen, dass der Gerichtshof den Schutz gegen die mächtigen Hacking-Instrumente verbessert.",
+          "published": "Tue, 07 Jul 2026 06:23:30 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
+          "link": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
+          "summary": "Last year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US, and Skyrover, a brand seemingly selling DJI drones in disguise. They're just two of the many firms DJI is suspected of starting to skirt the United States' foreign drone ban. But it appears the FCC is [&#8230;]",
+          "published": "2026-07-10T18:35:18-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "In dieser Woche stand die EU-Tech-Regulierung im Fokus, insbesondere die Auswirkungen des Digital Services Act auf große Plattformen wie Meta. Die EU fordert von Meta, Autoplay und unendliches Scrollen abzuschalten, um hohe Geldstrafen zu vermeiden. Zudem gibt es Entwicklungen im Bereich Datenschutz und Überwachung, wie den Staatstrojaner, gegen den rechtliche Schritte unternommen werden. Diese Themen verdeutlichen den zunehmenden Druck auf Technologieunternehmen, sich an striktere Vorschriften zu halten und den Datenschutz zu gewährleisten.",
+      "highlights": [
+        "EU fordert Meta auf, Autoplay und unendliches Scrollen abzuschalten.",
+        "Digital Services Act könnte massive Änderungen auf Meta-Plattformen erzwingen.",
+        "Rechtliche Schritte gegen den Einsatz von Staatstrojanern durch den BND.",
+        "Europäischer Gerichtshof für Menschenrechte könnte Grundsatzentscheidung treffen."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "The “silent hallucination” loop: how our autonomous data pipeline poisoned its own vector store",
+          "link": "https://thenewstack.io/silent-llm-hallucination-loop/",
+          "summary": "Nothing matches the dread of checking a perfectly green observability dashboard with sub-100ms latency, right before an enterprise client emails The post The &#8220;silent hallucination&#8221; loop: how our autonomous data pipeline poisoned its own vector store appeared first on The New Stack .",
+          "published": "Thu, 09 Jul 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "In dieser Woche wurde das Thema Observability durch einen Artikel über die Herausforderungen autonomer Datenpipelines und deren Auswirkungen auf Vektorspeicher verstärkt. Der Beitrag beleuchtet die Problematik der 'silent hallucination', bei der eine fehlerhafte Datenverarbeitung trotz optimaler Dashboard-Anzeigen zu ernsthaften Problemen führen kann. Diese Thematik verdeutlicht die Notwendigkeit, nicht nur auf Metriken zu vertrauen, sondern auch tiefere Analysen und Überwachungsmechanismen zu implementieren, um versteckte Fehler zu identifizieren.",
+      "highlights": [
+        "Autonome Datenpipelines können zu fehlerhaften Vektorspeichern führen.",
+        "Die 'silent hallucination' beschreibt unerkannt bleibende Fehler trotz grüner Dashboard-Anzeigen.",
+        "Unternehmen müssen über oberflächliche Metriken hinausblicken, um echte Probleme zu erkennen.",
+        "Die Bedeutung von tiefgehender Observability wird zunehmend erkannt.",
+        "Fehlerhafte Datenverarbeitung kann zu ernsthaften Auswirkungen auf Kundenbeziehungen führen."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "KW 28: Die Woche, in der die Zone geflutet wurde",
+          "link": "https://netzpolitik.org/2026/kw-28-die-woche-in-der-die-zone-geflutet-wurde/",
+          "summary": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 28. Kalenderwoche geht zu Ende. Wir haben 19 neue Texte mit insgesamt 139.659 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 11 Jul 2026 06:15:22 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Fitbit Air im Triathlon-Check: Günstiger als Whoop – genauso gut?",
+          "link": "https://t3n.de/news/fitbit-air-triathlon-check-1751700/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Whoop ist bei Sport-Influencer:innen und Profis beliebt, allerdings an ein teures Abomodell gekoppelt. Mit dem Fitbit Air hat Google eine Alternative für unter 100 Euro im Angebot. Kann das Armband mithalten? Wir haben es angelegt. weiterlesen auf t3n.de",
+          "published": "Sat, 11 Jul 2026 07:00:15 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Datenträger schlagen Downloads: Deshalb kaufe ich Filme nur noch auf Blu-ray",
+          "link": "https://t3n.de/news/datentraeger-downloads-filme-blu-ray-1750398/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Box mit den DVDs und Blu-rays hat unser Autor schon vor Jahren in den Keller verbannt. Doch durch eine aktuelle Meldung werden die Datenträger plötzlich wieder aktuell. Anders als digitale Inhalte gehören sie einem schließlich wirklich. weiterlesen auf t3n.de",
+          "published": "Sat, 11 Jul 2026 06:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nach US-Vorwürfen wegen mangelndem Kinderschutz: Meta droht auch in der EU eine Milliardenstrafe",
+          "link": "https://t3n.de/news/kinderschutz-meta-eu-strafe-1752394/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In den USA sieht sich Meta mit Vorwürfen konfrontiert, Facebook und Instagram würden Kinder süchtig machen. Jetzt erhöht auch die EU den Druck. Weil die Meta-Apps gegen EU-Recht verstoßen sollen, droht dem Zuckerberg-Konzern eine Milliardenstrafe. weiterlesen auf t3n.de",
+          "published": "Fri, 10 Jul 2026 20:28:07 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Alternativer Antrieb für Satelliten im All: Nicht chemisch oder elektrisch, sondern durch Magnet",
+          "link": "https://t3n.de/news/antrieb-satelliten-magnetfeld-1752377/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Normalerweise verändern Satelliten ihre Richtung durch chemische Treibstoffe oder elektrische Energie. Ein Unternehmen verwendete jetzt supraleitende Magneten, die mit dem Magnetfeld der Erde reagieren. Damit soll nachhaltige Technik im Weltraum gefördert werden. weiterlesen auf t3n.de",
+          "published": "Fri, 10 Jul 2026 19:00:01 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Geheimdienstreform: Zeitenwende für Spione",
+          "link": "https://netzpolitik.org/2026/geheimdienstreform-zeitenwende-fuer-spione/",
+          "summary": "Innenminister Dobrindt will BND und BfV aufrüsten. – BfV - Alle Rechte vorbehalten: IMAGO / newspix, BND - CC BY 2.0 : Alper Çuğun , Dobrindt - CC BY 4.0 : European Union Bundesnachrichtendienst und Verfassungsschutz sollen „echte“ Geheimdienste werden, sagt Innenminister Dobrindt. Jetzt zeigt der Entwurf für die Komplettreform, was das heißt: Zurückhacken, Abschnorcheln, Kameras anzapfen – und das mit weniger öffentlicher Kontrolle als zuvor.",
+          "published": "Fri, 10 Jul 2026 14:32:19 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Linkedin-Posts mit KI analysieren: Mit diesem Prompt findest du heraus, welcher Content funktioniert",
+          "link": "https://t3n.de/news/linkedin-posts-ki-analysieren-prompt-content-analyse-1752323/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Du postest auf Linkedin, aber weißt nie, warum manche Beiträge mehr Reaktionen bekommen und andere floppen? Bei t3n MeisterPrompter erfährst du, wie du mit KI deine eigenen Postings auswertest und daraus konkrete Regeln für neuen Content ableitest. weiterlesen auf t3n.de",
+          "published": "Fri, 10 Jul 2026 14:45:12 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Messenger mit digitalen Brieftauben: Wie eine kostenlose App deine Nachrichten entschleunigen will",
+          "link": "https://t3n.de/news/messenger-digitale-brieftaube-kostenlose-app-nachrichten-entschleunigen-1752226/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn dir Whatsapp und Facebook Messenger zu schnelllebig sind, kannst du deine Nachrichten jetzt mit Roost entschleunigen. Denn in der App bringen Vögel deine Nachrichten langsam ans Ziel. weiterlesen auf t3n.de",
+          "published": "Fri, 10 Jul 2026 13:30:13 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "In der vergangenen Woche wurden verschiedene technologische Entwicklungen und Trends thematisiert, die von der Analyse von Social-Media-Inhalten bis hin zu innovativen Ansätzen im Bereich der Satellitentechnologie reichen. Besonders hervorzuheben ist der Fokus auf nachhaltige Lösungen und die zunehmende Bedeutung von Datenschutz und Nutzerkontrolle. Während Unternehmen wie Meta unter Druck geraten, ihre Praktiken zu überdenken, zeigen neue Apps, wie Nutzer ihre Kommunikation entschleunigen können.",
+      "highlights": [
+        "Meta droht in der EU eine Milliardenstrafe aufgrund von Verstößen gegen EU-Recht.",
+        "Ein Unternehmen entwickelt Satellitenantriebe, die mit supraleitenden Magneten arbeiten.",
+        "Die App Roost bietet eine entschleunigte Nachrichtenübermittlung durch digitale Brieftauben.",
+        "Fitbit Air wird als kostengünstige Alternative zu teuren Sporttrackern wie Whoop vorgestellt.",
+        "Die Analyse von Linkedin-Posts mittels KI soll Nutzern helfen, effektiveren Content zu erstellen."
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "KI-Update Deep-Dive: KI im Handwerk – Mehr als nur ein Werkzeug",
+          "link": "https://www.heise.de/news/KI-Update-Deep-Dive-KI-im-Handwerk-Mehr-als-nur-ein-Werkzeug-11341646.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "KI verspricht Handwerksbetrieben mehr Effizienz. Doch entscheidend für den Erfolg sind nicht die Tools, sondern klare Strukturen und Prozesse.",
+          "published": "2026-07-10T15:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "In dieser Woche wurde die Rolle von Künstlicher Intelligenz (KI) im Handwerk thematisiert, wobei der Fokus auf der Effizienzsteigerung durch den Einsatz intelligenter Systeme lag. Es wurde betont, dass der Erfolg nicht allein von den Technologien abhängt, sondern vielmehr von der Implementierung klarer Strukturen und Prozesse in den Betrieben. Dies verdeutlicht die Notwendigkeit einer nachhaltigen Integration von KI, um langfristige Vorteile zu erzielen.",
+      "highlights": [
+        "KI kann die Effizienz in Handwerksbetrieben erheblich steigern.",
+        "Entscheidend für den Erfolg sind klare Strukturen und Prozesse.",
+        "Die Implementierung von KI erfordert eine nachhaltige Strategie.",
+        "Handwerksbetriebe müssen sich auf die Anpassung ihrer Arbeitsabläufe konzentrieren.",
+        "Technologische Tools sind nur so gut wie ihre Anwendung im Betrieb."
+      ]
+    }
+  ]
+}
