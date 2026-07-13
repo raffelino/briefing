@@ -1,0 +1,277 @@
+{
+  "date": "2026-07-13",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Data Science: JupyterLab 4.6 bringt Neuerungen für Usability und Accessibility",
+          "link": "https://www.heise.de/news/Data-Science-JupyterLab-4-6-bringt-Neuerungen-fuer-Usability-und-Accessibility-11356115.html",
+          "summary": "Eine neue Scratchpad-Konsole, zusätzliche benutzerdefinierte Anpassungsmöglichkeiten und eine erhöhte Barrierefreiheit sind für Jupyter-User verfügbar.",
+          "published": "2026-07-08T06:42:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "JupyterLab 4.6 bietet Nutzern verbesserte Usability und Accessibility durch eine neue Scratchpad-Konsole und erweiterte Anpassungsmöglichkeiten. Diese Updates zielen darauf ab, die Benutzererfahrung zu optimieren.",
+      "highlights": [
+        "Einführung einer neuen Scratchpad-Konsole für flexiblere Arbeitsabläufe.",
+        "Erweiterte benutzerdefinierte Anpassungsmöglichkeiten für individuelle Bedürfnisse.",
+        "Verbesserte Barrierefreiheit zur Unterstützung einer breiteren Nutzerbasis."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Meet Brain, the AI that decides when Azure is officially down",
+          "link": "https://thenewstack.io/inside-azure-brain/",
+          "summary": "Microsoft recently took the wraps off Brain, the internal AI system that continuously monitors Azure&#8217;s health and, increasingly, acts on The post Meet Brain, the AI that decides when Azure is officially down appeared first on The New Stack .",
+          "published": "Sun, 12 Jul 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Giant Swarm öffnet KI-Agenten-Plattform in Kubernetes-Umgebungen für Kunden",
+          "link": "https://www.heise.de/news/Giant-Swarm-oeffnet-KI-Agenten-Plattform-in-Kubernetes-Umgebungen-fuer-Kunden-11359005.html",
+          "summary": "Giant Swarm will KI-Agenten als isolierte Workloads in eigenen Kubernetes-Clustern betreiben – On-Premises, Air-gapped oder hybrid, ohne SaaS-Abhängigkeit.",
+          "published": "2026-07-09T13:45:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "(g+) Artificial Intelligence: Who cleans up after the vibe-coding party?",
+          "link": "https://www.golem.de/news/artificial-intelligence-who-cleans-up-after-the-vibe-coding-party-2607-210787.html",
+          "summary": "Our obsession with AI code-writing tools is overwhelming the web's unsung human caretakers. Von Sam Learner ( KI , Softwareentwicklung )",
+          "published": "2026-07-13T09:48:09+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "(g+) Prozessor-Geschwindigkeit: Warum Zahlen in Textform CPUs ausbremsen können",
+          "link": "https://www.golem.de/news/prozessor-geschwindigkeit-warum-zahlen-in-textform-cpus-ausbremsen-koennen-2607-210597.html",
+          "summary": "Die Ausgabe von 64-Bit-Integern mit AVX-512 lässt sich beschleunigen. Das spart Divisionen - doch nicht jede Anwendung profitiert automatisch. Ein Bericht von Oliver Jessner ( Prozessor , JSON )",
+          "published": "2026-07-11T10:00:09+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
+          "link": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
+          "summary": "Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closing of the deal by 60 days so that his office could review the documents. But according to Deadline and Variety, he's now dropped his [&#8230;]",
+          "published": "2026-07-11T14:44:12-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Cloud-Architektur umfassen Microsofts Einführung von Brain, einem KI-System zur Überwachung von Azure, sowie Giant Swarms neue Plattform für KI-Agenten in Kubernetes-Umgebungen. Diese Fortschritte zeigen den Trend zu mehr Automatisierung und Flexibilität in Cloud-Diensten.",
+      "highlights": [
+        "Microsoft präsentiert Brain, ein KI-System zur kontinuierlichen Überwachung der Azure-Gesundheit.",
+        "Giant Swarm ermöglicht den Betrieb von KI-Agenten in isolierten Kubernetes-Clustern, ohne SaaS-Abhängigkeit.",
+        "Die neuen Lösungen bieten On-Premises, Air-gapped oder hybride Bereitstellungsoptionen."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Digital-Health-Podcast: Wie ein mehrfach Betroffener Datenlecks verhindern will",
+          "link": "https://www.heise.de/hintergrund/Digital-Health-Podcast-Wie-ein-mehrfach-Betroffener-Datenlecks-verhindern-will-11362114.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Cyberangriffe und Datenlecks im Gesundheitswesen sorgen für Unsicherheit. Wie ein mehrfach Betroffener selbst handelt und wo es hakt, zeigt diese Podcast-Folge.",
+          "published": "2026-07-13T08:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit",
+          "link": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-11347527.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Erfahren Sie, wie künstliche Intelligenz in der IT-Sicherheit eingesetzt werden kann: Überblick, Methoden, Werkzeuge und praktische Anwendung.",
+          "published": "2026-07-12T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Schwachstelle in Coding-Agenten: Zugriff auf beliebige Dateien über Symlinks",
+          "link": "https://www.heise.de/news/Schwachstelle-in-Coding-Agenten-Zugriff-auf-beliebige-Dateien-ueber-Symlinks-11358849.html",
+          "summary": "Angreifer könnten über ein Repository mit Schadcode auch Zugriff auf Dateien außerhalb einer Sandbox erhalten.",
+          "published": "2026-07-09T07:54:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "IT-Vorfall bei Dienstleister: Lidl informiert Kunden über Datenleck",
+          "link": "https://www.golem.de/news/it-vorfall-bei-dienstleister-lidl-informiert-kunden-ueber-datenleck-2607-210785.html",
+          "summary": "Unbekannte Angreifer sind über einen IT-Dienstleister an Kundendaten des Lidl-Shops gelangt. Betroffene wurden per E-Mail informiert. ( Datenleck , Onlineshop )",
+          "published": "2026-07-13T08:40:07+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Gaming: Retro Achievements bringt Trophäen in alte Spiele",
+          "link": "https://www.golem.de/news/gaming-retro-achievements-bringt-trophaeen-in-alte-spiele-2607-209984.html",
+          "summary": "Fast 1,8 Millionen Spieler sammeln inzwischen Erfolge in Retrogames. Hinter dem Projekt steckt die Idee eines ehemaligen Spieleentwicklers. Von Sönke Siemens und Benedikt Plass-Fleßenkämper ( Retrogaming , Xbox 360 )",
+          "published": "2026-07-11T07:30:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle Nachrichten zur IT-Sicherheit zeigen die Herausforderungen im Gesundheitswesen und bei Dienstleistern. Cyberangriffe und Datenlecks sind weiterhin ein großes Problem, während neue Technologien wie KI in der IT-Sicherheit an Bedeutung gewinnen.",
+      "highlights": [
+        "Podcast über persönliche Erfahrungen mit Datenlecks im Gesundheitswesen.",
+        "Schwachstelle in Coding-Agenten ermöglicht Zugriff auf Dateien außerhalb von Sandboxes.",
+        "Lidl informiert Kunden über Datenleck durch Angreifer über IT-Dienstleister."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "5 Dinge, die du diese Woche wissen musst: Das Ende einer Ära",
+          "link": "https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-das-ende-einer-aera-1752220/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um das Ende physischer Medien, Vibe-Working, Claude, Fusionsreaktoren und lokale KI-Modelle. weiterlesen auf t3n.de",
+          "published": "Mon, 13 Jul 2026 08:00:13 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Degitalisierung: Look behind you",
+          "link": "https://netzpolitik.org/2026/degitalisierung-look-behind-you/",
+          "summary": "Nebelkerze (Symbolbild). – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Sara Kurfeß Die letzten Wochen waren voller dreiköpfiger Affen, mit denen die tollpatschig bis fintenreich agierende Bundesregierung von ihren Gesetzesvorhaben ablenken will. Was will sie aber damit eigentlich erreichen?",
+          "published": "Sun, 12 Jul 2026 07:00:03 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "Die aktuellen Entwicklungen im Bereich DevOps und Test-Automatisierung stehen im Kontext der Digitalisierung und der Veränderungen in der Arbeitswelt. Themen wie das Ende physischer Medien und der Einsatz lokaler KI-Modelle beeinflussen die Branche nachhaltig.",
+      "highlights": [
+        "Ende physischer Medien als Trend in der Digitalisierung.",
+        "Vibe-Working als neues Arbeitskonzept, das Flexibilität fördert.",
+        "Wachsende Bedeutung lokaler KI-Modelle für Unternehmen."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "RootAsRole 4.0: Mehr Kontrolle als bei sudo",
+          "link": "https://www.heise.de/news/RootAsRole-4-0-Mehr-Kontrolle-als-bei-sudo-11358217.html",
+          "summary": "RootAsRole 4.0 erweitert die sudo-Alternative um ein neues Ausführungsmodell und feinere Richtlinien für privilegierte Linux-Befehle.",
+          "published": "2026-07-08T13:44:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "RootAsRole 4.0 bietet eine erweiterte Alternative zu sudo mit einem neuen Ausführungsmodell und präziseren Richtlinien für privilegierte Befehle in Linux. Dies ermöglicht eine verbesserte Kontrolle über Benutzerrechte und Sicherheitsrichtlinien.",
+      "highlights": [
+        "Neues Ausführungsmodell für privilegierte Befehle",
+        "Feinere Richtlinien zur Steuerung von Benutzerrechten",
+        "Erweiterte Sicherheitsfunktionen im Vergleich zu sudo"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "How to Build More Resilient Local-First Applications With AT Protocol Infrastructure",
+          "link": "https://www.infoq.com/news/2026/07/atproto-webapp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Jake Lazaroff discussed the AT Protocol as a framework for distributed applications beyond social networking. He emphasised a local-first architecture where users maintain data in PDSs while leveraging shared infrastructure for synchronisation and updates. The presentation included experiments showcasing collaborative tools and highlighted the benefits of reduced reliance on app-specific backends. By Olimpiu Pop",
+          "published": "Mon, 13 Jul 2026 07:07:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Large Tabular Models: Neue KI-Modelle machen Schluss mit dem Excel-Handicap",
+          "link": "https://t3n.de/news/large-tabular-models-neue-ki-modelle-machen-schluss-mit-dem-excel-handicap-1752212/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI-Tools wie ChatGPT oder Claude lassen sich in Office-Programme einklinken, wirklich zuverlässig funktioniert das gerade bei der Verarbeitung von komplexen Datensätzen aber nicht. Eine neue Modellklasse will Abhilfe schaffen. weiterlesen auf t3n.de",
+          "published": "Mon, 13 Jul 2026 06:30:52 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anthropic’s newest enterprise partner is training 20,000 people on Claude — here’s the shift it signals",
+          "link": "https://thenewstack.io/ust-anthropic-enterprise-ai-stack/",
+          "summary": "The clearest signal of a major pivot in enterprise AI came this week&#160;when&#160;Anthropic announced&#160;its second Global Premier Partner in the The post Anthropic&#8217;s newest enterprise partner is training 20,000 people on Claude — here&#8217;s the shift it signals appeared first on The New Stack .",
+          "published": "Sun, 12 Jul 2026 17:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Zwischen Druck und Chancen: Welche Agenturen überleben den KI-Wandel nicht?",
+          "link": "https://t3n.de/news/druck-chancen-welche-agenturen-ueberleben-ki-wandel-nicht-1752353/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Social-DNA-Geschäftsführer Nemo Tronnier stellt nur noch Leute ein, die KI gut nutzen. Der Mitgründer sieht durch die Technologie große Chancen, jedoch auch wachsenden Kundendruck. Er sieht den Wandel in der Branche und setzt für die Zukunft besonders auf einen Bereich. weiterlesen auf t3n.de",
+          "published": "Sun, 12 Jul 2026 15:30:01 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google-KI ist überall: So deaktivierst du Gemini in Docs, Gmail und Drive",
+          "link": "https://t3n.de/news/gemini-google-deaktivieren-docs-gmail-drive-1748822/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Verzahnung von Gemini mit den restlichen Produkten von Google wird immer enger. Noch kann man die KI-Features aber einschränken – wenn man weiß, wo man suchen muss. weiterlesen auf t3n.de",
+          "published": "Sun, 12 Jul 2026 12:10:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Entwicklungen im Bereich generative KI und LLMs zeigen Fortschritte in der Integration von KI-Tools in Anwendungen und die Anpassung an neue Anforderungen in der Branche. Unternehmen setzen zunehmend auf KI-gestützte Lösungen, während gleichzeitig Herausforderungen und Anpassungsdruck bestehen.",
+      "highlights": [
+        "AT Protocol fördert lokale Datenhaltung und reduzierte Abhängigkeit von Backend-Systemen.",
+        "Neue KI-Modelle verbessern die Verarbeitung komplexer Datensätze in Office-Anwendungen.",
+        "Anthropic bildet 20.000 Mitarbeiter auf der KI-Plattform Claude aus, was einen Wandel in der Unternehmens-KI signalisiert."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+          "link": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+          "summary": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Roc&#237;o Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an in-depth first look and revealed that it will be launching [&#8230;]",
+          "published": "2026-07-11T16:57:42-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Die Entwickler Martin Grieco und Rocío Gal haben angekündigt, dass ihr viraler Synthesizer Nopia kurz vor der Markteinführung steht. Nach jahrelanger Entwicklung wird das Produkt bald erhältlich sein.",
+      "highlights": [
+        "Nopia wurde erstmals 2023 vorgestellt und sorgte für Aufsehen in der Musikszene.",
+        "Die Entwickler präsentierten den Synthesizer in den MusicRadar-Büros für eine detaillierte Vorschau.",
+        "Die Markteinführung des Nopia steht kurz bevor."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "5G ergänzen: Diese Flugplattform soll Internet aus der Stratosphäre liefern",
+          "link": "https://t3n.de/news/5g-ergaenzen-diese-flugplattform-soll-internet-aus-der-stratosphaere-liefern-1752238/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mehrere Unternehmen entwickeln Flugplattform, die Internetzugang oder Erdbeobachtung ermöglichen sollen. Ihre besondere Position dafür ist die Stratosphäre. Das hat Vorteile, stellt die Fluggeräte aber auch vor besondere Herausforderungen. weiterlesen auf t3n.de",
+          "published": "Mon, 13 Jul 2026 09:15:23 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Eine App für alle Züge? Die Deutsche Bahn blockiert – und der Bund lässt es zu",
+          "link": "https://t3n.de/news/app-deutsche-bahn-bund-1752095/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Deutsche Bahn wehrt sich mit Händen und Füßen dagegen, den DB Navigator für die Fernverkehr-Konkurrenz zu öffnen. Das Ärgerlichste daran ist, dass der Bund sie damit immer wieder durchkommen lässt, meint unser Autor. weiterlesen auf t3n.de",
+          "published": "Mon, 13 Jul 2026 06:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Autonomes Fahren: Erstmals weltweit einheitliche Regeln für Robotaxis",
+          "link": "https://t3n.de/news/autonomes-fahren-un-regeln-1752493/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Weltforum für die Harmonisierung von Fahrzeugvorschriften der UN-Wirtschaftskommission für Europa hat einheitliche Regeln für autonom fahrende Autos beschlossen. Damit sollen regulatorische Hürden für Robotaxis abgebaut werden. weiterlesen auf t3n.de",
+          "published": "Sun, 12 Jul 2026 19:06:03 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "VW bringt 25.000-Euro-Stromer an den Start: Basis-Polo Trend kommt mit kleinem LFP-Akku",
+          "link": "https://t3n.de/news/vw-basis-polo-trend-1752469/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Zweieinhalb Monate nach dem Launch schaltet VW jetzt in seinem Konfigurator auch die Basisversion des ID Polo frei. Der Elektro-Kleinwagen kommt zum Einstiegspreis von 24.995 Euro. Käufer:innen müssen aber einige Abstriche machen. weiterlesen auf t3n.de",
+          "published": "Sun, 12 Jul 2026 13:34:20 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Satellitenbeschichtung mit Vantablack schluckt die Lichtverschmutzung im Erdorbit - und schützt die Astronomie",
+          "link": "https://t3n.de/news/vantablack-310-satelliten-lichtverschmutzung-astronomie-1752478/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die zunehmende Industrialisierung des erdnahen Orbits droht, uns die ungetrübte Sicht in den Weltraum dauerhaft zu nehmen. Nun zeigt ein britischer Forschungsansatz, wie sich das Schlimmste doch noch abwenden lassen könnte. weiterlesen auf t3n.de",
+          "published": "Sun, 12 Jul 2026 13:08:56 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Nachrichten berichten über verschiedene technologische Entwicklungen, darunter eine Flugplattform für Internetzugang aus der Stratosphäre und die Einführung einheitlicher Regeln für autonomes Fahren. Zudem wird die Blockade der Deutschen Bahn gegen eine offene App für den Fernverkehr thematisiert.",
+      "highlights": [
+        "Flugplattform in der Stratosphäre für Internet und Erdbeobachtung in Entwicklung.",
+        "Einheitliche Regeln für Robotaxis beschlossen, um regulatorische Hürden abzubauen.",
+        "Deutsche Bahn blockiert Öffnung des DB Navigators für Konkurrenz, während der Bund dies zulässt."
+      ]
+    }
+  ]
+}
