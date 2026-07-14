@@ -1,0 +1,329 @@
+{
+  "date": "2026-07-14",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Data Science: JupyterLab 4.6 bringt Neuerungen für Usability und Accessibility",
+          "link": "https://www.heise.de/news/Data-Science-JupyterLab-4-6-bringt-Neuerungen-fuer-Usability-und-Accessibility-11356115.html",
+          "summary": "Eine neue Scratchpad-Konsole, zusätzliche benutzerdefinierte Anpassungsmöglichkeiten und eine erhöhte Barrierefreiheit sind für Jupyter-User verfügbar.",
+          "published": "2026-07-08T06:42:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "JupyterLab 4.6 bietet neue Funktionen zur Verbesserung der Benutzerfreundlichkeit und Barrierefreiheit. Dazu gehören eine Scratchpad-Konsole und erweiterte Anpassungsmöglichkeiten für Nutzer.",
+      "highlights": [
+        "Einführung einer neuen Scratchpad-Konsole.",
+        "Erweiterte benutzerdefinierte Anpassungsmöglichkeiten.",
+        "Verbesserte Barrierefreiheit für alle Benutzer."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Keine Chance für Raser: EU soll Geschwindigkeitsbegrenzungen per Satellit planen",
+          "link": "https://t3n.de/news/eu-geschwindigkeitsbegrenzung-per-satellit-1752600/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Halten sich Autos künftig selbstständig an Geschwindigkeitsbegrenzungen? Die EU will Fahrzeuge mit Satelliten koppeln, um die Sicherheit auf den Straßen zu erhöhen. Warum der Vorschlag auf Kritik stößt. weiterlesen auf t3n.de",
+          "published": "Mon, 13 Jul 2026 16:00:02 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: Road to Compliance: Will Your Internal Users Hate Your Platform Team?",
+          "link": "https://www.infoq.com/presentations/platform-engineering-team-compliance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Davide de Paolis discusses the realities of rolling out cloud infrastructure compliance without fracturing developer relations. Drawing from a real-world platform team reboot at Sevdesk, he explains how to implement \"minimum viable governance\" on AWS, utilize event-driven Slack alerting to automate policy feedback, and shift from rigid enforcement to high-empathy, data-driven collaboration. By Davide de Paolis",
+          "published": "Mon, 13 Jul 2026 12:20:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Article: Removing a Hidden Round Trip from a Multi-Region AWS API",
+          "link": "https://www.infoq.com/articles/aws-multi-region-signing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "When a series of regional outages forced a rethink of a multi-region AWS API, the team discovered that an obstacle to global failover was hiding in plain sight: a pre-flight discovery call baked into every client session years earlier as the only available option. This article describes what it took to remove it, and what the rollout actually cost. By Suresh Gururajan",
+          "published": "Mon, 13 Jul 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Giant Swarm öffnet KI-Agenten-Plattform in Kubernetes-Umgebungen für Kunden",
+          "link": "https://www.heise.de/news/Giant-Swarm-oeffnet-KI-Agenten-Plattform-in-Kubernetes-Umgebungen-fuer-Kunden-11359005.html",
+          "summary": "Giant Swarm will KI-Agenten als isolierte Workloads in eigenen Kubernetes-Clustern betreiben – On-Premises, Air-gapped oder hybrid, ohne SaaS-Abhängigkeit.",
+          "published": "2026-07-09T13:45:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Cipsoft: Tibia bekommt unendlich schwere Bosse",
+          "link": "https://www.golem.de/news/cipsoft-tibia-bekommt-unendlich-schwere-bosse-2607-210811.html",
+          "summary": "Das Sommer-Update für Tibia bringt Bosskämpfe mit theoretisch unbegrenzt steigendem Schwierigkeitsgrad und die stärksten Waffen des Spiels. ( Cipsoft , MMORPG )",
+          "published": "2026-07-13T16:17:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die heutige Berichterstattung über Cloud-Architektur und Plattformen umfasst die Implementierung von Compliance in Cloud-Infrastrukturen, die Optimierung von Multi-Region-APIs bei AWS sowie die Einführung einer KI-Agenten-Plattform durch Giant Swarm in Kubernetes-Umgebungen.",
+      "highlights": [
+        "Davide de Paolis erläutert, wie man 'minimum viable governance' auf AWS umsetzt.",
+        "Ein Artikel beschreibt die Beseitigung eines versteckten Hindernisses in einer Multi-Region AWS API.",
+        "Giant Swarm bietet KI-Agenten als isolierte Workloads in Kubernetes-Clustern an."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: TornadoVM 5, JHipster, Google ADK, OmniFish Build of Payara, Introducing Vidocq",
+          "link": "https://www.infoq.com/news/2026/07/java-news-roundup-jul06-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for July 6th, 2026, features news highlighting: the GA release of TornadoVM 5.0; point releases of JHipster, Keycloak and Google ADK; maintenance releases of GraalVM Native Build Tools and Micronaut; the OmniFish Build of Payara and introducing Vidocq, a new implementation of the Jakarta EE 11 Core Profile and MicroProfile 7.1. By Michael Redlich",
+          "published": "Mon, 13 Jul 2026 12:40:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Die aktuelle Java-Rundschau vom 6. Juli 2026 berichtet über die Veröffentlichung von TornadoVM 5.0 sowie über Aktualisierungen von JHipster, Keycloak und Google ADK. Zudem wurden Wartungsversionen von GraalVM Native Build Tools und Micronaut veröffentlicht, und Vidocq, eine neue Implementierung des Jakarta EE 11 Core Profile, wurde vorgestellt.",
+      "highlights": [
+        "Veröffentlichung von TornadoVM 5.0 als GA-Version.",
+        "Wartungsversionen für GraalVM Native Build Tools und Micronaut veröffentlicht.",
+        "Einführung von Vidocq, einer neuen Implementierung des Jakarta EE 11 Core Profile und MicroProfile 7.1."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Alte Cisco-Lücke attackiert: Leitfaden zum Schutz",
+          "link": "https://www.heise.de/news/Alte-Cisco-Luecke-attackiert-Leitfaden-zum-Schutz-11363639.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die US-IT-Sicherheitsbehörde CISA warnt vor Angriffen auf eine 18 Jahre alte Cisco-Lücke. Ein Leitfaden soll helfen, Router abzusichern.",
+          "published": "2026-07-14T07:38:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Schwachstelle in Coding-Agenten: Zugriff auf beliebige Dateien über Symlinks",
+          "link": "https://www.heise.de/news/Schwachstelle-in-Coding-Agenten-Zugriff-auf-beliebige-Dateien-ueber-Symlinks-11358849.html",
+          "summary": "Angreifer könnten über ein Repository mit Schadcode auch Zugriff auf Dateien außerhalb einer Sandbox erhalten.",
+          "published": "2026-07-09T07:54:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "(g+) Cybersecurity: Wie eine Erpressergruppe reihenweise Peoplesoft-Systeme abräumt",
+          "link": "https://www.golem.de/news/cybersecurity-wie-eine-erpressergruppe-reihenweise-peoplesoft-systeme-abraeumt-2607-210692.html",
+          "summary": "Eine ungepatchte Peoplesoft-Lücke wird als Zero Day ausgenutzt, mit prominenten Opfern. Worauf Admins achten müssen. Ein Ratgebertext von Steffen Zahn ( Sicherheitslücke , Oracle )",
+          "published": "2026-07-13T13:30:04+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Datenpanne auf Github: US-Cyberbehörde hat eigene Security-Empfehlungen missachtet",
+          "link": "https://www.golem.de/news/us-cyberbehoerde-echte-datenpanne-lehrt-cisa-umgang-mit-datenpannen-2607-210793.html",
+          "summary": "Monatelang standen geheime Daten der Cisa öffentlich auf Github. Jetzt gesteht die Behörde, ihre eigenen Empfehlungen nicht eingehalten zu haben. ( Datenleck , Sicherheitslücke )",
+          "published": "2026-07-13T11:12:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle Sicherheitswarnungen betreffen mehrere kritische IT-Schwachstellen, darunter eine 18 Jahre alte Cisco-Lücke und eine Zero-Day-Schwachstelle in Peoplesoft-Systemen. Zudem wurde eine Datenpanne bei der US-Cyberbehörde CISA aufgedeckt, die eigene Sicherheitsrichtlinien missachtet hat.",
+      "highlights": [
+        "CISA warnt vor Angriffen auf eine 18 Jahre alte Cisco-Lücke.",
+        "Zero-Day-Schwachstelle in Peoplesoft-Systemen wird aktiv ausgenutzt.",
+        "Geheime Daten der CISA waren monatelang öffentlich auf Github zugänglich."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Gegenwind für Bundesregierung: Mehr als eine halbe Million Menschen wollen Informationsfreiheit retten",
+          "link": "https://netzpolitik.org/2026/gegenwind-fuer-bundesregierung-mehr-als-eine-halbe-million-menschen-wollen-informationsfreiheit-retten/",
+          "summary": "Sollte die Bundesregierung die Pläne umsetzen, wird es für Bürger:innen und Presse noch schwieriger an staatliche Dokumente zu kommen. (Symbolbild) – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Anastassia Anufrieva Damit hat Schwarz-Rot offenbar nicht gerechnet: Heftige Kritik am Angriff auf die staatliche Transparenz kommt nicht nur von der Opposition, sondern aus der Koalition selbst. Dazu erreicht eine Petition gegen das Vorhaben bemerkenswerten Zulauf.",
+          "published": "Mon, 13 Jul 2026 14:48:05 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Urteil: Instagram muss sich deutschem Urheberrecht auch im Ausland beugen",
+          "link": "https://www.heise.de/news/Instagram-Fotos-im-Fokus-Deutsches-Urheberrecht-gilt-auch-bei-Auslandsbezug-11363477.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein Urteil des Landgerichts Frankfurt stärkt Rechte von Fotografen auf Social-Media-Plattformen und präzisiert Haftungsregeln für Host-Provider nach dem DSA.",
+          "published": "2026-07-13T18:48:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Bundesregierung sieht sich massiver Kritik gegenüber, da eine Petition zur Rettung der Informationsfreiheit über 500.000 Unterstützer:innen gewonnen hat. Gleichzeitig stärkt ein Urteil des Landgerichts Frankfurt die Rechte von Fotografen auf Instagram und präzisiert die Haftungsregeln für Plattformen.",
+      "highlights": [
+        "Über 500.000 Menschen unterstützen die Petition gegen die Pläne der Bundesregierung zur Informationsfreiheit.",
+        "Kritik kommt sowohl von der Opposition als auch aus der Koalition selbst.",
+        "Das Urteil des Landgerichts Frankfurt betrifft die Haftung von Social-Media-Plattformen gemäß deutschem Urheberrecht."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Solution to Feynman's reverse sprinkler puzzle also applies to \"silly sprinklers\"",
+          "link": "https://arstechnica.com/science/2026/07/solution-to-feynmans-reverse-sprinkler-puzzle-also-applies-to-silly-sprinklers/",
+          "summary": "New study confirms 2024 \"momentum flux theory\" on how angular momentum of water flows drives rotation.",
+          "published": "Mon, 13 Jul 2026 19:00:47 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Sicherheitsgesetz-Welle: Einer Demokratie unwürdig",
+          "link": "https://netzpolitik.org/2026/sicherheitsgesetz-welle-einer-demokratie-unwuerdig/",
+          "summary": "Video-KI, Gesichtersuchmaschine, Megadatenbank: Die Möglichkeiten polizeilicher Einsichtnahme werden massiv entgrenzt. – Alle Rechte vorbehalten: Imago / fStopImages Am Freitag hat der Bundestag den Einsatz von KI-Kameras an Bahnhöfen beschlossen. Weitere automatisierte Überwachungstools sollen folgen. Doch die haben in einer Demokratie nichts verloren. Ein Kommentar.",
+          "published": "Mon, 13 Jul 2026 12:39:22 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "RootAsRole 4.0: Mehr Kontrolle als bei sudo",
+          "link": "https://www.heise.de/news/RootAsRole-4-0-Mehr-Kontrolle-als-bei-sudo-11358217.html",
+          "summary": "RootAsRole 4.0 erweitert die sudo-Alternative um ein neues Ausführungsmodell und feinere Richtlinien für privilegierte Linux-Befehle.",
+          "published": "2026-07-08T13:44:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Agile Methoden und UX/UI-Design sind entscheidend für die Entwicklung benutzerfreundlicher Software. Sie fördern eine iterative Herangehensweise, die auf Nutzerfeedback basiert und schnelle Anpassungen ermöglicht.",
+      "highlights": [
+        "Agile Methoden betonen Flexibilität und Anpassungsfähigkeit in der Softwareentwicklung.",
+        "UX/UI-Design zielt darauf ab, die Benutzererfahrung durch intuitive Schnittstellen zu verbessern.",
+        "Die Kombination von Agile und UX/UI führt zu effizienteren Entwicklungsprozessen und höheren Nutzerzufriedenheiten."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "The US government warns that Russia state hackers are coming after your router",
+          "link": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+          "summary": "With residential proxies all the rage, CISA urges router users to be vigilant.",
+          "published": "Mon, 13 Jul 2026 21:03:07 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+          "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+          "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
+          "published": "Mon, 13 Jul 2026 19:17:51 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Anthropic extends Fable 5 again — and won’t talk about what developers found inside Cursor",
+          "link": "https://thenewstack.io/fable-5-honeycomb-opus/",
+          "summary": "Anthropic has extended its enhanced access to Claude Fable 5 for all paid subscribers through July 19, marking the third The post Anthropic extends Fable 5 again — and won&#8217;t talk about what developers found inside Cursor appeared first on The New Stack .",
+          "published": "Mon, 13 Jul 2026 17:10:27 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "A \"disaster waiting to happen\"? Industry officials worry about Crew Dragon availability.",
+          "link": "https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/",
+          "summary": "\"It's very clear that in the United States there is a big need for an additional crew vehicle.\"",
+          "published": "Mon, 13 Jul 2026 16:05:03 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Now, defenders are embracing the prompt injection, too",
+          "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+          "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
+          "published": "Mon, 13 Jul 2026 15:06:34 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Die Entwicklungen im Bereich der generativen KI und LLMs zeigen sowohl Fortschritte als auch Herausforderungen. Unternehmen wie OpenAI und Anthropic stehen im Mittelpunkt von rechtlichen Auseinandersetzungen und Sicherheitsbedenken.",
+      "highlights": [
+        "Apple verklagt OpenAI wegen des Diebstahls von Geschäftsgeheimnissen durch einen ehemaligen Ingenieur.",
+        "Anthropic verlängert den Zugang zu Claude Fable 5 für zahlende Abonnenten bis zum 19. Juli.",
+        "CISA warnt vor russischen Hackern, die gezielt Router angreifen wollen."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Krankenhaus-IT: Wenn „läuft doch noch“ nicht reicht",
+          "link": "https://www.heise.de/news/Krankenhaus-IT-Wenn-laeuft-doch-noch-nicht-reicht-11362176.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Alte Hardware und Software in Kliniken sind oft nicht mehr legal oder sicher. NIS2 und B3S zwingen Krankenhäuser zu umfassendem Risikomanagement.",
+          "published": "2026-07-13T13:37:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anzeige: Cloud Competence Center: Roadmap und Governance",
+          "link": "https://www.golem.de/news/anzeige-cloud-competence-center-roadmap-und-governance-2607-206827.html",
+          "summary": "Ein Cloud Competence Center bündelt Rollen, Verantwortung und Entscheidungswege für die Cloud. Ein Workshop zeigt, wie sich Cloud-Strategie, Governance und Change/Adoption zusammenführen lassen. ( Golem Karrierewelt , Internet )",
+          "published": "2026-07-14T07:15:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die EU-Tech-Regulierung fordert von Krankenhäusern ein umfassendes Risikomanagement, um die Sicherheit veralteter IT-Systeme zu gewährleisten. Gleichzeitig wird die Bedeutung von Cloud-Strategien und Governance durch die Einrichtung von Cloud Competence Centers hervorgehoben.",
+      "highlights": [
+        "NIS2 und B3S verpflichten Krankenhäuser zu einem effektiven Risikomanagement.",
+        "Veraltete IT-Systeme in Kliniken sind häufig nicht mehr legal oder sicher.",
+        "Cloud Competence Centers optimieren Rollen und Entscheidungswege für Cloud-Strategien."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Girocard lernt neuen Trick: Warum Hotels und Autovermietungen bald keine Kreditkarte mehr erfordern",
+          "link": "https://t3n.de/news/girocard-lernt-neuen-trick-warum-hotels-und-autovermietungen-bald-keine-kreditkarte-mehr-erfordern-1752570/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kautionen und Reservierungsgarantien lassen sich mit der Girocard bislang nur schwer abwickeln, weil Beträge nicht flexibel blockiert werden können, ohne sie gleich abzubuchen. Eine technische Erweiterung des Zahlungssystems soll diese Lücke schließen. weiterlesen auf t3n.de",
+          "published": "Mon, 13 Jul 2026 13:00:37 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Girocard erhält eine technische Erweiterung, die es Hotels und Autovermietungen ermöglicht, Kautionen und Reservierungsgarantien ohne Kreditkarte abzuwickeln. Dies geschieht durch die flexible Blockierung von Beträgen, ohne sie sofort abzubuchen.",
+      "highlights": [
+        "Girocard kann künftig Kautionen flexibel blockieren.",
+        "Hotels und Autovermietungen benötigen keine Kreditkarte mehr.",
+        "Technische Erweiterung des Zahlungssystems zur Verbesserung der Abwicklung."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Produktiver mit KI: Drei Stunden früher fertig als geplant – was macht das mit unserer Arbeitszeit?",
+          "link": "https://t3n.de/news/produktiver-mit-ki-drei-stunden-frueher-fertig-als-geplant-was-macht-das-mit-unserer-arbeitszeit-1752572/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Künstliche Intelligenz sorgt dafür, dass wir unsere Arbeit schneller erledigen als früher. Jetzt müssen wir ehrlich diskutieren, wer von diesem Produktivitätssp weiterlesen auf t3n.de",
+          "published": "Tue, 14 Jul 2026 07:30:50 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Hackers quickly prove that Neo Geo Doom ports are not \"impossible\"",
+          "link": "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/",
+          "summary": "Clever coding and graphical compromises get a classic game on more classic hardware.",
+          "published": "Mon, 13 Jul 2026 16:37:14 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Neue Chips: Apple überspringt M6 teilweise – was das mit dem Boom bei lokaler KI zu tun hat",
+          "link": "https://t3n.de/news/neue-chips-apple-ueberspringt-m6-teilweise-was-das-mit-dem-boom-bei-lokaler-ki-zu-tun-hat-1752546/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Von Apples im Herbst erscheinendem M6-Prozessor soll es ungewöhnlicherweise keine Pro- und Max-Varianten geben. Der Grund ist: Apple setzt alles auf den M7, der bei KI mit Nvidia gleichziehen könnte. weiterlesen auf t3n.de",
+          "published": "Mon, 13 Jul 2026 14:30:52 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Graustufen-Bild vom Jupiter: Wie dieser Mann mit einem Gameboy die Sterne fotografiert",
+          "link": "https://t3n.de/news/graustufen-bild-vom-jupiter-wie-dieser-mann-mit-einem-gameboy-die-sterne-fotografiert-1752577/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Obwohl die Kamera technisch nicht viel zu bieten hatte, war sie Ende der 90er überraschend beliebt. Mithilfe eines Adapters aus dem 3D-Drucker kam sie jetzt sogar in der Astrofotografie zum Einsatz. weiterlesen auf t3n.de",
+          "published": "Mon, 13 Jul 2026 14:00:36 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Windows 11: So soll dein Smartphone besser ins Betriebssystem integriert werden",
+          "link": "https://t3n.de/news/windows-11-smartphone-besser-integrieren-1752568/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Windows-11-Nutzer:innen können ihr Smartphone schon jetzt mit dem Betriebssystem verbinden. Doch Microsoft will die Verbindung künftig noch komfortabler gestalten. Wie das umgesetzt werden soll. weiterlesen auf t3n.de",
+          "published": "Mon, 13 Jul 2026 13:30:02 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Nachrichten zeigen aktuelle Entwicklungen in der Technologie, insbesondere im Bereich der Künstlichen Intelligenz und Hardware-Innovationen. Während KI die Produktivität steigert, experimentieren Entwickler mit klassischen Spielen auf neuer Hardware. Zudem plant Microsoft eine verbesserte Integration von Smartphones in Windows 11.",
+      "highlights": [
+        "Künstliche Intelligenz ermöglicht schnellere Arbeitsabläufe und erfordert eine Diskussion über Produktivität.",
+        "Apple fokussiert sich auf den M7-Prozessor, um im KI-Bereich mit Nvidia zu konkurrieren.",
+        "Microsoft verbessert die Smartphone-Integration in Windows 11 für eine komfortablere Nutzung."
+      ]
+    }
+  ]
+}
