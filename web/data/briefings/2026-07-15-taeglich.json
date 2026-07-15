@@ -1,0 +1,263 @@
+{
+  "date": "2026-07-15",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud's Jupyter Notebooks",
+          "link": "https://www.infoq.com/news/2026/07/cloud-workbench-vscode-extension/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The Google Cloud Workbench Notebooks extension for VS Code is a new tool that enables developers to connect their local IDE directly to managed Jupyter notebook environments on Google Cloud. By Sergio De Simone",
+          "published": "Tue, 14 Jul 2026 22:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+          "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+          "summary": "Meta denies using AI to terminate workers with disabilities and medical problems.",
+          "published": "Tue, 14 Jul 2026 20:05:53 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "AWS will now watch Microsoft’s cloud for you",
+          "link": "https://thenewstack.io/aws-security-hub-azure/",
+          "summary": "On Tuesday, AWS announced an expansion to&#160;Security Hub, its security operations service, to also monitor Microsoft Azure resources, in addition The post AWS will now watch Microsoft&#8217;s cloud for you appeared first on The New Stack .",
+          "published": "Tue, 14 Jul 2026 19:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Linkerd 2.20 Delivers Smarter Traffic Management and Dramatic Efficiency Gains",
+          "link": "https://www.infoq.com/news/2026/07/linkerd-2-20-improvements/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The Linkerd community has announced the release of Linkerd 2.20, introducing a series of performance, observability, and traffic management enhancements that further strengthen the CNCF-graduated service mesh's position as a lightweight alternative for Kubernetes networking. By Craig Risi",
+          "published": "Tue, 14 Jul 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Whatcable: Diese Mac-Tool zeigt dir, was dein USB-C-Kabel kann",
+          "link": "https://t3n.de/news/whatcable-diese-mac-tool-zeigt-dir-was-dein-usb-c-kabel-kann-1752742/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "USB-C-Kabel können einen sehr hohen Datendurchsatz haben, oder einen sehr niedrigen. Auch bei der Ladegeschwindigkeit gibt es Unterschiede. Mit diesem Tool bekommst du am Mac mehr Infos dazu. weiterlesen auf t3n.de",
+          "published": "Tue, 14 Jul 2026 13:45:12 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die heutige Nachrichtenlage im Bereich Cloud-Architektur und Plattformen umfasst neue Tools und Entwicklungen von großen Anbietern. Google Cloud hat eine Erweiterung für VS Code vorgestellt, während AWS seine Sicherheitsdienste auf Microsoft Azure ausweitet. Zudem hat Linkerd ein Update veröffentlicht, das die Effizienz und das Traffic-Management verbessert.",
+      "highlights": [
+        "Google Cloud Workbench Notebooks verbindet VS Code mit Jupyter Notebooks auf Google Cloud.",
+        "AWS erweitert Security Hub zur Überwachung von Microsoft Azure-Ressourcen.",
+        "Linkerd 2.20 bringt Verbesserungen in Performance und Traffic-Management für Kubernetes."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents",
+          "link": "https://www.infoq.com/news/2026/07/agentic-resource-discovery-spec/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google and industry partners announced Agentic Resource Discovery (ARD) Specification, an open standard for publishing, discovering, and verifying AI tools, APIs, and agents. ARD introduces a discovery layer built on catalogs and registries, enabling dynamic capability discovery while leveraging existing protocols such as MCP and OpenAPI for execution and emphasizing trust and interoperability. By Leela Kumili",
+          "published": "Tue, 14 Jul 2026 13:40:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Google und Industriepartner haben die Agentic Resource Discovery (ARD) Spezifikation vorgestellt, einen offenen Standard zur Veröffentlichung, Entdeckung und Verifizierung von KI-Tools, APIs und Agenten. ARD ermöglicht dynamische Fähigkeitsentdeckung und nutzt bestehende Protokolle wie MCP und OpenAPI.",
+      "highlights": [
+        "ARD ist ein offener Standard für KI-Tools und APIs.",
+        "Die Spezifikation fördert Vertrauen und Interoperabilität.",
+        "ARD nutzt bestehende Protokolle wie MCP und OpenAPI für die Ausführung."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Videoüberwachung in Berlin: Adesso SE baut Verhaltensscanner für die Polizei",
+          "link": "https://netzpolitik.org/2026/videoueberwachung-in-berlin-adesso-se-baut-verhaltensscanner-fuer-die-polizei/",
+          "summary": "Zunächst soll der Kotti im Fokus stehen, dann die Technologie auch anderswo in Berlin eingesetzt werden. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Ralf Knüfer, Bearbeitung netzpolitik.org Die Videoüberwachung mit automatisierter Verhaltenserkennung, die in Berlin geplant ist, wird von Adesso SE errichtet. Damit baut erstmals in Deutschland ein privatwirtschaftliches Unternehmen eine derartige Infrastruktur in den öffentlichen Raum. Adesso SE ist für ein massives Datenleck bekannt.",
+          "published": "Tue, 14 Jul 2026 10:00:27 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Active Defense & Hardening – Systeme aktiv schützen",
+          "link": "https://www.heise.de/news/iX-Workshop-Active-Defense-Hardening-Systeme-aktiv-schuetzen-11357511.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Üben Sie in einer praxisnahen Laborumgebung, wie Sie Schwachstellen in Ihrer IT-Infrastruktur finden und Ihre Systeme gegen Angriffe effektiv absichern können.",
+          "published": "2026-07-15T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Schwachstelle in Coding-Agenten: Zugriff auf beliebige Dateien über Symlinks",
+          "link": "https://www.heise.de/news/Schwachstelle-in-Coding-Agenten-Zugriff-auf-beliebige-Dateien-ueber-Symlinks-11358849.html",
+          "summary": "Angreifer könnten über ein Repository mit Schadcode auch Zugriff auf Dateien außerhalb einer Sandbox erhalten.",
+          "published": "2026-07-09T07:54:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die IT-Sicherheit steht im Fokus aktueller Entwicklungen, darunter die Einführung automatisierter Videoüberwachung in Berlin durch Adesso SE, die aufgrund ihrer Vorgeschichte mit Datenlecks kritisch betrachtet wird. Zudem wird ein Workshop zur aktiven Verteidigung von IT-Systemen angeboten, während eine Schwachstelle in Coding-Agenten potenziell gefährliche Dateizugriffe ermöglicht.",
+      "highlights": [
+        "Adesso SE baut in Berlin eine Videoüberwachung mit Verhaltenserkennung auf.",
+        "Der Workshop von heise bietet praxisnahe Übungen zur IT-Sicherheit.",
+        "Eine Schwachstelle in Coding-Agenten erlaubt Angreifern Zugriff auf Dateien außerhalb einer Sandbox."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "IFG-Reform: Bundesregierung in Erklärungsnot",
+          "link": "https://www.heise.de/news/IFG-Reform-Bundesregierung-in-Erklaerungsnot-11364892.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Bedrohungen von Staatsbediensteten sollen ein Grund für die umstrittene Reform des Informationsfreiheitsgesetzes sein. Fälle gibt es wohl keine.",
+          "published": "2026-07-14T20:20:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Bundesregierung steht wegen der Reform des Informationsfreiheitsgesetzes in der Kritik. Offiziell wird auf Bedrohungen von Staatsbediensteten verwiesen, jedoch gibt es keine konkreten Fälle, die dies untermauern.",
+      "highlights": [
+        "Reform des Informationsfreiheitsgesetzes umstritten.",
+        "Behauptung von Bedrohungen ohne konkrete Fälle.",
+        "Kritik an mangelnder Transparenz und Rechtfertigung der Reform."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "RootAsRole 4.0: Mehr Kontrolle als bei sudo",
+          "link": "https://www.heise.de/news/RootAsRole-4-0-Mehr-Kontrolle-als-bei-sudo-11358217.html",
+          "summary": "RootAsRole 4.0 erweitert die sudo-Alternative um ein neues Ausführungsmodell und feinere Richtlinien für privilegierte Linux-Befehle.",
+          "published": "2026-07-08T13:44:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "RootAsRole 4.0 bietet eine erweiterte Alternative zu sudo mit einem neuen Ausführungsmodell und detaillierteren Richtlinien für privilegierte Linux-Befehle. Dies ermöglicht eine präzisere Kontrolle über Benutzerrechte und -aktionen.",
+      "highlights": [
+        "Einführung eines neuen Ausführungsmodells für privilegierte Befehle.",
+        "Feinere Richtlinien zur Steuerung von Benutzerrechten.",
+        "Verbesserte Sicherheitsfunktionen im Vergleich zu herkömmlichem sudo."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "KI-Agenten brauchen ein Zuhause",
+          "link": "https://t3n.de/news/ki-agenten-hosting-deutschland-1751626/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Neue KI-Modelle erscheinen mittlerweile im Wochentakt. Doch mit jeder produktiven KI-Anwendung rückt eine Frage zunehmend in den Vordergrund: Wo werden Daten verarbeitet und unter welchem rechtlichen und technischen Rahmen? Für viele Unternehmen wird genau das zum entscheidenden Kriterium. weiterlesen auf t3n.de",
+          "published": "Wed, 15 Jul 2026 09:05:26 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAIs erstes KI-Gadget: Wie ChatGPT physisch in deinen Alltag integriert werden soll",
+          "link": "https://t3n.de/news/openai-erstes-ki-gadget-chatgpt-physisch-alltag-1752867/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Insider:innen haben neue Details zu OpenAIs erstem KI-Gadget verraten. Das Gerät soll den Alltag in den eigenen vier Wänden erleichtern – und von dir lernen. weiterlesen auf t3n.de",
+          "published": "Wed, 15 Jul 2026 09:00:26 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI hits 8 million Codex users — what developers need to know",
+          "link": "https://thenewstack.io/gpt-5-6-codex-user-surge/",
+          "summary": "OpenAI launched GPT-5.6 last week and folded Codex into a unified ChatGPT desktop app. Since then, the company has been The post OpenAI hits 8 million Codex users — what developers need to know appeared first on The New Stack .",
+          "published": "Tue, 14 Jul 2026 19:16:31 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "What happens when your VPN meets 200 AI agents",
+          "link": "https://thenewstack.io/unified-access-ai-agents/",
+          "summary": "Providing secure access for your human staff is no simple task. For one, traditional VPNs often grant unnecessarily broad access, The post What happens when your VPN meets 200 AI agents appeared first on The New Stack .",
+          "published": "Tue, 14 Jul 2026 18:53:13 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Meta's Noninvasive Brain–Computer Interface Brain2Qwerty Achieves 61% Accuracy",
+          "link": "https://www.infoq.com/news/2026/07/meta-brain-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Meta recently open-sourced Brain2Qwerty v2, a noninvasive Brain–Computer Interface (BCI) that can decode sentences from thoughts using electroencephalography (EEG) or magnetoencephalography (MEG) signals from the brain. In evaluations, the system achieved a word accuracy rate 61% on average, compared to 8% for other non-invasive methods. By Anthony Alford",
+          "published": "Tue, 14 Jul 2026 13:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Die Entwicklung generativer KI und großer Sprachmodelle (LLMs) schreitet rasant voran, wobei Unternehmen zunehmend auf rechtliche und technische Rahmenbedingungen achten müssen. OpenAI hat kürzlich neue Produkte und Nutzerzahlen vorgestellt, während Meta Fortschritte im Bereich der Gehirn-Computer-Schnittstellen erzielt hat.",
+      "highlights": [
+        "OpenAI hat 8 Millionen Codex-Nutzer erreicht.",
+        "Meta's Brain2Qwerty erzielt eine Wortgenauigkeit von 61%.",
+        "Neue KI-Modelle erscheinen wöchentlich, was rechtliche Fragen aufwirft."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "KI-Zusammenfassungen: Google und Perplexity unterliegen gegen Medienanstalten",
+          "link": "https://www.heise.de/news/Bescheid-fuer-Google-und-Perplexity-Medienwaechter-gehen-gegen-KI-Uebersichten-vor-11364818.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Medienanstalten stufen KI-generierte Antworten als eigene Inhalte ein und fordern Transparenz. Das DSA-Haftungsprivileg greift hier laut Gutachtern nicht.",
+          "published": "2026-07-14T18:07:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | Jugendmedienschutz: Warum Politik und Eltern mehr für Minderjährige tun müssen",
+          "link": "https://www.heise.de/hintergrund/Jugendmedienschutz-Warum-Politik-und-Eltern-mehr-fuer-Minderjaehrige-tun-muessen-11332467.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Politik fordert Verbote, Plattformen versprechen Besserung, doch für Kinder ändert sich wenig. Eine ernüchternde Bestandsaufnahme.",
+          "published": "2026-07-14T13:30:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die EU-Tech-Regulierung steht im Fokus, da Medienanstalten KI-generierte Inhalte als eigene Inhalte einstufen und Transparenz fordern. Gleichzeitig wird im Jugendmedienschutz eine unzureichende Verbesserung für Minderjährige kritisiert.",
+      "highlights": [
+        "Google und Perplexity unterliegen in einem Rechtsstreit gegen Medienanstalten bezüglich KI-Inhalten.",
+        "Das DSA-Haftungsprivileg gilt laut Gutachtern nicht für KI-generierte Antworten.",
+        "Politik und Plattformen versprechen Verbesserungen im Jugendmedienschutz, doch die Situation für Kinder bleibt unverändert."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Die simulierte Zelle: Wie Biotech-Forscher das Leben mithilfe von KI nachstellen",
+          "link": "https://t3n.de/news/die-simulierte-zelle-wie-biotech-forscher-das-leben-mithilfe-von-ki-nachstellen-1752230/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die hochkomplexen Vorgänge bei der Zellteilung lassen sich jetzt simulieren. Forscher:innen arbeiten schon am nächsten Schritt: KI-Modelle, die vorhersagen, wie weiterlesen auf t3n.de",
+          "published": "Wed, 15 Jul 2026 07:30:12 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Unternehmen zahlen doppelt für KI: Microsoft-CEO warnt vor Kostenfalle, die er selbst mitgebaut hat",
+          "link": "https://t3n.de/news/unternehmen-zahlen-doppelt-fuer-ki-microsoft-ceo-warnt-vor-kostenfalle-die-er-selbst-mitgebaut-hat-1752778/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Satya Nadella beschreibt in einem Post, wie Unternehmen unwissentlich ihr wertvollstes Know-how an KI-Anbieter abgeben. Dabei profitiert der Tech-Konzern selbst massiv vom „Reverse Information Paradox”. weiterlesen auf t3n.de",
+          "published": "Tue, 14 Jul 2026 15:15:37 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "The MCP debate has a context problem",
+          "link": "https://thenewstack.io/mcp-enterprise-agent-governance/",
+          "summary": "Every few months, a new technology gets its premature obituary. Across many developer circles, MCP&#8217;s has already been written. Too The post The MCP debate has a context problem appeared first on The New Stack .",
+          "published": "Tue, 14 Jul 2026 12:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Evolutionary Data Through Schemaboi: Achieving Forward, Backwards, and Sideways Compatibility",
+          "link": "https://www.infoq.com/news/2026/07/durable-document-schema/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Drawing from the enduring adaptability of HTML and HTTP, Seph Gentle proposes embedding self-contained schemas directly into file headers, ensuring data remains readable without external definitions. His experimental format prioritises forward, backwards, and sideways compatibility, enabling data format evolution without central coordination or data loss By Olimpiu Pop",
+          "published": "Tue, 14 Jul 2026 08:08:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Mittwoch: Millionenförderung deutscher Chipwerke, IBM-Aktie mit Rekordabsturz",
+          "link": "https://www.heise.de/news/Mittwoch-Millionenfoerderung-deutscher-Chipwerke-IBM-Aktie-mit-Rekordabsturz-11365004.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "EU-Genehmigung für Halbleiter-Beihilfe + Börsenreaktion auf IBM-Wachstum + New Yorker Pause für Rechenzentren + IFG-Reform ohne Anlass + Bit-Rauschen zum DE-CIX",
+          "published": "2026-07-15T06:15:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Das Thema Open Source und Software Supply Chain gewinnt an Bedeutung, insbesondere im Kontext von KI und Datenkompatibilität. Unternehmen stehen vor Herausforderungen, ihr Know-how zu schützen, während innovative Ansätze zur Datenformatentwicklung vorgestellt werden.",
+      "highlights": [
+        "Satya Nadella warnt Unternehmen vor der Abgabe ihres Know-hows an KI-Anbieter.",
+        "Seph Gentle schlägt vor, selbständige Schemata in Dateiköpfen zu integrieren, um Datenkompatibilität zu gewährleisten.",
+        "Die EU genehmigt Fördermittel für deutsche Chipwerke, was die Halbleiterindustrie stärkt."
+      ]
+    }
+  ]
+}
