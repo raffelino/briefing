@@ -1,0 +1,272 @@
+{
+  "date": "2026-07-16",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Mehr Kontrolle, weniger Risiko: Wie Unternehmen von europäischen Clouds und KI profitieren",
+          "link": "https://t3n.de/news/von-europaeischen-clouds-und-ki-profitieren-1727175/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ob E-Mail, Cloud-Storage oder Collaboration-Tools mit integrierter KI – die US-Konzerne dominieren den Markt. Doch immer mehr Unternehmen hinterfragen diese Abhängigkeit. weiterlesen auf t3n.de",
+          "published": "Thu, 16 Jul 2026 09:00:15 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Kubernetes won the container decade. Google’s Agent Substrate wants the next one.",
+          "link": "https://thenewstack.io/kubernetes-ai-agent-runtime/",
+          "summary": "Google made GKE Agent Sandbox generally available in May 2026 and, in the same post, introduced a second project called The post Kubernetes won the container decade. Google&#8217;s Agent Substrate wants the next one. appeared first on The New Stack .",
+          "published": "Wed, 15 Jul 2026 18:17:02 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "“The database is the product”: What breaks when memory devices scale",
+          "link": "https://thenewstack.io/ai-notetaker-database-architecture/",
+          "summary": "Imagine you just finished a two-hour meeting. You were wearing a small AI work companion that promised to capture the The post &#8220;The database is the product&#8221;: What breaks when memory devices scale appeared first on The New Stack .",
+          "published": "Wed, 15 Jul 2026 12:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop",
+          "link": "https://www.infoq.com/news/2026/07/claude-apps-gateway-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS and Anthropic have released the Claude apps gateway for AWS, a self-hosted control plane that centralizes identity, policy, telemetry, routing, and spend caps for Claude Code and Claude Desktop. The gateway runs as a single stateless container and routes inference to Amazon Bedrock or Claude Platform on AWS. By Steef-Jan Wiggers",
+          "published": "Wed, 15 Jul 2026 11:04:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Daten-Skandal: Schufa speichert alte Datensätze über Millionen von Menschen",
+          "link": "https://netzpolitik.org/2026/daten-skandal-schufa-speichert-alte-datensaetze-ueber-millionen-von-menschen/",
+          "summary": "Die Schufa speichert auch historische Daten über Millionen Menschen - Fachleute zweifeln an der Rechtmäßigkeit. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Jan Antonin Kolar Als junger Mensch mal pleite gewesen, aber heute finanziell alles okay? Der Schufa ist das offenbar egal, sie berechnet Scores aus historischen Daten – Kunden können die offiziell für Tests nutzen. NDR und SZ haben einen weiteren Datenskandal der Schufa aufgedeckt.",
+          "published": "Wed, 15 Jul 2026 10:28:11 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "Die aktuelle Nachrichtenlage zeigt, dass Unternehmen zunehmend auf europäische Cloud-Lösungen und KI setzen, um Abhängigkeiten von US-Anbietern zu reduzieren. Zudem wird die Bedeutung von Kubernetes und neuen Technologien wie dem Claude Apps Gateway von AWS hervorgehoben.",
+      "highlights": [
+        "Europäische Clouds bieten Unternehmen mehr Kontrolle und reduzieren Risiken.",
+        "Google hat die GKE Agent Sandbox im Mai 2026 allgemein verfügbar gemacht.",
+        "AWS und Anthropic haben den Claude Apps Gateway als selbstgehostete Steuerungsebene für Claude-Code veröffentlicht."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop API-Sicherheit: OWASP Top 10 API Security Risks",
+          "link": "https://www.heise.de/news/iX-Workshop-API-Sicherheit-OWASP-Top-10-API-Security-Risks-11354426.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie praxisnah, wie Sie Schwachstellen in der API-Implementierung vermeiden und Angriffe abwehren.",
+          "published": "2026-07-16T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: OWASP Top 10 – Schwachstellen in Webanwendungen und Gegenmaßnahmen",
+          "link": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Schwachstellen-in-Webanwendungen-und-Gegenmassnahmen-11354416.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie die wichtigsten Sicherheitslücken in Webanwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
+          "published": "2026-07-15T14:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Schwachstelle in Coding-Agenten: Zugriff auf beliebige Dateien über Symlinks",
+          "link": "https://www.heise.de/news/Schwachstelle-in-Coding-Agenten-Zugriff-auf-beliebige-Dateien-ueber-Symlinks-11358849.html",
+          "summary": "Angreifer könnten über ein Repository mit Schadcode auch Zugriff auf Dateien außerhalb einer Sandbox erhalten.",
+          "published": "2026-07-09T07:54:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Cyber Resilience Act in der Produktentwicklung umsetzen",
+          "link": "https://www.golem.de/news/anzeige-cyber-resilience-act-in-der-produktentwicklung-umsetzen-2607-209738.html",
+          "summary": "Produkthersteller müssen Cyberrisiken, Schwachstellen und Lieferketten nachvollziehbar behandeln. Der Workshop vermittelt die dafür nötigen Prozesse und Nachweise. ( Golem Karrierewelt , Sicherheitslücke )",
+          "published": "2026-07-16T07:15:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die IT-Sicherheit gewinnt zunehmend an Bedeutung, insbesondere im Hinblick auf API-Sicherheit und Webanwendungen. Aktuelle Workshops bieten praxisnahe Schulungen zu den OWASP Top 10 Sicherheitsrisiken und deren Gegenmaßnahmen. Zudem gibt es neue Erkenntnisse über Schwachstellen in Coding-Agenten, die Angreifern Zugriff auf sensible Dateien ermöglichen können.",
+      "highlights": [
+        "Workshop zu OWASP Top 10 API Security Risks zur Vermeidung von Schwachstellen.",
+        "Schwachstelle in Coding-Agenten ermöglicht Zugriff auf Dateien außerhalb der Sandbox.",
+        "Cyber Resilience Act fordert Nachvollziehbarkeit von Cyberrisiken in der Produktentwicklung."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Weg mit dem Kassenzettel: Bund reformiert Bonpflicht, Preisschilder und Steuern",
+          "link": "https://www.heise.de/news/Weg-mit-dem-Kassenzettel-Bund-reformiert-Bonpflicht-Preisschilder-und-Steuern-11366686.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das 2. Entlastungskabinett will spürbaren Bürokratieabbau schaffen. Im Fokus stehen auch ein Abschied vom Papierbon, neue Preisregeln und die digitale Steuer.",
+          "published": "2026-07-16T08:32:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "GeDIG im Kabinett: Schluss mit Faxen im deutschen Gesundheitssystem",
+          "link": "https://www.heise.de/news/GeDIG-im-Kabinett-Schluss-mit-Faxen-im-deutschen-Gesundheitssystem-11365881.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Bundesregierung bringt ein neues Digitalgesetz: Die E-Überweisung per ePA-App kommt, das Faxgerät soll in Arztpraxen bis 2029 endgültig ausgedient haben.",
+          "published": "2026-07-15T15:07:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Beihilfe: Deutschland darf vier neue Chipfabriken fördern",
+          "link": "https://www.golem.de/news/beihilfe-deutschland-darf-vier-neue-chipfabriken-foerdern-2607-210899.html",
+          "summary": "Die EU-Kommission stimmt einer hohen Förderung aus dem Steuertopf für vier angeblich mittelständische Firmen zu. Es geht um stark spezialisierte Halbleiteranlagen. Doch die Hälfte sind US-Konzerne. ( Bundesregierung , Politik )",
+          "published": "2026-07-15T13:09:11+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Bundesregierung plant umfassende Reformen zur Digitalisierung und Bürokratieabbau, darunter die Abschaffung des Papierbons und die Einführung der E-Überweisung im Gesundheitswesen. Zudem werden neue Chipfabriken in Deutschland gefördert, um die Halbleiterproduktion zu stärken.",
+      "highlights": [
+        "Abschaffung der Bonpflicht und Einführung neuer Preisregeln",
+        "E-Überweisung per ePA-App bis 2029, Faxgeräte in Arztpraxen werden abgeschafft",
+        "EU genehmigt Fördermittel für vier neue Chipfabriken in Deutschland, darunter US-Konzerne"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "#heiseshow: Chatkontrolle & IFG-Reform, GebäudemodG, Cyberabwehr ohne Microsoft",
+          "link": "https://www.heise.de/news/heiseshow-Chatkontrolle-IFG-Reform-GebaeudemodG-Cyberabwehr-ohne-Microsoft-11365907.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In der #heiseshow: Chatkontrolle und IFG-Reform gefährden Demokratie, das GebäudemodG die Energiewende und die Schweiz will Cyberabwehr ohne Microsoft.",
+          "published": "2026-07-16T06:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Europäisches Know-how bleibt in Europa: EssilorLuxottica übernimmt Lynx",
+          "link": "https://www.heise.de/news/Europaeisches-Know-how-bleibt-europaeisch-EssilorLuxottica-uebernimmt-Lynx-11366354.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das Pariser VR-Start-up Lynx gehört jetzt EssilorLuxottica. Was könnte der weltgrößte Brillenkonzern und Metas Smart-Glasses-Partner mit dem Know-how vorhaben?",
+          "published": "2026-07-15T17:59:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "RootAsRole 4.0: Mehr Kontrolle als bei sudo",
+          "link": "https://www.heise.de/news/RootAsRole-4-0-Mehr-Kontrolle-als-bei-sudo-11358217.html",
+          "summary": "RootAsRole 4.0 erweitert die sudo-Alternative um ein neues Ausführungsmodell und feinere Richtlinien für privilegierte Linux-Befehle.",
+          "published": "2026-07-08T13:44:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die aktuellen Nachrichten beleuchten verschiedene technologische und politische Entwicklungen, darunter die Risiken der Chatkontrolle und IFG-Reform für die Demokratie sowie die Übernahme des VR-Start-ups Lynx durch EssilorLuxottica. Zudem wird das neue Ausführungsmodell von RootAsRole 4.0 vorgestellt, das die Kontrolle über privilegierte Linux-Befehle verbessert.",
+      "highlights": [
+        "Chatkontrolle und IFG-Reform gefährden die Demokratie.",
+        "EssilorLuxottica übernimmt das VR-Start-up Lynx.",
+        "RootAsRole 4.0 bietet ein neues Ausführungsmodell für privilegierte Linux-Befehle."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Bitkom-Umfrage: 9 von 10 Deutschen nutzen Emojis – aber nicht alle verstehen sie",
+          "link": "https://t3n.de/news/bitkom-umfrage-9-von-10-deutschen-nutzen-emojis-aber-nicht-alle-verstehen-sie-1753018/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Lachen, Herzen, Zwinkern: Emojis werden in Chats häufig benutzt. Die Gen-Z sendet sie fast immer, Boomer tun es seltener. Viele sind unsicher, was manche bedeuten. weiterlesen auf t3n.de",
+          "published": "Thu, 16 Jul 2026 08:15:12 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Wir haben Mitarbeitende gefragt, was sie an ihrem Job nicht mögen”: Wie der Vercel-CTO den Einsatz von KI-Agenten vorantreibt",
+          "link": "https://t3n.de/news/ki-agenten-vercel-cto-malte-ubl-1752329/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Als einer der wenigen deutschen Top-Manager im Silicon Valley treibt Malte Ubl als CTO von Vercel auch die interne Nutzung von KI-Agenten voran. Im Interview er weiterlesen auf t3n.de",
+          "published": "Thu, 16 Jul 2026 07:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Trust, transactions and tokenomics: AI agent infrastructure begins to standardize",
+          "link": "https://thenewstack.io/x402-foundation-ai-agents-standards/",
+          "summary": "As AI agents gain greater autonomy across the internet, a system of governance is emerging around three questions: how much The post Trust, transactions and tokenomics: AI agent infrastructure begins to standardize appeared first on The New Stack .",
+          "published": "Wed, 15 Jul 2026 18:03:22 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI’s first gadget is the $230 Codex Micro macropad",
+          "link": "https://thenewstack.io/openai-codex-micro-macropad/",
+          "summary": "OpenAI&#8217;s Codex is about to hit 9 million users, and at least some of those users will soon get a The post OpenAI&#8217;s first gadget is the $230 Codex Micro macropad appeared first on The New Stack .",
+          "published": "Wed, 15 Jul 2026 16:01:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI's first branded hardware is... a light-up keyboard?",
+          "link": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+          "summary": "The Codex Micro is designed to monitor multiple agentic threads at a glance.",
+          "published": "Wed, 15 Jul 2026 16:00:33 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "Generative KI und LLMs gewinnen zunehmend an Bedeutung in verschiedenen Bereichen, von der internen Nutzung in Unternehmen bis hin zu neuen Hardwareentwicklungen. Die Standardisierung von KI-Agenten-Infrastrukturen wird vorangetrieben, während Unternehmen wie OpenAI innovative Produkte auf den Markt bringen.",
+      "highlights": [
+        "Vercel-CTO Malte Ubl fördert den Einsatz von KI-Agenten in seinem Unternehmen.",
+        "OpenAI bringt mit dem Codex Micro ein neues Gadget auf den Markt, das für 230 USD erhältlich ist.",
+        "Die Infrastruktur für KI-Agenten beginnt sich um Governance-Fragen wie Vertrauen und Transaktionen zu standardisieren."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Europäischer Gerichtshof zum Digital Services Act: Haften Social-Media-Plattformen bald für alle Inhalte?",
+          "link": "https://t3n.de/news/europaeischer-gerichtshof-zum-digital-services-act-haften-social-media-plattformen-bald-fuer-alle-inhalte-1752866/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Online-Plattformen sind nicht automatisch für das verantwortlich, was dort hochgeladen wird. Ein Urteil des obersten EU-Gerichts könnte das kippen. Was Expert:i weiterlesen auf t3n.de",
+          "published": "Wed, 15 Jul 2026 12:10:25 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Der Europäische Gerichtshof prüft, ob Social-Media-Plattformen künftig für alle Inhalte, die von Nutzern hochgeladen werden, haftbar gemacht werden können. Ein Urteil könnte weitreichende Folgen für die Verantwortung von Online-Plattformen haben.",
+      "highlights": [
+        "EuGH-Urteil könnte Haftung von Plattformen für Nutzerinhalte verändern.",
+        "Der Digital Services Act regelt die Verantwortung von Online-Diensten in der EU.",
+        "Aktuell haften Plattformen nur bedingt für hochgeladene Inhalte."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Produktiver Arbeiten mit dem Stream Deck: Welches Modell sich für dich lohnt",
+          "link": "https://t3n.de/news/produktiver-arbeiten-mit-dem-stream-deck-welches-modell-sich-fuer-dich-lohnt-1752900/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die handlichen Geräte werden von Gamer:innen oder Podcast-Hosts genutzt, um per Knopfdruck verschiedene Anwendungen zu steuern. Genau diese Funktionsweise macht sie aber auch im Homeoffice zu einem praktischen Tool. weiterlesen auf t3n.de",
+          "published": "Thu, 16 Jul 2026 08:30:58 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mit Smartphone und Laptop in den Urlaub? Auf diese Gefahren solltet ihr euch vorbereiten",
+          "link": "https://t3n.de/news/urlaub-smartphone-laptop-gefahr-schuetzen-1694613/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Urlaub können Spaß und Erholung schnell vorbei sein, wenn es Probleme mit eurem Smartphone, Laptop oder Tablet gibt. Das reicht von Hacking-Versuchen bis zu Diebstahl. Doch schon vor der Reise könnt ihr Vorkehrungen treffen, um euch und eure Geräte besser zu schützen. weiterlesen auf t3n.de",
+          "published": "Thu, 16 Jul 2026 08:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
+          "link": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
+          "summary": "HiveLegacy is a \"powerful primitive\" that's likely capable of other nefarious actions.",
+          "published": "Wed, 15 Jul 2026 19:59:48 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "FCC to repeal 39% TV ownership cap in boost for Trump-friendly news orgs",
+          "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-repeal-39-tv-ownership-cap-in-boost-for-trump-friendly-news-orgs/",
+          "summary": "FCC chairman claims power to repeal TV ownership limit set by Congress.",
+          "published": "Wed, 15 Jul 2026 18:52:22 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Elon Musk: “We will make the entire codebase of X open source, with no exceptions.”",
+          "link": "https://thenewstack.io/x-open-source-codebase/",
+          "summary": "Elon Musk, the billionaire owner of X, wants to make the social network one of the most transparent major technology The post Elon Musk: &#8220;We will make the entire codebase of X open source, with no exceptions.&#8221; appeared first on The New Stack .",
+          "published": "Wed, 15 Jul 2026 17:59:43 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Elon Musk plant, den gesamten Code von X (ehemals Twitter) als Open Source verfügbar zu machen, um mehr Transparenz zu schaffen. Dies könnte Auswirkungen auf die Software-Lieferkette und die Sicherheit von Plattformen haben.",
+      "highlights": [
+        "Elon Musk kündigt an, die gesamte Codebasis von X open source zu machen.",
+        "Open Source kann die Transparenz und Sicherheit von Software erhöhen.",
+        "Die Entscheidung könnte einen Einfluss auf die Software-Lieferkette im Social-Media-Sektor haben."
+      ]
+    }
+  ]
+}
