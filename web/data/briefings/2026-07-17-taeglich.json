@@ -1,0 +1,312 @@
+{
+  "date": "2026-07-17",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+          "link": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+          "summary": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.",
+          "published": "Thu, 16 Jul 2026 20:26:23 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "AWS Continuum to Enable Agentic Code Security for Enterprises",
+          "link": "https://www.infoq.com/news/2026/07/aws-continuum-code-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Amazon Web Services has recently introduced AWS Continuum, a new integrated security platform to automate the discovery, enforcement, and remediation of security issues across codebases, dependencies, and applications. AWS Continuum launches with four agentic capabilities, aiming at the entire vulnerability lifecycle: penetration testing, code review, threat modelling, and code vulnerabilities. By Gianmarco Nalin",
+          "published": "Thu, 16 Jul 2026 19:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Alte Datenbestände der Schufa: Die Transparenzoffensive bekommt ein Glaubwürdigkeitsproblem",
+          "link": "https://t3n.de/news/alte-datenbestaende-der-schufa-die-transparenzoffensive-bekommt-ein-glaubwuerdigkeitsproblem-1753147/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Schufa erklärt offen, wie ihr Score zustande kommt. Gleichzeitig hält sie im Hintergrund offenbar personenbezogene Informationen vor, die im regulären Datenbestand längst nicht mehr sichtbar sind. Genau dieser Widerspruch lässt die kürzlich gestartete Vertrauensoffensive der Auskunftei wenig glaubhaft erscheinen. weiterlesen auf t3n.de",
+          "published": "Thu, 16 Jul 2026 15:10:25 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "“There are no laws, only suggestions”: What AI agents do with your instructions",
+          "link": "https://thenewstack.io/ai-agents-no-laws/",
+          "summary": "Nine days into a twelve-day experiment with an AI coding agent, SaaStr founder Jason Lemkin had one instruction on file: The post &#8220;There are no laws, only suggestions&#8221;: What AI agents do with your instructions appeared first on The New Stack .",
+          "published": "Thu, 16 Jul 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed Mistakes",
+          "link": "https://www.infoq.com/news/2026/07/ai-agents-billing-guardrails/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "A three-person agency received a $14,000 AWS bill in one day after attackers extracted static access keys and burned Claude invocations on Bedrock. Combined with May's DN42 incident, where an autonomous agent provisioned $6,531 of oversized infrastructure in 24 hours, practitioners warn that cloud billing lags roughly a day behind agent-speed spend. By Steef-Jan Wiggers",
+          "published": "Thu, 16 Jul 2026 10:17:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Die Cloud-Architektur entwickelt sich weiter, wobei neue Sicherheitslösungen und Herausforderungen im Umgang mit KI-Agenten im Vordergrund stehen. AWS hat mit Continuum eine integrierte Sicherheitsplattform eingeführt, während KI-Agenten in der Cloud teure Fehler verursachen können.",
+      "highlights": [
+        "AWS Continuum bietet vier Sicherheitsfunktionen: Penetrationstests, Code-Reviews, Bedrohungsmodellierung und Code-Schwachstellenmanagement.",
+        "Ein Vorfall führte zu einem $14,000 AWS-Rechnung innerhalb eines Tages durch den Missbrauch statischer Zugangsschlüssel.",
+        "KI-Agenten können schneller als menschliche Fehlerquellen Kosten in der Cloud verursachen, was zu finanziellen Risiken führt."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "KI-Assistent Bob 2.0 modernisiert IBM Z und Power-Systeme",
+          "link": "https://www.heise.de/news/KI-Assistent-Bob-2-0-modernisiert-IBM-Z-und-Power-Systeme-11367017.html",
+          "summary": "IBM Bob 2.0 soll auch Jahrzehnte alten Code verstehen und modernisieren können – mit KI-Agenten und Premium-Paketen für Z, i und Java.",
+          "published": "2026-07-16T10:41:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "IBM hat mit Bob 2.0 einen KI-Assistenten vorgestellt, der in der Lage ist, auch legacy Code zu verstehen und zu modernisieren. Dies betrifft insbesondere Systeme wie IBM Z, i und Java.",
+      "highlights": [
+        "Bob 2.0 nutzt KI-Agenten zur Code-Modernisierung.",
+        "Unterstützt sowohl IBM Z als auch Power-Systeme.",
+        "Fokus auf die Integration von Jahrzehnte altem Code."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: Letzte Chance: heise security Tour Online zu KI, Identität und Lieferketten",
+          "link": "https://www.heise.de/news/Letzte-Chance-heise-security-Tour-Online-zu-KI-Identitaet-und-Lieferketten-11367546.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die heise security Tour liefert Sicherheitsverantwortlichen das praxisrelevante Hintergrundwissen zu den aktuellen Herausforderungen der IT-Sicherheit.",
+          "published": "2026-07-17T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Sicherheitsforscher loben Samsung für den Umgang mit gemeldeten Schwachstellen",
+          "link": "https://www.heise.de/news/Sicherheitsforscher-loben-Samsung-fuer-den-Umgang-mit-gemeldeten-Schwachstellen-11368214.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine Sicherheitsfirma hat in vier Jahren 176 Lücken in vorinstallierten Samsung-Apps gemeldet. Samsung hat alle umgehend behoben. Die Experten sind begeistert.",
+          "published": "2026-07-17T05:04:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die heise security Tour bietet IT-Sicherheitsverantwortlichen praxisrelevantes Wissen zu aktuellen Herausforderungen. Sicherheitsforscher loben Samsung für die schnelle Behebung von 176 Schwachstellen in vorinstallierten Apps innerhalb von vier Jahren.",
+      "highlights": [
+        "heise security Tour behandelt KI, Identität und Lieferketten.",
+        "Samsung hat 176 gemeldete Schwachstellen in vier Jahren behoben.",
+        "Sicherheitsforscher zeigen sich begeistert von Samsungs Reaktionsgeschwindigkeit."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "EU-Vorgaben: Google muss Android für fremde KI-Assistenten komplett öffnen",
+          "link": "https://www.heise.de/news/EU-Vorgaben-Android-muss-fuer-KI-Assistenten-von-Fremdanbietern-komplett-oeffnen-11367648.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die EU verpflichtet Google, Android für KI-Assistenten von Fremdanbietern zu öffnen. Ab Android 18 sollen sie die gleichen Zugriffsrechte wie Gemini erhalten.",
+          "published": "2026-07-16T15:33:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Arbeitsschutz: Wegfall der Prüfpflicht für Bürogeräte fraglich",
+          "link": "https://www.golem.de/news/arbeitsschutz-wegfall-der-pruefpflicht-fuer-buerogeraete-fraglich-2607-210978.html",
+          "summary": "Die Bundesregierung plant eigentlich Erleichterungen für Büro-Elektrogeräte. Doch der Abbau der bürokratischen Prüfpflichten stößt auf Hürden. ( Politik , Bundesregierung )",
+          "published": "2026-07-17T08:15:10+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Bis Ende 2026: Deutscher Online-Identitätsdienstleister stellt Betrieb ein",
+          "link": "https://www.golem.de/news/bis-ende-2026-deutscher-online-identitaetsdienstleister-stellt-betrieb-ein-2607-210938.html",
+          "summary": "Geänderte europäische Rahmenbedingungen und Anti-Geldwäschegesetze bieten dem Unternehmen keine ausreichenden Erfolgsaussichten. ( Identitätsmanagement , Datenschutz )",
+          "published": "2026-07-16T11:48:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die EU verpflichtet Google, Android für KI-Assistenten von Drittanbietern zu öffnen, was ab Android 18 gilt. Gleichzeitig plant die Bundesregierung Erleichterungen für Bürogeräte, jedoch gibt es Widerstände. Zudem stellt ein deutscher Online-Identitätsdienstleister bis Ende 2026 den Betrieb ein aufgrund geänderter gesetzlicher Rahmenbedingungen.",
+      "highlights": [
+        "EU-Vorgaben: Google muss Android für fremde KI-Assistenten ab Android 18 öffnen.",
+        "Bundesregierung plant Erleichterungen für Bürogeräte, jedoch gibt es bürokratische Hürden.",
+        "Deutscher Online-Identitätsdienstleister stellt bis Ende 2026 den Betrieb ein wegen geänderter Rahmenbedingungen."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
+          "link": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+          "summary": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.",
+          "published": "Thu, 16 Jul 2026 19:18:23 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Linux creator Linus Torvalds tells AI haters to walk away from Linux, or go fork it",
+          "link": "https://thenewstack.io/torvalds-linux-ai-stance/",
+          "summary": "Creator of the Linux kernel, Linus Torvalds, has refreshed his stance on the use of AI in software development with The post Linux creator Linus Torvalds tells AI haters to walk away from Linux, or go fork it appeared first on The New Stack .",
+          "published": "Thu, 16 Jul 2026 15:15:14 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Neuer Job als Chief Information Security Officer gesucht? Schau dir unsere Top Jobs an",
+          "link": "https://t3n.de/news/unsere-jobs-der-woche-1175973/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hier findest du unsere besten Jobs aus den Bereichen Technik &amp; Entwicklung, Marketing, PR &amp; Kommunikation, Projektmanagement &amp; Produktmanagement, Design &amp; UX, Content &amp; Redaktion und Business Development. weiterlesen auf t3n.de",
+          "published": "Thu, 16 Jul 2026 15:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise+ | Steam Machine im Test: Mit FSR 4 gegen Preis- und Leistungsprobleme",
+          "link": "https://www.heise.de/tests/Steam-Machine-im-Test-Mit-FSR-4-gegen-Preis-und-Leistungsprobleme-11348644.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Die Steam Machine soll Konsolenkomfort mit der Flexibilität eines Linux-PCs verbinden. Unser Test zeigt, ob die Rechnung auch in der Hardware-Krise aufgeht.",
+          "published": "2026-07-17T08:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Biokraftstoff: BMW testet neuen Kraftstoff, Bosch liefert die Überwachung",
+          "link": "https://www.golem.de/news/biokraftstoff-bmw-testet-neuen-kraftstoff-bosch-liefert-die-ueberwachung-2607-210949.html",
+          "summary": "Sechs Monate sollen Serienfahrzeuge das Biobenzin in der Praxis testen. Gezeigt werden soll, dass der Kraftstoff direkt einsatzfähig ist. ( Energiewende , Elektroauto )",
+          "published": "2026-07-16T15:00:11+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Linus Torvalds, der Schöpfer des Linux-Kernels, hat seine Haltung zur Nutzung von KI in der Softwareentwicklung bekräftigt und Kritiker aufgefordert, entweder das Projekt zu verlassen oder es selbst zu forken. Dies spiegelt eine zunehmende Akzeptanz von KI-Tools in der Programmierung wider.",
+      "highlights": [
+        "Torvalds fordert Kritiker von KI-Tools auf, Linux zu verlassen oder es selbst zu forken.",
+        "Er betont, dass er die Diskussion um ein Verbot von KI-Tools ignorieren wird.",
+        "Die Äußerungen zeigen eine wachsende Integration von KI in die Softwareentwicklung."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Leben wir in einer Matrix? Physiker entwickeln Tests für die Simulationshypothese",
+          "link": "https://t3n.de/news/simulationshypothese-physiker-tests-matrix-realitaet-1750203/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Leben wir in einer gigantischen Computersimulation? Die Frage beschäftigt nicht nur Science-Fiction-Autoren, sondern auch Forschende. Es gibt sogar Vorschläge f weiterlesen auf t3n.de",
+          "published": "Fri, 17 Jul 2026 06:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "GoDaddy opened its registrar to AI agents. Then it had to build guardrails.",
+          "link": "https://thenewstack.io/godaddy-developer-platform-domains/",
+          "summary": "On Wednesday, GoDaddy launched its new developer platform, giving developers a way to manage domains without leaving their development environment. The post GoDaddy opened its registrar to AI agents. Then it had to build guardrails. appeared first on The New Stack .",
+          "published": "Thu, 16 Jul 2026 17:48:29 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Codex Micro: OpenAI stellt Mini-Tastatur vor",
+          "link": "https://t3n.de/news/codex-micro-openai-mini-tastatur-1753230/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die erste Hardware mit OpenAI-Branding ist da. Das Unternehmen hinter ChatGPT hat zusammen mit Work Loader die Mini-Tastatur Codex Micro vorgestellt. So soll sie den Nutzer:innen von Codex die Arbeit erleichtern. weiterlesen auf t3n.de",
+          "published": "Thu, 16 Jul 2026 19:00:24 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Misstrauen gegen Arbeitssuchende: Das Schattenboxen mit dem „organisierten Leistungsmissbrauch“",
+          "link": "https://netzpolitik.org/2026/misstrauen-gegen-arbeitssuchende-das-schattenboxen-mit-dem-organisierten-leistungsmissbrauch/",
+          "summary": "Manche Menschen werden bereits in der Eingangszone von Jobcentern abgewiesen und können keinen Antrag auf Leistungen stellen. – Alle Rechte vorbehalten: IMAGO / Revierfoto Mit einem neuen Kompetenzzentrum will die Bundesagentur für Arbeit effizienter „organisierten Leistungsmissbrauch“ aufdecken. Fachleute zweifeln, ob das Problem existiert, und befürchten: Insbesondere rassistisch diskriminierte Menschen könnten so ins Visier geraten und nicht die Leistungen bekommen, die ihnen zustehen.",
+          "published": "Thu, 16 Jul 2026 15:09:36 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "OpenAI’s GPT-Red automates prompt injection testing to harden AI agents",
+          "link": "https://thenewstack.io/gpt-red-prompt-injection-testing/",
+          "summary": "Now that AI agents are performing real tasks rather than just generating text, the old methods of manual security testing The post OpenAI&#8217;s GPT-Red automates prompt injection testing to harden AI agents appeared first on The New Stack .",
+          "published": "Thu, 16 Jul 2026 14:58:18 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Generative KI und große Sprachmodelle (LLMs) stehen im Fokus aktueller Entwicklungen, darunter neue Hardware von OpenAI und Sicherheitsmaßnahmen für KI-Agenten. Zudem wird die Simulationshypothese von Physikern untersucht, während GoDaddy seine Plattform für KI-Agenten öffnete.",
+      "highlights": [
+        "OpenAI präsentiert die Codex Micro, eine Mini-Tastatur zur Unterstützung von Codex-Nutzern.",
+        "GoDaddy ermöglicht Entwicklern die Verwaltung von Domains über KI-Agenten und implementiert Sicherheitsvorkehrungen.",
+        "OpenAI's GPT-Red automatisiert Tests zur Sicherheitsüberprüfung von KI-Agenten."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Two Trump health nominees crash and burn in tense Senate hearing",
+          "link": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
+          "summary": "Both nominees flailed in their own unique ways as senators sought answers.",
+          "published": "Thu, 16 Jul 2026 22:33:24 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds",
+          "link": "https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/",
+          "summary": "NTSB findings back Elon Musk's claim that driver manually overrode FSD.",
+          "published": "Thu, 16 Jul 2026 14:48:32 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Developing and Deploying a Platform that the Business Understands and Developers Actually Want",
+          "link": "https://www.infoq.com/news/2026/07/platform-business-users/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "A lot of platform teams face a problem: they build a lot of really cool stuff, and then their developers don't use it. Be visible to management, talk to stakeholders and listen to their problems, make your value measurable with metrics like DORA, create narratives, and show the hidden pain to make it personal: these are lessons that Lucas Hornung and Christian Matthaei presented. By Ben Linders",
+          "published": "Thu, 16 Jul 2026 11:09:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "DMA: EU-Kommission zwingt Google zur Freigabe von Suchdaten",
+          "link": "https://www.heise.de/news/DMA-EU-Kommission-zwingt-Google-zur-Freigabe-von-Suchdaten-11367764.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Statt Milliardenstrafen gibt es verbindliche Auflagen: Google muss nicht nur Android für KI-Konkurrenten öffnen, sondern auch Suchdaten teilen. Ein Kompromiss?",
+          "published": "2026-07-16T15:56:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die EU-Kommission hat Google verpflichtet, Suchdaten zu teilen und Android für KI-Konkurrenten zu öffnen, anstelle von Geldstrafen. Diese Maßnahmen sind Teil des Digital Markets Act (DMA), der darauf abzielt, fairere Wettbewerbsbedingungen im Tech-Sektor zu schaffen.",
+      "highlights": [
+        "Google muss Suchdaten mit Wettbewerbern teilen.",
+        "Android wird für KI-Konkurrenten geöffnet.",
+        "Die Maßnahmen sind Teil des Digital Markets Act (DMA)."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Sparkurs beim Streaming-Dienst: Netflix ersetzt aufwendige Szenen in 300 Titeln mit KI",
+          "link": "https://t3n.de/news/netflix-teure-szenen-ki-aktienkurs-1753292/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In rund 300 Titeln kam bei Netflix im laufenden Jahr schon KI zum Einsatz – um Zeit und Geld zu sparen. Aktionäre zeigen sich von dem Sparkurs unbeeindruckt. Sie beschäftigt etwas ganz anderes. weiterlesen auf t3n.de",
+          "published": "Fri, 17 Jul 2026 08:30:20 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Billig bestellt, teuer verzollt: Diese Fehler solltest du bei Temu und Shein vermeiden",
+          "link": "https://t3n.de/news/billig-bestellt-teuer-verzollt-diese-fehler-solltest-du-bei-temu-und-shein-vermeiden-1753214/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Seit Anfang Juli sind viele Bestellungen bei Temu, Shein und AliExpress teurer geworden. Das hat mit einer Zollpauschale zu tun, die in Zukunft erhoben wird. Es gibt allerdings einige einfache Tricks, mit denen man weiterhin um Abgabe herumkommt. weiterlesen auf t3n.de",
+          "published": "Thu, 16 Jul 2026 17:30:21 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Warum Astronauten auf dem Mond hüpfen und was Bungee-Mäuse damit zu tun haben",
+          "link": "https://t3n.de/news/raumfahrt-mond-hopserlauf-bungee-maeuse-studie-1753222/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Während der Apollo-Missionen in den 1970er Jahren zeigten die Besatzungsmitglieder auf der Mondoberfläche ein ungewöhnliches Fortbewegungsmuster. Anstatt zu gehen oder zu rennen, verfielen sie in einen asymmetrischen Hopserlauf, den Erwachsene unter irdischen Bedingungen so gut wie niemals nutzen. Die Ursache für diese Verhaltensänderung wurde lange Zeit vorwiegend dem starren Design der Druckanzüge zugeschrieben. weiterlesen auf t3n.de",
+          "published": "Thu, 16 Jul 2026 16:26:22 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Kahlschlag mit Folgen: Wie deutsche Forscher Klimadaten vor Trumps Kürzungen retten",
+          "link": "https://t3n.de/news/kahlschlag-mit-folgen-wie-deutsche-forscher-klimadaten-vor-trumps-kuerzungen-retten-1753114/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wie lassen sich bedrohte Klimadaten aus den USA sichern? Frank Oliver Glöckner hat an einer Rettungsaktion mitgewirkt. Im TR-Interview spricht er darüber, wie m weiterlesen auf t3n.de",
+          "published": "Thu, 16 Jul 2026 14:30:39 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise+ | Polaroid Go Generation 3: Mini-Sofortbildkamera im Test",
+          "link": "https://www.heise.de/tests/Polaroid-Go-Generation-3-Mini-Sofortbildkamera-im-Test-11365587.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Polaroid liefert mit der Go Gen 3 eine überarbeitete Optik und einen stärkeren Blitz. Wir haben getestet, ob die Mini-Kamera in der Praxis wirklich überzeugt.",
+          "published": "2026-07-17T09:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Software Supply Chain wird zunehmend durch Open-Source-Lösungen geprägt, die Effizienz und Kosteneinsparungen bieten. Unternehmen setzen verstärkt auf KI-gestützte Technologien, um Produktionsprozesse zu optimieren und Ressourcen zu schonen.",
+      "highlights": [
+        "Netflix nutzt KI zur Optimierung von 300 Titeln.",
+        "Zollpauschalen erhöhen die Kosten für Bestellungen bei Temu und Shein.",
+        "Deutsche Forscher sichern bedrohte Klimadaten aus den USA."
+      ]
+    }
+  ]
+}
