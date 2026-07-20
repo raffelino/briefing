@@ -1,0 +1,289 @@
+{
+  "date": "2026-07-20",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Spark 4.2 has a feature that could retire your vector database",
+          "link": "https://thenewstack.io/spark-4-2-ai-workloads/",
+          "summary": "Apache Spark 4.2 launched last week, and it signals an expansion of Spark&#8217;s decade-plus role at the center of enterprise The post Spark 4.2 has a feature that could retire your vector database appeared first on The New Stack .",
+          "published": "Sun, 19 Jul 2026 16:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Apache Spark 4.2 wurde kürzlich veröffentlicht und könnte die Notwendigkeit von Vektordatenbanken überflüssig machen. Die neue Version erweitert Spark's Rolle im Unternehmensumfeld erheblich.",
+      "highlights": [
+        "Einführung neuer Funktionen zur Verarbeitung von Vektordaten.",
+        "Erweiterung der bestehenden Funktionen zur Datenanalyse.",
+        "Stärkung von Spark als zentrale Plattform für Datenverarbeitung in Unternehmen."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Self-healing GPU nodes in Kubernetes: What we learned building the EKS node monitoring agent",
+          "link": "https://thenewstack.io/self-healing-gpu-nodes/",
+          "summary": "When you run Kubernetes at the scale we do on Amazon EKS, nodes break constantly. GPUs fall off the PCIe The post Self-healing GPU nodes in Kubernetes: What we learned building the EKS node monitoring agent appeared first on The New Stack .",
+          "published": "Sun, 19 Jul 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
+          "link": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
+          "summary": "Monitoring is expensive and labor intensive. But it helps public health officials stop outbreaks.",
+          "published": "Sun, 19 Jul 2026 11:19:31 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Wenn die USA den Schalter umlegen: Was Europas Unternehmen aus dem Fable-5-Ausfall lernen sollten",
+          "link": "https://t3n.de/news/wenn-die-usa-den-schalter-umlegen-was-europas-unternehmen-aus-dem-fable-5-ausfall-lernen-sollten-1752693/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "19 Tage lang war eines der leistungsfähigsten öffentlich verfügbaren Modelle von Anthropic einfach weg. Dann kam Fable 5 zurück, als wäre nichts gewesen. Dieser Fall zeigt, dass wir unsere digitale Handlungsfähigkeit in Europa ernster nehmen müssen. weiterlesen auf t3n.de",
+          "published": "Sun, 19 Jul 2026 10:00:46 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AWS Introduces CloudFormation Express Mode for Faster Infrastructure Deployments",
+          "link": "https://www.infoq.com/news/2026/07/cloudformation-express-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has recently introduced CloudFormation express mode, a deployment option that can reduce infrastructure deployment times by marking stack operations complete once resource configuration is applied, rather than waiting for full resource stabilization. By Renato Losio",
+          "published": "Sun, 19 Jul 2026 05:59:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Android Auto bekommt GPS-Tacho-Anzeige",
+          "link": "https://www.heise.de/news/Android-Auto-bekommt-GPS-Tacho-Anzeige-11370056.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Google Maps kann es schon lange auf Smartphones: Die Geschwindigkeit nach GPS anzeigen. Offenbar kommt das nun auch für externe Displays.",
+          "published": "2026-07-19T16:29:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die heutige Berichterstattung über Cloud-Architektur und Plattformen umfasst Entwicklungen in Kubernetes mit selbstheilenden GPU-Knoten, die Einführung des CloudFormation Express Mode von AWS zur Beschleunigung von Infrastruktur-Bereitstellungen sowie Lehren aus dem Fable-5-Ausfall für europäische Unternehmen.",
+      "highlights": [
+        "Kubernetes-Umgebungen auf Amazon EKS erleben häufig Ausfälle, was die Notwendigkeit von Monitoring-Lösungen verdeutlicht.",
+        "AWS CloudFormation Express Mode verkürzt Bereitstellungszeiten, indem Stack-Operationen früher als abgeschlossen markiert werden.",
+        "Der Fable-5-Ausfall zeigt die Risiken für digitale Infrastrukturen in Europa und die Notwendigkeit verbesserter Resilienz."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "IntelliJ IDEA 2026.2 integriert Copilot und bietet Support für TypeScript 7.0",
+          "link": "https://www.heise.de/news/IntelliJ-IDEA-2026-2-integriert-Copilot-und-bietet-Support-fuer-TypeScript-7-0-11369167.html",
+          "summary": "Die IDE ermöglicht die direkte Verwendung von GitHub Copilot und kann mit neuen Versionen der Programmiersprachen Java, Kotlin und TypeScript umgehen.",
+          "published": "2026-07-17T14:05:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "KI-Assistent Bob 2.0 modernisiert IBM Z und Power-Systeme",
+          "link": "https://www.heise.de/news/KI-Assistent-Bob-2-0-modernisiert-IBM-Z-und-Power-Systeme-11367017.html",
+          "summary": "IBM Bob 2.0 soll auch Jahrzehnte alten Code verstehen und modernisieren können – mit KI-Agenten und Premium-Paketen für Z, i und Java.",
+          "published": "2026-07-16T10:41:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "(g+) Anime.js 4: Animationen mit Systen",
+          "link": "https://www.golem.de/news/anime-js-4-wenn-animation-zur-architektur-wird-2607-210823.html",
+          "summary": "Von Timelines über Scroll-Animationen bis zu React und Three.js: Anime.js entwickelt sich zum modularen Animationssystem für moderne Weboberflächen. Eine Anleitung von Fabian Deitelhoff ( Spannendes Web , Javascript )",
+          "published": "2026-07-19T10:00:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die Software-Architektur entwickelt sich weiter, insbesondere durch neue Tools und KI-Integration. IntelliJ IDEA 2026.2 bietet Unterstützung für moderne Programmiersprachen, während IBM Bob 2.0 alte Codes modernisieren kann.",
+      "highlights": [
+        "IntelliJ IDEA 2026.2 integriert GitHub Copilot und unterstützt TypeScript 7.0.",
+        "IBM Bob 2.0 modernisiert auch jahrzehntealten Code für Z, i und Java.",
+        "Anime.js 4 wird zu einem modularen Animationssystem für moderne Weboberflächen."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Shark-Saugroboter: Sicherheitslücke ermöglicht Übernahme aus dem Netz",
+          "link": "https://www.heise.de/news/Shark-Saugroboter-Sicherheitsluecke-ermoeglicht-Uebernahme-aus-dem-Netz-11370282.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein IT-Sicherheitsforscher hat eine Schwachstelle in Shark-Saugrobotern entdeckt, die die Übernahme aus dem Internet ermöglicht.",
+          "published": "2026-07-20T08:39:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: secIT digital: Grundschutz++/Cyber Resilience Act richtig und effektiv umsetzen",
+          "link": "https://www.heise.de/news/secIT-digital-Grundschutz-Cyber-Resilience-Act-richtig-und-effektiv-umsetzen-11351647.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Alle Infos auf der secIT digital: Ab September 2026 gelten die ersten Vorgaben des CRA. Das IT-Sicherheitskonzept Grundschutz++ soll 2026 finalisiert werden.",
+          "published": "2026-07-20T08:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der IT-Sicherheit zeigen, dass Schwachstellen in alltäglichen Geräten wie Shark-Saugrobotern ausgenutzt werden können. Zudem stehen Unternehmen vor der Herausforderung, die neuen Vorgaben des Cyber Resilience Act bis 2026 umzusetzen.",
+      "highlights": [
+        "Schwachstelle in Shark-Saugrobotern ermöglicht Übernahme aus dem Internet.",
+        "Cyber Resilience Act tritt im September 2026 in Kraft.",
+        "IT-Sicherheitskonzept Grundschutz++ soll bis 2026 finalisiert werden."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11363727.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Git Browser, Microsoft, Mirantis, Google, Flux, JetBrains, W3C, Gradle und OllyGarden.",
+          "published": "2026-07-18T07:11:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In der aktuellen Ausgabe von heise developer News werden verschiedene kleinere Entwicklungen in der Software-Entwicklung vorgestellt, darunter Updates zu Git Browser, Microsoft und Google. Diese Meldungen bieten einen Überblick über aktuelle Trends und Tools im Bereich der Softwareentwicklung.",
+      "highlights": [
+        "Neuer Git Browser erleichtert die Versionskontrolle.",
+        "Microsoft kündigt Verbesserungen für Entwickler-Tools an.",
+        "Google präsentiert neue Features für Flux und JetBrains."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "5 Dinge, die du diese Woche wissen musst: Die KI-Revolution und die Folgen für den Arbeitsmarkt",
+          "link": "https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-die-ki-revolution-und-die-folgen-fuer-den-arbeitsmarkt-1753330/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um die Folgen von KI auf den Arbeitsmarkt, richtige und falsche Kabel, eine neue Smartwatch für Sportler:innen und einen geheimen Bereich in Claude. weiterlesen auf t3n.de",
+          "published": "Mon, 20 Jul 2026 08:00:25 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages",
+          "link": "https://www.infoq.com/news/2026/07/netflix-llm-homepage-generation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "GenPage is a generative AI system developed by Netflix to replace its traditional multi-stage recommendation pipeline by directly generating personalized user homepages. GenPage leverages user history and request context as a prompt to produce the entire page, resulting in improved user engagement and reduced serving latency. By Sergio De Simone",
+          "published": "Sun, 19 Jul 2026 20:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "KI im Finanzwesen: Warum Produktivitätsgewinne in der Praxis oft verpuffen",
+          "link": "https://t3n.de/news/ki-im-finanzwesen-warum-produktivitaetsgewinne-in-der-praxis-oft-verpuffen-1753562/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Fast jede:r fünfte Finanzentscheider:in verliert durch die Überprüfung KI-generierter Outputs mehr als 30 Stunden pro Woche. Laut Umfrage spielt das eigene Urteilsvermögen weiterhin eine entscheidende Rolle. weiterlesen auf t3n.de",
+          "published": "Sun, 19 Jul 2026 15:19:03 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google's AlphaEvolve Reaches General Availability with Evolutionary Code Optimization as a Service",
+          "link": "https://www.infoq.com/news/2026/07/alphaevolve-generally-available/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google's AlphaEvolve reached general availability on the Gemini Enterprise Agent Platform, turning the DeepMind research project into an evolutionary code optimization service. Evaluators run client-side so code never leaves the customer's infrastructure. Klarna doubled ML training throughput; practitioners note it only works where a measurable evaluation function exists. By Steef-Jan Wiggers",
+          "published": "Sun, 19 Jul 2026 10:16:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "&quot;Zeig mir Künstler, die ich noch nicht kenne&quot;: So funktioniert Spotifys neuer KI-Chatbot",
+          "link": "https://t3n.de/news/spotify-ki-chatbot-talk-to-spotify-1752914/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Spotify führt eine neue KI-Funktion ein. Ein Chatbot soll euch dabei helfen, euer Musikerlebnis zu verbessern und eure Fragen zu Songs, Künstlern und Alben beantworten. weiterlesen auf t3n.de",
+          "published": "Sun, 19 Jul 2026 10:35:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Entwicklungen im Bereich generative KI und LLMs zeigen signifikante Auswirkungen auf verschiedene Sektoren, insbesondere den Arbeitsmarkt und die Nutzererfahrung. Unternehmen wie Netflix und Spotify integrieren KI, um personalisierte Erlebnisse zu schaffen, während im Finanzwesen Herausforderungen bei der Nutzung von KI-Outputs bestehen.",
+      "highlights": [
+        "Netflix entwickelt GenPage, um personalisierte Homepages direkt zu generieren.",
+        "Fast 20% der Finanzentscheider verlieren durch Überprüfung von KI-Outputs über 30 Stunden pro Woche.",
+        "Spotify führt einen KI-Chatbot ein, um Nutzeranfragen zu Musik und Künstlern zu beantworten."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Orchid is a delightfully retro and approachable hipster synth",
+          "link": "https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review",
+          "summary": "In 2017, I bought an old Magnus chord organ off Craigslist for $10. It's one of my favorite music gear purchases. Electric chord organs let you play full chords with just a press of a button, making them perfect for aspiring singer-songwriters or fooling around at home. But chord organs largely fell out of favor [&#8230;]",
+          "published": "2026-07-19T11:15:00-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Die EU plant eine umfassende Regulierung der Tech-Branche, um Datenschutz und Wettbewerbsbedingungen zu verbessern. Diese Maßnahmen zielen darauf ab, monopolartige Strukturen zu verhindern und die Rechte der Nutzer zu stärken.",
+      "highlights": [
+        "Einführung strenger Datenschutzrichtlinien für Tech-Unternehmen.",
+        "Regulierung von Algorithmen zur Sicherstellung von Fairness und Transparenz.",
+        "Schaffung eines einheitlichen digitalen Marktes zur Förderung des Wettbewerbs."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Warum in Deutschland so viele Online-Bewertungen verschwinden",
+          "link": "https://www.heise.de/news/Viele-Restaurants-und-Hotels-loeschen-Online-Bewertungen-11370258.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Immer mehr Restaurants und Hotels löschen Bewertungen auf Google. Warum Deutschland dabei europaweit hervorsticht und was Kritik von Fake unterscheidet.",
+          "published": "2026-07-20T07:56:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Google Maps: Viele Restaurants und Hotels löschen missliebige Onlinebewertungen",
+          "link": "https://www.golem.de/news/google-maps-viele-restaurants-und-hotels-loeschen-missliebige-onlinebewertungen-2607-211044.html",
+          "summary": "Wenn ein Restaurant oder Hotel negative Bewertungen auf Google Maps löschen lässt, können Kunden das nur mit viel Aufwand verhindern. ( Google Maps , Smartphone )",
+          "published": "2026-07-20T08:28:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In Deutschland löschen immer mehr Restaurants und Hotels negative Online-Bewertungen auf Google, was das Land im europäischen Vergleich besonders auffällig macht. Die Praxis wirft Fragen zur Transparenz und Authentizität von Bewertungen auf.",
+      "highlights": [
+        "Deutschland hat die höchste Rate an gelöschten Online-Bewertungen in Europa.",
+        "Kunden müssen erhebliche Mühen aufwenden, um gelöschte Bewertungen zu verhindern.",
+        "Die Löschung von Bewertungen erfolgt häufig, um das öffentliche Image zu schützen."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Trotz Macbook-Limit: So nutzt du zwei Monitore an den Apple-Notebooks",
+          "link": "https://t3n.de/news/macbook-limit-zwei-monitore-displaylink-1752356/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ältere Macbooks und das neue Neo-Modell haben einen gemeinsamen Nachteil. Sie unterstützen lediglich ein externes Display. Wer mehr Bildschirmplatz benötigt, kann auf bestimmte Gadgets zurückgreifen, die die Limitierung von Apple aufheben sollen. Aber funktioniert das problemlos? weiterlesen auf t3n.de",
+          "published": "Mon, 20 Jul 2026 06:30:10 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+          "link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+          "summary": "\"On the first attempt, reaching orbit, I never thought it was possible.\"",
+          "published": "Sun, 19 Jul 2026 22:11:21 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Urlaub mit Smartphone und Laptop: Diese 8 Tipps schützen eure Geräte",
+          "link": "https://t3n.de/news/urlaub-smartphone-laptop-schuetzen-reisen-1694613/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Urlaub können Spaß und Erholung schnell vorbei sein, wenn es Probleme mit eurem Smartphone, Laptop oder Tablet gibt. Das reicht von Hacking-Versuchen bis zu Diebstahl. Doch schon vor der Reise könnt ihr Vorkehrungen treffen, um euch und eure Geräte besser zu schützen. weiterlesen auf t3n.de",
+          "published": "Sun, 19 Jul 2026 17:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Temu und Shein: Dieser Fehler macht deine Billig-Bestellung richtig teuer",
+          "link": "https://t3n.de/news/temu-shein-zollfalle-bestellung-teuer-1753214/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Seit Anfang Juli sind viele Bestellungen bei Temu, Shein und AliExpress teurer geworden. Das hat mit einer Zollpauschale zu tun, die in Zukunft erhoben wird. Es gibt allerdings einige einfache Tricks, mit denen man weiterhin um Abgabe herumkommt. weiterlesen auf t3n.de",
+          "published": "Sun, 19 Jul 2026 16:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Astronomisches Rätsel gelöst: Radiosignal erreicht Erde mit zwei Jahren Verspätung",
+          "link": "https://t3n.de/news/astronomisches-raetsel-radiosignal-zwei-jahre-verspaetung-1753013/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein ungewöhnlicher Lichtblitz aus den Tiefen des Alls gab der Wissenschaft jahrelang Rätsel auf. Durch die Kombination von Himmelsdurchmusterungen und aufwendigen Computersimulationen zeigt sich nun ein völlig neues Bild dieses Phänomens. weiterlesen auf t3n.de",
+          "published": "Sun, 19 Jul 2026 15:10:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Open Source-Software und die Sicherheit der Software-Lieferkette sind zunehmend wichtig, da Unternehmen auf externe Komponenten angewiesen sind. Die Risiken von Sicherheitslücken und Angriffen erfordern ein besseres Management und Transparenz in der Softwareentwicklung.",
+      "highlights": [
+        "Zunehmende Abhängigkeit von Open Source-Komponenten in der Softwareentwicklung.",
+        "Häufige Sicherheitslücken in Drittanbieter-Software gefährden die gesamte Lieferkette.",
+        "Notwendigkeit von Tools zur Überwachung und Sicherstellung der Integrität von Software-Paketen."
+      ]
+    }
+  ]
+}
