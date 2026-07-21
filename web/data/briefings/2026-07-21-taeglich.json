@@ -1,0 +1,364 @@
+{
+  "date": "2026-07-21",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
+          "link": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
+          "summary": "Many will say Spa is the best racetrack on earth, but not for these F1 cars.",
+          "published": "Mon, 20 Jul 2026 15:59:18 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "In einem aktuellen Artikel wird kritisiert, dass Machine-Learning-Algorithmen die Formel 1 negativ beeinflussen, insbesondere auf der traditionsreichen Rennstrecke in Spa. Die Technologie könnte den Wettbewerb verzerren und das Fahrerlebnis beeinträchtigen.",
+      "highlights": [
+        "Machine-Learning-Algorithmen werden zunehmend in der Formel 1 eingesetzt.",
+        "Die Rennstrecke in Spa gilt als eine der besten, wird aber durch technologische Eingriffe verändert.",
+        "Kritiker befürchten, dass die sportliche Integrität und das Fahrerlebnis leiden."
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+          "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+          "summary": "Judge grants restraining order, saying merger \"likely to violate antitrust laws.\"",
+          "published": "Mon, 20 Jul 2026 21:10:14 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Anthropic employees worked “literally around the clock” to keep Fable 5 from disappearing",
+          "link": "https://thenewstack.io/fable-5-permanent-subscription-access/",
+          "summary": "After weeks of extending temporary access while bringing additional inference capacity online, Anthropic has finalized Claude Fable 5 subscriptions. In The post Anthropic employees worked &#8220;literally around the clock&#8221; to keep Fable 5 from disappearing appeared first on The New Stack .",
+          "published": "Mon, 20 Jul 2026 16:38:09 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "DoorDash Uses Envoy and Valkey for a 1.5M RPS Proxy Cache with 99.99999% Availability",
+          "link": "https://www.infoq.com/news/2026/07/doordash-entity-cache-proxy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "DoorDash has developed Entity Cache, a transparent proxy caching platform built on Envoy and Valkey to reduce redundant service-to-service requests across its microservices architecture. Operating within DoorDash’s service mesh, the platform serves over 1.5M requests per second with 99.99999% availability through caching, event-driven invalidation, failure handling, and performance optimizations. By Leela Kumili",
+          "published": "Mon, 20 Jul 2026 13:53:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AWS Releases Loom, an Open-Source Reference Platform for Governing AI Agents at Enterprise Scale",
+          "link": "https://www.infoq.com/news/2026/07/loom-aws-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS released Loom, an open-source reference platform on AWS Labs for governing AI agents at scale. Built on Strands Agents and Bedrock AgentCore Runtime, it implements RFC 8693 token exchange for identity propagation through delegated actor chains, config-driven deployments without runtime code generation, and mandatory tagging. AWS positions it as an example, not a managed service. By Steef-Jan Wiggers",
+          "published": "Mon, 20 Jul 2026 10:04:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Android Auto bekommt praktische Google-Maps-Funktion: Was der Kartendienst jetzt anzeigt",
+          "link": "https://t3n.de/news/android-auto-google-maps-geschwindigkeitsanzeige-1753605/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google Maps zeigt in Android Auto wohl bald die aktuelle Geschwindigkeit an. Diese Funktion hatte gefehlt, was viele Nutzer:innen genervt hat. So könnt ihr die Funktion aktivieren. weiterlesen auf t3n.de",
+          "published": "Mon, 20 Jul 2026 11:45:41 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Cloud-Architektur zeigen innovative Ansätze zur Optimierung von Diensten und zur Governance von KI-Agenten. DoorDash hat eine leistungsstarke Proxy-Caching-Plattform implementiert, während AWS Loom als Open-Source-Plattform für die Verwaltung von KI-Agenten vorgestellt wurde.",
+      "highlights": [
+        "DoorDash's Entity Cache verarbeitet über 1,5 Millionen Anfragen pro Sekunde mit 99,99999% Verfügbarkeit.",
+        "AWS Loom ist eine Open-Source-Plattform zur Governance von KI-Agenten und nutzt Strands Agents und Bedrock AgentCore Runtime.",
+        "Die Implementierung von RFC 8693 ermöglicht Identitätsübertragung durch delegierte Akteursketten in AWS Loom."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: Value Objects, WildFly 41, TornadoVM, LangChain4j, Oracle AI Agent Studio",
+          "link": "https://www.infoq.com/news/2026/07/java-news-roundup-jul13-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for July 13th, 2026, features news highlighting: a reintroduction of Value Objects (Preview); the GA release of WildFly 41; the July 2026 edition of Open Liberty 26.0.0.7; point releases of TornadoVM, Apache TomEE, Java Operator SDK and LangChain4j; a maintenance release of Micronaut; a new extension, Quarkus Shim; and a new Oracle AI Agent Studio for Fusion Applications. By Michael Redlich",
+          "published": "Mon, 20 Jul 2026 18:45:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "IntelliJ IDEA 2026.2 integriert Copilot und bietet Support für TypeScript 7.0",
+          "link": "https://www.heise.de/news/IntelliJ-IDEA-2026-2-integriert-Copilot-und-bietet-Support-fuer-TypeScript-7-0-11369167.html",
+          "summary": "Die IDE ermöglicht die direkte Verwendung von GitHub Copilot und kann mit neuen Versionen der Programmiersprachen Java, Kotlin und TypeScript umgehen.",
+          "published": "2026-07-17T14:05:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "KI-Assistent Bob 2.0 modernisiert IBM Z und Power-Systeme",
+          "link": "https://www.heise.de/news/KI-Assistent-Bob-2-0-modernisiert-IBM-Z-und-Power-Systeme-11367017.html",
+          "summary": "IBM Bob 2.0 soll auch Jahrzehnte alten Code verstehen und modernisieren können – mit KI-Agenten und Premium-Paketen für Z, i und Java.",
+          "published": "2026-07-16T10:41:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die aktuelle Software-Architektur und Java-Entwicklung wird durch neue Tools und Technologien geprägt, darunter die Einführung von Value Objects und die Integration von KI in Entwicklungsumgebungen. Wichtige Updates umfassen die Veröffentlichung von WildFly 41 und IntelliJ IDEA 2026.2 mit GitHub Copilot.",
+      "highlights": [
+        "Wiederintroduktion von Value Objects in Java (Preview)",
+        "Veröffentlichung von WildFly 41 als GA-Version",
+        "IntelliJ IDEA 2026.2 unterstützt GitHub Copilot und TypeScript 7.0"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Pay up or not? Ransomware surge has victims facing tough choices.",
+          "link": "https://arstechnica.com/security/2026/07/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/",
+          "summary": "Governments look at banning ransom payments in face of increasingly sophisticated threats.",
+          "published": "Mon, 20 Jul 2026 14:00:50 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Coca Cola: Molkereisparte fairlife stellt Produktion nach Cyberangriff ein",
+          "link": "https://www.heise.de/news/Coca-Cola-Molkereisparte-fairlife-stellt-Produktion-nach-Cyberangriff-ein-11371577.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Molkereiprodukte-Zweig fairlife von Coca Cola muss nach einem Ransomware-Vorfall temporär die Produktion einstellen.",
+          "published": "2026-07-21T09:08:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | Datenlecks auf WordPress-Websites finden und abdichten",
+          "link": "https://www.heise.de/hintergrund/Datenlecks-auf-WordPress-Websites-finden-und-abdichten-11350569.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Mit dem CMS WordPress sind Websites auch ohne Fachwissen schnell aufgebaut. Damit dessen JSON-API nicht sämtliche Daten ausplaudert, müssen Sie es schützen.",
+          "published": "2026-07-21T07:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Hunderttausende Opfer: Schlag gegen Phishing-Service",
+          "link": "https://www.heise.de/news/Hunderttausende-Opfe-Schlag-gegen-Phishing-Service-11371371.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ermittler aus Deutschland und den USA haben die Infrastruktur des Phishing-Services Kratos zerschlagen. Der Dienst ermöglichte monatlich tausende Angriffe.",
+          "published": "2026-07-20T18:42:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Hunderttausende Opfer: BKA zerschlägt große Phishing-Plattform",
+          "link": "https://www.golem.de/news/hunderttausende-opfer-bka-zerschlaegt-grosse-phishing-plattform-2607-211093.html",
+          "summary": "Über einen Dienst namens Kratos wurden jeden Monat rund 15.000 Phishing-Kampagnen abgewickelt. Jetzt hat das BKA dem ein Ende gesetzt. ( Phishing , Microsoft )",
+          "published": "2026-07-21T08:41:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die IT-Sicherheit steht im Fokus aktueller Entwicklungen, insbesondere durch Ransomware-Angriffe und Phishing-Dienste. Unternehmen und Regierungen suchen nach Lösungen, um die wachsenden Bedrohungen zu bekämpfen und die Sicherheit von Daten zu gewährleisten.",
+      "highlights": [
+        "Coca Colas Molkereisparte fairlife stellt Produktion nach Ransomware-Angriff ein.",
+        "Ermittler haben die Phishing-Plattform Kratos zerschlagen, die monatlich 15.000 Angriffe ermöglichte.",
+        "Regierungen erwägen ein Verbot von Lösegeldzahlungen aufgrund der steigenden Bedrohungen durch Ransomware."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "GKV-Reform: Wie wird man zu 25 Prozent krank – und hilft das gegen lange Ausfälle?",
+          "link": "https://t3n.de/news/gkv-sparpaket-teilkrankschreibung-25-prozent-langfristige-ausfaelle-1753062/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Bundesregierung will die Krankheitstage senken. Das zuletzt verabschiedete Krankenkassen-Sparpaket sieht dabei eine Teilkrankschreibung vor – und will Zusch weiterlesen auf t3n.de",
+          "published": "Mon, 20 Jul 2026 12:30:43 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Telekom sichert sich Übertragungsrechte für Fußball-WM 2030",
+          "link": "https://www.heise.de/news/Auch-2030-Telekom-bleibt-bei-der-WM-am-Ball-11371397.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Telekom hat sich auch die Rechte für die nächste Veranstaltung 2030 gesichert. Mehrere Spiele werden trotzdem auch im Free-TV zu sehen sein.",
+          "published": "2026-07-20T21:15:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Bundesregierung plant eine Reform zur Senkung der Krankheitstage durch Teilkrankschreibungen. Dies ist Teil eines Sparpakets für die gesetzlichen Krankenkassen, das auch Zuschüsse vorsieht.",
+      "highlights": [
+        "Teilkrankschreibung soll Krankheitstage um 25 Prozent senken.",
+        "Reform ist Bestandteil eines Krankenkassen-Sparpakets.",
+        "Zuschüsse sollen die Umsetzung unterstützen."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11363727.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Git Browser, Microsoft, Mirantis, Google, Flux, JetBrains, W3C, Gradle und OllyGarden.",
+          "published": "2026-07-18T07:11:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
+          "link": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
+          "summary": "You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You only get to the next screen with the echo-y chimes and the color-filled PlayStation logo if your console recognizes the disc. How badly [&#8230;]",
+          "published": "2026-07-20T16:06:40-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Agile Methoden und UX/UI sind entscheidend für die Entwicklung benutzerfreundlicher Software. Sie fördern eine iterative Herangehensweise, die es Teams ermöglicht, schnell auf Nutzerfeedback zu reagieren und die Benutzererfahrung kontinuierlich zu verbessern.",
+      "highlights": [
+        "Agile Methoden basieren auf iterativen Entwicklungszyklen.",
+        "UX/UI-Design fokussiert sich auf die Benutzerfreundlichkeit und Ästhetik von Software.",
+        "Die Kombination von Agile und UX/UI verbessert die Anpassungsfähigkeit an Nutzerbedürfnisse."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower",
+          "link": "https://thenewstack.io/kimi-k3-fable-coding-benchmark/",
+          "summary": "Moonshot AI released Kimi K3 in mid-July, selling it as a serious professional coding tool that competes head-on with Claude The post Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower appeared first on The New Stack .",
+          "published": "Mon, 20 Jul 2026 18:07:20 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Amazon, Microsoft, and Google are converging on the same enterprise agent architecture",
+          "link": "https://thenewstack.io/agent-platform-portability-contract/",
+          "summary": "Over the past nine months, Amazon, Microsoft, and Google have each introduced or renamed an enterprise agent platform. And all The post Amazon, Microsoft, and Google are converging on the same enterprise agent architecture appeared first on The New Stack .",
+          "published": "Mon, 20 Jul 2026 17:43:11 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "ChatGPT und Fable vs. Kimi K3: Wie mächtig sind chinesische Open-Source-Modelle?",
+          "link": "https://t3n.de/news/openai-anthropic-kimi-k3-open-source-modelle-alternative-1749657/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Experten gehen davon aus, dass frei verfügbare Open-Source-Modelle in wenigen Monaten so gut sind wie Top-Modelle von OpenAI oder Anthropic. Die aktuelle Veröff weiterlesen auf t3n.de",
+          "published": "Mon, 20 Jul 2026 16:15:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Grok 4.5 vs. Claude Opus 4.8: Costs and what works, not the spec sheet",
+          "link": "https://thenewstack.io/grok-opus-coding-tokens/",
+          "summary": "Can Grok 4.5 really match Opus for a quarter of the tokens? xAI released Grok 4.5 on July 8. It The post Grok 4.5 vs. Claude Opus 4.8: Costs and what works, not the spec sheet appeared first on The New Stack .",
+          "published": "Mon, 20 Jul 2026 13:38:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Three InfoQ Certification Cohorts Start This August: Meet the Facilitators",
+          "link": "https://www.infoq.com/news/2026/07/infoq-online-cohorts-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "InfoQ has opened enrollment for three five-week online certification cohorts starting in August, each led by a senior practitioner applying QCon talk frameworks to participants' own work: architecture with Luca Mezzalira, engineering leadership with Michelle Brush, and AI security and privacy with Katharine Jarmul. By Artenisa Chatziou",
+          "published": "Mon, 20 Jul 2026 13:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Die Konkurrenz im Bereich generative KI und LLMs intensiviert sich, da neue Modelle wie Kimi K3 und Grok 4.5 auf den Markt kommen und bestehende Lösungen herausfordern. Gleichzeitig arbeiten große Unternehmen wie Amazon, Microsoft und Google an ähnlichen Architekturen für Unternehmensagenten.",
+      "highlights": [
+        "Kimi K3 bietet ähnliche Ergebnisse wie Claude Fable 5, ist aber dreimal günstiger und viermal langsamer.",
+        "Amazon, Microsoft und Google haben in den letzten neun Monaten ihre Plattformen für Unternehmensagenten eingeführt oder umbenannt.",
+        "Experten prognostizieren, dass Open-Source-Modelle in wenigen Monaten mit den Top-Modellen von OpenAI und Anthropic konkurrieren können."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Ab August Pflicht: Was Marketer bei KI-generierten Inhalten jetzt beachten müssen",
+          "link": "https://t3n.de/news/ab-august-pflicht-ki-kennzeichnungspflicht-1752203/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ab August 2026 greifen offiziell die Transparenzpflichten nach Artikel 50 des AI Acts der EU. Wer KI-generierte Inhalte über digitale Kanäle verbreitet, muss si weiterlesen auf t3n.de",
+          "published": "Tue, 21 Jul 2026 08:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "SpaceX-Crash: Starinvestor erwartet, dass die Aktie kollabiert",
+          "link": "https://t3n.de/news/spacex-aktie-prognose-1753702/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "SpaceX hatte Mitte Juni 2026 den bisher größten Börsengang hingelegt und war zwischenzeitlich rund 2,7 Billionen US-Dollar wert. Seitdem ist die Aktie aber eingebrochen und eine Billion Dollar futsch. Ein Experte rechnet mit dem Schlimmsten. weiterlesen auf t3n.de",
+          "published": "Mon, 20 Jul 2026 20:29:31 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
+          "link": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/",
+          "summary": "Online retailer AliExpress says it's shocked by largest DSA fine yet.",
+          "published": "Mon, 20 Jul 2026 15:32:45 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "AliExpress: EU-Kommission verhängt DSA-Rekordstrafe",
+          "link": "https://www.heise.de/news/AliExpress-EU-Kommission-verhaengt-DSA-Rekordstrafe-11370852.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der chinesische Onlinemarktplatz AliExpress hat über Jahre gegen den Digital Services Act verstoßen und muss nun 550 Millionen Euro zahlen.",
+          "published": "2026-07-20T12:45:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Alibaba: 550 Millionen Euro Strafe gegen Aliexpress in Europa",
+          "link": "https://www.golem.de/news/alibaba-550-millionen-euro-strafe-gegen-aliexpress-in-europa-2607-211067.html",
+          "summary": "Es handelt sich um die bisher höchste Geldbuße seit Inkrafttreten des europäischen Digital Services Act (DSA). Dennoch kommt Aliexpress glimpflich davon. ( Alibaba , Wirtschaft )",
+          "published": "2026-07-20T14:03:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die EU setzt ihre Tech-Regulierung fort, indem sie AliExpress mit einer Rekordstrafe von 550 Millionen Euro belegt, da das Unternehmen gegen den Digital Services Act verstoßen hat. Zudem treten ab August 2026 neue Transparenzpflichten für KI-generierte Inhalte in Kraft.",
+      "highlights": [
+        "AliExpress muss 550 Millionen Euro Strafe zahlen, die höchste seit Inkrafttreten des DSA.",
+        "Ab August 2026 gelten neue Transparenzpflichten für KI-generierte Inhalte gemäß Artikel 50 des AI Acts.",
+        "SpaceX-Aktien haben seit dem Börsengang im Juni 2026 massiv an Wert verloren, Experten warnen vor weiterem Rückgang."
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "Presentation: Platform Engineering for Everyone - Success Can’t Be Coded",
+          "link": "https://www.infoq.com/presentations/platform-engineering-product-mindset/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Max Korbacher explains why successful internal development platforms cannot be built on tech alone. He discusses the pitfalls of infrastructure-first thinking, the importance of a clear product mindset, and how to measure real value using DevEx and SPACE metrics. Learn how to align your team, manage tech debt, and foster a thriving community to ensure lasting platform adoption. By Max Körbächer",
+          "published": "Mon, 20 Jul 2026 11:50:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Max Körbächer betont, dass erfolgreiche interne Entwicklungsplattformen nicht nur auf Technologie basieren können. Er hebt die Bedeutung eines klaren Produktdenkens und die Messung von echtem Wert durch DevEx und SPACE-Metriken hervor, um Team-Ausrichtung und Plattform-Akzeptanz zu fördern.",
+      "highlights": [
+        "Infrastruktur-first-Denken kann zu Fehlentwicklungen führen.",
+        "DevEx und SPACE-Metriken sind entscheidend zur Wertmessung.",
+        "Eine aktive Community ist wichtig für die langfristige Akzeptanz der Plattform."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Aldi erklärt die Rabatt-Apps zum Problem – und könnte damit gewinnen",
+          "link": "https://t3n.de/news/aldi-erklaert-die-rabatt-apps-zum-problem-und-koennte-damit-gewinnen-1753665/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Aldi positioniert sich gerade in einem Punkt deutlich anders als die übrigen Discounter von Rewe bis Lidl: Das Unternehmen hat heute angekündigt, auf Rabatte, die nur für App-Nutzer:innen gewährt werden, verzichten zu wollen. Das ist in vielerlei Hinsicht ein kluger Schachzug, meint unser Autor. weiterlesen auf t3n.de",
+          "published": "Tue, 21 Jul 2026 08:30:55 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Die Frist läuft ab: Mit diesen Apps erledigst du die Steuererklärung noch pünktlich",
+          "link": "https://t3n.de/news/steuererklaerung-frist-apps-programme-abgabe-puenktlich-1688517/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Steuererklärung selbst erledigen können Angestellte und Selbstständige heute auf vielen Wegen. Diese Softwareprogramme und Apps helfen dabei, die lästige Pf weiterlesen auf t3n.de",
+          "published": "Tue, 21 Jul 2026 07:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Offener Brief gegen ZDF-Entscheidung: „Wir halten die Absage für einen Fehler“",
+          "link": "https://netzpolitik.org/2026/wir-halten-die-absage-fuer-einen-fehler/",
+          "summary": "Danger Dan durfte in der Sendung \"Die Anstalt\" nicht auftreten. – Alle Rechte vorbehalten: IMAGO / Carsten Thesing Die Entscheidung des ZDF, einen Auftritt des Rappers Danger Dan und des Pianisten Igor Levit aus dem Programm zu nehmen, schlägt hohe Wellen. In einem offenen Brief kritisieren mehrere Fernsehräte, dass der Sender damit die Chance vergeben habe, eine Debatte über den Umgang mit Rechtsextremismus anzustoßen.",
+          "published": "Mon, 20 Jul 2026 15:34:22 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Humanoide Robotik: Ubtech bringt teuren Begleitroboter mit menschlichen Zügen auf den Markt",
+          "link": "https://t3n.de/news/ubtech-uworld-u1-humanoid-roboter-1753645/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Vorstellung eines mechanischen Begleiters im eigenen Zuhause fasziniert die Menschheit seit vielen Jahrzehnten. Bisher kannte man derartige Konzepte vorwiegend aus dystopischen Filmen, doch die Grenzen zwischen Fiktion und Realität verschieben sich spürbar. weiterlesen auf t3n.de",
+          "published": "Mon, 20 Jul 2026 14:30:51 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mac Pro: Wie es mit dem Apple-Computer weitergehen sollte – und warum es nicht dazu kam",
+          "link": "https://t3n.de/news/mac-pro-wie-es-mit-dem-apple-computer-weitergehen-sollte-und-warum-es-nicht-dazu-kam-1753634/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Frühjahr hat Apple seinen Mac Pro sang- und klanglos eingestellt. Die Profi-Workstation hätte eigentlich weiterleben sollen, doch Konzepte wurden nicht umgesetzt – aus Gründen. weiterlesen auf t3n.de",
+          "published": "Mon, 20 Jul 2026 14:00:45 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die aktuellen Nachrichten thematisieren verschiedene Entwicklungen in der Technologie- und Medienlandschaft, darunter Aldi's Abkehr von Rabatt-Apps, die Kontroversen um ZDF-Entscheidungen und die Einführung eines humanoiden Roboters von Ubtech. Diese Themen zeigen die Spannungen zwischen Innovation, Verbraucherinteressen und gesellschaftlichen Debatten.",
+      "highlights": [
+        "Aldi verzichtet auf Rabatte nur für App-Nutzer:innen.",
+        "Offener Brief kritisiert ZDF für die Absage eines Auftritts zur Debatte über Rechtsextremismus.",
+        "Ubtech bringt einen humanoiden Begleitroboter auf den Markt, der menschliche Züge aufweist."
+      ]
+    }
+  ]
+}
