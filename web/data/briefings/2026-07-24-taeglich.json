@@ -1,0 +1,326 @@
+{
+  "date": "2026-07-24",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Sony's decision to ditch discs was practically inevitable, data shows",
+          "link": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/",
+          "summary": "Circana numbers show US gamers overwhelmingly voting with their wallets.",
+          "published": "Thu, 23 Jul 2026 16:25:46 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "software-architektur.tv: James Coplien stellt das Dependency-Denken infrage",
+          "link": "https://www.heise.de/news/software-architektur-tv-James-Coplien-stellt-das-Dependency-Denken-infrage-11373655.html",
+          "summary": "In der englischsprachigen Episode diskutiert Eberhard Wolff mit James Coplien, ob Softwarearchitektur wirklich vor allem das Management von Abhängigkeiten ist?",
+          "published": "2026-07-23T10:02:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Software Testing: Autismus im Software-Testing-Bereich",
+          "link": "https://www.heise.de/blog/Software-Testing-Autismus-im-Software-Testing-Bereich-11371595.html",
+          "summary": "Wie Personen mit Autismusdiagnose ihre Fähigkeiten gut im Software-Testing einsetzen können, erklären Helmut Pichler und Markus Kalbhenn.",
+          "published": "2026-07-21T08:13:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Observability als Engineering-Problem: Weniger sammeln, mehr verstehen",
+          "link": "https://www.heise.de/hintergrund/Observability-als-Engineering-Problem-Weniger-sammeln-mehr-verstehen-11362984.html",
+          "summary": "Zwei OpenTelemetry-Experten erklären, warum zu viele Daten schaden – und wie ein Top-down-Ansatz die Zuverlässigkeit der Observability rettet.",
+          "published": "2026-07-18T07:05:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Unerlaubte Preiserhöhung und Aboänderung: Verbraucherschützer beschuldigen Starlink des Rechtsbruchs",
+          "link": "https://www.golem.de/news/unerlaubte-preiserhoehung-und-aboaenderung-verbraucherschuetzer-beschuldigen-starlink-des-rechtsbruchs-2607-211192.html",
+          "summary": "So geht das nicht, sagen Verbraucherschützer. Starlink hat Abos teurer gemacht und für Kunden ohne Zustimmung ein teureres Abo gebucht. ( Starlink , Rechtsstreitigkeiten )",
+          "published": "2026-07-23T11:50:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die aktuelle Berichterstattung über Cloud-Architektur und Plattformen beleuchtet verschiedene Aspekte, von der Softwarearchitektur über Observability bis hin zu Verbraucherschutzfragen im digitalen Bereich. Insbesondere wird die Rolle von Abhängigkeiten in der Softwareentwicklung hinterfragt und die Bedeutung von Datenmanagement hervorgehoben.",
+      "highlights": [
+        "James Coplien diskutiert in einem Podcast die zentrale Rolle des Dependency-Denkens in der Softwarearchitektur.",
+        "Experten warnen, dass eine Überflutung mit Daten die Observability beeinträchtigen kann und empfehlen einen Top-down-Ansatz.",
+        "Verbraucherschützer werfen Starlink vor, unerlaubte Preiserhöhungen und Aboänderungen ohne Zustimmung der Kunden vorgenommen zu haben."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Ink & Switch Introduces Bijou64: Canonical Variable-Length Integer Encoding for Safe Parsing",
+          "link": "https://www.infoq.com/news/2026/07/bijou64-canonical-varint/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Ink & Switch published bijou64, a variable-length integer encoding where every number has exactly one byte representation, closing the canonicality bug class behind attacks on PKCS#1, JWT libraries, and Bitcoin. The design also decodes two to ten times faster than LEB128. Community ports to Elixir, Go, Perl, and Java followed, while HN commenters debated SIMD performance and residual range checks. By Steef-Jan Wiggers",
+          "published": "Thu, 23 Jul 2026 09:43:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Meta Ports React Compiler to Rust for Faster Builds and Tighter Toolchain Integration",
+          "link": "https://www.infoq.com/news/2026/07/meta-react-compiler-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Meta's React library has integrated a Rust version of the React Compiler into its main repository, aimed at enhancing build speed and compatibility with the Rust-based JavaScript toolchain. This port, which memoizes components automatically, demonstrates significant performance improvements, boasting up to 50% faster compilation. The public API remains unchanged to facilitate easy upgrades. By Daniel Curtis",
+          "published": "Thu, 23 Jul 2026 06:07:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "IntelliJ IDEA 2026.2 integriert Copilot und bietet Support für TypeScript 7.0",
+          "link": "https://www.heise.de/news/IntelliJ-IDEA-2026-2-integriert-Copilot-und-bietet-Support-fuer-TypeScript-7-0-11369167.html",
+          "summary": "Die IDE ermöglicht die direkte Verwendung von GitHub Copilot und kann mit neuen Versionen der Programmiersprachen Java, Kotlin und TypeScript umgehen.",
+          "published": "2026-07-17T14:05:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "KI-Assistent Bob 2.0 modernisiert IBM Z und Power-Systeme",
+          "link": "https://www.heise.de/news/KI-Assistent-Bob-2-0-modernisiert-IBM-Z-und-Power-Systeme-11367017.html",
+          "summary": "IBM Bob 2.0 soll auch Jahrzehnte alten Code verstehen und modernisieren können – mit KI-Agenten und Premium-Paketen für Z, i und Java.",
+          "published": "2026-07-16T10:41:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Software-Architektur und Java umfassen neue Tools und Technologien zur Verbesserung der Performance und Integration. Insbesondere die Einführung von Bijou64 und die Aktualisierungen in IntelliJ IDEA sowie IBM Bob 2.0 zeigen Fortschritte in der Verarbeitung und Modernisierung von Code.",
+      "highlights": [
+        "Bijou64 ermöglicht eine sichere, variable Längenkodierung für Ganzzahlen und verbessert die Decodierungsgeschwindigkeit um bis zu 10x.",
+        "IntelliJ IDEA 2026.2 integriert GitHub Copilot und unterstützt die neuesten Versionen von Java, Kotlin und TypeScript.",
+        "IBM Bob 2.0 modernisiert auch Legacy-Code und bietet KI-gestützte Lösungen für Z, i und Java."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Container-Images ohne CVEs: BellSofts neuer Buildpacks-Builder",
+          "link": "https://www.heise.de/news/Container-Images-ohne-CVEs-BellSofts-neuer-Buildpacks-Builder-11373261.html",
+          "summary": "BellSofts gehärteter Builder für Paketo Buildpacks baut Container-Images auf einer weitgehend CVE-freien Alpaquita-Basis – ganz ohne Dockerfile.",
+          "published": "2026-07-22T12:38:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Datenpanne: OpenAI-Crawler greift Kundendaten von Universa ab",
+          "link": "https://www.golem.de/news/datenpanne-openai-crawler-greift-kundendaten-von-universa-ab-2607-211234.html",
+          "summary": "Durch eine Fehlkonfiguration sind Kundendaten der Universa-Versicherungen zeitweise offen im Netz gestanden. Ein Crawler von OpenAI hat die Gelegenheit genutzt. ( Datenleck , KI )",
+          "published": "2026-07-24T08:47:05+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Anzeige: Penetration Testing: Schwachstellen in Webanwendungen erkennen",
+          "link": "https://www.golem.de/news/anzeige-penetration-testing-schwachstellen-in-webanwendungen-erkennen-2607-208603.html",
+          "summary": "Penetration Testing deckt Schwachstellen in Webanwendungen und Netzwerken auf. Ein Online-Workshop vermittelt Methodik und Tools, um Findings nachvollziehbar zu prüfen. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-07-24T07:15:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die IT-Sicherheit bleibt ein zentrales Thema, insbesondere durch neue Technologien wie BellSofts Buildpacks-Builder, der CVE-freie Container-Images erstellt. Gleichzeitig zeigen Vorfälle wie die Datenpanne bei Universa die Risiken durch Fehlkonfigurationen auf. Penetration Testing wird als wichtige Methode zur Identifizierung von Schwachstellen in Webanwendungen hervorgehoben.",
+      "highlights": [
+        "BellSofts Buildpacks-Builder erstellt Container-Images ohne CVEs auf Alpaquita-Basis.",
+        "OpenAI-Crawler hat durch eine Fehlkonfiguration Kundendaten der Universa-Versicherungen abgegriffen.",
+        "Ein Online-Workshop zum Penetration Testing vermittelt Methoden zur Schwachstellenerkennung in Webanwendungen."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "FragDenStaat & Co.: Dobrindt will Transparenz-Plattformen aus dem Weg räumen",
+          "link": "https://netzpolitik.org/2026/fragdenstaat-co-dobrindt-will-transparenz-plattformen-aus-dem-weg-raeumen/",
+          "summary": "Bundesinnenminister Alexander Dobrindt (CSU) will offenbar möglichst ungestört von der Zivilgesellschaft wirken. (Symbolbild) – Alle Rechte vorbehalten: IMAGO / Metodi Popow Jüngst hatte der Koalitionsausschuss der Bundesregierung beschlossen, das Informationsfreiheitsgesetz drastisch einzuschränken. Nun zeigt ein Bericht des MDR, dass Innenminister Dobrindt noch viel weiter gehen will, um staatliches Handeln im Geheimen zu belassen.",
+          "published": "Thu, 23 Jul 2026 12:31:41 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "Bundesinnenminister Alexander Dobrindt plant, die Transparenz-Plattformen wie FragDenStaat zu behindern, um staatliches Handeln weniger öffentlich zu machen. Dies folgt auf die Entscheidung des Koalitionsausschusses, das Informationsfreiheitsgesetz erheblich einzuschränken.",
+      "highlights": [
+        "Dobrindt will Transparenz-Plattformen einschränken.",
+        "Koalitionsausschuss beschloss drastische Änderungen am Informationsfreiheitsgesetz.",
+        "Bericht des MDR zeigt Dobrindts Bestreben nach mehr Geheimhaltung im staatlichen Handeln."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Keine Lust mehr auf Windows? So funktioniert der Umstieg - oft kostenlos",
+          "link": "https://t3n.de/news/windows-linux-umstieg-kostenlos-1741537/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Linux zu nutzen ist heute ziemlich simpel – wenn man ein paar Dinge vorher weiß. Wir erklären, wie der Umstieg möglichst reibungslos abläuft. Von der kompatible weiterlesen auf t3n.de",
+          "published": "Thu, 23 Jul 2026 21:25:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Neuer Job als AI Platform Enablement Specialist gesucht? Schau dir unsere Top Jobs an",
+          "link": "https://t3n.de/news/unsere-jobs-der-woche-1175973/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hier findest du unsere besten Jobs aus den Bereichen Technik &amp; Entwicklung, Marketing, PR &amp; Kommunikation, Projektmanagement &amp; Produktmanagement, Design &amp; UX, Content &amp; Redaktion und Business Development. weiterlesen auf t3n.de",
+          "published": "Thu, 23 Jul 2026 15:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anonymisierendes Linux Tails 7.10: Neuer Shutdown und Videoplayer",
+          "link": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-7-10-Neuer-Shutdown-und-Videoplayer-11375972.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Maintainer der anonymisierenden Linux-Distribution Tails setzen zum Shutdown auf Gnome-Standard. Neu ist der Videoplayer Celluloid.",
+          "published": "2026-07-23T14:56:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11363727.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Git Browser, Microsoft, Mirantis, Google, Flux, JetBrains, W3C, Gradle und OllyGarden.",
+          "published": "2026-07-18T07:11:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Black Forest Labs: Deutsches KI-Start-up wagt den Sprung in die Robotik",
+          "link": "https://www.golem.de/news/black-forest-labs-deutsches-ki-start-up-wagt-den-sprung-in-die-robotik-2607-211233.html",
+          "summary": "Black Forest Labs aus Freiburg testet mit Flux 3 und Flux-mimic seine ersten Modelle für physische KI. ( KI , Roboter )",
+          "published": "2026-07-24T08:23:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Agile Methoden und UX/UI-Design sind entscheidend für die Entwicklung benutzerfreundlicher Software. Die Integration von Nutzerfeedback in den Entwicklungsprozess verbessert die Benutzererfahrung und fördert innovative Lösungen.",
+      "highlights": [
+        "Agile Methoden fördern iterative Entwicklungsprozesse.",
+        "UX/UI-Design verbessert die Benutzerfreundlichkeit von Software.",
+        "Nutzerfeedback ist essenziell für erfolgreiche Produktentwicklung."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "SteuerGPT, Alma und ChatGPT im Praxistest: Welche KI hilft wirklich bei der Steuer?",
+          "link": "https://t3n.de/news/steuergpt-alma-und-chatgpt-im-praxistest-welche-ki-hilft-wirklich-bei-der-steuer-1754503/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Künstliche Intelligenz hat die Steuererklärung verändert: Statt sich durch Formulare zu kämpfen, stehen viele Nutzer:innen heute einfach mit ihrer Steuersoftwar weiterlesen auf t3n.de",
+          "published": "Fri, 24 Jul 2026 08:30:45 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Indirect Prompt Injection Exploits GitHub's AI Agent to Leak Private Repository Data",
+          "link": "https://www.infoq.com/news/2026/07/gitlost-github-prompt-injection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "GitLost is a prompt-injection exploit discovered by Noma Security that tricks GitHub's new Agentic Workflows into leaking private data. By embedding concealed instructions within public GitHub issues, attackers can circumvent security safeguards and induce AI agents to reveal confidential information in public comments. By Sergio De Simone",
+          "published": "Thu, 23 Jul 2026 20:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "OpenAI and Anthropic both speak at once with dueling voice updates",
+          "link": "https://thenewstack.io/voice-ai-openai-anthropic/",
+          "summary": "OpenAI and Anthropic both rolled out major voice updates on Thursday afternoon, but the frontier AI labs seem to be The post OpenAI and Anthropic both speak at once with dueling voice updates appeared first on The New Stack .",
+          "published": "Thu, 23 Jul 2026 19:57:50 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Ask Sage zu oft gefragt: US-Militär verbrennt KI-Jahreskontingent in 1 Monat",
+          "link": "https://t3n.de/news/us-militaer-ki-jahreskontingent-1754564/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In den USA steht Angehörigen des Militärs die KI-Plattform Ask Sage zur Verfügung, für die ein Jahresbudget von 100 Millionen Token angeschafft wurde. Doch das war nach wenigen Wochen aufgebraucht – woran das Militär nicht ganz unschuldig ist. weiterlesen auf t3n.de",
+          "published": "Thu, 23 Jul 2026 20:51:07 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Entdeckung im System CD-35 2722: Ist dieser Himmelskörper noch ein Mond?",
+          "link": "https://t3n.de/news/massereicher-exomond-entdeckung-astronomie-1754518/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn Forscher:innen Himmelskörper entdecken, lassen sich diese meist klar als Planet, Stern oder Trabant einsortieren. Eine aktuelle Beobachtung entzieht sich diesem Raster jedoch völlig und stellt bestehende Definitionen infrage. weiterlesen auf t3n.de",
+          "published": "Thu, 23 Jul 2026 19:15:28 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die Nutzung generativer KI und LLMs (Large Language Models) hat in verschiedenen Bereichen, von Steuererklärungen bis hin zu militärischen Anwendungen, zugenommen. Während einige Systeme wie SteuerGPT nützliche Unterstützung bieten, zeigen Sicherheitslücken in anderen Anwendungen, wie etwa GitHub's AI Agent, die Risiken auf.",
+      "highlights": [
+        "SteuerGPT und ähnliche KIs verändern die Steuererklärung durch vereinfachte Prozesse.",
+        "GitHub's AI Agent ist anfällig für Prompt-Injection-Angriffe, die private Daten gefährden.",
+        "Das US-Militär hat sein Jahresbudget von 100 Millionen Token für die KI-Plattform Ask Sage innerhalb eines Monats aufgebraucht."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Google hit with $1 billion in fines as EU braces for Trump battle",
+          "link": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/",
+          "summary": "Google becomes third tech giant to face huge fines under the Digital Markets Act.",
+          "published": "Thu, 23 Jul 2026 16:41:36 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Unfairer Wettbewerb: EU-Kommission verhängt 890-Millionen-Euro-Strafe gegen Google",
+          "link": "https://netzpolitik.org/2026/unfairer-wettbewerb-eu-kommission-verhaengt-890-millionen-euro-strafe-gegen-google/",
+          "summary": "In der Google Suche ist ein Vergleichsdienst für Flüge integriert. – CC-BY-NC-ND 4.0 : netzpolitik.org Die Suchergebnisse von Google sollen in Europa bald anders aussehen. Im Rahmen des Digital Markets Act (DMA) hat die EU-Kommission erstmals zwei Strafen gegen Google verhängt. Obwohl es um verhältnismäßig wenig Geld geht, dürfte die Entscheidung in den USA trotzdem für Unmut sorgen.",
+          "published": "Thu, 23 Jul 2026 15:36:42 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Achieving Compliance as a Platform Engineering Team by Helping Developers",
+          "link": "https://www.infoq.com/news/2026/07/platform-that-helps-developers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "When a new platform team set out on implementing their roadmap through forced workflows with poor documentation, developer experience declined. Success came from simplifying governance, prioritizing what matters, and rolling out compliance incrementally through prevention, detection, and communication. Empathy, focus, and shared purpose drove successful adoption. By Ben Linders",
+          "published": "Thu, 23 Jul 2026 11:42:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "DMA: EU verhängt 890 Millionen Euro Strafe gegen Google",
+          "link": "https://www.golem.de/news/dma-eu-verhaengt-890-millionen-euro-strafe-gegen-google-2607-211203.html",
+          "summary": "Was steht oben, wenn Nutzer WM-Spiele, Hotels oder Routen googeln? Zu oft nur Googles eigene Angebote, urteilt Brüssel. ( Google , Suchmaschine )",
+          "published": "2026-07-23T13:44:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Die EU-Kommission hat Google im Rahmen des Digital Markets Act mit insgesamt 890 Millionen Euro Strafe belegt. Dies ist die erste Durchsetzung des Gesetzes gegen den Tech-Giganten, der in seinen Suchergebnissen eigene Angebote bevorzugt. Die Entscheidung könnte Spannungen mit den USA verstärken.",
+      "highlights": [
+        "890 Millionen Euro Strafe gegen Google verhängt.",
+        "Erste Strafen unter dem Digital Markets Act (DMA).",
+        "Google wird für die Bevorzugung eigener Angebote in Suchergebnissen kritisiert."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "KI-Tool der AfD: Politologe erklärt, warum die Aufregung der eigentliche Erfolg ist",
+          "link": "https://t3n.de/news/ki-tool-der-afd-politologe-erklaert-warum-die-aufregung-der-eigentliche-erfolg-ist-1754353/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die AfD sorgt mit Meldungen über ein eigenes KI-Tool für Unruhe. Der Politologe Andreas Jungherr erklärt im Interview, warum das Werkzeug keine Wahlen entscheid weiterlesen auf t3n.de",
+          "published": "Fri, 24 Jul 2026 08:00:51 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Warnschuss für die Infrastruktur: Wie ein Sonnensturm die Stromnetze ans Limit brachte",
+          "link": "https://t3n.de/news/sonnensturm-schwachstellen-infrastruktur-stromnetz-1754546/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die beeindruckenden Polarlichter am Nachthimmel verdecken eine beunruhigende Realität. Ein aktueller Expertenbericht warnt nun, dass unsere Infrastruktur weitaus verwundbarer ist, als es die visuellen Spektakel zunächst vermuten lassen. weiterlesen auf t3n.de",
+          "published": "Thu, 23 Jul 2026 18:54:09 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Smartphone-Halterung fürs Fahrrad: Mit diesen Modellen hast du die Route immer im Blick",
+          "link": "https://t3n.de/news/smartphone-halterung-fuers-fahrrad-mit-diesen-modellen-hast-du-die-route-immer-im-blick-1754223/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer das Smartphone bei einer Radtour als Navi nutzen möchte, muss es sicher am Lenker befestigen können. Wir erklären dir, welche Modelle es gibt, und stellen dir vier Halterungen vor, die sich wirklich lohnen. weiterlesen auf t3n.de",
+          "published": "Thu, 23 Jul 2026 17:00:25 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Im Kampf gegen KI-Flut: Github strukturiert Bug-Bounty-Programm um",
+          "link": "https://t3n.de/news/github-bug-bounty-programm-gegen-ki-1754392/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Github hat mehrere Änderungen am Bug-Bounty-Programm bekannt gegeben. Damit planen die Verantwortlichen, die Flut an KI-Meldungen einzudämmen. Wie das gehen soll und welche Belohnungen Bug-Jäger:innen jetzt noch erhalten können. weiterlesen auf t3n.de",
+          "published": "Thu, 23 Jul 2026 16:30:51 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "How regulated organizations can increase AI code velocity safely",
+          "link": "https://thenewstack.io/regulated-ai-continuous-verification/",
+          "summary": "Many industries are excited about the possibilities AI opens up for software development. Still, for regulated industries, there&#8217;s something extra The post How regulated organizations can increase AI code velocity safely appeared first on The New Stack .",
+          "published": "Thu, 23 Jul 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Das Thema Open Source und Software Supply Chain gewinnt zunehmend an Bedeutung, insbesondere im Kontext von KI-Entwicklungen und Sicherheitsfragen. Organisationen müssen sich anpassen, um die Herausforderungen und Chancen, die durch KI und neue Technologien entstehen, effektiv zu bewältigen.",
+      "highlights": [
+        "Github ändert Bug-Bounty-Programm zur Eindämmung von KI-Meldungen.",
+        "Regulierte Branchen suchen nach sicheren Wegen zur Steigerung der KI-Codegeschwindigkeit.",
+        "Infrastruktur ist anfälliger für Sonnenstürme als bisher angenommen."
+      ]
+    }
+  ]
+}
