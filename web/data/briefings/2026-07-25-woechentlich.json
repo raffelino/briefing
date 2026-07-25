@@ -1,0 +1,451 @@
+{
+  "date": "2026-07-25",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Mehr Kontrolle, weniger Risiko: Wie Unternehmen von europäischen Clouds und KI profitieren",
+          "link": "https://t3n.de/news/von-europaeischen-clouds-und-ki-profitieren-1727175/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ob E-Mail, Cloud-Storage oder Collaboration-Tools mit integrierter KI – die US-Konzerne dominieren den Markt. Doch immer mehr Unternehmen hinterfragen diese Abhängigkeit. weiterlesen auf t3n.de",
+          "published": "Sat, 25 Jul 2026 09:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
+          "link": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
+          "summary": "“Halting this merger while our case proceeds is a critical victory,\" NY AG said.",
+          "published": "Fri, 24 Jul 2026 21:56:02 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "AWS, Google Cloud, Microsoft Azure, and Cloudflare now all offer agent sandboxes. None built them the same way.",
+          "link": "https://thenewstack.io/cloud-agent-code-sandboxes/",
+          "summary": "Google Cloud announced it had put Cloud Run sandboxes into public preview earlier this month at WeAreDevelopers World Congress in The post AWS, Google Cloud, Microsoft Azure, and Cloudflare now all offer agent sandboxes. None built them the same way. appeared first on The New Stack .",
+          "published": "Fri, 24 Jul 2026 16:04:54 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Airbus Makes Protection from Extraterritorial Law a Scored Criterion in Its Cloud Tender",
+          "link": "https://www.infoq.com/news/2026/07/airbus-scaleway-sovereign-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Airbus selected Scaleway as its sovereign cloud provider after a tender that scored protection against non-European extraterritorial legislation alongside technical capability. Airbus frames it as complementing multi-cloud, not exiting AWS. Practitioners note the pattern is spreading past hyperscalers to small US SaaS vendors, and that sovereignty claims still require verifiable controls. By Steef-Jan Wiggers",
+          "published": "Fri, 24 Jul 2026 10:42:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Kubernetes made deploying easy. Nobody warned you about the databases.",
+          "link": "https://thenewstack.io/kubernetes-database-operations-platform/",
+          "summary": "The DevOps movement, set in motion nearly 20 years ago, broke down the traditional divide between software developers and IT The post Kubernetes made deploying easy. Nobody warned you about the databases. appeared first on The New Stack .",
+          "published": "Tue, 21 Jul 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Hardware-Gerüchte: 7-Zoll-Display fürs Jubiläums-iPhone, Doppelakku fürs Ultra",
+          "link": "https://www.heise.de/news/Hardware-Geruechte-7-Zoll-Display-fuers-Jubilaeums-iPhone-Doppelakku-fuers-Ultra-11373769.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Apple leakt Details zum Akkuaufbau seines ersten faltbaren Smartphones. Aus China gibt es unterdessen Neuigkeiten zur übernächsten iPhone-Generation.",
+          "published": "2026-07-24T14:09:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "software-architektur.tv: James Coplien stellt das Dependency-Denken infrage",
+          "link": "https://www.heise.de/news/software-architektur-tv-James-Coplien-stellt-das-Dependency-Denken-infrage-11373655.html",
+          "summary": "In der englischsprachigen Episode diskutiert Eberhard Wolff mit James Coplien, ob Softwarearchitektur wirklich vor allem das Management von Abhängigkeiten ist?",
+          "published": "2026-07-23T10:02:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Software Testing: Autismus im Software-Testing-Bereich",
+          "link": "https://www.heise.de/blog/Software-Testing-Autismus-im-Software-Testing-Bereich-11371595.html",
+          "summary": "Wie Personen mit Autismusdiagnose ihre Fähigkeiten gut im Software-Testing einsetzen können, erklären Helmut Pichler und Markus Kalbhenn.",
+          "published": "2026-07-21T08:13:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In dieser Woche stand die Cloud-Architektur im Fokus, insbesondere die zunehmende Nachfrage nach europäischen Cloud-Lösungen und KI-Integration. Unternehmen wie Airbus setzen auf souveräne Cloud-Anbieter, um sich gegen extraterritoriale Gesetze abzusichern. Gleichzeitig bieten große Anbieter wie AWS, Google Cloud und Microsoft Azure neue Agent-Sandboxen an, um Entwicklern mehr Kontrolle zu geben. Zudem wird die Diskussion um Softwarearchitektur und Abhängigkeiten durch Experten wie James Coplien angestoßen.",
+      "highlights": [
+        "Airbus wählt Scaleway als souveränen Cloud-Anbieter.",
+        "AWS, Google Cloud und Microsoft Azure bieten Agent-Sandboxen an.",
+        "Unternehmen hinterfragen Abhängigkeit von US-Cloud-Anbietern.",
+        "Diskussion über Dependency-Management in der Softwarearchitektur."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Ink & Switch Introduces Bijou64: Canonical Variable-Length Integer Encoding for Safe Parsing",
+          "link": "https://www.infoq.com/news/2026/07/bijou64-canonical-varint/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Ink & Switch published bijou64, a variable-length integer encoding where every number has exactly one byte representation, closing the canonicality bug class behind attacks on PKCS#1, JWT libraries, and Bitcoin. The design also decodes two to ten times faster than LEB128. Community ports to Elixir, Go, Perl, and Java followed, while HN commenters debated SIMD performance and residual range checks. By Steef-Jan Wiggers",
+          "published": "Thu, 23 Jul 2026 09:43:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Meta Ports React Compiler to Rust for Faster Builds and Tighter Toolchain Integration",
+          "link": "https://www.infoq.com/news/2026/07/meta-react-compiler-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Meta's React library has integrated a Rust version of the React Compiler into its main repository, aimed at enhancing build speed and compatibility with the Rust-based JavaScript toolchain. This port, which memoizes components automatically, demonstrates significant performance improvements, boasting up to 50% faster compilation. The public API remains unchanged to facilitate easy upgrades. By Daniel Curtis",
+          "published": "Thu, 23 Jul 2026 06:07:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "In dieser Woche wurden bedeutende Fortschritte in der Software-Architektur und der Programmiersprache Java verzeichnet. Ink & Switch stellte bijou64 vor, eine neue variable Längeninteger-Codierung, die Sicherheitslücken in verschiedenen Bibliotheken schließt. Gleichzeitig hat Meta den React-Compiler nach Rust portiert, um die Build-Geschwindigkeit zu erhöhen und die Integration in die Toolchain zu verbessern. Diese Entwicklungen verdeutlichen den Trend zu optimierten Codierungsstandards und verbesserten Performance-Optimierungen in modernen Softwareprojekten.",
+      "highlights": [
+        "Bijou64 ermöglicht eine eindeutige Byte-Darstellung für jede Zahl.",
+        "Bijou64 schließt Sicherheitslücken in PKCS#1, JWT-Bibliotheken und Bitcoin.",
+        "Meta's Rust-Port des React Compilers bietet bis zu 50% schnellere Kompilierung.",
+        "Der öffentliche API von React bleibt unverändert für einfache Updates.",
+        "Community-Ports von bijou64 für Elixir, Go, Perl und Java sind bereits verfügbar."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Ransomware-Angriffe: Über die Hälfte der Opfer zahlt – warum das keine gute Idee ist",
+          "link": "https://t3n.de/news/ransomware-opfer-zahlen-1754772/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Seit Jahren warnen Behörden Betroffene von Ransomware-Angriffen davor, Lösegeld zu zahlen. Ziel ist, die Angreifer:innen nicht weiter zu ermutigen und sie nicht mit frischen Mitteln auszustatten. Eine Studie deckt jetzt einen weiteren wichtigen Grund auf. weiterlesen auf t3n.de",
+          "published": "Fri, 24 Jul 2026 21:17:09 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Sicherheitslücke bei ChatGPT: So lässt sich KI-Feature austricksen, um sensible Daten zu stehlen",
+          "link": "https://t3n.de/news/sicherheitsluecke-chatgpt-daten-stehlen-1754752/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine KI-Sicherheitsfirma hat eine Schwachstelle bei OpenAIs Tool Workspace-Agents entdeckt. Mit einem gefälschten ChatGPT-Link können Angreifer einen KI-Agenten in Teams oder Organisationen einschleusen. Der kann dann sensible Daten stehlen. Immer und immer wieder. weiterlesen auf t3n.de",
+          "published": "Fri, 24 Jul 2026 19:00:53 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Sparkassen-Phishing: Bei dieser Mail musst du jetzt aufpassen",
+          "link": "https://t3n.de/news/sparkassen-phishing-mail-1754586/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Derzeit gibt es einen neuen Phishing-Angriff auf Sparkassen-Kund:innen. Die Kriminellen drohen darin mit der Sperrung des Zugangs zum Onlinebanking. Wie du die Masche erkennst und richtig handelst, wenn du die Nachricht erhältst. weiterlesen auf t3n.de",
+          "published": "Fri, 24 Jul 2026 10:30:50 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Drei Fragen und Antworten: Wie KI wirklich bei der Schwachstellensuche hilft",
+          "link": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Wie-KI-wirklich-bei-der-Schwachstellensuche-hilft-11377461.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Um KI erfolgreich in Code-Audits einzusetzen, ist die Wahl des Modells gar nicht so wichtig. Entscheidend ist der Workflow, damit man nicht in Funden versinkt.",
+          "published": "2026-07-24T14:53:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+          "link": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11362208.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
+          "published": "2026-07-24T14:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Web.de und GMX rüsten Passkeys nach",
+          "link": "https://www.heise.de/news/Web-de-und-GMX-ruesten-Passkeys-nach-11377564.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die United-Internet-Töchter GMX und Web.de führen jetzt Passkeys ein. Sie verbessern damit die Sicherheit und den Schutz vor Phishing.",
+          "published": "2026-07-24T13:23:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Adobe-Chrome-Erweiterung ermöglichte Datenklau",
+          "link": "https://www.heise.de/news/Adobe-Chrome-Erweiterung-ermoeglichte-Datenklau-11376957.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In der Chrome-Erweiterung Adobe Acrobat mit 312 Millionen Nutzern klaffte eine Schwachstelle. Dadurch konnten Angreifer Daten stehlen.",
+          "published": "2026-07-24T09:52:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Drei Fragen und Antworten: Wie KI wirklich bei der Schwachstellensuche hilft",
+          "link": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Wie-KI-wirklich-bei-der-Schwachstellensuche-hilft-11377461.html",
+          "summary": "Um KI erfolgreich in Code-Audits einzusetzen, ist die Wahl des Modells gar nicht so wichtig. Entscheidend ist der Workflow, damit man nicht in Funden versinkt.",
+          "published": "2026-07-24T12:53:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "In der vergangenen Woche standen IT-Sicherheit und die Notwendigkeit von Security by Design im Fokus. Ransomware-Angriffe bleiben ein zentrales Problem, wobei eine neue Studie die negativen Folgen von Lösegeldzahlungen beleuchtet. Zudem wurden Sicherheitslücken in KI-Anwendungen und weit verbreiteten Tools wie Adobe Acrobat entdeckt, die Angreifern den Zugriff auf sensible Daten ermöglichen. Die Einführung von Passkeys bei GMX und Web.de zeigt, dass Unternehmen verstärkt in innovative Sicherheitslösungen investieren.",
+      "highlights": [
+        "Über 50% der Ransomware-Opfer zahlen Lösegeld, was die Angreifer ermutigt.",
+        "Sicherheitslücke bei ChatGPT ermöglicht Datenklau durch gefälschte Links.",
+        "Neuer Phishing-Angriff auf Sparkassen-Kunden mit Drohung der Kontosperrung.",
+        "Adobe Acrobat Chrome-Erweiterung hatte Schwachstelle, die 312 Millionen Nutzer betraf.",
+        "GMX und Web.de führen Passkeys ein, um Phishing-Schutz zu verbessern."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "FragDenStaat & Co.: Dobrindt will Transparenz-Plattformen aus dem Weg räumen",
+          "link": "https://netzpolitik.org/2026/fragdenstaat-co-dobrindt-will-transparenz-plattformen-aus-dem-weg-raeumen/",
+          "summary": "Bundesinnenminister Alexander Dobrindt (CSU) will offenbar möglichst ungestört von der Zivilgesellschaft wirken. (Symbolbild) – Alle Rechte vorbehalten: IMAGO / Metodi Popow Jüngst hatte der Koalitionsausschuss der Bundesregierung beschlossen, das Informationsfreiheitsgesetz drastisch einzuschränken. Nun zeigt ein Bericht des MDR, dass Innenminister Dobrindt noch viel weiter gehen will, um staatliches Handeln im Geheimen zu belassen.",
+          "published": "Thu, 23 Jul 2026 12:31:41 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Geheimdienst-Gesetz: Maßlos, unkontrolliert und intransparent",
+          "link": "https://netzpolitik.org/2026/geheimdienst-gesetz-masslos-unkontrolliert-und-intransparent/",
+          "summary": "Ulrich Kelber – CC-BY-NC-ND 2.0 : Fortune Global Forum Die Bundesregierung will den Geheimdiensten neue Befugnisse im bisher beispiellosen Ausmaß geben. Zugleich schwächt sie Betroffenenrechte, unabhängige Aufsicht und Möglichkeiten für Transparenz. Eine freiheitliche Demokratie kann sich diese unausgewogene und gefährliche Mischung nicht leisten.",
+          "published": "Wed, 22 Jul 2026 15:09:04 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Naturmomente und Bauwerke: Die Bilder der Woche 30",
+          "link": "https://www.heise.de/news/Naturmomente-und-Bauwerke-Die-Bilder-der-Woche-30-11377399.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Hoch, quer, quadratisch bunt: Unsere sieben Bilder der Woche erinnern dieses Mal an ein abwechslungsreiches Memory-Spiel.",
+          "published": "2026-07-25T08:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "In dieser Woche standen Themen der Transparenz und Kontrolle im Fokus, insbesondere im Hinblick auf die neuen Bestrebungen der Bundesregierung, die Informationsfreiheit einzuschränken. Innenminister Dobrindt plant, Plattformen wie FragDenStaat zu behindern, während gleichzeitig neue Befugnisse für Geheimdienste eingeführt werden sollen, die die Rechte der Bürger und die unabhängige Aufsicht schwächen. Diese Entwicklungen werfen ernsthafte Fragen zur Wahrung demokratischer Prinzipien auf.",
+      "highlights": [
+        "Bundesregierung plant drastische Einschränkungen des Informationsfreiheitsgesetzes.",
+        "Innenminister Dobrindt zielt darauf ab, Transparenz-Plattformen zu behindern.",
+        "Neue Befugnisse für Geheimdienste sollen ohne ausreichende Kontrolle eingeführt werden.",
+        "Betroffenenrechte und unabhängige Aufsicht werden geschwächt.",
+        "Kritik an der unausgewogenen Mischung aus Macht und mangelnder Transparenz."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Digitaler Kolonialismus: Wie die US-Regierung afrikanischen Ländern Daten-Deals aufzwingt",
+          "link": "https://netzpolitik.org/2026/digitaler-kolonialismus-wie-die-us-regierung-afrikanischen-laendern-daten-deals-aufzwingt/",
+          "summary": "Mediziner:innen in Schutzanzügen in einem Ebola-Behandlungszentrum in der Demokratischen Republik Kongo – Alle Rechte vorbehalten: IMAGO / Xinhua Nach der Einstellung von USAID arbeiten die USA an Nachfolgeprogrammen zur Unterstützung der Gesundheitsversorgung in afrikanischen Ländern. Doch Hilfe beim Kampf gegen Ebola, HIV und Co. gibt es künftig nur noch gegen weitreichenden Zugang zu Gesundheitsdaten.",
+          "published": "Sat, 25 Jul 2026 05:56:35 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "GitLab 19.2, Kotlin feiert Geburtstag, Unity CLI",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11372973.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu GitLab, Kotlin, Unity, WebAuthn, Nuxt, Angular, distr, Apache Arrow, VS Code und GitHub.",
+          "published": "2026-07-25T09:11:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "GitLab 19.2, Kotlin feiert Geburtstag, Unity CLI",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11372973.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu GitLab, Kotlin, Unity, WebAuthn, Nuxt, Angular, distr, Apache Arrow, VS Code und GitHub.",
+          "published": "2026-07-25T07:11:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11363727.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Git Browser, Microsoft, Mirantis, Google, Flux, JetBrains, W3C, Gradle und OllyGarden.",
+          "published": "2026-07-18T07:11:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "(g+) Von Apple zu Linux: Alter Mac statt teurer Neukauf",
+          "link": "https://www.golem.de/news/von-apple-zu-linux-alter-mac-statt-teurer-neukauf-2607-210946.html",
+          "summary": "Macs eignen sich oft hervorragend für Linux. Worauf beim Umstieg zu achten ist und welche Distributionen sich anbieten. Ein Ratgebertext von Antonio Zambito ( Linux , Apple )",
+          "published": "2026-07-25T10:00:08+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "RefluXFS: Kernel-Bug verleiht auf Millionen von Linux-Systemen Root-Zugriff",
+          "link": "https://www.golem.de/news/refluxfs-gefaehrlicher-kernel-bug-verleiht-root-zugriff-unter-linux-2607-211245.html",
+          "summary": "Eine Sicherheitslücke im Linux-Kernel lässt Angreifer beliebige Dateien auf XFS-Volumes überschreiben. Root-Rechte sind damit leicht zu beschaffen. ( Sicherheitslücke , Fedora )",
+          "published": "2026-07-24T11:05:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "In der vergangenen Woche dominierten Themen rund um digitale Souveränität und Sicherheit in der Softwareentwicklung. Besonders der Einfluss der US-Regierung auf afrikanische Länder durch Daten-Deals wirft Fragen zur ethischen Verantwortung auf. Gleichzeitig wurden in der Entwickler-Community neue Updates und Sicherheitslücken diskutiert, die die Nutzung von Open-Source-Software betreffen. Die Trends zeigen eine zunehmende Notwendigkeit für agile Methoden und UX/UI-Design, um benutzerfreundliche und sichere Lösungen zu entwickeln.",
+      "highlights": [
+        "US-Regierung verlangt Zugang zu Gesundheitsdaten im Austausch für Unterstützung gegen Epidemien.",
+        "GitLab 19.2 und andere Tools wurden aktualisiert, um Entwicklerbedürfnisse besser zu bedienen.",
+        "Eine kritische Sicherheitslücke im Linux-Kernel ermöglicht Root-Zugriff auf Millionen von Systemen.",
+        "Ratgeber zu Linux-Distributionen für alte Macs veröffentlicht, um Kosten zu sparen.",
+        "Entwickler berichten über kleinere Updates und Trends in der Softwareentwicklung."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Overthinking bei Maschinen: Wie manipulierte Fragen KI-Modelle in die Knie zwingen",
+          "link": "https://t3n.de/news/overthinking-bei-maschinen-1753289/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Endloses Nachdenken macht nicht nur uns Menschen zu schaffen, sondern auch KI-Modellen. Eine neue Studie zeigt, wie sich &#8222;Grübel-Prompts&#8220; gezielt züchten lassen – und wie das zum Sicherheitsrisiko werden kann. weiterlesen auf t3n.de",
+          "published": "Sat, 25 Jul 2026 10:40:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Agenten brauchen ein Zuhause",
+          "link": "https://t3n.de/news/ki-agenten-hosting-deutschland-1751626/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Neue KI-Modelle erscheinen mittlerweile im Wochentakt. Doch mit jeder produktiven KI-Anwendung rückt eine Frage zunehmend in den Vordergrund: Wo werden Daten verarbeitet und unter welchem rechtlichen und technischen Rahmen? Für viele Unternehmen wird genau das zum entscheidenden Kriterium. weiterlesen auf t3n.de",
+          "published": "Sat, 25 Jul 2026 07:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Canadian legislator reads out apparent LLM response in floor speech",
+          "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+          "summary": "\"Here’s a more natural, flowing version of that section...\"",
+          "published": "Fri, 24 Jul 2026 21:25:15 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+          "link": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+          "summary": "Models are improving quickly, but the cheaper options are often good enough.",
+          "published": "Fri, 24 Jul 2026 21:05:51 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Claude Opus 5: Neues Anthropic-Modell soll so gut wie Fable 5 sein, aber nur die Hälfte kosten",
+          "link": "https://t3n.de/news/claude-opus-5-fable-5-guenstiger-1754781/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Anthropic hat mit Claude Opus 5 ein neues KI-Modell an den Start gebracht, das Fable 5 in Sachen Performance die Stirn bieten können soll. Nur bei der Cybersicherheit ist noch Luft nach oben. Nutzer:innen zahlen dafür aber nur die Hälfte der KI-Token-Kosten. weiterlesen auf t3n.de",
+          "published": "Fri, 24 Jul 2026 22:17:51 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Opus 5 costs a third of the price — and that’s actually the problem",
+          "link": "https://thenewstack.io/opus-5-agentic-coding-cost/",
+          "summary": "On Friday, Anthropic launched Opus 5, the latest iteration of its heavyweight model. Arriving just two months after Opus 4.8 The post Opus 5 costs a third of the price — and that&#8217;s actually the problem appeared first on The New Stack .",
+          "published": "Fri, 24 Jul 2026 19:06:23 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Anthropic’s Opus 5 is almost Fable 5",
+          "link": "https://thenewstack.io/anthropics-opus-5-almost-fable-5/",
+          "summary": "Anthropic launched Opus 5 on Friday, the latest version of what used to be the company’s flagship model (before the The post Anthropic’s Opus 5 is almost Fable 5 appeared first on The New Stack .",
+          "published": "Fri, 24 Jul 2026 17:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "What really happened in the Hugging Face breach",
+          "link": "https://thenewstack.io/openai-huggingface-sandbox-breach/",
+          "summary": "According to OpenAI, the Hugging Face security breach was an &#8220;unprecedented cyber incident, involving state-of-the-art cyber capabilities.&#8221;&#160;Critics may disagree. Back The post What really happened in the Hugging Face breach appeared first on The New Stack .",
+          "published": "Fri, 24 Jul 2026 16:20:24 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "In dieser Woche standen generative KI und LLMs im Fokus, insbesondere hinsichtlich ihrer Sicherheit und Effizienz. Eine Studie zeigte, dass manipulierte Fragen KI-Modelle überfordern können, was potenzielle Sicherheitsrisiken birgt. Gleichzeitig wurde das neue KI-Modell Claude Opus 5 von Anthropic vorgestellt, das eine kostengünstige Alternative zu bestehenden Modellen bietet, jedoch in der Cybersicherheit noch Schwächen aufweist. Die Diskussion um den rechtlichen Rahmen für KI-Anwendungen wird zunehmend wichtiger, da Unternehmen klare Vorgaben benötigen.",
+      "highlights": [
+        "Studie zeigt, dass 'Grübel-Prompts' KI-Modelle überfordern können.",
+        "Anthropic präsentiert Claude Opus 5, das nur die Hälfte der Kosten von Fable 5 verursacht.",
+        "Opus 5 soll in der Leistung mit Fable 5 konkurrieren.",
+        "Rechtliche Rahmenbedingungen für KI-Anwendungen werden für Unternehmen entscheidend.",
+        "Hugging Face erlebte einen als 'unprecedented' bezeichneten Sicherheitsvorfall."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "EU-Kommission: TikTok soll Teenager-Konten strenger abschirmen",
+          "link": "https://netzpolitik.org/2026/eu-kommission-tiktok-soll-teenager-konten-strenger-abschirmen/",
+          "summary": "Die EU-Kommission will, dass Jugendliche im Internet weniger sichtbar sind. – Vereinfachte Pixabay Lizenz: Lidia Nikole TikTok macht es Fremden zu leicht, die Accounts von Minderjährigen zu finden. Nach Auffassung der EU-Kommission verstößt die Plattform damit gegen den Digital Services Act. Zu Alterskontrollen bei TikTok äußert sich Brüssel noch nicht.",
+          "published": "Fri, 24 Jul 2026 14:26:08 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Google hit with $1 billion in fines as EU braces for Trump battle",
+          "link": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/",
+          "summary": "Google becomes third tech giant to face huge fines under the Digital Markets Act.",
+          "published": "Thu, 23 Jul 2026 16:41:36 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Unfairer Wettbewerb: EU-Kommission verhängt 890-Millionen-Euro-Strafe gegen Google",
+          "link": "https://netzpolitik.org/2026/unfairer-wettbewerb-eu-kommission-verhaengt-890-millionen-euro-strafe-gegen-google/",
+          "summary": "In der Google Suche ist ein Vergleichsdienst für Flüge integriert. – CC-BY-NC-ND 4.0 : netzpolitik.org Die Suchergebnisse von Google sollen in Europa bald anders aussehen. Im Rahmen des Digital Markets Act (DMA) hat die EU-Kommission erstmals zwei Strafen gegen Google verhängt. Obwohl es um verhältnismäßig wenig Geld geht, dürfte die Entscheidung in den USA trotzdem für Unmut sorgen.",
+          "published": "Thu, 23 Jul 2026 15:36:42 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Achieving Compliance as a Platform Engineering Team by Helping Developers",
+          "link": "https://www.infoq.com/news/2026/07/platform-that-helps-developers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "When a new platform team set out to implement their roadmap through forced workflows with poor documentation, developer experience declined. Success came from simplifying governance, prioritizing what mattered, and rolling out compliance incrementally through prevention, detection, and communication. Empathy, focus, and shared purpose drove successful adoption. By Ben Linders",
+          "published": "Thu, 23 Jul 2026 11:42:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Meinungsfreiheit: Wie wir Hass bekämpfen, ohne die Freiheit des Wortes zu verlieren",
+          "link": "https://netzpolitik.org/2026/meinungsfreiheit-wie-wir-hass-bekaempfen-ohne-die-freiheit-des-wortes-zu-verlieren/",
+          "summary": "Professor Johannes Masing hält seine Grundsatzrede. – Alle Rechte vorbehalten: Simone Neumann / Wegweiser Das Grundgesetz gewährt Meinungsfreiheit, auch für beunruhigende Meinungen. Die Geistesfreiheit ist inhaltlich unbeschränkt und gerichtlich durchsetzbar. Doch Meinungsstreit schützt nicht vor Widerspruch, Protest und Empörung. Wir brauchen klare Regeln gegen Hass und Hetze – gerade im Netz.",
+          "published": "Sat, 18 Jul 2026 06:35:06 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "In dieser Woche stand die EU-Tech-Regulierung im Fokus, insbesondere im Hinblick auf den Schutz von Nutzerdaten und die Bekämpfung von unfairem Wettbewerb. Die EU-Kommission plant strengere Maßnahmen für TikTok, um die Sichtbarkeit von Teenager-Konten zu reduzieren. Zudem wurden gegen Google im Rahmen des Digital Markets Act hohe Geldstrafen verhängt, was die regulatorischen Bemühungen der EU unterstreicht. Die Diskussion um Meinungsfreiheit und den Umgang mit Hass im Netz bleibt ebenfalls relevant.",
+      "highlights": [
+        "EU-Kommission fordert strengere Abschirmung von Teenager-Konten bei TikTok.",
+        "Google erhält Strafe von 890 Millionen Euro unter dem Digital Markets Act.",
+        "Zwei Strafen gegen Google markieren einen Wendepunkt in der EU-Regulierung.",
+        "Diskussion über klare Regeln gegen Hass im Netz wird intensiviert."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "KW 30: Die Woche, in der wir nicht über Personalwechsel und Punktsiege berichteten",
+          "link": "https://netzpolitik.org/2026/kw-30-die-woche-in-der-wir-nicht-ueber-personalwechsel-und-punktsiege-berichteten/",
+          "summary": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 30. Kalenderwoche geht zu Ende. Wir haben 12 neue Texte mit insgesamt 95.849 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 25 Jul 2026 06:04:12 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "RFK Jr.'s handpicked committee approves manufacture of peptides he uses",
+          "link": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
+          "summary": "There's no human safety or efficacy data, but that no longer seems to matter.",
+          "published": "Fri, 24 Jul 2026 19:10:09 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Presentation: Autonomous Data Products for the Autonomous Era: Rethinking Data Architecture for GenAI",
+          "link": "https://www.infoq.com/presentations/ai-framework-data-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Jörg Schad explains how to tame the complex \"data management hairball\" to build scalable, safe architectures for AI. He shares how autonomous data products act like containers for data, encapsulating pipelines, schemas, and metadata. Discover how progressive tool discovery via protocols like MCP limits context rot, enforces governance policies, and ensures reliable, multi-modal access. By Jörg Schad",
+          "published": "Fri, 24 Jul 2026 13:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Neues Hybridflugzeug der NASA bricht einen Höhenrekord",
+          "link": "https://t3n.de/news/neues-hybridflugzeug-der-nasa-bricht-einen-hoehenrekord-1754652/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Luftverkehr verursacht viel CO₂. Mit neuen Antriebsformen soll sich das ändern. Die US-Weltraumbehörde NASA stellt nun ein ganz besonderes Flugzeug vor. weiterlesen auf t3n.de",
+          "published": "Fri, 24 Jul 2026 14:30:10 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Chronoworking: Wie dieser Vorgesetzte den Schlaf seiner Mitarbeitenden retten will - und was du daraus mitnehmen kannst",
+          "link": "https://t3n.de/news/chronoworking-vorgesetzter-schlaf-1752998/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mitarbeitende der bayerischen Klinik Wartenberg hatten mit Schlafproblemen zu kämpfen, die sie stark belasteten. Klinik-Controller Norman Daßler und sein Team w weiterlesen auf t3n.de",
+          "published": "Fri, 24 Jul 2026 14:00:41 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Statt Fliegenklatsche: So sollen Mini-Drohnen Mücken bekämpfen",
+          "link": "https://t3n.de/news/mini-drohnen-gegen-muecken-1754612/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Startup Tornyol hat Mücken und anderen Insekten den Kampf angesagt. Eine Mini-Drohne soll sich als effizientes Mittel gegen die Blutsauger erweisen. Jetzt demonstriert das Startup erstmals, wie das aussieht. weiterlesen auf t3n.de",
+          "published": "Fri, 24 Jul 2026 13:00:27 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Polizeigesetz-Erweiterung in Schleswig-Holstein: Schwarz-Grün will dich beim Autofahren filmen",
+          "link": "https://netzpolitik.org/2026/polizeigesetz-erweiterung-in-schleswig-holstein-schwarz-gruen-will-dich-beim-autofahren-filmen/",
+          "summary": "Mit Videoüberwachung, die automatisch Gegenstände und Verhalten detektiert, will Schleswig-Holstein gegen Handysünder vorgehen. – Vereinfachte Pixabay Lizenz: Tyler Clemmensen, Bearbeitung: netzpolitik.org Die Regierungskoalition von Schleswig-Holstein hat die sowieso schon überbordende Polizeigesetznovelle noch einmal deutlich verschärft. Künftig sollen KI-Kameras Handysünder jagen, bewaffnete Drohnen erlaubt und heimliches Filmen und Abhören einfacher werden.",
+          "published": "Fri, 24 Jul 2026 10:44:14 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Physik-Nobelpreisträger am MIT: Warum Wolfgang Ketterle heute lieber in Deutschland forschen würde",
+          "link": "https://t3n.de/news/ketterle-nobelpreis-deutschland-forschen-1753115/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wolfgang Ketterle ist in den 90er Jahren aus Deutschland in die USA gegangen, um am MIT zu forschen. Würde der 2001 mit dem Nobelpreis ausgezeichnete Physiker d weiterlesen auf t3n.de",
+          "published": "Fri, 24 Jul 2026 12:00:47 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "In der vergangenen Woche standen verschiedene technologische Entwicklungen und gesellschaftliche Themen im Fokus. Besonders hervorzuheben sind Fortschritte in der Datenarchitektur für KI sowie neue Ansätze zur Bekämpfung von Insekten mittels Mini-Drohnen. Zudem gab es kritische Diskussionen über die Erweiterung von Polizeigesetzen in Schleswig-Holstein, die den Einsatz von KI und Videoüberwachung betreffen. Die Berichterstattung zeigt ein wachsendes Interesse an der Schnittstelle zwischen Technologie und Gesellschaft, insbesondere in Bezug auf Datenschutz und innovative Lösungen.",
+      "highlights": [
+        "Jörg Schad präsentierte neue Ansätze zur Datenarchitektur für KI.",
+        "Das Startup Tornyol demonstrierte eine Mini-Drohne zur Mückenbekämpfung.",
+        "Schleswig-Holstein plant den Einsatz von KI-Kameras zur Überwachung von Handysündern.",
+        "Wolfgang Ketterle äußerte den Wunsch, heute lieber in Deutschland zu forschen."
+      ]
+    }
+  ]
+}
