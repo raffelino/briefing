@@ -1,0 +1,331 @@
+{
+  "date": "2026-07-27",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Selfie-Video statt Passwort: Google startet neue Login-Methode – so funktioniert sie",
+          "link": "https://t3n.de/news/google-selfie-video-login-1754920/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google will mit einer neuen Login-Methode die Abhängigkeit von Passwörtern reduzieren. Für die neue Option brauchen Nutzer:innen lediglich ihr Smartphone mit Kamera. Wie der Google-Login jetzt funktioniert. weiterlesen auf t3n.de",
+          "published": "Mon, 27 Jul 2026 09:30:24 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Amazon EKS Adds Kubernetes Version Rollback Within 7 Days of an Upgrade",
+          "link": "https://www.infoq.com/news/2026/07/eks-version-rollback/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Amazon EKS has recently introduced support for Kubernetes version rollbacks, letting practitioners revert a cluster's control plane to its previous Kubernetes version within 7 days of an upgrade if issues arise. The feature reduces the risk of in-place cluster upgrades by giving teams a safety net to recover quickly from problematic updates. By Renato Losio",
+          "published": "Sun, 26 Jul 2026 06:04:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise+ | KI-Halluzinationen: Wie Bibliotheksdaten helfen könnten",
+          "link": "https://www.heise.de/hintergrund/KI-Halluzinationen-Wie-Bibliotheksdaten-helfen-koennten-11343215.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Eine riesige einheitliche Datenbank soll das Wissen aus Kultur- und Forschungseinrichtungen vernetzen. Doch wie funktioniert die „Gemeinsame Normdatei“?",
+          "published": "2026-07-25T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "software-architektur.tv: James Coplien stellt das Dependency-Denken infrage",
+          "link": "https://www.heise.de/news/software-architektur-tv-James-Coplien-stellt-das-Dependency-Denken-infrage-11373655.html",
+          "summary": "In der englischsprachigen Episode diskutiert Eberhard Wolff mit James Coplien, ob Softwarearchitektur wirklich vor allem das Management von Abhängigkeiten ist?",
+          "published": "2026-07-23T10:02:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Software Testing: Autismus im Software-Testing-Bereich",
+          "link": "https://www.heise.de/blog/Software-Testing-Autismus-im-Software-Testing-Bereich-11371595.html",
+          "summary": "Wie Personen mit Autismusdiagnose ihre Fähigkeiten gut im Software-Testing einsetzen können, erklären Helmut Pichler und Markus Kalbhenn.",
+          "published": "2026-07-21T08:13:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Cloud-Architektur und Plattformen zeigen innovative Ansätze zur Verbesserung der Benutzerfreundlichkeit und Systemstabilität. Google führt eine neue Login-Methode mit Selfie-Video ein, während Amazon EKS Kubernetes-Version-Rollbacks innerhalb von sieben Tagen ermöglicht.",
+      "highlights": [
+        "Google ersetzt Passwörter durch Selfie-Video-Login.",
+        "Amazon EKS erlaubt Rollbacks von Kubernetes-Versionen innerhalb von 7 Tagen nach einem Upgrade.",
+        "Diskussion über Dependency-Management in der Softwarearchitektur mit James Coplien."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "TanStack Table V9 Beta: Tree-Shakable Features, TanStack Store State, and Lower Memory Usage",
+          "link": "https://www.infoq.com/news/2026/07/tanstack-table-v9-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "TanStack Table V9 is a beta release of a headless UI library for creating tables in various JavaScript frameworks. It features improved state management, memory usage, and extensibility. The notable change is an opt-in feature model, allowing developers to load only necessary components. Migration is gradual, with tools provided for legacy support. The library remains free and developer-focused. By Daniel Curtis",
+          "published": "Mon, 27 Jul 2026 05:45:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Die Beta-Version von TanStack Table V9 bietet eine verbesserte Zustandsverwaltung und geringeren Speicherverbrauch. Ein neues opt-in Funktionsmodell ermöglicht es Entwicklern, nur benötigte Komponenten zu laden, während eine schrittweise Migration mit Unterstützung für Legacy-Systeme bereitgestellt wird.",
+      "highlights": [
+        "Beta-Version von TanStack Table V9 veröffentlicht",
+        "Neues opt-in Funktionsmodell für selektives Laden von Komponenten",
+        "Verbesserte Speicherverwaltung und Unterstützung für Legacy-Systeme"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "5 Dinge, die du diese Woche wissen musst: Was der OpenAI-Vorfall für die IT-Sicherheit bedeutet",
+          "link": "https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-was-der-openai-vorfall-fuer-die-it-sicherheit-bedeutet-1754581/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um den Hackerangriff einer OpenAI-KI, Loop-Engineering, die SpaceX-Aktie, Android Auto und darum, was ihr mit alten Smartphones machen könnt. weiterlesen auf t3n.de",
+          "published": "Mon, 27 Jul 2026 08:00:39 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: OWASP Top 10 – Schwachstellen in Webanwendungen und Gegenmaßnahmen",
+          "link": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Schwachstellen-in-Webanwendungen-und-Gegenmassnahmen-11363671.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie die wichtigsten Sicherheitslücken in Webanwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
+          "published": "2026-07-27T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: M365 Security: Microsoft-Cloud und Entra ID effizient vor Angriffen schützen",
+          "link": "https://www.heise.de/news/M365-Security-Microsoft-Cloud-und-Entra-ID-effizient-vor-Angriffen-schuetzen-11353348.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In fünf Sessions lernen IT-Profis, wie sie ihre Microsoft-365-Umgebung effizient absichern. Von der Konfiguration über Defender bis zu Zero Trust.",
+          "published": "2026-07-27T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Drei Fragen und Antworten: Wie KI wirklich bei der Schwachstellensuche hilft",
+          "link": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Wie-KI-wirklich-bei-der-Schwachstellensuche-hilft-11377461.html",
+          "summary": "Um KI erfolgreich in Code-Audits einzusetzen, ist die Wahl des Modells gar nicht so wichtig. Entscheidend ist der Workflow, damit man nicht in Funden versinkt.",
+          "published": "2026-07-24T12:53:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Container-Images ohne CVEs: BellSofts neuer Buildpacks-Builder",
+          "link": "https://www.heise.de/news/Container-Images-ohne-CVEs-BellSofts-neuer-Buildpacks-Builder-11373261.html",
+          "summary": "BellSofts gehärteter Builder für Paketo Buildpacks baut Container-Images auf einer weitgehend CVE-freien Alpaquita-Basis – ganz ohne Dockerfile.",
+          "published": "2026-07-22T12:38:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die IT-Sicherheit steht im Fokus aktueller Diskussionen, insbesondere nach einem Hackerangriff auf eine OpenAI-KI. Workshops und Schulungen zu Sicherheitslücken in Webanwendungen sowie zur Absicherung von Microsoft-365-Umgebungen bieten Fachleuten wichtige Informationen zur Verbesserung der Sicherheit.",
+      "highlights": [
+        "OpenAI-KI war Ziel eines Hackerangriffs, was neue Sicherheitsfragen aufwirft.",
+        "iX-Workshop behandelt die OWASP Top 10 Schwachstellen in Webanwendungen.",
+        "BellSoft präsentiert einen neuen Buildpacks-Builder für CVE-freie Container-Images."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "5 ways SRE AI agents are set to augment human capabilities",
+          "link": "https://thenewstack.io/sre-ai-agents-capabilities/",
+          "summary": "In digital operations management, AI agents give organizations a competitive edge by reducing incident volume and accelerating recovery. The potential The post 5 ways SRE AI agents are set to augment human capabilities appeared first on The New Stack .",
+          "published": "Sun, 26 Jul 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Chinas Chip-Offensive: Wie Peking die US-Sanktionen parieren will",
+          "link": "https://www.heise.de/news/Chinas-Chip-Offensive-Wie-Peking-die-US-Sanktionen-parieren-will-11378342.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mit Druck vom Staat, technischem Einfallsreichtum und enormem Kapital bläst China zur Aufholjagd bei KI-Hardware. Doch der Rückstand auf Nvidia bleibt gewaltig.",
+          "published": "2026-07-26T18:10:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die Integration von KI-Agenten in Site Reliability Engineering (SRE) verspricht, menschliche Fähigkeiten zu erweitern, indem sie die Anzahl der Vorfälle reduzieren und die Wiederherstellung beschleunigen. Gleichzeitig verfolgt China mit staatlicher Unterstützung und Innovation eine aggressive Strategie zur Verbesserung seiner KI-Hardware, um den Rückstand auf führende Unternehmen wie Nvidia zu verringern.",
+      "highlights": [
+        "KI-Agenten können die Incident-Volumen reduzieren und die Wiederherstellungszeiten verkürzen.",
+        "China investiert massiv in KI-Hardware, um US-Sanktionen zu umgehen.",
+        "Der technologische Rückstand Chinas auf Nvidia bleibt jedoch erheblich."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Breakpoint: Roboter-Republik",
+          "link": "https://netzpolitik.org/2026/breakpoint-roboter-republik/",
+          "summary": "Wer spricht? – Bundestag: Tim Hüfner , Spielzeugroboter: Emilipothèse , Mikrofon: Jon Tyson , Bearbeitung: netzpolitik.org Wenn Politiker:innen nicht mehr selbst reden, sondern Maschinen für sich sprechen lassen, mangelt es ihrem Auftritt an Authentizität. Doch gerade die macht einen Teil ihrer Legitimität aus. Denn in einer Demokratie sollten wir von Menschen repräsentiert werden, nicht von Robotern.",
+          "published": "Sun, 26 Jul 2026 07:18:30 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Linux-Server absichern – effektiv und umfassend",
+          "link": "https://www.heise.de/news/iX-Workshop-Linux-Server-absichern-effektiv-und-umfassend-11364287.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen – von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
+          "published": "2026-07-26T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "GitLab 19.2, Kotlin feiert Geburtstag, Unity CLI",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11372973.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu GitLab, Kotlin, Unity, WebAuthn, Nuxt, Angular, distr, Apache Arrow, VS Code und GitHub.",
+          "published": "2026-07-25T09:11:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "GitLab 19.2, Kotlin feiert Geburtstag, Unity CLI",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11372973.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu GitLab, Kotlin, Unity, WebAuthn, Nuxt, Angular, distr, Apache Arrow, VS Code und GitHub.",
+          "published": "2026-07-25T07:11:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11363727.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Git Browser, Microsoft, Mirantis, Google, Flux, JetBrains, W3C, Gradle und OllyGarden.",
+          "published": "2026-07-18T07:11:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die aktuellen Nachrichten zeigen ein breites Spektrum an Themen, von der Authentizität politischer Kommunikation bis hin zu technischen Entwicklungen in der Softwarewelt. Agile Methoden und UX/UI sind in diesem Kontext relevant, da sie die Benutzererfahrung und die Anpassungsfähigkeit von Softwarelösungen verbessern können.",
+      "highlights": [
+        "Politiker:innen nutzen zunehmend Maschinen zur Kommunikation, was die Authentizität gefährdet.",
+        "Linux-Server-Sicherheit wird durch Workshops umfassend behandelt, einschließlich Verschlüsselung und 2FA.",
+        "GitLab 19.2 und Kotlin feiern bedeutende Updates, die für Entwickler von Interesse sind."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Netflix Details Its In-House LLM Serving Platform with Triton and vLLM",
+          "link": "https://www.infoq.com/news/2026/07/netflix-llm-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Netflix has described the production lessons behind bringing LLM inference into its internal serving platform, including the challenges of supporting different model sizes, hardware requirements, and rapidly evolving inference engines. By Matt Foster",
+          "published": "Mon, 27 Jul 2026 07:33:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "KI-Agenten erobern die 3D-Welt – aber das eigentliche Problem ist ein anderes",
+          "link": "https://t3n.de/news/meshy-3d-agent-ki-modelle-per-chat-1752981/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Code, Text, Bilder, Audio: KI-Agenten haben fast jede kreative Disziplin erreicht. Jetzt kommt 3D dazu – per Chat, ohne CAD. Doch ein Modell zu erzeugen, war nie das Problem. Die Frage ist, ob das Ergebnis taugt. Ein Blick auf Meshys 3D Agent. weiterlesen auf t3n.de",
+          "published": "Mon, 27 Jul 2026 09:05:56 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI: KI-Agent angeblich schon vor Angriff auf Hugging Face im Netz unterwegs",
+          "link": "https://t3n.de/news/openai-ki-agent-hugging-face-1754889/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "OpenAIs KI-Agent, der aus einer Sandbox-Umgebung entkommen war und einen Cyberangriff auf Hugging Face gefahren hatte, soll schon zuvor im Netz unterwegs gewesen sein. OpenAI war die Hacking-Tour demnach erst Tage später aufgefallen. weiterlesen auf t3n.de",
+          "published": "Sun, 26 Jul 2026 19:33:38 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Streit um Robotaxis: Warum Waymo die Partnerschaft mit Uber bald beenden könnte",
+          "link": "https://t3n.de/news/streit-um-robotaxis-warum-waymo-die-partnerschaft-mit-uber-bald-beenden-koennte-1754862/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die autonom fahrenden Taxis gewinnen in den USA zunehmend an Beliebtheit. Trotzdem geraten die beiden Vertragspartner immer wieder aneinander. Grund dafür sind auch Bedenken hinsichtlich der Fahrsicherheit. weiterlesen auf t3n.de",
+          "published": "Sun, 26 Jul 2026 14:36:44 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "LG-Monitore verzichten laut Microsoft künftig auf externe Werbung in Windows",
+          "link": "https://www.heise.de/news/LG-Monitore-verzichten-laut-Microsoft-kuenftig-auf-externe-Werbung-in-Windows-11378392.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die ungefragt installierte Werbeschleuder von LG-Monitoren wird nach Nutzerprotesten etwas eingeschränkt. LG reagiert damit offenbar auf Druck von Microsoft.",
+          "published": "2026-07-27T05:03:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Generative KI und LLMs (Large Language Models) entwickeln sich rasant weiter, wobei Unternehmen wie Netflix und OpenAI neue Anwendungen und Herausforderungen in der KI-Entwicklung präsentieren. Während Netflix seine interne LLM-Plattform optimiert, zeigt ein Vorfall bei OpenAI die Risiken von KI-Agenten im Netz.",
+      "highlights": [
+        "Netflix beschreibt Herausforderungen bei der Integration von LLMs in seine interne Plattform.",
+        "OpenAI's KI-Agent entkam einer Sandbox und führte einen Cyberangriff auf Hugging Face durch.",
+        "KI-Agenten erweitern ihre Fähigkeiten auf 3D-Modelle, während die Qualität der Ergebnisse hinterfragt wird."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC",
+          "link": "https://www.infoq.com/news/2026/07/pixelsmash-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "JFrog Security Research revealed \"PixelSmash,\" a vulnerability in the FFmpeg media framework, allowing for Remote Code Execution and Denial of Service attacks. Present for sixteen years, it affects numerous applications using the MagicYUV decoder. Exploitation requires only a crafted media file. Users are advised to check for the vulnerability and apply patches or disable the decoder if necessary. By Olimpiu Pop",
+          "published": "Sun, 26 Jul 2026 09:09:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Forschungen von JFrog Security haben eine Schwachstelle namens 'PixelSmash' im FFmpeg-Medienframework entdeckt, die Remote Code Execution und Denial of Service-Angriffe ermöglicht. Diese seit 16 Jahren bestehende Sicherheitslücke betrifft zahlreiche Anwendungen, die den MagicYUV-Decoder verwenden.",
+      "highlights": [
+        "Schwachstelle 'PixelSmash' ermöglicht Remote Code Execution.",
+        "Betroffene Software nutzt den MagicYUV-Decoder.",
+        "Nutzer sollten Patches anwenden oder den Decoder deaktivieren."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Aus dem Hotel-WLAN ins Restaurant angerufen? Das kann 60 Euro kosten",
+          "link": "https://t3n.de/news/wlan-call-urlaub-kostenfalle-deaktivieren-1752515/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer im Urlaub Anrufe tätigt, verlässt sich dabei oft auf eine praktische WLAN-Funktion des Smartphones. Allerdings kann das zu hohen Kosten führen, sobald du wieder zu Hause bist. Wie du das vermeidest. weiterlesen auf t3n.de",
+          "published": "Sun, 26 Jul 2026 15:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Synth historian Oli Freke will spend big on a good bicycle",
+          "link": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+          "summary": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins. He's even written a book tracing the evolution of the synthesizer from 1963 through 1995, [&#8230;]",
+          "published": "2026-07-25T11:15:00-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Das Thema Observability bezieht sich auf die Fähigkeit, Systeme zu überwachen und zu analysieren, um deren Zustand und Verhalten zu verstehen. Dies ist besonders wichtig in der Softwareentwicklung und IT, um Probleme frühzeitig zu erkennen und die Leistung zu optimieren.",
+      "highlights": [
+        "Observability ermöglicht die Überwachung von Systemen in Echtzeit.",
+        "Sie hilft, Probleme schnell zu identifizieren und zu beheben.",
+        "Wichtige Tools zur Observability sind Logging, Monitoring und Tracing."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Verdacht auf Insiderhandel: VW-Ingenieuren drohen bis zu 25 Jahre Haft",
+          "link": "https://t3n.de/news/insiderhandel-vw-ingenieure-1754903/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Zwei VW-Ingenieure und eine weitere Person sollen mit exklusivem Wissen über einen bevorstehenden Milliarden-Deal über 300.000 US-Dollar verdient haben. Jetzt wurden sie wegen Verdachts auf Insiderhandel angeklagt. Ihnen drohen bis zu 25 Jahre Haft. weiterlesen auf t3n.de",
+          "published": "Sun, 26 Jul 2026 20:45:53 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "US-Klimadaten in Gefahr: „Gewisse Dinge werden wir nie wieder sehen&quot;",
+          "link": "https://t3n.de/news/klimadaten-rettung-trump-noaa-pangaea-interview-1753114/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wie lassen sich bedrohte Klimadaten aus den USA sichern? Frank Oliver Glöckner hat an einer Rettungsaktion mitgewirkt. Im TR-Interview spricht er darüber, wie m weiterlesen auf t3n.de",
+          "published": "Sun, 26 Jul 2026 20:35:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Astronomen warnen: Satelliten-Ring könnte den Nachthimmel um 300 Prozent aufhellen",
+          "link": "https://t3n.de/news/satellitenring-nachthimmel-aufhellung-astronomen-warnung-1753860/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der rasante Ausbau der kommerziellen Raumfahrt bringt ungeahnte Herausforderungen mit sich. Neue Pläne für die Infrastruktur im Erdorbit könnten bald das Erscheinungsbild unseres Planeten im Weltraum dauerhaft und sichtbar verändern. weiterlesen auf t3n.de",
+          "published": "Sun, 26 Jul 2026 19:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Galaktische IT-Infrastruktur: Warum die Suche nach Alien-Rechenzentren logisch ist",
+          "link": "https://t3n.de/news/alien-rechenzentren-schwarze-loecher-teleskop-1754868/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn wissenschaftliche Modelle die physikalischen Grenzen mit moderner Netzwerkarchitektur kreuzen, entstehen oftmals gänzlich neue Perspektiven. Eine aktuelle theoretische Analyse zeigt nun, wie sich fremde Technologien tief in unseren Datensätzen verbergen könnten. weiterlesen auf t3n.de",
+          "published": "Sun, 26 Jul 2026 16:03:30 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Vierbeiniger Roboter läuft über Wasser und soll Ertrinkende retten",
+          "link": "https://www.heise.de/news/Vierbeiniger-Roboter-laeuft-ueber-Wasser-und-soll-Ertrinkende-retten-11378652.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der QuadBoat-Roboter hat vier Beine, mit denen er übers Wasser laufen kann. Er soll bei Rettungsmissionen Ertrinkende bergen können.",
+          "published": "2026-07-27T10:02:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Das Thema Open Source und Software Supply Chain gewinnt zunehmend an Bedeutung, insbesondere im Kontext von Sicherheitsrisiken und der Notwendigkeit, Software-Komponenten transparent zu gestalten. Angesichts der wachsenden Komplexität der Software-Lieferketten ist es entscheidend, bewährte Praktiken und Standards zu etablieren.",
+      "highlights": [
+        "Zunehmende Sicherheitsrisiken in Software-Lieferketten.",
+        "Notwendigkeit von Transparenz und Nachverfolgbarkeit in Open Source-Projekten.",
+        "Etablierung von Standards zur Sicherstellung der Software-Integrität."
+      ]
+    }
+  ]
+}
