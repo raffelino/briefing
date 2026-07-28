@@ -1,0 +1,331 @@
+{
+  "date": "2026-07-28",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage",
+          "link": "https://www.infoq.com/news/2026/07/guardduty-investigation-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS released a public preview of the GuardDuty investigation agent, which correlates findings, 90-day activity logs, and resource topologies into structured reports with risk ratings, confidence scores, and MITRE ATT&amp;CK classification. It is reachable through the AWS MCP Server, so investigations can run from agentic tooling. Preview quotas cap usage at 10 investigations per account per day. By Steef-Jan Wiggers",
+          "published": "Tue, 28 Jul 2026 07:14:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Kubernetes-Maintainerin: „Ich kann aus Versehen eine Website für die ganze Welt blockieren”",
+          "link": "https://t3n.de/news/kubernetes-open-source-entwicklung-1754999/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Software wie Kubernetes ist das Rückgrat unserer digitalen Welt. Über die Arbeit daran hört man selten etwas. Ein Blick hinter die Kulissen des Open-Source-Ökos weiterlesen auf t3n.de",
+          "published": "Tue, 28 Jul 2026 08:00:44 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: Clean Architecture for Serverless: Business Logic You Can Take Anywhere",
+          "link": "https://www.infoq.com/presentations/kotlin-serverless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Elena van Engelen discusses how to eliminate serverless vendor lock-in without sacrificing native cloud capabilities. She explains how to structure FaaS applications using Clean Architecture, Spring Cloud Function, and Gradle modules to isolate business logic. Finally, she shares a live demo deploying portable Kotlin services across AWS and Azure using Terraform CDK for multi-cloud IaC. By Elena van Engelen",
+          "published": "Mon, 27 Jul 2026 11:26:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Article: An Evolutionary Architecture Pattern for Managing AI’s Pace of Change",
+          "link": "https://www.infoq.com/articles/evolutionary-architecture-pattern/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Traditional API gateways assume deterministic services and simple schemas - assumptions agentic AI breaks. Discover why enterprise engineering leaders are adopting AI Gateways as an evolutionary architecture seam. Centralize guardrails, model routing, agent identity, action policy, and semantic audit within a single control plane to prevent costly incidents while keeping core platforms stable. By Joe Price, Branimir Đurek, Pavlos Migkiros, Trevor Dearham",
+          "published": "Mon, 27 Jul 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "software-architektur.tv: James Coplien stellt das Dependency-Denken infrage",
+          "link": "https://www.heise.de/news/software-architektur-tv-James-Coplien-stellt-das-Dependency-Denken-infrage-11373655.html",
+          "summary": "In der englischsprachigen Episode diskutiert Eberhard Wolff mit James Coplien, ob Softwarearchitektur wirklich vor allem das Management von Abhängigkeiten ist?",
+          "published": "2026-07-23T10:02:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der Cloud-Architektur und Plattformen zeigen Fortschritte in der Automatisierung von Bedrohungsanalysen, der Handhabung von Serverless-Anwendungen und der Integration von KI in Architekturansätze. Experten diskutieren zudem die Herausforderungen und Konzepte der Softwarearchitektur.",
+      "highlights": [
+        "AWS hat den GuardDuty Investigation Agent in der öffentlichen Vorschau veröffentlicht, der Bedrohungen automatisiert analysiert und strukturiert.",
+        "Elena van Engelen demonstriert, wie man mit Clean Architecture und Terraform CDK serverlose Anwendungen plattformübergreifend bereitstellt.",
+        "Neue Architekturansätze, wie AI Gateways, werden von Unternehmen angenommen, um die Herausforderungen durch agentische KI zu bewältigen."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Microsoft Releases .NET 11 Preview 6 With Language and Framework Updates",
+          "link": "https://www.infoq.com/news/2026/07/dotnet-11-preview-6/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has released .NET 11 Preview 6, with updates across C#, ASP.NET Core, .NET MAUI, and Entity Framework Core. C# adds extension indexers and built-in union support types. ASP.NET Core brings async validation, automatic CSRF protection, and OpenAPI 3.2 by default. MAUI extends CollectionView to Windows, and EF Core adds FULL OUTER JOIN translation. By Almir Vuk",
+          "published": "Mon, 27 Jul 2026 15:09:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Java News Roundup: Simple JSON API, JEPs for JDK 28, Oracle CPUs, Embabel 1.0, Azul Payara, Helidon",
+          "link": "https://www.infoq.com/news/2026/07/java-news-roundup-jul20-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for July 20th, 2026, features news highlighting: two JEPs proposed to target for JDK 28; new JEPs 540 and 541, Simple JSON API (Incubator) and Deprecate the macOS/x64 Port for Removal, respectively; the July 2026 Critical Patch Update; the GA release of Embable 1.0; Azul Payara 7.2.0; and Helidon 4.5.1. By Michael Redlich",
+          "published": "Mon, 27 Jul 2026 13:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "TanStack Table V9 Beta: Tree-Shakable Features, TanStack Store State, and Lower Memory Usage",
+          "link": "https://www.infoq.com/news/2026/07/tanstack-table-v9-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "TanStack Table V9 is a beta release of a headless UI library for creating tables in various JavaScript frameworks. It features improved state management, memory usage, and extensibility. The notable change is an opt-in feature model, allowing developers to load only necessary components. Migration is gradual, with tools provided for legacy support. The library remains free and developer-focused. By Daniel Curtis",
+          "published": "Mon, 27 Jul 2026 05:45:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Die Software-Architektur entwickelt sich weiter mit neuen Updates in .NET und Java. Microsoft hat .NET 11 Preview 6 veröffentlicht, während die Java-Community neue JEPs für JDK 28 und weitere Tools vorstellt.",
+      "highlights": [
+        ".NET 11 Preview 6 bringt Updates für C#, ASP.NET Core und Entity Framework Core.",
+        "Java News Roundup umfasst zwei neue JEPs für JDK 28 und die GA-Version von Embable 1.0.",
+        "TanStack Table V9 Beta bietet verbesserte Zustandsverwaltung und speichereffiziente Funktionen."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "MAI-Cyber-1-Flash: Microsoft präsentiert erste eigene Cybersecurity-KI",
+          "link": "https://t3n.de/news/microsoft-cybersecurity-ki-1755167/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit MAI-Cyber-1-Flash hat Microsoft ein KI-Modell vorgestellt, das auf Cybersicherheit spezialisiert und zugleich besonders günstig sein soll. Trainiert wurde die Cybersecurity-KI auch mit Daten von Hacking-Attacken auf Microsoft-Nutzer:innen. weiterlesen auf t3n.de",
+          "published": "Mon, 27 Jul 2026 20:18:28 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Angriffe auf FortiOS und Arista VeloCloud beobachtet",
+          "link": "https://www.heise.de/news/Angriffe-auf-FortiOS-und-Arista-VeloCloud-beobachtet-11379680.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die IT-Sicherheitsbehörde CISA meldet Angriffe auf Sicherheitslücken in Fortinet FortiOS sowie Arista VeloCloud.",
+          "published": "2026-07-28T07:48:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | Datenlecks auf WordPress-Websites finden und abdichten",
+          "link": "https://www.heise.de/hintergrund/Datenlecks-auf-WordPress-Websites-finden-und-abdichten-11350569.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Mit dem CMS WordPress sind Websites auch ohne Fachwissen schnell aufgebaut. Damit dessen JSON-API nicht sämtliche Daten ausplaudert, müssen Sie es schützen.",
+          "published": "2026-07-27T17:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Drei Fragen und Antworten: Wie KI wirklich bei der Schwachstellensuche hilft",
+          "link": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Wie-KI-wirklich-bei-der-Schwachstellensuche-hilft-11377461.html",
+          "summary": "Um KI erfolgreich in Code-Audits einzusetzen, ist die Wahl des Modells gar nicht so wichtig. Entscheidend ist der Workflow, damit man nicht in Funden versinkt.",
+          "published": "2026-07-24T12:53:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Container-Images ohne CVEs: BellSofts neuer Buildpacks-Builder",
+          "link": "https://www.heise.de/news/Container-Images-ohne-CVEs-BellSofts-neuer-Buildpacks-Builder-11373261.html",
+          "summary": "BellSofts gehärteter Builder für Paketo Buildpacks baut Container-Images auf einer weitgehend CVE-freien Alpaquita-Basis – ganz ohne Dockerfile.",
+          "published": "2026-07-22T12:38:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die IT-Sicherheitslandschaft wird durch neue Entwicklungen geprägt, darunter Microsofts KI-Modell für Cybersicherheit und aktuelle Angriffe auf FortiOS und Arista VeloCloud. Zudem wird die Bedeutung von KI in der Schwachstellensuche und der Schutz von WordPress-Websites thematisiert.",
+      "highlights": [
+        "Microsoft präsentiert MAI-Cyber-1-Flash, ein kostengünstiges KI-Modell für Cybersicherheit.",
+        "CISA meldet Angriffe auf Sicherheitslücken in Fortinet FortiOS und Arista VeloCloud.",
+        "BellSofts neuer Buildpacks-Builder erstellt Container-Images ohne bekannte Sicherheitsanfälligkeiten (CVEs)."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "„Hier ist eine natürlichere Version&quot;: Politiker verliest versehentlich KI-Antwort im Parlament",
+          "link": "https://t3n.de/news/hier-ist-eine-natuerlichere-version-politiker-verliest-versehentlich-ki-antwort-im-parlament-1755060/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein kanadischer Politiker liest mitten in einer Parlamentsrede offenbar die Antwort eines KI-Chatbots vor – und bemerkt den Fehler nicht. Ein Video des Fauxpas ist jetzt auf Reddit zu sehen. weiterlesen auf t3n.de",
+          "published": "Mon, 27 Jul 2026 16:45:01 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "iOS 26.6, macOS 26.6 und mehr: Apple stellt neue Betriebssysteme bereit",
+          "link": "https://www.heise.de/news/iOS-26-6-macOS-26-6-und-mehr-Apple-stellt-neue-Betriebssysteme-bereit-11379483.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Apple liefert weitere Varianten seiner 26er Betriebssysteme aus. Es gibt Bugfixes und sicherheitsrelevante Neuerungen. Zudem wird auf Siri AI vorbereitet.",
+          "published": "2026-07-27T20:25:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "In der heutigen Nachrichtenlage wird ein Vorfall im kanadischen Parlament berichtet, bei dem ein Politiker versehentlich eine KI-generierte Antwort vorlas. Zudem hat Apple neue Versionen seiner Betriebssysteme veröffentlicht, die Bugfixes und Sicherheitsupdates enthalten.",
+      "highlights": [
+        "Kanadischer Politiker liest KI-Antwort im Parlament vor.",
+        "Vorfall wurde in einem Video auf Reddit geteilt.",
+        "Apple veröffentlicht iOS 26.6 und macOS 26.6 mit Bugfixes und Sicherheitsupdates."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Top 10: Bestes leichtes E-Bike im Test – Testsieger wiegt nur 13,5 kg",
+          "link": "https://www.heise.de/bestenlisten/testsieger/top-10-bestes-leichtes-e-bike-im-test-testsieger-wiegt-nur-135-kg/j2zddqy?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Leichte E-Bikes sehen nicht nur toll aus, sie fahren sich meist auch agiler als schwerere Modelle. Wir zeigen die besten leichten E-Bikes aus unseren Tests.",
+          "published": "2026-07-27T20:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "KI-Update kompakt: KI-Kill-Switch, Kimi 3, Smart Glasses, Flux 3",
+          "link": "https://www.heise.de/news/KI-Update-kompakt-KI-Kill-Switch-Kimi-3-Smart-Glasses-Flux-3-11378878.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+          "published": "2026-07-27T15:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "GitLab 19.2, Kotlin feiert Geburtstag, Unity CLI",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11372973.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu GitLab, Kotlin, Unity, WebAuthn, Nuxt, Angular, distr, Apache Arrow, VS Code und GitHub.",
+          "published": "2026-07-25T07:11:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Agile Methoden und UX/UI-Design sind entscheidend für die Entwicklung benutzerfreundlicher Produkte. Der Fokus liegt auf der Anpassungsfähigkeit und der kontinuierlichen Verbesserung der Nutzererfahrung.",
+      "highlights": [
+        "Agile Methoden fördern iterative Entwicklungsprozesse.",
+        "UX/UI-Design zielt darauf ab, die Benutzerfreundlichkeit zu maximieren.",
+        "Die enge Zusammenarbeit zwischen Entwicklern und Designern ist zentral für den Erfolg."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Anthropic wants tests, not bans, as OpenAI and Google back open weights",
+          "link": "https://thenewstack.io/anthropic-wants-tests-not-bans-as-openai-and-google-back-open-weights/",
+          "summary": "Anthropic does not want open-weight AI models banned. CEO Dario Amodei said so plainly today after a week of criticism. The post Anthropic wants tests, not bans, as OpenAI and Google back open weights appeared first on The New Stack .",
+          "published": "Tue, 28 Jul 2026 00:02:25 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "The 24-hour experiment that helped Anthropic find its identity",
+          "link": "https://thenewstack.io/anthropic-evals-replace-prds/",
+          "summary": "If you&#8217;re building traditional software, you write the product requirements document. If you&#8217;re building frontier AI, you run an evaluation. The post The 24-hour experiment that helped Anthropic find its identity appeared first on The New Stack .",
+          "published": "Mon, 27 Jul 2026 19:14:57 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Moonshot opens Kimi K3 weights — but few can run it",
+          "link": "https://thenewstack.io/kimi-k3-open-weights/",
+          "summary": "Moonshot AI has released the open weights for Kimi K3 on Hugging Face, giving developers access to one of the The post Moonshot opens Kimi K3 weights — but few can run it appeared first on The New Stack .",
+          "published": "Mon, 27 Jul 2026 19:10:17 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "ChatGPT starts blocking direct requests to copy an author's style",
+          "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+          "summary": "New behavior capturing a writer's \"broad qualities\" could have legal implications.",
+          "published": "Mon, 27 Jul 2026 16:58:46 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Microsoft is racing to make OpenAI optional",
+          "link": "https://thenewstack.io/microsoft-homegrown-ai-models/",
+          "summary": "AI is changing the technology game so quickly that Microsoft CEO Satya Nadella can&#8217;t stop long-posting on Twitter. Microsoft has The post Microsoft is racing to make OpenAI optional appeared first on The New Stack .",
+          "published": "Mon, 27 Jul 2026 16:24:08 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Die Diskussion um generative KI und große Sprachmodelle (LLMs) intensiviert sich. Unternehmen wie Anthropic und Microsoft setzen auf Tests und Offenheit, während rechtliche Fragen zur Nutzung von Autorenstilen aufkommen.",
+      "highlights": [
+        "Anthropic fordert Tests statt Verbote für offene KI-Modelle.",
+        "Moonshot AI hat die offenen Gewichte von Kimi K3 veröffentlicht, jedoch sind nur wenige in der Lage, sie auszuführen.",
+        "ChatGPT blockiert direkte Anfragen zur Nachahmung eines Autorenstils, was rechtliche Implikationen haben könnte."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
+          "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+          "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
+          "published": "Mon, 27 Jul 2026 20:12:42 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: NIS 2 – Anforderungen und Vorgaben",
+          "link": "https://www.heise.de/news/iX-Workshop-NIS-2-Anforderungen-und-Vorgaben-11363683.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Erhalten Sie praxisnahe Einblicke in die effektive Umsetzung von NIS2 und dem deutschen NIS2UmsuCG.",
+          "published": "2026-07-27T14:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die EU-Tech-Regulierung steht im Fokus, insbesondere im Hinblick auf die NIS2-Richtlinie, die Anforderungen an die Cybersicherheit von Unternehmen festlegt. Ein aktuelles Gerichtsurteil stärkt die Position von Web-Scrapern gegen große Plattformen wie Google und Reddit, die sich auf das DMCA berufen.",
+      "highlights": [
+        "NIS2-Richtlinie soll Cybersicherheitsstandards in der EU erhöhen.",
+        "Gerichtsurteil unterstützt Web-Scraper gegen DMCA-Anwendungen.",
+        "Workshop von heise online bietet praxisnahe Einblicke in NIS2-Umsetzung."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Zugangsdaten im Visier: Hacker beim Datenklau über Hotel-WLANs erwischt",
+          "link": "https://www.golem.de/news/zugangsdaten-im-visier-hacker-beim-datenklau-ueber-hotel-wlans-erwischt-2607-211305.html",
+          "summary": "Eine russische Hackergruppe kapert wohl WLAN-Ausrüstung in Einrichtungen, um systematisch Microsoft-Zugangsdaten abzugreifen. ( Cyberwar , WLAN )",
+          "published": "2026-07-27T11:11:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Eine russische Hackergruppe hat offenbar WLAN-Ausrüstung in Hotels infiltriert, um gezielt Microsoft-Zugangsdaten zu stehlen. Diese Cyberangriffe zielen auf ungesicherte WLAN-Netzwerke ab, die häufig von Reisenden genutzt werden.",
+      "highlights": [
+        "Ziel der Angriffe sind Microsoft-Zugangsdaten.",
+        "Hacker nutzen kompromittierte WLAN-Ausrüstung in Hotels.",
+        "Angriffe erfolgen über ungesicherte WLAN-Netzwerke."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Kleine Inseln, große Domains: Warum .ai, .tv und .to weltweit so begehrt sind",
+          "link": "https://t3n.de/news/kleine-inseln-grosse-domains-warum-ai-tv-und-to-weltweit-so-begehrt-sind-1755024/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Es ist eine der charmantesten Lotterien der Internetgeschichte: Länder bekamen zwei Buchstaben als Domain-Endung zugeteilt – und Jahrzehnte später stellten einige fest, dass sie damit zufällig auf einem digitalen Schatz sitzen. weiterlesen auf t3n.de",
+          "published": "Tue, 28 Jul 2026 07:30:21 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Fast zwei Jahre unentdeckt: Cyberkriminelle infizieren 8.000 PCs über Steam-Fake-Games",
+          "link": "https://t3n.de/news/zwei-jahre-unentdeckt-steam-8000-pcs-1754323/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Cyberkriminelle haben Steam genutzt, um zahlreiche PCs mit Malware zu infizieren. Sie haben die Schadsoftware in Spielen versteckt und sie bei bestimmten Gamer:innen beworben. Welche Schäden sie damit angerichtet haben. weiterlesen auf t3n.de",
+          "published": "Mon, 27 Jul 2026 14:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Midea Portasplit: Wie ein Open-Source-Tool den Stromverbrauch senken soll",
+          "link": "https://t3n.de/news/strom-sparen-ieco-midea-portasplit-1754965/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die hierzulande beliebte mobile Klimaanlage Midea Portasplit hat einen versteckten Sparmodus, mit dem sich bis zu 60 Prozent Strom sparen lassen sollen. Die dauerhafte Aktivierung übernimmt ein Open-Source-Tool, das zugleich ein weiteres Problem löst. weiterlesen auf t3n.de",
+          "published": "Mon, 27 Jul 2026 14:00:16 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Gute Nachrichten für Kaffeetrinker: Warum ein moderater Konsum sogar gesund sein könnte",
+          "link": "https://t3n.de/news/gute-nachrichten-fuer-kaffeetrinker-forscher-erklaeren-warum-ein-moderater-konsum-sogar-gesund-sein-koennte-1754998/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Für viele ist die Tasse Kaffee genauso unverzichtbar wie das morgendliche Zähneputzen. Ein Forschungsteam hat jetzt untersucht, wie sich die getrunkene Menge auf die Gesundheit auswirkt – mit überraschendem Ergebnis. weiterlesen auf t3n.de",
+          "published": "Mon, 27 Jul 2026 13:30:20 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Fake-PIN löscht Smartphone: Warum das Feature jetzt für ein Gerichtsverfahren sorgt",
+          "link": "https://t3n.de/news/fake-pin-loescht-smartphone-gerichtsverfahren-1754959/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In den USA sorgt ein Gerichtsverfahren für Aufsehen. Ein Mann hatte durch ein Privatsphäre-Feature seines Smartphones das komplette Gerät gelöscht und damit Behörden den Zugriff auf die Daten verwehrt. Jetzt klagt das US-Justizministerium gegen ihn. weiterlesen auf t3n.de",
+          "published": "Mon, 27 Jul 2026 13:00:14 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Open Source-Tools gewinnen zunehmend an Bedeutung, insbesondere zur Optimierung des Energieverbrauchs, wie das Beispiel des Midea Portasplit zeigt. Gleichzeitig bleibt die Software-Supply-Chain durch Cyberangriffe, wie die Infektion von 8.000 PCs über Fake-Games auf Steam, ein kritisches Thema.",
+      "highlights": [
+        "Midea Portasplit ermöglicht durch ein Open-Source-Tool bis zu 60% Stromersparnis.",
+        "Cyberkriminelle infizierten 8.000 PCs über gefälschte Spiele auf Steam.",
+        ".ai, .tv und .to sind begehrte Domain-Endungen aufgrund ihrer zufälligen digitalen Wertigkeit."
+      ]
+    }
+  ]
+}
