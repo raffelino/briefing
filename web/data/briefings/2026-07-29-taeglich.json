@@ -1,0 +1,298 @@
+{
+  "date": "2026-07-29",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "KI-Müdigkeit: Fast drei Viertel wünschen sich die Arbeitswelt vor ChatGPT zurück",
+          "link": "https://t3n.de/news/ki-muedigkeit-fast-drei-viertel-wuenschen-sich-die-arbeitswelt-vor-chatgpt-zurueck-1755296/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eigentlich sollte sie die Produktivität steigern – inzwischen blicken Mitarbeiter:innen aber vor allem mit Frust auf den Einsatz von KI. Viele würden die Technologie am liebsten sogar komplett abschaffen. weiterlesen auf t3n.de",
+          "published": "Tue, 28 Jul 2026 15:00:30 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Digitale Souveränität im Marketing: Was Unternehmen tun können, um unabhängiger zu werden",
+          "link": "https://t3n.de/news/digitale-souveraenitaet-im-marketing-1732343/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Abhängigkeit von US-amerikanischen Tech-Giganten ist massiv. Cloud-Speicher, Werbe-Technologien, Daten – viele Bereiche sind auch im Marketing betroffen. Wa weiterlesen auf t3n.de",
+          "published": "Tue, 28 Jul 2026 14:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "ChatGPT im Job: User nutzen den Chatbot häufig für andere Arbeitsbereiche als den eigenen",
+          "link": "https://t3n.de/news/chatgpt-im-job-user-nutzen-den-chatbot-haeufig-fuer-andere-arbeitsbereiche-als-den-eigenen-1755262/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Laut einer Untersuchung von OpenAI führt KI dazu, dass sich die Tätigkeiten in vielen Berufen messbar verschieben. Besonders häufig treffe das auf Mitarbeiter:innen im Kundenservice und Designer:innen zu. weiterlesen auf t3n.de",
+          "published": "Tue, 28 Jul 2026 12:30:37 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage",
+          "link": "https://www.infoq.com/news/2026/07/guardduty-investigation-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS released a public preview of the GuardDuty investigation agent, which correlates findings, 90-day activity logs, and resource topologies into structured reports with risk ratings, confidence scores, and MITRE ATT&amp;CK classification. It is reachable through the AWS MCP Server, so investigations can run from agentic tooling. Preview quotas cap usage at 10 investigations per account per day. By Steef-Jan Wiggers",
+          "published": "Tue, 28 Jul 2026 07:14:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "KI-Müdigkeit: Fast drei Viertel wünschen sich die Arbeitswelt vor ChatGPT zurück",
+          "link": "https://www.heise.de/news/KI-Muedigkeit-Fast-drei-Viertel-wuenschen-sich-die-Arbeitswelt-vor-ChatGPT-zurueck-11381313.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eigentlich sollte sie die Produktivität steigern – inzwischen sind Mitarbeiter frustriert von KI. Viele würden die Technologie am liebsten abschaffen.",
+          "published": "2026-07-29T09:18:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die aktuelle Diskussion um Cloud-Architektur und Plattformen wird von einer wachsenden KI-Müdigkeit geprägt, während Unternehmen nach digitaler Souveränität streben. Der Einsatz von KI in der Arbeitswelt führt zu Frustration, und neue Tools wie der Amazon GuardDuty Investigation Agent sollen Sicherheitsanalysen automatisieren.",
+      "highlights": [
+        "Fast 75% der Mitarbeiter wünschen sich die Arbeitswelt vor ChatGPT zurück.",
+        "Die Abhängigkeit von US-amerikanischen Tech-Giganten im Marketing ist erheblich.",
+        "AWS hat den GuardDuty Investigation Agent in der öffentlichen Vorschau veröffentlicht, um Bedrohungen automatisiert zu analysieren."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Article: The Hard-Stop Rule: From 3 HCM Monoliths to 120 Domain Microservices",
+          "link": "https://www.infoq.com/articles/pull-based-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "A payroll and HR software team rebuilt three monoliths into over 120 smaller services over five years, with no dedicated migration budget. Every new feature was built as its own service instead of changing the old ones. The article covers the pull-based migration, the tools that made this possible, how costs were kept down, and the problems the team ran into along the way. By Prashanth Pasham",
+          "published": "Tue, 28 Jul 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "Ein Team für Lohn- und Gehaltsabrechnung hat drei Monolithen in über 120 Microservices umgebaut, ohne ein festes Migrationsbudget. Neue Funktionen wurden als eigene Dienste entwickelt, was die Migration erleichterte und Kosten senkte.",
+      "highlights": [
+        "Migration von 3 Monolithen zu 120 Microservices über 5 Jahre",
+        "Jede neue Funktion wurde als eigener Service entwickelt",
+        "Einsatz von Pull-basierten Migrationstechniken zur Kostenkontrolle"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Cyberversicherung für Privatpersonen: Was sie wirklich zahlt – und wann sie überflüssig ist",
+          "link": "https://t3n.de/news/cyberversicherung-fuer-privatpersonen-1748826/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Cyberversicherungen für Privatpersonen versprechen Hilfe bei Phishing, Identitätsdiebstahl und gehackten Bankkonten. Doch viele Schäden sind bereits durch Banken, andere Versicherungen oder gesetzliche Ansprüche abgedeckt. Wann ein Abschluss dennoch lohnt und wann die Policen nicht benötigt werden. weiterlesen auf t3n.de",
+          "published": "Tue, 28 Jul 2026 12:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Für mehr KI-Cybersecurity: Nvidia startet Allianz mit 37 Tech-Unternehmen – das sind ihre Ziele",
+          "link": "https://t3n.de/news/nvidia-allianz-ki-cybersecurity-ziele-1755226/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit einer Branchenallianz von 27 Unternehmen will Nvidia die Cybersecurity verbessern. Um das Ziel zu erreichen, wollen die Tech-Giganten die Entwicklung von offenen KI-Modellen vorantreiben. Wie dadurch die Sicherheit erhöht werden soll. weiterlesen auf t3n.de",
+          "published": "Tue, 28 Jul 2026 11:40:11 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Microsoft stellt eigenes KI-Modell für Cybersecurity vor",
+          "link": "https://www.heise.de/news/Microsoft-stellt-eigenes-KI-Modell-fuer-Cybersecurity-vor-11379956.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Microsoft bringt mit MAI-Cyber-1-Flash ein Security-Modell auf den Markt. Es soll nur halb so viel kosten wie Microsofts bisherige Security-Modellkombination.",
+          "published": "2026-07-28T16:47:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Drei Fragen und Antworten: Wie KI wirklich bei der Schwachstellensuche hilft",
+          "link": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Wie-KI-wirklich-bei-der-Schwachstellensuche-hilft-11377461.html",
+          "summary": "Um KI erfolgreich in Code-Audits einzusetzen, ist die Wahl des Modells gar nicht so wichtig. Entscheidend ist der Workflow, damit man nicht in Funden versinkt.",
+          "published": "2026-07-24T12:53:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Container-Images ohne CVEs: BellSofts neuer Buildpacks-Builder",
+          "link": "https://www.heise.de/news/Container-Images-ohne-CVEs-BellSofts-neuer-Buildpacks-Builder-11373261.html",
+          "summary": "BellSofts gehärteter Builder für Paketo Buildpacks baut Container-Images auf einer weitgehend CVE-freien Alpaquita-Basis – ganz ohne Dockerfile.",
+          "published": "2026-07-22T12:38:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Aktuelle Entwicklungen in der IT-Sicherheit zeigen einen Fokus auf Cyberversicherungen für Privatpersonen, KI-gestützte Sicherheitslösungen und die Verbesserung von Container-Sicherheit. Unternehmen wie Nvidia und Microsoft treiben Innovationen voran, um Cyberrisiken effektiver zu begegnen.",
+      "highlights": [
+        "Nvidia gründet eine Allianz mit 37 Tech-Unternehmen zur Verbesserung der Cybersecurity.",
+        "Microsoft präsentiert ein neues KI-Modell für Cybersecurity, das kostengünstiger ist als vorherige Modelle.",
+        "BellSoft entwickelt einen neuen Buildpacks-Builder, der Container-Images ohne bekannte Sicherheitsanfälligkeiten erstellt."
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "GitLab 19.2, Kotlin feiert Geburtstag, Unity CLI",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11372973.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu GitLab, Kotlin, Unity, WebAuthn, Nuxt, Angular, distr, Apache Arrow, VS Code und GitHub.",
+          "published": "2026-07-25T07:11:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die heise developer News berichten über die neuesten Entwicklungen in der Softwarewelt, darunter GitLab 19.2, den Geburtstag von Kotlin und Updates zur Unity CLI. Diese Meldungen bieten einen Überblick über aktuelle Trends und Technologien in der Softwareentwicklung.",
+      "highlights": [
+        "GitLab 19.2 bringt neue Funktionen zur Verbesserung der Zusammenarbeit im Team.",
+        "Kotlin feiert seinen Geburtstag und hat sich als beliebte Programmiersprache etabliert.",
+        "Unity CLI ermöglicht Entwicklern eine effizientere Nutzung der Unity-Engine über die Kommandozeile."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "1.000 Mitarbeiter von OpenAI, Anthropic und Google schlagen Alarm: KI-Fortschritt wird zu schnell",
+          "link": "https://t3n.de/news/1-000-mitarbeiter-von-openai-meta-und-google-schlagen-alarm-ki-fortschritt-wird-zu-schnell-1755387/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein eigenständig von KI durchgeführter Hackerangriff bei einem schiefgegangenen Test schreckte jüngst die Tech-Branche auf. Jetzt folgt der Ruf nach einem internationalen Bremsmechanismus. weiterlesen auf t3n.de",
+          "published": "Wed, 29 Jul 2026 08:30:33 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Projekte im Marketing: 85 Prozent scheitern – und das liegt nicht an der Technologie",
+          "link": "https://t3n.de/news/ki-projekte-im-marketing-85-prozent-scheitern-und-das-liegt-nicht-an-der-technologie-1754718/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Laut einer neuen Umfrage zählt KI für Marketingentscheider zu den wichtigsten strategischen Themen. Viele Projekte kommen jedoch nicht über den Pilotmodus hinaus und scheitern. Was Unternehmen anders machen, die Künstliche Intelligenz wirklich erfolgreich in der Organisation verankern. weiterlesen auf t3n.de",
+          "published": "Wed, 29 Jul 2026 07:30:35 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+          "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+          "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+          "published": "Tue, 28 Jul 2026 21:36:39 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Jensen Huang says AI agents could drive a 5-10x computing boom: “100 billion agents and billions of robots”",
+          "link": "https://thenewstack.io/huang-semiconductor-tenfold-ai-agents/",
+          "summary": "This week during an interview with Bloomberg, Jensen Huang made quite the prediction. The Nvidia CEO said the semiconductor industry The post Jensen Huang says AI agents could drive a 5-10x computing boom: &#8220;100 billion agents and billions of robots&#8221; appeared first on The New Stack .",
+          "published": "Tue, 28 Jul 2026 19:46:50 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Mate Security bets a context-first AI architecture can reinvent the SOC as it lands $35M Series A",
+          "link": "https://thenewstack.io/mate-security-context-graph/",
+          "summary": "Every major security vendor now has an AI copilot, but Mate Security thinks they&#8217;re solving the wrong problem. The Tel The post Mate Security bets a context-first AI architecture can reinvent the SOC as it lands $35M Series A appeared first on The New Stack .",
+          "published": "Tue, 28 Jul 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Die Diskussion um generative KI und LLMs intensiviert sich, da 1.000 Mitarbeiter führender Unternehmen wie OpenAI und Google vor den schnellen Fortschritten warnen. Gleichzeitig scheitern 85 Prozent der KI-Marketingprojekte, während Nvidia-CEO Jensen Huang einen massiven Anstieg der Rechenleistung durch KI-Agenten prognostiziert.",
+      "highlights": [
+        "1.000 Mitarbeiter von OpenAI, Anthropic und Google fordern einen internationalen Bremsmechanismus für KI-Fortschritte.",
+        "85 Prozent der KI-Projekte im Marketing scheitern, oft nicht aufgrund der Technologie, sondern wegen strategischer Fehler.",
+        "Nvidia-CEO Jensen Huang prognostiziert einen 5-10-fachen Anstieg der Rechenleistung durch 100 Milliarden KI-Agenten und Milliarden von Robotern."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Grafana Assistant Expands to More Than 30 Data Sources",
+          "link": "https://www.infoq.com/news/2026/07/grafana-assistant-data-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Grafana Labs has expanded the capabilities of Grafana Assistant, enabling its AI-powered observability assistant to query and correlate data across more than 30 different data sources through natural language. By Craig Risi",
+          "published": "Tue, 28 Jul 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Cyber Resilience Act: EU-Kommission schafft mehr Klarheit für Open Source",
+          "link": "https://www.heise.de/news/Cyber-Resilience-Act-EU-Kommission-schafft-mehr-Klarheit-fuer-Open-Source-11381011.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein Brüsseler Leitfaden konkretisiert die Cyberresilienz-Verordnung. Hersteller und Open-Source-Projekte erhalten Rechtsgewissheit vor Start der Meldepflichten.",
+          "published": "2026-07-28T18:46:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Fehlgeleitete Xing-Nachricht: BGH spricht Bewerber DSGVO-Schadenersatz zu",
+          "link": "https://www.heise.de/news/Fehlgeleitete-Xing-Nachricht-BGH-spricht-Bewerber-DSGVO-Schadenersatz-zu-11380985.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Wer Bewerberdaten versehentlich an Dritte schickt, riskiert laut dem Bundesgerichtshof Schadensersatz. Das Urteil verdeutlicht mögliche Folgen von Datenpannen.",
+          "published": "2026-07-28T18:25:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Verschiedene Attacken auf Progress LoadMaster möglich",
+          "link": "https://www.heise.de/news/Verschiedene-Attacken-auf-Progress-LoadMaster-moeglich-11380070.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Load-Balancing- und Cluster-Managementlösung LoadMaster ist verwundbar. Die Entwickler haben nun Sicherheitslücken geschlossen.",
+          "published": "2026-07-28T14:15:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "Die EU-Tech-Regulierung gewinnt an Bedeutung, insbesondere durch den Cyber Resilience Act, der Klarheit für Open-Source-Projekte schafft. Gleichzeitig verdeutlicht ein BGH-Urteil die Haftung bei Datenpannen und Sicherheitslücken in Software werden geschlossen.",
+      "highlights": [
+        "Cyber Resilience Act bietet Rechtsgewissheit für Hersteller und Open-Source-Projekte.",
+        "BGH-Urteil: Schadensersatz bei versehentlichem Versand von Bewerberdaten.",
+        "Sicherheitslücken in Progress LoadMaster wurden behoben."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Die beste Konferenz meines Lebens, und was sie anders gemacht hat",
+          "link": "https://www.heise.de/blog/Die-beste-Konferenz-meines-Lebens-und-was-sie-anders-gemacht-hat-11379756.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Anreise, Hotels, Arbeitszeit: Eine Konferenz kostet viel. Ein Event in Berlin hat mich restlos begeistert, und dafür gibt es sehr konkrete Gründe.",
+          "published": "2026-07-29T09:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Die beste Konferenz meines Lebens, und was sie anders gemacht hat",
+          "link": "https://www.heise.de/blog/Die-beste-Konferenz-meines-Lebens-und-was-sie-anders-gemacht-hat-11379756.html",
+          "summary": "Anreise, Hotels, Arbeitszeit: Eine Konferenz kostet viel. Ein Event in Berlin hat mich restlos begeistert, und dafür gibt es sehr konkrete Gründe.",
+          "published": "2026-07-29T07:00:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Eine kürzlich stattgefundene Konferenz in Berlin hat Teilnehmer durch innovative Ansätze und eine durchdachte Organisation begeistert. Die positiven Erfahrungen wurden sowohl in heise online als auch in heise developer hervorgehoben.",
+      "highlights": [
+        "Hohe Teilnehmerzufriedenheit durch innovative Formate.",
+        "Optimale Organisation von Anreise und Unterkunft.",
+        "Fokus auf praxisnahe Inhalte und Networking-Möglichkeiten."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "USA sperren chinesische Roboter aus – und schützen damit ihre eigenen Hersteller",
+          "link": "https://t3n.de/news/usa-sperren-chinesische-roboter-aus-und-schuetzen-damit-ihre-eigenen-hersteller-1755392/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Entwickler aus den USA und China sind im Wettstreit bei der Entwicklung humanoider Roboter. Jetzt schirmt die US-Regierung den amerikanischen Markt vor Konkurrenz aus dem Ausland ab. weiterlesen auf t3n.de",
+          "published": "Wed, 29 Jul 2026 09:00:02 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Jobkrise doch nicht so schlimm? Firmen stellen wieder ein – auch Einsteiger",
+          "link": "https://t3n.de/news/ki-jobkrise-firmen-stellen-ein-1755381/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Zuletzt haben eine ganze Reihe von Tech-Firmen mit Entlassungen im großen Stil für Schlagzeilen gesorgt, darunter etwa Amazon, Meta oder Microsoft. Nicht wenige davon nannten den Hype um KI als Grund. Jetzt könnte eine Trendwende eingesetzt haben. weiterlesen auf t3n.de",
+          "published": "Tue, 28 Jul 2026 22:45:27 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "GitHub Introduces Default \"Cooldown\" Policy for Dependabot Version Updates",
+          "link": "https://www.infoq.com/news/2026/07/github-dependabot-cooldown/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Instead of immediately opening pull requests when newer dependency versions are released, Dependabot now waits three days before suggesting upgrades, thus increasing the likelihood that malicious releases are identified and removed before they can be integrated. By Sergio De Simone",
+          "published": "Tue, 28 Jul 2026 19:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Jetzt auch kein 4K und HDR mehr: Disney Plus streicht höchste Streaming-Auflösungen",
+          "link": "https://t3n.de/news/kein-4k-hdr-disney-plus-1755366/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Disney-Plus-Nutzer:innen in Deutschland müssen derzeit beim Filmschauen mit 1080p und SDR vorliebnehmen. Das gilt auch für Abonnent:innen des Premium-Abos. Der Streamingdienst hat 4K UHD und HDR gestrichen – wohl wegen eines Patentstreits. weiterlesen auf t3n.de",
+          "published": "Tue, 28 Jul 2026 19:15:54 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Danach bleibt nur ein Reset: Samsung verschärft Regeln für falsche PIN-Eingaben",
+          "link": "https://t3n.de/news/samsung-regeln-falsche-pin-reset-1755318/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Samsung will die Sicherheit seiner Galaxy-Smartphones erhöhen. Deshalb verschärft der Hersteller die Regeln für die maximale Anzahl falsch eingegebener PINs. Welches Limit künftig gilt und warum auch ein Reset des Smartphones droht. weiterlesen auf t3n.de",
+          "published": "Tue, 28 Jul 2026 15:30:57 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die USA schränken den Zugang chinesischer Roboter zu ihrem Markt ein, um heimische Hersteller zu schützen. Gleichzeitig zeigt sich eine positive Wende auf dem Arbeitsmarkt für KI-Entwickler. GitHub hat eine neue Richtlinie für Dependabot eingeführt, die die Sicherheit von Software-Abhängigkeiten erhöhen soll.",
+      "highlights": [
+        "US-Regierung schließt chinesische Roboter vom Markt aus.",
+        "Tech-Firmen beginnen wieder mit Neueinstellungen im KI-Sektor.",
+        "Dependabot wartet nun drei Tage, bevor es Updates für Abhängigkeiten vorschlägt."
+      ]
+    }
+  ]
+}
