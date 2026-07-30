@@ -1,0 +1,312 @@
+{
+  "date": "2026-07-30",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
+          "link": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
+          "summary": "Comcast, accused of negligence, says lawsuit mischaracterized alleged events.",
+          "published": "Wed, 29 Jul 2026 19:33:55 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "“Stateful systems are incredibly hard to build”: How Perplexity thinks about AI agent sandboxes",
+          "link": "https://thenewstack.io/perplexity-space-agent-sandboxes/",
+          "summary": "Sandboxes for AI agents may feel like a solved problem. After all, projects like&#160;Firecracker, the open-source microVM technology AWS built The post “Stateful systems are incredibly hard to build”: How Perplexity thinks about AI agent sandboxes appeared first on The New Stack .",
+          "published": "Wed, 29 Jul 2026 15:30:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Microsoft Three-Layer LLM Routing Architecture for AI Agents on AKS",
+          "link": "https://www.infoq.com/news/2026/07/microsoft-agents-aks-routing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has released a reference architecture for routing agent traffic on Azure Kubernetes Service. It breaks down the issue into three key choices: which model answers a call, how the call is managed, and which GPU replica handles it. By Claudio Masolo",
+          "published": "Wed, 29 Jul 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Donnerstag: Börse honoriert Microsoft-Wachstum, Flugdrohnen-Lizenz für Doordash",
+          "link": "https://www.heise.de/news/Donnerstag-Boerse-honoriert-Microsoft-Wachstum-Flugdrohnen-Lizenz-fuer-Doordash-11384099.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Aktiensprung wegen Cloud-Erfolgen + US-Lizenz für Flugdrohnenlieferungen + Gespräche aufzeichnen mit Apple Watch + KI-Müdigkeit in Büros + Audi Q9 als Luxus-SUV",
+          "published": "2026-07-30T06:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "software-architektur.tv: James Coplien stellt das Dependency-Denken infrage",
+          "link": "https://www.heise.de/news/software-architektur-tv-James-Coplien-stellt-das-Dependency-Denken-infrage-11373655.html",
+          "summary": "In der englischsprachigen Episode diskutiert Eberhard Wolff mit James Coplien, ob Softwarearchitektur wirklich vor allem das Management von Abhängigkeiten ist?",
+          "published": "2026-07-23T10:02:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die aktuelle Berichterstattung über Cloud-Architektur und Plattformen beleuchtet neue Entwicklungen in der KI-Architektur, insbesondere Microsofts dreischichtige Routing-Architektur für KI-Agenten auf Azure Kubernetes Service. Zudem wird die Diskussion über Softwarearchitektur und Abhängigkeiten thematisiert.",
+      "highlights": [
+        "Microsoft veröffentlicht Referenzarchitektur für KI-Agenten auf Azure Kubernetes Service.",
+        "Perplexity thematisiert die Herausforderungen beim Bau von zustandsbehafteten Systemen.",
+        "James Coplien hinterfragt das Dependency-Denken in der Softwarearchitektur."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Anthropic backs urgent call for the most powerful AI labs to hit the brakes",
+          "link": "https://thenewstack.io/ai-pause-framework-letter/",
+          "summary": "Less than a week after OpenAI disclosed that two experimental AI models escaped their testing environment during a cybersecurity exercise The post Anthropic backs urgent call for the most powerful AI labs to hit the brakes appeared first on The New Stack .",
+          "published": "Wed, 29 Jul 2026 18:41:26 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "“The beast needs a cage”: Why PortSwigger’s agentic pentesting is kept safe behind bars",
+          "link": "https://thenewstack.io/burp-agentic-pentesting-control-layer/",
+          "summary": "As agentic services diversify across the entire enterprise technology stack, the rise of agentic coding tools is being challenged by The post &#8220;The beast needs a cage&#8221;: Why PortSwigger&#8217;s agentic pentesting is kept safe behind bars appeared first on The New Stack .",
+          "published": "Wed, 29 Jul 2026 18:34:54 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Warum Behörden seit Jahren vor Lösegeldzahlungen warnen – und eine neue Studie ihnen recht gibt",
+          "link": "https://t3n.de/news/loesegeldzahlung-ransomware-angriffe-studie-1754772/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Seit Jahren warnen Behörden Betroffene von Ransomware-Angriffen davor, Lösegeld zu zahlen. Ziel ist, die Angreifer:innen nicht weiter zu ermutigen und sie nicht mit frischen Mitteln auszustatten. Eine Studie deckt jetzt einen weiteren wichtigen Grund auf. weiterlesen auf t3n.de",
+          "published": "Wed, 29 Jul 2026 13:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Claude Mythos: Anthropic-KI knackt Verschlüsselungsstandard – was das bedeutet",
+          "link": "https://t3n.de/news/mythos-knackt-verschluesselung-1755434/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Anthropic-KI Claude Mythos Preview soll Schwachstellen in einer &#8211; allerdings abgeschwächten &#8211; Version des verbreiteten Verschlüsselungsalgorithmus AES gefunden haben. Akut besteht keine Gefahr. Langfristig könnte der Hack aber Folgen haben. weiterlesen auf t3n.de",
+          "published": "Wed, 29 Jul 2026 11:30:56 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Kritische Schwachstelle in JetBrains TeamCity entdeckt",
+          "link": "https://www.heise.de/news/Kritische-Schwachstelle-in-JetBrains-TeamCity-entdeckt-11381504.html",
+          "summary": "JetBrains hat eine kritische Sicherheitslücke in TeamCity geschlossen. Angreifer können CI/CD-Pipelines kompromittieren und Befehle auf dem Server ausführen.",
+          "published": "2026-07-29T09:13:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Die IT-Sicherheit steht angesichts neuer Entwicklungen im Bereich Künstliche Intelligenz und Software-Sicherheit unter Druck. Besondere Aufmerksamkeit gilt den Risiken durch Ransomware und Schwachstellen in weit verbreiteten Softwarelösungen.",
+      "highlights": [
+        "Anthropic fordert eine Pause bei leistungsstarken KI-Entwicklungen nach Sicherheitsvorfällen.",
+        "Eine neue Studie unterstützt die Warnungen von Behörden vor Lösegeldzahlungen bei Ransomware-Angriffen.",
+        "JetBrains hat eine kritische Sicherheitslücke in TeamCity behoben, die CI/CD-Pipelines gefährdete."
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "heise-Angebot: c’t-Workshop: GitLab CI im Praxiseinsatz",
+          "link": "https://www.heise.de/news/c-t-Workshop-GitLab-CI-im-Praxiseinsatz-11356355.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "GitLab CI/CD verstehen und anwenden: Der Workshop zeigt, wie Sie Pipelines für Builds, Tests und Deployments strukturieren und effizient im Team nutzen.",
+          "published": "2026-07-30T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Fusionsenergie: Deutschland verteilt Forschungszentren für Kernfusion",
+          "link": "https://www.golem.de/news/fusionsenergie-deutschland-verteilt-forschungszentren-fuer-kernfusion-2607-211430.html",
+          "summary": "Die Bundesregierung fördert die Fusionsforschung. Über das Land verteilt entstehen Hubs für Magnet- und Lasertechnologie sowie Materialien. ( Kernfusion , Dorothee Bär )",
+          "published": "2026-07-30T09:24:01+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "EEG: Bundesregierung will kleine Solaranlagen nicht mehr dauerhaft fördern",
+          "link": "https://www.golem.de/news/eeg-bundesregierung-will-kleine-solaranlagen-nicht-mehr-dauerhaft-foerdern-2607-211412.html",
+          "summary": "Wirtschaftsministerin Reiche will einen Kurswechsel in der Energiepolitik. Die Pläne stoßen auf viel Kritik - aber auch auf Zustimmung. ( Energie & Klima , Elektroauto )",
+          "published": "2026-07-29T14:47:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Im heutigen Fokus steht ein Workshop von heise, der sich mit der praktischen Anwendung von GitLab CI/CD beschäftigt. Ziel ist es, die Strukturierung und effiziente Nutzung von Pipelines für Builds, Tests und Deployments im Team zu vermitteln.",
+      "highlights": [
+        "Workshop zu GitLab CI/CD von heise online",
+        "Schwerpunkt auf Pipelines für Builds, Tests und Deployments",
+        "Praktische Anwendung und Teamarbeit im Fokus"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "New AMD Linux patch boosts low-end gaming performance on Steam Deck",
+          "link": "https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/",
+          "summary": "Improved efficiency in EPP mode leads to ~32% jump in \"1% low\" frame rates.",
+          "published": "Wed, 29 Jul 2026 15:33:20 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Nachfrage nach Smart Glasses: Umsatz mit Meta-Brillen hat sich nahezu verdoppelt",
+          "link": "https://www.heise.de/news/Nachfrage-nach-Smart-Glasses-Umsatz-mit-Meta-Brillen-hat-sich-nahezu-verdoppelt-11383578.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Nachfrage nach Smart Glasses wächst weiter: Meta-Partner EssilorLuxottica meldet, dass sich der Umsatz im vergangenen Quartal fast verdoppelt habe.",
+          "published": "2026-07-29T17:46:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "GitLab 19.2, Kotlin feiert Geburtstag, Unity CLI",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11372973.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu GitLab, Kotlin, Unity, WebAuthn, Nuxt, Angular, distr, Apache Arrow, VS Code und GitHub.",
+          "published": "2026-07-25T07:11:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Botnetz-Malware: Tengu kapert Linux-Systeme und wehrt sich mit Reboots",
+          "link": "https://www.golem.de/news/botnetz-malware-tengu-kapert-linux-systeme-und-wehrt-sich-mit-reboots-2607-211407.html",
+          "summary": "Eine neue Botnetz-Malware namens Tengu hat es auf Linux-Systeme abgesehen. Sie schaltet die Konkurrenz aus und weiß sich selbst zu wehren. ( Malware , Virus )",
+          "published": "2026-07-29T13:43:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "Aktuelle Nachrichten zeigen Fortschritte in der Technologie mit einem Fokus auf Gaming, Smart Glasses und Software-Updates. Während AMD die Leistung auf dem Steam Deck verbessert, verzeichnet Meta einen Umsatzanstieg bei Smart Glasses. Zudem sorgt eine neue Botnetz-Malware für Sicherheitsbedenken bei Linux-Systemen.",
+      "highlights": [
+        "AMD Linux-Patch verbessert Gaming-Leistung um ~32% auf Steam Deck.",
+        "Umsatz mit Meta-Smart Glasses hat sich im letzten Quartal nahezu verdoppelt.",
+        "Neue Botnetz-Malware Tengu zielt auf Linux-Systeme und kann sich selbst schützen."
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "„Ich prompte Claude nicht mehr&quot;: Was Loop-Engineering ist – und warum es Prompting ablöst",
+          "link": "https://t3n.de/news/ich-prompte-claude-nicht-mehr-loop-engineering-1754302/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Du musst KI-Agenten nicht mehr bei jedem Schritt neu prompten: Mit Loops gibst du ihnen Ziele, Feedback und Prüfungen, damit sie selbstständig weiterarbeiten. Wie Loop-Engineering funktioniert – und wie du häufige Fehler vermeidest. weiterlesen auf t3n.de",
+          "published": "Thu, 30 Jul 2026 06:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI fixed GPT-5.6 Sol’s most frustrating flaw: Burning limits while it waits",
+          "link": "https://thenewstack.io/sol-usage-limits-reset/",
+          "summary": "OpenAI introduced GPT-5.6 Sol earlier this month as a model built for more demanding coding tasks. But it didn&#8217;t take The post OpenAI fixed GPT-5.6 Sol’s most frustrating flaw: Burning limits while it waits appeared first on The New Stack .",
+          "published": "Wed, 29 Jul 2026 18:44:41 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI, Anthropic, and Cursor all localized pricing for India. Only two focused on value.",
+          "link": "https://thenewstack.io/cursor-anthropic-openai-india-pricing/",
+          "summary": "Cursor is the latest AI company to target India with localized pricing, announcing on Tuesday a dedicated plan that sits The post OpenAI, Anthropic, and Cursor all localized pricing for India. Only two focused on value. appeared first on The New Stack .",
+          "published": "Wed, 29 Jul 2026 18:30:55 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Opus 5 vs. Fable 5: What does half the price buy?",
+          "link": "https://thenewstack.io/opus-5-vs-fable-5/",
+          "summary": "Anthropic released Claude Opus 5 last week, with this pitch: It comes “close to the frontier intelligence of Claude Fable The post Opus 5 vs. Fable 5: What does half the price buy? appeared first on The New Stack .",
+          "published": "Wed, 29 Jul 2026 18:24:08 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "The AI “vibe shift”: Why NanoClaw and Echo have teamed up to stop the next Hugging Face Breach",
+          "link": "https://thenewstack.io/nanoclaw-echo-agent-runtime/",
+          "summary": "When he&#8217;s asked about the intensifying contest between rapidly advancing AI attackers and the software defenses meant to contain them, The post The AI &#8220;vibe shift&#8221;: Why NanoClaw and Echo have teamed up to stop the next Hugging Face Breach appeared first on The New Stack .",
+          "published": "Wed, 29 Jul 2026 16:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "Generative KI und LLMs entwickeln sich weiter, wobei Loop-Engineering das traditionelle Prompting ersetzt. OpenAI hat kürzlich Verbesserungen an GPT-5.6 Sol vorgenommen, während Unternehmen wie Cursor und Anthropic ihre Preisstrategien für den indischen Markt anpassen.",
+      "highlights": [
+        "Loop-Engineering ermöglicht KI-Agenten, selbstständig zu arbeiten, indem sie Ziele und Feedback erhalten.",
+        "OpenAI hat die frustrierendste Einschränkung von GPT-5.6 Sol behoben, die aufwändige Wartezeiten betrifft.",
+        "Anthropic hat Claude Opus 5 veröffentlicht, das zu einem reduzierten Preis angeboten wird, jedoch ähnliche Intelligenz wie Claude Fable bietet."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Sicherheitsupdates: Angreifer können Apache Traffic Server crashen lassen",
+          "link": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Apache-Traffic-Server-crashen-lassen-11382689.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In aktuellen Versionen haben die Entwickler von Apache Traffic Server mehrere Sicherheitslücken geschlossen.",
+          "published": "2026-07-29T14:42:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+          "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+          "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, the company argues, violates the First Amendment. Back in January, [&#8230;]",
+          "published": "2026-07-29T17:06:52-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "Die EU-Tech-Regulierung steht im Fokus, da Sicherheitslücken in Software wie Apache Traffic Server geschlossen wurden. Gleichzeitig sieht sich xAI rechtlichen Herausforderungen durch ein neues Gesetz in Minnesota gegenüber, das die Funktionen von Bildbearbeitungsanwendungen einschränkt.",
+      "highlights": [
+        "Apache Traffic Server hat mehrere Sicherheitslücken in aktuellen Versionen behoben.",
+        "xAI klagt gegen den Minnesota Attorney General wegen eines Gesetzes gegen 'nudification' Apps.",
+        "Das Gesetz könnte die Bildbearbeitungsfunktionen von Grok Imagine erheblich einschränken."
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Die beste Konferenz meines Lebens, und was sie anders gemacht hat",
+          "link": "https://www.heise.de/blog/Die-beste-Konferenz-meines-Lebens-und-was-sie-anders-gemacht-hat-11379756.html",
+          "summary": "Anreise, Hotels, Arbeitszeit: Eine Konferenz kostet viel. Ein Event in Berlin hat mich restlos begeistert, und dafür gibt es sehr konkrete Gründe.",
+          "published": "2026-07-29T07:00:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "Eine Konferenz in Berlin hat durch ihre außergewöhnliche Organisation und Inhalte begeistert. Die Teilnehmer erlebten eine gelungene Mischung aus Networking, Fachvorträgen und praktischen Workshops.",
+      "highlights": [
+        "Exzellente Organisation und Planung der Veranstaltung.",
+        "Vielfältige Fachvorträge von Experten der Branche.",
+        "Intensive Networking-Möglichkeiten mit Gleichgesinnten."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Reich werden mit Dividenden? Was dir Ausschüttungen wirklich bringen",
+          "link": "https://t3n.de/news/reich-dividenden-etf-passives-einkommen-1755557/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Dividenden gelten als bequemer Weg zum passiven Einkommen: Aktien halten, Geld kassieren, fertig. Doch ganz so einfach, wie es unzählige Rechnungen im Netz suggerieren, ist die Sache am Ende nicht. weiterlesen auf t3n.de",
+          "published": "Thu, 30 Jul 2026 08:30:27 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Social-Media-Verbot in Frankreich: EU-Kommission bremst Macron",
+          "link": "https://netzpolitik.org/2026/social-media-verbot-in-frankreich-eu-kommission-bremst-macron/",
+          "summary": "Präsident Macron hat das Social-Media-Verbot zur Chefsache erklärt. – Alle Rechte vorbehalten: IMAGO / Chris Emil Janßen, Bearbeitung: netzpolitik.org Einzelne EU-Staaten dürfen Plattformen wie TikTok derzeit nicht zu Alterskontrollen verpflichten, betont die EU-Kommission. Das könnte nationale Social-Media-Verbote zur Luftnummer machen. Unter anderem Frankreich und Österreich preschen mit eigenen Gesetzen voran.",
+          "published": "Wed, 29 Jul 2026 15:26:26 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Statt Fliegenklatsche: Dieses Startup schickt Mini-Drohnen auf Mückenjagd",
+          "link": "https://t3n.de/news/startup-muecken-drohnen-1754612/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Startup Tornyol hat Mücken und anderen Insekten den Kampf angesagt. Eine Mini-Drohne soll sich als effizientes Mittel gegen die Blutsauger erweisen. Jetzt demonstriert das Startup erstmals, wie das aussieht. weiterlesen auf t3n.de",
+          "published": "Wed, 29 Jul 2026 14:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "US-Bundesstaat verbietet KI-Nacktbilder: Warum Elon Musk jetzt dagegen vor Gericht zieht",
+          "link": "https://t3n.de/news/xai-klage-minnesota-nudification-ki-gesetz-1755493/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Für KI-generierte Nacktbilder sollen in Minnesota bald die Anbieter haften. Jetzt wehrt sich Musks xAI mit einer Klage gegen das neue Gesetz. weiterlesen auf t3n.de",
+          "published": "Wed, 29 Jul 2026 14:30:23 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nach 5 Jahren Stillstand: Bringt Apple bald neue Homepods und ein neues Apple TV auf den Markt?",
+          "link": "https://t3n.de/news/apple-tv-homepod-mini-ki-siri-ai-1755427/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Homepod Mini und Apple TV sind uralt, seit Jahren gibt es Gerüchte über ein neues Home-Gerät: Einem Bericht zufolge kommt nun Apples großer Befreiungsschlag mit neuer Home-Hardware. weiterlesen auf t3n.de",
+          "published": "Wed, 29 Jul 2026 13:30:50 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "Die heutigen Nachrichten behandeln verschiedene Themen, darunter die rechtlichen Herausforderungen für Social-Media-Plattformen in Europa und innovative Technologien wie Mini-Drohnen zur Bekämpfung von Mücken. Zudem wird über neue Entwicklungen bei Apple und rechtliche Auseinandersetzungen im Bereich KI berichtet.",
+      "highlights": [
+        "EU-Kommission bremst nationale Social-Media-Verbote",
+        "Startup Tornyol entwickelt Mini-Drohnen zur Mückenbekämpfung",
+        "Minnesota plant Haftung für Anbieter von KI-generierten Nacktbildern"
+      ]
+    }
+  ]
+}
