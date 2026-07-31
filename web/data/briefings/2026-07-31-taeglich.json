@@ -1,0 +1,326 @@
+{
+  "date": "2026-07-31",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Chinese AI competitors may have forced OpenAI’s hand on pricing",
+          "link": "https://thenewstack.io/gpt-5-6-api-price-cuts/",
+          "summary": "OpenAI has lowered API prices for two GPT-5.6 models only three weeks after their launch. On Thursday, the company announced The post Chinese AI competitors may have forced OpenAI&#8217;s hand on pricing appeared first on The New Stack .",
+          "published": "Thu, 30 Jul 2026 19:28:02 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS Lambda's Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit",
+          "link": "https://www.infoq.com/news/2026/07/lambda-self-managed-storage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS Lambda can now reference deployment packages directly in customer-owned S3 buckets, removing the per-Region code storage quota and raising the managed default from 75 GB to 300 GB. Per-function package limits are unchanged, and UpdateFunctionCode is still required after replacing an object. Terraform provider support remains an open enhancement request. By Steef-Jan Wiggers",
+          "published": "Thu, 30 Jul 2026 07:57:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Freitag: Apple und Amazon mit guten Ergebnissen, aber Börse reagiert verschieden",
+          "link": "https://www.heise.de/news/Freitag-Apple-und-Amazon-mit-guten-Ergebnissen-aber-Boerse-reagiert-verschieden-11387723.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Apple profitiert von iPhone & Mac + AWS ist Amazons Umsatztreiber + LinkedIn gegen KI-Slop + Offline-Bezahlen mit Karte oder Wallet + Verbraucherschutz-Podcast",
+          "published": "2026-07-31T06:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Airbus fliegt in 24 Stunden nonstop von Australien nach Frankreich",
+          "link": "https://www.heise.de/news/Airbus-fliegt-in-24-Stunden-nonstop-von-Australien-nach-Frankreich-11387318.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Airbus will künftig eine Langstreckenversion des A350-1000 vermarkten. Auf einem Testflug hat die Maschine ihre Fähigkeiten unter Beweis gestellt.",
+          "published": "2026-07-30T16:37:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Fusionsenergie: Iter erhält sechsten Tokamaksektor",
+          "link": "https://www.golem.de/news/fusionsenergie-iter-erhaelt-sechsten-tokamaksektor-2607-211475.html",
+          "summary": "Innerhalb von 30 Stunden ist das Element in Position gebracht worden. Noch Ende des Jahres soll Iter weiter wachsen. ( Iter , Kernfusion )",
+          "published": "2026-07-31T09:40:06+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Chinese AI competitors may have forced OpenAI’s hand on pricing",
+        "AWS Lambda's Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit",
+        "Freitag: Apple und Amazon mit guten Ergebnissen, aber Börse reagiert verschieden"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Russische Akteure greifen über Outlook-Web-Access-Lücke an",
+          "link": "https://www.heise.de/news/Russische-Akteure-greifen-ueber-Outlook-Web-Access-Luecke-an-11387751.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine Sicherheitslücke in OWA ermöglicht durch Anzeigen von Mails das Ausführen von JavaScript-Code. Russische Akteure nutzen das aus.",
+          "published": "2026-07-31T08:24:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Russische Akteure greifen über Outlook-Web-Access-Lücke an"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit",
+          "link": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-11366066.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Erfahren Sie, wie künstliche Intelligenz in der IT-Sicherheit eingesetzt werden kann: Überblick, Methoden, Werkzeuge und praktische Anwendung.",
+          "published": "2026-07-31T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kritische Schwachstelle in JetBrains TeamCity entdeckt",
+          "link": "https://www.heise.de/news/Kritische-Schwachstelle-in-JetBrains-TeamCity-entdeckt-11381504.html",
+          "summary": "JetBrains hat eine kritische Sicherheitslücke in TeamCity geschlossen. Angreifer können CI/CD-Pipelines kompromittieren und Befehle auf dem Server ausführen.",
+          "published": "2026-07-29T09:13:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Drei Fragen und Antworten: Wie KI wirklich bei der Schwachstellensuche hilft",
+          "link": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Wie-KI-wirklich-bei-der-Schwachstellensuche-hilft-11377461.html",
+          "summary": "Um KI erfolgreich in Code-Audits einzusetzen, ist die Wahl des Modells gar nicht so wichtig. Entscheidend ist der Workflow, damit man nicht in Funden versinkt.",
+          "published": "2026-07-24T12:53:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Microsoft 365 mit Zero Trust absichern",
+          "link": "https://www.golem.de/news/anzeige-microsoft-365-mit-zero-trust-absichern-2607-210522.html",
+          "summary": "Microsoft 365 Zero Trust verlangt klare Kontrollen für Identitäten, Daten und Geräte. Ein Online-Workshop zeigt, wie Schutzmechanismen und Monitoring strukturiert umgesetzt werden. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-07-31T07:15:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit",
+        "Kritische Schwachstelle in JetBrains TeamCity entdeckt",
+        "Drei Fragen und Antworten: Wie KI wirklich bei der Schwachstellensuche hilft"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Why your company should (try to) build its own AI SRE",
+          "link": "https://thenewstack.io/ai-sre-root-cause-analysis/",
+          "summary": "Companies ship more code today than ever, thanks to agentic coding tools. For product teams, this accelerated pace of development The post Why your company should (try to) build its own AI SRE appeared first on The New Stack .",
+          "published": "Thu, 30 Jul 2026 20:30:56 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Baden-Württemberg: Grüne Basis stimmt gegen Palantir",
+          "link": "https://netzpolitik.org/2026/baden-wuerttemberg-gruene-basis-stimmt-gegen-palantir/",
+          "summary": "Ministerpräsident Cem Özdemir (Grüne) rückt nicht vom Palantir-Vertrag ab. – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur In einer Urabstimmung fordert die überwältigende Mehrheit der Grünen, den Palantir-Vertrag sofort zu kündigen. Doch die Landesregierung hält an ihrem Kurs fest. Dabei verlangen die Mitglieder alles andere als eine grundlegende Wende.",
+          "published": "Thu, 30 Jul 2026 17:10:41 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Pollin Electronic stellt Insolvenzantrag",
+          "link": "https://www.heise.de/news/Pollin-Electronic-kaempft-um-Fortbestand-11387418.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der traditionsreiche Elektronikversandhändler Pollin Electronic hat einen Insolvenzantrag gestellt. Der Geschäftsbetrieb läuft vorerst weiter.",
+          "published": "2026-07-30T16:31:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Extraktor: Bundeskartellamt sieht keinen Lock-in-Effekt bei SAP-Software",
+          "link": "https://www.golem.de/news/extraktor-bundeskartellamt-sieht-keinen-lock-in-effekt-bei-sap-software-2607-211450.html",
+          "summary": "Im Streit zwischen SAP und Celonis erzielt der Marktführer einen Sieg: Es bestehen laut Kartellamt ausreichend Möglichkeiten für Drittanbieter, Daten aus SAP-Systemen zu extrahieren. ( SAP , API )",
+          "published": "2026-07-30T14:15:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Why your company should (try to) build its own AI SRE",
+        "Baden-Württemberg: Grüne Basis stimmt gegen Palantir",
+        "Pollin Electronic stellt Insolvenzantrag"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Neuer Job als Team Lead Record-to-Reporting gesucht? Schau dir unsere Top Jobs an",
+          "link": "https://t3n.de/news/unsere-jobs-der-woche-1175973/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hier findest du unsere besten Jobs aus den Bereichen Technik &amp; Entwicklung, Marketing, PR &amp; Kommunikation, Projektmanagement &amp; Produktmanagement, Design &amp; UX, Content &amp; Redaktion und Business Development. weiterlesen auf t3n.de",
+          "published": "Thu, 30 Jul 2026 15:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Paketverwaltung für Arch Linux: Shelly setzt künftig auf Zig statt .NET",
+          "link": "https://www.heise.de/news/Shelly-Ein-Werkzeug-fuer-Pacman-AUR-AppImages-und-Flatpak-11385187.html",
+          "summary": "Das Arch-Werkzeug Shelly wechselt von .NET zu Zig: Neue GUI, überarbeitete CLI und getrennte Flatpak-Unterstützung sollen es schlanker machen.",
+          "published": "2026-07-30T09:56:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "GitLab 19.2, Kotlin feiert Geburtstag, Unity CLI",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11372973.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu GitLab, Kotlin, Unity, WebAuthn, Nuxt, Angular, distr, Apache Arrow, VS Code und GitHub.",
+          "published": "2026-07-25T07:11:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Adventure: Ron Gilbert kündigt Thimbleweed Park 2 an",
+          "link": "https://www.golem.de/news/adventure-ron-gilbert-kuendigt-thimbleweed-park-2-an-2607-211460.html",
+          "summary": "Der Butler ist unschuldig: Ron Gilbert setzt Thimbleweed Park fort. Das Point-and-Click-Spiel erscheint 2028 für Windows-PC, Linux und MacOS. ( Thimbleweed Park , Adventure )",
+          "published": "2026-07-30T16:17:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Neuer Job als Team Lead Record-to-Reporting gesucht? Schau dir unsere Top Jobs an",
+        "Paketverwaltung für Arch Linux: Shelly setzt künftig auf Zig statt .NET",
+        "GitLab 19.2, Kotlin feiert Geburtstag, Unity CLI"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "KI-Modell bricht aus Sandbox aus und greift Hugging Face an – und OpenAI hätte es wissen müssen",
+          "link": "https://t3n.de/news/openai-ki-hack-hugging-face-1755286/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der autonome Hackerangriff einer OpenAI-KI sorgte weltweit für Aufsehen. Doch wie außergewöhnlich war das wirklich? Als in der vergangenen Woche bekannt wurde, weiterlesen auf t3n.de",
+          "published": "Fri, 31 Jul 2026 08:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nicht nur OpenAI: Anthropics KI griff echte Firmen an – und niemand bemerkte es",
+          "link": "https://t3n.de/news/open-ai-anthropic-ki-angriff-1755750/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Während Tests seiner KI-Modelle drang Anthropic unbeabsichtigt in die Systeme echter Unternehmen ein. Eine Schadsoftware lag eine Stunde lang öffentlich im Netz &#8211; 15 Systeme luden sie herunter. Dabei gilt Anthropic als einer der lautstärksten Verfechter sicherer KI-Entwicklung. weiterlesen auf t3n.de",
+          "published": "Fri, 31 Jul 2026 07:18:41 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Lotuseffekt: Nano-Beschichtung erhöht Output von Solarmodulen um 16 Prozent",
+          "link": "https://t3n.de/news/beschichtung-solarmodul-energie-1755735/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein indisches Forschungsteam hat eine selbstreinigende Nano-Beschichtung entwickelt, durch die der Energieertrag deutlich gesteigert werden kann. Im Vergleich mit nicht gereinigten Modulen produzierte das beschichtete Solarmodul 16 Prozent mehr Strom. weiterlesen auf t3n.de",
+          "published": "Thu, 30 Jul 2026 22:12:32 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI and Elastic are tackling the AI problem enterprises can’t ignore",
+          "link": "https://thenewstack.io/openai-elastic-enterprise-context/",
+          "summary": "It&#8217;s undeniable that enterprise AI has a context problem. Although frontier models are incredibly capable, if they can&#8217;t securely access The post OpenAI and Elastic are tackling the AI problem enterprises can’t ignore appeared first on The New Stack .",
+          "published": "Thu, 30 Jul 2026 18:42:32 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Why linting alone can’t govern agentic development",
+          "link": "https://thenewstack.io/governing-agentic-software-development/",
+          "summary": "There&#8217;s no question that AI agents are changing software development. They can move from an idea to a working implementation The post Why linting alone can’t govern agentic development appeared first on The New Stack .",
+          "published": "Thu, 30 Jul 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KI-Modell bricht aus Sandbox aus und greift Hugging Face an – und OpenAI hätte es wissen müssen",
+        "Nicht nur OpenAI: Anthropics KI griff echte Firmen an – und niemand bemerkte es",
+        "Lotuseffekt: Nano-Beschichtung erhöht Output von Solarmodulen um 16 Prozent"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "KI im Onlineshop: Wann Händler den Einsatz künftig offenlegen müssen",
+          "link": "https://t3n.de/news/ki-onlineshop-regeln-offenlegen-1755657/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ab August sieht der EU AI Act vor, dass Onlinehändler:innen in bestimmten Fällen offenlegen müssen, wenn sie Künstliche Intelligenz verwenden. Wo die neuen Vorg weiterlesen auf t3n.de",
+          "published": "Fri, 31 Jul 2026 06:30:36 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AI-Assisted Software Development: Team Profiles and Capabilities for Putting Research into Action",
+          "link": "https://www.infoq.com/news/2026/07/AI-research-into-action/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AI is an amplifier; strategic focus on the organizational system brings the greatest returns. DORA's 2025 research on AI in software development provides team profiles and success capabilities that can be used to put the research into practice. By Ben Linders",
+          "published": "Thu, 30 Jul 2026 11:30:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(2 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KI im Onlineshop: Wann Händler den Einsatz künftig offenlegen müssen",
+        "AI-Assisted Software Development: Team Profiles and Capabilities for Putting Research into Action"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Die beste Konferenz meines Lebens, und was sie anders gemacht hat",
+          "link": "https://www.heise.de/blog/Die-beste-Konferenz-meines-Lebens-und-was-sie-anders-gemacht-hat-11379756.html",
+          "summary": "Anreise, Hotels, Arbeitszeit: Eine Konferenz kostet viel. Ein Event in Berlin hat mich restlos begeistert, und dafür gibt es sehr konkrete Gründe.",
+          "published": "2026-07-29T07:00:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Die beste Konferenz meines Lebens, und was sie anders gemacht hat"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Amazon lässt Paypal in den Checkout – zunächst aber nur für die Ratenzahlung",
+          "link": "https://t3n.de/news/amazon-paypal-ratenzahlung-1755721/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der größte Onlinehändler Deutschlands und das hierzulande meistgenutzte Online-Zahlungsmittel arbeiten künftig enger zusammen. Amazon integriert ab August die Paypal-Ratenzahlung – und bietet dabei sogar eine Besonderheit, die Paypal üblicherweise nicht vorsieht. weiterlesen auf t3n.de",
+          "published": "Thu, 30 Jul 2026 15:45:52 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Genesis-Mission von Trump: Diese 287 Projekte wurden ausgewählt",
+          "link": "https://t3n.de/news/genesis-mission-von-trump-diese-287-projekte-wurden-ausgewaehlt-1755710/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Genesis-Mission soll nach dem Willen der Trump-Regierung den wissenschaftlichen Fortschritt in den USA mit KI-Hilfe beschleunigen. Jetzt wurden die ersten konkreten Projekte bekannt gegeben. weiterlesen auf t3n.de",
+          "published": "Thu, 30 Jul 2026 15:30:48 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Wildberries: Warum die Ukraine das russische Amazon attackiert",
+          "link": "https://t3n.de/news/wildberries-ukraine-amazon-1755658/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wildberries gilt als das Amazon Russlands und ist der größte Online-Händler des Landes. Die Ukraine nimmt derzeit gezielt die Verteilzentren des E-Commerce-Unternehmens ins Visier – und könnte damit auch die russische Wirtschaft treffen. weiterlesen auf t3n.de",
+          "published": "Thu, 30 Jul 2026 14:30:15 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Playstation-Blackout: Wie Gamer gegen das Aus von Discs demonstrieren wollen",
+          "link": "https://t3n.de/news/playstation-blackout-gamer-demonstrieren-disc-aus-1755666/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit einem Blackout wollen Playstation-Fans Sony zeigen, dass sie über das geplante Disc-Aus nicht gerade erfreut sind. Welche Maßnahmen sie für den Protest geplant haben. weiterlesen auf t3n.de",
+          "published": "Thu, 30 Jul 2026 14:00:13 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google Maps mit immersiver Navigation: Durchsichtige Gebäude und 3D-Ansicht für Android Auto",
+          "link": "https://t3n.de/news/google-maps-immersive-navigation-3d-ansicht-android-auto-1752726/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Fokus des Google-Maps-Upgrades für Android Auto steht eine neue Funktion namens „Immersive Navigation“. Die könnte euer Navigationserlebnis in einigen Punkten verbessern. weiterlesen auf t3n.de",
+          "published": "Thu, 30 Jul 2026 13:55:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Amazon lässt Paypal in den Checkout – zunächst aber nur für die Ratenzahlung",
+        "Genesis-Mission von Trump: Diese 287 Projekte wurden ausgewählt",
+        "Wildberries: Warum die Ukraine das russische Amazon attackiert"
+      ]
+    }
+  ]
+}
