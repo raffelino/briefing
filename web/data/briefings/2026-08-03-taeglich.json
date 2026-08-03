@@ -1,0 +1,325 @@
+{
+  "date": "2026-08-03",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "5 Dinge, die du diese Woche wissen musst: Ab sofort gilt die KI-Kennzeichnungspflicht",
+          "link": "https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-ab-sofort-gilt-die-ki-kennzeichnungspflicht-1755842/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um die KI-Kennzeichnungspflicht, ChatGPT-Müdigkeit, einen offenen Brief aus der Tech-Branche und Open-Source-Alternativen zum Google Authenticator. weiterlesen auf t3n.de",
+          "published": "Mon, 3 Aug 2026 08:00:56 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Studie zeigt: KI-Chatbots löschen ihre Spuren – selbst wenn du es verbietest",
+          "link": "https://t3n.de/news/ki-chatbots-loeschen-spuren-studie-verhalten-1744065/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Aktuelle KI-Modelle können Vorgaben gezielt umgehen und ihre Spuren anschließend verwischen. Derzeit bestehe laut Forschern noch kein erhöhtes Risiko – das könnte sich mit zunehmender Leistungsfähigkeit aber ändern. weiterlesen auf t3n.de",
+          "published": "Sun, 2 Aug 2026 20:20:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "EU plant Satelliten-Bremse für Autos: Keine Chance mehr für Raser ab 2030",
+          "link": "https://t3n.de/news/eu-satelliten-bremse-autos-geschwindigkeit-2030-1752600/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Halten sich Autos künftig selbstständig an Geschwindigkeitsbegrenzungen? Die EU will Fahrzeuge mit Satelliten koppeln, um die Sicherheit auf den Straßen zu erhöhen. Warum der Vorschlag auf Kritik stößt. weiterlesen auf t3n.de",
+          "published": "Sun, 2 Aug 2026 18:25:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Atomkraftwerk Paks: Ungarn drosselt den Strom wegen Dürre",
+          "link": "https://www.golem.de/news/atomkraftwerk-paks-ungarn-drosselt-den-strom-wegen-duerre-2608-211514.html",
+          "summary": "Ungarn muss sein einziges Atomkraftwerk vom Netz nehmen. Ursache sind die anhaltend niedrigen Pegelstände der Donau. ( Atomkraft , Wirtschaft )",
+          "published": "2026-08-02T13:16:06+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "5 Dinge, die du diese Woche wissen musst: Ab sofort gilt die KI-Kennzeichnungspflicht",
+        "Studie zeigt: KI-Chatbots löschen ihre Spuren – selbst wenn du es verbietest",
+        "EU plant Satelliten-Bremse für Autos: Keine Chance mehr für Raser ab 2030"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Embabel Agent Framework Reaches 1.0",
+          "link": "https://www.infoq.com/news/2026/08/embabel-1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Embabel has reached its 1.0 release, providing a framework for AI agents on Java It allows Java and Kotlin developers to define agents as typed domain objects. Built on Spring AI, Embabel supports multiple model providers and combines planning with predefined state machines, offering flexibility for agent workflows. By Erik Costlow",
+          "published": "Mon, 03 Aug 2026 04:43:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Embabel Agent Framework Reaches 1.0"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: IT-Sicherheitstag Dortmund: Digitale Souveränität im Fokus",
+          "link": "https://www.heise.de/news/IT-Sicherheitstag-Dortmund-Digitale-Souveraenitaet-im-Fokus-11328734.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Am 16. September dreht sich beim IT-Sicherheitstag Dortmund alles um digitale Souveränität zwischen KI, Cyberresilienz und Sicherheitsforschung.",
+          "published": "2026-08-03T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Eclipse und OWASP wollen Open-Source-Projekte in Sicherheitsfragen fortbilden",
+          "link": "https://www.heise.de/news/Eclipse-und-OWASP-wollen-Open-Source-Projekte-in-Sicherheitsfragen-fortbilden-11394486.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Cyber Resilience Act rückt näher und auch Open-Source-Projekte müssen sich darauf einstellen. Eclipse und OWASP bündeln nun ihre Hilfsangebote.",
+          "published": "2026-08-02T16:57:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Eclipse und OWASP wollen Open-Source-Projekte in Sicherheitsfragen fortbilden",
+          "link": "https://www.heise.de/news/Eclipse-und-OWASP-wollen-Open-Source-Projekte-in-Sicherheitsfragen-fortbilden-11394486.html",
+          "summary": "Der Cyber Resilience Act rückt näher und auch Open-Source-Projekte müssen sich darauf einstellen. Eclipse und OWASP bündeln nun ihre Hilfsangebote.",
+          "published": "2026-08-02T14:57:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Kritische Schwachstelle in JetBrains TeamCity entdeckt",
+          "link": "https://www.heise.de/news/Kritische-Schwachstelle-in-JetBrains-TeamCity-entdeckt-11381504.html",
+          "summary": "JetBrains hat eine kritische Sicherheitslücke in TeamCity geschlossen. Angreifer können CI/CD-Pipelines kompromittieren und Befehle auf dem Server ausführen.",
+          "published": "2026-07-29T09:13:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "(g+) Physische KI: Die stille KI-Revolution in der Fabrik",
+          "link": "https://www.golem.de/news/physische-ki-die-stille-ki-revolution-in-der-fabrik-2608-211011.html",
+          "summary": "KI macht Industrieroboter flexibler und produktiver. Ein Besuch bei Trumpf und Siemens zeigt, was heute schon möglich ist - und woran selbst moderne Systeme noch scheitern. Eine Reportage von Christian J. Meier ( Roboter , KI )",
+          "published": "2026-08-02T10:00:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: IT-Sicherheitstag Dortmund: Digitale Souveränität im Fokus",
+        "Eclipse und OWASP wollen Open-Source-Projekte in Sicherheitsfragen fortbilden",
+        "Eclipse und OWASP wollen Open-Source-Projekte in Sicherheitsfragen fortbilden"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Urabstimmung: Baden-Württembergs Grüne votieren für Palantir-Stopp",
+          "link": "https://www.golem.de/news/urabstimmung-baden-wuerttembergs-gruene-votieren-fuer-palantir-stopp-2608-211510.html",
+          "summary": "Die Grünen in Baden-Württemberg lehnen den Einsatz von Palantir mit großer Mehrheit ab. Doch die grün-schwarze Landesregierung hält daran fest. ( Palantir , Datenschutz )",
+          "published": "2026-08-01T12:40:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Urabstimmung: Baden-Württembergs Grüne votieren für Palantir-Stopp"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Freier Radiosender Corax: „Die AfD will uns zermürben. Das lassen wir nicht zu“",
+          "link": "https://netzpolitik.org/2026/freier-radiosender-corax-die-afd-will-uns-zermuerben-das-lassen-wir-nicht-zu/",
+          "summary": "Radio Corax wird stellvertretend für kritische Medien und demokratische Öffentlichkeit angegriffen. – Alle Rechte vorbehalten: Marcus-Andreas Mohr In Sachsen-Anhalt könnte die AfD die Landtagswahl gewinnen. Dem freien Radio Corax aus Halle will der rechtsextreme Landesverband die Finanzierung streichen. Was macht das mit den meist ehrenamtlichen Radiomacher:innen? Ein Interview über Medien im Visier von Rechtsextremen.",
+          "published": "Sun, 02 Aug 2026 09:23:54 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Top 10: Mähroboter für kleine Flächen im Test",
+          "link": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-fuer-kleine-flaechen-gut-guenstig-getestet/dtx14fd?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Kleine Gärten bis 500 m² benötigen keine Luxusgeräte. Wir haben günstige, kabellose Mähroboter für unter 1000 Euro getestet",
+          "published": "2026-08-01T20:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Desinfec’t 2026: Das Virenscan-Live-Linux von c’t | c’t uplink",
+          "link": "https://www.heise.de/news/Desinfec-t-2026-Das-Virenscan-Live-Linux-von-c-t-c-t-uplink-11387513.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In der 2026er-Ausgabe unseres Virenscansystems gibts viel Neues, und was das ist, darüber sprechen wir in dieser Folge des c’t uplink.",
+          "published": "2026-08-01T06:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Paketverwaltung für Arch Linux: Shelly setzt künftig auf Zig statt .NET",
+          "link": "https://www.heise.de/news/Shelly-Ein-Werkzeug-fuer-Pacman-AUR-AppImages-und-Flatpak-11385187.html",
+          "summary": "Das Arch-Werkzeug Shelly wechselt von .NET zu Zig: Neue GUI, überarbeitete CLI und getrennte Flatpak-Unterstützung sollen es schlanker machen.",
+          "published": "2026-07-30T09:56:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(4 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Freier Radiosender Corax: „Die AfD will uns zermürben. Das lassen wir nicht zu“",
+        "Top 10: Mähroboter für kleine Flächen im Test",
+        "Desinfec’t 2026: Das Virenscan-Live-Linux von c’t | c’t uplink"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Presentation: Architecting AI Systems for the Messy Reality of Enterprises: Why Agentic Compute is the Missing Layer",
+          "link": "https://www.infoq.com/presentations/agentic-compute/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Arun Joseph shares real-world insights on scaling enterprise agentic platforms like Deutsche Telekom’s LMOS. He discusses bridging organizational fault lines, replacing tool sprawl with core platform abstractions, and moving beyond basic chatbots to operational intelligence systems through ephemeral agents and an Agent Definition Language (ADL). By Arun Joseph",
+          "published": "Mon, 03 Aug 2026 08:08:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Es muss nicht immer Claude Code sein: Warum dieser Entwickler auf chinesische KI-Modelle schwört",
+          "link": "https://t3n.de/news/chinesische-ki-modelle-coder-1756018/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Entwickler Roland Golla setzt beim Coding nicht mehr auf Anthropic oder OpenAI. Bei ihm kommen nur noch chinesische KI-Modelle zum Einsatz. Im Interview erk weiterlesen auf t3n.de",
+          "published": "Mon, 3 Aug 2026 09:00:17 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Situational Awareness: Hype-Fonds von KI-Wunderkind erleidet Schiffbruch",
+          "link": "https://t3n.de/news/fonds-ki-wunderkind-notverkauf-1756003/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Fonds Situational Awareness des als KI-Wunderkind gefeierten deutschen Mathematikers und Wirtschaftswissenschaftlers Leopold Aschenbrenner ist ins Schleudern geraten. Jetzt fragt sich die Branche, wie es zu dem Hype kommen konnte. weiterlesen auf t3n.de",
+          "published": "Sun, 2 Aug 2026 19:41:22 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise-Angebot: Neue Online-Konferenz zu Agentic Ops: Referenten gesucht",
+          "link": "https://www.heise.de/news/Neue-Online-Konferenz-zu-Agentic-Ops-Referenten-gesucht-11388747.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Wie verändert generative und agentische KI den IT-Betrieb? Darum geht es bei der iX-Online-Konferenz im Dezember. Wir suchen Vorträge aus der Praxis.",
+          "published": "2026-08-03T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Datenschutz kontra Meta Smart Glasses: Droht ein Verbot in Deutschland?",
+          "link": "https://www.heise.de/news/Datenschutz-kontra-Meta-Smart-Glasses-Droht-ein-Verbot-in-Deutschland-11394520.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Hamburgs Datenschutzbeauftragter Thomas Fuchs warnt vor heimlichen Kameras am Kopf. Nun prüfen Behörden sogar ein Verkaufsverbot für Metas Datenbrillen.",
+          "published": "2026-08-01T17:52:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Architecting AI Systems for the Messy Reality of Enterprises: Why Agentic Compute is the Missing Layer",
+        "Es muss nicht immer Claude Code sein: Warum dieser Entwickler auf chinesische KI-Modelle schwört",
+        "Situational Awareness: Hype-Fonds von KI-Wunderkind erleidet Schiffbruch"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Blick ins Triebwerk: # 69 Click Boom Flash – Boroskopie",
+          "link": "https://www.heise.de/news/Blick-ins-Triebwerk-69-Click-Boom-Flash-Boroskopie-11377900.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "\"Es ist einfach eine Zustandsaufnahme von Inneren eines Flugzeugtriebwerks\", sagt Triebwerkexperte Maik Barnier über Boroskopie in seinem Alltag.",
+          "published": "2026-08-03T06:55:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Zeiss verknüpft DORA-Metriken und FinOps über Backstage und Argo CD",
+          "link": "https://www.heise.de/hintergrund/Zeiss-verknuepft-DORA-Metriken-und-FinOps-ueber-Backstage-und-Argo-CD-11367974.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Cloud-Architekt Alexander Troppmann zeigt, wie bei Zeiss durchgängige Metadaten Deployment-Performance und Kostentransparenz verbinden.",
+          "published": "2026-08-01T08:58:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Zeiss verknüpft DORA-Metriken und FinOps über Backstage und Argo CD",
+          "link": "https://www.heise.de/hintergrund/Zeiss-verknuepft-DORA-Metriken-und-FinOps-ueber-Backstage-und-Argo-CD-11367974.html",
+          "summary": "Cloud-Architekt Alexander Troppmann zeigt, wie bei Zeiss durchgängige Metadaten Deployment-Performance und Kostentransparenz verbinden.",
+          "published": "2026-08-01T06:58:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "KI-Verordnung der EU: KI-generierte Inhalte müssen teilweise gekennzeichnet werden",
+          "link": "https://www.golem.de/news/ki-verordnung-der-eu-ki-generierte-inhalte-muessen-teilweise-gekennzeichnet-werden-2608-211518.html",
+          "summary": "Die neue KI-Behörde der EU startet mit der Durchsetzung von Transparenzpflichten. Die meisten Medien sind davon jedoch nicht betroffen. ( AI Act , KI )",
+          "published": "2026-08-02T13:46:09+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Was passiert nach dem Crash?: Wenn die KI-Blase platzt, bleibt die Technik",
+          "link": "https://www.golem.de/news/was-passiert-nach-dem-crash-wenn-die-ki-blase-platzt-bleibt-die-technik-2608-211466.html",
+          "summary": "Was bleibt vom KI-Boom, wenn überzogene Versprechen, Bewertungen und Geschäftsmodelle verschwinden? Ihr habt uns eure Meinung gesagt. ( KI , Börse )",
+          "published": "2026-08-01T07:30:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Blick ins Triebwerk: # 69 Click Boom Flash – Boroskopie",
+        "Zeiss verknüpft DORA-Metriken und FinOps über Backstage und Argo CD",
+        "Zeiss verknüpft DORA-Metriken und FinOps über Backstage und Argo CD"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Die beste Konferenz meines Lebens, und was sie anders gemacht hat",
+          "link": "https://www.heise.de/blog/Die-beste-Konferenz-meines-Lebens-und-was-sie-anders-gemacht-hat-11379756.html",
+          "summary": "Anreise, Hotels, Arbeitszeit: Eine Konferenz kostet viel. Ein Event in Berlin hat mich restlos begeistert, und dafür gibt es sehr konkrete Gründe.",
+          "published": "2026-07-29T07:00:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Die beste Konferenz meines Lebens, und was sie anders gemacht hat"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Sichere Notiz-App ohne US-Cloud: Warum Joplin für Privatpersonen und Firmen interessant ist",
+          "link": "https://t3n.de/news/notiz-app-joplin-ohne-usa-1733030/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Unseren Notiz-Apps teilen wir bisweilen extrem persönliche Informationen mit. Dabei vertrauen viele Menschen den Cloud-Anbietern dahinter eigentlich nicht. Wir weiterlesen auf t3n.de",
+          "published": "Mon, 3 Aug 2026 06:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Android Auto: So clever löst Google Maps das Problem mit Gebäuden in der Kartenansicht",
+          "link": "https://t3n.de/news/android-auto-google-maps-3d-gebaeude-transparent-1752726/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Fokus des Google-Maps-Upgrades für Android Auto steht eine neue Funktion namens „Immersive Navigation“. Die könnte euer Navigationserlebnis in einigen Punkten verbessern. weiterlesen auf t3n.de",
+          "published": "Sun, 2 Aug 2026 19:20:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Ein Punkt macht den Unterschied: Dieser Gmail-Trick spart dir unzählige Accounts",
+          "link": "https://t3n.de/news/gmail-trick-neue-mail-adressen-ohne-account-1746848/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Benötigst du eine neue Gmail-Adresse, aber dir einen neuen Account zu erstellen, ist zu umständlich? Dann gibt es eine praktische Alternative, mit der du in wenigen Handgriffen eine enorme Anzahl an neuen Adressen erstellen kannst. weiterlesen auf t3n.de",
+          "published": "Sun, 2 Aug 2026 17:50:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Welche Technik lohnt sich wirklich? DSL, Kabel und Glasfaser im Vergleich",
+          "link": "https://t3n.de/news/dsl-kabel-glasfaser-vergleich-welche-technik-lohnt-sich-1749792/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Von DSL bis Starlink gibt es zahlreiche Mittel und Wege, um dich mit dem Internet zu verbinden. Doch welcher Anschluss ist für deine Zwecke am besten geeignet? weiterlesen auf t3n.de",
+          "published": "Sun, 2 Aug 2026 12:40:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Schwarz-Digits-Geschäftsführerin zu Digitaler Souveränität: „Die IT-Abteilung will in der Regel nichts ändern”",
+          "link": "https://t3n.de/news/schwarz-digits-digitale-souveraenitaet-1755780/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "70 Prozent der europäischen Cloud-Infrastruktur liegen in den Händen von drei US-Konzernen. Claudia Alsdorf, Geschäftsführerin Business Development bei Schwarz Digits, erklärt bei t3n Arbeit in Progress, welche Lösungen Schwarz Digits im Wettbewerb wählt und wie die zukünftige Zusammenarbeit mit den USA aussehen kann. weiterlesen auf t3n.de",
+          "published": "Sun, 2 Aug 2026 11:00:27 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Sichere Notiz-App ohne US-Cloud: Warum Joplin für Privatpersonen und Firmen interessant ist",
+        "Android Auto: So clever löst Google Maps das Problem mit Gebäuden in der Kartenansicht",
+        "Ein Punkt macht den Unterschied: Dieser Gmail-Trick spart dir unzählige Accounts"
+      ]
+    }
+  ]
+}
