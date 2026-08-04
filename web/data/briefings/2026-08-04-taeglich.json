@@ -1,0 +1,365 @@
+{
+  "date": "2026-08-04",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face",
+          "link": "https://www.infoq.com/news/2026/08/openai-huggingface-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Security disclosures highlighted vulnerabilities in AI evaluations of autonomous cyber capabilities. Notably, OpenAI’s models escaped sandbox isolation, breaching Hugging Face’s systems. The incident involved a multi-stage attack, revealing flaws in evaluation containment and prompting calls for stricter infrastructure controls and local incident response tools. By Olimpiu Pop",
+          "published": "Tue, 04 Aug 2026 06:42:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent",
+          "link": "https://www.infoq.com/news/2026/08/choosing-between-subagent-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In a recent Azure Architecture blog article, Azure lead engineer Kishorekumar Pattabiraman outlines practical criteria for choosing between skills, sub-agents, and other approaches when building AI systems, emphasizing reusability, simplicity, and long-term maintainability. By Sergio De Simone",
+          "published": "Mon, 03 Aug 2026 19:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Trump wants the power to stop the public from suing polluters",
+          "link": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
+          "summary": "Trump's DOJ says citizens should no longer be able to enforce environmental laws.",
+          "published": "Mon, 03 Aug 2026 13:33:56 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "HashiCorp Ships Public Beta of Vault Kubernetes Key Management",
+          "link": "https://www.infoq.com/news/2026/08/vault-kubernetes-key-management/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "HashiCorp has released a public beta of Vault Kubernetes key management, a KMS v2-compatible plugin that lets the Kubernetes API server delegate envelope encryption to Vault Enterprise, moving the key encryption keys that protect etcd data out of the cluster and into a separately governed trust domain. By Mark Silvester",
+          "published": "Mon, 03 Aug 2026 10:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Digitale Brieftasche: Bundesregierung bekräftigt Zeitplan für EUDI-Wallet",
+          "link": "https://www.golem.de/news/digitale-brieftasche-bundesregierung-bekraeftigt-zeitplan-fuer-eudi-wallet-2608-211547.html",
+          "summary": "Trotz Berichten über große Probleme bei der Einführung der digitalen Brieftasche hält das Digitalministerium am Starttermin 2027 fest. Von Friedhelm Greis ( EUDI-Wallet , Datenschutz )",
+          "published": "2026-08-03T16:01:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face",
+        "Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent",
+        "Trump wants the power to stop the public from suing polluters"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven",
+          "link": "https://www.infoq.com/news/2026/08/java-news-roundup-jul27-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for July 27th, 2026, features news highlighting: OpenJDK JEPs targeted and proposed to target for JDK 28; the GA release of GPULlama3.java 1.0; point releases of Micronaut, Quarkus and JobRunr; a maintenance release of JDKUpdater; the sixth release candidate of Maven 4.0; and the first milestone release of Jakarta Agentic AI 1.0. By Michael Redlich",
+          "published": "Mon, 03 Aug 2026 14:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Podcast: WebAssembly on the JVM: Feature Evolution, Performance, and the Transition to Endive",
+          "link": "https://www.infoq.com/podcasts/feature-evolution-performance-transition-endive/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Andrea Peruffo discusses the evolution of WebAssembly beyond the browser and its growing role on the server-side JVM. He covers performance advancements in Wasm runtimes, moving from interpreters to efficient JIT compilation, and explores real-world production use cases ranging from edge computing platforms to modular plugin architectures. By Andrea Peruffo",
+          "published": "Mon, 03 Aug 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Embabel Agent Framework Reaches 1.0",
+          "link": "https://www.infoq.com/news/2026/08/embabel-1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Embabel has reached its 1.0 release, providing a framework for AI agents on Java It allows Java and Kotlin developers to define agents as typed domain objects. Built on Spring AI, Embabel supports multiple model providers and combines planning with predefined state machines, offering flexibility for agent workflows. By Erik Costlow",
+          "published": "Mon, 03 Aug 2026 04:43:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(3 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven",
+        "Podcast: WebAssembly on the JVM: Feature Evolution, Performance, and the Transition to Endive",
+        "Embabel Agent Framework Reaches 1.0"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Sicherheitsexperten zeigen: Nur ein Prozent der durch KI aufgedeckten Schwachstellen wurde wirklich ausgenutzt",
+          "link": "https://t3n.de/news/sicherheitsexperten-ein-prozent-ki-aufgedeckte-schwachstellen-1756099/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI-Tools helfen dabei, zahlreiche Sicherheitslücken aufzudecken. Tatsächlich wurde aber nur ein geringer Teil der aufgezeigten Schwachstellen aktiv ausgenutzt. Woran das laut Sicherheitsforscher:innen liegt. weiterlesen auf t3n.de",
+          "published": "Mon, 3 Aug 2026 15:15:40 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Kommunizieren und Entscheiden nach der Ransomware-Attacke",
+          "link": "https://www.heise.de/news/iX-Workshop-Kommunizieren-und-Entscheiden-nach-der-Ransomware-Attacke-11378582.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie, wie Sie unter Druck klare Entscheidungen treffen und ruhig kommunizieren, um Ihr IT-Team sicher durch Krisensituationen zu steuern.",
+          "published": "2026-08-04T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Eclipse und OWASP wollen Open-Source-Projekte in Sicherheitsfragen fortbilden",
+          "link": "https://www.heise.de/news/Eclipse-und-OWASP-wollen-Open-Source-Projekte-in-Sicherheitsfragen-fortbilden-11394486.html",
+          "summary": "Der Cyber Resilience Act rückt näher und auch Open-Source-Projekte müssen sich darauf einstellen. Eclipse und OWASP bündeln nun ihre Hilfsangebote.",
+          "published": "2026-08-02T14:57:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Kritische Schwachstelle in JetBrains TeamCity entdeckt",
+          "link": "https://www.heise.de/news/Kritische-Schwachstelle-in-JetBrains-TeamCity-entdeckt-11381504.html",
+          "summary": "JetBrains hat eine kritische Sicherheitslücke in TeamCity geschlossen. Angreifer können CI/CD-Pipelines kompromittieren und Befehle auf dem Server ausführen.",
+          "published": "2026-07-29T09:13:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Coldcard-Wallets: Massenhafte Bitcoin-Diebstähle erschüttern die Kryptobranche",
+          "link": "https://www.golem.de/news/coldcard-wallets-massenhafte-bitcoin-diebstaehle-erschuettern-die-kryptobranche-2608-211532.html",
+          "summary": "Bitcoins im Wert von mehr als 70 Millionen Euro haben zuletzt unverhofft die Besitzer gewechselt. Grund ist eine Schwachstelle in Hardware-Wallets von Coinkite. ( Sicherheitslücke , Malware )",
+          "published": "2026-08-03T11:09:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Sicherheitsexperten zeigen: Nur ein Prozent der durch KI aufgedeckten Schwachstellen wurde wirklich ausgenutzt",
+        "heise-Angebot: iX-Workshop: Kommunizieren und Entscheiden nach der Ransomware-Attacke",
+        "Eclipse und OWASP wollen Open-Source-Projekte in Sicherheitsfragen fortbilden"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Liechtenstein: Hacker kopieren 31.000 Datensätze aus Wirtschaftsregister",
+          "link": "https://www.golem.de/news/liechtenstein-hacker-kopieren-31-000-datensaetze-aus-wirtschaftsregister-2608-211538.html",
+          "summary": "Die liechtensteinische Regierung muss nicht nur dem Angriff nachgehen, sondern auch Maßnahmen wegen der Verletzung der DSGVO ergreifen. ( Hacker , Datenschutz )",
+          "published": "2026-08-03T12:35:10+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Bundesverfassungsgericht: Umwelthilfe will neues Heizungsgesetz kippen",
+          "link": "https://www.golem.de/news/bundesverfassungsgericht-umwelthilfe-will-neues-heizungsgesetz-kippen-2608-211534.html",
+          "summary": "Bereits vor dem Beschluss des Bundestags hat es verfassungsrechtliche Bedenken gegen das neue Heizungsgesetz gegeben. Die Umwelthilfe will nun vor Gericht ziehen. ( Umweltschutz , Politik )",
+          "published": "2026-08-03T11:46:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Liechtenstein: Hacker kopieren 31.000 Datensätze aus Wirtschaftsregister",
+        "Bundesverfassungsgericht: Umwelthilfe will neues Heizungsgesetz kippen"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Betriebssysteme: Linux-Anteil verdoppelt sich plötzlich auf 10 Prozent – das steckt dahinter",
+          "link": "https://t3n.de/news/betriebssysteme-linux-anteil-1756193/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In den USA scheint der Marktanteil von Linux bei den Betriebssystemen überraschend auf über zehn Prozent gestiegen zu sein. Windows soll sich demnach nur noch auf weniger als 60 Prozent der Computer von Web-Nutzer:innen befinden. Kann das sein? weiterlesen auf t3n.de",
+          "published": "Mon, 3 Aug 2026 21:56:05 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Neue Malware-Welle: Arch Linux blockiert AUR-Updates",
+          "link": "https://www.heise.de/news/Neue-Malware-Welle-Arch-Linux-blockiert-AUR-Updates-11395880.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Erneut verbreitet sich Malware über Arch User Repositorys. Daher gibt es vorerst überhaupt keine Updates für AUR.",
+          "published": "2026-08-03T21:25:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Neue Malware-Welle: Arch Linux blockiert AUR-Updates",
+          "link": "https://www.heise.de/news/Neue-Malware-Welle-Arch-Linux-blockiert-AUR-Updates-11395880.html",
+          "summary": "Erneut verbreitet sich Malware über Arch User Repositorys. Daher gibt es vorerst überhaupt keine Updates für AUR.",
+          "published": "2026-08-03T19:25:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Paketverwaltung für Arch Linux: Shelly setzt künftig auf Zig statt .NET",
+          "link": "https://www.heise.de/news/Shelly-Ein-Werkzeug-fuer-Pacman-AUR-AppImages-und-Flatpak-11385187.html",
+          "summary": "Das Arch-Werkzeug Shelly wechselt von .NET zu Zig: Neue GUI, überarbeitete CLI und getrennte Flatpak-Unterstützung sollen es schlanker machen.",
+          "published": "2026-07-30T09:56:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Betriebssysteme: Linux hat auf einmal 10 Prozent Marktanteil",
+          "link": "https://www.golem.de/news/betriebssysteme-linux-hat-auf-einmal-10-prozent-marktanteil-2608-211533.html",
+          "summary": "Auf Reddit macht ein Screenshot die Runde, der einen enorm hohen Marktanteil von Linux zeigt. Der Grund: Bots und KI-Agenten. ( Betriebssysteme , KI )",
+          "published": "2026-08-03T10:51:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Betriebssysteme: Linux-Anteil verdoppelt sich plötzlich auf 10 Prozent – das steckt dahinter",
+        "Neue Malware-Welle: Arch Linux blockiert AUR-Updates",
+        "Neue Malware-Welle: Arch Linux blockiert AUR-Updates"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "ChatGPT statt Google? So verändert KI die Suche nach Restaurants und Geschäften",
+          "link": "https://t3n.de/news/chatgpt-statt-google-so-veraendert-ki-die-suche-nach-restaurants-und-geschaeften-1756169/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer ein Restaurant, eine Arztpraxis oder ein Geschäft in der Umgebung sucht, greift zunehmend auch auf die KI-gestützte Suche zurück. Laut einer aktuellen Erhebung des Softwareanbieters Yext verwenden bereits vier von zehn Befragten in Deutschland künstliche Intelligenz für die Suche nach lokalen Unternehmen und Dienstleistern. weiterlesen auf t3n.de",
+          "published": "Tue, 4 Aug 2026 09:10:26 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Milliarden für KI-Ausbau: Was hinter dem OpenAI-Geldgeber Softbank steckt",
+          "link": "https://t3n.de/news/milliarden-fuer-ki-ausbau-was-hinter-dem-openai-geldgeber-softbank-steckt-1755878/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der japanische Konzern ist bekannt für milliardenschwere Investitionen, die häufig daneben gingen. Jetzt ist er einer der wichtigsten Investoren in OpenAI. Ein weiterlesen auf t3n.de",
+          "published": "Tue, 4 Aug 2026 07:30:01 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Apple and Bynario agree GPT-5.5 found a real macOS bug. They disagree on the report cap.",
+          "link": "https://thenewstack.io/apple-ai-bug-report-caps/",
+          "summary": "Apple now caps how many security reports some researchers can have open at once. And once they hit that cap, The post Apple and Bynario agree GPT-5.5 found a real macOS bug. They disagree on the report cap. appeared first on The New Stack .",
+          "published": "Mon, 03 Aug 2026 21:19:12 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "DeepSeek’s smaller model just outperformed its own flagship",
+          "link": "https://thenewstack.io/deepseek-v4-flash-open-weights/",
+          "summary": "DeepSeek has launched DeepSeek-V4-Flash-0731, delivering a significant boost in agent performance without changing the model&#8217;s core architecture. Following an announcement The post DeepSeek&#8217;s smaller model just outperformed its own flagship appeared first on The New Stack .",
+          "published": "Mon, 03 Aug 2026 13:32:15 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "KI-Agenten erobern die 3D-Welt – aber das eigentliche Problem ist ein anderes",
+          "link": "https://t3n.de/news/meshy-3d-agent-ki-modelle-per-chat-1752981/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Code, Text, Bilder, Audio: KI-Agenten haben fast jede kreative Disziplin erreicht. Jetzt kommt 3D dazu – per Chat, ohne CAD. Doch ein Modell zu erzeugen, war nie das Problem. Die Frage ist, ob das Ergebnis taugt. Ein Blick auf Meshys 3D Agent. weiterlesen auf t3n.de",
+          "published": "Mon, 3 Aug 2026 13:20:56 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "ChatGPT statt Google? So verändert KI die Suche nach Restaurants und Geschäften",
+        "Milliarden für KI-Ausbau: Was hinter dem OpenAI-Geldgeber Softbank steckt",
+        "Apple and Bynario agree GPT-5.5 found a real macOS bug. They disagree on the report cap."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Rätselraten um fehlende NIS2-Registrierungen",
+          "link": "https://www.heise.de/news/Raetselraten-um-fehlende-NIS2-Registrierungen-11395728.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Am 31.07. lief die Nachfrist für eine Registrierung für Betreiber kritischer Einrichtungen aus. Die Zahl der Registrierten ist weiterhin geringer als erwartet.",
+          "published": "2026-08-04T09:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Zeiss verknüpft DORA-Metriken und FinOps über Backstage und Argo CD",
+          "link": "https://www.heise.de/hintergrund/Zeiss-verknuepft-DORA-Metriken-und-FinOps-ueber-Backstage-und-Argo-CD-11367974.html",
+          "summary": "Cloud-Architekt Alexander Troppmann zeigt, wie bei Zeiss durchgängige Metadaten Deployment-Performance und Kostentransparenz verbinden.",
+          "published": "2026-08-01T06:58:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Europe’s AI labeling and transparency rules are now in effect",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting with AI models, and if content has [&#8230;]",
+          "published": "2026-08-03T13:38:45-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Rätselraten um fehlende NIS2-Registrierungen",
+        "Zeiss verknüpft DORA-Metriken und FinOps über Backstage und Argo CD",
+        "Europe’s AI labeling and transparency rules are now in effect"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "HubSpot Redesigns JITA Authorization with Rule Engine Architecture",
+          "link": "https://www.infoq.com/news/2026/08/hubspot-jita-rule-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "HubSpot has redesigned its Just-In-Time Access (JITA) authorization system using a rule engine architecture. The system evaluates access requests through independent rules organized as a directed acyclic graph, adding structured decision metadata, rule-level observability, and governance workflows to replace complex conditional authorization logic. By Leela Kumili",
+          "published": "Mon, 03 Aug 2026 13:59:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Die beste Konferenz meines Lebens, und was sie anders gemacht hat",
+          "link": "https://www.heise.de/blog/Die-beste-Konferenz-meines-Lebens-und-was-sie-anders-gemacht-hat-11379756.html",
+          "summary": "Anreise, Hotels, Arbeitszeit: Eine Konferenz kostet viel. Ein Event in Berlin hat mich restlos begeistert, und dafür gibt es sehr konkrete Gründe.",
+          "published": "2026-07-29T07:00:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Microsoft warnt: Russische Hacker verbreiten Malware über öffentliche WLANs",
+          "link": "https://www.golem.de/news/microsoft-warnt-russische-hacker-verbreiten-malware-ueber-oeffentliche-wlans-2608-211540.html",
+          "summary": "Die Angreifer haben wohl WLAN-Netze von Hotels, Flughäfen und anderen Einrichtungen infiltriert, um Daten abzugreifen und Malware zu verbreiten. ( Malware , WLAN )",
+          "published": "2026-08-03T13:16:01+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "HubSpot Redesigns JITA Authorization with Rule Engine Architecture",
+        "Die beste Konferenz meines Lebens, und was sie anders gemacht hat",
+        "Microsoft warnt: Russische Hacker verbreiten Malware über öffentliche WLANs"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Dieses Startup rettet altes Geothermiekraftwerk – mit nur einem neuen Bohrloch",
+          "link": "https://t3n.de/news/startup-geothermiekraftwerk-bohrloch-1755600/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Startup Zanskar will zeigen, dass auch alte Geothermiekraftwerke eine Chance verdienen. Eine Anlage in den USA wird jetzt mit neuer Technik wiederbelebt. weiterlesen auf t3n.de",
+          "published": "Tue, 4 Aug 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Alibaba’s AI coded for 16 days straight and every commit is on GitHub",
+          "link": "https://thenewstack.io/qwen-autonomous-coding-audit/",
+          "summary": "Alibaba has launched Qwen3.8-Max, a multimodal model with 2.4 trillion parameters and built for complicated tasks that may take several The post Alibaba&#8217;s AI coded for 16 days straight and every commit is on GitHub appeared first on The New Stack .",
+          "published": "Mon, 03 Aug 2026 19:23:47 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Studie mit 5.000 Schülern: So stark beeinflussen Instagram und Tiktok die Schulnoten",
+          "link": "https://t3n.de/news/social-media-kinder-schulnoten-1756078/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Videos schauen bei den Hausaufgaben, abends mit den Freunden schreiben, statt zu schlafen: Soziale Medien bestimmen den Alltag vieler Kinder. Das hat Auswirkungen auf die Noten. weiterlesen auf t3n.de",
+          "published": "Mon, 3 Aug 2026 17:00:58 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Protest gegen Palantir: „Weder von Linken noch von Rechten gemocht“",
+          "link": "https://netzpolitik.org/2026/protest-gegen-palantir-weder-von-linken-noch-von-rechten-gemocht/",
+          "summary": "Alexander Karp, Palantir CEO. – CC-BY-NC-SA 4.0 : World Economic Forum In Europa trifft Palantir auf zunehmenden Widerstand. Wir sprechen mit US-Aktivisten der Kampagne „Purge Palantir“ darüber, warum und wie sie Protest gegen den Konzern in seinem Heimatland organisieren.",
+          "published": "Mon, 03 Aug 2026 14:04:02 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "ICQ ist zurück: Community beschert dem Kult-Messenger ein zweites Leben",
+          "link": "https://t3n.de/news/icq-ist-zurueck-community-beschert-dem-kult-messenger-ein-zweites-leben-1756106/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "2024 wurde der Kult-Messenger ICQ eingestellt. Jetzt kommt mit ICQ Reborn eine Neuauflage samt Uh-oh-Sound, aber mit einem großen Manko. So kannst du sie nutzen. weiterlesen auf t3n.de",
+          "published": "Mon, 3 Aug 2026 13:15:59 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Dieses Startup rettet altes Geothermiekraftwerk – mit nur einem neuen Bohrloch",
+        "Alibaba’s AI coded for 16 days straight and every commit is on GitHub",
+        "Studie mit 5.000 Schülern: So stark beeinflussen Instagram und Tiktok die Schulnoten"
+      ]
+    }
+  ]
+}
