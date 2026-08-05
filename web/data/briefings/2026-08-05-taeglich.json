@@ -1,0 +1,372 @@
+{
+  "date": "2026-08-05",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "bpm",
+      "name": "BPM & Prozessautomatisierung",
+      "items": [
+        {
+          "title": "How an OpenAI influencer trip backfired",
+          "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+          "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivolousness. Usually it is fast [&#8230;]",
+          "published": "2026-08-04T13:46:41-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(1 Beitraege zu BPM & Prozessautomatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "How an OpenAI influencer trip backfired"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Texas halts data center connections to power grid amid overwhelming demand",
+          "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+          "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
+          "published": "Tue, 04 Aug 2026 20:34:28 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
+          "link": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
+          "summary": "“We do not have, nor want, any of their trade secrets,” the ChatGPT maker says.",
+          "published": "Tue, 04 Aug 2026 13:38:29 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face",
+          "link": "https://www.infoq.com/news/2026/08/openai-huggingface-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Security disclosures highlighted vulnerabilities in AI evaluations of autonomous cyber capabilities. Notably, OpenAI’s models escaped sandbox isolation, breaching Hugging Face’s systems. The incident involved a multi-stage attack, revealing flaws in evaluation containment and prompting calls for stricter infrastructure controls and local incident response tools. By Olimpiu Pop",
+          "published": "Tue, 04 Aug 2026 06:42:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise+ | Laden von Elektroautos: Die C-Rate schafft Vergleichbarkeit",
+          "link": "https://www.heise.de/hintergrund/Laden-von-Elektroautos-Die-C-Rate-schafft-Vergleichbarkeit-11360771.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Zur Einschätzung der Ladegeschwindigkeit von E-Auto-Akkus spielt die sogenannte C-Rate eine entscheidende Rolle. Was ist das?",
+          "published": "2026-08-05T07:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "IT-Jobs: Weniger Stellenangebote, Arbeitslosigkeit steigt",
+          "link": "https://www.heise.de/news/IT-Jobs-Weniger-Stellenangebote-Arbeitslosigkeit-steigt-11398441.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Schwäche der deutschen Wirtschaft spürt man IT-Arbeitsmarkt immer deutlicher. Die Zahl der Arbeitslosen steigt, während offene Stellen zurückgehen.",
+          "published": "2026-08-04T15:05:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Texas halts data center connections to power grid amid overwhelming demand",
+        "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
+        "Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Presentation: Microservices Platforms: When Team Topologies Meets Microservices Patterns",
+          "link": "https://www.infoq.com/presentations/microservices-platform-team-topology/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Chris Richardson discusses leveraging Team Topologies and internal platforms to accelerate microservices delivery. He explains six key platform patterns - from security and observability to build and deployment - and shares strategies for minimizing cognitive load on stream-aligned teams while avoiding common platform engineering pitfalls. By Chris Richardson",
+          "published": "Tue, 04 Aug 2026 11:45:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Microservices Platforms: When Team Topologies Meets Microservices Patterns"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Anthropic-KI manipuliert Menschen per E-Mail, um Schadcode in Software einzuschleusen",
+          "link": "https://t3n.de/news/anthropic-ki-manipuliert-menschen-per-e-mail-um-schadcode-in-software-einzuschleusen-1756393/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Um eine Testaufgabe zu lösen, versuchte Künstliche Intelligenz ungeplant, öffentlich zugängliche Software zu infizieren &#8211; und Menschen mit Phishing-Mails zu manipulieren. Forscher schlagen Alarm. weiterlesen auf t3n.de",
+          "published": "Wed, 5 Aug 2026 07:20:11 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Sichere&quot; Cold Wallet ausgeraubt: Hacker erbeuten 1367 Bitcoin durch vorhersagbare Passwörter",
+          "link": "https://t3n.de/news/sichere-cold-wallet-ausgeraubt-hacker-erbeuten-1367-bitcoin-durch-vorhersagbare-passwoerter-1756235/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Fall Coinkite erschüttert das Vertrauen in Hardware-Wallets: Eine unentdeckte Firmware-Schwachstelle bei Coinkite ermöglichte Angreifern den Zugriff auf Tausende Wallets. weiterlesen auf t3n.de",
+          "published": "Tue, 4 Aug 2026 11:00:23 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise-Angebot:  c’t-Workshop: Physische IT-Sicherheit",
+          "link": "https://www.heise.de/news/c-t-Workshop-Physische-IT-Sicherheit-11355995.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Digitale Schutzmaßnahmen nützen wenig, wenn die Tür offensteht. Im Workshop knacken Sie Schlösser, umgehen Zugangskontrollen und entwickeln Gegenmaßnahmen.",
+          "published": "2026-08-05T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Check Point: Angreifer können Security-Management-Server übernehmen",
+          "link": "https://www.heise.de/news/Check-Point-Angreifer-koennen-Security-Management-Server-uebernehmen-11398187.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Aufgrund einer Sicherheitslücke können Angreifer die IT-Sicherheitslösung Security Management von Check Point attackieren. Hotfixes stehen zum Download.",
+          "published": "2026-08-04T14:05:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Eclipse und OWASP wollen Open-Source-Projekte in Sicherheitsfragen fortbilden",
+          "link": "https://www.heise.de/news/Eclipse-und-OWASP-wollen-Open-Source-Projekte-in-Sicherheitsfragen-fortbilden-11394486.html",
+          "summary": "Der Cyber Resilience Act rückt näher und auch Open-Source-Projekte müssen sich darauf einstellen. Eclipse und OWASP bündeln nun ihre Hilfsangebote.",
+          "published": "2026-08-02T14:57:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Anthropic-KI manipuliert Menschen per E-Mail, um Schadcode in Software einzuschleusen",
+        "„Sichere&quot; Cold Wallet ausgeraubt: Hacker erbeuten 1367 Bitcoin durch vorhersagbare Passwörter",
+        "heise-Angebot:  c’t-Workshop: Physische IT-Sicherheit"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Disney+: Sonderkündigungsrecht für Premium-Kunden nach Wegfall von 4K und HDR",
+          "link": "https://www.heise.de/news/Disney-Sonderkuendigungsrecht-fuer-Premium-Kunden-nach-Wegfall-von-4K-und-HDR-11398857.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Weil 4K auf manchen Geräten fehlt und HDR ganz abgeschaltet ist, dürfen einige Disney+-Kunden vorzeitig kündigen. Disney erstattet Abo-Gebühren anteilig zurück.",
+          "published": "2026-08-04T17:13:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Social-Media: Mehr Medienbildung soll Kinder in Mecklenburg-Vorpommern schützen",
+          "link": "https://www.heise.de/news/Social-Media-Mehr-Medienbildung-soll-Kinder-in-Mecklenburg-Vorpommern-schuetzen-11398647.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die noch amtierende Landesregierung will die Medienkompetenz von Kindern und Jugendlichen in Anbetracht von Social Media mehr fördern.",
+          "published": "2026-08-04T16:41:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Aktienmarkt und Politik: Wie Rhetorik aus dem Weißen Haus Börsenkurse beeinflusst",
+          "link": "https://www.golem.de/news/aktienmarkt-und-politik-wie-rhetorik-aus-dem-weissen-haus-boersenkurse-beeinflusst-2608-211218.html",
+          "summary": "Was passiert, wenn das Weiße Haus Unternehmen nennt? Eine Analyse von 4.500 Nennungen zeigt überraschende Gewinner, Verlierer und späte Kursreaktionen. Eine Analyse von Oliver Jessner ( Börse , Politik )",
+          "published": "2026-08-04T12:00:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Disney+: Sonderkündigungsrecht für Premium-Kunden nach Wegfall von 4K und HDR",
+        "Social-Media: Mehr Medienbildung soll Kinder in Mecklenburg-Vorpommern schützen",
+        "Aktienmarkt und Politik: Wie Rhetorik aus dem Weißen Haus Börsenkurse beeinflusst"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Today’s Codex will feel “primitive” by fall — and its own team’s roadmap backs it up",
+          "link": "https://thenewstack.io/openai-codex-cloud-evolution/",
+          "summary": "Thibault Sottiaux, who leads core products at OpenAI, believes that today&#8217;s version of Codex will seem outdated before the year The post Today&#8217;s Codex will feel &#8220;primitive&#8221; by fall — and its own team&#8217;s roadmap backs it up appeared first on The New Stack .",
+          "published": "Tue, 04 Aug 2026 18:30:37 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Internet in Syrien: Eine fragile Verbindung",
+          "link": "https://netzpolitik.org/2026/internet-in-syrien-eine-fragile-verbindung/",
+          "summary": "Werbung für Syriatel in Damaskus, im Jahr 2006. – CC-BY-SA 3.0 : Danij84, Bearbeitung: netzpolitik.org Gut eineinhalb Jahre nach dem Sturz des Assad-Regimes im Dezember 2024 bleiben die meisten Syrer:innen vom Internet abgeschnitten. Gleichzeitig werden Fake News und Hetze im digitalen Raum zur ernsthaften Bedrohung für einen friedlichen Übergang.",
+          "published": "Tue, 04 Aug 2026 09:30:56 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "heise+ | Linux fürs Firmennetz: Von Protokollstack bis Switch-Hardware",
+          "link": "https://www.heise.de/hintergrund/Linux-fuers-Firmennetz-Von-Protokollstack-bis-Switch-Hardware-11368579.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Nicht alle Distributionen eignen sich gleichermaßen: Routing-Stacks erweitern die Protokollunterstützung, Switching-Betriebssysteme steuern die Netzwerkhardware",
+          "published": "2026-08-05T07:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Plane: Update der Open-Source-Alternative zu Jira",
+          "link": "https://www.heise.de/news/Plane-Update-der-Open-Source-Alternative-zu-Jira-11399132.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Plane 1.4.0 bringt schlanke REST-APIs für Listenansichten und eine neue Übersetzungsarchitektur. Auch Webhooks und die Barrierefreiheit wurden verbessert.",
+          "published": "2026-08-05T08:56:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Plane: Update der Open-Source-Alternative zu Jira",
+          "link": "https://www.heise.de/news/Plane-Update-der-Open-Source-Alternative-zu-Jira-11399132.html",
+          "summary": "Plane 1.4.0 bringt schlanke REST-APIs für Listenansichten und eine neue Übersetzungsarchitektur. Auch Webhooks und die Barrierefreiheit wurden verbessert.",
+          "published": "2026-08-05T06:56:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Today’s Codex will feel “primitive” by fall — and its own team’s roadmap backs it up",
+        "Internet in Syrien: Eine fragile Verbindung",
+        "heise+ | Linux fürs Firmennetz: Von Protokollstack bis Switch-Hardware"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "OpenAI’s Astra just proved 10 long-standing math and science theorems. The tokens cost $2,000.",
+          "link": "https://thenewstack.io/openai-astra-math-cost/",
+          "summary": "OpenAI shared a big research update this week, announcing that an internal version of Astra, its next frontier model, created The post OpenAI&#8217;s Astra just proved 10 long-standing math and science theorems. The tokens cost $2,000. appeared first on The New Stack .",
+          "published": "Tue, 04 Aug 2026 17:57:06 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Fachkräfte-Index: Nachfrage nach IT-Experten bricht ein",
+          "link": "https://t3n.de/news/fachkraefte-index-it-experten-1756380/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im abgelaufenen zweiten Quartal 2026 ist die Nachfrage nach IT-Fachkräften spürbar gesunken. Einen besonders starken Rückgang gab es laut Hays-Fachkräfte-Index bei IT-Security-Spezialisten. Ein anderer Bereich profitiert derweil von KI-Boom. weiterlesen auf t3n.de",
+          "published": "Tue, 4 Aug 2026 19:33:42 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Claude, Gemini, and GPT-5 can handle every SDLC task. Almost none of them should.",
+          "link": "https://thenewstack.io/ai-software-delivery-architecture/",
+          "summary": "For the past two years, most of the conversations about AI and software development have centered on security: How do The post Claude, Gemini, and GPT-5 can handle every SDLC task. Almost none of them should. appeared first on The New Stack .",
+          "published": "Tue, 04 Aug 2026 16:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Tech-CEO nimmt Gespräche seines Kindes auf und gibt sie an KI weiter – und erntet dafür jetzt Kritik",
+          "link": "https://t3n.de/news/ki-gespraeche-kind-heimlich-aufgenommen-an-ki-gegeben-1756313/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der CEO eines KI-Tech-Unternehmens sorgt aktuell für Diskussionen. Er hat öffentlich gepostet, dass er Gespräche seines Kindes aufnimmt und anschließend Claude zur Analyse gibt. Was er damit erreichen will – und wofür er kritisiert wird. weiterlesen auf t3n.de",
+          "published": "Tue, 4 Aug 2026 16:30:22 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nvidia’s NOOA makes an agent one Python class",
+          "link": "https://thenewstack.io/nvidia-nooa-agent-framework/",
+          "summary": "When Nvidia announced NOOA (Object-Oriented Agents) last week, it signaled a broader shift in agent development: The harness around a The post Nvidia&#8217;s NOOA makes an agent one Python class appeared first on The New Stack .",
+          "published": "Tue, 04 Aug 2026 14:02:35 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "OpenAI’s Astra just proved 10 long-standing math and science theorems. The tokens cost $2,000.",
+        "Fachkräfte-Index: Nachfrage nach IT-Experten bricht ein",
+        "Claude, Gemini, and GPT-5 can handle every SDLC task. Almost none of them should."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Senators demand crackdown on wildfire \"prediction markets\"",
+          "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
+          "summary": "Fire experts warn such markets could incentivize arson.",
+          "published": "Tue, 04 Aug 2026 21:52:31 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success",
+          "link": "https://www.infoq.com/news/2026/08/perforce-maturity-ai-success/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Platform engineering maturity is emerging as an important factor in determining whether organizations can turn AI adoption into sustainable operational value, according to Perforce Software's 2026 Platform Engineering Report. By Craig Risi",
+          "published": "Tue, 04 Aug 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise+ | Recht: DSGVO-Löschpflichten im Clinch mit Backups und Logfiles",
+          "link": "https://www.heise.de/hintergrund/Recht-DSGVO-Loeschpflichten-im-Clinch-mit-Backups-und-Logfiles-11340657.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Wer Daten rechtlich löschen muss, kann technisch an unveränderlichen Backups und Server-Logs scheitern. Wie kann dieser Konflikt rechtssicher gelöst werden?",
+          "published": "2026-08-05T09:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: NIS-2-Richtlinie im Unternehmen umsetzen",
+          "link": "https://www.heise.de/news/iX-Workshop-NIS-2-Richtlinie-im-Unternehmen-umsetzen-11378588.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Erfahren Sie, welche NIS-2-Pflichten für Ihr Unternehmen gelten – und wie Sie passende Sicherheitsmaßnahmen für Ihre IT gezielt planen und umsetzen.",
+          "published": "2026-08-04T14:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Zeiss verknüpft DORA-Metriken und FinOps über Backstage und Argo CD",
+          "link": "https://www.heise.de/hintergrund/Zeiss-verknuepft-DORA-Metriken-und-FinOps-ueber-Backstage-und-Argo-CD-11367974.html",
+          "summary": "Cloud-Architekt Alexander Troppmann zeigt, wie bei Zeiss durchgängige Metadaten Deployment-Performance und Kostentransparenz verbinden.",
+          "published": "2026-08-01T06:58:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Senators demand crackdown on wildfire \"prediction markets\"",
+        "Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success",
+        "heise+ | Recht: DSGVO-Löschpflichten im Clinch mit Backups und Logfiles"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck",
+          "link": "https://www.infoq.com/presentations/ai-sdlc-maturity-framework-bottlenecks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Quotient CEO Lizzie Matusov explains why soaring AI spend often fails to improve software delivery. She presents a research-backed AI maturity framework designed to help engineering leaders move beyond vanity metrics like token usage, align organizational AI adoption, and address critical bottlenecks across the software development life cycle to deliver measurable business outcomes. By Lizzie Matusov",
+          "published": "Tue, 04 Aug 2026 16:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it",
+          "link": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
+          "summary": "Congress set ownership limit at 39%, but FCC claims authority to kill the rule.",
+          "published": "Tue, 04 Aug 2026 15:51:00 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Alibaba Qwen3.8-Max reactions: “An API business model wearing an open source jacket”",
+          "link": "https://thenewstack.io/alibaba-qwen3-8-max-reactions/",
+          "summary": "Alibaba this week announced the launch of Qwen3.8-Max. The most powerful model in the Qwen series to date, this multimodal The post Alibaba Qwen3.8-Max reactions: &#8220;An API business model wearing an open source jacket&#8221; appeared first on The New Stack .",
+          "published": "Tue, 04 Aug 2026 14:47:35 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Digitaler Euro: An echten Zentralbanker:innen getestet",
+          "link": "https://netzpolitik.org/2026/digitaler-euro-an-echten-zentralbankerinnen-getestet/",
+          "summary": "Der Snackautomat als Testobjekt? (Symbolbild) – Automat: Stéphan Valentin / unsplash.com ; Hintergrund: Immo Wegmann / unsplash.com Ab nächstem Jahr erprobt die Europäische Zentralbank den Digitalen Euro in der Praxis. Wirklich damit zahlen darf allerdings nur ein kleiner Kreis von Menschen. Auch werden nicht alle Anwendungsfälle getestet.",
+          "published": "Tue, 04 Aug 2026 13:35:24 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Astro’s GitHub issue backlog is heading to zero for the first time in 5 years. Now Cloudflare is open-sourcing the tool that did it.",
+          "link": "https://thenewstack.io/cloudflare-astro-triage-bot/",
+          "summary": "Most open source maintainers will know the feeling of opening GitHub to a growing pile of issues that can&#8217;t feasibly The post Astro&#8217;s GitHub issue backlog is heading to zero for the first time in 5 years. Now Cloudflare is open-sourcing the tool that did it. appeared first on The New Stack .",
+          "published": "Tue, 04 Aug 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck",
+        "Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it",
+        "Alibaba Qwen3.8-Max reactions: “An API business model wearing an open source jacket”"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Neue NVMe-Spezifikationen: Mehr Sicherheit und Effizienz für schnelle SSDs",
+          "link": "https://www.heise.de/news/Neue-NVMe-Spezifikationen-Mehr-Sicherheit-und-Effizienz-fuer-schnelle-SSDs-11398343.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Standardisierungsorganisation NVM Express hat Standards veröffentlicht, die Speicherlösungen für KI, Cloud und Enterprise sicherer und nachhaltiger machen.",
+          "published": "2026-08-04T17:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Neue NVMe-Spezifikationen: Mehr Sicherheit und Effizienz für schnelle SSDs"
+      ]
+    }
+  ]
+}
