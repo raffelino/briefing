@@ -1,0 +1,341 @@
+{
+  "date": "2026-08-06",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Pods as Workers, Not Agents: Rethinking the Deployment Unit for AI Agents on Kubernetes",
+          "link": "https://www.infoq.com/news/2026/08/pod-deployment-unit-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Running AI agents on Kubernetes raises a key question: should each agent get its own Pod? The kagent project argues no—agents are bursty, short-lived, can spawn subagents, and may wait for human approval, making one Pod per agent wasteful. Agent-substrate adds a control plane to schedule logical “Actors” onto long-lived worker Pods. By Mark Silvester",
+          "published": "Thu, 06 Aug 2026 06:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Weeks into explosive diarrhea outbreak, sluggish CDC plans response team",
+          "link": "https://arstechnica.com/health/2026/08/report-cdc-finally-plans-formal-response-team-for-explosive-diarrhea-outbreak/",
+          "summary": "Reports of cases began in June, and the national tally is now nearing 23,000.",
+          "published": "Wed, 05 Aug 2026 18:11:11 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Google plans to kill Assistant on your phone on September 4",
+          "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+          "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+          "published": "Wed, 05 Aug 2026 15:30:02 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "iPhone-Browser Safari: DNS- und IP-Leaks trotz iCloud Private Relay",
+          "link": "https://www.heise.de/news/iPhone-Browser-Safari-DNS-und-IP-Leaks-trotz-iCloud-Private-Relay-11399852.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Apples kostenpflichtiger Datenschutzdienst soll Abflüsse privater Browser-Daten verhindern. Sicherheitsforscher meinen, dass das nicht immer stimmt.",
+          "published": "2026-08-05T14:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | Breitbandausbau: Zwischen Notwendigkeit und Panikmache",
+          "link": "https://www.heise.de/hintergrund/Breitbandausbau-Zwischen-Notwendigkeit-und-Panikmache-11377415.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Direktvermarkter setzen Verbraucher an der Haustür unter Druck, Skeptiker halten Glasfaser für überflüssig. Wir ordnen ein, was technisch dahintersteckt.",
+          "published": "2026-08-05T13:30:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Pods as Workers, Not Agents: Rethinking the Deployment Unit for AI Agents on Kubernetes",
+        "Weeks into explosive diarrhea outbreak, sluggish CDC plans response team",
+        "Google plans to kill Assistant on your phone on September 4"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Mehr als COBOL zu Java: Googles KI-Plan für Mainframes",
+          "link": "https://www.heise.de/news/Google-Cloud-Mit-vier-Bausteinen-zur-Mainframe-Modernisierung-11399562.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Google bietet eine iterative Modernisierung von Mainframe-Anwendungen in die Cloud an, gestützt durch KI für Analyse und Transformation.",
+          "published": "2026-08-05T12:27:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Mehr als COBOL zu Java: Googles KI-Plan für Mainframes",
+          "link": "https://www.heise.de/news/Google-Cloud-Mit-vier-Bausteinen-zur-Mainframe-Modernisierung-11399562.html",
+          "summary": "Google bietet eine iterative Modernisierung von Mainframe-Anwendungen in die Cloud an, gestützt durch KI für Analyse und Transformation.",
+          "published": "2026-08-05T10:27:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Mehr als COBOL zu Java: Googles KI-Plan für Mainframes",
+        "Mehr als COBOL zu Java: Googles KI-Plan für Mainframes"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Siemens macht mehr Gewinn und erhöht die Prognose",
+          "link": "https://www.heise.de/news/Siemens-macht-mehr-Gewinn-und-erhoeht-die-Prognose-11400444.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Auftragseingang bei Siemens steigt auf einen Rekordwert. Und auch bei der geplanten Trennung von der Healthineers-Mehrheit kommen die Münchner voran.",
+          "published": "2026-08-06T07:48:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Voreingestellte Datenlecks: Wie Werbe-SDKs Entwickler zum Tracking verleiten",
+          "link": "https://www.heise.de/news/Voreingestellte-Datenlecks-Wie-Werbe-SDKs-Entwickler-zum-Tracking-verleiten-11400263.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine US-Untersuchung belegt: Viele Werbe-SDKs leiten Standorte ab Werk weiter. Unklare Dokus und Monetarisierungsdruck wiegen Entwickler in falscher Sicherheit.",
+          "published": "2026-08-05T18:08:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "CIOs investieren vor allem in Sicherheit und IT-Modernisierung",
+          "link": "https://www.heise.de/news/CIOs-investieren-vor-allem-in-Sicherheit-und-IT-Modernisierung-11400089.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Deutsche CIOs stehen vor der Herausforderung, steigende IT-Budgets effizient einzusetzen. Cybersecurity und Modernisierung sind Top-Prioritäten.",
+          "published": "2026-08-05T16:47:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Weitere KI-Attacke: Modell schleust Schwachstelle ein und manipuliert Menschen",
+          "link": "https://www.heise.de/news/Weitere-KI-Attacke-Modell-schleust-Schwachstelle-ein-und-manipuliert-Menschen-11399219.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein KI-Modell von Anthropic versuchte, eine Schwachstelle in Software einzuschleusen und manipulierte Menschen per E-Mail.",
+          "published": "2026-08-05T12:03:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: Cybersecurity neu denken: Der ICC Summit 2026 sucht Speaker",
+          "link": "https://www.heise.de/news/Cybersecurity-neu-denken-Der-ICC-Summit-2026-sucht-Speaker-11394932.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der ICC Summit am 25. und 26. November beleuchtet, wie Identitäten zum zentralen Sicherheitsfaktor moderner IT werden. Der Call for Speakers ist jetzt geöffnet.",
+          "published": "2026-08-05T12:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Siemens macht mehr Gewinn und erhöht die Prognose",
+        "Voreingestellte Datenlecks: Wie Werbe-SDKs Entwickler zum Tracking verleiten",
+        "CIOs investieren vor allem in Sicherheit und IT-Modernisierung"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Disney Plus: Warum Premiumkunden jetzt ein Sonderkündigungsrecht haben",
+          "link": "https://t3n.de/news/disney-plus-sonderkuendigung-4k-hdr-1756477/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Streamingdienst mit Marvel, Star Wars und Co. hat aufgrund eines Rechtsstreits verschiedene Features abgedreht. Deshalb kannst du jetzt einfacher kündigen. weiterlesen auf t3n.de",
+          "published": "Wed, 5 Aug 2026 13:30:51 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Harte Kritik am Thüringer Polizeigesetz: „Verfassungsrechtlich ist das nicht tragbar“",
+          "link": "https://netzpolitik.org/2026/harte-kritik-am-thueringer-polizeigesetz-verfassungsrechtlich-ist-das-nicht-tragbar/",
+          "summary": "Die Livestreams der Videoüberwachung in Thüringen (hier am Erfurter Anger) sollen künftig automatisiert nach bestimmten Verhaltensmustern durchsucht werden. – CC-BY-NC-SA 4.0 : Denis Glismann Thüringen soll ein neues Polizeigesetz bekommen, das eine Vielzahl weiterer Befugnissen einführt. Zahlreiche Expert*innen haben sich mit dem Entwurf auseinandergesetzt. Aus ihrer Sicht ist er mit dem Grundgesetz nicht vereinbar.",
+          "published": "Wed, 05 Aug 2026 10:08:37 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Disney Plus: Warum Premiumkunden jetzt ein Sonderkündigungsrecht haben",
+        "Harte Kritik am Thüringer Polizeigesetz: „Verfassungsrechtlich ist das nicht tragbar“"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Plane: Update der Open-Source-Alternative zu Jira",
+          "link": "https://www.heise.de/news/Plane-Update-der-Open-Source-Alternative-zu-Jira-11399132.html",
+          "summary": "Plane 1.4.0 bringt schlanke REST-APIs für Listenansichten und eine neue Übersetzungsarchitektur. Auch Webhooks und die Barrierefreiheit wurden verbessert.",
+          "published": "2026-08-05T06:56:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Neue Malware-Welle: Arch Linux blockiert AUR-Updates",
+          "link": "https://www.heise.de/news/Neue-Malware-Welle-Arch-Linux-blockiert-AUR-Updates-11395880.html",
+          "summary": "Erneut verbreitet sich Malware über Arch User Repositorys. Daher gibt es vorerst überhaupt keine Updates für AUR.",
+          "published": "2026-08-03T19:25:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Paketverwaltung für Arch Linux: Shelly setzt künftig auf Zig statt .NET",
+          "link": "https://www.heise.de/news/Shelly-Ein-Werkzeug-fuer-Pacman-AUR-AppImages-und-Flatpak-11385187.html",
+          "summary": "Das Arch-Werkzeug Shelly wechselt von .NET zu Zig: Neue GUI, überarbeitete CLI und getrennte Flatpak-Unterstützung sollen es schlanker machen.",
+          "published": "2026-07-30T09:56:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Plane: Update der Open-Source-Alternative zu Jira",
+        "Neue Malware-Welle: Arch Linux blockiert AUR-Updates",
+        "Paketverwaltung für Arch Linux: Shelly setzt künftig auf Zig statt .NET"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Nach OpenAI und Anthropic: Auch KI von Meta hackt ungeplant fremde Systeme",
+          "link": "https://t3n.de/news/nach-openai-und-anthropic-auch-ki-von-meta-hackt-ungeplant-fremde-systeme-1756668/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Immer wieder werden neue Cyberattacken durch KI in Testläufen bekannt. Auch Künstliche Intelligenz von Meta fiel dadurch auf. In mehreren Fällen lag der eigentliche Fehler bei einem Testpartner. weiterlesen auf t3n.de",
+          "published": "Thu, 6 Aug 2026 08:05:19 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Vercel Labs Ships Zero: A Graph-First Language Built So Agents Write the Code",
+          "link": "https://www.infoq.com/news/2026/08/vercel-ships-zero-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Vercel Labs has introduced Zero, an experimental systems programming language aimed at AI rather than human users. It employs unique features like a specific toolchain contract and structured error messages. Reaching version 0.3.4, it compiles to native binaries for major operating systems. The language prioritizes size, speed, and agent usability, though it is still in development. By Daniel Curtis",
+          "published": "Thu, 06 Aug 2026 05:51:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+          "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+          "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+          "published": "Wed, 05 Aug 2026 20:47:11 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Google’s four AI departures: “We wanted to build something differently”",
+          "link": "https://thenewstack.io/deepmind-discovery-loop-departures/",
+          "summary": "At the start of 2025, investors wondered whether Google could keep pace with OpenAI. By December, Alphabet was completing its The post Google’s four AI departures: &#8220;We wanted to build something differently&#8221; appeared first on The New Stack .",
+          "published": "Wed, 05 Aug 2026 18:44:10 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Google Assistant vor dem Aus: Wann der Sprachassistent von deinem Handy verschwindet",
+          "link": "https://t3n.de/news/google-assistant-aus-1756650/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Zehn Jahre nach seiner Einführung soll der Google Assistant endgültig Geschichte sein. Das eigentlich schon für Ende 2025 angekündigte Aus musste verschoben werden. Jetzt soll der KI-Chatbot Gemini ab September 2026 Einzug auf Android-Geräten halten. weiterlesen auf t3n.de",
+          "published": "Wed, 5 Aug 2026 19:30:19 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Nach OpenAI und Anthropic: Auch KI von Meta hackt ungeplant fremde Systeme",
+        "Vercel Labs Ships Zero: A Graph-First Language Built So Agents Write the Code",
+        "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
+          "link": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
+          "summary": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
+          "published": "Wed, 05 Aug 2026 21:03:18 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "KI-Governance im Finanzkonzern: Blaupause aus dem Sparkassen-Newsroom",
+          "link": "https://t3n.de/news/ki-governance-sparkassen-newsroom-1756364/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Seit dem 2. August 2026 gilt der AI Act vollständig und verlangt von Unternehmen KI-Governance. Der Newsroom der Sparkassen-Finanzgruppe hat sie längst. weiterlesen auf t3n.de",
+          "published": "Wed, 5 Aug 2026 14:00:43 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Skeptiker Michael Burry: Big-Short-Investor warnt vor baldigem Börsencrash",
+          "link": "https://t3n.de/news/ki-skeptiker-burry-boersencrash-1756413/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Besser als erwartet ausgefallene Konzernbilanzen und aufgeflammte Hoffnungen auf eine Öffnung der Straße von Hormus haben die US-Indizes auf neue Rekordhöhen gehoben. Big-Short-Investor Michael Burry warnt derweil vor einem Börsencrash. weiterlesen auf t3n.de",
+          "published": "Wed, 5 Aug 2026 11:00:16 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Zeiss verknüpft DORA-Metriken und FinOps über Backstage und Argo CD",
+          "link": "https://www.heise.de/hintergrund/Zeiss-verknuepft-DORA-Metriken-und-FinOps-ueber-Backstage-und-Argo-CD-11367974.html",
+          "summary": "Cloud-Architekt Alexander Troppmann zeigt, wie bei Zeiss durchgängige Metadaten Deployment-Performance und Kostentransparenz verbinden.",
+          "published": "2026-08-01T06:58:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "(g+) Aerospace & Defense: From 'Top Gun' to Ghost Bats: the future of aerial combat",
+          "link": "https://www.golem.de/news/aerospace-defense-from-top-gun-to-ghost-bats-the-future-of-aerial-combat-2608-211639.html",
+          "summary": "Piloted fighter jets may act more as mission commanders, supported by autonomous 'collaborative combat aircraft' Von Sylvia Pfeifer ( Militär , Politik )",
+          "published": "2026-08-05T18:00:11+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Schwartz confirmed as CDC director after bungling confirmation hearing",
+        "KI-Governance im Finanzkonzern: Blaupause aus dem Sparkassen-Newsroom",
+        "KI-Skeptiker Michael Burry: Big-Short-Investor warnt vor baldigem Börsencrash"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Presentation: Automatically Retrofitting JIT Compilers",
+          "link": "https://www.infoq.com/presentations/yk-meta-tracing-jit-compiler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Laurence Tratt discusses yk, an open-source meta-tracing JIT compiler framework. He shares how to automatically speed up C-based language interpreters like Lua and MicroPython with minimal, non-invasive code changes. He explains the inner workings of tracing loops, optimizing compiled traces using developer hints, and managing complex deoptimization back to the interpreter. By Laurence Tratt",
+          "published": "Wed, 05 Aug 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Automatically Retrofitting JIT Compilers"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
+          "link": "https://arstechnica.com/tech-policy/2026/08/spacex-claims-starlink-mobile-will-be-better-than-att-t-mobile-and-verizon/",
+          "summary": "SpaceX won't build large cell towers but plans small base stations across US.",
+          "published": "Wed, 05 Aug 2026 19:38:56 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "EVgo starts building Tesla Superchargers under license",
+          "link": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
+          "summary": "The V4 Superchargers will show up in the Tesla nav app and have NACS and CCS1 plugs.",
+          "published": "Wed, 05 Aug 2026 17:00:38 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Long Story short: Menschen mögen KI-generierte Geschichten lieber – was dahinter steckt",
+          "link": "https://t3n.de/news/story-menschen-ki-geschichten-1756436/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "US-amerikanische Forscher:innen haben untersucht, inwieweit KI-generierte Geschichten mit von Menschen geschriebenen Storys konkurrieren können. Die Ergebnisse sind überraschend, überzeugen aber nicht alle Kritiker:innen. weiterlesen auf t3n.de",
+          "published": "Wed, 5 Aug 2026 16:15:56 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Absichtlich schlecht: ChatTJB zeigt, warum du Chatbots nicht blind vertrauen solltest",
+          "link": "https://t3n.de/news/absichtlich-schlecht-chattjb-zeigt-warum-du-chatbots-nicht-blind-vertrauen-solltest-1756448/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hinter ChatTJB steckt in Wahrheit ein Mensch – und das aus gutem Grund. Sein Erfinder will mit seinen langsamen und menschlichen Antworten darauf aufmerksam machen, wie sehr sich viele schon auf KI verlassen. weiterlesen auf t3n.de",
+          "published": "Wed, 5 Aug 2026 14:15:33 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Pushing the limits: Infinite Machine's Olto is barely a bicycle",
+          "link": "https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/",
+          "summary": "Scooter layout makes pedaling a bad experience. But it does have pedals.",
+          "published": "Wed, 05 Aug 2026 11:00:26 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
+        "EVgo starts building Tesla Superchargers under license",
+        "Long Story short: Menschen mögen KI-generierte Geschichten lieber – was dahinter steckt"
+      ]
+    }
+  ]
+}
