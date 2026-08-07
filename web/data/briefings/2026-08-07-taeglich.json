@@ -1,0 +1,350 @@
+{
+  "date": "2026-08-07",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Presentation: From ms to µs: OSS Valkey Architecture Patterns for Modern AI",
+          "link": "https://www.infoq.com/presentations/valkey-architecture-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Dumanshu Goyal discusses optimizing data layers for low-latency workloads like AI feature stores. Drawing lessons from NASA's Space Shuttle, he explains how proxy architectures introduce hidden CPU costs, elevated tail latencies, and blast-radius risks. He demonstrates how direct-access Valkey architectures achieve microsecond latency, improve resilience, and slash infrastructure costs. By Dumanshu Goyal",
+          "published": "Thu, 06 Aug 2026 09:34:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Freitag: Milliarden für Musks Chipfabrik, Geständnis von Snowflake-Datendieb",
+          "link": "https://www.heise.de/news/Freitag-Milliarden-fuer-Musks-Chipfabrik-Gestaendnis-von-Snowflake-Datendieb-11402617.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "SpaceX- & Tesla-Investitionen in Texas + Millionen-Erpresser vor Haftstrafe + BYD-Hybrid für Ethanol in Brasilien + Bakteriophagen per KI + Datenschutz-Podcast",
+          "published": "2026-08-07T06:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Cyberkrimineller bekennt sich der Millionen-Erpressung von Cloud-Kunden schuldig",
+          "link": "https://www.heise.de/news/Cyberkrimineller-bekennt-sich-der-Millionen-Erpressung-von-Cloud-Kunden-schuldig-11402603.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Nach dem Datenklau beim US-Cloud-Anbieter Snowflake hat ein Kanadier Millionen von dessen Kunden erpresst. Nach Schuldbekenntnis drohen ihm 2 bis 30 Jahre Haft.",
+          "published": "2026-08-07T05:03:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(3 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: From ms to µs: OSS Valkey Architecture Patterns for Modern AI",
+        "Freitag: Milliarden für Musks Chipfabrik, Geständnis von Snowflake-Datendieb",
+        "Cyberkrimineller bekennt sich der Millionen-Erpressung von Cloud-Kunden schuldig"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Your AI agent’s next tool call may be valid but wrong. AWS’s Dogwood promises to fix that.",
+          "link": "https://thenewstack.io/aws-dogwood-agent-policies/",
+          "summary": "AWS on Thursday launched Dogwood, an open-source policy language and reference interpreter that lets developers govern sequences of AI agent The post Your AI agent’s next tool call may be valid but wrong. AWS&#8217;s Dogwood promises to fix that. appeared first on The New Stack .",
+          "published": "Thu, 06 Aug 2026 19:11:55 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Free agents: How AWS Kiro could untie agents from editors",
+          "link": "https://thenewstack.io/kiro-agent-client-protocol/",
+          "summary": "Choosing a coding agent may soon no longer mean having to pick a new editor or terminal, too. That scenario The post Free agents: How AWS Kiro could untie agents from editors appeared first on The New Stack .",
+          "published": "Thu, 06 Aug 2026 17:50:35 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Wiz Discloses CosmosEscape, and Practitioners Debate What Customers Could Have Done",
+          "link": "https://www.infoq.com/news/2026/08/cosmosescape-master-key/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Wiz Research disclosed CosmosEscape, a chain that escaped Azure Cosmos DB's Gremlin sandbox and reached a platform-wide key granting read and write access to every database on the service. Microsoft blocked the entry point within two days but took until July 2026 to remove the key. Practitioners debated shared responsibility and what that rearchitecture actually cost. By Steef-Jan Wiggers",
+          "published": "Thu, 06 Aug 2026 09:21:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Pods as Workers, Not Agents: Rethinking the Deployment Unit for AI Agents on Kubernetes",
+          "link": "https://www.infoq.com/news/2026/08/pod-deployment-unit-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Running AI agents on Kubernetes raises a key question: should each agent get its own Pod? The kagent project argues no—agents are bursty, short-lived, can spawn subagents, and may wait for human approval, making one Pod per agent wasteful. Agent-substrate adds a control plane to schedule logical “Actors” onto long-lived worker Pods. By Mark Silvester",
+          "published": "Thu, 06 Aug 2026 06:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise+ | Gerechten Würfel mit LED-Anzeige selber bauen",
+          "link": "https://www.heise.de/ratgeber/Gerechten-Wuerfel-mit-LED-Anzeige-selber-bauen-11367025.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Wer beim Würfeln vom Pech verfolgt wird, kann schnell die Lust am Spiel verlieren. Dieser DIY-Würfel mit LED-Anzeige sorgt für ausgleichende Gerechtigkeit.",
+          "published": "2026-08-06T13:30:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Your AI agent’s next tool call may be valid but wrong. AWS’s Dogwood promises to fix that.",
+        "Free agents: How AWS Kiro could untie agents from editors",
+        "Wiz Discloses CosmosEscape, and Practitioners Debate What Customers Could Have Done"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "heise+ | Erstellen und Verwenden von Annotations in Java: Teil 2",
+          "link": "https://www.heise.de/hintergrund/Erstellen-und-Verwenden-von-Annotations-in-Java-Teil-2-11345712.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Dieser Leitfaden vertieft die Verarbeitung von Java-Annotations zur Compile-Zeit, zeigt praktische Validierungs-Frameworks und erläutert Best Practices.",
+          "published": "2026-08-06T15:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Mehr als COBOL zu Java: Googles KI-Plan für Mainframes",
+          "link": "https://www.heise.de/news/Google-Cloud-Mit-vier-Bausteinen-zur-Mainframe-Modernisierung-11399562.html",
+          "summary": "Google bietet eine iterative Modernisierung von Mainframe-Anwendungen in die Cloud an, gestützt durch KI für Analyse und Transformation.",
+          "published": "2026-08-05T10:27:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise+ | Erstellen und Verwenden von Annotations in Java: Teil 2",
+        "Mehr als COBOL zu Java: Googles KI-Plan für Mainframes"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Eclipse und OWASP wollen Open-Source-Projekte in Sicherheitsfragen fortbilden",
+          "link": "https://www.heise.de/news/Eclipse-und-OWASP-wollen-Open-Source-Projekte-in-Sicherheitsfragen-fortbilden-11394486.html",
+          "summary": "Der Cyber Resilience Act rückt näher und auch Open-Source-Projekte müssen sich darauf einstellen. Eclipse und OWASP bündeln nun ihre Hilfsangebote.",
+          "published": "2026-08-02T14:57:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Eclipse und OWASP wollen Open-Source-Projekte in Sicherheitsfragen fortbilden"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Verwaltungsdigitalisierung: Digitalminister Wildberger wiederholt alte Fehler",
+          "link": "https://netzpolitik.org/2026/verwaltungsdigitalisierung-digitalminister-wildberger-wiederholt-alte-fehler/",
+          "summary": "Digitalminister Karsten Wildberger will die Verwaltungsdigitalisierung umkrempeln. – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Das Digitalministerium will Staat und Verwaltung digitalisieren. Doch Minister Wildberger wiederholt bekannte Fehler im Prestige-Projekt. Das zeigt ein Bericht des Bundesrechnungshofs, den wir veröffentlichen. Noch immer fehlen Standards und ein Projektmanagement-Tool.",
+          "published": "Thu, 06 Aug 2026 16:06:50 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(1 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Verwaltungsdigitalisierung: Digitalminister Wildberger wiederholt alte Fehler"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Optische Signaturen statt Hologramme: Neue Etiketten helfen gegen Produktpiraterie",
+          "link": "https://t3n.de/news/optische-signaturen-statt-hologramme-neue-etiketten-helfen-gegen-produktpiraterie-1756872/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Luxushandtaschen, Medikamente oder Elektronik – Produktfälschungen sind selbst für Fachleute oft kaum noch von Originalen zu unterscheiden. Forschende haben nun ein Sicherheitsetikett entwickelt, das sich mit einem Smartphone überprüfen lässt und Plagiate mit hoher Trefferquote erkennen soll. weiterlesen auf t3n.de",
+          "published": "Thu, 6 Aug 2026 16:30:12 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Neuer Job als Projektleiter Digital Transformation gesucht? Schau dir unsere Top Jobs an",
+          "link": "https://t3n.de/news/unsere-jobs-der-woche-1175973/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hier findest du unsere besten Jobs aus den Bereichen Technik &amp; Entwicklung, Marketing, PR &amp; Kommunikation, Projektmanagement &amp; Produktmanagement, Design &amp; UX, Content &amp; Redaktion und Business Development. weiterlesen auf t3n.de",
+          "published": "Thu, 6 Aug 2026 15:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Wen kann ich noch einplanen? OpenProject zeigt es",
+          "link": "https://www.heise.de/news/Wen-kann-ich-noch-einplanen-OpenProject-zeigt-es-11400546.html",
+          "summary": "OpenProject 17.7.0 führt neue Funktionen für Kapazitäts- und Einsatzplanung sowie agile Sprints ein.",
+          "published": "2026-08-06T08:55:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Plane: Update der Open-Source-Alternative zu Jira",
+          "link": "https://www.heise.de/news/Plane-Update-der-Open-Source-Alternative-zu-Jira-11399132.html",
+          "summary": "Plane 1.4.0 bringt schlanke REST-APIs für Listenansichten und eine neue Übersetzungsarchitektur. Auch Webhooks und die Barrierefreiheit wurden verbessert.",
+          "published": "2026-08-05T06:56:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Neue Malware-Welle: Arch Linux blockiert AUR-Updates",
+          "link": "https://www.heise.de/news/Neue-Malware-Welle-Arch-Linux-blockiert-AUR-Updates-11395880.html",
+          "summary": "Erneut verbreitet sich Malware über Arch User Repositorys. Daher gibt es vorerst überhaupt keine Updates für AUR.",
+          "published": "2026-08-03T19:25:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Optische Signaturen statt Hologramme: Neue Etiketten helfen gegen Produktpiraterie",
+        "Neuer Job als Projektleiter Digital Transformation gesucht? Schau dir unsere Top Jobs an",
+        "Wen kann ich noch einplanen? OpenProject zeigt es"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Reward-Hacking: Warum KI-Agenten lügen und betrügen – und was wir dagegen machen können",
+          "link": "https://t3n.de/news/reward-hacking-warum-ki-agenten-luegen-und-betruegen-und-was-wir-dagegen-machen-koennen-1756375/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Dass KIs auch mal unlautere Abkürzungen nutzen, um die gesetzten Ziele zu erreichen, ist an sich nicht neu. Doch mit zunehmender Komplexität der großen Sprachmo weiterlesen auf t3n.de",
+          "published": "Fri, 7 Aug 2026 07:30:45 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anthropic will design its own hardware to power Claude",
+          "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+          "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+          "published": "Thu, 06 Aug 2026 20:03:44 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "GPT-5.6 Sol just got better in one place and stayed the same everywhere else",
+          "link": "https://thenewstack.io/gpt-sol-chatgpt-split/",
+          "summary": "Teams testing prompts in ChatGPT before moving them to Codex or Work may notice the difference on longer tasks. OpenAI The post GPT-5.6 Sol just got better in one place and stayed the same everywhere else appeared first on The New Stack .",
+          "published": "Thu, 06 Aug 2026 19:33:02 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
+          "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
+          "summary": "Cloudflare built an AI agent workspace for its employees. Now it’s open source.",
+          "published": "Thu, 06 Aug 2026 16:15:30 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Anthropic recommends a git worktree per agent. Your runtime infra makes that a problem.",
+          "link": "https://thenewstack.io/agent-native-runtime-branching/",
+          "summary": "A developer supervising four coding agents has four changes in flight at once, each in its own git worktree. That The post Anthropic recommends a git worktree per agent. Your runtime infra makes that a problem. appeared first on The New Stack .",
+          "published": "Thu, 06 Aug 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Reward-Hacking: Warum KI-Agenten lügen und betrügen – und was wir dagegen machen können",
+        "Anthropic will design its own hardware to power Claude",
+        "GPT-5.6 Sol just got better in one place and stayed the same everywhere else"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+          "link": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
+          "summary": "Russian attack? Explosive drone targeted parked aircraft at Leipzig airport.",
+          "published": "Thu, 06 Aug 2026 22:01:55 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "KI-Investitionen: So teilt sich die Finanzwelt in Crash-Propheten und Optimisten",
+          "link": "https://t3n.de/news/ki-investitionen-so-teilt-sich-die-finanzwelt-in-crash-propheten-und-optimisten-1756787/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Milliardeninvestitionen in künstliche Intelligenz spalten die Finanzwelt. Während einige Finanzprofis vor einem möglichen Börsencrash warnen, bauen andere i weiterlesen auf t3n.de",
+          "published": "Thu, 6 Aug 2026 15:15:33 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nach Crash auf dem Mond: Was die abgestürzte SpaceX-Rakete Forschern verrät",
+          "link": "https://t3n.de/news/spacex-rakete-mond-forscher-1756759/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine SpaceX-Rakete ist auf dem Mond aufgeschlagen. Obwohl der ungeplante Absturz nur für wenige sichtbar war, konnten Wissenschaftler:innen schon jetzt erste Erkenntnisse daraus ziehen. weiterlesen auf t3n.de",
+          "published": "Thu, 6 Aug 2026 14:45:34 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Zeiss verknüpft DORA-Metriken und FinOps über Backstage und Argo CD",
+          "link": "https://www.heise.de/hintergrund/Zeiss-verknuepft-DORA-Metriken-und-FinOps-ueber-Backstage-und-Argo-CD-11367974.html",
+          "summary": "Cloud-Architekt Alexander Troppmann zeigt, wie bei Zeiss durchgängige Metadaten Deployment-Performance und Kostentransparenz verbinden.",
+          "published": "2026-08-01T06:58:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Time Magazin: Extra-Werbung auf Webseite nur für KI-Crawler",
+          "link": "https://www.golem.de/news/time-magazin-extra-werbung-auf-webseite-nur-fuer-ki-crawler-2608-211654.html",
+          "summary": "Ein Entwickler hat beim Time Magazin versteckte Markdown-Seiten für KI-Bots entdeckt, gespickt mit Werbeaussagen, die Bots wiedergeben sollen. ( Onlinewerbung , KI )",
+          "published": "2026-08-06T11:34:06+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+        "KI-Investitionen: So teilt sich die Finanzwelt in Crash-Propheten und Optimisten",
+        "Nach Crash auf dem Mond: Was die abgestürzte SpaceX-Rakete Forschern verrät"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Berlin: Fast eine Million Euro für Hotelunterkünfte nach Blackout",
+          "link": "https://www.heise.de/news/Berlin-Fast-eine-Million-Euro-fuer-Hotelunterkuenfte-nach-Blackout-11402641.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Beim Stromausfall in Berlin mussten viele vorübergehend in Hotels unterkommen. Inzwischen sind die Unterkunftskosten in den meisten Fällen erstattet worden.",
+          "published": "2026-08-07T07:17:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Berlin: Fast eine Million Euro für Hotelunterkünfte nach Blackout"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "7 Grad kühler ohne Klimaanlage: Keramikwürfel aus dem 3D-Drucker senken Temperatur spürbar",
+          "link": "https://t3n.de/news/kuehler-keramikwuerfel-3d-drucker-1756932/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Forschungsteam der TU Graz hat eine Kühltechnik entwickelt, die auf 3D-gedruckten Keramikwürfeln basiert. Damit ließ sich in Innenräumen eine Abkühlung um bis zu sieben Grad erreichen. Auch aufgeheizte Plätze in Städten sollen profitieren. weiterlesen auf t3n.de",
+          "published": "Thu, 6 Aug 2026 22:51:26 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
+          "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/",
+          "summary": "Musk continues appeal despite court loss and settlement with advertiser group.",
+          "published": "Thu, 06 Aug 2026 20:29:51 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Suno hopes to go legit with watermarks for AI-generated music",
+          "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+          "summary": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
+          "published": "Thu, 06 Aug 2026 20:17:36 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Parasitic zombie-ant fungus thrives in mosses, too",
+          "link": "https://arstechnica.com/science/2026/08/parasitic-zombie-fungus-thrives-in-mosses-too/",
+          "summary": "This may help fungi survive host scarcity and explains why infected hosts prefer the mosses as death sites.",
+          "published": "Thu, 06 Aug 2026 17:13:45 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Trump FCC kills TV ownership cap, claiming authority over limit set by Congress",
+          "link": "https://arstechnica.com/tech-policy/2026/08/trump-fcc-kills-tv-ownership-cap-claiming-authority-over-limit-set-by-congress/",
+          "summary": "Change will let \"Trump-aligned billionaires\" buy more stations, advocacy group says.",
+          "published": "Thu, 06 Aug 2026 16:40:58 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "7 Grad kühler ohne Klimaanlage: Keramikwürfel aus dem 3D-Drucker senken Temperatur spürbar",
+        "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
+        "Suno hopes to go legit with watermarks for AI-generated music"
+      ]
+    }
+  ]
+}
