@@ -1,0 +1,449 @@
+{
+  "date": "2026-08-08",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "bpm",
+      "name": "BPM & Prozessautomatisierung",
+      "items": [
+        {
+          "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+          "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue [&#8230;]",
+          "published": "2026-08-07T14:40:34-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(1 Beitraege zu BPM & Prozessautomatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful"
+      ]
+    },
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Presentation: From ms to µs: OSS Valkey Architecture Patterns for Modern AI",
+          "link": "https://www.infoq.com/presentations/valkey-architecture-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Dumanshu Goyal discusses optimizing data layers for low-latency workloads like AI feature stores. Drawing lessons from NASA's Space Shuttle, he explains how proxy architectures introduce hidden CPU costs, elevated tail latencies, and blast-radius risks. He demonstrates how direct-access Valkey architectures achieve microsecond latency, improve resilience, and slash infrastructure costs. By Dumanshu Goyal",
+          "published": "Thu, 06 Aug 2026 09:34:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: From ms to µs: OSS Valkey Architecture Patterns for Modern AI"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Presentation: Rewriting All of Spotify's Code Base, All the Time",
+          "link": "https://www.infoq.com/presentations/spotify-ai-codebase-migration-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Jo Kelly-Fenton and Aleksandar Mitic explain how Spotify created \"Honk,\" an AI coding agent, to handle complex fleet-wide codebase migrations. They share key architectural insights on decoupling CI verification runtimes from AI agents, dealing with automated pull request bottlenecks, and driving aggressive standardization across thousands of engineering repositories. By Jo Kelly-Fenton, Aleksandar Mitic",
+          "published": "Fri, 07 Aug 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Stromspeicher-Experte: &quot;Eisen oder Natrium kann die Abhängigkeit von China brechen&quot;",
+          "link": "https://t3n.de/news/stromspeicher-experte-eisen-natrium-china-1756748/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Fast alle neuen Gigawatt-Stromspeicher setzen auf Lithium-Eisenphosphat – dabei gibt es Alternativen wie Natrium-Ionen-, Eisen-Luft- oder Redoxflow-Batterien. P weiterlesen auf t3n.de",
+          "published": "Fri, 7 Aug 2026 12:30:06 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Azure API Management Adds Dedicated AI Gateway Tier, Governing Models and MCP Tools",
+          "link": "https://www.infoq.com/news/2026/08/azure-apim-ai-gateway-tier/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft released a dedicated AI Gateway tier of Azure API Management in public preview, with a control plane built around models, MCP servers and tools rather than APIs. It fronts Foundry, Bedrock, Vertex AI and OpenAI behind one endpoint, with policy cards instead of XML. Architects welcomed the consolidation while questioning where the governance boundary sits. By Steef-Jan Wiggers",
+          "published": "Fri, 07 Aug 2026 06:35:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Your AI agent’s next tool call may be valid but wrong. AWS’s Dogwood promises to fix that.",
+          "link": "https://thenewstack.io/aws-dogwood-agent-policies/",
+          "summary": "AWS on Thursday launched Dogwood, an open-source policy language and reference interpreter that lets developers govern sequences of AI agent The post Your AI agent’s next tool call may be valid but wrong. AWS&#8217;s Dogwood promises to fix that. appeared first on The New Stack .",
+          "published": "Thu, 06 Aug 2026 19:11:55 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Free agents: How AWS Kiro could untie agents from editors",
+          "link": "https://thenewstack.io/kiro-agent-client-protocol/",
+          "summary": "Choosing a coding agent may soon no longer mean having to pick a new editor or terminal, too. That scenario The post Free agents: How AWS Kiro could untie agents from editors appeared first on The New Stack .",
+          "published": "Thu, 06 Aug 2026 17:50:35 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Wiz Discloses CosmosEscape, and Practitioners Debate What Customers Could Have Done",
+          "link": "https://www.infoq.com/news/2026/08/cosmosescape-master-key/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Wiz Research disclosed CosmosEscape, a chain that escaped Azure Cosmos DB's Gremlin sandbox and reached a platform-wide key granting read and write access to every database on the service. Microsoft blocked the entry point within two days but took until July 2026 to remove the key. Practitioners debated shared responsibility and what that rearchitecture actually cost. By Steef-Jan Wiggers",
+          "published": "Thu, 06 Aug 2026 09:21:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Developer-Häppchen:  Kotlin-LSP für Cursor und Sneak Peak für Kubernetes",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Kotlin-LSP-fuer-Cursor-und-Sneak-Peak-fuer-Kubernetes-11399144.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Kubernetes, Servo, Symfony Polyfill, Python, Rust, Pandoc, Coreutils, JetBrains und Quasar.",
+          "published": "2026-08-08T09:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "OpenAI: Neue, erschreckende Details zum Hugging-Face-Vorfall",
+          "link": "https://www.heise.de/news/OpenAI-liefert-mehr-Details-zum-Hugging-Face-Vorfall-11403154.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mitarbeiter von OpenAI enthüllen weitere Details rund um den Einbruch ihrer KI-Agenten bei anderen Firmen und offenbaren erschreckende Fahrlässigkeit.",
+          "published": "2026-08-07T13:16:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(8 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Rewriting All of Spotify's Code Base, All the Time",
+        "Stromspeicher-Experte: &quot;Eisen oder Natrium kann die Abhängigkeit von China brechen&quot;",
+        "Azure API Management Adds Dedicated AI Gateway Tier, Governing Models and MCP Tools"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Mehr als COBOL zu Java: Googles KI-Plan für Mainframes",
+          "link": "https://www.heise.de/news/Google-Cloud-Mit-vier-Bausteinen-zur-Mainframe-Modernisierung-11399562.html",
+          "summary": "Google bietet eine iterative Modernisierung von Mainframe-Anwendungen in die Cloud an, gestützt durch KI für Analyse und Transformation.",
+          "published": "2026-08-05T10:27:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Mehr als COBOL zu Java: Googles KI-Plan für Mainframes"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Fake-Abbuchung über 909 Euro: Paypal-Kunden sollten diese Phishing-Mail kennen",
+          "link": "https://t3n.de/news/paypal-phishing-fake-abbuchung-909-euro-1755767/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer derzeit eine Nachricht im Namen von Paypal erhält, sollte zweimal hinschauen. Denn Betrüger:innen nutzen den Bezahldienst als Deckmantel, um an dein Geld und deine Daten zu gelangen. Vor welchen Paypal-Maschen du dich schützen musst. weiterlesen auf t3n.de",
+          "published": "Sat, 8 Aug 2026 09:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "The AI model OpenAI won’t release yet — and what it found in testing",
+          "link": "https://thenewstack.io/openai-astra-cybersecurity-delay/",
+          "summary": "OpenAI is reducing&#160;work on Astra after internal testing indicated the upcoming model may have reached a cybersecurity limit that no The post The AI model OpenAI won&#8217;t release yet — and what it found in testing appeared first on The New Stack .",
+          "published": "Fri, 07 Aug 2026 20:56:38 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Durch Metabase-0day: Datenleck bei Laptophersteller Framework",
+          "link": "https://www.heise.de/news/Durch-Metabase-0day-Datenleck-bei-Laptophersteller-Framework-11403050.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Nur wenige Stunden nach Bekanntwerden einer Sicherheitslücke informiert der Framework seine Kunden. Metabase veröffentlichte eigene Sicherheitshinweise.",
+          "published": "2026-08-07T12:10:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Eclipse und OWASP wollen Open-Source-Projekte in Sicherheitsfragen fortbilden",
+          "link": "https://www.heise.de/news/Eclipse-und-OWASP-wollen-Open-Source-Projekte-in-Sicherheitsfragen-fortbilden-11394486.html",
+          "summary": "Der Cyber Resilience Act rückt näher und auch Open-Source-Projekte müssen sich darauf einstellen. Eclipse und OWASP bündeln nun ihre Hilfsangebote.",
+          "published": "2026-08-02T14:57:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(4 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Fake-Abbuchung über 909 Euro: Paypal-Kunden sollten diese Phishing-Mail kennen",
+        "The AI model OpenAI won’t release yet — and what it found in testing",
+        "Durch Metabase-0day: Datenleck bei Laptophersteller Framework"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Verwaltungsdigitalisierung: Digitalminister Wildberger wiederholt alte Fehler",
+          "link": "https://netzpolitik.org/2026/verwaltungsdigitalisierung-digitalminister-wildberger-wiederholt-alte-fehler/",
+          "summary": "Digitalminister Karsten Wildberger will die Verwaltungsdigitalisierung umkrempeln. – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Das Digitalministerium will Staat und Verwaltung digitalisieren. Doch Minister Wildberger wiederholt bekannte Fehler im Prestige-Projekt. Das zeigt ein Bericht des Bundesrechnungshofs, den wir veröffentlichen. Noch immer fehlen Standards und ein Projektmanagement-Tool.",
+          "published": "Thu, 06 Aug 2026 16:06:50 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Harte Kritik am Thüringer Polizeigesetz: „Verfassungsrechtlich ist das nicht tragbar“",
+          "link": "https://netzpolitik.org/2026/harte-kritik-am-thueringer-polizeigesetz-verfassungsrechtlich-ist-das-nicht-tragbar/",
+          "summary": "Die Livestreams der Videoüberwachung in Thüringen (hier am Erfurter Anger) sollen künftig automatisiert nach bestimmten Verhaltensmustern durchsucht werden. – CC-BY-NC-SA 4.0 : Denis Glismann Thüringen soll ein neues Polizeigesetz bekommen, das eine Vielzahl weiterer Befugnissen einführt. Zahlreiche Expert*innen haben sich mit dem Entwurf auseinandergesetzt. Aus ihrer Sicht ist er mit dem Grundgesetz nicht vereinbar.",
+          "published": "Wed, 05 Aug 2026 10:08:37 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Digitalpolitik: Bundesregierung schweigt zu KI-Einsatz bei Wildberger",
+          "link": "https://www.golem.de/news/digitalpolitik-bundesregierung-schweigt-zu-ki-einsatz-bei-wildberger-2608-211695.html",
+          "summary": "Das Digitalministerium nennt keine Details zur Chatbot-Nutzung bei Reden. Zu allgemeinen Prüfstandards gibt es jedoch Auskunft. ( Politik , KI )",
+          "published": "2026-08-07T09:21:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Verwaltungsdigitalisierung: Digitalminister Wildberger wiederholt alte Fehler",
+        "Harte Kritik am Thüringer Polizeigesetz: „Verfassungsrechtlich ist das nicht tragbar“",
+        "Digitalpolitik: Bundesregierung schweigt zu KI-Einsatz bei Wildberger"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Landtagswahl in Sachsen-Anhalt: So wollen die Parteien die autoritäre Wende aufhalten",
+          "link": "https://netzpolitik.org/2026/landtagswahl-in-sachsen-anhalt-so-wollen-die-parteien-die-autoritaere-wende-aufhalten/",
+          "summary": "Sticker in Magdeburg: Antifaschismus hat viele Aktionsformen. – Alle Rechte vorbehalten: IMAGO / Müller-Stauffenberg Am 6. September könnte die AfD eine absolute Mehrheit im Landtag von Sachsen-Anhalt erringen. Wir zeigen, wie die übrigen Landes-Parteien die Demokratie vor den Rechtsradikalen schützen wollen.",
+          "published": "Fri, 07 Aug 2026 08:34:54 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Uno Platform 6.6 Adds Native AOT, Vulkan Rendering, and Broader Accessibility Support",
+          "link": "https://www.infoq.com/news/2026/08/uno-platform-6-6/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Uno Platform 6.6 introduces Native AOT publishing across five target platforms, an optional Vulkan rendering backend, and automatic registration for the framework’s Model Context Protocol servers. The release also reduces XAML boilerplate, expands cross-platform WinUI API coverage, and improves accessibility and multilingual text handling. By Edin Kapić",
+          "published": "Fri, 07 Aug 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Today’s Codex will feel “primitive” by fall — and its own team’s roadmap backs it up",
+          "link": "https://thenewstack.io/openai-codex-cloud-evolution/",
+          "summary": "Thibault Sottiaux, who leads core products at OpenAI, believes that today&#8217;s version of Codex will seem outdated before the year The post Today&#8217;s Codex will feel &#8220;primitive&#8221; by fall — and its own team&#8217;s roadmap backs it up appeared first on The New Stack .",
+          "published": "Tue, 04 Aug 2026 18:30:37 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Internet in Syrien: Eine fragile Verbindung",
+          "link": "https://netzpolitik.org/2026/internet-in-syrien-eine-fragile-verbindung/",
+          "summary": "Werbung für Syriatel in Damaskus, im Jahr 2006. – CC-BY-SA 3.0 : Danij84, Bearbeitung: netzpolitik.org Gut eineinhalb Jahre nach dem Sturz des Assad-Regimes im Dezember 2024 bleiben die meisten Syrer:innen vom Internet abgeschnitten. Gleichzeitig werden Fake News und Hetze im digitalen Raum zur ernsthaften Bedrohung für einen friedlichen Übergang.",
+          "published": "Tue, 04 Aug 2026 09:30:56 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Freier Radiosender Corax: „Die AfD will uns zermürben. Das lassen wir nicht zu“",
+          "link": "https://netzpolitik.org/2026/freier-radiosender-corax-die-afd-will-uns-zermuerben-das-lassen-wir-nicht-zu/",
+          "summary": "Radio Corax wird stellvertretend für kritische Medien und demokratische Öffentlichkeit angegriffen. – Alle Rechte vorbehalten: Marcus-Andreas Mohr In Sachsen-Anhalt könnte die AfD die Landtagswahl gewinnen. Dem freien Radio Corax aus Halle will der rechtsextreme Landesverband die Finanzierung streichen. Was macht das mit den meist ehrenamtlichen Radiomacher:innen? Ein Interview über Medien im Visier von Rechtsextremen.",
+          "published": "Sun, 02 Aug 2026 09:23:54 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Wen kann ich noch einplanen? OpenProject zeigt es",
+          "link": "https://www.heise.de/news/Wen-kann-ich-noch-einplanen-OpenProject-zeigt-es-11400546.html",
+          "summary": "OpenProject 17.7.0 führt neue Funktionen für Kapazitäts- und Einsatzplanung sowie agile Sprints ein.",
+          "published": "2026-08-06T08:55:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Plane: Update der Open-Source-Alternative zu Jira",
+          "link": "https://www.heise.de/news/Plane-Update-der-Open-Source-Alternative-zu-Jira-11399132.html",
+          "summary": "Plane 1.4.0 bringt schlanke REST-APIs für Listenansichten und eine neue Übersetzungsarchitektur. Auch Webhooks und die Barrierefreiheit wurden verbessert.",
+          "published": "2026-08-05T06:56:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Neue Malware-Welle: Arch Linux blockiert AUR-Updates",
+          "link": "https://www.heise.de/news/Neue-Malware-Welle-Arch-Linux-blockiert-AUR-Updates-11395880.html",
+          "summary": "Erneut verbreitet sich Malware über Arch User Repositorys. Daher gibt es vorerst überhaupt keine Updates für AUR.",
+          "published": "2026-08-03T19:25:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(8 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Landtagswahl in Sachsen-Anhalt: So wollen die Parteien die autoritäre Wende aufhalten",
+        "Uno Platform 6.6 Adds Native AOT, Vulkan Rendering, and Broader Accessibility Support",
+        "Today’s Codex will feel “primitive” by fall — and its own team’s roadmap backs it up"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Nach 11 Jahren: KI Claude knackt Passwort einer Bitcoin-Wallet mit 400.000 Dollar",
+          "link": "https://t3n.de/news/claude-ki-passwort-bitcoin-wallet-1742871/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Vor elf Jahren hat der Besitzer einer wertvollen Bitcoin-Wallet das Passwort dafür vergessen. Über ein Jahrzehnt hat er vergeblich versucht, Zugriff auf die Wallet zu bekommen. Jetzt konnte ihm KI in Form von Claude weiterhelfen. Wie der Chatbot das Problem gelöst hat. weiterlesen auf t3n.de",
+          "published": "Sat, 8 Aug 2026 06:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Auto Mode will soon be the default in Claude Code — because humans can’t be trusted",
+          "link": "https://thenewstack.io/claude-code-auto-mode/",
+          "summary": "In the early days of Claude Code, it felt like you either had to approve everything the coding agent did The post Auto Mode will soon be the default in Claude Code — because humans can&#8217;t be trusted appeared first on The New Stack .",
+          "published": "Fri, 07 Aug 2026 21:42:44 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Cloudflare Launches Persistent, Stateful, Computer-like Environments for Agents",
+          "link": "https://www.infoq.com/news/2026/08/cloudflare-computer-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare has introduced Cloudflare Computer, a new open-source runtime designed to give AI agents something closer to a real \"computer\" instead of just ephemeral containers. It leverages Cloudflare isolates for fast serverless execution, making agents cheaper, faster, and more scalable, according to the company. By Sergio De Simone",
+          "published": "Fri, 07 Aug 2026 21:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Über 70 Kreativ-Tools integriert: Adobe-Plugin macht ChatGPT zur Canva-Alternative",
+          "link": "https://t3n.de/news/adobe-plugin-chatgpt-1757158/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Adobe hat ein Plugin für OpenAIs KI-Chatbot ChatGPT an den Start gebracht. Damit erhalten Nutzer:innen im Chat Zugriff auf über 70 Kreativ-Tools aus Anwendungen wie Photoshop, Acrobat, Firefly, Illustrator und Indesign. weiterlesen auf t3n.de",
+          "published": "Fri, 7 Aug 2026 22:18:43 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Meta’s new coding agent is cheap (but it’ll cost you your data).",
+          "link": "https://thenewstack.io/meta-muse-code/",
+          "summary": "Meta this week announced Muse Code, its first coding agent designed to tackle complex software engineering tasks, like planning changes, The post Meta’s new coding agent is cheap (but it’ll cost you your data). appeared first on The New Stack .",
+          "published": "Fri, 07 Aug 2026 18:17:56 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Coinbase, Shopify and Ramp all built their own coding agents. All three still pay Anthropic.",
+          "link": "https://thenewstack.io/enterprise-ai-agent-harness/",
+          "summary": "Enterprise engineering teams are converging on a common architecture for AI-assisted software development. Coinbase, Shopify, and Ramp have each built The post Coinbase, Shopify and Ramp all built their own coding agents. All three still pay Anthropic. appeared first on The New Stack .",
+          "published": "Fri, 07 Aug 2026 18:16:03 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+          "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+          "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
+          "published": "Fri, 07 Aug 2026 17:36:22 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Instacart Builds Blueberry, an AI-Powered Assistant to Help On-Call Engineers Investigate Incidents",
+          "link": "https://www.infoq.com/news/2026/08/instacart-blueberry-sre-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Instacart introduced Blueberry, an AI-assisted incident response system that helps on-call engineers investigate production issues faster. It combines AI agents, operational data, and historical incident knowledge to generate grounded root cause hypotheses in Slack. It uses parallel subagents, MCP integrations, and incident history to reduce investigation time while keeping engineers in control. By Leela Kumili",
+          "published": "Fri, 07 Aug 2026 14:34:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(8 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Nach 11 Jahren: KI Claude knackt Passwort einer Bitcoin-Wallet mit 400.000 Dollar",
+        "Auto Mode will soon be the default in Claude Code — because humans can’t be trusted",
+        "Cloudflare Launches Persistent, Stateful, Computer-like Environments for Agents"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "AI Is Transforming Incident Response - but the Hardest Problems May Still Belong to Humans",
+          "link": "https://www.infoq.com/news/2026/08/ai-incident-response/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Artificial intelligence is rapidly changing how engineering teams respond to production incidents, offering the ability to summarize incident channels, analyze unfamiliar code, suggest remediation steps, generate pull requests, and increasingly assist with diagnosis. By Craig Risi",
+          "published": "Fri, 07 Aug 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Article: InfoQ Culture and Methods Trends Report - 2026",
+          "link": "https://www.infoq.com/articles/culture-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This report summarizes how the InfoQ Culture and Methods editorial team sees the ongoing and emergent trends in the culture and methods space in 2026. By Shane Hastie, Ben Linders, Vanessa Formicola, Shawna Martell, Rafiq Gemmail, Craig Smith, Phillip Mortimer, Yinka Omole",
+          "published": "Fri, 07 Aug 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Podcast: Culture & Methods Trends 2026: The Human Side of AI Engineering",
+          "link": "https://www.infoq.com/podcasts/infoq-culture-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This is the Engineering Culture Trends Report for 2026. Featuring a panel of QCon speakers and InfoQ contributors, they discussed AI adoption maturity and risk, the transformation of engineering team structures and roles, and the human dimensions of software development that must not be lost in 2026. By Ben Linders, Rafiq Gemmail, Craig Smith, Vanessa Formicola, Shawna Martell, Phillip Mortimer, Yinka Omole",
+          "published": "Fri, 07 Aug 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+          "link": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
+          "summary": "Russian attack? Explosive drone targeted parked aircraft at Leipzig airport.",
+          "published": "Thu, 06 Aug 2026 22:01:55 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Zeiss verknüpft DORA-Metriken und FinOps über Backstage und Argo CD",
+          "link": "https://www.heise.de/hintergrund/Zeiss-verknuepft-DORA-Metriken-und-FinOps-ueber-Backstage-und-Argo-CD-11367974.html",
+          "summary": "Cloud-Architekt Alexander Troppmann zeigt, wie bei Zeiss durchgängige Metadaten Deployment-Performance und Kostentransparenz verbinden.",
+          "published": "2026-08-01T06:58:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AI Is Transforming Incident Response - but the Hardest Problems May Still Belong to Humans",
+        "Article: InfoQ Culture and Methods Trends Report - 2026",
+        "Podcast: Culture & Methods Trends 2026: The Human Side of AI Engineering"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "GitHub Hardens npm and Actions Defaults, Drawing Debate over Delays versus Signing",
+          "link": "https://www.infoq.com/news/2026/08/github-npm-actions-defaults/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "GitHub consolidated the npm and Actions changes it shipped from March to July 2026 against supply chain attacks, several of which alter defaults rather than add options. Hacker News discussion focused less on the individual controls than on whether waiting periods are the right instrument, or a substitute for author-side package signing. By Steef-Jan Wiggers",
+          "published": "Sat, 08 Aug 2026 07:45:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "KW 32: Die Woche, in der wir mit Sorge und Hoffnung nach Sachsen-Anhalt blickten",
+          "link": "https://netzpolitik.org/2026/kw-32-die-woche-in-der-wir-mit-sorge-und-hoffnung-nach-sachsen-anhalt-blickten/",
+          "summary": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 32. Kalenderwoche geht zu Ende. Wir haben 12 neue Texte mit insgesamt 127.811 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 08 Aug 2026 06:52:52 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "The npm attack that turned provenance attestations into camouflage",
+          "link": "https://thenewstack.io/npm-supply-chain-worm-attack/",
+          "summary": "&#8288;Security researchers this week disclosed an npm supply-chain attack affecting more than 400 packages, including projects connected to Keyv and The post The npm attack that turned provenance attestations into camouflage appeared first on The New Stack .",
+          "published": "Fri, 07 Aug 2026 18:31:59 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Apple schließt kritische Lücke: So konnten Angreifer deinen Mac im Netzwerk fernsteuern",
+          "link": "https://t3n.de/news/apple-schliesst-kritische-luecke-so-konnten-angreifer-deinen-mac-im-netzwerk-fernsteuern-1757108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Security-Experten haben eine Sicherheitslücke in macOS entdeckt, mit der Angreifer den Mac kontrollieren können. Wie ihr euch schützt und welche Versionen des Betriebssystems betroffen sind. weiterlesen auf t3n.de",
+          "published": "Fri, 7 Aug 2026 16:00:06 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "30.000 Unterschriften in wenigen Tagen: Krypto-Community wehrt sich gegen Steueränderung",
+          "link": "https://t3n.de/news/30-000-unterschriften-in-wenigen-tagen-krypto-community-wehrt-sich-gegen-steueraenderung-1757000/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Petition zum Erhalt der einjährigen Bitcoin-Haltefrist hat die Marke von 30.000 Unterschriften überschritten. Jetzt wird sich der Bundestag in einer öffentlichen Anhörung mit den geplanten Änderungen bei der Krypto-Besteuerung beschäftigen. weiterlesen auf t3n.de",
+          "published": "Fri, 7 Aug 2026 13:00:22 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google Messages: Zwei nervige Probleme werden endlich behoben",
+          "link": "https://t3n.de/news/google-messages-probleme-behoben-1756967/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Alle wichtigen Buttons mit einem Klick &#8211; und die Möglichkeit, nur Teile eines Textes zu kopieren: Google Messages korrigiert zwei nervige Probleme. weiterlesen auf t3n.de",
+          "published": "Fri, 7 Aug 2026 12:00:46 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mehr als nur ein Chatfenster: Wir vertrauen KI viel über uns an – werden wir so manipulierbar?",
+          "link": "https://t3n.de/news/mehr-als-nur-ein-chatfenster-wir-vertrauen-ki-viel-ueber-uns-an-werden-wir-so-manipulierbar-1756999/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Chatfenster wird zunehmend zur Eintrittspforte in die KI-Welt: Es sieht nüchtern aus, doch weil die Gespräche mit dem Chatbot natürlich wirken, tippen wir mehr in die Zeile, als wir es an anderen Stellen im Internet tun würden. Diese Entwicklung beleuchtet die neue Ausgabe von MIT Technology Review. weiterlesen auf t3n.de",
+          "published": "Fri, 7 Aug 2026 11:45:28 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "npm Staged Publishing Available, Adding a Human Approval Step Before Packages Go Live",
+          "link": "https://www.infoq.com/news/2026/08/npm-stage-available/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "npm has introduced staged publishing for Node.js, requiring maintainer approval before a version is installable. Versions are queued and must pass a two-factor authentication challenge for release. This feature aims to enhance security amid rising supply chain threats. It is available in npm CLI 11.15.0+ and Node 22.14.0+, alongside new configurable permission flags. By Daniel Curtis",
+          "published": "Fri, 07 Aug 2026 06:12:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(8 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "GitHub Hardens npm and Actions Defaults, Drawing Debate over Delays versus Signing",
+        "KW 32: Die Woche, in der wir mit Sorge und Hoffnung nach Sachsen-Anhalt blickten",
+        "The npm attack that turned provenance attestations into camouflage"
+      ]
+    }
+  ]
+}
