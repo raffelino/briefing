@@ -1,0 +1,311 @@
+{
+  "date": "2026-08-10",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Beyond Consensus: The Fragmentation of AI Policy Across the Linux Ecosystem",
+          "link": "https://www.infoq.com/news/2026/08/linux-ai-policies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The AI policies across the Linux ecosystem are very heterogeneous, ranging from the GCC’s restrictiveness, the Linux kernel’s pragmatism, to the more open disclosure-based utility model of Kubernetes' landscape. From core infrastructure to high-level orchestration, these distinct approaches highlight a shared commitment: ensuring the human maintainer remains the indispensable guardian of the code. By Olimpiu Pop",
+          "published": "Mon, 10 Aug 2026 04:04:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Einkommen um 40 Prozent eingebrochen: Wie KI in China Menschen die Jobs kostet",
+          "link": "https://t3n.de/news/ki-china-jobverlust-einkommen-eingebrochen-1755938/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Lange hat die Regierung in Peking die Entwicklung aktiv gefördert. Laut Analyst:innen hat jetzt aber ein Umdenken eingesetzt. Können chinesische Bürger:innen vor KI-bedingter Arbeitslosigkeit geschützt werden? weiterlesen auf t3n.de",
+          "published": "Sun, 9 Aug 2026 19:25:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise+ | Gerechten Würfel mit LED-Anzeige selber bauen",
+          "link": "https://www.heise.de/ratgeber/Gerechten-Wuerfel-mit-LED-Anzeige-selber-bauen-11367025.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Wer beim Würfeln vom Pech verfolgt wird, kann schnell die Lust am Spiel verlieren. Dieser DIY-Würfel mit LED-Anzeige sorgt für ausgleichende Gerechtigkeit.",
+          "published": "2026-08-09T11:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Developer-Häppchen:  Kotlin-LSP für Cursor und Sneak Peek für Kubernetes",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Kotlin-LSP-fuer-Cursor-und-Sneak-Peak-fuer-Kubernetes-11399144.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Kubernetes, Servo, Symfony Polyfill, Python, Rust, Pandoc, Coreutils, JetBrains und Quasar.",
+          "published": "2026-08-08T09:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Developer-Häppchen:  Kotlin-LSP für Cursor und Sneak Peek für Kubernetes",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Kotlin-LSP-fuer-Cursor-und-Sneak-Peak-fuer-Kubernetes-11399144.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Kubernetes, Servo, Symfony Polyfill, Python, Rust, Pandoc, Coreutils, JetBrains und Quasar.",
+          "published": "2026-08-08T07:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Beyond Consensus: The Fragmentation of AI Policy Across the Linux Ecosystem",
+        "Einkommen um 40 Prozent eingebrochen: Wie KI in China Menschen die Jobs kostet",
+        "heise+ | Gerechten Würfel mit LED-Anzeige selber bauen"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Mehr als COBOL zu Java: Googles KI-Plan für Mainframes",
+          "link": "https://www.heise.de/news/Google-Cloud-Mit-vier-Bausteinen-zur-Mainframe-Modernisierung-11399562.html",
+          "summary": "Google bietet eine iterative Modernisierung von Mainframe-Anwendungen in die Cloud an, gestützt durch KI für Analyse und Transformation.",
+          "published": "2026-08-05T10:27:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Mehr als COBOL zu Java: Googles KI-Plan für Mainframes"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Fast vollständig autonom: Wie Anthropics KI einen Verschlüsselungsstandard knackte",
+          "link": "https://t3n.de/news/anthropic-claude-mythos-verschluesselungsstandard-aes-1755434/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Anthropic-KI Claude Mythos Preview soll Schwachstellen in einer &#8211; allerdings abgeschwächten &#8211; Version des verbreiteten Verschlüsselungsalgorithmus AES gefunden haben. Akut besteht keine Gefahr. Langfristig könnte der Hack aber Folgen haben. weiterlesen auf t3n.de",
+          "published": "Sun, 9 Aug 2026 20:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Active Defense & Hardening – Systeme aktiv schützen",
+          "link": "https://www.heise.de/news/iX-Workshop-Active-Defense-Hardening-Systeme-aktiv-schuetzen-11378566.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Üben Sie in einer praxisnahen Laborumgebung, wie Sie Schwachstellen in Ihrer IT-Infrastruktur finden und Ihre Systeme gegen Angriffe effektiv absichern können.",
+          "published": "2026-08-10T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+          "link": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11378640.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
+          "published": "2026-08-08T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Eclipse und OWASP wollen Open-Source-Projekte in Sicherheitsfragen fortbilden",
+          "link": "https://www.heise.de/news/Eclipse-und-OWASP-wollen-Open-Source-Projekte-in-Sicherheitsfragen-fortbilden-11394486.html",
+          "summary": "Der Cyber Resilience Act rückt näher und auch Open-Source-Projekte müssen sich darauf einstellen. Eclipse und OWASP bündeln nun ihre Hilfsangebote.",
+          "published": "2026-08-02T14:57:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: IT-Jobs in Revision, Controlling, Netzwerktechnik und IT-Sicherheit",
+          "link": "https://www.golem.de/news/anzeige-it-jobs-in-revision-controlling-netzwerktechnik-und-it-sicherheit-2608-211226.html",
+          "summary": "Diese sechs IT-Positionen reichen von Revision über Netzwerkarchitektur bis IT-Sicherheit in Behörden, Kliniken und Industrie. ( Golem Karrierewelt , Unternehmenssoftware )",
+          "published": "2026-08-09T07:00:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Fast vollständig autonom: Wie Anthropics KI einen Verschlüsselungsstandard knackte",
+        "heise-Angebot: iX-Workshop: Active Defense & Hardening – Systeme aktiv schützen",
+        "heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "heise+ | Zero LS1 im Test: E-Großroller mit ABS und Mittelmotor",
+          "link": "https://www.heise.de/tests/Zero-LS1-im-Test-E-Grossroller-mit-ABS-und-Mittelmotor-11382156.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Zeros E-Großroller LS1 zielt und trifft in die Lücke zwischen kompromissreichen Asien-Rollern und den teuren BMW-Offerten. Ein Zu-Null-Sieg ist es jedoch nicht.",
+          "published": "2026-08-10T07:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Studie: Drohnenabwehr in Europa nicht ausreichend",
+          "link": "https://www.heise.de/news/Studie-Drohnenabwehr-in-Europa-nicht-ausreichend-11404362.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine Studie kommt zu dem Schluss, dass Europa nur unzureichend auf Drohnenangriffe vorbereitet ist. Es gebe kaum Zusammenarbeit in der EU.",
+          "published": "2026-08-10T06:35:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Autonomes Fahren: China beschließt Pflicht-Sicherheitsregeln für Level 3 und 4",
+          "link": "https://www.heise.de/news/Autonomes-Fahren-China-beschliesst-Pflicht-Sicherheitsregeln-fuer-Level-3-und-4-11404242.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Von Juli 2027 an gelten in China neue Vorschriften für hoch- und vollautomatisiertes Fahren. Hersteller müssen strengere Tests und Fahrerkontrollen nachweisen.",
+          "published": "2026-08-09T14:26:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise+ | Zero LS1 im Test: E-Großroller mit ABS und Mittelmotor",
+        "Studie: Drohnenabwehr in Europa nicht ausreichend",
+        "Autonomes Fahren: China beschließt Pflicht-Sicherheitsregeln für Level 3 und 4"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Wen kann ich noch einplanen? OpenProject zeigt es",
+          "link": "https://www.heise.de/news/Wen-kann-ich-noch-einplanen-OpenProject-zeigt-es-11400546.html",
+          "summary": "OpenProject 17.7.0 führt neue Funktionen für Kapazitäts- und Einsatzplanung sowie agile Sprints ein.",
+          "published": "2026-08-06T08:55:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Plane: Update der Open-Source-Alternative zu Jira",
+          "link": "https://www.heise.de/news/Plane-Update-der-Open-Source-Alternative-zu-Jira-11399132.html",
+          "summary": "Plane 1.4.0 bringt schlanke REST-APIs für Listenansichten und eine neue Übersetzungsarchitektur. Auch Webhooks und die Barrierefreiheit wurden verbessert.",
+          "published": "2026-08-05T06:56:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Neue Malware-Welle: Arch Linux blockiert AUR-Updates",
+          "link": "https://www.heise.de/news/Neue-Malware-Welle-Arch-Linux-blockiert-AUR-Updates-11395880.html",
+          "summary": "Erneut verbreitet sich Malware über Arch User Repositorys. Daher gibt es vorerst überhaupt keine Updates für AUR.",
+          "published": "2026-08-03T19:25:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Wen kann ich noch einplanen? OpenProject zeigt es",
+        "Plane: Update der Open-Source-Alternative zu Jira",
+        "Neue Malware-Welle: Arch Linux blockiert AUR-Updates"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Wegen Fake News: EU-Kommmission macht soziale Netzwerke für Krise in Ceuta mitverantwortlich",
+          "link": "https://t3n.de/news/wegen-fake-news-eu-kommmission-macht-soziale-netzwerke-fuer-krise-in-ceuta-mitverantwortlich-1757238/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Falschinformationen auf Plattformen wie Tiktok sollen dazu beigetragen haben, dass die spanischen Exklave von Migrant:innen überrannt wurde. Das Problem besteht schon seit Längerem – und die Risiken sind real. weiterlesen auf t3n.de",
+          "published": "Sun, 9 Aug 2026 21:25:31 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Trotz Fachkräftemangel: Warum plötzlich weniger IT-Experten gesucht werden",
+          "link": "https://t3n.de/news/fachkraeftemangel-it-experten-nachfrage-rueckgang-1756380/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im abgelaufenen zweiten Quartal 2026 ist die Nachfrage nach IT-Fachkräften spürbar gesunken. Einen besonders starken Rückgang gab es laut Hays-Fachkräfte-Index bei IT-Security-Spezialisten. Ein anderer Bereich profitiert derweil von KI-Boom. weiterlesen auf t3n.de",
+          "published": "Sun, 9 Aug 2026 18:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Coding agents can be evaluated. We just have to evaluate the work.",
+          "link": "https://thenewstack.io/evaluating-coding-agents-framework/",
+          "summary": "I recently argued with a software factory provider, whose position was that coding agents cannot be evaluated. Their reasoning was The post Coding agents can be evaluated. We just have to evaluate the work. appeared first on The New Stack .",
+          "published": "Sun, 09 Aug 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Selbstständig entstandener Arbeitsbereich: Wie nah ist Claude dem menschlichen Gehirn wirklich?",
+          "link": "https://t3n.de/news/anthropic-claude-j-space-arbeitsbereich-ki-bewusstsein-1751650/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Laut Studie könne der Chatbot im Vordergrund eine Aufgabe ausführen – und im Hintergrund über andere Konzepte und Ideen grübeln. Besonders überraschend: Die interne Struktur habe sich selbstständig gebildet. weiterlesen auf t3n.de",
+          "published": "Sun, 9 Aug 2026 10:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Vibe-Coding mit Claude Code: So baust du dein eigenes Team-Tool",
+          "link": "https://t3n.de/news/claude-code-vibe-coding-eigenes-team-tool-1756617/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Dashboard entwerfen, Funktionen ergänzen und per Link mit dem Team teilen: So legst du mit Claude Code los, ganz ohne Programmierkenntnisse. weiterlesen auf t3n.de",
+          "published": "Sun, 9 Aug 2026 07:45:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Wegen Fake News: EU-Kommmission macht soziale Netzwerke für Krise in Ceuta mitverantwortlich",
+        "Trotz Fachkräftemangel: Warum plötzlich weniger IT-Experten gesucht werden",
+        "Coding agents can be evaluated. We just have to evaluate the work."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Zeiss verknüpft DORA-Metriken und FinOps über Backstage und Argo CD",
+          "link": "https://www.heise.de/hintergrund/Zeiss-verknuepft-DORA-Metriken-und-FinOps-ueber-Backstage-und-Argo-CD-11367974.html",
+          "summary": "Cloud-Architekt Alexander Troppmann zeigt, wie bei Zeiss durchgängige Metadaten Deployment-Performance und Kostentransparenz verbinden.",
+          "published": "2026-08-01T06:58:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Zeiss verknüpft DORA-Metriken und FinOps über Backstage und Argo CD"
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "Platform Engineering ROI: What it costs to build your own platform",
+          "link": "https://thenewstack.io/real-cost-diy-platform/",
+          "summary": "What it actually costs to build your own internal developer platform over five years, and why most “we’ll just build The post Platform Engineering ROI: What it costs to build your own platform appeared first on The New Stack .",
+          "published": "Sun, 09 Aug 2026 16:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(1 Beitraege zu Platform Engineering / IDPs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Platform Engineering ROI: What it costs to build your own platform"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Sonnenfinsternis: Smartwatches messen, was das Phänomen mit unserem Körper macht",
+          "link": "https://t3n.de/news/sonnenfinsternis-smartwatches-messen-koerper-1757099/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Projekt „Solaris“ setzt auf die Beteiligung von Menschen in Katalonien, wenn dort am 12. August 2026 die Sonnenfinsternis zu sehen ist. Über Smartwatches und Fitness-Tracker sollen Herzfrequenzen und Atmung erfasst werden. weiterlesen auf t3n.de",
+          "published": "Mon, 10 Aug 2026 07:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Palantir-Konkurrenz aus Europa? Was es mit der Überwachungssoftware Argonos und Co. auf sich hat",
+          "link": "https://t3n.de/news/palantir-konkurrenz-europa-argonos-dsint-government-civitas-europe-1756444/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Seit Jahren nutzen deutsche Sicherheitsbehörden vermehrt die Analyse-Software des US-Konzerns. Angeblich, weil es keine Alternativen aus der EU gäbe. Eine These weiterlesen auf t3n.de",
+          "published": "Mon, 10 Aug 2026 07:30:43 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Schluss mit Google: Diese Navigation-Apps tracken dich nicht – und können trotzdem viel",
+          "link": "https://t3n.de/news/google-maps-alternativen-ohne-tracking-1732113/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google Maps ist bei vielen das Go-to-Mittel für Kartennavigation. Wenn du dich aber von großen Tech-Unternehmen wie Google lösen möchtest, geht das nur mit gute weiterlesen auf t3n.de",
+          "published": "Sun, 9 Aug 2026 20:20:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Fast unsichtbar: Wie dieser Cybersicherheitsexperte Kameras mit Gesichtserkennung überlistet",
+          "link": "https://t3n.de/news/fast-unsichtbar-wie-dieser-cybersicherheitsexperte-kameras-mit-gesichtserkennung-ueberlistet-1757229/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Viele US-Amerikaner:innen fühlen sich unwohl, weil Überwachungskameras dazu genutzt werden können, Menschen zu identifizieren. Bunte Muster sollen dabei helfen, die Technologie auszutricksen. weiterlesen auf t3n.de",
+          "published": "Sun, 9 Aug 2026 18:16:14 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "585.000 Spam-Anrufe im Monat: So schützt du dich auf Android und iPhone",
+          "link": "https://t3n.de/news/spam-anrufe-blockieren-android-iphone-funktionen-1742349/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Spam-Anrufe können nicht nur nervig sein. Fällst du auf den Anruf herein, kann er dich auch viel Geld kosten. Damit du gar nicht erst den Anruf annehmen musst, um zu wissen, dass es sich um Spam handelt, gibt es mehrere Methoden. weiterlesen auf t3n.de",
+          "published": "Sun, 9 Aug 2026 10:40:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Sonnenfinsternis: Smartwatches messen, was das Phänomen mit unserem Körper macht",
+        "Palantir-Konkurrenz aus Europa? Was es mit der Überwachungssoftware Argonos und Co. auf sich hat",
+        "Schluss mit Google: Diese Navigation-Apps tracken dich nicht – und können trotzdem viel"
+      ]
+    }
+  ]
+}
