@@ -1,0 +1,344 @@
+{
+  "date": "2026-08-11",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Pulling multi-gigabyte container images in seconds on Amazon EKS",
+          "link": "https://thenewstack.io/accelerating-eks-image-pulls/",
+          "summary": "When the image is the bottleneck: Machine learning changed what a container image looks like. A typical application ships in The post Pulling multi-gigabyte container images in seconds on Amazon EKS appeared first on The New Stack .",
+          "published": "Mon, 10 Aug 2026 16:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Pulling multi-gigabyte container images in seconds on Amazon EKS"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Ohne Kopfhörer in Bus und Bahn: Ist Loudcasting Provokation oder Zugehörigkeit?",
+          "link": "https://t3n.de/news/loudcasting-bus-bahn-provokation-zugehoerigkeit-1756853/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Phänomen Loudcasting: Vor allem Jugendliche hören in der Öffentlichkeit oft lautstark Musik ohne Kopfhörer. Dass dies gerade junge Leute tun, hat laut Wissenschaftler:innen psychologische Gründe. weiterlesen auf t3n.de",
+          "published": "Tue, 11 Aug 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Peer review is overwhelmed—can it survive in the AI era?",
+          "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+          "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
+          "published": "Mon, 10 Aug 2026 11:00:47 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "How Pinterest Secures AWS Infrastructure at Scale with a Centralized Terraform Pipeline",
+          "link": "https://www.infoq.com/news/2026/08/pinterest-secures-aws-infra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Pinterest has revealed the Resource Provisioner Pipeline (RPP), its own Terraform execution engine. It ensures least-privilege access and needs dual-control reviews. This is important for the company’s AWS infrastructure, as it adds strict guardrails to the GitHub Actions workflows. By Claudio Masolo",
+          "published": "Mon, 10 Aug 2026 10:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Presentation: Leveraging Adversary Emulation for GenAI Red Teaming",
+          "link": "https://www.infoq.com/presentations/emulation-genai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Kennedy Torkura discusses practical GenAI red teaming techniques to safeguard LLMs and knowledge bases against security threats like data poisoning and LLMjacking on AWS. He explains how engineering leaders and architects can bridge traditional cloud security with MITRE ATLAS frameworks to proactively identify vulnerabilities, implement guardrails, and secure production AI applications. By Kennedy Torkura",
+          "published": "Mon, 10 Aug 2026 09:32:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Beyond Consensus: The Fragmentation of AI Policy Across the Linux Ecosystem",
+          "link": "https://www.infoq.com/news/2026/08/linux-ai-policies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The AI policies across the Linux ecosystem are very heterogeneous, ranging from the GCC’s restrictiveness, the Linux kernel’s pragmatism, to the more open disclosure-based utility model of Kubernetes' landscape. From core infrastructure to high-level orchestration, these distinct approaches highlight a shared commitment: ensuring the human maintainer remains the indispensable guardian of the code. By Olimpiu Pop",
+          "published": "Mon, 10 Aug 2026 04:04:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Ohne Kopfhörer in Bus und Bahn: Ist Loudcasting Provokation oder Zugehörigkeit?",
+        "Peer review is overwhelmed—can it survive in the AI era?",
+        "How Pinterest Secures AWS Infrastructure at Scale with a Centralized Terraform Pipeline"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Project Valhalla's First Preview: JEP 401 Redefines == for Java Objects",
+          "link": "https://www.infoq.com/news/2026/08/jep401-value-objects-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "JEP 401, integrated into JDK 28, introduces value objects. These new class instances feature final fields, altered behavior for equality checks, and stricter construction and synchronization rules. It aims to enhance efficiency and reduce memory allocation costs. However, the preview is disabled by default and requires specific configuration at compile and run time. By A N M Bazlur Rahman",
+          "published": "Mon, 10 Aug 2026 14:32:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Java News Roundup: Shenandoah GC, TeamCity CVE, A2A Java SDK, Camel, Gradle, GlassFish, Groovy",
+          "link": "https://www.infoq.com/news/2026/08/java-news-roundup-aug03-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for August 3rd, 2026, features news highlighting: JEP 535, Shenandoah GC: Generational Mode by Default, targeted for JDK 28; point releases of A2A Java SDK, Apache Camel and Gradle; a maintenance release of GlassFish; the fifth milestone release of Groovy 8.0; and a follow-up of the JetBrains TeamCity CVE. By Michael Redlich",
+          "published": "Mon, 10 Aug 2026 12:45:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Mehr als COBOL zu Java: Googles KI-Plan für Mainframes",
+          "link": "https://www.heise.de/news/Google-Cloud-Mit-vier-Bausteinen-zur-Mainframe-Modernisierung-11399562.html",
+          "summary": "Google bietet eine iterative Modernisierung von Mainframe-Anwendungen in die Cloud an, gestützt durch KI für Analyse und Transformation.",
+          "published": "2026-08-05T10:27:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Project Valhalla's First Preview: JEP 401 Redefines == for Java Objects",
+        "Java News Roundup: Shenandoah GC, TeamCity CVE, A2A Java SDK, Camel, Gradle, GlassFish, Groovy",
+        "Mehr als COBOL zu Java: Googles KI-Plan für Mainframes"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Über 400.000 Fälle in zwei Jahren: So senden Unternehmen versehentlich sensible Daten an Dritte",
+          "link": "https://t3n.de/news/unternehmen-senden-sensible-daten-an-dritte-1757255/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Viele Unternehmen versenden versehentlich Mails mit sensiblen Daten an Dritte. Jetzt warnen Cybersecurity-Forscher vor dieser gravierenden Sicherheitslücke. Wie das Mailproblem vermieden werden kann. weiterlesen auf t3n.de",
+          "published": "Mon, 10 Aug 2026 12:00:34 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Als Windows-Bluescreen getarnt: Sicherheitsforscher entdeckt neue Phishing-Methode",
+          "link": "https://t3n.de/news/neue-phishing-methode-gefaelschter-windows-bluescreen-1757258/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine neue Phishing-Methode versucht, Ahnungslose mit gefälschten Windows-Bluescreens dazu zu verleiten, selbst eine Schadsoftware auf ihren Computern auszuführen. Wer besonders gefährdet ist. weiterlesen auf t3n.de",
+          "published": "Mon, 10 Aug 2026 10:30:34 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Eclipse und OWASP wollen Open-Source-Projekte in Sicherheitsfragen fortbilden",
+          "link": "https://www.heise.de/news/Eclipse-und-OWASP-wollen-Open-Source-Projekte-in-Sicherheitsfragen-fortbilden-11394486.html",
+          "summary": "Der Cyber Resilience Act rückt näher und auch Open-Source-Projekte müssen sich darauf einstellen. Eclipse und OWASP bündeln nun ihre Hilfsangebote.",
+          "published": "2026-08-02T14:57:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Über 400.000 Fälle in zwei Jahren: So senden Unternehmen versehentlich sensible Daten an Dritte",
+        "Als Windows-Bluescreen getarnt: Sicherheitsforscher entdeckt neue Phishing-Methode",
+        "Eclipse und OWASP wollen Open-Source-Projekte in Sicherheitsfragen fortbilden"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Neue EU-Verpackungsregeln: Warum manche kleine Händler den Auslandsversand stoppen",
+          "link": "https://t3n.de/news/neue-eu-verpackungsregeln-warum-manche-kleine-haendler-den-auslandsversand-stoppen-1757308/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die neue EU-Verpackungsverordnung soll Verpackungsregeln vereinheitlichen und die Verursacher gezielter mit den Kosten belasten. Für kleinere Onlinehändler könn weiterlesen auf t3n.de",
+          "published": "Tue, 11 Aug 2026 07:30:52 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Einheitliche EU-Regeln: Wie weit ist Deutschland beim digitalen Gewaltschutz?",
+          "link": "https://netzpolitik.org/2026/einheitliche-eu-regeln-wie-weit-ist-deutschland-beim-digitalen-gewaltschutz/",
+          "summary": "Die Pläne der Bundesregierung zum Schutz vor Gewalt: Im Strafrecht klar, der Rest etwas schwammig. – Alle Rechte vorbehalten: IMAGO / photothek Noch zehn Monate Zeit bleiben der Bundesregierung, um Frauen besser vor Gewalt zu schützen. EU-Vorgaben verlangen Mindeststandards, auch im Digitalen. Inzwischen sind neue Tatbestände auf dem Weg, doch in anderen Punkten plant die Koalition bisher wenig.",
+          "published": "Mon, 10 Aug 2026 15:00:06 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "KI und Rechenzentren: Bundesregierung weiß nicht, wieviel Wasser ihre Ausbaupläne schlucken werden",
+          "link": "https://netzpolitik.org/2026/ki-und-rechenzentren-bundesregierung-weiss-nicht-wieviel-wasser-ihre-ausbauplaene-schlucken-werden/",
+          "summary": "Wassermangel: Der Rhein ist für Schiffe aktuell kaum noch befahrbar (Aufnahme vom 6. August bei Bonn-Beuel) – Alle Rechte vorbehalten: IMAGO / Dominik Bund Die Bundesregierung möchte im globalen KI-Wettlauf mithalten und die Kapazitäten von deutschen Rechenzentren mindestens verdoppeln. Welche Folgen das auf den Wasserverbrauch hat, weiß sie offenbar nicht. Ein Dienstleister verweigert die Auskunft sogar – wegen „Sicherheitsrisiken“.",
+          "published": "Mon, 10 Aug 2026 09:59:23 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Bundesregierung nutzt KI als Arbeitswerkzeug ohne Kennzeichnungspflicht",
+          "link": "https://www.heise.de/news/KI-in-der-Bundesregierung-Wenn-ein-Sprachmodell-die-Ministerrede-schreibt-11409212.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Bundesregierung nutzt KI zunehmend als Werkzeug. Während Schulungen für Beamte verpflichtend sind, bleibt die Transparenz bei KI-generierten Reden vage.",
+          "published": "2026-08-10T17:43:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(4 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Neue EU-Verpackungsregeln: Warum manche kleine Händler den Auslandsversand stoppen",
+        "Einheitliche EU-Regeln: Wie weit ist Deutschland beim digitalen Gewaltschutz?",
+        "KI und Rechenzentren: Bundesregierung weiß nicht, wieviel Wasser ihre Ausbaupläne schlucken werden"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop: Linux-Server härten mit Verschlüsselung und Zugriffskontrolle",
+          "link": "https://www.heise.de/news/iX-Workshop-Linux-Server-absichern-effektiv-und-umfassend-11398193.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen – von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
+          "published": "2026-08-10T14:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Wen kann ich noch einplanen? OpenProject zeigt es",
+          "link": "https://www.heise.de/news/Wen-kann-ich-noch-einplanen-OpenProject-zeigt-es-11400546.html",
+          "summary": "OpenProject 17.7.0 führt neue Funktionen für Kapazitäts- und Einsatzplanung sowie agile Sprints ein.",
+          "published": "2026-08-06T08:55:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Plane: Update der Open-Source-Alternative zu Jira",
+          "link": "https://www.heise.de/news/Plane-Update-der-Open-Source-Alternative-zu-Jira-11399132.html",
+          "summary": "Plane 1.4.0 bringt schlanke REST-APIs für Listenansichten und eine neue Übersetzungsarchitektur. Auch Webhooks und die Barrierefreiheit wurden verbessert.",
+          "published": "2026-08-05T06:56:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Neue Malware-Welle: Arch Linux blockiert AUR-Updates",
+          "link": "https://www.heise.de/news/Neue-Malware-Welle-Arch-Linux-blockiert-AUR-Updates-11395880.html",
+          "summary": "Erneut verbreitet sich Malware über Arch User Repositorys. Daher gibt es vorerst überhaupt keine Updates für AUR.",
+          "published": "2026-08-03T19:25:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(4 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: iX-Workshop: Linux-Server härten mit Verschlüsselung und Zugriffskontrolle",
+        "Wen kann ich noch einplanen? OpenProject zeigt es",
+        "Plane: Update der Open-Source-Alternative zu Jira"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "21 Milliarden Kilometer weit weg und seit 1977 unterwegs: Voyager 2 verblüfft Forscher immer noch",
+          "link": "https://t3n.de/news/nasa-voyager-2-21-milliarden-kilometer-seit-1977-forscher-1756431/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Vor rund 37 Jahren hat die Raumsonde Voyager 2 spektakuläre Bilder vom Neptunmond Triton gemacht, die Wissenschaftler:innen bis heute begeistern – und einiges in Frage gestellt haben. weiterlesen auf t3n.de",
+          "published": "Tue, 11 Aug 2026 06:15:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI built a model it doesn’t want most people to use",
+          "link": "https://thenewstack.io/openai-gpt56-cyber-daybreak/",
+          "summary": "OpenAI on Monday released GPT-5.6 Cyber, a model trained for security work that general-purpose models routinely block. It&#8217;s now available The post OpenAI built a model it doesn&#8217;t want most people to use appeared first on The New Stack .",
+          "published": "Mon, 10 Aug 2026 21:15:15 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "CloudFlare Previews Automatic WebMCP Support for Web Pages",
+          "link": "https://www.infoq.com/news/2026/08/cloudflare-webmcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare announced a developer preview that lets any website enable a WebMCP (Web Model Context Protocol) interface with a single dashboard switch. This allows browser-based AI agents to interact with unmodified web pages through structured tools instead of scraping or guessing, keeping human traffic and control on the original site. By Sergio De Simone",
+          "published": "Mon, 10 Aug 2026 20:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Meta’s Muse Glimmer fits on a laptop",
+          "link": "https://thenewstack.io/meta-glimmer-distillation-agents/",
+          "summary": "Meta released Muse Glimmer on Monday, a 30-billion-parameter open-weight model designed to run agentic workflows on local hardware. It&#8217;s available The post Meta&#8217;s Muse Glimmer fits on a laptop appeared first on The New Stack .",
+          "published": "Mon, 10 Aug 2026 17:16:20 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Meta Muse Code vs. Fable 5: Meta Muse is cheaper, but at what cost?",
+          "link": "https://thenewstack.io/meta-muse-claude-code/",
+          "summary": "Meta released Muse Code on August 5, its first AI coding agent, built on the new Muse Spark 1.2 model. The post Meta Muse Code vs. Fable 5: Meta Muse is cheaper, but at what cost? appeared first on The New Stack .",
+          "published": "Mon, 10 Aug 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "21 Milliarden Kilometer weit weg und seit 1977 unterwegs: Voyager 2 verblüfft Forscher immer noch",
+        "OpenAI built a model it doesn’t want most people to use",
+        "CloudFlare Previews Automatic WebMCP Support for Web Pages"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Schadcode-Attacken auf Progress LoadMaster im Gange",
+          "link": "https://www.heise.de/news/Schadcode-Attacken-auf-Progress-LoadMaster-im-Gange-11404612.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Derzeit haben Angreifer Progress LoadMaster auf dem Schirm und attackieren aktiv Systeme. Sicherheitspatches sind verfügbar.",
+          "published": "2026-08-10T12:05:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Schadcode-Attacken auf Progress LoadMaster im Gange"
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "Buildpacks Move the Container Hardening Control Point Away From the Dockerfile",
+          "link": "https://www.infoq.com/news/2026/08/buildpacks-dockerfile-patching/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloud Native Buildpacks, which graduated within the CNCF in July 2026, move base image choice out of per-service Dockerfiles into a single builder owned by platform engineering, enabling fleet-wide patching. BellSoft's hardened Paketo builder is the latest sign that vendors now treat the builder, not the Dockerfile, as the container security control point. By Mark Silvester",
+          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Platform Engineering / IDPs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Buildpacks Move the Container Hardening Control Point Away From the Dockerfile"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
+          "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
+          "summary": "Our discussion takes place live on August 11 at 3 pm ET.",
+          "published": "Mon, 10 Aug 2026 22:23:43 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Has Ford got cheap car fever? A $25K crossover is supposedly on the way.",
+          "link": "https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/",
+          "summary": "Ford dealers were told about the new Escape-sized model; one of them spilled the beans.",
+          "published": "Mon, 10 Aug 2026 17:07:47 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
+          "link": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
+          "summary": "Aptoide has become the first app store distributed inside Google Play under a judge's order.",
+          "published": "Mon, 10 Aug 2026 15:44:45 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Windows 11: Wie die Wetter-App deinen Computer ausbremst",
+          "link": "https://t3n.de/news/windows-11-wetter-app-bremst-computer-aus-1757341/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer die Wetter-App unter Windows 11 nutzt, könnte damit unabsichtlich den eigenen PC langsamer machen. Die Anwendung verbraucht unverhältnismäßig viel Arbeitsspeicher – und das selbst im Ruhezustand. Woran das liegt. weiterlesen auf t3n.de",
+          "published": "Mon, 10 Aug 2026 16:45:32 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Canva Shares S3 Based Architecture for Session Revocation Across Hundreds of Millions of Sessions",
+          "link": "https://www.infoq.com/news/2026/08/canva-session-revocation-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Canva redesigned session revocation infrastructure to support 100M active sessions while reducing database lookups. The architecture uses Amazon S3 for durable revocation records and distributes compact, in-memory indexes to application gateways. Canva said the design improved deployment speed, reduced database infrastructure requirements, and cut the revocation cache memory footprint by 87.5%. By Leela Kumili",
+          "published": "Mon, 10 Aug 2026 14:14:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Ars Live: Ross Scott discusses the Stop Killing Games movement",
+        "Has Ford got cheap car fever? A $25K crossover is supposedly on the way.",
+        "Following Epic loss, Google has started hosting rival app stores in the Play Store"
+      ]
+    }
+  ]
+}
