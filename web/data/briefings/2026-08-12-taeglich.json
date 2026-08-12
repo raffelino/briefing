@@ -1,0 +1,350 @@
+{
+  "date": "2026-08-12",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Databricks acquires Electric to give every AI agent its own Postgres database",
+          "link": "https://thenewstack.io/databricks-electric-wasm-agentic-postgres/",
+          "summary": "Databricks on Tuesday&#160;announced&#160;that it&#8217;s acquiring Electric, the startup behind the WASM-based Postgres project PGlite and the Electric sync engine, as The post Databricks acquires Electric to give every AI agent its own Postgres database appeared first on The New Stack .",
+          "published": "Tue, 11 Aug 2026 16:44:15 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Databricks acquires Electric to give every AI agent its own Postgres database"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
+          "link": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
+          "summary": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits.",
+          "published": "Tue, 11 Aug 2026 20:27:16 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Flugsicherheit in den USA: Warum ausgerechnet Gamer Fluglotsen ersetzen sollen",
+          "link": "https://t3n.de/news/flugsicherheit-in-den-usa-warum-ausgerechnet-gamer-fluglotsen-ersetzen-sollen-1757567/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In Videospielen wie Fortnite sind Konzentration und schnelle Entscheidungen gefragt. Da diese Fähigkeiten auch bei der Sicherung des Flugverkehrs zählen, rekrutiert die US-Regierung jetzt in der Gaming-Szene. weiterlesen auf t3n.de",
+          "published": "Tue, 11 Aug 2026 16:15:23 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Zu abhängig von Google und Meta? So machst du deine Marketing-Infrastruktur krisenfest",
+          "link": "https://t3n.de/news/abhaengig-von-google-und-meta-1732343/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Abhängigkeit von US-amerikanischen Tech-Giganten ist massiv. Cloud-Speicher, Werbe-Technologien, Daten – viele Bereiche sind auch im Marketing betroffen. Wa weiterlesen auf t3n.de",
+          "published": "Tue, 11 Aug 2026 15:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Bit-Rauschen, der Prozessor-Podcast: Speichermedien für Jahrhunderte",
+          "link": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Speichermedien-fuer-Jahrhunderte-11346287.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Datenarchive sollen lange überdauern und Widrigkeiten trotzen. Dafür sind neuartige Speichermedien in der Entwicklung: Folge 2025/16 des Podcasts Bit-Rauschen.",
+          "published": "2026-08-12T06:10:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Developer-Häppchen:  Kotlin-LSP für Cursor und Sneak Peek für Kubernetes",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Kotlin-LSP-fuer-Cursor-und-Sneak-Peak-fuer-Kubernetes-11399144.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Kubernetes, Servo, Symfony Polyfill, Python, Rust, Pandoc, Coreutils, JetBrains und Quasar.",
+          "published": "2026-08-08T07:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
+        "Flugsicherheit in den USA: Warum ausgerechnet Gamer Fluglotsen ersetzen sollen",
+        "Zu abhängig von Google und Meta? So machst du deine Marketing-Infrastruktur krisenfest"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Mehr als COBOL zu Java: Googles KI-Plan für Mainframes",
+          "link": "https://www.heise.de/news/Google-Cloud-Mit-vier-Bausteinen-zur-Mainframe-Modernisierung-11399562.html",
+          "summary": "Google bietet eine iterative Modernisierung von Mainframe-Anwendungen in die Cloud an, gestützt durch KI für Analyse und Transformation.",
+          "published": "2026-08-05T10:27:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Mehr als COBOL zu Java: Googles KI-Plan für Mainframes"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "KI-Modelle vergiften: Warum Data Poisoning eine wachsende Gefahr für die IT-Sicherheit ist",
+          "link": "https://t3n.de/news/ki-modelle-vergiften-data-poisoning-it-sicherheit-1756214/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kreative nutzen Data Poisoning, um ihre eigenen Werke vor KI-Crawlern zu schützen. Doch die Technologie der vergifteten Daten hat auch eine Schattenseite. Und d weiterlesen auf t3n.de",
+          "published": "Wed, 12 Aug 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Patch seit Mai verfügbar: Ransomware attackiert Microsoft Sharepoint",
+          "link": "https://www.heise.de/news/Ransomware-attackiert-ungepatchte-Sharepoint-Instanzen-11410721.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine schwere Sicherheitslücke in Microsoft SharePoint wird nun von Ransomware ausgenutzt. Ein Patch steht bereit, ungeschützte Systeme auch.",
+          "published": "2026-08-11T21:39:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Brandenburg: Cyberangriff legt IT-System der Gedenkstätten lahm",
+          "link": "https://www.heise.de/news/Brandenburg-Cyberangriff-legt-IT-System-der-Gedenkstaetten-lahm-11410695.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Stiftung Brandenburgische Gedenkstätten wurde Opfer eines Ransomware-Angriffs. IT-Systeme sind derzeit außer Betrieb, ein Datenabfluss wird vermutet.",
+          "published": "2026-08-11T18:43:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "IBM Db2: Sicherheitslücke macht Passwörter im Klartext einsehbar",
+          "link": "https://www.heise.de/news/IBM-Db2-Sicherheitsluecke-macht-Passwoerter-im-Klartext-einsehbar-11409950.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "IBMs Datenbanksystem Db2 ist über mehrere Schwachstellen angreifbar. Davon sind Client- und Serverversionen betroffen.",
+          "published": "2026-08-11T11:52:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "OpenAI führt GPT-5.6-Cyber ein und weitet Cybersecurity-Programm aus",
+          "link": "https://www.heise.de/news/OpenAI-fuehrt-GPT-5-6-Cyber-ein-und-weitet-Cybersecurity-Programm-aus-11409878.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mit GPT-5.6-Cyber will OpenAI anspruchsvollere Sicherheitsaufgaben abdecken und seine Cyber-KI zugleich breiter in Unternehmen bringen.",
+          "published": "2026-08-11T11:48:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KI-Modelle vergiften: Warum Data Poisoning eine wachsende Gefahr für die IT-Sicherheit ist",
+        "Patch seit Mai verfügbar: Ransomware attackiert Microsoft Sharepoint",
+        "Brandenburg: Cyberangriff legt IT-System der Gedenkstätten lahm"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Abseits der Schlagzeilen: Warum Deutschlands wichtigste KI-Projekte in Fabriken stattfinden",
+          "link": "https://t3n.de/news/deutschland-industrial-ai-1750801/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Deutschland ist nicht für seine KI-Modelle und -Infrastruktur bekannt. Im industriellen Mittelstand steht die Bundesrepublik aber gut da – noch. Kann KI „Made i weiterlesen auf t3n.de",
+          "published": "Tue, 11 Aug 2026 18:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Gutachten des Bundestages: Haber-Verfahren verstößt gegen Grundrechte",
+          "link": "https://netzpolitik.org/2026/gutachten-des-bundestages-haber-verfahren-verstoesst-gegen-grundrechte/",
+          "summary": "Buchladen Zur schwankenden Weltkugel: Einer der Läden, die von Kulturstaatsminister Wolfram Weimer vom Buchhandlungspreis ausgeschlossen wurden. – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Mehr als 1200 Organisationen und Projekte hat die Bundesregierung in den vergangenen Jahren heimlich vom Verfassungsschutz durchleuchten lassen. Ein Gutachten des Bundestages kommt nun zu dem Schluss: Das Vorgehen ist mit dem Grundgesetz nicht vereinbar.",
+          "published": "Tue, 11 Aug 2026 15:36:23 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Abseits der Schlagzeilen: Warum Deutschlands wichtigste KI-Projekte in Fabriken stattfinden",
+        "Gutachten des Bundestages: Haber-Verfahren verstößt gegen Grundrechte"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "OpenAI’s ChatGPT/Codex desktop app is now on Linux",
+          "link": "https://thenewstack.io/openais-chatgpt-desktop-linux/",
+          "summary": "On Tuesday, OpenAI launched its ChatGPT desktop for Linux. Now in preview, the app, which combines ChatGPT, ChatGPT Work, and The post OpenAI&#8217;s ChatGPT/Codex desktop app is now on Linux appeared first on The New Stack .",
+          "published": "Tue, 11 Aug 2026 17:53:59 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Digitale Barrierefreiheit: Warum es um viel mehr als nur das Vermeiden von Bußgeldern geht",
+          "link": "https://t3n.de/news/digitale-barrierefreiheit-marketing-1753917/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer Websites und andere digitale Touchpoints barrierefrei gestaltet, erfüllt nicht nur gesetzliche Vorgaben, sondern verbessert gleichzeitig Reichweite, Sichtba weiterlesen auf t3n.de",
+          "published": "Tue, 11 Aug 2026 16:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Heimliche Filmerei: Petition gegen Metas Smart Glasses",
+          "link": "https://www.heise.de/news/Kamerabrillen-Digitalrechtler-starten-Petition-gegen-Metas-Smart-Glasses-11410637.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das Zentrum für Digitalrechte und Demokratie verlangt ein Eingreifen der Bundesnetzagentur gegen heimliche Videoaufnahmen im Alltag. Es drängt auf ein Verbot.",
+          "published": "2026-08-11T18:07:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Software Testing: Was Bakterien besser machen als dein Scrum-Team",
+          "link": "https://www.heise.de/blog/Software-Testing-Was-Bakterien-besser-machen-als-dein-Scrum-Team-11384535.html",
+          "summary": "Die Softwareentwicklung kann sich von Strategien aus der Natur einiges abschauen, wie Anna Melbinger im Gespräch erläutert.",
+          "published": "2026-08-11T06:27:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Wen kann ich noch einplanen? OpenProject zeigt es",
+          "link": "https://www.heise.de/news/Wen-kann-ich-noch-einplanen-OpenProject-zeigt-es-11400546.html",
+          "summary": "OpenProject 17.7.0 führt neue Funktionen für Kapazitäts- und Einsatzplanung sowie agile Sprints ein.",
+          "published": "2026-08-06T08:55:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "OpenAI’s ChatGPT/Codex desktop app is now on Linux",
+        "Digitale Barrierefreiheit: Warum es um viel mehr als nur das Vermeiden von Bußgeldern geht",
+        "Heimliche Filmerei: Petition gegen Metas Smart Glasses"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "KI-Sprachmodelle für die Verwaltung: „Das sind Annahmen, die sich schwer belegen lassen“",
+          "link": "https://netzpolitik.org/2026/ki-sprachmodelle-fuer-die-verwaltung-das-sind-annahmen-die-sich-schwer-belegen-lassen/",
+          "summary": "Staunen über neue Technologien im Büro (Symbolbild) – CC-BY-SA 4.0 : RCA 501 computer (1959): Wikimedia Commons / Bubba73; Bearbeitung: netzpolitik.org Bundesdigitalminister Karsten Wildberger ist überzeugt, dass die hauseigene KI-Software „Spark Workflow“ Verwaltungsprozesse deutlich beschleunigen wird. Doch noch seien etliche Fragen offen, die auch der Minister nicht beantworte, sagt Digitalexperte Stefan Kaufmann. Er plädiert für einen alternativen Ansatz, um die Verwaltung zu modernisieren.",
+          "published": "Wed, 12 Aug 2026 06:05:46 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Trotz Fachkräftemangel: Warum die Nachfrage nach IT-Spezialisten plötzlich einbricht",
+          "link": "https://t3n.de/news/it-experten-arbeitsmarkt-1756380/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im abgelaufenen zweiten Quartal 2026 ist die Nachfrage nach IT-Fachkräften spürbar gesunken. Einen besonders starken Rückgang gab es laut Hays-Fachkräfte-Index bei IT-Security-Spezialisten. Ein anderer Bereich profitiert derweil von KI-Boom. weiterlesen auf t3n.de",
+          "published": "Wed, 12 Aug 2026 06:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Your AI agent remembers everything. Here’s what happens when its owner changes.",
+          "link": "https://thenewstack.io/manus-meta-data-deletion/",
+          "summary": "Manus is becoming an independent company again after Chinese regulators ordered Meta to unwind its roughly $2 billion acquisition of The post Your AI agent remembers everything. Here&#8217;s what happens when its owner changes. appeared first on The New Stack .",
+          "published": "Tue, 11 Aug 2026 21:46:49 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Why CPUs still matter in the age of AI agents",
+          "link": "https://thenewstack.io/cpus-matter-ai-agents/",
+          "summary": "When the conversation turns to AI infrastructure, it almost always lands on GPUs and TPUs. The New Stack sat down The post Why CPUs still matter in the age of AI agents appeared first on The New Stack .",
+          "published": "Tue, 11 Aug 2026 20:44:26 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+          "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+          "summary": "But will Gemini's surge survive slowing model releases?",
+          "published": "Tue, 11 Aug 2026 19:48:12 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KI-Sprachmodelle für die Verwaltung: „Das sind Annahmen, die sich schwer belegen lassen“",
+        "Trotz Fachkräftemangel: Warum die Nachfrage nach IT-Spezialisten plötzlich einbricht",
+        "Your AI agent remembers everything. Here’s what happens when its owner changes."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat",
+          "link": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
+          "summary": "Trump has resisted urge to fire FCC Democrat despite recent Supreme Court win.",
+          "published": "Tue, 11 Aug 2026 15:28:43 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "IBM and Red Hat Expand Lightwell to Strengthen Trust and Governance for AI-Era Open Source",
+          "link": "https://www.infoq.com/news/2026/08/lightwell-ai-open-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "IBM and Red Hat have announced an expansion of Lightwell, introducing new commercial offerings designed to help organizations establish trusted, verifiable software supply chains for the age of AI-assisted software development. By Craig Risi",
+          "published": "Tue, 11 Aug 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Time Magazine zeigt KI-Bots separate Markdown-Seiten mit eingebetteten Anzeigen",
+          "link": "https://www.heise.de/news/Time-Magazine-schaltet-Werbung-gezielt-fuer-KI-Crawler-11409918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das Time Magazine betreibt eine zweite Version seiner Website nur für KI-Crawler – inklusive Werbung, die nur sie sehen. Die sollen in Chatbot-Antworten landen.",
+          "published": "2026-08-12T07:34:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat",
+        "IBM and Red Hat Expand Lightwell to Strengthen Trust and Governance for AI-Era Open Source",
+        "Time Magazine zeigt KI-Bots separate Markdown-Seiten mit eingebetteten Anzeigen"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Kartendienst: Google Maps vermittelt Essen und Hotels per KI",
+          "link": "https://www.golem.de/news/kartendienst-google-maps-vermittelt-essen-und-hotels-per-ki-2608-211792.html",
+          "summary": "Google baut Ask Maps aus. Die KI hilft beim Ordern von Essen und verlinkt auf Angebote für Hotels sowie Events. ( Google Maps , KI )",
+          "published": "2026-08-11T09:35:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Kartendienst: Google Maps vermittelt Essen und Hotels per KI"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Angebot an LVMH: Gefährliches Überwachungs-Werkzeug breitet sich aus",
+          "link": "https://netzpolitik.org/2026/angebot-an-lvmh-gefaehrliches-ueberwachungs-werkzeug-breitet-sich-aus/",
+          "summary": "Unternehmen könnten mit Standortdaten Einbrecher*innen suchen (Symbolbild) – Alle Rechte vorbehalten: IMAGO/imagebroker; Bearbeitung: netzpolitik.org Ein Werkzeug namens Webloc kann Menschen mit Daten aus dem Werbe-Tracking teils metergenau orten und verfolgen. Bislang war nur bekannt, dass staatliche Stellen das nutzen. Jetzt zeigen Recherchen: Die Technologie wird offenbar auch Unternehmen angeboten.",
+          "published": "Tue, 11 Aug 2026 14:27:10 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "New surveillance tech links your phone to your license plate",
+          "link": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
+          "summary": "Phone and Bluetooth signals could turn roadside cameras into far richer tracking tools.",
+          "published": "Tue, 11 Aug 2026 13:15:24 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "„Fünf Tage so gut wie früher einer“: Wie der DWD mit KI, Satelliten und Flugzeugen bessere Wetterprognosen erstellt",
+          "link": "https://t3n.de/news/fuenf-tage-so-gut-wie-frueher-einer-wie-der-dwd-mit-ki-satelliten-und-flugzeugen-bessere-wetterprognosen-erstellt-1757329/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Seit 65 Jahren schon macht der Deutsche Wetterdienst Wettervorhersagen. Vieles lässt sich mittlerweile gut berechnen, doch vor allem ein atmosphärisches Phänome weiterlesen auf t3n.de",
+          "published": "Tue, 11 Aug 2026 15:00:28 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Die dunkle Seite der Weltraumspiegel: Wie Reflect Orbital die Gesundheit auf der Erde gefährdet",
+          "link": "https://t3n.de/news/reflect-orbital-weltraumspiegel-augen-gefahr-1757426/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein US-Startup möchte die Nacht mit riesigen Spiegeln im Erdorbit zum Tag machen. Die Pläne klingen nach innovativer Energiegewinnung, bergen jedoch erhebliche und bislang kaum regulierte Risiken für Mensch und Natur. weiterlesen auf t3n.de",
+          "published": "Tue, 11 Aug 2026 13:30:06 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Youtube hebt Bedingungen an: Was Creator bald erreichen müssen, um Geld auf der Plattform zu verdienen",
+          "link": "https://t3n.de/news/youtube-partner-programm-bedingungen-creator-geld-verdienen-1757507/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Youtube ändert die Voraussetzungen für Einnahmen mit Videocontent. Dafür können Creator künftig am &#8222;Premium Lite&#8220;-Abo mitverdienen. weiterlesen auf t3n.de",
+          "published": "Tue, 11 Aug 2026 11:15:56 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Angebot an LVMH: Gefährliches Überwachungs-Werkzeug breitet sich aus",
+        "New surveillance tech links your phone to your license plate",
+        "„Fünf Tage so gut wie früher einer“: Wie der DWD mit KI, Satelliten und Flugzeugen bessere Wetterprognosen erstellt"
+      ]
+    }
+  ]
+}
