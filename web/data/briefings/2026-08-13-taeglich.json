@@ -1,0 +1,368 @@
+{
+  "date": "2026-08-13",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Spotify Builds External Index to Enable Low Latency Point Queries on Its Data Lake",
+          "link": "https://www.infoq.com/news/2026/08/spotify-data-lake-point-queries/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Spotify introduced external indexing architecture for Apache Parquet data lakes that enables low-latency point queries without replicating datasets into operational databases. The approach maps lookup keys to Parquet files and row locations, allowing targeted reads from cloud object storage while supporting analytics, machine learning, AI applications, and online services from the same datasets. By Leela Kumili",
+          "published": "Wed, 12 Aug 2026 14:26:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Spotify Builds External Index to Enable Low Latency Point Queries on Its Data Lake"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
+          "link": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
+          "summary": "Trump admin claims New York suing Kalshi created \"market emergency.\"",
+          "published": "Wed, 12 Aug 2026 16:33:43 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Windows 11: So starten deine Apps jetzt schneller",
+          "link": "https://t3n.de/news/windows-11-apps-schneller-starten-1757821/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Microsoft verpasst Windows 11 einen Geschwindigkeits-Boots. Ein neues Feature sorgt dafür, dass künftig zahlreiche Apps schneller starten. Wie das geht und wann du von der Neuerung profitierst. weiterlesen auf t3n.de",
+          "published": "Wed, 12 Aug 2026 16:30:46 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution",
+          "link": "https://www.infoq.com/news/2026/08/netflix-kueue-kubernetes-batch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Netflix migrated most of its batch workloads onto Kueue, an open-source cloud-native batch job execution system that has outgrown its homegrown solution over the years. The company mapped the capabilities previously created in-house to Kueue’s functionality and also benefited from new features that would have been costly to incorporate into its homegrown solution. By Rafał Gancarz",
+          "published": "Wed, 12 Aug 2026 14:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "„Wie eine Horde Praktikanten“: So verändert sich die Arbeit, wenn wir alle Chefs von KI-Agenten werden",
+          "link": "https://t3n.de/news/wie-eine-horde-praktikanten-so-veraendert-sich-die-arbeit-wenn-wir-alle-chefs-von-ki-agenten-werden-2-1756916/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Künstliche Intelligenz kann mehr als automatisieren: Sie erweitert menschliche Fähigkeiten und wird zum aktiven Teammitglied. Wie KI-Agenten und Vibe-Working de weiterlesen auf t3n.de",
+          "published": "Wed, 12 Aug 2026 13:00:43 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise+ | OPNsense als Firewall: Universelle Open-Source-Alternative ausprobiert",
+          "link": "https://www.heise.de/ratgeber/OPNsense-als-Firewall-Universelle-Open-Source-Alternative-ausprobiert-11370418.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Firewalls sind oft überladen und zwingen Kunden in die Abhängigkeit der Hersteller. OPNsense bietet als vollwertige Unternehmensfirewall eine Alternative.",
+          "published": "2026-08-12T15:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "US tries to override New York gambling laws, orders Kalshi to keep operating",
+        "Windows 11: So starten deine Apps jetzt schneller",
+        "Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Mehr als COBOL zu Java: Googles KI-Plan für Mainframes",
+          "link": "https://www.heise.de/news/Google-Cloud-Mit-vier-Bausteinen-zur-Mainframe-Modernisierung-11399562.html",
+          "summary": "Google bietet eine iterative Modernisierung von Mainframe-Anwendungen in die Cloud an, gestützt durch KI für Analyse und Transformation.",
+          "published": "2026-08-05T10:27:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Mehr als COBOL zu Java: Googles KI-Plan für Mainframes"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Phishing-Wellen: Cyberangriffe auf IT-Dienstleister für Hotels",
+          "link": "https://www.heise.de/news/Phishing-Wellen-Cyberangriffe-auf-IT-Dienstleister-fuer-Hotels-11412013.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Nach einem Sicherheitsvorfall bei einem österreichischen IT-Dienstleister sehen sich Hotels mit gezielten Phishing-Angriffen auf ihre Gäste konfrontiert.",
+          "published": "2026-08-13T06:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Architektur-Schwachstelle bei GPT-5, Claude und Gemini aufgedeckt",
+          "link": "https://www.heise.de/hintergrund/Verschluesselter-KI-Denkprozess-gehackt-Schwache-Modelle-verraten-Geheimnisse-11412087.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Über eine Sicherheitslücke lassen sich Abwägungsprotokolle von KI-Top-Systemen wie GPT-5 im Klartext auslesen – mithilfe kleinerer Modelle desselben Anbieters.",
+          "published": "2026-08-12T19:08:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "IT-Sicherheit: Studie zeigt hohe Klickraten durch KI-Spear-Phishing",
+          "link": "https://www.golem.de/news/it-sicherheit-studie-zeigt-hohe-klickraten-durch-ki-spear-phishing-2608-211839.html",
+          "summary": "Ein Experiment mit 7.700 Personen belegt: KI-gestützte Personalisierung verdreifacht die Erfolgsquote von Phishing-E-Mails. ( Phishing , Studien )",
+          "published": "2026-08-12T10:10:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Phishing-Wellen: Cyberangriffe auf IT-Dienstleister für Hotels",
+        "Architektur-Schwachstelle bei GPT-5, Claude und Gemini aufgedeckt",
+        "IT-Sicherheit: Studie zeigt hohe Klickraten durch KI-Spear-Phishing"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Geheimdienstreform: Geschichtsvergessen und gefährlich",
+          "link": "https://netzpolitik.org/2026/geheimdienstreform-geschichtsvergessen-und-gefaehrlich/",
+          "summary": "Alexander Dobrindt (CSU) und Nina Warken (CDU) auf der heutigen Pressekonferenz. – Alle Rechte vorbehalten: IMAGO / Political-Moments Die Bundesregierung strukturiert die Arbeit des Verfassungschutzes und des BND grundlegend neu. Ihren heute beschlossenen Gesetzentwurf sieht sie als „absoluten Meilenstein der deutschen Sicherheitsarchitektur“. Tatsächlich ist er geschichtsvergessen und eine Bedrohung für die Grundrechte aller. Ein Kommentar.",
+          "published": "Wed, 12 Aug 2026 13:23:29 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Article: InfoQ Cloud and DevOps Trends Report - 2026",
+          "link": "https://www.infoq.com/articles/cloud-devops-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "InfoQ editorial staff and friends of InfoQ are discussing the current trends in the domain of Cloud and DevOps as part of the process of creating our annual 2026 trends report. By Steef-Jan Wiggers, Matt Saunders, Shweta Vohra, Daniel Bryant, Mark Silvester",
+          "published": "Wed, 12 Aug 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Podcast: Cloud and DevOps InfoQ Trends Report 2026: AI, Resilience, Platforms, FinOps, and Sovereignty",
+          "link": "https://www.infoq.com/podcasts/cloud-devops-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In this episode of the podcast, members of the InfoQ editorial staff and friends of InfoQ will discuss current trends in the cloud and DevOps domains as part of our annual trends report. These reports provide InfoQ readers with a high-level overview of key topics to watch. This podcast offers a chance to hear our raw conversation and the stories shared by our expert practitioners. By Daniel Bryant, Matt Saunders, Shweta Vohra, Steef-Jan Wiggers, Mark Silvester",
+          "published": "Wed, 12 Aug 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Pixel Watch 5 als Fitnesscoach und Lebensretter",
+          "link": "https://www.heise.de/news/Pixel-Watch-5-als-Fitnesscoach-und-Lebensretter-11411597.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die fünfte Generation der Pixel Watch bietet umfangreiches Gesundheits- sowie Fitnesstracking und wählt in Notfällen die 112.",
+          "published": "2026-08-12T16:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(4 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Geheimdienstreform: Geschichtsvergessen und gefährlich",
+        "Article: InfoQ Cloud and DevOps Trends Report - 2026",
+        "Podcast: Cloud and DevOps InfoQ Trends Report 2026: AI, Resilience, Platforms, FinOps, and Sovereignty"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Direkter Draht zum Chef: Wie OpenAI interne Bürokratie bekämpft",
+          "link": "https://t3n.de/news/openai-friction-email-buerokratie-1757818/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In stark wachsenden Organisationen schleichen sich schnell ineffiziente Abläufe ein, die den Alltag belasten. OpenAI setzt nun auf einen direkten Kanal zur Chefetage, um genau das zu verhindern. weiterlesen auf t3n.de",
+          "published": "Wed, 12 Aug 2026 16:00:57 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "ChatGPT: OpenAI bringt Desktop-App für Linux",
+          "link": "https://www.heise.de/news/ChatGPT-OpenAI-bringt-Desktop-App-fuer-Linux-11411529.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mit der Linux-Preview schließt OpenAI die letzte große Desktop-Lücke und bringt ChatGPT, ChatGPT Work und Codex erstmals gemeinsam auf Linux.",
+          "published": "2026-08-12T13:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Software Testing: Was Bakterien besser machen als dein Scrum-Team",
+          "link": "https://www.heise.de/blog/Software-Testing-Was-Bakterien-besser-machen-als-dein-Scrum-Team-11384535.html",
+          "summary": "Die Softwareentwicklung kann sich von Strategien aus der Natur einiges abschauen, wie Anna Melbinger im Gespräch erläutert.",
+          "published": "2026-08-11T06:27:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Wen kann ich noch einplanen? OpenProject zeigt es",
+          "link": "https://www.heise.de/news/Wen-kann-ich-noch-einplanen-OpenProject-zeigt-es-11400546.html",
+          "summary": "OpenProject 17.7.0 führt neue Funktionen für Kapazitäts- und Einsatzplanung sowie agile Sprints ein.",
+          "published": "2026-08-06T08:55:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Plane: Update der Open-Source-Alternative zu Jira",
+          "link": "https://www.heise.de/news/Plane-Update-der-Open-Source-Alternative-zu-Jira-11399132.html",
+          "summary": "Plane 1.4.0 bringt schlanke REST-APIs für Listenansichten und eine neue Übersetzungsarchitektur. Auch Webhooks und die Barrierefreiheit wurden verbessert.",
+          "published": "2026-08-05T06:56:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Direkter Draht zum Chef: Wie OpenAI interne Bürokratie bekämpft",
+        "ChatGPT: OpenAI bringt Desktop-App für Linux",
+        "Software Testing: Was Bakterien besser machen als dein Scrum-Team"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+          "link": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
+          "summary": "Boy's unusual symptoms could help identify the next case sooner.",
+          "published": "Wed, 12 Aug 2026 22:31:19 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "“Issue tracking is dead”; How the pull request became the last chokepoint in the SDLC bottleneck",
+          "link": "https://thenewstack.io/coderabbit-agentic-change-management-review/",
+          "summary": "AI code review specialist CodeRabbit announced its Agentic Change Management control layer on Wednesday. The service is intended to help The post &#8220;Issue tracking is dead&#8221;; How the pull request became the last chokepoint in the SDLC bottleneck appeared first on The New Stack .",
+          "published": "Wed, 12 Aug 2026 22:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Anthropic’s Chrome extension is now a Cowork session",
+          "link": "https://thenewstack.io/claude-chrome-cowork-sessions/",
+          "summary": "Anthropic announced a major update to its Chrome extension on Wednesday that turns Claude in Chrome from a useful but The post Anthropic&#8217;s Chrome extension is now a Cowork session appeared first on The New Stack .",
+          "published": "Wed, 12 Aug 2026 21:39:38 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Code that passes every test can still break the next AI agent that touches it",
+          "link": "https://thenewstack.io/go-language-ai-agents/",
+          "summary": "Originally designed to make software predictable for humans, Google Go is now positioning itself as a language tailored for machine The post Code that passes every test can still break the next AI agent that touches it appeared first on The New Stack .",
+          "published": "Wed, 12 Aug 2026 17:00:12 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Anthropic gave agents the ability to dream. Then developers woke up.",
+          "link": "https://thenewstack.io/anthropic-agent-memory-dreaming/",
+          "summary": "During AI DevCon in London this summer, Lamis Mukta, member of technical staff at Anthropic, hosted a stage presentation session The post Anthropic gave agents the ability to dream. Then developers woke up. appeared first on The New Stack .",
+          "published": "Wed, 12 Aug 2026 16:51:19 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+        "“Issue tracking is dead”; How the pull request became the last chokepoint in the SDLC bottleneck",
+        "Anthropic’s Chrome extension is now a Cowork session"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "The web’s newest weapon against AI scrapers is a font",
+          "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+          "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
+          "published": "Wed, 12 Aug 2026 22:02:25 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Terabytes of credentials leaked in massive supply-chain attack",
+          "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+          "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+          "published": "Wed, 12 Aug 2026 21:43:21 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Geheimdienst-Reform: Mehr Befugnisse für BND und Verfassungsschutz",
+          "link": "https://www.heise.de/news/Geheimdienst-Reform-Mehr-Befugnisse-fuer-BND-und-Verfassungsschutz-11412017.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "BND und Verfassungsschutz sollen künftig mehr Befugnisse erhalten, um aktiv Gefahren abzuwehren. Es ist ein Bruch mit Grundsatzprinzipien.",
+          "published": "2026-08-12T18:23:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "The web’s newest weapon against AI scrapers is a font",
+        "Terabytes of credentials leaked in massive supply-chain attack",
+        "Geheimdienst-Reform: Mehr Befugnisse für BND und Verfassungsschutz"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Kein Klick nötig: Schadcode-Lücke gefährdet unzählige Zoom-Nutzer",
+          "link": "https://www.golem.de/news/kein-klick-noetig-luecke-ermoeglicht-heimliche-schadcode-attacken-ueber-zoom-meetings-2608-211845.html",
+          "summary": "Eine Sicherheitslücke in Zoom lässt Angreifer anderen Meeting-Teilnehmern unbemerkt Schadcode unterschieben. Nutzer sollten zügig updaten. ( Sicherheitslücke , Videotelefonie )",
+          "published": "2026-08-12T11:49:06+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Kein Klick nötig: Schadcode-Lücke gefährdet unzählige Zoom-Nutzer"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Why space is actually a terrible place to cool a data center",
+          "link": "https://thenewstack.io/spacex-and-nvidias-orbital-ai-datacenter-fantasy/",
+          "summary": "AI data centers in space sound great, but practically speaking, they may be next to impossible. For tech bros, it The post Why space is actually a terrible place to cool a data center appeared first on The New Stack .",
+          "published": "Wed, 12 Aug 2026 21:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Meta stopped worrying about distillation and just shipped the pipeline",
+          "link": "https://thenewstack.io/meta-glimmer-distillation-enterprise/",
+          "summary": "Meta released Muse Glimmer on Monday, a 30-billion-parameter open-weight model distilled from Muse Spark and licensed under Apache 2.0. The The post Meta stopped worrying about distillation and just shipped the pipeline appeared first on The New Stack .",
+          "published": "Wed, 12 Aug 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Wissenschaft am Ende? Ex-Google-Chef Eric Schmidt erklärt, wie Forscher mit KI wirklich weiterkommen",
+          "link": "https://t3n.de/news/wissenschaft-am-ende-ex-google-chef-eric-schmidt-erklaert-wie-forscher-mit-ki-wirklich-weiterkommen-1757410/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Tool Alphafold hat vorgemacht, wie KI die Forschung zu neuen Ufern bringen kann. Dieser Durchbruch fühlt sich wie ein Ende für wissenschaftliche Durchbrüche weiterlesen auf t3n.de",
+          "published": "Wed, 12 Aug 2026 14:30:55 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mit nur einer Zeile: Dieses KI-Tool erschafft per Prompt komplette 3D-Welten",
+          "link": "https://t3n.de/news/ki-tool-3d-welten-einzeiliger-prompt-1757702/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein neues KI-Tool namens &#8222;Worldclaw&#8220; ist in der Lage, ganze 3D-Welten aus kurzen Prompts zu erstellen. Dabei kommen mehrere Techniken zum Einsatz, damit die Welten nicht nur wild aus Elementen zusammengeworfen werden. weiterlesen auf t3n.de",
+          "published": "Wed, 12 Aug 2026 13:30:40 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Whatsapp-Gruppen: Diese Funktion soll neuen Mitgliedern den Einstieg erleichtern",
+          "link": "https://t3n.de/news/whatsapp-gruppen-diese-neue-funktion-soll-neuen-mitgliedern-den-einstieg-erleichtern-1757713/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Gruppen sind praktisch, um auf Whatsapp mit mehreren Personen gleichzeitig in Kontakt zu bleiben. Bisher war es für neue Mitglieder nicht immer leicht, sich auf Anhieb zurechtzufinden. Das soll sich bald ändern. weiterlesen auf t3n.de",
+          "published": "Wed, 12 Aug 2026 12:30:43 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Why space is actually a terrible place to cool a data center",
+        "Meta stopped worrying about distillation and just shipped the pipeline",
+        "Wissenschaft am Ende? Ex-Google-Chef Eric Schmidt erklärt, wie Forscher mit KI wirklich weiterkommen"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Kosteneffizienz unter Druck: Apple passt Lagerhaltung an",
+          "link": "https://www.heise.de/news/Apple-aendert-Lagerstrategie-OLED-Displays-werden-laenger-vorgehalten-11411977.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Um sich gegen steigende Rohstoffpreise abzusichern, soll Apple seine Lagerhaltung für OLED-Displays verlängert haben. Analysten erwarten Preiserhöhungen.",
+          "published": "2026-08-12T18:36:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Kosteneffizienz unter Druck: Apple passt Lagerhaltung an"
+      ]
+    }
+  ]
+}
