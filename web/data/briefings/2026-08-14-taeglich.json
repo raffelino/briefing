@@ -1,0 +1,332 @@
+{
+  "date": "2026-08-14",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+          "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+          "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+          "published": "Thu, 13 Aug 2026 17:00:13 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "SpaceXAI stellt Grok 4.6 vor: Wie schneidet das neue KI-Modell im Vergleich zur Konkurrenz ab?",
+          "link": "https://t3n.de/news/spacexai-stellt-grok-4-6-vor-wie-schneidet-das-neue-ki-modell-im-vergleich-zur-konkurrenz-ab-1757905/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "SpaceXAI legt nach: Nur einen Tag nach dem Grok Bot kommt auch ein neues KI-Modell auf den Markt, das mit seinen agentischen Fähigkeiten herausstechen soll – und das zu deutlich niedrigeren Kosten. weiterlesen auf t3n.de",
+          "published": "Thu, 13 Aug 2026 12:30:54 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": ".NET 11.0 Preview 7 bringt viele Neuigkeiten und Breaking Changes",
+          "link": "https://www.heise.de/news/Nochmals-viele-Neuerungen-und-zahlreiche-Breaking-Changes-in-NET-11-0-Preview-7-11412597.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die siebte Preview bringt abermals eine Spracherweiterung für C#, verbesserte Komprimierungs-APIs und neue Features für Blazor.",
+          "published": "2026-08-13T16:34:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": ".NET 11.0 Preview 7 bringt viele Neuigkeiten und Breaking Changes",
+          "link": "https://www.heise.de/news/Nochmals-viele-Neuerungen-und-zahlreiche-Breaking-Changes-in-NET-11-0-Preview-7-11412597.html",
+          "summary": "Die siebte Preview bringt abermals eine Spracherweiterung für C#, verbesserte Komprimierungs-APIs und neue Features für Blazor.",
+          "published": "2026-08-13T14:34:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Developer-Häppchen:  Kotlin-LSP für Cursor und Sneak Peek für Kubernetes",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Kotlin-LSP-fuer-Cursor-und-Sneak-Peak-fuer-Kubernetes-11399144.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Kubernetes, Servo, Symfony Polyfill, Python, Rust, Pandoc, Coreutils, JetBrains und Quasar.",
+          "published": "2026-08-08T07:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Google announces Gemini 3.7 Flash just three weeks after previous release",
+        "SpaceXAI stellt Grok 4.6 vor: Wie schneidet das neue KI-Modell im Vergleich zur Konkurrenz ab?",
+        ".NET 11.0 Preview 7 bringt viele Neuigkeiten und Breaking Changes"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Astro 7: Rust Compiler, Rust Markdown Pipeline and Vite 8 for Builds Up to 61% Faster",
+          "link": "https://www.infoq.com/news/2026/08/astro-7-release-speed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Astro 7 focuses on build performance, utilizing native tooling and a rewritten compiler in Rust. The new version includes faster Markdown processing and stricter HTML rules. Recent updates introduced advanced routing and incremental builds, while issues around legacy file compatibility and dependency counts were raised in feedback. Astro targets content-driven sites with minimal JavaScript. By Daniel Curtis",
+          "published": "Thu, 13 Aug 2026 06:16:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Astro 7: Rust Compiler, Rust Markdown Pipeline and Vite 8 for Builds Up to 61% Faster"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "2-Faktor-Authentifizierung: Darum warnt Microsoft jetzt vor dem Code via SMS",
+          "link": "https://t3n.de/news/2-faktor-authentifizierung-microsoft-warnt-vor-sms-1757900/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Microsoft warnt eindringlich vor der Zwei-Faktor-Authentifizierung mit SMS. Dahinter steckt die Sorge vor KI-gestütztem Phishing. Was sich für Microsoft-Nutzer:innen schon bald deshalb ändert. weiterlesen auf t3n.de",
+          "published": "Thu, 13 Aug 2026 15:10:02 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Ivanti EPM: Update stopft drei hochriskante Sicherheitslecks",
+          "link": "https://www.heise.de/news/Ivanti-EPM-Update-stopft-drei-hochriskante-Sicherheitslecks-11412988.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Im Endpoint Manager von Ivanti können Angreifer an drei Schwachstellen ansetzen und dabei etwa Zugangsdaten abgreifen.",
+          "published": "2026-08-13T13:37:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Sicherheitslücken: Zwei Fehler hebeln TPM-Schutz aus",
+          "link": "https://www.golem.de/news/sicherheitsluecken-zwei-fehler-hebeln-tpm-schutz-aus-2608-211899.html",
+          "summary": "Eine weitverbreitete TPM-2.0-Implementierung hat Schwachstellen. Angreifer könnten Secure Boot aushebeln und Man-in-the-middle-Angriffe ausführen. ( Sicherheitslücke , Prozessor )",
+          "published": "2026-08-13T13:17:11+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Nach Supply-Chain-Angriff: Riesiges Datenleck betrifft unzählige große Konzerne",
+          "link": "https://www.golem.de/news/nach-supply-chain-angriff-riesiges-datenleck-betrifft-unzaehlige-grosse-konzerne-2608-211886.html",
+          "summary": "Hacker sind über kompromittierte LiteLLM-Pakete an Anmeldeinformationen von fast 2.500 teils sehr bekannten Organisationen gelangt. Das Ausmaß ist enorm. ( Datenleck , KI )",
+          "published": "2026-08-13T10:30:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "2-Faktor-Authentifizierung: Darum warnt Microsoft jetzt vor dem Code via SMS",
+        "Ivanti EPM: Update stopft drei hochriskante Sicherheitslecks",
+        "Sicherheitslücken: Zwei Fehler hebeln TPM-Schutz aus"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Anfragen: Bundesregierung fehlen Daten bei Rechenzentrumsstrategie",
+          "link": "https://www.golem.de/news/anfragen-bundesregierung-fehlen-daten-bei-rechenzentrumsstrategie-2608-211915.html",
+          "summary": "Die Bundesregierung hat kaum genauere Informationen zu Bauplänen und Wasserbedarf neuer Rechenzentren. Es herrscht das Prinzip Hoffnung. ( Souveränität , KI )",
+          "published": "2026-08-13T16:58:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Anfragen: Bundesregierung fehlen Daten bei Rechenzentrumsstrategie"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Mehr als die kurze digitale Abstinenz: Worum es den Neo-Luddites wirklich geht",
+          "link": "https://t3n.de/news/digitale-abstinenz-neo-luddites-1757143/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der letzte große Luxus unserer Zeit scheint das Offlineleben zu sein. Die Neo-Luddites zelebrieren es und wollen mehr als sich kurz mal Ausloggen, weiß unsere Kolumnistin. weiterlesen auf t3n.de",
+          "published": "Fri, 14 Aug 2026 06:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Neuer Job als Industrial Digitalization Manager gesucht? Schau dir unsere Top Jobs an",
+          "link": "https://t3n.de/news/unsere-jobs-der-woche-1175973/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hier findest du unsere besten Jobs aus den Bereichen Technik &amp; Entwicklung, Marketing, PR &amp; Kommunikation, Projektmanagement &amp; Produktmanagement, Design &amp; UX, Content &amp; Redaktion und Business Development. weiterlesen auf t3n.de",
+          "published": "Thu, 13 Aug 2026 15:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Software Testing: Was Bakterien besser machen als dein Scrum-Team",
+          "link": "https://www.heise.de/blog/Software-Testing-Was-Bakterien-besser-machen-als-dein-Scrum-Team-11384535.html",
+          "summary": "Die Softwareentwicklung kann sich von Strategien aus der Natur einiges abschauen, wie Anna Melbinger im Gespräch erläutert.",
+          "published": "2026-08-11T06:27:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Wen kann ich noch einplanen? OpenProject zeigt es",
+          "link": "https://www.heise.de/news/Wen-kann-ich-noch-einplanen-OpenProject-zeigt-es-11400546.html",
+          "summary": "OpenProject 17.7.0 führt neue Funktionen für Kapazitäts- und Einsatzplanung sowie agile Sprints ein.",
+          "published": "2026-08-06T08:55:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Shieldfont: Diese Schrift füttert KI-Crawler mit Unsinn",
+          "link": "https://www.golem.de/news/shieldfont-diese-schrift-fuettert-ki-crawler-mit-unsinn-2608-211884.html",
+          "summary": "Ein Designerduo hat eine Schrift veröffentlicht, die eine KI-Datensammlung auf Websites stören soll, ohne dass sich für den Nutzer etwas verändert. ( KI , Barrierefreiheit )",
+          "published": "2026-08-13T14:53:06+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Mehr als die kurze digitale Abstinenz: Worum es den Neo-Luddites wirklich geht",
+        "Neuer Job als Industrial Digitalization Manager gesucht? Schau dir unsere Top Jobs an",
+        "Software Testing: Was Bakterien besser machen als dein Scrum-Team"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Meta Open-Sources Muse Glimmer: A 30B Local Agentic Model Optimised for On-Device Execution",
+          "link": "https://www.infoq.com/news/2026/08/meta-muse-glimmer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Meta AI Research has introduced Muse Glimmer, a 30-billion-parameter open-weight model under the Apache 2.0 license, designed for local workflows. It enables autonomous agents and complex task execution on consumer GPUs without relying on cloud APIs. The model employs a multi-stage training approach for efficient performance and supports multimodal inputs, enhancing coding and automation tasks. By Olimpiu Pop",
+          "published": "Fri, 14 Aug 2026 05:05:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "The AI model that just scored 65% on DeepSWE isn’t the one Google promised.",
+          "link": "https://thenewstack.io/gemini-3-7-flash-agents/",
+          "summary": "Google has a new Gemini model, and no, it is not Gemini 3.5 Pro. Gemini 3.7 Flash launched Thursday as The post The AI model that just scored 65% on DeepSWE isn&#8217;t the one Google promised. appeared first on The New Stack .",
+          "published": "Thu, 13 Aug 2026 19:59:34 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "ChatGPT can now remember what you did on your Mac — without screenshots",
+          "link": "https://thenewstack.io/openai-chatgpt-computer-history/",
+          "summary": "OpenAI is launching a new feature for ChatGPT Work and Codex on macOS that sounds quite useful but may also The post ChatGPT can now remember what you did on your Mac — without screenshots appeared first on The New Stack .",
+          "published": "Thu, 13 Aug 2026 19:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "DeepSeek open sources an agent harness where everything is a plugin",
+          "link": "https://thenewstack.io/deepseek-harness-open-source-plugins/",
+          "summary": "DeepSeek on Thursday open sourced the DeepSeek Harness, a new agent runtime for developers. The Node.js-based harness is now available The post DeepSeek open sources an agent harness where everything is a plugin appeared first on The New Stack .",
+          "published": "Thu, 13 Aug 2026 17:20:21 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Vercel Launches v0 API for Headless App Building",
+          "link": "https://www.infoq.com/news/2026/08/vercel-v0-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Vercel has made the v0 API generally available, enabling developers and AI agents to programmatically generate, iterate on, preview, and deploy applications through API calls. By Daniel Dominguez",
+          "published": "Thu, 13 Aug 2026 15:37:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Meta Open-Sources Muse Glimmer: A 30B Local Agentic Model Optimised for On-Device Execution",
+        "The AI model that just scored 65% on DeepSWE isn’t the one Google promised.",
+        "ChatGPT can now remember what you did on your Mac — without screenshots"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "The new Instagram logo is the perfect embodiment of AI slop",
+          "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+          "summary": "Opinion: Some remarks about the new wordmark accidentally being perfectly awful.",
+          "published": "Thu, 13 Aug 2026 17:32:10 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Kampf gegen Scraping: Wie eine Schriftart Wörter tauscht, um KI zu verwirren",
+          "link": "https://t3n.de/news/kampf-gegen-ki-scraping-schriftart-1758006/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Designer und ein Copywriter haben KI-Tools, die Webseiten nach freizugänglichen Trainingsdaten durchforsten, den Kampf angesagt. Mit einer besonderen Schriftart wollen sie die Künstliche Intelligenz am Scraping hindern. weiterlesen auf t3n.de",
+          "published": "Thu, 13 Aug 2026 17:00:58 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
+          "link": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
+          "summary": "Let's shield the astronauts instead of the spacecraft.",
+          "published": "Thu, 13 Aug 2026 13:48:55 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Sicherheitslage am BER: Drohnenabwehr soll nach Leipzig-Vorfall wachsen",
+          "link": "https://www.heise.de/news/Sicherheitslage-am-BER-Drohnenabwehr-soll-nach-Leipzig-Vorfall-wachsen-11413390.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Nach dem Fund einer Sprengstoff-Drohne in Leipzig fordert Brandenburgs Innenminister Redmann eine verstärkte Drohnenabwehr am Flughafen Berlin Brandenburg.",
+          "published": "2026-08-13T17:45:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kritische Infrastruktur: Regierung sieht keine Registrierungslücke bei NIS2",
+          "link": "https://www.golem.de/news/kritische-infrastruktur-regierung-sieht-keine-registrierungsluecke-bei-nis2-2608-211907.html",
+          "summary": "Ursprünglich ist der Bund von fast 30.000 Firmen ausgegangen, die zur kritischen Infrastruktur zählen. Doch es haben sich 10.000 weniger angemeldet. ( Nis 2 , Security )",
+          "published": "2026-08-13T15:23:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "The new Instagram logo is the perfect embodiment of AI slop",
+        "Kampf gegen Scraping: Wie eine Schriftart Wörter tauscht, um KI zu verwirren",
+        "We've flown a radiation-blocking vest to the Moon and back, and it worked"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "China: Diebe tauschen Geforce RTX 5080 im E-Sport-Hotel aus",
+          "link": "https://www.golem.de/news/china-diebe-tauschen-geforce-rtx-5080-im-e-sport-hotel-aus-2608-211887.html",
+          "summary": "Um nicht aufzufallen, haben die zwei Täter günstigere Geforce-RTX-3060-Ti-GPUs in Hotel-PCs eingebaut. Das hätte fast 3.000 Euro Gewinn gebracht. ( Grafikkarten , Nvidia )",
+          "published": "2026-08-13T10:21:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "China: Diebe tauschen Geforce RTX 5080 im E-Sport-Hotel aus"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Abnehmmittel wie Wegovy und Ozempic: Warum Experten zur Vorsicht raten",
+          "link": "https://t3n.de/news/abnehmmittel-wegovy-ozempic-risiken-experten-1722894/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Behandlungserfolge beim Abnehmen durch Mittel wie Ozempic lassen die Hoffnung aufkommen, dass sie auch bei anderen Therapien helfen. Wie sehen konkrete Studiene weiterlesen auf t3n.de",
+          "published": "Thu, 13 Aug 2026 17:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "IBM-Durchbruch: Quantencomputer knacken erstes Rätsel der Kernfusion",
+          "link": "https://t3n.de/news/ibm-quantencomputer-kernfusion-tritium-1758016/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "IBM hat in Zusammenarbeit mit renommierten US-Forschungseinrichtungen einen wichtigen Machbarkeitsnachweis für die Kernfusion erbracht. Dabei kam ein quantenzentrierter Supercomputer zum Einsatz, um bislang unlösbare chemische Hürden zu überwinden. weiterlesen auf t3n.de",
+          "published": "Thu, 13 Aug 2026 17:30:48 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mücken plagen dich? Wie ein Entwickler und ein Startup mit Lasern helfen wollen",
+          "link": "https://t3n.de/news/ki-laser-muecken-abwehr-100-prozent-erfolgsquote-bastler-startup-1745577/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Um sich der Mücken in seiner Wohnung zu entledigen, hat ein Robotik-Experte ein KI-gestütztes Lasersystem gebaut. Dabei schreckte er nicht vor monatelanger Entwicklungszeit und zahllosen Mückenstichen zurück. weiterlesen auf t3n.de",
+          "published": "Thu, 13 Aug 2026 16:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Obwohl Microsoft mit Klage drohte: Sicherheitsforscher veröffentlicht nächste Zero-Day-Lücke",
+          "link": "https://t3n.de/news/obwohl-microsoft-mit-klage-drohte-sicherheitsforscher-veroeffentlicht-naechste-zero-day-luecke-1757879/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Forscher namens Nightmare Eclipse hat schon mehrere Zero-Day-Lücken in Windows öffentlich gemacht, obwohl das Unternehmen ihm mit Klage drohte. Jetzt folgt die nächste. weiterlesen auf t3n.de",
+          "published": "Thu, 13 Aug 2026 12:00:41 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: Migrating Uber Eats Feeds to Webview",
+          "link": "https://www.infoq.com/presentations/migration-mobile-application/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Nick DiStefano shares how Uber Eats migrated from traditional native app screens to a native-driven, single-page WebView architecture. He explains key strategies for engineering leaders and software architects looking to bypass native release cycles, manage cross-platform state, build generic native-web message bridges, and execute large-scale UI migrations without degrading metrics. By Nick DiStefano",
+          "published": "Thu, 13 Aug 2026 09:26:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Abnehmmittel wie Wegovy und Ozempic: Warum Experten zur Vorsicht raten",
+        "IBM-Durchbruch: Quantencomputer knacken erstes Rätsel der Kernfusion",
+        "Mücken plagen dich? Wie ein Entwickler und ein Startup mit Lasern helfen wollen"
+      ]
+    }
+  ]
+}
