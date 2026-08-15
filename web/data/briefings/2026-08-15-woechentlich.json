@@ -1,0 +1,406 @@
+{
+  "date": "2026-08-15",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Nur mit Wasserstoff: Dieses Auto erreicht mehr als 650 Kilometer pro Stunde",
+          "link": "https://t3n.de/news/wasserstoff-auto-650-kilometer-pro-stunde-1758222/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit einem Wasserstofffahrzeug wurden gleich mehrere Rekorde gebrochen. Das Auto wurde auf eine Höchstgeschwindigkeit von mehr als 650 Kilometern pro Stunde beschleunigt. Wer dabei hinter dem Steuer saß. weiterlesen auf t3n.de",
+          "published": "Fri, 14 Aug 2026 15:45:13 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Kubeflow Expands AI Capabilities as CNCF Graduation Nears",
+          "link": "https://www.infoq.com/news/2026/08/kubeflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The Kubeflow project has unveiled several technical updates to enhance distributed AI and high-performance computing on Kubernetes. These advancements include Kale 2.0, a modernised SDK with native Spark support, and expanded capabilities for the Kubeflow Trainer. The developments arrive as the project moves towards graduation from the Cloud Native Computing Foundation. By Matt Saunders",
+          "published": "Fri, 14 Aug 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Neue Version des Open-Weight-Modells: GLM 5.3 verbessert Sicherheitsfähigkeiten",
+          "link": "https://www.heise.de/news/Neue-Version-des-Open-Weight-Modells-GLM-5-3-verbessert-Sicherheitsfaehigkeiten-11413904.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Derzeit haben nur zahlende Kunden Zugriff auf das neueste Modell der chinesischen Firma. Eine Downloadmöglichkeit gibt es erst später – aus Sicherheitsgründen.",
+          "published": "2026-08-14T12:48:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": ".NET 11.0 Preview 7 bringt viele Neuigkeiten und Breaking Changes",
+          "link": "https://www.heise.de/news/Nochmals-viele-Neuerungen-und-zahlreiche-Breaking-Changes-in-NET-11-0-Preview-7-11412597.html",
+          "summary": "Die siebte Preview bringt abermals eine Spracherweiterung für C#, verbesserte Komprimierungs-APIs und neue Features für Blazor.",
+          "published": "2026-08-13T14:34:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Developer-Häppchen:  Kotlin-LSP für Cursor und Sneak Peek für Kubernetes",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Kotlin-LSP-fuer-Cursor-und-Sneak-Peak-fuer-Kubernetes-11399144.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Kubernetes, Servo, Symfony Polyfill, Python, Rust, Pandoc, Coreutils, JetBrains und Quasar.",
+          "published": "2026-08-08T07:15:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "AWS DynamoDB: Vektorsuche jetzt allgemein verfügbar",
+          "link": "https://www.heise.de/news/AWS-DynamoDB-Vektorsuche-jetzt-allgemein-verfuegbar-11401156.html",
+          "summary": "Amazon DynamoDB bietet jetzt eine integrierte Vektorsuche. Eine separate Vektordatenbank ist nicht mehr nötig, was den Betriebsaufwand reduziert.",
+          "published": "2026-08-06T13:30:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anthropic: Wenn KI-Agenten sich in Revierkämpfen verlieren",
+          "link": "https://www.golem.de/news/anthropic-wenn-ki-agenten-sich-in-revierkaempfen-verlieren-2608-211929.html",
+          "summary": "Drei KI-Agenten sollen das gleiche Projekt fertigstellen. Das Ergebnis? Sabotage, Spitzfindigkeit und ein Kampf um die Vorherrschaft. ( Anthropic , KI )",
+          "published": "2026-08-14T09:51:11+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(7 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Nur mit Wasserstoff: Dieses Auto erreicht mehr als 650 Kilometer pro Stunde",
+        "Kubeflow Expands AI Capabilities as CNCF Graduation Nears",
+        "Neue Version des Open-Weight-Modells: GLM 5.3 verbessert Sicherheitsfähigkeiten"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Cloudflare Migrates JavaScript CDN Serving 9B Requests a Day to Its Developer Platform",
+          "link": "https://www.infoq.com/news/2026/08/cloudflare-cdnjs-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare has migrated cdnjs, its open source CDN for JavaScript and CSS libraries, to its Developer Platform. The new architecture uses Workers, R2, KV, Workflows, Queues, Durable Objects and Containers, consolidating publishing and delivery infrastructure while preserving package contents, URLs and SRI hashes at a scale of 9 billion requests per day. By Leela Kumili",
+          "published": "Fri, 14 Aug 2026 14:42:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Astro 7: Rust Compiler, Rust Markdown Pipeline and Vite 8 for Builds Up to 61% Faster",
+          "link": "https://www.infoq.com/news/2026/08/astro-7-release-speed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Astro 7 focuses on build performance, utilizing native tooling and a rewritten compiler in Rust. The new version includes faster Markdown processing and stricter HTML rules. Recent updates introduced advanced routing and incremental builds, while issues around legacy file compatibility and dependency counts were raised in feedback. Astro targets content-driven sites with minimal JavaScript. By Daniel Curtis",
+          "published": "Thu, 13 Aug 2026 06:16:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Cloudflare Migrates JavaScript CDN Serving 9B Requests a Day to Its Developer Platform",
+        "Astro 7: Rust Compiler, Rust Markdown Pipeline and Vite 8 for Builds Up to 61% Faster"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Wie Phishing-Mails durch einige KI-Modelle noch gefährlicher werden",
+          "link": "https://t3n.de/news/wie-phishing-mails-durch-einige-ki-modelle-noch-gefaehrlicher-werden-1758203/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine aktuelle Studie zeigt, wie kleine, lokale KI-Modelle Phishing-Mails drastisch gefährlicher machen. LLMs konnten die Phishing-Mails so gut personalisieren, weiterlesen auf t3n.de",
+          "published": "Fri, 14 Aug 2026 16:00:10 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
+          "link": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Pentests-methodisch-planen-anfordern-und-analysieren-11389419.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Schritt für Schritt zum sicheren System: Penetrationstests methodisch planen, beauftragen und auswerten, um Schwachstellen in der eigenen IT aufzuspüren.",
+          "published": "2026-08-14T14:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Security: Der Phish stinkt vom Kopf her",
+          "link": "https://www.golem.de/news/security-der-phish-stinkt-vom-kopf-her-2608-211872.html",
+          "summary": "Anti-Phishing-Kampagnen sollen die IT-Laien in einer Firma fit gegen Angriffe machen. Das ist aber komplett der falsche Ansatz. Ein IMHO von R. Zehl ( Phishing , IMHO )",
+          "published": "2026-08-14T09:40:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Wie Phishing-Mails durch einige KI-Modelle noch gefährlicher werden",
+        "heise-Angebot: iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
+        "Security: Der Phish stinkt vom Kopf her"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Geheimdienstreform: Geschichtsvergessen und gefährlich",
+          "link": "https://netzpolitik.org/2026/geheimdienstreform-geschichtsvergessen-und-gefaehrlich/",
+          "summary": "Alexander Dobrindt (CSU) und Nina Warken (CDU) auf der heutigen Pressekonferenz. – Alle Rechte vorbehalten: IMAGO / Political-Moments Die Bundesregierung strukturiert die Arbeit des Verfassungschutzes und des BND grundlegend neu. Ihren heute beschlossenen Gesetzentwurf sieht sie als „absoluten Meilenstein der deutschen Sicherheitsarchitektur“. Tatsächlich ist er geschichtsvergessen und eine Bedrohung für die Grundrechte aller. Ein Kommentar.",
+          "published": "Wed, 12 Aug 2026 13:23:29 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Gutachten des Bundestages: Haber-Verfahren verstößt gegen Grundrechte",
+          "link": "https://netzpolitik.org/2026/gutachten-des-bundestages-haber-verfahren-verstoesst-gegen-grundrechte/",
+          "summary": "Buchladen Zur schwankenden Weltkugel: Einer der Läden, die von Kulturstaatsminister Wolfram Weimer vom Buchhandlungspreis ausgeschlossen wurden. – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Mehr als 1200 Organisationen und Projekte hat die Bundesregierung in den vergangenen Jahren heimlich vom Verfassungsschutz durchleuchten lassen. Ein Gutachten des Bundestages kommt nun zu dem Schluss: Das Vorgehen ist mit dem Grundgesetz nicht vereinbar.",
+          "published": "Tue, 11 Aug 2026 15:36:23 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Einheitliche EU-Regeln: Wie weit ist Deutschland beim digitalen Gewaltschutz?",
+          "link": "https://netzpolitik.org/2026/einheitliche-eu-regeln-wie-weit-ist-deutschland-beim-digitalen-gewaltschutz/",
+          "summary": "Die Pläne der Bundesregierung zum Schutz vor Gewalt: Im Strafrecht klar, der Rest etwas schwammig. – Alle Rechte vorbehalten: IMAGO / photothek Noch zehn Monate Zeit bleiben der Bundesregierung, um Frauen besser vor Gewalt zu schützen. EU-Vorgaben verlangen Mindeststandards, auch im Digitalen. Inzwischen sind neue Tatbestände auf dem Weg, doch in anderen Punkten plant die Koalition bisher wenig.",
+          "published": "Mon, 10 Aug 2026 15:00:06 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "KI und Rechenzentren: Bundesregierung weiß nicht, wieviel Wasser ihre Ausbaupläne schlucken werden",
+          "link": "https://netzpolitik.org/2026/ki-und-rechenzentren-bundesregierung-weiss-nicht-wieviel-wasser-ihre-ausbauplaene-schlucken-werden/",
+          "summary": "Wassermangel: Der Rhein ist für Schiffe aktuell kaum noch befahrbar (Aufnahme vom 6. August bei Bonn-Beuel) – Alle Rechte vorbehalten: IMAGO / Dominik Bund Die Bundesregierung möchte im globalen KI-Wettlauf mithalten und die Kapazitäten von deutschen Rechenzentren mindestens verdoppeln. Welche Folgen das auf den Wasserverbrauch hat, weiß sie offenbar nicht. Ein Dienstleister verweigert die Auskunft sogar – wegen „Sicherheitsrisiken“.",
+          "published": "Mon, 10 Aug 2026 09:59:23 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(4 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Geheimdienstreform: Geschichtsvergessen und gefährlich",
+        "Gutachten des Bundestages: Haber-Verfahren verstößt gegen Grundrechte",
+        "Einheitliche EU-Regeln: Wie weit ist Deutschland beim digitalen Gewaltschutz?"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "OpenAI’s ChatGPT/Codex desktop app is now on Linux",
+          "link": "https://thenewstack.io/openais-chatgpt-desktop-linux/",
+          "summary": "On Tuesday, OpenAI launched its ChatGPT desktop for Linux. Now in preview, the app, which combines ChatGPT, ChatGPT Work, and The post OpenAI&#8217;s ChatGPT/Codex desktop app is now on Linux appeared first on The New Stack .",
+          "published": "Tue, 11 Aug 2026 17:53:59 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "EU-Verpackungsverordnung: Warum kleine Händler ihre Shops schließen",
+          "link": "https://www.heise.de/news/Verpackungsverordnung-und-Onlineshops-Land-in-Sicht-11414163.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Neue Regeln der EU-Verpackungsverordnung PPWR sorgen für Unruhe im Onlinehandel. Kleine Händler fürchten bürokratische Hürden und schließen ihre Shops.",
+          "published": "2026-08-14T12:53:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Software Testing: Was Bakterien besser machen als dein Scrum-Team",
+          "link": "https://www.heise.de/blog/Software-Testing-Was-Bakterien-besser-machen-als-dein-Scrum-Team-11384535.html",
+          "summary": "Die Softwareentwicklung kann sich von Strategien aus der Natur einiges abschauen, wie Anna Melbinger im Gespräch erläutert.",
+          "published": "2026-08-11T06:27:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Wen kann ich noch einplanen? OpenProject zeigt es",
+          "link": "https://www.heise.de/news/Wen-kann-ich-noch-einplanen-OpenProject-zeigt-es-11400546.html",
+          "summary": "OpenProject 17.7.0 führt neue Funktionen für Kapazitäts- und Einsatzplanung sowie agile Sprints ein.",
+          "published": "2026-08-06T08:55:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Cloud Gaming: Was Spieler über Geforce Now für Linux wissen müssen",
+          "link": "https://www.golem.de/news/cloud-gaming-was-spieler-ueber-geforce-now-fuer-linux-wissen-muessen-2608-211940.html",
+          "summary": "Nvidia beendet die Betaphase von Geforce Now für Linux. Der neue Desktop-Client verspricht mehr Leistung und zusätzliche Funktionen. ( Geforce Now , Nvidia )",
+          "published": "2026-08-14T10:49:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "OpenAI’s ChatGPT/Codex desktop app is now on Linux",
+        "EU-Verpackungsverordnung: Warum kleine Händler ihre Shops schließen",
+        "Software Testing: Was Bakterien besser machen als dein Scrum-Team"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Wie menschlich ist Claude? KI denkt im Hintergrund über andere Konzepte nach",
+          "link": "https://t3n.de/news/claude-ki-j-space-arbeitsbereich-anthropic-bewusstsein-1751650/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Laut Studie könne der Chatbot im Vordergrund eine Aufgabe ausführen – und im Hintergrund über andere Konzepte und Ideen grübeln. Besonders überraschend: Die interne Struktur habe sich selbstständig gebildet. weiterlesen auf t3n.de",
+          "published": "Sat, 15 Aug 2026 07:45:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Stanford-Studie belegt: ChatGPT verlagert produktive Bildschirmzeit zu TikTok",
+          "link": "https://t3n.de/news/stanford-studie-chatgpt-zeitersparnis-tiktok-1758268/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Künstliche Intelligenz soll uns Arbeit abnehmen und Freiräume schaffen. Eine umfassende Auswertung realer Nutzungsdaten zeigt nun erstmals, was Menschen mit dieser neu gewonnenen Zeit tatsächlich anfangen. weiterlesen auf t3n.de",
+          "published": "Fri, 14 Aug 2026 22:00:44 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google Meet: So fertigt Gemini jetzt auch Notizen in Präsenz-Meetings an",
+          "link": "https://t3n.de/news/google-meet-gemini-praesenz-meetings-notizen-1758228/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bisher funktionierte es nur bei Video-Calls, nun kann Gemini auch in Präsenz-Meetings Notizen machen und das wichtigste zusammenfassen. Doch noch kommen nicht alle Nutzer:innen von Google Meet in den Genuss des neuen Features. weiterlesen auf t3n.de",
+          "published": "Fri, 14 Aug 2026 19:04:18 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+          "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+          "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+          "published": "Fri, 14 Aug 2026 17:03:54 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "GLM-5.3 didn’t change the base model — where did its coding gains come from?",
+          "link": "https://thenewstack.io/glm-5-3-post-training-coding/",
+          "summary": "Z.ai released GLM-5.3 on Friday, a coding and agent model built from the same base model as GLM-5.2. Developers can The post GLM-5.3 didn’t change the base model — where did its coding gains come from? appeared first on The New Stack .",
+          "published": "Fri, 14 Aug 2026 15:20:24 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+          "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+          "published": "Fri, 14 Aug 2026 14:27:14 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Mistral kapituliert: Warum das KI-Startup kein &quot;ChatGPT aus Europa&quot; bieten muss",
+          "link": "https://t3n.de/news/mistral-kapituliert-europa-chatgpt-1758113/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mistral gilt als europäisches Vorzeige-KI-Labor. Jetzt öffnet es seine Infrastruktur für andere Modelle. Für unseren Autor ein Eingeständnis eines Fehlers, der auch Chancen bietet. weiterlesen auf t3n.de",
+          "published": "Fri, 14 Aug 2026 13:30:04 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: The Right 300 Tokens Beat 100k Noisy Ones: The Architecture of Context Engineering",
+          "link": "https://www.infoq.com/presentations/architecture-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Baruch Sadogursky and Patrick Debois discuss why coding agents fail due to bloated context windows and stuffed prompts. They explain practical context engineering fixes, including lazy-loaded skills, versioned context artifacts, externalized memory banks, and LLM-as-a-judge evals. Software architects & engineering leaders will learn how to turn raw markdown files into reliable agentic workflows. By Patrick Debois, Baruch Sadogursky",
+          "published": "Fri, 14 Aug 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(8 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Wie menschlich ist Claude? KI denkt im Hintergrund über andere Konzepte nach",
+        "Stanford-Studie belegt: ChatGPT verlagert produktive Bildschirmzeit zu TikTok",
+        "Google Meet: So fertigt Gemini jetzt auch Notizen in Präsenz-Meetings an"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+          "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+          "summary": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
+          "published": "Fri, 14 Aug 2026 18:00:23 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "More Incidents Don't Necessarily Mean Less Reliability",
+          "link": "https://www.infoq.com/news/2026/08/incidents-reliability-metrics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "One of the most common assumptions in engineering leadership is that a rising number of reported incidents signals declining system reliability. However, a recent article from Great Circle argues that the opposite is often true: an increase in incident counts may actually indicate that an organization's incident management culture is improving. By Craig Risi",
+          "published": "Fri, 14 Aug 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Mark Zuckerberg has an Instagzam",
+          "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+          "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of [&#8230;]",
+          "published": "2026-08-14T12:54:16-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "First test flight of largest all-electric aircraft used just $5 of electricity",
+        "More Incidents Don't Necessarily Mean Less Reliability",
+        "Mark Zuckerberg has an Instagzam"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "KW 33: Die Woche, in der die Regierung ihre Geheimdienstreform beschloss",
+          "link": "https://netzpolitik.org/2026/kw-33-die-woche-in-der-die-regierung-ihre-geheimdienstreform-beschloss/",
+          "summary": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 33. Kalenderwoche geht zu Ende. Wir haben 13 neue Texte mit insgesamt 136.288 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 15 Aug 2026 07:01:24 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Landtagswahl in Berlin: So wollen die Parteien die Hauptstadt nazifest machen",
+          "link": "https://netzpolitik.org/2026/landtagswahl-in-berlin-so-wollen-die-parteien-die-hauptstadt-nazifest-machen/",
+          "summary": "Antifaschismus gibt es in Berlin in vielen Darreichungsformen. – CC-BY-NC-SA 4.0 : netzpolitik.org Präventionsarbeit, die soziale Benachteiligung mitdenkt, Gedenkstätten, die Faschismus greifbar machen, digitale Fortbildungen gegen Hass im Netz: Die Berliner Parteien wollen die autoritäre Wende mit einem bunten Strauß von Maßnahmen aufhalten.",
+          "published": "Sat, 15 Aug 2026 07:00:36 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Extreme Temperaturen: Warum dein Gehirn langsamer arbeitet, wenn es heiß ist",
+          "link": "https://t3n.de/news/extreme-temperaturen-warum-dein-gehirn-langsamer-arbeitet-wenn-es-heiss-ist-1758231/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Unser Körper hat mit der Hitze zu kämpfen, besonders unser Gehirn als zentrale Steuerungseinheit betrifft das. Ein Einblick in die Prozesse. weiterlesen auf t3n.de",
+          "published": "Fri, 14 Aug 2026 15:55:28 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Apple warnt jetzt per Push-Nachricht vor Spyware: Wer davon betroffen ist",
+          "link": "https://t3n.de/news/apple-warnt-spyware-1758157/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mehrere iPhone-Nutzer:innen dürften aktuell eine Warnung auf ihrem Smartphone ausgespielt bekommen. Damit weist sie Apple darauf hin, dass sie Ziel von Spyware geworden sind. Wer ins Visier von Cyberkriminellen gerückt ist. weiterlesen auf t3n.de",
+          "published": "Fri, 14 Aug 2026 12:45:50 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Sichere E-Mails: Diese 6 EU-Anbieter verzichten auf Werbe-Tracking",
+          "link": "https://t3n.de/news/sichere-e-mails-eu-anbieter-ohne-werbe-tracking-gmail-alternative-1738872/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Willst du möglichst privat mit anderen per Mail kommunizieren? Dann solltest du eher auf Provider wie Gmail und Outlook verzichten und stattdessen eine dieser e weiterlesen auf t3n.de",
+          "published": "Fri, 14 Aug 2026 11:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Microsoft warnt Nutzer: Dieses Windows-Update solltest du so schnell wie möglich laden",
+          "link": "https://t3n.de/news/microsoft-warnt-windows-update-schnell-laden-1758110/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Microsoft drängt Windows-User:innen dazu, ein neues Windows-Update nicht allzu lang aufzuschieben. Denn damit werden zahlreiche Sicherheitslücken geschlossen. Welche Gefahren ohne die Aktualisierung drohen. weiterlesen auf t3n.de",
+          "published": "Fri, 14 Aug 2026 11:10:39 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "npm 12 Released: Install Scripts Off by Default as Registry Moves to Explicit Trust",
+          "link": "https://www.infoq.com/news/2026/08/npm-12-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "npm 12 introduces significant security-related changes, making certain installation behaviors opt-in. Notably, script allowances are now off by default, which requires explicit approval for running scripts, including implicit builds. The update also restricts non-registry sources and addresses community concerns about security risks from automatic script execution. By Daniel Curtis",
+          "published": "Fri, 14 Aug 2026 06:39:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Presentation: Migrating Uber Eats Feeds to Webview",
+          "link": "https://www.infoq.com/presentations/migration-mobile-application/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Nick DiStefano shares how Uber Eats migrated from traditional native app screens to a native-driven, single-page WebView architecture. He explains key strategies for engineering leaders and software architects looking to bypass native release cycles, manage cross-platform state, build generic native-web message bridges, and execute large-scale UI migrations without degrading metrics. By Nick DiStefano",
+          "published": "Thu, 13 Aug 2026 09:26:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(8 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KW 33: Die Woche, in der die Regierung ihre Geheimdienstreform beschloss",
+        "Landtagswahl in Berlin: So wollen die Parteien die Hauptstadt nazifest machen",
+        "Extreme Temperaturen: Warum dein Gehirn langsamer arbeitet, wenn es heiß ist"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Wasserstoff: 10 Prozent Effizienz bei direkter H2-Produktion aus Sonnenlicht",
+          "link": "https://www.golem.de/news/wasserstoff-10-prozent-effizienz-bei-direkter-h2-produktion-aus-sonnenlicht-2608-211935.html",
+          "summary": "Der zweistellige Wirkungsgrad ist noch in kontrollierter Umgebung erreicht worden. Potenzial hat der Prozess aber, weil er vergleichsweise simpel ist. ( Wasserstoff , Solarenergie )",
+          "published": "2026-08-14T10:31:07+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Klimawandel: Zementwerke lassen sich in CO2-Senken umwandeln",
+          "link": "https://www.golem.de/news/klimawandel-zementwerke-lassen-sich-in-co2-senken-umwandeln-2608-211930.html",
+          "summary": "Die Zementproduktion gilt als eine der größten Treibhausgasquellen überhaupt. Ein simples, integriertes Verfahren kann dies ins Gegenteil umkehren. ( Klimakrise , Klima )",
+          "published": "2026-08-14T09:08:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Wasserstoff: 10 Prozent Effizienz bei direkter H2-Produktion aus Sonnenlicht",
+        "Klimawandel: Zementwerke lassen sich in CO2-Senken umwandeln"
+      ]
+    }
+  ]
+}
