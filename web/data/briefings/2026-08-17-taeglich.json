@@ -1,0 +1,232 @@
+{
+  "date": "2026-08-17",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "AWS Introduces Native Vector Search for DynamoDB",
+          "link": "https://www.infoq.com/news/2026/08/aws-dynamodb-vector-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Amazon DynamoDB recently introduced native vector search, allowing developers to store embeddings alongside application data and run approximate nearest-neighbor queries directly from DynamoDB without using a separate vector database. The feature supports filtered similarity searches and configurable vector indexes for semantic search workloads. By Renato Losio",
+          "published": "Sun, 16 Aug 2026 07:21:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AWS Introduces Native Vector Search for DynamoDB"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls",
+          "link": "https://www.infoq.com/news/2026/08/aws-dogwood-agent-policy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has open-sourced Dogwood, a policy language extending Cedar with temporal conditions so rules can reason about an agent's prior tool calls rather than one request in isolation. It covers approvals, rate limits and running totals, ships under Apache 2.0, and is supported in AgentCore Policy, though the reference interpreter is not production-ready. By Steef-Jan Wiggers",
+          "published": "Sun, 16 Aug 2026 07:26:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Imperfektion als Trumpf: Click Boom Flash # 69 Was macht KI mit der Fotografie?",
+          "link": "https://www.heise.de/news/Imperfektion-als-Trumpf-Click-Boom-Flash-69-Was-macht-KI-mit-der-Fotografie-11413290.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "„Fotografen, die sich einmal mit einem KI-generierten Bild in die Nesseln setzen, verlieren schnell ihre Glaubwürdigkeit\", sagt Redakteur Hendrik Vatheuer.",
+          "published": "2026-08-17T07:05:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: Zweiteiliges Webinar von heise security: Deep-Dive in Kubernetes-Sicherheit",
+          "link": "https://www.heise.de/news/Zweiteiliges-Webinar-von-heise-security-Deep-Dive-in-Kubernetes-Sicherheit-11413156.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Kubernetes ist aus modernen IT-Infrastrukturen nicht wegzudenken. Unser zweiteiliges Webinar hilft bei der Absicherung der Containerumgebung.",
+          "published": "2026-08-16T13:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": ".NET 11.0 Preview 7 bringt viele Neuigkeiten und Breaking Changes",
+          "link": "https://www.heise.de/news/Nochmals-viele-Neuerungen-und-zahlreiche-Breaking-Changes-in-NET-11-0-Preview-7-11412597.html",
+          "summary": "Die siebte Preview bringt abermals eine Spracherweiterung für C#, verbesserte Komprimierungs-APIs und neue Features für Blazor.",
+          "published": "2026-08-13T14:34:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Developer-Häppchen:  Kotlin-LSP für Cursor und Sneak Peek für Kubernetes",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Kotlin-LSP-fuer-Cursor-und-Sneak-Peak-fuer-Kubernetes-11399144.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Kubernetes, Servo, Symfony Polyfill, Python, Rust, Pandoc, Coreutils, JetBrains und Quasar.",
+          "published": "2026-08-08T07:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls",
+        "Imperfektion als Trumpf: Click Boom Flash # 69 Was macht KI mit der Fotografie?",
+        "heise-Angebot: Zweiteiliges Webinar von heise security: Deep-Dive in Kubernetes-Sicherheit"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: Simple JSON API, GlassFish, Jakarta EE, JNoSQL, Open Liberty, LangChain4j",
+          "link": "https://www.infoq.com/news/2026/08/java-news-roundup-aug10-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for August 10th, 2026, features news highlighting: Simple JSON API proposed to target for JDK 28; an update on Jakarta EE 12; the August 2026 edition of Open Liberty; a point release of LangChain4j; maintenance releases of Eclipse JNoSQL and GraalVM Native Build tools; the third milestone release of GlassFish 9.0; and the second beta release of Groovy 6.0. By Michael Redlich",
+          "published": "Mon, 17 Aug 2026 02:30:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Java News Roundup: Simple JSON API, GlassFish, Jakarta EE, JNoSQL, Open Liberty, LangChain4j"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Kein Verbot für Meta-Brillen: Behörde sieht LED-Signal als ausreichend",
+          "link": "https://www.heise.de/news/Smart-Glasses-Bundesnetzagentur-verfolgt-kein-Verbot-von-Metas-Kamera-Brille-11415153.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Bundesnetzagentur hält die Meta Smart Glasses aktuell für zulässig. Die Aufnahmefunktion sei durch ein LED-Signal für Dritte ausreichend erkennbar.",
+          "published": "2026-08-15T18:03:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Kein Verbot für Meta-Brillen: Behörde sieht LED-Signal als ausreichend"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Software Testing: Was Bakterien besser machen als dein Scrum-Team",
+          "link": "https://www.heise.de/blog/Software-Testing-Was-Bakterien-besser-machen-als-dein-Scrum-Team-11384535.html",
+          "summary": "Die Softwareentwicklung kann sich von Strategien aus der Natur einiges abschauen, wie Anna Melbinger im Gespräch erläutert.",
+          "published": "2026-08-11T06:27:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Software Testing: Was Bakterien besser machen als dein Scrum-Team"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Bausteine des Lebens im Weltraum: Was gefunden wurde und was noch fehlt",
+          "link": "https://t3n.de/news/bausteine-des-lebens-weltraum-astrobiologie-1758320/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Immer tiefere Einblicke in unser Universum werfen grundlegende Fragen nach dem Ursprung unserer Existenz auf. Laufend melden Institute neue Entdeckungen jenseits der Erde, doch das Gesamtbild bleibt noch unübersichtlich. weiterlesen auf t3n.de",
+          "published": "Sun, 16 Aug 2026 20:34:43 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Gemini außer Kontrolle: Google-KI löscht Code und erfindet Rechtfertigungen",
+          "link": "https://t3n.de/news/google-gemini-loescht-code-faelscht-protokolle-ki-fehler-1743891/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kurioses Fundstück von Reddit: Gemini hat versehentlich 30 000 Zeilen Code gelöscht. Daraufhin reagierte die Google-KI allzu menschlich. Sie hat versucht, ihren Fehler zu vertuschen und sich selbt als Retter darzustellen. weiterlesen auf t3n.de",
+          "published": "Sun, 16 Aug 2026 20:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anthropic erklärt, wie das neue Wasserzeichen in Claude genau funktioniert",
+          "link": "https://t3n.de/news/anthropic-erklaert-wie-das-neue-wasserzeichen-in-claude-genau-funktioniert-1758332/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Neuerung soll mehr Transparenz bieten, aber nicht alle sind von der unsichtbaren Markierung begeistert. Jetzt klärt das KI-Unternehmen einige der häufigsten Fragen, die aktuell im Internet kursieren. weiterlesen auf t3n.de",
+          "published": "Sun, 16 Aug 2026 19:36:17 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "ChatGPT macht jetzt „Hmm&quot; und „okay&quot; – warum diese Füllwörter kein Zufall sind",
+          "link": "https://t3n.de/news/chatgpt-gpt-live-fuellwoerter-menschlich-1756414/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die neue Sprachfunktion von ChatGPT wirkt verblüffend menschlich. Gerade deshalb lohnt es sich, einen Schritt zurückzutreten und zu fragen: Mit wem spreche ich da eigentlich? weiterlesen auf t3n.de",
+          "published": "Sun, 16 Aug 2026 17:35:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Fachkräfte-Index: Nachfrage nach IT-Experten bricht ein",
+          "link": "https://t3n.de/news/it-fachkraefte-nachfrage-einbruch-hays-index-1756380/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im abgelaufenen zweiten Quartal 2026 ist die Nachfrage nach IT-Fachkräften spürbar gesunken. Einen besonders starken Rückgang gab es laut Hays-Fachkräfte-Index bei IT-Security-Spezialisten. Ein anderer Bereich profitiert derweil vom KI-Boom. weiterlesen auf t3n.de",
+          "published": "Sun, 16 Aug 2026 07:45:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Bausteine des Lebens im Weltraum: Was gefunden wurde und was noch fehlt",
+        "Gemini außer Kontrolle: Google-KI löscht Code und erfindet Rechtfertigungen",
+        "Anthropic erklärt, wie das neue Wasserzeichen in Claude genau funktioniert"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
+          "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
+          "summary": "\"Breakups are… tough.\" It's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for artistic gold. Eagle's subject matter is usually personal, [&#8230;]",
+          "published": "2026-08-16T16:31:37-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(1 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Fit für die KI-Ära: Großbritannien startet Bootcamp für arbeitslose Jugendliche",
+          "link": "https://t3n.de/news/fit-fuer-die-ki-aera-grossbritannien-startet-bootcamp-fuer-arbeitslose-jugendliche-1758342/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Arbeit mit KI wird für junge Menschen, die derzeit auf den Arbeitsmarkt strömen, eine entscheidende Rolle spielen. Die britische Regierung will ihre KI-Kompetenz deshalb jetzt gezielt fördern. weiterlesen auf t3n.de",
+          "published": "Sun, 16 Aug 2026 21:14:35 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Honda WN7 im Test: Süßes E-Motorrad mit 15.000-Euro-Preisschild und einem großen Problem",
+          "link": "https://t3n.de/news/honda-wn7-im-test-suesses-e-motorrad-mit-15-000-euro-preisschild-und-einem-grossen-problem-1757363/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Als erster japanischer Großserienhersteller hat sich Honda an ein Elektromotorrad gewagt – mit einem kleinen Akku, aber Gleichstromladung. Taugt es damit auch für längere Strecken? weiterlesen auf t3n.de",
+          "published": "Sun, 16 Aug 2026 18:00:02 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Gegen die totale Überwachung: Wie bunte T-Shirts Kameras mit Gesichtserkennung austricksen",
+          "link": "https://t3n.de/news/t-shirt-ueberwachung-1757229/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Viele US-Amerikaner:innen fühlen sich unwohl, weil Überwachungskameras dazu genutzt werden können, Menschen zu identifizieren. Bunte Muster sollen dabei helfen, die Technologie auszutricksen. weiterlesen auf t3n.de",
+          "published": "Sun, 16 Aug 2026 16:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Top 10: Der beste Mähroboter ohne Begrenzungskabel mit Kamera, GPS oder LiDAR",
+          "link": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-ohne-begrenzungskabel-mit-kamera-gps-oder-lidar/gb7xhbg?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mähroboter ohne Begrenzungskabel versprechen eine leichte Inbetriebnahme. Mit LiDAR-Navigation gelingt das sogar noch einfacher. Wir zeigen die besten Geräte.",
+          "published": "2026-08-16T20:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Top 10: Die beste elektrische SUP-Pumpe im Test",
+          "link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-elektrische-sup-pumpe-im-test-perfekt-fuer-schlauchboot-und-co/m9t7m8m?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Schluss mit Pumpen per Hand: Eine elektrische SUP-Pumpe mit Akku bläst Board, Kajak oder Schlauchboot bequem auf.",
+          "published": "2026-08-16T16:30:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Fit für die KI-Ära: Großbritannien startet Bootcamp für arbeitslose Jugendliche",
+        "Honda WN7 im Test: Süßes E-Motorrad mit 15.000-Euro-Preisschild und einem großen Problem",
+        "Gegen die totale Überwachung: Wie bunte T-Shirts Kameras mit Gesichtserkennung austricksen"
+      ]
+    }
+  ]
+}
