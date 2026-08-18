@@ -1,0 +1,311 @@
+{
+  "date": "2026-08-18",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "bpm",
+      "name": "BPM & Prozessautomatisierung",
+      "items": [
+        {
+          "title": "Sonos finally added Live Activities controls for your iPhone lockscreen",
+          "link": "https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities",
+          "summary": "Sonos released an update to its mobile app that finally introduces support for iOS' Live Activities, giving iPhone users quick access to playback controls on their lockscreen. The added functionality is a \"much requested, anticipated, and needed feature,\" according to a post Sonos shared to Reddit today that was spotted by 9to5Mac. While some features [&#8230;]",
+          "published": "2026-08-17T12:38:35-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(1 Beitraege zu BPM & Prozessautomatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Sonos finally added Live Activities controls for your iPhone lockscreen"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Anthropic defined the standards inside Agent Plugins. So why isn’t it helping govern the format?",
+          "link": "https://thenewstack.io/agent-plugins-portability-gaps/",
+          "summary": "Earlier this month, Vercel released Agent Plugins 1.0.0 with core maintainers from AWS, Cursor, Microsoft, and OpenAI. Google announced the The post Anthropic defined the standards inside Agent Plugins. So why isn’t it helping govern the format? appeared first on The New Stack .",
+          "published": "Mon, 17 Aug 2026 19:27:20 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Bildungsforscher warnt: Diese Metakompetenz entscheidet über eure Zukunft",
+          "link": "https://t3n.de/news/bildungsforscher-warnt-vor-ki-in-der-schule-diese-metakompetenz-entscheidet-ueber-eure-zukunft-1756476/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer KI blind vertraut, verliert die Fähigkeit, Ergebnisse zu hinterfragen. Bildungsforscher Ulrich Trautwein fordert, Schulen und Hochschulen stärker auf Selbst weiterlesen auf t3n.de",
+          "published": "Mon, 17 Aug 2026 07:30:26 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": ".NET 11.0 Preview 7 bringt viele Neuigkeiten und Breaking Changes",
+          "link": "https://www.heise.de/news/Nochmals-viele-Neuerungen-und-zahlreiche-Breaking-Changes-in-NET-11-0-Preview-7-11412597.html",
+          "summary": "Die siebte Preview bringt abermals eine Spracherweiterung für C#, verbesserte Komprimierungs-APIs und neue Features für Blazor.",
+          "published": "2026-08-13T14:34:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Developer-Häppchen:  Kotlin-LSP für Cursor und Sneak Peek für Kubernetes",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Kotlin-LSP-fuer-Cursor-und-Sneak-Peak-fuer-Kubernetes-11399144.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Kubernetes, Servo, Symfony Polyfill, Python, Rust, Pandoc, Coreutils, JetBrains und Quasar.",
+          "published": "2026-08-08T07:15:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Photovoltaik: Kommerzielle Perowskit-Solarzellen bestehen Langzeittest",
+          "link": "https://www.golem.de/news/photovoltaik-kommerzielle-perowskit-solarzellen-bestehen-langzeittest-2608-212002.html",
+          "summary": "Eine neuartige Beschichtung lässt die Solarmodule die globale Norm für Langlebigkeit bestehen. Sie übertreffen zudem siliziumbasierte Zellen. ( Solarenergie , Wissenschaft )",
+          "published": "2026-08-17T14:19:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Anthropic defined the standards inside Agent Plugins. So why isn’t it helping govern the format?",
+        "Bildungsforscher warnt: Diese Metakompetenz entscheidet über eure Zukunft",
+        ".NET 11.0 Preview 7 bringt viele Neuigkeiten und Breaking Changes"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: Simple JSON API, GlassFish, Jakarta EE, JNoSQL, Open Liberty, LangChain4j",
+          "link": "https://www.infoq.com/news/2026/08/java-news-roundup-aug10-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for August 10th, 2026, features news highlighting: Simple JSON API proposed to target for JDK 28; an update on Jakarta EE 12; the August 2026 edition of Open Liberty; a point release of LangChain4j; maintenance releases of Eclipse JNoSQL and GraalVM Native Build tools; the third milestone release of GlassFish 9.0; and the second beta release of Groovy 6.0. By Michael Redlich",
+          "published": "Mon, 17 Aug 2026 02:30:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Java News Roundup: Simple JSON API, GlassFish, Jakarta EE, JNoSQL, Open Liberty, LangChain4j"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "KI-Phishing: Warum Klickraten laut TU-Berlin-Studie um den Faktor 3 steigen",
+          "link": "https://t3n.de/news/ki-phishing-klickraten-tu-berlin-steigen-1758203/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine aktuelle Studie zeigt, wie kleine, lokale KI-Modelle Phishing-Mails drastisch gefährlicher machen. LLMs konnten die Phishing-Mails so gut personalisieren, weiterlesen auf t3n.de",
+          "published": "Tue, 18 Aug 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "30 Jahre ITSG: Wie aus einem Trust Center ein zentraler IT-Dienstleister wurde",
+          "link": "https://www.heise.de/hintergrund/30-Jahre-ITSG-Wie-aus-einem-Trust-Center-ein-zentraler-IT-Dienstleister-wurde-11415866.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "ITSG feiert 30 Jahre. Ein Interview über den Datenaustausch, IT-Sicherheit und Strategien zu KI und Open Source.",
+          "published": "2026-08-17T17:23:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | Sicherheitskonzept Minimum Viable Zero Trust in 90 Tagen einführen",
+          "link": "https://www.heise.de/hintergrund/Sicherheitskonzept-Minimum-Viable-Zero-Trust-in-90-Tagen-einfuehren-11411155.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Das aus anderen Bereichen bekannte Minimum-Viable-Prinzip mit wenigen erfolgreichen Basismaßnahmen lässt sich auch auf die Einführung von Zero Trust übertragen.",
+          "published": "2026-08-17T16:44:24+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anzeige: Microsoft 365 mit Zero Trust absichern",
+          "link": "https://www.golem.de/news/anzeige-microsoft-365-mit-zero-trust-absichern-2608-210522.html",
+          "summary": "Microsoft 365 Zero Trust verlangt klare Kontrollen für Identitäten, Daten und Geräte. Ein Online-Workshop zeigt, wie Schutzmechanismen und Monitoring strukturiert umgesetzt werden. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-08-17T18:41:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KI-Phishing: Warum Klickraten laut TU-Berlin-Studie um den Faktor 3 steigen",
+        "30 Jahre ITSG: Wie aus einem Trust Center ein zentraler IT-Dienstleister wurde",
+        "heise+ | Sicherheitskonzept Minimum Viable Zero Trust in 90 Tagen einführen"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "(g+) KI-Agenten im Entwickleralltag: Wie KI-Agenten Jira, Git, Slack und CI/CD verändern",
+          "link": "https://www.golem.de/news/ki-agenten-im-entwickleralltag-wie-ki-agenten-jira-git-slack-und-ci-cd-veraendern-2608-211994.html",
+          "summary": "KI-Agenten schreiben nicht nur Code. Sie koordinieren Jira, Git, Slack und CI/CD - und verändern so den gesamten Softwareentwicklungsprozess. Wir erklären, wie. Ein Ratgebertext von Klaus Manhart ( Die Agenten kommen , KI )",
+          "published": "2026-08-17T13:30:06+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "(g+) KI-Agenten im Entwickleralltag: Wie KI-Agenten Jira, Git, Slack und CI/CD verändern"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Polizeigesetz Schleswig-Holstein: „Direkt aus dem Roman 1984“",
+          "link": "https://netzpolitik.org/2026/polizeigesetz-schleswig-holstein-direkt-aus-dem-roman-1984/",
+          "summary": "Protest gegen die Polizeigesetz-Erweiterung in Kiel. – Alle Rechte vorbehalten: Polizeigesetz SH stoppen, Bearbeitung netzpolitik.org Das neue Polizeigesetz von Schleswig-Holstein soll eines der härtesten Deutschlands werden. Die Gruppe Freiheitsfoo analysiert es in einem 22-seitigen Gutachten. Ihr Ergebnis: Der Entwurf ist eine Bedrohung für die Demokratie.",
+          "published": "Mon, 17 Aug 2026 14:11:08 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Software Testing: Was Bakterien besser machen als dein Scrum-Team",
+          "link": "https://www.heise.de/blog/Software-Testing-Was-Bakterien-besser-machen-als-dein-Scrum-Team-11384535.html",
+          "summary": "Die Softwareentwicklung kann sich von Strategien aus der Natur einiges abschauen, wie Anna Melbinger im Gespräch erläutert.",
+          "published": "2026-08-11T06:27:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "(g+) Luxury Goods: The new AI super-rich are reshaping the market for jets, yachts and cars",
+          "link": "https://www.golem.de/news/luxury-goods-the-new-ai-super-rich-are-reshaping-the-market-for-jets-yachts-and-cars-2608-212005.html",
+          "summary": "Those making fortunes in Silicon Valley are ditching the champagne for premium water while splashing their bitcoin Von Stephanie Stacey ( Wirtschaft , Ferrari )",
+          "published": "2026-08-17T18:00:06+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Polizeigesetz Schleswig-Holstein: „Direkt aus dem Roman 1984“",
+        "Software Testing: Was Bakterien besser machen als dein Scrum-Team",
+        "(g+) Luxury Goods: The new AI super-rich are reshaping the market for jets, yachts and cars"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Claude can now delete your production voice agent from a chat window",
+          "link": "https://thenewstack.io/elevenlabs-mcp-voice-agents/",
+          "summary": "Developers can now ask Claude to inspect a production voice agent, revise its system prompt, change the voice entirely, or The post Claude can now delete your production voice agent from a chat window appeared first on The New Stack .",
+          "published": "Mon, 17 Aug 2026 19:51:01 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "SpaceXAI Launches Grok Bot for Autonomous AI Agents",
+          "link": "https://www.infoq.com/news/2026/08/grok-bot-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "SpaceXAI has introduced Grok Bot, a system of persistent AI agents that operate on dedicated cloud computers and can interact with websites, applications, inboxes, and other tools. By Daniel Dominguez",
+          "published": "Mon, 17 Aug 2026 18:02:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "“Open weights are nowhere near a sufficient solution”: Dario Amodei fires back on AI power",
+          "link": "https://thenewstack.io/amodei-open-weights-compute-regulation/",
+          "summary": "The independence developers gain from open weights comes with a hard infrastructure ceiling, according to Anthropic CEO Dario Amodei. &#8220;AI The post &#8220;Open weights are nowhere near a sufficient solution&#8221;: Dario Amodei fires back on AI power appeared first on The New Stack .",
+          "published": "Mon, 17 Aug 2026 16:58:51 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "In diesem Game kannst du einen KI-Chatbot spielen – und Usern Antworten schreiben",
+          "link": "https://t3n.de/news/ki-chatbot-spiel-1758468/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Millionen Menschen nutzen täglich Chatbots, um Fragen beantwortet zu bekommen. Doch was, wenn du plötzlich in die Rolle der KI geworfen wirst? Dieses Spiel zeigt dir, wie es ist, für deine Nutzer:innen Texte und Bilder zu generieren. weiterlesen auf t3n.de",
+          "published": "Mon, 17 Aug 2026 16:00:32 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Grab Cuts Mechanical Analytics Work From 44% to 30% with AI Agents",
+          "link": "https://www.infoq.com/news/2026/08/grab-ai-analytics-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Grab is using AI agents to automate analytics workflows, cutting mechanical analyst work from 44% in February to 30% in June. Its approach combines agent autonomy, certified data, context management and human oversight, with self service analytics increasingly handling metric, data and SQL requests without analyst intervention. By Leela Kumili",
+          "published": "Mon, 17 Aug 2026 13:41:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Claude can now delete your production voice agent from a chat window",
+        "SpaceXAI Launches Grok Bot for Autonomous AI Agents",
+        "“Open weights are nowhere near a sufficient solution”: Dario Amodei fires back on AI power"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Major Frontier Model Providers Adopt Watermarking Tech to Comply with EU Regulation",
+          "link": "https://www.infoq.com/news/2026/08/eu-ai-content-watermark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "As of August 2, 2026, the EU AI Act Article 50 requires AI systems to mark synthetic outputs in a machine-detectable manner. Major vendors are implementing statistical watermarking methods, which influence natural language generation without affecting performance. This has prompted a swift reaction from the open-source community, raising compliance and vulnerability concerns. By Olimpiu Pop",
+          "published": "Tue, 18 Aug 2026 05:05:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "„The Sinking City 2“ angespielt: Lovecraft trifft auf Kriegsalltag",
+          "link": "https://www.heise.de/tests/The-Sinking-City-2-angespielt-Geboren-aus-Truemmern-11416172.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Im Horror-Spiel „The Sinking City 2“ erkunden Spieler eine Stadt in Trümmern, die aus Lovecraft-Albträumen und der Realität des Ukraine-Krieges entspringt.",
+          "published": "2026-08-17T17:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: Last Call: KI im Unternehmen verankern – vom Use Case zu skalierter KI-Strategie",
+          "link": "https://www.heise.de/news/Last-Call-KI-im-Unternehmen-verankern-vom-Use-Case-zu-skalierter-KI-Strategie-11353416.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In fünf Sessions lernen IT-Entscheider, KI strategisch im Unternehmen zu verankern und dabei Mitarbeitende mitzunehmen – alles im Einklang mit dem EU AI Act.",
+          "published": "2026-08-17T12:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anzeige: Cloud Competence Center erfolgreich aufbauen und steuern",
+          "link": "https://www.golem.de/news/anzeige-cloud-competence-center-erfolgreich-aufbauen-und-steuern-2608-210366.html",
+          "summary": "Der Aufbau eines Cloud Competence Centers verlangt klare Governance-Strukturen und eine durchdachte Roadmap. Ein Workshop vermittelt praxisnahe Ansätze für Unternehmen. ( Golem Karrierewelt , Verschlüsselung )",
+          "published": "2026-08-18T07:15:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Major Frontier Model Providers Adopt Watermarking Tech to Comply with EU Regulation",
+        "„The Sinking City 2“ angespielt: Lovecraft trifft auf Kriegsalltag",
+        "heise-Angebot: Last Call: KI im Unternehmen verankern – vom Use Case zu skalierter KI-Strategie"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
+          "link": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
+          "summary": "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid.",
+          "published": "Mon, 17 Aug 2026 20:23:09 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+          "link": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
+          "summary": "Despite loss, carriers still claim selling device-location data isn't illegal.",
+          "published": "Mon, 17 Aug 2026 20:00:20 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Protest: Künstler verwirrt KI-Überwachung mit Hypnose-Shirt",
+          "link": "https://netzpolitik.org/2026/protest-kuenstler-verwirrt-ki-ueberwachung-mit-hypnose-shirt/",
+          "summary": "Laut dem Künstler kann das T-Shirt Erkennungssoftware verwirren. – Alle Rechte vorbehalten: Simon Weckert Ein Künstler zeigt mit einem besonderen Hemd, wie automatische Videoüberwachung ausgetrickst werden kann. Es geht ihm dabei weniger um den Trick an sich, als um grundsätzliche Kritik an der invasiven und intransparenten Technologie.",
+          "published": "Mon, 17 Aug 2026 14:56:27 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Neues Leben für deinen alten iPod: Mit dieser Software spielst du problemlos Musik auf",
+          "link": "https://t3n.de/news/neues-leben-fuer-deinen-alten-ipod-mit-dieser-software-spielst-du-problemlos-musik-auf-1758434/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Verwendung von alten iPods liegt im Trend: Die MP3-Player spielen nur Musik und lenken nicht mit Apps ab. Mit dem Tool iMazing 3.6 kann man sie jetzt mit neuen Songs ausstatten – und alte herunterladen. weiterlesen auf t3n.de",
+          "published": "Mon, 17 Aug 2026 13:27:41 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "shadcn Brings Conversational Primitives to shadcn/ui with New Chat Components",
+          "link": "https://www.infoq.com/news/2026/08/shadcn-conversational-primitives/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Shadcn, a design engineer at Vercel, has introduced new components for chat interfaces within the shadcn/ui project. This release includes components like MessageScroller and Message, focusing on conversation functionality. The approach emphasizes modular design, allowing developers to adapt elements without affecting underlying logic or styles. Support for headless components is also provided. By Daniel Curtis",
+          "published": "Mon, 17 Aug 2026 11:01:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "The Moon's shadow raced across the heart of Spain, and I was there to see it",
+        "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+        "Protest: Künstler verwirrt KI-Überwachung mit Hypnose-Shirt"
+      ]
+    }
+  ]
+}
