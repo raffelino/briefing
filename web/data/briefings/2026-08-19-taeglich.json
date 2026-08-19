@@ -1,0 +1,324 @@
+{
+  "date": "2026-08-19",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
+          "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
+          "summary": "Tanks with defensive tech for shooting down drones are still proving vulnerable.",
+          "published": "Tue, 18 Aug 2026 22:18:13 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Dein altes Nokia könnte ein Vermögen wert sein – Diese Modelle sind gefragt",
+          "link": "https://t3n.de/news/alte-handys-wert-sammler-modelle-1582433/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Einige alte Handymodelle haben aufgrund ihrer historischen Bedeutung und Einzigartigkeit einen Kultstatus erlangt. Sammler sind bereit, hohe Preise für gut erhaltene oder unbenutzte Exemplare zu zahlen. weiterlesen auf t3n.de",
+          "published": "Tue, 18 Aug 2026 11:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise+ | Fairphone 6+ vs. 6: Mehr Arbeitsspeicher und schnellerer SoC",
+          "link": "https://www.heise.de/tests/Fairphone-6-Nachhaltiges-Smartphone-mit-mehr-Power-11360743.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Das Fairphone 6+ ist da: Mit schnellerem Snapdragon 7s Gen4, mehr RAM und Fokus auf Nachhaltigkeit. Lohnt sich der Aufpreis zum Vorgänger?",
+          "published": "2026-08-18T13:43:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Model-Schau: Offene Modelle aus den USA, große aus China und kleine aus Europa",
+          "link": "https://www.heise.de/hintergrund/Model-Schau-Offene-Modelle-aus-den-USA-grosse-aus-China-und-kleine-aus-Europa-11415890.html",
+          "summary": "Die chinesischen Modelle werden größer und die amerikanischen Modelle offener. Außerdem gibt es Neuigkeiten aus der Schweiz und endlich aus Deutschland.",
+          "published": "2026-08-18T07:15:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": ".NET 11.0 Preview 7 bringt viele Neuigkeiten und Breaking Changes",
+          "link": "https://www.heise.de/news/Nochmals-viele-Neuerungen-und-zahlreiche-Breaking-Changes-in-NET-11-0-Preview-7-11412597.html",
+          "summary": "Die siebte Preview bringt abermals eine Spracherweiterung für C#, verbesserte Komprimierungs-APIs und neue Features für Blazor.",
+          "published": "2026-08-13T14:34:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
+        "Dein altes Nokia könnte ein Vermögen wert sein – Diese Modelle sind gefragt",
+        "heise+ | Fairphone 6+ vs. 6: Mehr Arbeitsspeicher und schnellerer SoC"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Redis: Sicherheitsupdates gegen Schadcode-Lücken",
+          "link": "https://www.heise.de/news/Redis-Sicherheitsupdates-gegen-Schadcode-Luecken-11417524.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In der In-Memory-Datenbank Redis wurden mehrere Schwachstellen ausgemacht, die etwa Einschleusen von Schadcode erlauben. Es hagelt Updates.",
+          "published": "2026-08-18T14:06:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop IT-Sicherheit: Angriffstechniken verstehen und erfolgreich abwehren",
+          "link": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Angriffstechniken-verstehen-und-erfolgreich-abwehren-11404532.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Analysieren Sie aktuelle Angriffstechniken mit und ohne KI, um die Wirksamkeit Ihrer Schutzmaßnahmen und die Verletzlichkeit Ihrer IT einzuschätzen.",
+          "published": "2026-08-18T14:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kritische Sicherheitslücke in GitLab: Angreifer können Projekte löschen",
+          "link": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-GitLab-Angreifer-koennen-Projekte-loeschen-11417037.html",
+          "summary": "GitLab-Umgebungen sind über zwei nun geschlossene Schwachstellen attackierbar.",
+          "published": "2026-08-18T08:29:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: KI im Pentesting: Schwachstellen finden, Resilienz sichern",
+          "link": "https://www.golem.de/news/anzeige-ki-im-pentesting-schwachstellen-finden-resilienz-sichern-2608-209586.html",
+          "summary": "Sicherheitstests binden viel Zeit, während Bedrohungen und regulatorische Anforderungen wachsen. Ein Workshop zeigt, wie KI-gestütztes Pentesting Prüfungen und Reports beschleunigt. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-08-19T07:15:07+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+          "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the [&#8230;]",
+          "published": "2026-08-18T15:28:30-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Redis: Sicherheitsupdates gegen Schadcode-Lücken",
+        "heise-Angebot: iX-Workshop IT-Sicherheit: Angriffstechniken verstehen und erfolgreich abwehren",
+        "Kritische Sicherheitslücke in GitLab: Angreifer können Projekte löschen"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Big-Bang-Manöver: Wie die Nasa das Überleben von Voyager 2 sichert",
+          "link": "https://t3n.de/news/nasa-voyager-2-big-bang-manoever-1758629/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Um das vorzeitige Ende der Voyager-2-Mission abzuwenden, hat die Nasa einen weitreichenden Eingriff an der Raumsonde vorgenommen. Eine pragmatische Maßnahme stellt nun sicher, dass die schwindenden Energiereserven vorerst ausreichen. weiterlesen auf t3n.de",
+          "published": "Tue, 18 Aug 2026 16:15:03 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Probleme beim Jobcenter: Bundesregierung verteidigt Hürden beim Online-Zugang",
+          "link": "https://www.heise.de/news/Probleme-beim-Jobcenter-Bundesregierung-verteidigt-Huerden-beim-Online-Zugang-11418546.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die 2-Faktor-Authentifizierung beim Online-Arbeitsamt führt zu Ärger, E-Mails bleiben unerwünscht, analoge Angebote schrumpfen. Die Regierung tut wenig dagegen.",
+          "published": "2026-08-18T17:44:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Big-Bang-Manöver: Wie die Nasa das Überleben von Voyager 2 sichert",
+        "Probleme beim Jobcenter: Bundesregierung verteidigt Hürden beim Online-Zugang"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Polizei und Verfassungsschutz: Was bei einer Machtübernahme durch Rechtsextreme droht",
+          "link": "https://netzpolitik.org/2026/polizei-und-verfassungsschutz-was-bei-einer-machtuebernahme-durch-rechtsextreme-droht/",
+          "summary": "Wie würde die AfD mit der Polizei umgehen, wenn sie an der Macht wäre? – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Würde die AfD ein Bundesland regieren, hätte sie eine Reihe von Möglichkeiten, den Sicherheitsapparat in ihrem Sinne neu auszurichten. Doch Demokrat*innen stehen dem nicht hilflos gegenüber. Wir haben mit dem Rechtswissenschaftler Markus Thiel darüber gesprochen, welche Gefahren eine potenzielle Machtübernahme birgt und was man dagegen tun kann.",
+          "published": "Tue, 18 Aug 2026 09:12:45 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Medizinprodukteverordnung: „2.000 Seiten Dokumentation für eine einfache Kanüle“",
+          "link": "https://www.heise.de/hintergrund/Medizinprodukteverordnung-2-000-Seiten-Dokumentation-fuer-eine-einfache-Kanuele-11417324.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Interview über die Verordnung von Medizinprodukten (MDR), bürokratische Hürden für kleine Unternehmen und wie eine sinnvolle Risikoüberwachung aussehen sollte.",
+          "published": "2026-08-18T16:21:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Software Testing: Was Bakterien besser machen als dein Scrum-Team",
+          "link": "https://www.heise.de/blog/Software-Testing-Was-Bakterien-besser-machen-als-dein-Scrum-Team-11384535.html",
+          "summary": "Die Softwareentwicklung kann sich von Strategien aus der Natur einiges abschauen, wie Anna Melbinger im Gespräch erläutert.",
+          "published": "2026-08-11T06:27:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Kernel 7.2: Linux Kernel verteilt Prozesse effizienter und swapped besser",
+          "link": "https://www.golem.de/news/kernel-7-2-linux-kernel-verteilt-prozesse-effizienter-und-swapped-besser-2608-212038.html",
+          "summary": "Die neue Version des Linux-Kernels ermöglicht mehr Effizienz und nimmt einige bereits angekündigte Änderungen auf. Der 486-Support ist weg. ( Linux-Kernel , Dateisystem )",
+          "published": "2026-08-18T12:31:09+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Chuwi Unibook & Core 3 304 im Test: Macbook Neo macht Intels Wildkatze zum Bettvorleger",
+          "link": "https://www.golem.de/news/chuwi-unibook-core-3-304-im-test-macbook-neo-macht-intels-wildkatze-zum-bettvorleger-2608-211995.html",
+          "summary": "Sind Notebooks mit Intels Wildcat-Lake-Prozessoren die Alternative zum Macbook Neo? Unser Test unter Linux und Windows ist leider enttäuschend. Ein Test von Johannes Hiltscher ( PC & Notebooks , Prozessor )",
+          "published": "2026-08-18T12:00:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Polizei und Verfassungsschutz: Was bei einer Machtübernahme durch Rechtsextreme droht",
+        "Medizinprodukteverordnung: „2.000 Seiten Dokumentation für eine einfache Kanüle“",
+        "Software Testing: Was Bakterien besser machen als dein Scrum-Team"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Warum das Universum vielleicht nur „vorläufig stabil“ ist – Astrophysikerin Katie Mack klärt auf",
+          "link": "https://t3n.de/news/warum-universum-vorlaeufig-stabil-katie-mack-1686226/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die theoretische Astrophysikerin Katie Mack beschäftigt sich mit Dunkler Materie, schwarzen Löchern und kosmischen Strings. In ihrem Buch „The End of Everything“ geht sie der Frage nach, wie das Universum zu Ende gehen könnte. weiterlesen auf t3n.de",
+          "published": "Wed, 19 Aug 2026 06:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Startup bewertet wissenschaftliche Studien – doch das Ranking sorgt für Wirbel",
+          "link": "https://t3n.de/news/ki-startup-wissenschaftliche-studien-wirbel-1758362/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Startup QED Science setzt auf KI, um die Qualität von wissenschaftlichen Arbeiten schneller zu bewerten. Doch das Verfahren wirft selbst Fragen nach Transparenz, Bias und Objektivität auf. weiterlesen auf t3n.de",
+          "published": "Wed, 19 Aug 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "What happens to your indexed data when Mistral flips the switch?",
+          "link": "https://thenewstack.io/mistral-mcp-connector-migration/",
+          "summary": "Mistral is giving enterprise customers until August 31 to replace the Google Drive and Microsoft SharePoint Knowledge Connectors they use The post What happens to your indexed data when Mistral flips the switch? appeared first on The New Stack .",
+          "published": "Tue, 18 Aug 2026 20:07:55 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "A Claude Code skill was eating 200,000 tokens before answering a single question",
+          "link": "https://thenewstack.io/claude-code-token-reduction/",
+          "summary": "A Claude Code skill designed to help developers work with Anthropic&#8217;s API was consuming more than 200,000 tokens to load. The post A Claude Code skill was eating 200,000 tokens before answering a single question appeared first on The New Stack .",
+          "published": "Tue, 18 Aug 2026 17:42:50 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Agentic AI has a latency problem that more compute won’t solve",
+          "link": "https://thenewstack.io/agentic-ai-latency-infrastructure/",
+          "summary": "Half of enterprise AI deployments are missing their own latency targets at peak load. This is the headline finding of The post Agentic AI has a latency problem that more compute won&#8217;t solve appeared first on The New Stack .",
+          "published": "Tue, 18 Aug 2026 16:58:18 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Warum das Universum vielleicht nur „vorläufig stabil“ ist – Astrophysikerin Katie Mack klärt auf",
+        "KI-Startup bewertet wissenschaftliche Studien – doch das Ranking sorgt für Wirbel",
+        "What happens to your indexed data when Mistral flips the switch?"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "GitHub Brings Stacked Pull Requests to Public Preview",
+          "link": "https://www.infoq.com/news/2026/08/github-stacked-pull-requests/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "GitHub has announced that Stacked Pull Requests are now available in public preview, introducing native support for breaking large software changes into smaller, dependent pull requests that can be reviewed and merged independently. By Craig Risi",
+          "published": "Tue, 18 Aug 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Major Frontier Model Providers Adopt Watermarking Tech to Comply with EU Regulation",
+          "link": "https://www.infoq.com/news/2026/08/eu-ai-content-watermark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "As of August 2, 2026, the EU AI Act Article 50 requires AI systems to mark synthetic outputs in a machine-detectable manner. Major vendors are implementing statistical watermarking methods, which influence natural language generation without affecting performance. This has prompted a swift reaction from the open-source community, raising compliance and vulnerability concerns. By Olimpiu Pop",
+          "published": "Tue, 18 Aug 2026 05:05:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise-Angebot: CRA in der Praxis – Cybersicherheit in der Produktentwicklung stärken",
+          "link": "https://www.heise.de/news/CRA-in-der-Praxis-Cybersicherheit-in-der-Produktentwicklung-staerken-11409202.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Cyber Resilience Act fordert die Einhaltung neuer Pflichten. Unser Classroom zeigt praxisnah, wie man diese Anforderungen in der Produktentwicklung umsetzt.",
+          "published": "2026-08-18T12:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "GitHub Brings Stacked Pull Requests to Public Preview",
+        "Major Frontier Model Providers Adopt Watermarking Tech to Comply with EU Regulation",
+        "heise-Angebot: CRA in der Praxis – Cybersicherheit in der Produktentwicklung stärken"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Argentinien: Überwachung mit der Kettensäge",
+          "link": "https://netzpolitik.org/2026/argentinien-ueberwachung-mit-der-kettensaege/",
+          "summary": "Setzt die Motorsäge auch an der Privatsphäre an: Argentiniens Präsident Javier Milei. – Alle Rechte vorbehalten: IMAGO / ZUMA Press Wire Argentinien baut die Massenüberwachung aus – sowohl politisch wie technisch. Ein neuer Bericht von Amnesty International beklagt deswegen erhebliche Gefahren für Meinungs- und Versammlungsfreiheit in dem südamerikanischen Land.",
+          "published": "Wed, 19 Aug 2026 03:00:26 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Bahnsparer: Diese App soll dir beim Fahrkartenkauf Geld sparen",
+          "link": "https://t3n.de/news/db-ticket-geld-sparen-app-1758565/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer häufiger mit der Bahn reist, kann bares Geld beim Ticketkauf sparen. Das verspricht zumindest die App Bahnsparer. Wie sie funktioniert und welche Einsparungen damit möglich sind. weiterlesen auf t3n.de",
+          "published": "Tue, 18 Aug 2026 15:45:56 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Absurde Entscheidung: Kartellamt verpflichtet Apple zu manipulativem Design",
+          "link": "https://netzpolitik.org/2026/absurde-entscheidung-kartellamt-verpflichtet-apple-zu-manipulativem-design/",
+          "summary": "Nutzer:innen müssen sich demnächst bei Apple wieder durch manipulativen Informationsmüll wühlen, wenn sie kein Tracking wollen. (Symbolbild) – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Carl Campbell Wer ein Apple-Gerät hatte, wurde in der Vergangenheit recht gut vor dem Zugriff der Werbebranche gewarnt. Nach einem auch von deutschen Zeitungsverlagen angestrengten Verfahren beim Kartellamt wird der Schutz nun verwässert – mit klaren Nachteilen für die Nutzer:innen. Ein Kommentar.",
+          "published": "Tue, 18 Aug 2026 13:17:08 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Wenn Schallwellen zu Treibstoff werden: Diese Mini-Drohnen fliegen ganz ohne Motor",
+          "link": "https://t3n.de/news/wenn-schallwellen-zu-treibstoff-werden-diese-mini-drohnen-fliegen-ganz-ohne-motor-1758606/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Forschungsteam aus Lausanne hat mithilfe einer 3D-Nanodrucktechnik winzige Drohnen entwickelt, die sich über Tonfrequenzen steuern lassen. Durch das Verfahren ergeben sich völlig neue Einsatzbereiche. weiterlesen auf t3n.de",
+          "published": "Tue, 18 Aug 2026 15:15:07 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Airpods mit Kamera: Was ein Video in der macOS-Beta über neue Apple-Kopfhörer verraten soll",
+          "link": "https://t3n.de/news/airpods-kamera-video-leak-kopfhoerer-1758546/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Gerücht hält sich schon lange. Apple soll an neuen Airpods mit integrierten Kameras arbeiten. Doch wozu sollen die eigentlich gut sein? Ein durchgesickertes Video soll Aufschluss geben. weiterlesen auf t3n.de",
+          "published": "Tue, 18 Aug 2026 14:00:54 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Argentinien: Überwachung mit der Kettensäge",
+        "Bahnsparer: Diese App soll dir beim Fahrkartenkauf Geld sparen",
+        "Absurde Entscheidung: Kartellamt verpflichtet Apple zu manipulativem Design"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Neue Gaskraftwerke für KI: Enormer CO2-Anstieg befürchtet",
+          "link": "https://www.heise.de/news/Neue-Gaskraftwerke-fuer-KI-Enormer-CO2-Anstieg-befuerchtet-11418710.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der CO2-Ausstoß der US-Stromproduktion könnte um bis zu einem Drittel steigen, werden 99 geplante Gaskraftwerke für KI-Datenzentren realisiert.",
+          "published": "2026-08-19T05:45:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anzeige: FRITZ!DECT 210 smarte Outdoor-Steckdose zum neuen Amazon-Bestpreis erstmals unter 30 Euro",
+          "link": "https://www.golem.de/news/anzeige-fritz-dect-210-smarte-outdoor-steckdose-zum-neuen-amazon-bestpreis-erstmals-unter-30-euro-2608-212031.html",
+          "summary": "Die FRITZ!DECT 210 ist bei Amazon jetzt günstig wie nie, schaltet Geräte im Garten per App oder Zeitplan und misst den Energieverbrauch. ( Technik/Hardware )",
+          "published": "2026-08-18T10:35:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Neue Gaskraftwerke für KI: Enormer CO2-Anstieg befürchtet",
+        "Anzeige: FRITZ!DECT 210 smarte Outdoor-Steckdose zum neuen Amazon-Bestpreis erstmals unter 30 Euro"
+      ]
+    }
+  ]
+}
