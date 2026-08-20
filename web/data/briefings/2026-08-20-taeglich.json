@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-20",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "bpm",
+      "name": "BPM & Prozessautomatisierung",
+      "items": [
+        {
+          "title": "The Open-Sourcing of DeepSeek Harness Opens the Door to Modular, Unbundled AI Agent Infrastructure",
+          "link": "https://www.infoq.com/news/2026/08/deep-seek-harness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "DeepSeek has released a developer preview of DeepSeek Harness (dsh), an open-source execution runtime for building autonomous AI agents. The software features a micro-kernel architecture with modular plugins for various functional units. The release includes an append-only event logging system for tracking execution activities. Adoption may depend on plugin ecosystem stability and API maintenance. By Olimpiu Pop",
+          "published": "Thu, 20 Aug 2026 05:05:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu BPM & Prozessautomatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "The Open-Sourcing of DeepSeek Harness Opens the Door to Modular, Unbundled AI Agent Infrastructure"
+      ]
+    },
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Whatsapp Tests on Device ML for Scam Detection with Privacy Preserving Analytics",
+          "link": "https://www.infoq.com/news/2026/08/whatsapp-scam-alert-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "WhatsApp is testing Scam Alert in limited beta, using on device machine learning to detect potential scam messages from non contacts. Meta's architecture keeps message content on the device while using confidential computing, Oblivious HTTP, differential privacy, and model transparency to measure performance and protect model delivery. By Leela Kumili",
+          "published": "Wed, 19 Aug 2026 14:17:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Whatsapp Tests on Device ML for Scam Detection with Privacy Preserving Analytics"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AWS deprecated this EKS auth method. 81% of clusters still run it.",
+          "link": "https://thenewstack.io/kubernetes-fleet-security-management/",
+          "summary": "The migration to Kubernetes and cloud native infrastructure has been one of the defining IT trends of the past decade. The post AWS deprecated this EKS auth method. 81% of clusters still run it. appeared first on The New Stack .",
+          "published": "Wed, 19 Aug 2026 18:59:54 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Presentation: Understanding Progressive Collapse: How To Avoid A Cascading Failure",
+          "link": "https://www.infoq.com/presentations/progressive-collapse-system-resilience/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Sam Newman discusses the concept of progressive collapse in civil engineering and how it applies to distributed systems. Using real-world examples - from the 1968 Ronan Point tower failure to AWS outages - he shares crucial resilience engineering strategies for software leaders. Learn how to strengthen components, isolate failures, and reduce interconnections to prevent catastrophic cascades. By Sam Newman",
+          "published": "Wed, 19 Aug 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Souveränität: Viele Unternehmen sehen riskante US-Abhängigkeit, tun aber nichts",
+          "link": "https://www.heise.de/news/Souveraenitaet-Viele-Unternehmen-sehen-riskante-US-Abhaengigkeit-tun-aber-nichts-11419703.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine ifo-Umfrage zeigt, dass nicht wenige deutsche Unternehmen zwar ihre Abhängigkeit von US-Diensten als riskant einstufen, aber keine Gegenmaßnahmen planen.",
+          "published": "2026-08-19T18:14:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Model-Schau: Offene Modelle aus den USA, große aus China und kleine aus Europa",
+          "link": "https://www.heise.de/hintergrund/Model-Schau-Offene-Modelle-aus-den-USA-grosse-aus-China-und-kleine-aus-Europa-11415890.html",
+          "summary": "Die chinesischen Modelle werden größer und die amerikanischen Modelle offener. Außerdem gibt es Neuigkeiten aus der Schweiz und endlich aus Deutschland.",
+          "published": "2026-08-18T07:15:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": ".NET 11.0 Preview 7 bringt viele Neuigkeiten und Breaking Changes",
+          "link": "https://www.heise.de/news/Nochmals-viele-Neuerungen-und-zahlreiche-Breaking-Changes-in-NET-11-0-Preview-7-11412597.html",
+          "summary": "Die siebte Preview bringt abermals eine Spracherweiterung für C#, verbesserte Komprimierungs-APIs und neue Features für Blazor.",
+          "published": "2026-08-13T14:34:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AWS deprecated this EKS auth method. 81% of clusters still run it.",
+        "Presentation: Understanding Progressive Collapse: How To Avoid A Cascading Failure",
+        "Souveränität: Viele Unternehmen sehen riskante US-Abhängigkeit, tun aber nichts"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: c’t-Webinar: Digitale Sicherheit für Anfänger",
+          "link": "https://www.heise.de/news/c-t-Webinar-Digitale-Sicherheit-fuer-Anfaenger-11416845.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Clevere Backups, sichere Passwörter und geschützte Geräte: Lernen Sie die Grundlagen der IT-Sicherheit in alltagstauglichen Schritten kennen.",
+          "published": "2026-08-19T12:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kritische Sicherheitslücke in GitLab: Angreifer können Projekte löschen",
+          "link": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-GitLab-Angreifer-koennen-Projekte-loeschen-11417037.html",
+          "summary": "GitLab-Umgebungen sind über zwei nun geschlossene Schwachstellen attackierbar.",
+          "published": "2026-08-18T08:29:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: c’t-Webinar: Digitale Sicherheit für Anfänger",
+        "Kritische Sicherheitslücke in GitLab: Angreifer können Projekte löschen"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "140 Tonnen Wasserstoff ungenutzt: Kanadische Mine zeigt Krux der wertvollen Energiequelle",
+          "link": "https://t3n.de/news/140-tonnen-wasserstoff-ungenutzt-kanadische-mine-zeigt-krux-der-wertvollen-energiequelle-1758632/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der weltweite Ansturm auf unterirdische Wasserstoffvorkommen für unsere Energieversorgung und als Rohstoffquelle hält an. Doch die Forschenden sind noch dabei, weiterlesen auf t3n.de",
+          "published": "Wed, 19 Aug 2026 15:00:33 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Riese & Müller Charger 4 GT im Test: Sportliches City-E-Bike mit Bosch-CX-Motor",
+          "link": "https://www.heise.de/bestenlisten/testbericht/riese-und-mueller-charger-4-gt-im-test-sportliches-city-e-bike-mit-bosch-cx-motor/m4vshzg?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das E-Bike Riese & Müller Charger 4 GT gehört zu den beliebtesten Modellreihen des Luxus-Herstellers. Wir haben uns ein Refurbished-Modell genauer angeschaut.",
+          "published": "2026-08-19T16:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux 7.2 bringt umfangreiche Treiberupdates",
+          "link": "https://www.heise.de/news/Linux-7-2-bringt-umfangreiche-Treiberupdates-11419043.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Am Sonntag hat Linus Torvalds den Linux-Kernel 7.2 freigegeben. Im Entwicklungs-Endspurt gab es noch größere Änderungen.",
+          "published": "2026-08-19T11:12:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux 7.2 bringt umfangreiche Treiberupdates",
+          "link": "https://www.heise.de/news/Linux-7-2-bringt-umfangreiche-Treiberupdates-11419043.html",
+          "summary": "Am Sonntag hat Linus Torvalds den Linux-Kernel 7.2 freigegeben. Im Entwicklungs-Endspurt gab es noch größere Änderungen.",
+          "published": "2026-08-19T09:12:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Fehler in HTML, CSS und Accessibility – 87 Prozent der Top-Seiten fehlerhaft",
+          "link": "https://www.heise.de/news/87-Prozent-der-Top-Webseiten-verletzen-Standards-und-Accessibility-11417790.html",
+          "summary": "Viele der Top-Webseiten halten sich nicht an die Standards. Das kann zu Problemen mit der Barrierefreiheit oder der KI-Kommunikation führen.",
+          "published": "2026-08-19T05:56:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "140 Tonnen Wasserstoff ungenutzt: Kanadische Mine zeigt Krux der wertvollen Energiequelle",
+        "Riese & Müller Charger 4 GT im Test: Sportliches City-E-Bike mit Bosch-CX-Motor",
+        "Linux 7.2 bringt umfangreiche Treiberupdates"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "KI-Hoffnung Mistral kapituliert: Warum wir kein „europäisches ChatGPT“ brauchen",
+          "link": "https://t3n.de/news/mistral-kapitulation-europaeische-ki-strategie-1758113/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mistral gilt als europäisches Vorzeige-KI-Labor. Jetzt öffnet es seine Infrastruktur für andere Modelle. Für unseren Autor ein Eingeständnis eines Fehlers, der auch Chancen bietet. weiterlesen auf t3n.de",
+          "published": "Thu, 20 Aug 2026 05:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "“The opening stages of OpenAI’s unraveling”: OpenAI slows model training — not everyone is buying the explanation",
+          "link": "https://thenewstack.io/openai-training-pause-cybersecurity/",
+          "summary": "Something of a trend has emerged this year, with the major AI labs going all-out to tell the world how The post &#8220;The opening stages of OpenAI&#8217;s unraveling&#8221;: OpenAI slows model training &#8212; not everyone is buying the explanation appeared first on The New Stack .",
+          "published": "Wed, 19 Aug 2026 21:53:30 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Codex can now keep coding while it waits for your answer",
+          "link": "https://thenewstack.io/codex-async-developer-messaging/",
+          "summary": "Long-running coding agents face an awkward choice when they need a developer&#8217;s input. They can stop and wait or make The post Codex can now keep coding while it waits for your answer appeared first on The New Stack .",
+          "published": "Wed, 19 Aug 2026 17:44:59 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Your coding agent got the onboarding your developers never did",
+          "link": "https://thenewstack.io/coding-agents-developer-neglect/",
+          "summary": "Steve Yegge thinks your AI has feelings. His new two-part essay, &#8220;The Shape of Things to Come,&#8221; argues that agentic The post Your coding agent got the onboarding your developers never did appeared first on The New Stack .",
+          "published": "Wed, 19 Aug 2026 17:04:22 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Claude in Gmail: So verschickt die KI jetzt Mails für dich",
+          "link": "https://t3n.de/news/claude-in-gmail-ki-verschickt-mails-1758808/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Claude bekommt ein Update spendiert. Anthropic lässt jetzt weitere KI-Aktionen in Google-Diensten wie Gmail zu. Welche Aufgaben dir das Tool innerhalb der Apps abnehmen kann. weiterlesen auf t3n.de",
+          "published": "Wed, 19 Aug 2026 15:40:15 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KI-Hoffnung Mistral kapituliert: Warum wir kein „europäisches ChatGPT“ brauchen",
+        "“The opening stages of OpenAI’s unraveling”: OpenAI slows model training — not everyone is buying the explanation",
+        "Codex can now keep coding while it waits for your answer"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Deutsche Unternehmen zurückhaltend: KI-Einsatz im Personalwesen noch selten",
+          "link": "https://www.golem.de/news/deutsche-unternehmen-zurueckhaltend-ki-einsatz-im-personalwesen-noch-selten-2608-212090.html",
+          "summary": "Datenschutz-Bedenken und unklare Vorschriften des AI Act lassen deutsche Unternehmen beim Umgang von KI mit Personaldaten vorsichtig sein. ( KI , Studien )",
+          "published": "2026-08-19T13:44:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Deutsche Unternehmen zurückhaltend: KI-Einsatz im Personalwesen noch selten"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "The floodgates are open after another Chinese company lands a reusable rocket",
+          "link": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
+          "summary": "\"We will put the booster back into service for another flight as soon as possible.\"",
+          "published": "Wed, 19 Aug 2026 18:41:02 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Trump expected to pick conservative policy wonk Heidi Overton to lead FDA",
+          "link": "https://arstechnica.com/health/2026/08/trump-expected-to-pick-conservative-policy-wonk-heidi-overton-to-lead-fda/",
+          "summary": "She opposes abortion, is wary of peptides, supports limiting vaccines, vexes MAHA.",
+          "published": "Wed, 19 Aug 2026 13:54:36 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Google Kalender: So stoppst du jetzt nervigen Meeting-Spam von Kollegen",
+          "link": "https://t3n.de/news/google-kalender-nervigen-meeting-spam-stoppen-1758748/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Du bekommst regelmäßig Meeting-Einladungen über den Google-Kalender, die sich schon wie Spam anfühlen? Dann hat der Tech-Gigant jetzt ein neues Feature für dich, mit dem du nervigen Kolleg:innen Einhalt gebieten kannst. weiterlesen auf t3n.de",
+          "published": "Wed, 19 Aug 2026 14:30:20 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Heimliches Filmen: Kann man Überwachungsbrillen verbieten?",
+          "link": "https://netzpolitik.org/2026/heimliches-filmen-kann-man-ueberwachungsbrillen-verbieten/",
+          "summary": "Die Ray-Ban Wayfarer: das Modell mit Kamera ist von einer herkömmlichen Brille kaum zu unterscheiden. – Alle Rechte vorbehalten: MAGO / anke waelischmiller In Deutschland mehren sich die Stimmen, die wegen der heimlichen Überwachung ein Verbot der KI-Brillen fordern. Doch vorerst wird der Vormarsch von Metas Brille wohl nicht von Behörden gestoppt.",
+          "published": "Wed, 19 Aug 2026 12:26:54 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "5 Unterbrechungen im Homeoffice, die deine Leistung steigern können",
+          "link": "https://t3n.de/news/homeoffice-unterbrechungen-leistung-steigern-1674365/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Dinge, die deine Mitarbeitenden im Homeoffice unbedingt tun sollten: Sport, Spazieren, Essen kochen, Gartenarbeit. Effektiver als Zeit zu verdaddeln, ist es allemal. weiterlesen auf t3n.de",
+          "published": "Wed, 19 Aug 2026 13:35:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "The floodgates are open after another Chinese company lands a reusable rocket",
+        "Trump expected to pick conservative policy wonk Heidi Overton to lead FDA",
+        "Google Kalender: So stoppst du jetzt nervigen Meeting-Spam von Kollegen"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "heise+ | Heißkalt: Wie Akkus auf ihrer Wohlfühltemperatur gehalten werden",
+          "link": "https://www.heise.de/hintergrund/Heisskalt-Wie-Akkus-auf-ihrer-Wohlfuehltemperatur-gehalten-werden-11398455.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Thermomanagement ist entscheidend, um optimale Leistung, Effizienz und langes Akkuleben unter einen Hut zu bringen. Wie genau löst Porsche das technisch?",
+          "published": "2026-08-20T07:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise+ | Heißkalt: Wie Akkus auf ihrer Wohlfühltemperatur gehalten werden"
+      ]
+    }
+  ]
+}
