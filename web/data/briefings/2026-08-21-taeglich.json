@@ -1,0 +1,312 @@
+{
+  "date": "2026-08-21",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "bpm",
+      "name": "BPM & Prozessautomatisierung",
+      "items": [
+        {
+          "title": "The Open-Sourcing of DeepSeek Harness Opens the Door to Modular, Unbundled AI Agent Infrastructure",
+          "link": "https://www.infoq.com/news/2026/08/deep-seek-harness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "DeepSeek has released a developer preview of DeepSeek Harness (dsh), an open-source execution runtime for building autonomous AI agents. The software features a micro-kernel architecture with modular plugins for various functional units. The release includes an append-only event logging system for tracking execution activities. Adoption may depend on plugin ecosystem stability and API maintenance. By Olimpiu Pop",
+          "published": "Thu, 20 Aug 2026 05:05:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu BPM & Prozessautomatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "The Open-Sourcing of DeepSeek Harness Opens the Door to Modular, Unbundled AI Agent Infrastructure"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "OpenRouter called itself the “Stripe for LLMs” — now Stripe’s swooped in to buy it",
+          "link": "https://thenewstack.io/stripe-acquires-openrouter-tokens/",
+          "summary": "After weeks of speculation, fintech giant Stripe has confirmed that it&#8217;s tabled a bid for AI model gateway platform OpenRouter, The post OpenRouter called itself the “Stripe for LLMs” &#8212; now Stripe’s swooped in to buy it appeared first on The New Stack .",
+          "published": "Thu, 20 Aug 2026 17:20:31 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Schnellster Stern der Milchstraße entdeckt: Was das für die Erforschung Schwarzer Löcher bedeutet",
+          "link": "https://t3n.de/news/schnellster-stern-der-milchstrasse-entdeckt-was-das-fuer-die-erforschung-schwarzer-loecher-bedeutet-1759038/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "S301 bewegt sich mit acht Prozent der Lichtgeschwindigkeit. Damit ist er schneller als jeder andere Stern der Galaxie – und könnte Einsteins Allgemeine Relativitätstheorie auf eine wichtige Probe stellen. weiterlesen auf t3n.de",
+          "published": "Thu, 20 Aug 2026 17:00:08 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Kubernetes at the edge has hit a wall. Fleet management is the way through.",
+          "link": "https://thenewstack.io/edge-kubernetes-fleet-management/",
+          "summary": "Not too long ago, edge computing was seen as a niche use case, limited to telcos, manufacturing plants, and large The post Kubernetes at the edge has hit a wall. Fleet management is the way through. appeared first on The New Stack .",
+          "published": "Thu, 20 Aug 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Microsoft Releases Aspire 13.5 With a Refreshed Dashboard and Workflow Improvements",
+          "link": "https://www.infoq.com/news/2026/08/dotnet-aspire-13-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Last week, Microsoft released Aspire 13.5, an update that refreshes the dashboard and the aspire.dev homepage and adds several quality-of-life features. The Interaction Service gains file imports and progress dialogs; resources can host an interactive terminal in the dashboard, and deployment adds Kubernetes persistent volumes and cross-scope Azure references. By Almir Vuk",
+          "published": "Thu, 20 Aug 2026 08:07:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Flux Mirror Uses Gitless GitOps to Keep Software Supply Chain Under Control",
+          "link": "https://www.infoq.com/news/2026/08/flux-mirror-gitless-gitops/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Flux has introduced Flux Mirror, a CLI plugin that mirrors container images, Helm charts and OCI artifacts between registries from a declarative configuration. The plugin is part of the Flux v2.9 CLI plugin system and is presented as a way to keep Kubernetes clusters reconciling only from registries that teams operate themselves. By Matt Saunders",
+          "published": "Thu, 20 Aug 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "OpenRouter called itself the “Stripe for LLMs” — now Stripe’s swooped in to buy it",
+        "Schnellster Stern der Milchstraße entdeckt: Was das für die Erforschung Schwarzer Löcher bedeutet",
+        "Kubernetes at the edge has hit a wall. Fleet management is the way through."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Microsoft behebt Sicherheitslücke: KI-Assistent Copilot verrät Schwachstellen",
+          "link": "https://www.heise.de/news/Sicherheitsluecke-in-Microsoft-365-Copilot-KI-verraet-eigene-Schutzmechanismen-11420618.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Sicherheitsforscher haben Microsofts KI-Assistenten dazu gebracht, seine eigenen Schutzmechanismen offenzulegen.",
+          "published": "2026-08-20T14:18:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: September-Termin: heise security Tour mit Vorträgen zu KI, Lieferketten und mehr",
+          "link": "https://www.heise.de/news/September-Termin-heise-security-Tour-mit-Vortraegen-zu-KI-Lieferketten-und-mehr-11415876.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Eintageskonferenz für Sicherheitsverantwortliche mit praxisrelevantem Wissen zu aktuellen Herausforderungen der IT-Sicherheit. Jetzt noch als Frühbucher.",
+          "published": "2026-08-20T12:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kritische Sicherheitslücke in GitLab: Angreifer können Projekte löschen",
+          "link": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-GitLab-Angreifer-koennen-Projekte-loeschen-11417037.html",
+          "summary": "GitLab-Umgebungen sind über zwei nun geschlossene Schwachstellen attackierbar.",
+          "published": "2026-08-18T08:29:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Microsoft behebt Sicherheitslücke: KI-Assistent Copilot verrät Schwachstellen",
+        "heise-Angebot: September-Termin: heise security Tour mit Vorträgen zu KI, Lieferketten und mehr",
+        "Kritische Sicherheitslücke in GitLab: Angreifer können Projekte löschen"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Besser als Wearables: Google-Forscher messen Körperfett anhand von Smartphone-Fotos",
+          "link": "https://t3n.de/news/besser-als-wearables-google-forscher-messen-koerperfett-anhand-von-smartphone-fotos-1758964/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bislang brauchte es aufwendige medizinische Scans, um die genaue Verteilung des Fettanteils im Körper zu bestimmen. Google zeigt mit Photoscan AI, dass einfache 2D-Bilder zukünftig ausreichen könnten. weiterlesen auf t3n.de",
+          "published": "Thu, 20 Aug 2026 16:00:31 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(1 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Besser als Wearables: Google-Forscher messen Körperfett anhand von Smartphone-Fotos"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "How to build smarter OpenSearch alerts: Join our live conversation",
+          "link": "https://thenewstack.io/opensearch-ppl-unified-alerting/",
+          "summary": "OpenSearch is a top-level open-source project under the Linux Foundation, backed by Amazon Web Services and other prominent players. The The post How to build smarter OpenSearch alerts: Join our live conversation appeared first on The New Stack .",
+          "published": "Thu, 20 Aug 2026 17:40:44 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Neuer Job als Leiter*in - Kundenservice / IT-Servicemanagement gesucht? Schau dir unsere Top Jobs an",
+          "link": "https://t3n.de/news/unsere-jobs-der-woche-1175973/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hier findest du unsere besten Jobs aus den Bereichen Technik &amp; Entwicklung, Marketing, PR &amp; Kommunikation, Projektmanagement &amp; Produktmanagement, Design &amp; UX, Content &amp; Redaktion und Business Development. weiterlesen auf t3n.de",
+          "published": "Thu, 20 Aug 2026 15:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Linux 7.2 bringt umfangreiche Treiberupdates",
+          "link": "https://www.heise.de/news/Linux-7-2-bringt-umfangreiche-Treiberupdates-11419043.html",
+          "summary": "Am Sonntag hat Linus Torvalds den Linux-Kernel 7.2 freigegeben. Im Entwicklungs-Endspurt gab es noch größere Änderungen.",
+          "published": "2026-08-19T09:12:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Fehler in HTML, CSS und Accessibility – 87 Prozent der Top-Seiten fehlerhaft",
+          "link": "https://www.heise.de/news/87-Prozent-der-Top-Webseiten-verletzen-Standards-und-Accessibility-11417790.html",
+          "summary": "Viele der Top-Webseiten halten sich nicht an die Standards. Das kann zu Problemen mit der Barrierefreiheit oder der KI-Kommunikation führen.",
+          "published": "2026-08-19T05:56:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Spieleplattform: Der Epic Games Store kommt für Linux",
+          "link": "https://www.golem.de/news/spieleplattform-der-epic-games-store-kommt-fuer-linux-2608-212143.html",
+          "summary": "Entwickler Epic Games hat in einem Q&amp;A bestätigt: Der Epic Games Store wird auch bald auf Linux laufen. ( Epic Games , Steam )",
+          "published": "2026-08-20T16:23:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "How to build smarter OpenSearch alerts: Join our live conversation",
+        "Neuer Job als Leiter*in - Kundenservice / IT-Servicemanagement gesucht? Schau dir unsere Top Jobs an",
+        "Linux 7.2 bringt umfangreiche Treiberupdates"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Asteroiden-Proben zeigen: Diese DNA- und Protein-Bausteine gibt es im All",
+          "link": "https://t3n.de/news/bausteine-des-lebens-asteroiden-dna-proteine-1758320/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Immer tiefere Einblicke in unser Universum werfen grundlegende Fragen nach dem Ursprung unserer Existenz auf. Laufend melden Institute neue Entdeckungen jenseits der Erde, doch das Gesamtbild bleibt noch unübersichtlich. weiterlesen auf t3n.de",
+          "published": "Fri, 21 Aug 2026 05:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google’s AI coding agent just escaped its own IDE",
+          "link": "https://thenewstack.io/google-antigravity-ide-extensions/",
+          "summary": "When Google launched Antigravity in November 2025, it was on the premise that developers could hand an entire coding task The post Google&#8217;s AI coding agent just escaped its own IDE appeared first on The New Stack .",
+          "published": "Thu, 20 Aug 2026 20:17:54 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Debian just proposed banning AI code. Here’s why it matters for open source developers & maintainers.",
+          "link": "https://thenewstack.io/debian-ai-contribution-ban-debate/",
+          "summary": "The board behind open source operating system Debian has tabled proposals for and against the use of LLM-assisted contributions in The post Debian just proposed banning AI code. Here&#8217;s why it matters for open source developers &amp; maintainers. appeared first on The New Stack .",
+          "published": "Thu, 20 Aug 2026 18:49:42 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Slack makes it easier to install agents built with third-party tools",
+          "link": "https://thenewstack.io/add-to-slack-agents/",
+          "summary": "Slack on Thursday rolled out Add to Slack, which lets users more easily bring the agents they&#8217;ve built with ten The post Slack makes it easier to install agents built with third-party tools appeared first on The New Stack .",
+          "published": "Thu, 20 Aug 2026 18:30:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Warp wants to make it easier to build your software factory",
+          "link": "https://thenewstack.io/warp-software-factory-infrastructure/",
+          "summary": "On Tuesday, Warp introduced Warp Factories, open infrastructure for building cloud software factories, agentic systems that automate work across the The post Warp wants to make it easier to build your software factory appeared first on The New Stack .",
+          "published": "Thu, 20 Aug 2026 17:52:29 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Asteroiden-Proben zeigen: Diese DNA- und Protein-Bausteine gibt es im All",
+        "Google’s AI coding agent just escaped its own IDE",
+        "Debian just proposed banning AI code. Here’s why it matters for open source developers & maintainers."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Researchers hid an attack inside AES encryption. The AI model cracked it open willingly.",
+          "link": "https://thenewstack.io/encrypted-prompt-injection-grok/",
+          "summary": "Security filters are designed to catch malicious instructions before an AI model can act on them. Researchers at AI security The post Researchers hid an attack inside AES encryption. The AI model cracked it open willingly. appeared first on The New Stack .",
+          "published": "Thu, 20 Aug 2026 17:15:21 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(1 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Researchers hid an attack inside AES encryption. The AI model cracked it open willingly."
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop: Backstage für Admins – IDP im Unternehmen aufbauen und betreiben",
+          "link": "https://www.heise.de/news/iX-Workshop-Backstage-fuer-Admins-IDP-im-Unternehmen-aufbauen-und-betreiben-11404574.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Erfahren Sie, wie Sie mit Backstage eine umfassende Internal Developer Platform in Ihrem Unternehmen bereitstellen und effizient verwalten.",
+          "published": "2026-08-20T14:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Platform Engineering / IDPs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: iX-Workshop: Backstage für Admins – IDP im Unternehmen aufbauen und betreiben"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "GitHub now sees 2.9 billion commits a month — and it can’t keep up",
+          "link": "https://thenewstack.io/github-2-9b-monthly-commits/",
+          "summary": "Per month, GitHub now sees 2.9 billion commits, 130 million merged pull requests, and 24 million new repos. Back in The post GitHub now sees 2.9 billion commits a month &#8212; and it can&#8217;t keep up appeared first on The New Stack .",
+          "published": "Thu, 20 Aug 2026 21:37:37 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Roblox must make changes after failing to block adults creeping on kids",
+          "link": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
+          "summary": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
+          "published": "Thu, 20 Aug 2026 17:14:08 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "QR-Musikkassette: Ein ganzes Lied auf Papier speichern – so funktioniert die Offline-Technologie",
+          "link": "https://t3n.de/news/qr-musikkassette-lied-auf-papier-1759093/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Entwickler Makestreme hat ein ganzes Lied auf ein einziges Blatt Papier gedruckt. Mithilfe neuronaler Netze hat er dafür eine MP3 so stark komprimiert, dass sie in mehrere QR-Codes passt – und ganz ohne Internetzugang anhörbar ist. weiterlesen auf t3n.de",
+          "published": "Thu, 20 Aug 2026 19:00:19 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Milliarden-Deal: Deshalb kauft Stripe den KI-Modell-Vermittler Openrouter",
+          "link": "https://t3n.de/news/stripe-kauft-openrouter-1758644/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn man über KI-Infrastruktur spricht, geht es meistens um Rechenzentren. Der Zahlungsdienstleister Stripe gibt jetzt Milliarden für eine andere Art Infrastruk weiterlesen auf t3n.de",
+          "published": "Thu, 20 Aug 2026 18:25:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Airpods mit Kamera: Ab wann die umstrittenen KI-Devices verfügbar sein könnten",
+          "link": "https://t3n.de/news/airpods-mit-kamera-ab-wann-die-umstrittenen-ki-devices-verfuegbar-sein-koennten-1759005/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Apple hatte in dieser Woche ein Video geleakt, das neue Airpods mit „Visual Intelligence“ in Aktion zeigt. Einem neuen Bericht zufolge kommen die Ohrstöpsel mit integrierter Kamera aber noch nicht so schnell auf den Markt. weiterlesen auf t3n.de",
+          "published": "Thu, 20 Aug 2026 15:00:09 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "GitHub now sees 2.9 billion commits a month — and it can’t keep up",
+        "Roblox must make changes after failing to block adults creeping on kids",
+        "QR-Musikkassette: Ein ganzes Lied auf Papier speichern – so funktioniert die Offline-Technologie"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Riot is ending development on its League of Legends fighting game",
+          "link": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
+          "summary": "Riot Games is already winding down work on 2XKO, the free-to-play League of Legends fighting game, less than a year after its initial launch. Riot says \"active development\" will conclude at the end of 2026 because the company hasn't \"seen enough players stick with the game to get to a path toward sustainability.\" Servers will [&#8230;]",
+          "published": "2026-08-20T15:59:09-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(1 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Riot is ending development on its League of Legends fighting game"
+      ]
+    }
+  ]
+}
