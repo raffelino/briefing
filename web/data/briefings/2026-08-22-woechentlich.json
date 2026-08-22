@@ -1,0 +1,428 @@
+{
+  "date": "2026-08-22",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "bpm",
+      "name": "BPM & Prozessautomatisierung",
+      "items": [
+        {
+          "title": "The Open-Sourcing of DeepSeek Harness Opens the Door to Modular, Unbundled AI Agent Infrastructure",
+          "link": "https://www.infoq.com/news/2026/08/deep-seek-harness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "DeepSeek has released a developer preview of DeepSeek Harness (dsh), an open-source execution runtime for building autonomous AI agents. The software features a micro-kernel architecture with modular plugins for various functional units. The release includes an append-only event logging system for tracking execution activities. Adoption may depend on plugin ecosystem stability and API maintenance. By Olimpiu Pop",
+          "published": "Thu, 20 Aug 2026 05:05:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu BPM & Prozessautomatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "The Open-Sourcing of DeepSeek Harness Opens the Door to Modular, Unbundled AI Agent Infrastructure"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
+          "link": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
+          "summary": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
+          "published": "Fri, 21 Aug 2026 20:10:50 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
+          "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
+          "summary": "Logitech increased prices by up to 25 percent last year.",
+          "published": "Fri, 21 Aug 2026 19:04:41 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Presentation: Enchant Your AI and APIs with eBPF Magic 🪄",
+          "link": "https://www.infoq.com/presentations/ebpf-ai-gateway-kubernetes-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Dan Finneran discusses the risks of unowned AI-generated code in production and demonstrates how eBPF can intercept and control AI API traffic in Kubernetes. He explains how kernel-level socket hooks enable transparent prompt filtering, model swapping, token limits, and syscall restrictions to secure AI agents without modifying application source code or restarting containers. By Dan Finneran",
+          "published": "Fri, 21 Aug 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Azure DevOps Remote MCP Server Reaches GA, Without Support for Claude, ChatGPT, or Cursor",
+          "link": "https://www.infoq.com/news/2026/08/azure-devops-remote-mcp-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has made the Azure DevOps Remote MCP Server generally available, offering a hosted endpoint into work items, repos, and pipelines with nothing to install. Claude Desktop, Claude Code, ChatGPT, and Cursor cannot connect yet because Entra lacks support for dynamic client registration and Client ID Metadata Documents. By Steef-Jan Wiggers",
+          "published": "Fri, 21 Aug 2026 09:55:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "S3 Compatibility Doesn't Guarantee S3-Level Security",
+          "link": "https://www.infoq.com/news/2026/08/s3-clone-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Security researchers at Wiz recently examined S3-compatible object storage services across six popular neoclouds, revealing significant security gaps compared to Amazon S3. While S3 has become the de facto standard for object storage, most services lack several of AWS's security protections. By Renato Losio",
+          "published": "Fri, 21 Aug 2026 08:41:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "OpenRouter called itself the “Stripe for LLMs” — now Stripe’s swooped in to buy it",
+          "link": "https://thenewstack.io/stripe-acquires-openrouter-tokens/",
+          "summary": "After weeks of speculation, fintech giant Stripe has confirmed that it&#8217;s tabled a bid for AI model gateway platform OpenRouter, The post OpenRouter called itself the “Stripe for LLMs” &#8212; now Stripe’s swooped in to buy it appeared first on The New Stack .",
+          "published": "Thu, 20 Aug 2026 17:20:31 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Kubernetes at the edge has hit a wall. Fleet management is the way through.",
+          "link": "https://thenewstack.io/edge-kubernetes-fleet-management/",
+          "summary": "Not too long ago, edge computing was seen as a niche use case, limited to telcos, manufacturing plants, and large The post Kubernetes at the edge has hit a wall. Fleet management is the way through. appeared first on The New Stack .",
+          "published": "Thu, 20 Aug 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Microsoft Releases Aspire 13.5 With a Refreshed Dashboard and Workflow Improvements",
+          "link": "https://www.infoq.com/news/2026/08/dotnet-aspire-13-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Last week, Microsoft released Aspire 13.5, an update that refreshes the dashboard and the aspire.dev homepage and adds several quality-of-life features. The Interaction Service gains file imports and progress dialogs; resources can host an interactive terminal in the dashboard, and deployment adds Kubernetes persistent volumes and cross-scope Azure references. By Almir Vuk",
+          "published": "Thu, 20 Aug 2026 08:07:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(8 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
+        "Lawsuit demands Logitech hand tariff refunds over to customers",
+        "Presentation: Enchant Your AI and APIs with eBPF Magic 🪄"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Drei Fragen und Antworten: Wie man Zero Trust mit Minimalansatz einführt",
+          "link": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Wie-man-Zero-Trust-mit-Minimalansatz-einfuehrt-11421929.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Weniger kann auch in der IT-Sicherheit mehr sein: Wie man mit Minimum Viable Zero Trust in 90 Tagen ans Ziel kommt.",
+          "published": "2026-08-21T13:16:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kritische Sicherheitslücke in GitLab: Angreifer können Projekte löschen",
+          "link": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-GitLab-Angreifer-koennen-Projekte-loeschen-11417037.html",
+          "summary": "GitLab-Umgebungen sind über zwei nun geschlossene Schwachstellen attackierbar.",
+          "published": "2026-08-18T08:29:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Drei Fragen und Antworten: Wie man Zero Trust mit Minimalansatz einführt",
+        "Kritische Sicherheitslücke in GitLab: Angreifer können Projekte löschen"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Intransparente Rechenzentren: „Ein Armutszeugnis für die Bundesregierung“",
+          "link": "https://netzpolitik.org/2026/intransparente-rechenzentren-ein-armutszeugnis-fuer-die-bundesregierung/",
+          "summary": "Umkämpfte Informationen: Wie viel Strom und Wasser verbrauchen Rechenzentren? – Alle Rechte vorbehalten: IMAGO / Panama Pictures Rechenzentren verbrauchen viel Strom und Wasser. Wie viel genau, soll im Einzelnen jetzt erstmals im Nationalen Rechenzentrumsregister nachvollziehbar sein. Doch Julian Bothe von AlgorithmWatch warnt: Die Daten sind grob unvollständig und die Transparenz soll auf Druck von Big Tech wieder eingeschränkt werden.",
+          "published": "Sat, 22 Aug 2026 05:41:05 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Cloudflare Cuts Astro GitHub Issues by 85% with AI Agents",
+          "link": "https://www.infoq.com/news/2026/08/cloudflare-astro-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare, Astro, AI agents, GitHub Actions, issue triage, agentic AI, software architecture, open source, developer tools, AI automation, automated testing, human in the loop, agent workflows, GitHub, software engineering, AI software development, bug triage, continuous integration, developer productivity, autonomous agents, AI coding, Cloudflare Workers, Flue, triagebot By Leela Kumili",
+          "published": "Fri, 21 Aug 2026 14:09:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AI für SRE: Warum Automatisierung das Ziel ist und KI nur ein Werkzeug",
+          "link": "https://www.heise.de/hintergrund/AI-fuer-SRE-Warum-Automatisierung-das-Ziel-ist-und-KI-nur-ein-Werkzeug-11364776.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Severin Neumann kritisiert das Schlagwort „AI SRE“ und plädiert für ein CNCF-Modell, das Reliability-Aufgaben statt Menschen automatisiert.",
+          "published": "2026-08-22T08:58:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Samsung will 68 Milliarden Euro für Aktionärsrendite ausgeben",
+          "link": "https://www.heise.de/news/Samsung-will-68-Milliarden-Euro-fuer-Aktionaersrendite-ausgeben-11422148.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Samsung wird in diesem Jahr Rekordzahlungen für Aktionäre leisten. Es ist die bislang höchste Aktionärsrendite eines koreanischen Unternehmens.",
+          "published": "2026-08-21T14:36:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Statt Wearables: Google-Forscher messen Körperfett anhand von Smartphone-Fotos",
+          "link": "https://www.heise.de/news/Statt-Wearables-Google-Forscher-messen-Koerperfett-anhand-von-Smartphone-Fotos-11421686.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Google zeigt mit Photoscan AI, dass künftig einfache 2D-Bilder ausreichen, um die genaue Verteilung des Fettanteils im Körper darzustellen.",
+          "published": "2026-08-21T12:12:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "AI für SRE: Warum Automatisierung das Ziel ist und KI nur ein Werkzeug",
+          "link": "https://www.heise.de/hintergrund/AI-fuer-SRE-Warum-Automatisierung-das-Ziel-ist-und-KI-nur-ein-Werkzeug-11364776.html",
+          "summary": "Severin Neumann kritisiert das Schlagwort „AI SRE“ und plädiert für ein CNCF-Modell, das Reliability-Aufgaben statt Menschen automatisiert.",
+          "published": "2026-08-22T06:58:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(6 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Intransparente Rechenzentren: „Ein Armutszeugnis für die Bundesregierung“",
+        "Cloudflare Cuts Astro GitHub Issues by 85% with AI Agents",
+        "AI für SRE: Warum Automatisierung das Ziel ist und KI nur ein Werkzeug"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "How to build smarter OpenSearch alerts: Join our live conversation",
+          "link": "https://thenewstack.io/opensearch-ppl-unified-alerting/",
+          "summary": "OpenSearch is a top-level open-source project under the Linux Foundation, backed by Amazon Web Services and other prominent players. The The post How to build smarter OpenSearch alerts: Join our live conversation appeared first on The New Stack .",
+          "published": "Thu, 20 Aug 2026 17:40:44 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Polizei und Verfassungsschutz: Was bei einer Machtübernahme durch Rechtsextreme droht",
+          "link": "https://netzpolitik.org/2026/polizei-und-verfassungsschutz-was-bei-einer-machtuebernahme-durch-rechtsextreme-droht/",
+          "summary": "Wie würde die AfD mit der Polizei umgehen, wenn sie an der Macht wäre? – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Würde die AfD ein Bundesland regieren, hätte sie eine Reihe von Möglichkeiten, den Sicherheitsapparat in ihrem Sinne neu auszurichten. Doch Demokrat*innen stehen dem nicht hilflos gegenüber. Wir haben mit dem Rechtswissenschaftler Markus Thiel darüber gesprochen, welche Gefahren eine potenzielle Machtübernahme birgt und was man dagegen tun kann.",
+          "published": "Tue, 18 Aug 2026 09:12:45 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Polizeigesetz Schleswig-Holstein: „Direkt aus dem Roman 1984“",
+          "link": "https://netzpolitik.org/2026/polizeigesetz-schleswig-holstein-direkt-aus-dem-roman-1984/",
+          "summary": "Protest gegen die Polizeigesetz-Erweiterung in Kiel. – Alle Rechte vorbehalten: Polizeigesetz SH stoppen, Bearbeitung netzpolitik.org Das neue Polizeigesetz von Schleswig-Holstein soll eines der härtesten Deutschlands werden. Die Gruppe Freiheitsfoo analysiert es in einem 22-seitigen Gutachten. Ihr Ergebnis: Der Entwurf ist eine Bedrohung für die Demokratie.",
+          "published": "Mon, 17 Aug 2026 14:11:08 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Warum leere Luxuskartons auf eBay für Tausende Dollar gehandelt werden",
+          "link": "https://www.heise.de/news/Influencer-Trend-Handel-mit-leeren-Luxus-Verpackungen-floriert-11422467.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein Trend auf Gebrauchtwaren-Börsen zeigt: Leere Originalverpackungen von Luxusgütern werden für hohe Summen gehandelt – oft für Social-Media-Inszenierungen.",
+          "published": "2026-08-21T17:45:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux 7.2 bringt umfangreiche Treiberupdates",
+          "link": "https://www.heise.de/news/Linux-7-2-bringt-umfangreiche-Treiberupdates-11419043.html",
+          "summary": "Am Sonntag hat Linus Torvalds den Linux-Kernel 7.2 freigegeben. Im Entwicklungs-Endspurt gab es noch größere Änderungen.",
+          "published": "2026-08-19T09:12:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Fehler in HTML, CSS und Accessibility – 87 Prozent der Top-Seiten fehlerhaft",
+          "link": "https://www.heise.de/news/87-Prozent-der-Top-Webseiten-verletzen-Standards-und-Accessibility-11417790.html",
+          "summary": "Viele der Top-Webseiten halten sich nicht an die Standards. Das kann zu Problemen mit der Barrierefreiheit oder der KI-Kommunikation führen.",
+          "published": "2026-08-19T05:56:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Philips Hue LED-Lightstrips für Raum und TV zum absoluten Tiefstpreis",
+          "link": "https://www.golem.de/news/anzeige-philips-hue-led-lightstrips-fuer-raum-und-tv-zum-absoluten-tiefstpreis-2608-212178.html",
+          "summary": "Eine smarte Beleuchtung wertet das Zuhause optisch auf. Amazon reduziert aktuell den flexiblen Philips Hue Flux Lightstrip sowie die TV-Variante auf neue Tiefstpreise. ( Technik/Hardware )",
+          "published": "2026-08-21T15:25:09+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Anzeige: Tablet Samsung Galaxy Tab A11+ zum Aktionspreis bei Amazon",
+          "link": "https://www.golem.de/news/anzeige-tablet-samsung-galaxy-tab-a11-zum-aktionspreis-bei-amazon-2608-212166.html",
+          "summary": "Das beliebte Tablet Samsung Galaxy Tab A11+ mit 11''-WUXGA-Display, Octa-Core-Prozessor und 7.040-mAh-Akku ist bei Amazon reduziert. ( Galaxy Tab , Samsung )",
+          "published": "2026-08-21T11:03:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(8 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "How to build smarter OpenSearch alerts: Join our live conversation",
+        "Polizei und Verfassungsschutz: Was bei einer Machtübernahme durch Rechtsextreme droht",
+        "Polizeigesetz Schleswig-Holstein: „Direkt aus dem Roman 1984“"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Trotz Fachkräftemangel: Warum plötzlich weniger IT-Experten gesucht werden",
+          "link": "https://t3n.de/news/fachkraeftemangel-it-experten-gesucht-1756380/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im abgelaufenen zweiten Quartal 2026 ist die Nachfrage nach IT-Fachkräften spürbar gesunken. Einen besonders starken Rückgang gab es laut Hays-Fachkräfte-Index bei IT-Security-Spezialisten. Ein anderer Bereich profitiert derweil vom KI-Boom. weiterlesen auf t3n.de",
+          "published": "Sat, 22 Aug 2026 07:20:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "DSGVO-konforme KI-Agenten: So hostest du ohne rechtliches Risiko",
+          "link": "https://t3n.de/news/dsgvo-konforme-ki-agenten-hosting-rechtliches-risiko-1751626/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Neue KI-Modelle erscheinen mittlerweile im Wochentakt. Doch mit jeder produktiven KI-Anwendung rückt eine Frage zunehmend in den Vordergrund: Wo werden Daten verarbeitet und unter welchem rechtlichen und technischen Rahmen? Für viele Unternehmen wird genau das zum entscheidenden Kriterium. weiterlesen auf t3n.de",
+          "published": "Sat, 22 Aug 2026 07:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mistral kapituliert: Warum das KI-Startup kein &quot;ChatGPT aus Europa&quot; bieten muss",
+          "link": "https://t3n.de/news/mistral-ki-startup-europa-chatgpt-1758113/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mistral gilt als europäisches Vorzeige-KI-Labor. Jetzt öffnet es seine Infrastruktur für andere Modelle. Für unseren Autor ein Eingeständnis eines Fehlers, der auch Chancen bietet. weiterlesen auf t3n.de",
+          "published": "Sat, 22 Aug 2026 06:15:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Spline rebuilt its entire 3D editor. Then it handed the keys to Claude Code.",
+          "link": "https://thenewstack.io/spline-v2-mcp-agents/",
+          "summary": "Spline released V2 on Thursday, a complete rebuild of its 3D editor that enables external coding agents to work directly The post Spline rebuilt its entire 3D editor. Then it handed the keys to Claude Code. appeared first on The New Stack .",
+          "published": "Fri, 21 Aug 2026 19:58:33 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Anthropic brings Mythos 5 to its Claude Security vulnerability scanner",
+          "link": "https://thenewstack.io/anthropic-mythos-claude-security/",
+          "summary": "Earlier this year, Anthropic launched Claude Security, an enterprise tool that helps development teams scan their codebase for security vulnerabilities The post Anthropic brings Mythos 5 to its Claude Security vulnerability scanner appeared first on The New Stack .",
+          "published": "Fri, 21 Aug 2026 19:11:38 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Anthropic’s new browser tool doesn’t actually run a browser",
+          "link": "https://thenewstack.io/anthropic-browser-use-tool/",
+          "summary": "Anthropic launched a new Browser Use tool that gives Claude a structured view of a web page in addition to The post Anthropic&#8217;s new browser tool doesn&#8217;t actually run a browser appeared first on The New Stack .",
+          "published": "Fri, 21 Aug 2026 16:52:36 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Analyse von mehr als 24.000 Chats: Diese Plattform will zeigen, was KI-Firmen nicht verraten",
+          "link": "https://t3n.de/news/analyse-von-mehr-als-24-000-chats-diese-plattform-will-zeigen-was-ki-firmen-nicht-verraten-1759043/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "OpenAI und Anthropic veröffentlichen regelmäßig Berichte zur Nutzung ihrer KI‑Modelle. Doch die Plattform AI Observatory will jetzt sichtbar machen, wofür Mensc weiterlesen auf t3n.de",
+          "published": "Fri, 21 Aug 2026 16:00:39 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Claude Opus 5 scored 30% on ARC-AGI-3. Wrapped in Nvidia’s AVO, it hit 100%.",
+          "link": "https://thenewstack.io/nvidia-avo-arcagi3-benchmark/",
+          "summary": "Nvidia first introduced its Agentic Variation Operators (AVO) general-purpose coding agent system in late March 2026. The company has now The post Claude Opus 5 scored 30% on ARC-AGI-3. Wrapped in Nvidia&#8217;s AVO, it hit 100%. appeared first on The New Stack .",
+          "published": "Fri, 21 Aug 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(8 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Trotz Fachkräftemangel: Warum plötzlich weniger IT-Experten gesucht werden",
+        "DSGVO-konforme KI-Agenten: So hostest du ohne rechtliches Risiko",
+        "Mistral kapituliert: Warum das KI-Startup kein &quot;ChatGPT aus Europa&quot; bieten muss"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
+          "link": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
+          "summary": "Chinese safety regulators have cracked down on doors that don't open in a crash.",
+          "published": "Fri, 21 Aug 2026 18:07:15 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Cloudflare Turns Engineering Standards Into an AI-Enforced Control System",
+          "link": "https://www.infoq.com/news/2026/08/cloudflare-ai-enforcement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare has recently detailed how it is using AI to transform internal engineering standards from passive documentation into an actively enforced control system across the software development lifecycle. By Craig Risi",
+          "published": "Fri, 21 Aug 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Mini book: Architecture as a Socio-Technical Craft",
+          "link": "https://www.infoq.com/minibooks/architect-sociotechnical-craft/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Architecture is not a fixed choice made once; fitness is a moving target driven by changing regulations, tech, and markets. Even a sound design can silently stop fitting over time without bad calls. Spanning seven articles on context stores, gateways, and topologies, this collection treats architecture as an evolving sociotechnical craft where teams deliberately shape friction, fitness, and flow. By InfoQ",
+          "published": "Fri, 21 Aug 2026 11:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Researchers hid an attack inside AES encryption. The AI model cracked it open willingly.",
+          "link": "https://thenewstack.io/encrypted-prompt-injection-grok/",
+          "summary": "Security filters are designed to catch malicious instructions before an AI model can act on them. Researchers at AI security The post Researchers hid an attack inside AES encryption. The AI model cracked it open willingly. appeared first on The New Stack .",
+          "published": "Thu, 20 Aug 2026 17:15:21 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Oberlandesgericht bremst Amazon: Meldebutton und Algorithmen verstoßen gegen DSA",
+          "link": "https://www.heise.de/news/Oberlandesgericht-bremst-Amazon-Meldebutton-und-Algorithmen-verstossen-gegen-DSA-11422576.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein richtungsweisendes Urteil verpflichtet Online-Plattformen zu echter Transparenz bei Empfehlungs-Systemen und Hürdenfreiheit bei Klagen über illegale Ware.",
+          "published": "2026-08-21T18:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Supply-Chain-Angriff: Backdoor in millionenfach geladene Rust Crates eingeschleust",
+          "link": "https://www.golem.de/news/supply-chain-angriff-backdoor-in-millionenfach-geladene-rust-crates-eingeschleust-2608-212158.html",
+          "summary": "Angreifern ist es gelungen, mehrere populäre Rust Crates mit einer Backdoor-Malware zu verseuchen. Entwickler sollten dringend handeln. ( Malware , Virus )",
+          "published": "2026-08-21T10:26:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(6 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Chinese regulators tell Tesla to fix nearly 3 million cars",
+        "Cloudflare Turns Engineering Standards Into an AI-Enforced Control System",
+        "Mini book: Architecture as a Socio-Technical Craft"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "VoidZero Releases Vite+ Beta: A Unified Web Toolchain Behind a Single Command",
+          "link": "https://www.infoq.com/news/2026/08/vite-plus-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "VoidZero has launched the beta of Vite+, a unified web development toolchain. It combines runtime, package management, and essential frontend tools under a single command. Vite+ supports various projects and is open source. The platform enhances workflow through features such as hot-reloading, format checking, and testing. The team emphasizes community feedback for future updates. By Daniel Curtis",
+          "published": "Sat, 22 Aug 2026 06:32:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Smart Lock: So bleibt dein Android-Smartphone zu Hause entsperrt",
+          "link": "https://t3n.de/news/android-smart-lock-einrichten-tipps-1757296/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer häufig das Android-Smartphone entsperren muss, verschwendet damit viel Zeit. Denn es gibt eine Einstellung auf den Geräten, die dir Zeit und Nerven spart, ohne die Sicherheit deines Geräts zu gefährden. weiterlesen auf t3n.de",
+          "published": "Sat, 22 Aug 2026 08:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KW 34: Die Woche, in der wir auf die Rückkehr des Urlaubs-Kanzlers warten",
+          "link": "https://netzpolitik.org/2026/kw-34-die-woche-in-der-wir-alle-gespannt-auf-die-rueckkehr-des-urlaubs-kanzlers-warten/",
+          "summary": "Die 34. Kalenderwoche geht zu Ende. Wir haben 13 neue Texte mit insgesamt 94.048 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 22 Aug 2026 05:43:58 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Personalized pricing is “abhorrent,” but FTC limits may increase costs, critics say",
+          "link": "https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/",
+          "summary": "Some Americans fear the FTC may be thinking about personalized pricing all wrong.",
+          "published": "Fri, 21 Aug 2026 16:38:25 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "ESR Magnetic Keyboard Case fürs iPad Pro im Test: Was kann die günstige Apple-Alternative?",
+          "link": "https://t3n.de/news/esr-magnetic-keyboard-case-ipad-pro-test-review-magic-keyboard-1759292/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer vernünftig mit dem iPad arbeiten will, braucht dazu eine Tastatur. Die gibt es direkt bei Apple zu kaufen – zum Preis von einem zweiten iPad. Doch es gibt Alternativen wie das Magnetic Keyboard Case von ESR. Wie macht es sich im Alltag? weiterlesen auf t3n.de",
+          "published": "Fri, 21 Aug 2026 15:50:03 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Keine „Raketenwissenschaft“: Wie dieser Mann die passende Weltraumreise für Reiche arrangiert",
+          "link": "https://t3n.de/news/keine-raketenwissenschaft-wie-dieser-mann-die-passende-weltraumreise-fuer-reiche-arrangiert-1758631/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Roman Chiporukha möchte sich nicht selbst auf orbitale Abenteuer begeben, sondern diese für eine zahlende Kundschaft arrangieren. Damit bereitet er ein neues Berufsfeld. Ob das Bestand hat? weiterlesen auf t3n.de",
+          "published": "Fri, 21 Aug 2026 15:00:32 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI in der Medizin: Hohes Datenschutzrisiko für bestimmte Personengruppen entdeckt",
+          "link": "https://t3n.de/news/ki-medizin-datenschutz-risiko-1758928/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Forschende greifen mit einer einfachen Methode erfolgreich medizinische KI-Modelle an und fordern Sicherheitsmaßnahmen – wenn auch nur für spezielle Fälle.Morit weiterlesen auf t3n.de",
+          "published": "Fri, 21 Aug 2026 14:00:28 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Onedrive Fotos: Warum Microsoft diese App vor euch versteckt",
+          "link": "https://t3n.de/news/windows-11-onedrive-fotos-app-versteckt-1759232/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Plötzlich taucht eine Software auf den Rechnern vieler Windows-Nutzer:innen auf und es hagelt Proteste. Der Hersteller reagiert mit einem ungewöhnlichen Schritt, der das grundlegende Problem jedoch keineswegs behebt. weiterlesen auf t3n.de",
+          "published": "Fri, 21 Aug 2026 13:45:13 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(8 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "VoidZero Releases Vite+ Beta: A Unified Web Toolchain Behind a Single Command",
+        "Smart Lock: So bleibt dein Android-Smartphone zu Hause entsperrt",
+        "KW 34: Die Woche, in der wir auf die Rückkehr des Urlaubs-Kanzlers warten"
+      ]
+    }
+  ]
+}
