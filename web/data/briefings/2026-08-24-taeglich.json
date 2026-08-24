@@ -1,0 +1,289 @@
+{
+  "date": "2026-08-24",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "OVHcloud Raises Prices as AI Memory Demand Reprices Non-AI Infrastructure",
+          "link": "https://www.infoq.com/news/2026/08/ovhcloud-memory-price-rise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "OVHcloud will raise prices from September, with 2026-edition gaming servers up 87 percent and other recent servers 40 to 59 percent. Founder Octave Klaba says memory cost six times more in June than a year earlier, as RAM suppliers shifted capacity toward high-bandwidth memory for AI. AWS, buying years ahead, has repriced one reserved GPU product. By Steef-Jan Wiggers",
+          "published": "Sun, 23 Aug 2026 08:43:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Breakpoint: Aufruf zu digitalem Ungehorsam",
+          "link": "https://netzpolitik.org/2026/breakpoint-aufruf-zu-digitalem-ungehorsam/",
+          "summary": "Wann wird dein Wohnzimmer zum Panopticon? – Alle Rechte vorbehalten: IMAGO / UIG Überwachung ist ein mächtiger Zensor, der uns gehorsam werden lässt. Selbst dann, wenn sie gar nicht stattfindet. Deshalb ist jetzt die Zeit für mehr Kritik und Aufmüpfigkeit.",
+          "published": "Sun, 23 Aug 2026 06:06:37 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "DRAM Controller Register Manipulation Breaks CPU Memory Isolation",
+          "link": "https://www.infoq.com/news/2026/08/amd-memory-exploit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Security researcher Christopher Domas developed skitter-creek-bath-salts, an open-source hardware security tool that disrupts CPU privilege boundaries by manipulating memory controller translation registers. This allows unprivileged software to access protected memory regions, revealing a vulnerability in modern processor architectures that could affect cloud and confidential computing security. By Olimpiu Pop",
+          "published": "Sun, 23 Aug 2026 04:04:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "KI am Arbeitsplatz: Bundesregierung sieht keinen systematischen Stellenabbau",
+          "link": "https://www.heise.de/news/KI-am-Arbeitsplatz-Bundesregierung-sieht-keinen-systematischen-Stellenabbau-11423001.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Regierung hält Ängste vor KI-bedingter Arbeitslosigkeit für unbegründet und setzt auf Weiterbildung. Es sei kein gezielter Beschäftigungsstopp erkennbar.",
+          "published": "2026-08-23T17:12:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: NIS2 und KRITIS: Wie der Mittelstand Cyberresilienz aufbaut",
+          "link": "https://www.heise.de/news/NIS2-und-KRITIS-Wie-der-Mittelstand-Cyberresilienz-aufbaut-11418532.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Cyberangriffe, Ausfälle, NIS2: Der IT-Sicherheitstag Dortmund zeigt am 16. September, wie mittelständische Unternehmen ihre Widerstandsfähigkeit stärken.",
+          "published": "2026-08-22T13:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "OVHcloud Raises Prices as AI Memory Demand Reprices Non-AI Infrastructure",
+        "Breakpoint: Aufruf zu digitalem Ungehorsam",
+        "DRAM Controller Register Manipulation Breaks CPU Memory Isolation"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "JDK 27 and JDK 28: What We Know So Far",
+          "link": "https://www.infoq.com/news/2026/08/java-27-so-far/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "JDK 27, the second non-LTS release since JDK 25, has reached its first release candidate phase featuring a final set of nine new features, in the form of JEPs, that can be separated into four categories: Core Java Library, HotSpot, Security Library and Java Language Specification. We examine JDK 27 and predict what features have, or could be, targeted for JDK 28. By Michael Redlich",
+          "published": "Mon, 24 Aug 2026 02:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise-Angebot: Agentic Coding für Web Developer: Kosten, Qualität und Praxisberichte",
+          "link": "https://www.heise.de/news/Agentic-Coding-fuer-Web-Developer-Kosten-Qualitaet-und-Praxisberichte-11421414.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Wie speziell JavaScript- und TypeScript-Projekte von Agentic Coding profitieren können, zeigen die Online-Konferenz am 22. Oktober und ein ganztägiger Workshop.",
+          "published": "2026-08-23T13:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "JDK 27 and JDK 28: What We Know So Far",
+        "heise-Angebot: Agentic Coding für Web Developer: Kosten, Qualität und Praxisberichte"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop: Active Defense & Hardening – Systeme aktiv schützen",
+          "link": "https://www.heise.de/news/iX-Workshop-Active-Defense-Hardening-Systeme-aktiv-schuetzen-11404596.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Üben Sie in einer praxisnahen Laborumgebung, wie Sie Schwachstellen in Ihrer IT-Infrastruktur finden und Ihre Systeme gegen Angriffe effektiv absichern können.",
+          "published": "2026-08-23T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kritische Sicherheitslücke in GitLab: Angreifer können Projekte löschen",
+          "link": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-GitLab-Angreifer-koennen-Projekte-loeschen-11417037.html",
+          "summary": "GitLab-Umgebungen sind über zwei nun geschlossene Schwachstellen attackierbar.",
+          "published": "2026-08-18T08:29:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: iX-Workshop: Active Defense & Hardening – Systeme aktiv schützen",
+        "Kritische Sicherheitslücke in GitLab: Angreifer können Projekte löschen"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "AI für SRE: Warum Automatisierung das Ziel ist und KI nur ein Werkzeug",
+          "link": "https://www.heise.de/hintergrund/AI-fuer-SRE-Warum-Automatisierung-das-Ziel-ist-und-KI-nur-ein-Werkzeug-11364776.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Severin Neumann kritisiert das Schlagwort „AI SRE“ und plädiert für ein CNCF-Modell, das Reliability-Aufgaben statt Menschen automatisiert.",
+          "published": "2026-08-22T08:58:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "AI für SRE: Warum Automatisierung das Ziel ist und KI nur ein Werkzeug",
+          "link": "https://www.heise.de/hintergrund/AI-fuer-SRE-Warum-Automatisierung-das-Ziel-ist-und-KI-nur-ein-Werkzeug-11364776.html",
+          "summary": "Severin Neumann kritisiert das Schlagwort „AI SRE“ und plädiert für ein CNCF-Modell, das Reliability-Aufgaben statt Menschen automatisiert.",
+          "published": "2026-08-22T06:58:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AI für SRE: Warum Automatisierung das Ziel ist und KI nur ein Werkzeug",
+        "AI für SRE: Warum Automatisierung das Ziel ist und KI nur ein Werkzeug"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Linux 7.2 bringt umfangreiche Treiberupdates",
+          "link": "https://www.heise.de/news/Linux-7-2-bringt-umfangreiche-Treiberupdates-11419043.html",
+          "summary": "Am Sonntag hat Linus Torvalds den Linux-Kernel 7.2 freigegeben. Im Entwicklungs-Endspurt gab es noch größere Änderungen.",
+          "published": "2026-08-19T09:12:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Fehler in HTML, CSS und Accessibility – 87 Prozent der Top-Seiten fehlerhaft",
+          "link": "https://www.heise.de/news/87-Prozent-der-Top-Webseiten-verletzen-Standards-und-Accessibility-11417790.html",
+          "summary": "Viele der Top-Webseiten halten sich nicht an die Standards. Das kann zu Problemen mit der Barrierefreiheit oder der KI-Kommunikation führen.",
+          "published": "2026-08-19T05:56:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Philips Hue LED-Lightstrips für Raum und TV zum absoluten Tiefstpreis",
+          "link": "https://www.golem.de/news/anzeige-philips-hue-led-lightstrips-fuer-raum-und-tv-zum-absoluten-tiefstpreis-2608-212178.html",
+          "summary": "Eine smarte Beleuchtung wertet das Zuhause optisch auf. Amazon reduziert aktuell den flexiblen Philips Hue Flux Lightstrip sowie die TV-Variante auf neue Tiefstpreise. ( Technik/Hardware )",
+          "published": "2026-08-21T15:25:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Linux 7.2 bringt umfangreiche Treiberupdates",
+        "Fehler in HTML, CSS und Accessibility – 87 Prozent der Top-Seiten fehlerhaft",
+        "Anzeige: Philips Hue LED-Lightstrips für Raum und TV zum absoluten Tiefstpreis"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Warum KI-Agenten lügen und betrügen – und was wir dagegen machen können",
+          "link": "https://t3n.de/news/ki-agenten-reward-hacking-luegen-betrug-openai-hugging-face-1756375/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Dass KIs auch mal unlautere Abkürzungen nutzen, um die gesetzten Ziele zu erreichen, ist an sich nicht neu. Doch mit zunehmender Komplexität der großen Sprachmo weiterlesen auf t3n.de",
+          "published": "Sun, 23 Aug 2026 21:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Getarnte Kameras: Warum Metas KI-Brillen vor dem Aus in Deutschland stehen",
+          "link": "https://t3n.de/news/meta-smart-glasses-verkaufsverbot-deutschland-datenschutz-1755959/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der für Meta-Dienste in Deutschland zuständige Datenschutzbeauftragte Thomas Fuchs sieht in der Möglichkeit, mit Metas Smart Glasses heimlich in der Öffentlichkeit zu filmen, einen Verstoß gegen das Datenschutzrecht. Ein Verbot der KI-Brillen ist denkbar. weiterlesen auf t3n.de",
+          "published": "Sun, 23 Aug 2026 17:35:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI-Chefökonom sucht Mitarbeiter für einen Job, der sich ständig verändert",
+          "link": "https://t3n.de/news/openai-chefoekonom-sucht-mitarbeiter-fuer-einen-job-der-sich-staendig-veraendert-1759426/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ronnie Chatterji untersucht mit seinem Team, wie sich KI auf Arbeitsplätze auswirkt. Um dabei erfolgreich zu sein, bräuchte es ganz besondere Eigenschaften: „Man muss sich wohlfühlen, sich unwohl zu fühlen.“ weiterlesen auf t3n.de",
+          "published": "Sun, 23 Aug 2026 16:32:13 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "ChatGPT spart Zeit – die wir dann für Social Media verschwenden",
+          "link": "https://t3n.de/news/stanford-studie-chatgpt-zeitgewinn-tiktok-instagram-social-media-1758268/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Künstliche Intelligenz soll uns Arbeit abnehmen und Freiräume schaffen. Eine umfassende Auswertung realer Nutzungsdaten zeigt nun erstmals, was Menschen mit dieser neu gewonnenen Zeit tatsächlich anfangen. weiterlesen auf t3n.de",
+          "published": "Sun, 23 Aug 2026 16:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "One pull to wipe them all",
+          "link": "https://thenewstack.io/ai-coding-agent-security/",
+          "summary": "Q Developer is a free extension that lets a coding agent read a project, propose changes, and run commands on The post One pull to wipe them all appeared first on The New Stack .",
+          "published": "Sun, 23 Aug 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Warum KI-Agenten lügen und betrügen – und was wir dagegen machen können",
+        "Getarnte Kameras: Warum Metas KI-Brillen vor dem Aus in Deutschland stehen",
+        "OpenAI-Chefökonom sucht Mitarbeiter für einen Job, der sich ständig verändert"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Oberlandesgericht bremst Amazon: Meldebutton und Algorithmen verstoßen gegen DSA",
+          "link": "https://www.heise.de/news/Oberlandesgericht-bremst-Amazon-Meldebutton-und-Algorithmen-verstossen-gegen-DSA-11422576.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein richtungsweisendes Urteil verpflichtet Online-Plattformen zu echter Transparenz bei Empfehlungs-Systemen und Hürdenfreiheit bei Klagen über illegale Ware.",
+          "published": "2026-08-21T18:15:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Oberlandesgericht bremst Amazon: Meldebutton und Algorithmen verstoßen gegen DSA"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Plutos Degradierung: Die Geschichte hinter der umstrittensten Entscheidung der Astronomie",
+          "link": "https://t3n.de/news/plutos-degradierung-die-geschichte-hinter-der-umstrittensten-entscheidung-der-astronomie-1754313/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Vor 20 Jahren wurde der Pluto zum „Zwergplaneten“ zurückgestuft. Bis heute läuft eine Debatte, ihn zu rehabilitieren. weiterlesen auf t3n.de",
+          "published": "Mon, 24 Aug 2026 07:30:58 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "DSL, Kabel oder Glasfaser: Welcher Internetanschluss lohnt sich wirklich?",
+          "link": "https://t3n.de/news/dsl-kabel-glasfaser-vergleich-internetanschluss-geschwindigkeit-1749792/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Von DSL bis Starlink gibt es zahlreiche Mittel und Wege, um dich mit dem Internet zu verbinden. Doch welcher Anschluss ist für deine Zwecke am besten geeignet? weiterlesen auf t3n.de",
+          "published": "Sun, 23 Aug 2026 19:20:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Konzentration, Schlaf, Noten: Was passiert, wenn Kinder zu früh auf Social Media sind",
+          "link": "https://t3n.de/news/social-media-schulnoten-studie-tiktok-instagram-jugendliche-1756078/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Videos schauen bei den Hausaufgaben, abends mit den Freunden schreiben, statt zu schlafen: Soziale Medien bestimmen den Alltag vieler Kinder. Das hat Auswirkungen auf die Noten. weiterlesen auf t3n.de",
+          "published": "Sun, 23 Aug 2026 18:25:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "So leicht wie ein Sandkorn: Diese Drohnen brauchen keinen Motor und keinen Akku",
+          "link": "https://t3n.de/news/mini-drohnen-schallwellen-antrieb-epfl-schweiz-forschung-1758606/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Forschungsteam aus Lausanne hat mithilfe einer 3D-Nanodrucktechnik winzige Drohnen entwickelt, die sich über Tonfrequenzen steuern lassen. Durch das Verfahren ergeben sich völlig neue Einsatzbereiche. weiterlesen auf t3n.de",
+          "published": "Sun, 23 Aug 2026 16:50:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "iOS 26.6.1 schließt über 20 Sicherheitslücken – warum du es nicht aufschieben solltest",
+          "link": "https://t3n.de/news/ios-26-6-1-update-sicherheitsluecken-iphone-installieren-1758529/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Apple hat ein neues Update für iPhones, Macs und iPads veröffentlicht. Nutzer:innen sollten iOS und iPadOS 26.6.1 sowie macOS Tahoe 26.6.2 nicht auf die lange Bank schieben. Denn damit werden einige Sicherheitslücken geschlossen, die gravierende Folgen nach sich ziehen könnten. weiterlesen auf t3n.de",
+          "published": "Sun, 23 Aug 2026 14:10:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Plutos Degradierung: Die Geschichte hinter der umstrittensten Entscheidung der Astronomie",
+        "DSL, Kabel oder Glasfaser: Welcher Internetanschluss lohnt sich wirklich?",
+        "Konzentration, Schlaf, Noten: Was passiert, wenn Kinder zu früh auf Social Media sind"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "heise+ | Herzstück Thermomanagement: Porsches E-Auto-Geheimnis",
+          "link": "https://www.heise.de/hintergrund/Heisskalt-Wie-Akkus-auf-ihrer-Wohlfuehltemperatur-gehalten-werden-11398455.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Thermomanagement ist entscheidend, um optimale Leistung, Effizienz und langes Akkuleben unter einen Hut zu bringen. Wie genau löst Porsche das technisch?",
+          "published": "2026-08-23T13:30:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise+ | Herzstück Thermomanagement: Porsches E-Auto-Geheimnis"
+      ]
+    }
+  ]
+}
