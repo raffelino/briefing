@@ -1,0 +1,316 @@
+{
+  "date": "2026-08-25",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Verkostung steht noch aus: Forscher backen Kekse aus Plastikmüll",
+          "link": "https://t3n.de/news/kekse-aus-plastikmuell-1759613/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein US-Forschungsteam hat Kekse aus Plastikmüll und weiteren organischen Abfällen hergestellt. Dafür programmierten sie spezielle Hefen so um, dass diese Plastik in Proteine, Vitamine und Aromastoffe umwandeln. Eine Kostprobe steht aber noch aus. weiterlesen auf t3n.de",
+          "published": "Mon, 24 Aug 2026 22:04:11 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Grok Bot vs. Hermes: Where each draws the security boundary",
+          "link": "https://thenewstack.io/ai-agent-security-boundaries/",
+          "summary": "Put several AI bots to work, and a mistake by one may not stay within its assigned task. For example, The post Grok Bot vs. Hermes: Where each draws the security boundary appeared first on The New Stack .",
+          "published": "Mon, 24 Aug 2026 17:39:15 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Developer-Häppchen – Go mit generischen Methoden und DuckDB als Server",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Go-mit-generischen-Methoden-und-DuckDB-als-Server-11419998.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Windows App Development CLI, PPC, GNU Poke, VS Code, Toolbox App, OpenSpec, Azure, Go und DuckDB.",
+          "published": "2026-08-22T07:15:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Model-Schau: Offene Modelle aus den USA, große aus China und kleine aus Europa",
+          "link": "https://www.heise.de/hintergrund/Model-Schau-Offene-Modelle-aus-den-USA-grosse-aus-China-und-kleine-aus-Europa-11415890.html",
+          "summary": "Die chinesischen Modelle werden größer und die amerikanischen Modelle offener. Außerdem gibt es Neuigkeiten aus der Schweiz und endlich aus Deutschland.",
+          "published": "2026-08-18T07:15:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Der Herr der Ringe - Saurons Helm zum Amazon-Tiefstpreis sichern",
+          "link": "https://www.golem.de/news/anzeige-der-herr-der-ringe-saurons-helm-zum-amazon-tiefstpreis-sichern-2608-212232.html",
+          "summary": "Amazon senkt das Lego-Herr-der-Ringe-Set Saurons Helm auf 45,99 Euro. Gemäß Preistracker gab es den Bausatz beim Onlinehändler nie günstiger. ( Lego , Amazon )",
+          "published": "2026-08-24T16:39:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Verkostung steht noch aus: Forscher backen Kekse aus Plastikmüll",
+        "Grok Bot vs. Hermes: Where each draws the security boundary",
+        "Developer-Häppchen – Go mit generischen Methoden und DuckDB als Server"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "JDK 27 and JDK 28: What We Know So Far",
+          "link": "https://www.infoq.com/news/2026/08/java-27-so-far/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "JDK 27, the second non-LTS release since JDK 25, has reached its first release candidate phase featuring a final set of nine new features, in the form of JEPs, that can be separated into four categories: Core Java Library, HotSpot, Security Library and Java Language Specification. We examine JDK 27 and predict what features have, or could be, targeted for JDK 28. By Michael Redlich",
+          "published": "Mon, 24 Aug 2026 02:30:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "JDK 27 and JDK 28: What We Know So Far"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Phishingversuch über Elster: Vorsicht vor falschen Steuer-Rückerstattungen",
+          "link": "https://t3n.de/news/phishingversuch-elster-falsche-steuer-rueckerstattung-1759497/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein aktueller Phishingversuch stellt eine vermeintliche Steuererstattung in Aussicht und bezieht das beliebte Steuerportal Elster mit ein. So könnt ihr die Cyberattacke erkennen. weiterlesen auf t3n.de",
+          "published": "Mon, 24 Aug 2026 11:30:32 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Dienstag: Schutz für IT-Sicherheitsforscher, Anklage wegen illegaler Exporte",
+          "link": "https://www.heise.de/news/Dienstag-Schutz-fuer-IT-Sicherheitsforscher-Anklage-wegen-illegaler-Exporte-11424457.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Reform des Computerstrafrechts + Illegale Ausfuhr von KI-Servern + AliExpress trackt Nutzer + Linux-Handheld sammelt eine Million + Kritik am Biometrie-Pakt",
+          "published": "2026-08-25T06:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kriminalisierung: Informatiker verlangen Freipass für IT-Sicherheitsforscher",
+          "link": "https://www.heise.de/news/Kriminalisierung-Informatiker-verlangen-Freipass-fuer-IT-Sicherheitsforscher-11424219.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Gesellschaft für Informatik fordert die Bundesregierung auf, ethische Hacker endlich wirksam vor Strafverfolgung zu schützen.",
+          "published": "2026-08-25T05:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Schwachstellen aufdecken – Pentesting mit Open-Source-Tools",
+          "link": "https://www.heise.de/news/iX-Workshop-Schwachstellen-aufdecken-Pentesting-mit-Open-Source-Tools-11298938.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.",
+          "published": "2026-08-24T14:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kritische Sicherheitslücke in GitLab: Angreifer können Projekte löschen",
+          "link": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-GitLab-Angreifer-koennen-Projekte-loeschen-11417037.html",
+          "summary": "GitLab-Umgebungen sind über zwei nun geschlossene Schwachstellen attackierbar.",
+          "published": "2026-08-18T08:29:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Phishingversuch über Elster: Vorsicht vor falschen Steuer-Rückerstattungen",
+        "Dienstag: Schutz für IT-Sicherheitsforscher, Anklage wegen illegaler Exporte",
+        "Kriminalisierung: Informatiker verlangen Freipass für IT-Sicherheitsforscher"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Überwachung im ÖPNV: Mit dieser Realsatire führte Bremen Verhaltensscanner ein",
+          "link": "https://netzpolitik.org/2026/ueberwachung-im-oepnv-mit-dieser-realsatire-fuehrte-bremen-verhaltensscanner-ein/",
+          "summary": "Videoüberwachung in einer Bremer Tram. Ein Drittel der Fahrzeuge wird mit Verhaltensscanner-Software aufgerüstet. – CC-BY-NC-SA 4.0 : Lucas Fiola Die Bremer Straßenbahn AG wollte eigentlich gar keine automatisierte Verhaltenskontrolle, das System war nur gerade im Angebot. Ohne Plan und Ahnung von Persönlichkeitsrechten startete der Einsatz. Die Datenschutzaufsicht hat grundsätzliche Bedenken.",
+          "published": "Mon, 24 Aug 2026 11:19:43 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs",
+          "link": "https://www.infoq.com/articles/rightsizing-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Shift-left and DevOps have impacted how we flow changes from inception to production, but at the cost of increased cognitive load and duplication of effort across testing, security, and maintenance. This article explores the real-world challenges of rightsizing developer platforms and finding a cultural match for engineering teams who use them to reduce cognitive load and deliver change faster. By John Keates",
+          "published": "Mon, 24 Aug 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Kriminalitätsbelastung in Berlin: Problematisches Herrschaftswissen",
+          "link": "https://netzpolitik.org/2026/kriminalitaetsbelastung-in-berlin-problematisches-herrschaftswissen/",
+          "summary": "Wo in Berlin wie viele Straftaten welcher Art verübt werden, ist Herrschaftswissen von Landesregierung und -polizei. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Jonas Tebbe Ob Gegenden in Berlin mit Videokameras und Verhaltensscanner überwacht werden dürfen, hängt davon ab, ob sie als kriminalitätsbelastet gelten. Die Datengrundlage zur Einstufung ist allerdings Herrschaftswissen. Ein Zahlendreher der Polizei zeigt, wie problematisch das ist.",
+          "published": "Mon, 24 Aug 2026 08:16:29 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "AI für SRE: Warum Automatisierung das Ziel ist und KI nur ein Werkzeug",
+          "link": "https://www.heise.de/hintergrund/AI-fuer-SRE-Warum-Automatisierung-das-Ziel-ist-und-KI-nur-ein-Werkzeug-11364776.html",
+          "summary": "Severin Neumann kritisiert das Schlagwort „AI SRE“ und plädiert für ein CNCF-Modell, das Reliability-Aufgaben statt Menschen automatisiert.",
+          "published": "2026-08-22T06:58:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(4 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Überwachung im ÖPNV: Mit dieser Realsatire führte Bremen Verhaltensscanner ein",
+        "Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs",
+        "Kriminalitätsbelastung in Berlin: Problematisches Herrschaftswissen"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Zielmarke übertroffen: Mehr als eine Million Euro für Linux-Handheld Mecha Comet",
+          "link": "https://www.heise.de/news/Zielmarke-uebertroffen-Mehr-als-eine-Million-Euro-fuer-Linux-Handheld-Mecha-Comet-11424389.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine Crowdfunding-Aktion übertrifft die Erwartungen. Das modular konzipierte Gerät bietet verschiedenste Anwendungen. Die Auslieferung soll schon bald beginnen.",
+          "published": "2026-08-24T21:39:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux 7.2 bringt umfangreiche Treiberupdates",
+          "link": "https://www.heise.de/news/Linux-7-2-bringt-umfangreiche-Treiberupdates-11419043.html",
+          "summary": "Am Sonntag hat Linus Torvalds den Linux-Kernel 7.2 freigegeben. Im Entwicklungs-Endspurt gab es noch größere Änderungen.",
+          "published": "2026-08-19T09:12:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Fehler in HTML, CSS und Accessibility – 87 Prozent der Top-Seiten fehlerhaft",
+          "link": "https://www.heise.de/news/87-Prozent-der-Top-Webseiten-verletzen-Standards-und-Accessibility-11417790.html",
+          "summary": "Viele der Top-Webseiten halten sich nicht an die Standards. Das kann zu Problemen mit der Barrierefreiheit oder der KI-Kommunikation führen.",
+          "published": "2026-08-19T05:56:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "(g+) KI in der Softwareentwicklung: Wenn Scrum Master zum Engpass werden",
+          "link": "https://www.golem.de/news/ki-in-der-softwareentwicklung-wenn-scrum-master-zum-engpass-werden-2608-212217.html",
+          "summary": "KI macht Scrum Master nicht überflüssig. Allerdings bekommen sie neue Tasks und laufen so Gefahr, sich im Micromanagement zu verlieren. Wie man sich davor schützen kann. Ein Ratgebertext von Marcel Gießler ( Arbeit , KI )",
+          "published": "2026-08-24T13:30:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Zielmarke übertroffen: Mehr als eine Million Euro für Linux-Handheld Mecha Comet",
+        "Linux 7.2 bringt umfangreiche Treiberupdates",
+        "Fehler in HTML, CSS und Accessibility – 87 Prozent der Top-Seiten fehlerhaft"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Anthropic’s Playground vs. OpenAI’s: The week-old tool beat the six-year incumbent",
+          "link": "https://thenewstack.io/anthropic-openai-playground-comparison/",
+          "summary": "On August 18, Anthropic replaced its Workbench, the prompt-testing tool in its developer Console, with Playground. Anthropic did more than The post Anthropic&#8217;s Playground vs. OpenAI&#8217;s: The week-old tool beat the six-year incumbent appeared first on The New Stack .",
+          "published": "Mon, 24 Aug 2026 19:30:57 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Microsoft Moves AI Governance From Policy to Runtime Enforcement",
+          "link": "https://www.infoq.com/news/2026/08/microsoft-ai-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has outlined an AI governance architecture spanning nine governance domains and four functions: policy, control, visibility, and proof. The approach connects policies with runtime enforcement, continuous evaluation, observability, identity, security, and audit evidence to help organizations verify governance requirements as AI applications and agents operate in production. By Leela Kumili",
+          "published": "Mon, 24 Aug 2026 13:49:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Thomson Reuters trained its own AI model. Then it kept using Anthropic’s anyway.",
+          "link": "https://thenewstack.io/thomson-reuters-ai-model/",
+          "summary": "Thomson Reuters has developed its own AI model for legal, tax and compliance work, trained on the company&#8217;s proprietary professional The post Thomson Reuters trained its own AI model. Then it kept using Anthropic&#8217;s anyway. appeared first on The New Stack .",
+          "published": "Mon, 24 Aug 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Selbstverbessernde KI lässt auf sich warten: Woran die Agenten scheitern",
+          "link": "https://t3n.de/news/selbstverbessernde-ki-agenten-scheitern-1758782/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Forscher:innen haben KI-Agenten wissenschaftliche Studien zu unbeantworteten Forschungsfragen schreiben lassen. Der Grund, warum sie die Programme dabei versagt weiterlesen auf t3n.de",
+          "published": "Mon, 24 Aug 2026 14:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Computer History: ChatGPT speichert auf Wunsch alles, was du am Mac tust – wir haben es ausprobiert",
+          "link": "https://t3n.de/news/computer-history-chatgpt-speichert-auf-wunsch-alles-was-du-am-mac-tust-wir-haben-es-ausprobiert-1759528/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nutzer ab dem Pro-Abo oder Business- und Enterprise-Kunden von ChatGPT können künftig am Mac alle Dinge speichern lassen, die sie den Tag über tun. Das ist ziemlich gruselig – auch, weil OpenAI es nicht speziell schützt. weiterlesen auf t3n.de",
+          "published": "Mon, 24 Aug 2026 14:30:01 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Anthropic’s Playground vs. OpenAI’s: The week-old tool beat the six-year incumbent",
+        "Microsoft Moves AI Governance From Policy to Runtime Enforcement",
+        "Thomson Reuters trained its own AI model. Then it kept using Anthropic’s anyway."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "GM vehicles under federal scrutiny after hundreds of reports",
+          "link": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
+          "summary": "The eBoost brake-by-wire system is responsible for at least 22 crashes now.",
+          "published": "Mon, 24 Aug 2026 19:42:50 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Anzeige: Original Leatherman für 47 Euro günstig wie seit Monaten nicht",
+          "link": "https://www.golem.de/news/anzeige-original-leatherman-fuer-47-euro-guenstig-wie-seit-monaten-nicht-2608-212208.html",
+          "summary": "Das Original Leatherman Micra mit zehn Werkzeugen gibt es aktuell für nur 47,20 Euro im befristeten Angebot zum Amazon-Jahrestiefstpreis. ( Unterhaltung & Hobby , Victorinox )",
+          "published": "2026-08-24T10:05:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "GM vehicles under federal scrutiny after hundreds of reports",
+        "Anzeige: Original Leatherman für 47 Euro günstig wie seit Monaten nicht"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Dieser Mann hat den Weltraum für sich entdeckt – aber anders als du denkst",
+          "link": "https://t3n.de/news/weltraum-entdeckt-reiche-1758631/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Roman Chiporukha möchte sich nicht selbst auf orbitale Abenteuer begeben, sondern diese für eine zahlende Kundschaft arrangieren. Damit bereitet er ein neues Berufsfeld. Ob das Bestand hat? weiterlesen auf t3n.de",
+          "published": "Tue, 25 Aug 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "20 Jahre Zwergplanet: Warum der Streit um Pluto neu entbrennt",
+          "link": "https://t3n.de/news/pluto-zwergplanet-20-jahre-debatte-nasa-1759604/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Vor exakt zwei Jahrzehnten fällte die astronomische Fachwelt eine historische Entscheidung, die bis heute Nachwirkungen zeigt. Ein kleiner Himmelskörper verlor seinen angestammten Status, doch die Diskussionen darüber reißen nicht ab. weiterlesen auf t3n.de",
+          "published": "Mon, 24 Aug 2026 19:50:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Einsteins Vorhersage bewiesen: Die Erde zieht die Raumzeit mit sich",
+          "link": "https://t3n.de/news/satelliten-messen-einstein-relativitaetstheorie-raumzeit-1759541/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Rotierende Massen verändern das Gefüge des Universums um sie herum auf eine sehr spezifische Weise. Ein internationales Forschungsteam hat dieses Phänomen nun direkt im Erdorbit durch langfristige Messungen detailliert unter die Lupe genommen. weiterlesen auf t3n.de",
+          "published": "Mon, 24 Aug 2026 17:00:30 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "SAP-Migration: So analysierst du mit PRISMA Tausende AfO-Workbooks",
+          "link": "https://t3n.de/news/prisma-sap-reporting-analyse-afo-workbooks-1755085/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Unzählige AfO-Workbooks, aber kein Überblick? PRISMA analysiert Reporting-Landschaften automatisiert, priorisiert relevante Inhalte und schafft die Basis, um fachlich korrekte SAC Stories in wenigen Minuten zu generieren. weiterlesen auf t3n.de",
+          "published": "Mon, 24 Aug 2026 14:40:56 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Die Folgen enden nicht mit steigenden Wasserständen“: Was die niedrigen Pegel für unsere Wirtschaft bedeuten",
+          "link": "https://t3n.de/news/die-folgen-enden-nicht-mit-steigenden-wasserstaenden-was-die-niedrigen-pegel-fuer-unsere-wirtschaft-bedeuten-1759303/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenngleich der Pegelstand im Rhein wieder steigt, so war die Situation für Flüsse in Deutschland in diesem Sommer besonders alarmierend. Das hat langfristige Fo weiterlesen auf t3n.de",
+          "published": "Mon, 24 Aug 2026 13:30:37 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Dieser Mann hat den Weltraum für sich entdeckt – aber anders als du denkst",
+        "20 Jahre Zwergplanet: Warum der Streit um Pluto neu entbrennt",
+        "Einsteins Vorhersage bewiesen: Die Erde zieht die Raumzeit mit sich"
+      ]
+    }
+  ]
+}
