@@ -1,0 +1,319 @@
+{
+  "date": "2026-08-26",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Presentation: Continuous Delivery for Foundational Platforms",
+          "link": "https://www.infoq.com/presentations/cd-reliability-innovation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Ian Nowland discusses why conventional CI/CD practices break down for stateful, core infrastructure. Drawing from his leadership at AWS and Datadog, he shares actionable techniques for safe progressive deployments, synthetic testing in production, and mitigating blast radius in complex software platforms. By Ian Nowland",
+          "published": "Tue, 25 Aug 2026 13:34:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Developer-Häppchen – Go mit generischen Methoden und DuckDB als Server",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Go-mit-generischen-Methoden-und-DuckDB-als-Server-11419998.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Windows App Development CLI, PPC, GNU Poke, VS Code, Toolbox App, OpenSpec, Azure, Go und DuckDB.",
+          "published": "2026-08-22T07:15:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Model-Schau: Offene Modelle aus den USA, große aus China und kleine aus Europa",
+          "link": "https://www.heise.de/hintergrund/Model-Schau-Offene-Modelle-aus-den-USA-grosse-aus-China-und-kleine-aus-Europa-11415890.html",
+          "summary": "Die chinesischen Modelle werden größer und die amerikanischen Modelle offener. Außerdem gibt es Neuigkeiten aus der Schweiz und endlich aus Deutschland.",
+          "published": "2026-08-18T07:15:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Microsoft Azure administrieren: Workshop für Admins",
+          "link": "https://www.golem.de/news/anzeige-microsoft-azure-administrieren-workshop-fuer-admins-2608-212293.html",
+          "summary": "Die Administration von Microsoft Azure stellt Systemadministratoren vor komplexe Aufgaben. Ein Online-Workshop vermittelt das nötige Rüstzeug. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-08-26T07:15:05+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Golem-Community: Wir bringen dich zu den Container Days",
+          "link": "https://www.golem.de/news/golem-community-wir-bringen-dich-zu-den-container-days-2608-212256.html",
+          "summary": "Du willst zu den Container Days nach Hamburg, hast aber kein Ticket? Dann solltest du dringend weiterlesen! ( Kubernetes , In eigener Sache )",
+          "published": "2026-08-25T11:25:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Continuous Delivery for Foundational Platforms",
+        "Developer-Häppchen – Go mit generischen Methoden und DuckDB als Server",
+        "Model-Schau: Offene Modelle aus den USA, große aus China und kleine aus Europa"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: JDK 27-RC1, OpenJDK JEPs, Jakarta EE, BellSoft, Helidon, Micrometer, Tika 4.0",
+          "link": "https://www.infoq.com/news/2026/08/java-news-roundup-aug17-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for August 17th, 2026, features news highlighting: the first release candidate of JDK 27; JEP 541 and JEP 540 targeted for JDK 28; the GA release of Apache Tika 4.0; a maintenance release of Helidon; the first milestone releases of Micrometer Metrics 1.18 and Micrometer Tracing 1.8; an update on Jakarta EE 12; and BellSoft Critical Security Patch Updates. By Michael Redlich",
+          "published": "Tue, 25 Aug 2026 15:20:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Java News Roundup: JDK 27-RC1, OpenJDK JEPs, Jakarta EE, BellSoft, Helidon, Micrometer, Tika 4.0"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Kritische Sicherheitslücke in GitLab: Angreifer können Projekte löschen",
+          "link": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-GitLab-Angreifer-koennen-Projekte-loeschen-11417037.html",
+          "summary": "GitLab-Umgebungen sind über zwei nun geschlossene Schwachstellen attackierbar.",
+          "published": "2026-08-18T08:29:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Zero Trust in Microsoft 365 richtig umsetzen",
+          "link": "https://www.golem.de/news/anzeige-zero-trust-in-microsoft-365-richtig-umsetzen-2608-212247.html",
+          "summary": "Klassische Netzwerkgrenzen verlieren an Bedeutung. Ein Workshop zeigt, wie Unternehmen ihre Microsoft-365-Umgebung nach dem Zero-Trust-Prinzip absichern. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-08-25T18:45:09+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Phishing-Warnung: Betrüger ködern mit angeblicher Steuererstattung",
+          "link": "https://www.golem.de/news/verbraucherzentrale-warnt-phishing-mails-koedern-mit-angeblicher-steuererstattung-2608-212265.html",
+          "summary": "Viele Bürger warten seit Wochen auf ihren Steuerbescheid 2025. Betrüger nutzen das aktuell vermehrt aus, um mittels Phishing Daten abzugreifen. ( Phishing , E-Mail )",
+          "published": "2026-08-25T12:49:06+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Kritische Sicherheitslücke in GitLab: Angreifer können Projekte löschen",
+        "Anzeige: Zero Trust in Microsoft 365 richtig umsetzen",
+        "Phishing-Warnung: Betrüger ködern mit angeblicher Steuererstattung"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "GEO oder SEO für deine Website? Das sagt Google dazu",
+          "link": "https://t3n.de/news/geo-seo-website-google-1759806/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kaum ein Thema bewegt im SEO-Bereich derzeit so die Gemüter wie die Frage, ob klassische Suchmaschinenoptimierung im KI-Zeitalter noch ausreicht, oder ob man zu GEO greifen sollte. Google hat jetzt aus seiner Sicht eine Antwort darauf gegeben. weiterlesen auf t3n.de",
+          "published": "Tue, 25 Aug 2026 20:41:52 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AI für SRE: Warum Automatisierung das Ziel ist und KI nur ein Werkzeug",
+          "link": "https://www.heise.de/hintergrund/AI-fuer-SRE-Warum-Automatisierung-das-Ziel-ist-und-KI-nur-ein-Werkzeug-11364776.html",
+          "summary": "Severin Neumann kritisiert das Schlagwort „AI SRE“ und plädiert für ein CNCF-Modell, das Reliability-Aufgaben statt Menschen automatisiert.",
+          "published": "2026-08-22T06:58:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "GEO oder SEO für deine Website? Das sagt Google dazu",
+        "AI für SRE: Warum Automatisierung das Ziel ist und KI nur ein Werkzeug"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Fliegen wir bald mit Kokosöl? Forscher testen Kerosin-Alternative",
+          "link": "https://t3n.de/news/kokosoel-kerosin-alternative-1759705/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Auf der Suche nach einer umweltfreundlichen Kerosin-Alternative haben Forscher:innen aus Japan die Eigenschaften eines Biokraftstoffs auf Kokosöl-Basis untersucht. Die Ergebnisse zeigen zwar das Potenzial des Gemischs, aber auch mehrere Haken. weiterlesen auf t3n.de",
+          "published": "Tue, 25 Aug 2026 15:30:19 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nuxt 4.5: Experimental SSR Streaming, Vite 8 and an Rsbuild-Powered Rspack Builder",
+          "link": "https://www.infoq.com/news/2026/08/nuxt-4-5-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Nuxt has released version 4.5, featuring updates such as a switch to Vite 8, a new Rspack 2 builder, and experimental SSR streaming. This streaming enhances Time to First Byte by flushing the HTML shell instantly. The release also includes a stable error code system and new composables, alongside important upgrade instructions for developers moving from earlier versions. By Daniel Curtis",
+          "published": "Tue, 25 Aug 2026 11:36:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Linux 7.2 bringt umfangreiche Treiberupdates",
+          "link": "https://www.heise.de/news/Linux-7-2-bringt-umfangreiche-Treiberupdates-11419043.html",
+          "summary": "Am Sonntag hat Linus Torvalds den Linux-Kernel 7.2 freigegeben. Im Entwicklungs-Endspurt gab es noch größere Änderungen.",
+          "published": "2026-08-19T09:12:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Fehler in HTML, CSS und Accessibility – 87 Prozent der Top-Seiten fehlerhaft",
+          "link": "https://www.heise.de/news/87-Prozent-der-Top-Webseiten-verletzen-Standards-und-Accessibility-11417790.html",
+          "summary": "Viele der Top-Webseiten halten sich nicht an die Standards. Das kann zu Problemen mit der Barrierefreiheit oder der KI-Kommunikation führen.",
+          "published": "2026-08-19T05:56:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Ausgeträumt: Dreame stoppt Pläne für elektrischen Luxuswagen",
+          "link": "https://www.golem.de/news/ausgetraeumt-dreame-stoppt-plaene-fuer-elektrische-luxuswagen-2608-212282.html",
+          "summary": "Der Staubsaugerhersteller Dreame fährt seine ambitionierten Pläne für E-Autos zurück. Das betrifft auch eine mögliche Fabrik in Brandenburg. ( Elektroauto , Wirtschaft )",
+          "published": "2026-08-25T16:18:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Fliegen wir bald mit Kokosöl? Forscher testen Kerosin-Alternative",
+        "Nuxt 4.5: Experimental SSR Streaming, Vite 8 and an Rsbuild-Powered Rspack Builder",
+        "Linux 7.2 bringt umfangreiche Treiberupdates"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Shopify’s CEO threatened to ban Claude Code. Anthropic had already closed the feature request.",
+          "link": "https://thenewstack.io/shopify-claude-code-agentsmd/",
+          "summary": "Shopify CEO Tobi L&#252;tke is considering banning Claude Code at the company, but not because he thinks Anthropic&#8217;s coding agent The post Shopify&#8217;s CEO threatened to ban Claude Code. Anthropic had already closed the feature request. appeared first on The New Stack .",
+          "published": "Tue, 25 Aug 2026 19:39:17 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "IBM’s new Granite 4.2 models add reasoning and stay dense",
+          "link": "https://thenewstack.io/ibm-granite-reasoning-models/",
+          "summary": "On Tuesday, IBM launched the latest family of its open-weight Granite large language models (LLMs). Weighing in at 3 billion, The post IBM&#8217;s new Granite 4.2 models add reasoning and stay dense appeared first on The New Stack .",
+          "published": "Tue, 25 Aug 2026 19:13:45 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "How telemetry pipelines keep AI agent costs under control",
+          "link": "https://thenewstack.io/agentic-ai-telemetry-costs/",
+          "summary": "As enterprises move from experimenting with AI to running autonomous agents in production, an infrastructure problem is emerging: rising telemetry The post How telemetry pipelines keep AI agent costs under control appeared first on The New Stack .",
+          "published": "Tue, 25 Aug 2026 19:01:28 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Preserving glow-in-the-dark art and fashion for future generations",
+          "link": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
+          "summary": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition.",
+          "published": "Tue, 25 Aug 2026 18:59:12 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Anthropic gives chat and Cowork one memory",
+          "link": "https://thenewstack.io/claude-memory-chat-cowork/",
+          "summary": "On Tuesday, Anthropic launched a major update to how Claude remembers things. The new system combines Claude&#8217;s memory in Cowork The post Anthropic gives chat and Cowork one memory appeared first on The New Stack .",
+          "published": "Tue, 25 Aug 2026 17:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Shopify’s CEO threatened to ban Claude Code. Anthropic had already closed the feature request.",
+        "IBM’s new Granite 4.2 models add reasoning and stay dense",
+        "How telemetry pipelines keep AI agent costs under control"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "BMC Vulnerabilities Put Thousands of Servers at Risk of Hardware-Level Compromise",
+          "link": "https://www.infoq.com/news/2026/08/bmc-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Security researchers are warning that thousands of enterprise servers could be exposed to compromise through vulnerabilities in their Baseboard Management Controllers (BMCs) - specialized processors embedded in server motherboards that provide administrators with remote, out-of-band control. By Craig Risi",
+          "published": "Tue, 25 Aug 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Umsetzung des Cyber Resilience Act: Deutsche Industrie hat noch Nachholbedarf",
+          "link": "https://www.heise.de/news/Umsetzung-des-Cyber-Resilience-Act-Deutsche-Industrie-hat-noch-Nachholbedarf-11425603.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Im Dezember 2027 tritt der Cyber Resilience Act vollständig in Kraft, viele Unternehmen kämpfen noch mit den Vorgaben etwa zu Meldepflichten und SBOMs.",
+          "published": "2026-08-25T18:25:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "At just $8, you owe it to yourself to grab Inscryption",
+          "link": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
+          "summary": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven’t heard of him, get a crash course with a fantastic discount on Inscryption. Humble is currently selling Steam versions of the secret-packed deckbuilder for [&#8230;]",
+          "published": "2026-08-25T16:38:37-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "BMC Vulnerabilities Put Thousands of Servers at Risk of Hardware-Level Compromise",
+        "Umsetzung des Cyber Resilience Act: Deutsche Industrie hat noch Nachholbedarf",
+        "At just $8, you owe it to yourself to grab Inscryption"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Gamescom: DLSS 4.5: Nvidia veröffentlicht neues Ray-Reconstruction-Modell",
+          "link": "https://www.heise.de/news/DLSS-4-5-Nvidia-veroeffentlicht-neues-Ray-Reconstruction-Modell-11425617.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Nvidias neues Ray-Reconstruction-Modell für DLSS 4.5 ist jetzt verfügbar. Es reduziert Ghosting und Bildrauschen in Raytracing-Spielen deutlich.",
+          "published": "2026-08-25T19:15:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Gamescom: DLSS 4.5: Nvidia veröffentlicht neues Ray-Reconstruction-Modell"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "KI-Modelle in der Medizin: Forscher der TU München entdecken hohes Datenschutzrisiko",
+          "link": "https://t3n.de/news/ki-modelle-medizin-tu-muenchen-datenschutzrisiko-1758928/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Forschende greifen mit einer einfachen Methode erfolgreich medizinische KI-Modelle an und fordern Sicherheitsmaßnahmen – wenn auch nur für spezielle Fälle.Morit weiterlesen auf t3n.de",
+          "published": "Wed, 26 Aug 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Brasilianische Präsidentschaftswahl: Facebook lässt Wahlwerbung mit Desinformation zu",
+          "link": "https://netzpolitik.org/2026/brasilianische-praesidentschaftswahl-facebook-laesst-wahlwerbung-mit-desinformation-zu/",
+          "summary": "Brasiliens Präsident Luiz Inacio Lula da Silva tritt zur Wiederwahl an (Archivbild). – Alle Rechte vorbehalten: IMAGO / Xinhua Amnesty International hat erfolgreich getestet, dass Facebook Wahlwerbung mit Falschinformationen in Brasilien ausspielen würde. Das Unternehmen würde damit gegen eigene Regeln und brasilianische Gerichtsbeschlüsse verstoßen.",
+          "published": "Tue, 25 Aug 2026 16:33:05 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Kritik an Deutschland-App: Menschenzentrierte Verwaltung statt vorgeschaltetem Chatbot",
+          "link": "https://netzpolitik.org/2026/kritik-an-deutschland-app-menschenzentrierte-verwaltung-statt-vorgeschaltetem-chatbot/",
+          "summary": "Digitalminister will Kontakt der Bürger:innen zur Verwaltung über einen Chatbot kanalisieren. – Alle Rechte vorbehalten: IMAGO / photothek Bürger:innen sollen einen zentralen Zugang zur Verwaltung bekommen, und zwar mit der Deutschland-App. Digitalminister Karsten Wildberger setzt dabei auf generative KI. Der Koalitionspartner kritisiert, dass der Chatbot die Probleme der Verwaltungsdigitalisierung nicht löst, so ein internes Positionspapier der SPD, das wir veröffentlichen.",
+          "published": "Tue, 25 Aug 2026 14:21:51 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Als Windows noch Spaß machte: Warum die Einführungskampagne von Windows 95 Kult wurde",
+          "link": "https://t3n.de/news/als-windows-noch-spass-machte-warum-die-einfuehrungskampagne-von-windows-95-kult-wurde-1759720/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Windows 95 wurde mit vielen Extras ausgeliefert, darunter Spiele, Cartoons und ein Musikvideo von Weezer. Was steckte hinter dieser außergewöhnlichen Microsoft-Kampagne? weiterlesen auf t3n.de",
+          "published": "Tue, 25 Aug 2026 16:00:36 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mac Mini mit M6 vorgestellt: Das Gehäuse bleibt klein – der Preis nicht",
+          "link": "https://t3n.de/news/mac-mini-m6-m5-pro-max-mac-studio-1759768/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mac Mini zum kleinen Preis? Das war einmal. Kostete die M4-Variante ursprünglich einmal 699 Euro, geht die neue Version mit M6-Chip für über 1.000 Euro an den Start. Was gibt es dafür? weiterlesen auf t3n.de",
+          "published": "Tue, 25 Aug 2026 15:17:36 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KI-Modelle in der Medizin: Forscher der TU München entdecken hohes Datenschutzrisiko",
+        "Brasilianische Präsidentschaftswahl: Facebook lässt Wahlwerbung mit Desinformation zu",
+        "Kritik an Deutschland-App: Menschenzentrierte Verwaltung statt vorgeschaltetem Chatbot"
+      ]
+    }
+  ]
+}
