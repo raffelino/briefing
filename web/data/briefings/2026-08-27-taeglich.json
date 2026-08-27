@@ -1,0 +1,295 @@
+{
+  "date": "2026-08-27",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Google Cloud Launches AI-powered Agents to Simplify Database Lifecycle Management",
+          "link": "https://www.infoq.com/news/2026/08/google-database-operation-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google Cloud has introduced AI-powered Database Operations Agents, featuring an Onboarding Agent that streamlines database setup and an Observability Agent that helps automate troubleshooting, performance optimization, and tuning. Integrated with Gemini Cloud Assist, these agents support multiple database services, including AlloyDB, Bigtable, and Spanner. By Sergio De Simone",
+          "published": "Thu, 27 Aug 2026 15:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Google’s new legal AI exposes a bigger battle over the enterprise stack",
+          "link": "https://thenewstack.io/google-thomson-specialized-ai/",
+          "summary": "Google Cloud launched Gemini Enterprise for Legal this week, a purpose-built agentic AI solution to automate legal workflows, including contract The post Google’s new legal AI exposes a bigger battle over the enterprise stack appeared first on The New Stack .",
+          "published": "Wed, 26 Aug 2026 16:33:23 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS Introduces Specification Driven Composition for Flexible Data Workflows",
+          "link": "https://www.infoq.com/news/2026/08/aws-spec-driven-data-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS describes a specification-driven approach for composing flexible data workflows by separating intent from processing logic. Architecture uses declarative specifications, reusable processing capabilities, and validation before execution. AWS reports that the approach can reduce dataset onboarding from weeks to days while supporting traceability, versioning, data classification, and governance. By Leela Kumili",
+          "published": "Wed, 26 Aug 2026 14:18:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Apples „Home Hub“ liest Gesichter aus – zum Benutzerwechsel",
+          "link": "https://www.heise.de/news/Apples-Home-Hub-liest-Gesichter-aus-zum-Benutzerwechsel-11425713.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Apple bereitet eine neue Heimzentrale fürs Smart Home vor. Diese soll einen fliegenden Benutzerwechsel bekommen, zeigen Code-Leaks.",
+          "published": "2026-08-27T14:57:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Developer-Häppchen – Go mit generischen Methoden und DuckDB als Server",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Go-mit-generischen-Methoden-und-DuckDB-als-Server-11419998.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Windows App Development CLI, PPC, GNU Poke, VS Code, Toolbox App, OpenSpec, Azure, Go und DuckDB.",
+          "published": "2026-08-22T07:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Google Cloud Launches AI-powered Agents to Simplify Database Lifecycle Management",
+        "Google’s new legal AI exposes a bigger battle over the enterprise stack",
+        "AWS Introduces Specification Driven Composition for Flexible Data Workflows"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Astro Introduces Sätteri: A Rust-powered Markdown And Mdx Processor With Up To 60% Faster Builds",
+          "link": "https://www.infoq.com/news/2026/08/astro-satteri-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Sätteri is a high-performance Markdown and MDX processor developed by the Astro team. Built in Rust, it enhances build speeds by up to 61% for Astro 7.0. Sätteri supports flexible JavaScript plugins and integrates various Markdown features natively. It maintains compatibility with the unified ecosystem while offering faster parsing and reduced dependencies. By Daniel Curtis",
+          "published": "Thu, 27 Aug 2026 12:31:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Astro Introduces Sätteri: A Rust-powered Markdown And Mdx Processor With Up To 60% Faster Builds"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Ethisches Hacken: Raus aus der Grauzone",
+          "link": "https://netzpolitik.org/2026/ethisches-hacken-raus-aus-der-grauzone/",
+          "summary": "Ethische Hacker:innen werden als \"White Hats\" bezeichnet – und müssen in Deutschland mit rechtlichen Folgen rechnen, wenn sie IT-Sicherheitslücken melden. – Alle Rechte vorbehalten: IMAGO / Future Image Sicherheitsforscher:innen, die auf eigene Faust Lücken in IT-Systemen entdecken und diese verantwortungsbewusst melden, können schnell in die Bredouille geraten. Nun legt die Gesellschaft für Informatik ein Papier dazu vor, wie die überfällige Reform des Computerstrafrechts endlich gelingen könnte.",
+          "published": "Wed, 26 Aug 2026 15:18:51 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(1 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Ethisches Hacken: Raus aus der Grauzone"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Hugging-Face-Angriff: OpenAI-Abschlussbericht liefert neue Erkenntnisse",
+          "link": "https://www.heise.de/news/OpenAI-Abschlussbericht-Rund-700-Agenten-griffen-Hugging-Face-an-11431716.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "OpenAIs Bericht zum Hugging-Face-Vorfall zeigt, dass riskante Verhaltensmuster schon beim Training auftraten und Warnsignale nicht ausreichend eskaliert wurden.",
+          "published": "2026-08-27T13:46:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "AI für SRE: Warum Automatisierung das Ziel ist und KI nur ein Werkzeug",
+          "link": "https://www.heise.de/hintergrund/AI-fuer-SRE-Warum-Automatisierung-das-Ziel-ist-und-KI-nur-ein-Werkzeug-11364776.html",
+          "summary": "Severin Neumann kritisiert das Schlagwort „AI SRE“ und plädiert für ein CNCF-Modell, das Reliability-Aufgaben statt Menschen automatisiert.",
+          "published": "2026-08-22T06:58:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Urheberrechtsprobleme: Millionen Dateien im Webarchiv des Bundestags gesperrt",
+          "link": "https://www.golem.de/news/urheberrechtsprobleme-webarchiv-des-bundestags-teilweise-gesperrt-2608-212361.html",
+          "summary": "Schon seit Monaten lassen sich ältere Internetseiten des Bundestags nicht mehr aufrufen. Grund sind Nutzungsrechte an verwendeten Fotos. ( Deutscher Bundestag , Urheberrecht )",
+          "published": "2026-08-27T13:17:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Hugging-Face-Angriff: OpenAI-Abschlussbericht liefert neue Erkenntnisse",
+        "AI für SRE: Warum Automatisierung das Ziel ist und KI nur ein Werkzeug",
+        "Urheberrechtsprobleme: Millionen Dateien im Webarchiv des Bundestags gesperrt"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Neuer Job als IT-Leitung Digitalisierung (m/w/d) gesucht? Schau dir unsere Top Jobs an",
+          "link": "https://t3n.de/news/unsere-jobs-der-woche-1175973/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hier findest du unsere besten Jobs aus den Bereichen Technik &amp; Entwicklung, Marketing, PR &amp; Kommunikation, Projektmanagement &amp; Produktmanagement, Design &amp; UX, Content &amp; Redaktion und Business Development. weiterlesen auf t3n.de",
+          "published": "Thu, 27 Aug 2026 15:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Cloudflare Wallets Arrives Late to x402, and the Spending Controls Stop at the Payment",
+          "link": "https://www.infoq.com/news/2026/08/agent-payment-rails-x402/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare announced Wallets, giving agents a stablecoin balance and spending controls, though only handle claiming is live and squatting complaints have already surfaced. Payments run on x402, now hosted by the Linux Foundation. The controls bound single payments, not sequences, leaving composition to the application above. By Steef-Jan Wiggers",
+          "published": "Thu, 27 Aug 2026 09:04:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Omarchy Linux: Desktop-Umbau und 10 Millionen Dollar für Stiftung",
+          "link": "https://www.heise.de/news/Omarchy-Linux-Desktop-Umbau-und-10-Millionen-Dollar-fuer-Stiftung-11432090.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Omarchy 4.0 ersetzt große Teile der bisherigen Desktop-Umgebung. Gleichzeitig erhält das Projekt eine mit zehn Millionen US-Dollar finanzierte Stiftung.",
+          "published": "2026-08-27T16:05:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Omarchy Linux: Desktop-Umbau und 10 Millionen Dollar für Stiftung",
+          "link": "https://www.heise.de/news/Omarchy-Linux-Desktop-Umbau-und-10-Millionen-Dollar-fuer-Stiftung-11432090.html",
+          "summary": "Omarchy 4.0 ersetzt große Teile der bisherigen Desktop-Umgebung. Gleichzeitig erhält das Projekt eine mit zehn Millionen US-Dollar finanzierte Stiftung.",
+          "published": "2026-08-27T14:05:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Linux 7.2: Neuer Kernel bringt Performance-Optimierung",
+          "link": "https://www.heise.de/news/Linux-7-2-Neuer-Kernel-bringt-Performance-Optimierung-11425914.html",
+          "summary": "Linux 7.2 fokussiert sich auf Modernisierung. Ein neuer GPU-Scheduler sorgt für mehr Fairness, während CPU-Scheduling nun CPU-Caches effizienter nutzt.",
+          "published": "2026-08-26T06:21:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Neuer Job als IT-Leitung Digitalisierung (m/w/d) gesucht? Schau dir unsere Top Jobs an",
+        "Cloudflare Wallets Arrives Late to x402, and the Spending Controls Stop at the Payment",
+        "Omarchy Linux: Desktop-Umbau und 10 Millionen Dollar für Stiftung"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "“Posterity will find it ludicrous”: Sai agent hits 73% on OSWorld 2.0 performing routine (but necessary) work",
+          "link": "https://thenewstack.io/sai-agent-osworld-benchmark/",
+          "summary": "Sai, a computer agent built by Simular, has achieved a 73% success rate on OSWorld 2.0, in a benchmark update The post “Posterity will find it ludicrous”: Sai agent hits 73% on OSWorld 2.0 performing routine (but necessary) work appeared first on The New Stack .",
+          "published": "Thu, 27 Aug 2026 15:34:11 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Nvidia doesn’t need to block rival chips on Hugging Face. It just needs the defaults.",
+          "link": "https://thenewstack.io/nvidia-hugging-face-acquisition-neutrality/",
+          "summary": "Nvidia has reportedly agreed to buy Hugging Face for $12.9 billion, putting one of the biggest names in AI hardware The post Nvidia doesn’t need to block rival chips on Hugging Face. It just needs the defaults. appeared first on The New Stack .",
+          "published": "Thu, 27 Aug 2026 15:16:11 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+          "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+          "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
+          "published": "Thu, 27 Aug 2026 14:00:13 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Why basic RAG fails at multi-hop reasoning (and how GraphRAG fixes it)",
+          "link": "https://thenewstack.io/graphrag-multi-hop-reasoning-python/",
+          "summary": "The current approach to designing LLMs within AI engineering is oversimplified. According to the echo chamber&#8217;s view, solving LLM hallucinations The post Why basic RAG fails at multi-hop reasoning (and how GraphRAG fixes it) appeared first on The New Stack .",
+          "published": "Thu, 27 Aug 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Anthropic’s new Files API vs. pasting: It will save you time, but it won’t save you money.",
+          "link": "https://thenewstack.io/anthropic-files-api-costs/",
+          "summary": "Anthropic moved the Files API and computer-use toolset out of beta on August 19 and launched a browser-use toolset. It The post Anthropic&#8217;s new Files API vs. pasting: It will save you time, but it won’t save you money. appeared first on The New Stack .",
+          "published": "Thu, 27 Aug 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "“Posterity will find it ludicrous”: Sai agent hits 73% on OSWorld 2.0 performing routine (but necessary) work",
+        "Nvidia doesn’t need to block rival chips on Hugging Face. It just needs the defaults.",
+        "Claude, Codex, and Hermes installed unowned code inside corporate networks"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Anzeige: Microsoft 365 DSGVO-konform betreiben",
+          "link": "https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-2608-212342.html",
+          "summary": "Microsoft 365 verarbeitet sensible Unternehmens- und Personendaten. Ein Workshop zeigt, wie sich die Plattform DSGVO-konform konfigurieren und betreiben lässt. ( Golem Karrierewelt , Datenschutz )",
+          "published": "2026-08-27T07:15:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Anzeige: Microsoft 365 DSGVO-konform betreiben"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Observability has a data problem. AI is about to make it worse.",
+          "link": "https://thenewstack.io/opentelemetry-observability-telemetry-storage/",
+          "summary": "Observability is entering a new phase now that OpenTelemetry has standardized instrumentation for data collection. Unfortunately, the observability industry still The post Observability has a data problem. AI is about to make it worse. appeared first on The New Stack .",
+          "published": "Wed, 26 Aug 2026 20:08:10 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Observability has a data problem. AI is about to make it worse."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Nasa: Nancy-Grace-Roman-Teleskop soll Sternenlicht blockieren, um 100.000 Exoplaneten zu finden",
+          "link": "https://t3n.de/news/nasa-nancy-grace-roman-teleskop-exoplaneten-entdeckung-1754264/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Nancy-Grace-Roman-Weltraumteleskop startet am 30. August 2026 seinen Flug ins All. Dort soll es mithilfe eines sogenannten aktiven Koronagrafen unerwünschtes Sternenlicht ausblenden. Dadurch könnte eine Vielzahl unentdeckter Planeten sichtbar werden. weiterlesen auf t3n.de",
+          "published": "Thu, 27 Aug 2026 14:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Galaxy Z Fold 8 im Test: Warum du bis September mit dem Kauf warten solltest",
+          "link": "https://t3n.de/news/samsung-galaxy-z-fold-8-test-warum-warten-september-1757667/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit dem Galaxy Z Fold 8 bringt Samsung nicht das erste, aber vorerst vielleicht das beste Foldable im 4:3-Format auf den Markt. Warum es ein echter Gamechanger ist, es sich aber gleich doppelt lohnen kann, mit dem Kauf zu warten, verrät unser Autor. weiterlesen auf t3n.de",
+          "published": "Thu, 27 Aug 2026 12:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Für Android-Smartphones: Microsoft soll an Fernsteuerung für Windows-11-PC arbeiten",
+          "link": "https://t3n.de/news/android-windows-11-pc-1760127/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Microsoft arbeitet derzeit an einer stärkeren Verzahnung von Smartphones mit Windows-11-PCs. Android-Nutzer:innen sollen künftig nicht nur Benachrichtigungen im Startmenü vorfinden, sondern etwa auch ihren PC per Handy abschalten und neustarten können. weiterlesen auf t3n.de",
+          "published": "Thu, 27 Aug 2026 12:30:31 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Neue Features trotz älterer Uhr: So klappt es mit deiner Garmin Forerunner und Fenix 8",
+          "link": "https://t3n.de/news/neue-features-garmin-forerunner-fenix-1760097/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bisher blieben neue Features den jeweils aktuellen Garmin-Modellen vorbehalten. Mit der Fenix-9-Serie ändert sich das: Auch Besitzer älterer Uhren erhalten einen Teil der Neuerungen. weiterlesen auf t3n.de",
+          "published": "Thu, 27 Aug 2026 11:30:22 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: Python, Numba, and Algorithm Design: Building Efficient Models in Financial Services",
+          "link": "https://www.infoq.com/presentations/numba/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Chad Schuster discusses bridging Python's developer velocity with C-like performance using Numba JIT and GPUs. Drawing from large-scale actuarial modeling, he explains LLVM pipeline architecture, performance gains up to 750x, and essential trade-offs like OOP limits, type inference errors, and compile-time overhead for engineering leaders scaling compute-heavy enterprise systems. By Chad Schuster",
+          "published": "Thu, 27 Aug 2026 09:23:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Nasa: Nancy-Grace-Roman-Teleskop soll Sternenlicht blockieren, um 100.000 Exoplaneten zu finden",
+        "Galaxy Z Fold 8 im Test: Warum du bis September mit dem Kauf warten solltest",
+        "Für Android-Smartphones: Microsoft soll an Fernsteuerung für Windows-11-PC arbeiten"
+      ]
+    }
+  ]
+}
