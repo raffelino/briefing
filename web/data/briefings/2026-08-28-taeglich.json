@@ -1,0 +1,331 @@
+{
+  "date": "2026-08-28",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AKS Looks to Make Node Disruption More Predictable with New NAP Guidance",
+          "link": "https://www.infoq.com/news/2026/08/aks-node-disruption/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft is placing greater emphasis on controlling disruption in Azure Kubernetes Service (AKS) Node Auto-Provisioning (NAP), publishing new guidance to help platform teams balance the efficiency benefits of automated node consolidation with application availability. By Craig Risi",
+          "published": "Fri, 28 Aug 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+          "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+          "summary": "xAI accused of training Grok on real and AI-generated child pornography.",
+          "published": "Thu, 27 Aug 2026 20:52:31 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Google Cloud Launches AI-powered Agents to Simplify Database Lifecycle Management",
+          "link": "https://www.infoq.com/news/2026/08/google-database-operation-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google Cloud has introduced AI-powered Database Operations Agents, featuring an Onboarding Agent that streamlines database setup and an Observability Agent that helps automate troubleshooting, performance optimization, and tuning. Integrated with Gemini Cloud Assist, these agents support multiple database services, including AlloyDB, Bigtable, and Spanner. By Sergio De Simone",
+          "published": "Thu, 27 Aug 2026 15:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Developer-Häppchen – Go mit generischen Methoden und DuckDB als Server",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Go-mit-generischen-Methoden-und-DuckDB-als-Server-11419998.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Windows App Development CLI, PPC, GNU Poke, VS Code, Toolbox App, OpenSpec, Azure, Go und DuckDB.",
+          "published": "2026-08-22T07:15:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+          "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red [&#8230;]",
+          "published": "2026-08-27T23:14:06-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AKS Looks to Make Node Disruption More Predictable with New NAP Guidance",
+        "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+        "Google Cloud Launches AI-powered Agents to Simplify Database Lifecycle Management"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Article: Post-Quantum Cryptography in Spring Boot: Four Patterns You Can Ship This Sprint",
+          "link": "https://www.infoq.com/articles/pqc-in-spring-boot/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "There are four patterns that bring PQC into a Spring Boot fleet: encrypting payloads between services, locking down database fields, signing documents that need to hold up for decades, and moving service tokens off RS256. Along the way, we discuss why Harvest Now, Decrypt Later is already happening, and why none of this is production-safe until KMS or Vault is in place. By Pankaj Sharma",
+          "published": "Fri, 28 Aug 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Spring News Roundup: First Milestone Releases for Boot, Framework, Data, Security, Modulith, Batch",
+          "link": "https://www.infoq.com/news/2026/08/spring-news-roundup-aug17-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "After a 10-week hiatus since the last batch of Spring ecosystem releases, there was a flurry of activity during the week of August 17th, 2026, highlighting first milestone releases of: Spring Boot, Spring Framework, Spring Data, Spring Security, Spring Integration, Spring HATEOAS, Spring Modulith, Spring Batch, Spring AMQP and Spring for Apache Kafka. By Michael Redlich",
+          "published": "Thu, 27 Aug 2026 15:50:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Astro Introduces Sätteri: A Rust-powered Markdown And Mdx Processor With Up To 60% Faster Builds",
+          "link": "https://www.infoq.com/news/2026/08/astro-satteri-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Sätteri is a high-performance Markdown and MDX processor developed by the Astro team. Built in Rust, it enhances build speeds by up to 61% for Astro 7.0. Sätteri supports flexible JavaScript plugins and integrates various Markdown features natively. It maintains compatibility with the unified ecosystem while offering faster parsing and reduced dependencies. By Daniel Curtis",
+          "published": "Thu, 27 Aug 2026 12:31:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Zwei kritische Lücken in Next.js – Remote-Code-Ausführung unter Windows",
+          "link": "https://www.heise.de/news/Zwei-kritische-Luecken-in-Next-js-Remote-Code-Ausfuehrung-unter-Windows-11433140.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die zwei kritischen von Vercel gemeldeten Lücken im JavaScript-Framework Next.js ermöglichen es Angreifern, Code auszuführen.",
+          "published": "2026-08-28T12:11:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Zwei kritische Lücken in Next.js – Remote-Code-Ausführung unter Windows",
+          "link": "https://www.heise.de/news/Zwei-kritische-Luecken-in-Next-js-Remote-Code-Ausfuehrung-unter-Windows-11433140.html",
+          "summary": "Die zwei kritischen von Vercel gemeldeten Lücken im JavaScript-Framework Next.js ermöglichen es Angreifern, Code auszuführen.",
+          "published": "2026-08-28T10:11:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Article: Post-Quantum Cryptography in Spring Boot: Four Patterns You Can Ship This Sprint",
+        "Spring News Roundup: First Milestone Releases for Boot, Framework, Data, Security, Modulith, Batch",
+        "Astro Introduces Sätteri: A Rust-powered Markdown And Mdx Processor With Up To 60% Faster Builds"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "KI-Unternehmen fordern globale Cyberabwehr: Ein Bündnis mit Hintergedanken?",
+          "link": "https://t3n.de/news/openai-google-offener-brief-cyberabwehr-1760474/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn die Entwickler neuer Technologien plötzlich eindringlich vor den Folgen ihrer eigenen Produkte warnen, ist Skepsis geboten. Ein aktueller Aufruf zur globalen IT-Sicherheit wirft genau diese Frage auf und lässt aufhorchen. weiterlesen auf t3n.de",
+          "published": "Fri, 28 Aug 2026 16:15:58 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Wie OpenAI die Cybersecurity mit fiesen Tricks vor den eigenen Karren spannt",
+          "link": "https://www.heise.de/meinung/Wie-OpenAI-die-Cybersecurity-mit-fiesen-Tricks-vor-den-eigenen-Karren-spannt-11433488.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "OpenAIs Cybersecurity-Aufruf ist ein manipulativer Trick. Denn natürlich brauchen wir mehr Security – aber nicht zwingend von denen, meint Jürgen Schmidt.",
+          "published": "2026-08-28T14:34:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Rhysida: Ransomware-Gruppe will 2 Millionen in Bitcoin von Berliner Landes-IT",
+          "link": "https://www.golem.de/news/rhysida-ransomware-gruppe-will-2-millionen-in-bitcoin-von-berliner-landes-it-2608-212414.html",
+          "summary": "Die Ransomware-Gruppe Rhysida steht offenbar hinter dem Angriff auf die Berliner Landes-IT. Sie haben mehr Daten als bisher eingeräumt. ( Berlin , Cyberwar )",
+          "published": "2026-08-28T18:34:06+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Cursor: Hacker bei Cyberangriffen mittels KI-Agenten erwischt",
+          "link": "https://www.golem.de/news/cursor-hacker-bei-cyberangriffen-mittels-ki-agenten-erwischt-2608-212390.html",
+          "summary": "Eine russischsprachige Hackergruppe nutzt offenbar Cursor-Agenten für Ransomware-Attacken. Auch ein deutsches Unternehmen soll betroffen sein. ( Cybercrime , KI )",
+          "published": "2026-08-28T10:51:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KI-Unternehmen fordern globale Cyberabwehr: Ein Bündnis mit Hintergedanken?",
+        "Wie OpenAI die Cybersecurity mit fiesen Tricks vor den eigenen Karren spannt",
+        "Rhysida: Ransomware-Gruppe will 2 Millionen in Bitcoin von Berliner Landes-IT"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Interaktive Karte: An diesen Orten sollen bundesweit neue Rechenzentren entstehen",
+          "link": "https://netzpolitik.org/2026/interaktive-karte-an-diesen-orten-sollen-bundesweit-neue-rechenzentren-entstehen/",
+          "summary": "Rechenzentren, Gaskraftwerke und Protest auf einer übersichtlichen Karte. – Alle Rechte vorbehalten: Heiße Luft Die Bundesregierung legt nicht offen, wo bundesweit neue Rechenzentren gebaut werden sollen, obwohl diese schwerwiegende Folgen für Umwelt und Gesellschaft haben. Das Projekt Heiße Luft hat nun eine Übersichtskarte der Standorte veröffentlicht. Sie zeigt auch, wo sich Protest regt.",
+          "published": "Fri, 28 Aug 2026 11:53:27 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Ausfallsichere Handynetze: Bundesregierung lehnt starre Notstrom-Vorgaben ab",
+          "link": "https://www.heise.de/news/Ausfallsichere-Handynetze-Bundesregierung-lehnt-starre-Notstrom-Vorgaben-ab-11434156.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Nach Berliner Blackouts fordern Experten resiliente Mobilfunknetze. Die Bundesregierung setzt auf eine Einzelfallprüfung: Starre Akku-Regeln seien praxisfern.",
+          "published": "2026-08-28T19:01:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "AI für SRE: Warum Automatisierung das Ziel ist und KI nur ein Werkzeug",
+          "link": "https://www.heise.de/hintergrund/AI-fuer-SRE-Warum-Automatisierung-das-Ziel-ist-und-KI-nur-ein-Werkzeug-11364776.html",
+          "summary": "Severin Neumann kritisiert das Schlagwort „AI SRE“ und plädiert für ein CNCF-Modell, das Reliability-Aufgaben statt Menschen automatisiert.",
+          "published": "2026-08-22T06:58:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Interaktive Karte: An diesen Orten sollen bundesweit neue Rechenzentren entstehen",
+        "Ausfallsichere Handynetze: Bundesregierung lehnt starre Notstrom-Vorgaben ab",
+        "AI für SRE: Warum Automatisierung das Ziel ist und KI nur ein Werkzeug"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "#TGIQF: 35 Jahre Linux - Das Quiz",
+          "link": "https://www.heise.de/news/TGIQF-35-Jahre-Linux-Das-Quiz-11433268.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das freie Betriebssystem Linux wird in diesen Tagen 35 Jahre alt. Wir feiern es mit einem Quiz. Knobeln Sie mit!",
+          "published": "2026-08-28T13:43:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux-Paketformat Flatpak erhält Großförderung für mehr Sicherheit und Features",
+          "link": "https://www.heise.de/news/Flatpak-Sovereign-Tech-Agency-foerdert-Weiterentwicklung-mit-halber-Million-Euro-11433344.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine halbe Million Euro Förderung der Sovereign Tech Agency fließen in ein Projekt zum Linux-Paketformat Flatpak, unter anderem für verbesserte Sicherheit.",
+          "published": "2026-08-28T13:21:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux-Paketformat Flatpak erhält Großförderung für mehr Sicherheit und Features",
+          "link": "https://www.heise.de/news/Flatpak-Sovereign-Tech-Agency-foerdert-Weiterentwicklung-mit-halber-Million-Euro-11433344.html",
+          "summary": "Eine halbe Million Euro Förderung der Sovereign Tech Agency fließen in ein Projekt zum Linux-Paketformat Flatpak, unter anderem für verbesserte Sicherheit.",
+          "published": "2026-08-28T11:21:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Omarchy Linux: Desktop-Umbau und 10 Millionen Dollar für Stiftung",
+          "link": "https://www.heise.de/news/Omarchy-Linux-Desktop-Umbau-und-10-Millionen-Dollar-fuer-Stiftung-11432090.html",
+          "summary": "Omarchy 4.0 ersetzt große Teile der bisherigen Desktop-Umgebung. Gleichzeitig erhält das Projekt eine mit zehn Millionen US-Dollar finanzierte Stiftung.",
+          "published": "2026-08-27T14:05:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Linux 7.2: Neuer Kernel bringt Performance-Optimierung",
+          "link": "https://www.heise.de/news/Linux-7-2-Neuer-Kernel-bringt-Performance-Optimierung-11425914.html",
+          "summary": "Linux 7.2 fokussiert sich auf Modernisierung. Ein neuer GPU-Scheduler sorgt für mehr Fairness, während CPU-Scheduling nun CPU-Caches effizienter nutzt.",
+          "published": "2026-08-26T06:21:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "#TGIQF: 35 Jahre Linux - Das Quiz",
+        "Linux-Paketformat Flatpak erhält Großförderung für mehr Sicherheit und Features",
+        "Linux-Paketformat Flatpak erhält Großförderung für mehr Sicherheit und Features"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Berliner Polizeigesetz: Linke und Grüne ziehen vor den Verfassungsgerichtshof",
+          "link": "https://netzpolitik.org/2026/berliner-polizeigesetz-linke-und-gruene-ziehen-vor-den-verfassungsgerichtshof/",
+          "summary": "CDU und SPD wollen die KI-Überwachung in Berlin. Linke und Grüne lassen nun vom Verfassungsgerichtshof prüfen (Symbolbild). – Alle Rechte vorbehalten: IMAGO / PIC ONE Nach der Verschärfung des Berliner Polizeigesetzes durch CDU und SPD lassen Linke und Grüne das Gesetz jetzt vom Verfassungsgerichtshof prüfen. Der Antrag zielt gegen öffentliche KI-Videoüberwachung, biometrischen Massenabgleich im Netz, Training von KI-Systemen mit Polizeidaten, automatisierte Datenanalyse und den Einsatz von Staatstrojanern.",
+          "published": "Fri, 28 Aug 2026 12:38:01 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Previews für 3 Cent: Wie Google das Erstellen von KI-Videos drastisch günstiger macht",
+          "link": "https://t3n.de/news/previews-fuer-3-cent-wie-google-das-erstellen-von-ki-videos-drastisch-guenstiger-macht-1760380/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google hat Gemini Omni optimiert und liefert mit der Version 1.1 Flash 4K-Upscaling, längere Videoreferenzen und günstigere Lightweight Previews. So viel kostet der Modelleinsatz. weiterlesen auf t3n.de",
+          "published": "Fri, 28 Aug 2026 13:00:43 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Agents.md und Co.: Beliebte Coding-Praxis erhöht KI-Kosten deutlich – ohne erkennbaren Nutzen",
+          "link": "https://t3n.de/news/agents-md-und-co-beliebte-coding-praxis-erhoeht-ki-kosten-deutlich-ohne-erkennbaren-nutzen-1760349/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kontextdateien wie Agents.md stellen eine beliebte Coding-Praxis dar. Aber wie hilfreich sind sie wirklich? Eine neue Studie der ETH Zürich zeichnet ein überraschendes Bild – und rät von der Nutzung eher ab. weiterlesen auf t3n.de",
+          "published": "Fri, 28 Aug 2026 12:04:14 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Microduck: Dieser putzige Entenroboter bringt dir KI bei",
+          "link": "https://t3n.de/news/microduck-pollen-robotics-entenroboter-ki-einstieg-1760333/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Dieser kleine Entenroboter soll Kinder und Erwachsene spielerisch an KI heranführen. Hinter dem Open-Source-Projekt steckt ein französisches Unternehmen, das zur KI-Plattform Hugging Face gehört. weiterlesen auf t3n.de",
+          "published": "Fri, 28 Aug 2026 11:00:05 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Hugging Face: Wie eine unprofitable Plattform zur 12,9-Milliarden-Dollar-Übernahme wurde",
+          "link": "https://t3n.de/news/hugging-face-nvidia-uebernahme-12-milliarden-1760291/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Einem Bericht des Portals The Information zufolge soll Nvidia zugestimmt haben, die KI-Plattform Hugging Face für 12,9 Milliarden US-Dollar zu kaufen. Damit könnte der Chiphersteller seinen Einfluss in der Open-Source-Gemeinde ausbauen. weiterlesen auf t3n.de",
+          "published": "Fri, 28 Aug 2026 10:55:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Berliner Polizeigesetz: Linke und Grüne ziehen vor den Verfassungsgerichtshof",
+        "Previews für 3 Cent: Wie Google das Erstellen von KI-Videos drastisch günstiger macht",
+        "Agents.md und Co.: Beliebte Coding-Praxis erhöht KI-Kosten deutlich – ohne erkennbaren Nutzen"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "The iconic T-38 jets flown by astronauts just got a spiffy new look",
+          "link": "https://arstechnica.com/space/2026/08/nasa-t-38-astronaut-training-jet-gets-new-artemis-look/",
+          "summary": "\"Everyone wants to take that aircraft up now...\"",
+          "published": "Thu, 27 Aug 2026 17:26:25 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(1 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "The iconic T-38 jets flown by astronauts just got a spiffy new look"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+          "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+          "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
+          "published": "Fri, 28 Aug 2026 15:42:24 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Gaming in den 90ern: 9 Dinge, die ordentlich nostalgisch machen",
+          "link": "https://t3n.de/news/games-90er-retro-nostalgie-1622909/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer in den 90ern mit Videospielen aufgewachsen ist, wird sich wohl an einige Momente für immer erinnern &#8211; insbesondere dann, wenn etwas zum ersten Mal erlebt wurde. Von 3D-Gaming bist zu Lan-Parties: Diese acht Momente haben viele geprägt. weiterlesen auf t3n.de",
+          "published": "Fri, 28 Aug 2026 17:15:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Uber Builds GitFarm to Run Git Operations as a Service for Large-Scale Monorepos",
+          "link": "https://www.infoq.com/news/2026/08/uber-gitfarm-git-as-a-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Uber’s GitFarm provides Git operations as a centralized service, eliminating local repository clones across large scale monorepo workloads. The platform uses prewarmed checkouts, ephemeral sandboxes, repository synchronization, and gRPC streaming to reduce resource consumption and startup latency for automation services operating across thousands of repositories. By Leela Kumili",
+          "published": "Fri, 28 Aug 2026 14:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Heimliche Aufnahmen mit Smartglasses: Meta schließt Lücke im System",
+          "link": "https://t3n.de/news/meta-smartglasses-heimliches-aufnehmen-update-1760415/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Meta spendiert den Smartglasses ein Update, das sich nicht primär an deren Nutzer:innen richtet. Stattdessen soll es dafür sorgen, dass sie andere in ihrer Umgebung nicht mehr heimlich aufnehmen können. weiterlesen auf t3n.de",
+          "published": "Fri, 28 Aug 2026 14:30:36 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nvidia baut eigenen KI-Speicher: Was hinter NVHBM steckt",
+          "link": "https://t3n.de/news/nvidia-baut-eigenen-ki-speicher-was-hinter-nvhbm-steckt-1760350/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI-Spezialist Nvidia hat mit NVHBM eine eigene Variante von High Bandwidth Memory. Der Clou: Der Speicher-Controller wandert in den Speicherstapel. Und Nvidia bindet damit noch mehr Kunden an sein Ökosystem. weiterlesen auf t3n.de",
+          "published": "Fri, 28 Aug 2026 14:00:27 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+        "Gaming in den 90ern: 9 Dinge, die ordentlich nostalgisch machen",
+        "Uber Builds GitFarm to Run Git Operations as a Service for Large-Scale Monorepos"
+      ]
+    }
+  ]
+}
