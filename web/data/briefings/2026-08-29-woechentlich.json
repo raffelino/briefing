@@ -1,0 +1,467 @@
+{
+  "date": "2026-08-29",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+          "link": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
+          "summary": "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule.",
+          "published": "Fri, 28 Aug 2026 22:14:52 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "AKS Looks to Make Node Disruption More Predictable with New NAP Guidance",
+          "link": "https://www.infoq.com/news/2026/08/aks-node-disruption/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft is placing greater emphasis on controlling disruption in Azure Kubernetes Service (AKS) Node Auto-Provisioning (NAP), publishing new guidance to help platform teams balance the efficiency benefits of automated node consolidation with application availability. By Craig Risi",
+          "published": "Fri, 28 Aug 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+          "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+          "summary": "xAI accused of training Grok on real and AI-generated child pornography.",
+          "published": "Thu, 27 Aug 2026 20:52:31 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Google Cloud Launches AI-powered Agents to Simplify Database Lifecycle Management",
+          "link": "https://www.infoq.com/news/2026/08/google-database-operation-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google Cloud has introduced AI-powered Database Operations Agents, featuring an Onboarding Agent that streamlines database setup and an Observability Agent that helps automate troubleshooting, performance optimization, and tuning. Integrated with Gemini Cloud Assist, these agents support multiple database services, including AlloyDB, Bigtable, and Spanner. By Sergio De Simone",
+          "published": "Thu, 27 Aug 2026 15:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Google’s new legal AI exposes a bigger battle over the enterprise stack",
+          "link": "https://thenewstack.io/google-thomson-specialized-ai/",
+          "summary": "Google Cloud launched Gemini Enterprise for Legal this week, a purpose-built agentic AI solution to automate legal workflows, including contract The post Google’s new legal AI exposes a bigger battle over the enterprise stack appeared first on The New Stack .",
+          "published": "Wed, 26 Aug 2026 16:33:23 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Breakpoint: Aufruf zu digitalem Ungehorsam",
+          "link": "https://netzpolitik.org/2026/breakpoint-aufruf-zu-digitalem-ungehorsam/",
+          "summary": "Wann wird dein Wohnzimmer zum Panopticon? – Alle Rechte vorbehalten: IMAGO / UIG Überwachung ist ein mächtiger Zensor, der uns gehorsam werden lässt. Selbst dann, wenn sie gar nicht stattfindet. Deshalb ist jetzt die Zeit für mehr Kritik und Aufmüpfigkeit.",
+          "published": "Sun, 23 Aug 2026 06:06:37 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Developer-Häppchen – Kubernetes 1.37, WebAuthn 3 und GitBrowser für Linux",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Weitere-GitHub-Stoerung-Jupyter-Umfrage-und-TypeScript-Go-11432660.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu VS Code, GitBrowser, W3C, Jupyter, Kubernetes, ESLint, Rust, GitHub, TypeScript und Routebase.",
+          "published": "2026-08-29T09:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Developer-Häppchen – Kubernetes 1.37, WebAuthn 3 und GitBrowser für Linux",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Weitere-GitHub-Stoerung-Jupyter-Umfrage-und-TypeScript-Go-11432660.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu VS Code, GitBrowser, W3C, Jupyter, Kubernetes, ESLint, Rust, GitHub, TypeScript und Routebase.",
+          "published": "2026-08-29T07:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(8 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+        "AKS Looks to Make Node Disruption More Predictable with New NAP Guidance",
+        "Elon Musk’s xAI used child porn to train Grok models, lawsuit says"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Article: Post-Quantum Cryptography in Spring Boot: Four Patterns You Can Ship This Sprint",
+          "link": "https://www.infoq.com/articles/pqc-in-spring-boot/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "There are four patterns that bring PQC into a Spring Boot fleet: encrypting payloads between services, locking down database fields, signing documents that need to hold up for decades, and moving service tokens off RS256. Along the way, we discuss why Harvest Now, Decrypt Later is already happening, and why none of this is production-safe until KMS or Vault is in place. By Pankaj Sharma",
+          "published": "Fri, 28 Aug 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Spring News Roundup: First Milestone Releases for Boot, Framework, Data, Security, Modulith, Batch",
+          "link": "https://www.infoq.com/news/2026/08/spring-news-roundup-aug17-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "After a 10-week hiatus since the last batch of Spring ecosystem releases, there was a flurry of activity during the week of August 17th, 2026, highlighting first milestone releases of: Spring Boot, Spring Framework, Spring Data, Spring Security, Spring Integration, Spring HATEOAS, Spring Modulith, Spring Batch, Spring AMQP and Spring for Apache Kafka. By Michael Redlich",
+          "published": "Thu, 27 Aug 2026 15:50:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Astro Introduces Sätteri: A Rust-powered Markdown And Mdx Processor With Up To 60% Faster Builds",
+          "link": "https://www.infoq.com/news/2026/08/astro-satteri-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Sätteri is a high-performance Markdown and MDX processor developed by the Astro team. Built in Rust, it enhances build speeds by up to 61% for Astro 7.0. Sätteri supports flexible JavaScript plugins and integrates various Markdown features natively. It maintains compatibility with the unified ecosystem while offering faster parsing and reduced dependencies. By Daniel Curtis",
+          "published": "Thu, 27 Aug 2026 12:31:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Zwei kritische Lücken in Next.js – Remote-Code-Ausführung unter Windows",
+          "link": "https://www.heise.de/news/Zwei-kritische-Luecken-in-Next-js-Remote-Code-Ausfuehrung-unter-Windows-11433140.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die zwei kritischen von Vercel gemeldeten Lücken im JavaScript-Framework Next.js ermöglichen es Angreifern, Code auszuführen.",
+          "published": "2026-08-28T12:11:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Zwei kritische Lücken in Next.js – Remote-Code-Ausführung unter Windows",
+          "link": "https://www.heise.de/news/Zwei-kritische-Luecken-in-Next-js-Remote-Code-Ausfuehrung-unter-Windows-11433140.html",
+          "summary": "Die zwei kritischen von Vercel gemeldeten Lücken im JavaScript-Framework Next.js ermöglichen es Angreifern, Code auszuführen.",
+          "published": "2026-08-28T10:11:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Article: Post-Quantum Cryptography in Spring Boot: Four Patterns You Can Ship This Sprint",
+        "Spring News Roundup: First Milestone Releases for Boot, Framework, Data, Security, Modulith, Batch",
+        "Astro Introduces Sätteri: A Rust-powered Markdown And Mdx Processor With Up To 60% Faster Builds"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Ethisches Hacken: Raus aus der Grauzone",
+          "link": "https://netzpolitik.org/2026/ethisches-hacken-raus-aus-der-grauzone/",
+          "summary": "Ethische Hacker:innen werden als \"White Hats\" bezeichnet – und müssen in Deutschland mit rechtlichen Folgen rechnen, wenn sie IT-Sicherheitslücken melden. – Alle Rechte vorbehalten: IMAGO / Future Image Sicherheitsforscher:innen, die auf eigene Faust Lücken in IT-Systemen entdecken und diese verantwortungsbewusst melden, können schnell in die Bredouille geraten. Nun legt die Gesellschaft für Informatik ein Papier dazu vor, wie die überfällige Reform des Computerstrafrechts endlich gelingen könnte.",
+          "published": "Wed, 26 Aug 2026 15:18:51 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "30 Bitcoin oder Leak – Ransomware-Bande erpresst Berlin",
+          "link": "https://www.heise.de/news/30-Bitcoin-oder-Leak-Ransomware-Bande-erpresst-Berlin-11434325.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Gruppe „Rhysida“ will 30 Bitcoin von Berlin, oder vertrauliche Daten veröffentlichen. Die Stadt will nicht zahlen, sagte Kai Wegner.",
+          "published": "2026-08-29T11:51:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Siemens-Chef warnt vor zu viel Regulierung bei KI",
+          "link": "https://www.heise.de/news/Siemens-Chef-warnt-vor-zu-viel-Regulierung-bei-KI-11434313.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Siemens-Konzernchef Roland Busch ist von den positiven Effekten der Künstlichen Intelligenz überzeugt. Er warnt vor zu vielen Vorschriften aus Brüssel.",
+          "published": "2026-08-29T11:37:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Wie OpenAI die Cybersecurity mit fiesen Tricks vor den eigenen Karren spannt",
+          "link": "https://www.heise.de/meinung/Wie-OpenAI-die-Cybersecurity-mit-fiesen-Tricks-vor-den-eigenen-Karren-spannt-11433488.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "OpenAIs Cybersecurity-Aufruf ist ein manipulativer Trick. Denn natürlich brauchen wir mehr Security – aber nicht zwingend von denen, meint Jürgen Schmidt.",
+          "published": "2026-08-28T14:34:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Rhysida: Ransomware-Gruppe will 2 Millionen in Bitcoin von Berliner Landes-IT",
+          "link": "https://www.golem.de/news/rhysida-ransomware-gruppe-will-2-millionen-in-bitcoin-von-berliner-landes-it-2608-212414.html",
+          "summary": "Die Ransomware-Gruppe Rhysida steht offenbar hinter dem Angriff auf die Berliner Landes-IT. Sie haben mehr Daten als bisher eingeräumt. ( Berlin , Cyberwar )",
+          "published": "2026-08-28T18:34:06+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Cursor: Hacker bei Cyberangriffen mittels KI-Agenten erwischt",
+          "link": "https://www.golem.de/news/cursor-hacker-bei-cyberangriffen-mittels-ki-agenten-erwischt-2608-212390.html",
+          "summary": "Eine russischsprachige Hackergruppe nutzt offenbar Cursor-Agenten für Ransomware-Attacken. Auch ein deutsches Unternehmen soll betroffen sein. ( Cybercrime , KI )",
+          "published": "2026-08-28T10:51:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(6 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Ethisches Hacken: Raus aus der Grauzone",
+        "30 Bitcoin oder Leak – Ransomware-Bande erpresst Berlin",
+        "Siemens-Chef warnt vor zu viel Regulierung bei KI"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Interaktive Karte: An diesen Orten sollen bundesweit neue Rechenzentren entstehen",
+          "link": "https://netzpolitik.org/2026/interaktive-karte-an-diesen-orten-sollen-bundesweit-neue-rechenzentren-entstehen/",
+          "summary": "Rechenzentren, Gaskraftwerke und Protest auf einer übersichtlichen Karte. – Alle Rechte vorbehalten: Heiße Luft Die Bundesregierung legt nicht offen, wo bundesweit neue Rechenzentren gebaut werden sollen, obwohl diese schwerwiegende Folgen für Umwelt und Gesellschaft haben. Das Projekt Heiße Luft hat nun eine Übersichtskarte der Standorte veröffentlicht. Sie zeigt auch, wo sich Protest regt.",
+          "published": "Fri, 28 Aug 2026 11:53:27 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Überwachung im ÖPNV: Mit dieser Realsatire führte Bremen Verhaltensscanner ein",
+          "link": "https://netzpolitik.org/2026/ueberwachung-im-oepnv-mit-dieser-realsatire-fuehrte-bremen-verhaltensscanner-ein/",
+          "summary": "Videoüberwachung in einer Bremer Tram. Ein Drittel der Fahrzeuge wird mit Verhaltensscanner-Software aufgerüstet. – CC-BY-NC-SA 4.0 : Lucas Fiola Die Bremer Straßenbahn AG wollte eigentlich gar keine automatisierte Verhaltenskontrolle, das System war nur gerade im Angebot. Ohne Plan und Ahnung von Persönlichkeitsrechten startete der Einsatz. Die Datenschutzaufsicht hat grundsätzliche Bedenken.",
+          "published": "Mon, 24 Aug 2026 11:19:43 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Kriminalitätsbelastung in Berlin: Problematisches Herrschaftswissen",
+          "link": "https://netzpolitik.org/2026/kriminalitaetsbelastung-in-berlin-problematisches-herrschaftswissen/",
+          "summary": "Wo in Berlin wie viele Straftaten welcher Art verübt werden, ist Herrschaftswissen von Landesregierung und -polizei. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Jonas Tebbe Ob Gegenden in Berlin mit Videokameras und Verhaltensscanner überwacht werden dürfen, hängt davon ab, ob sie als kriminalitätsbelastet gelten. Die Datengrundlage zur Einstufung ist allerdings Herrschaftswissen. Ein Zahlendreher der Polizei zeigt, wie problematisch das ist.",
+          "published": "Mon, 24 Aug 2026 08:16:29 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Ausfallsichere Handynetze: Bundesregierung lehnt starre Notstrom-Vorgaben ab",
+          "link": "https://www.heise.de/news/Ausfallsichere-Handynetze-Bundesregierung-lehnt-starre-Notstrom-Vorgaben-ab-11434156.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Nach Berliner Blackouts fordern Experten resiliente Mobilfunknetze. Die Bundesregierung setzt auf eine Einzelfallprüfung: Starre Akku-Regeln seien praxisfern.",
+          "published": "2026-08-28T19:01:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "AI für SRE: Warum Automatisierung das Ziel ist und KI nur ein Werkzeug",
+          "link": "https://www.heise.de/hintergrund/AI-fuer-SRE-Warum-Automatisierung-das-Ziel-ist-und-KI-nur-ein-Werkzeug-11364776.html",
+          "summary": "Severin Neumann kritisiert das Schlagwort „AI SRE“ und plädiert für ein CNCF-Modell, das Reliability-Aufgaben statt Menschen automatisiert.",
+          "published": "2026-08-22T06:58:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Mobilfunk bei Stromausfall: Bundesregierung will keine pauschale Batteriepflicht",
+          "link": "https://www.golem.de/news/mobilfunk-bei-stromausfall-bundesregierung-will-keine-pauschale-batteriepflicht-2608-212418.html",
+          "summary": "Die Bundesregierung hält eine starre Batteriepflicht für Mobilfunkstandorte zur Ausfallsicherung für ungeeignet. ( Mobilfunk , Politik )",
+          "published": "2026-08-29T11:25:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(6 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Interaktive Karte: An diesen Orten sollen bundesweit neue Rechenzentren entstehen",
+        "Überwachung im ÖPNV: Mit dieser Realsatire führte Bremen Verhaltensscanner ein",
+        "Kriminalitätsbelastung in Berlin: Problematisches Herrschaftswissen"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Cloudflare Wallets Arrives Late to x402, and the Spending Controls Stop at the Payment",
+          "link": "https://www.infoq.com/news/2026/08/agent-payment-rails-x402/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare announced Wallets, giving agents a stablecoin balance and spending controls, though only handle claiming is live and squatting complaints have already surfaced. Payments run on x402, now hosted by the Linux Foundation. The controls bound single payments, not sequences, leaving composition to the application above. By Steef-Jan Wiggers",
+          "published": "Thu, 27 Aug 2026 09:04:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Gamescom: Spiele für alle: Indie-Highlights auf der Gamescom",
+          "link": "https://www.heise.de/news/Spiele-fuer-alle-Indie-Highlights-auf-der-Gamescom-11433024.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Für alle was dabei: Die Spiele der Indie Area zeigen, dass auch kleine Teams tolle Spiele entwickeln. Sie machen Spaß, tun gut und fördern demokratische Werte.",
+          "published": "2026-08-29T14:21:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "#TGIQF: 35 Jahre Linux - Das Quiz",
+          "link": "https://www.heise.de/news/TGIQF-35-Jahre-Linux-Das-Quiz-11433268.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das freie Betriebssystem Linux wird in diesen Tagen 35 Jahre alt. Wir feiern es mit einem Quiz. Knobeln Sie mit!",
+          "published": "2026-08-28T13:43:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux-Paketformat Flatpak erhält Großförderung für mehr Sicherheit und Features",
+          "link": "https://www.heise.de/news/Flatpak-Sovereign-Tech-Agency-foerdert-Weiterentwicklung-mit-halber-Million-Euro-11433344.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine halbe Million Euro Förderung der Sovereign Tech Agency fließen in ein Projekt zum Linux-Paketformat Flatpak, unter anderem für verbesserte Sicherheit.",
+          "published": "2026-08-28T13:21:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux-Paketformat Flatpak erhält Großförderung für mehr Sicherheit und Features",
+          "link": "https://www.heise.de/news/Flatpak-Sovereign-Tech-Agency-foerdert-Weiterentwicklung-mit-halber-Million-Euro-11433344.html",
+          "summary": "Eine halbe Million Euro Förderung der Sovereign Tech Agency fließen in ein Projekt zum Linux-Paketformat Flatpak, unter anderem für verbesserte Sicherheit.",
+          "published": "2026-08-28T11:21:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Omarchy Linux: Desktop-Umbau und 10 Millionen Dollar für Stiftung",
+          "link": "https://www.heise.de/news/Omarchy-Linux-Desktop-Umbau-und-10-Millionen-Dollar-fuer-Stiftung-11432090.html",
+          "summary": "Omarchy 4.0 ersetzt große Teile der bisherigen Desktop-Umgebung. Gleichzeitig erhält das Projekt eine mit zehn Millionen US-Dollar finanzierte Stiftung.",
+          "published": "2026-08-27T14:05:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Linux 7.2: Neuer Kernel bringt Performance-Optimierung",
+          "link": "https://www.heise.de/news/Linux-7-2-Neuer-Kernel-bringt-Performance-Optimierung-11425914.html",
+          "summary": "Linux 7.2 fokussiert sich auf Modernisierung. Ein neuer GPU-Scheduler sorgt für mehr Fairness, während CPU-Scheduling nun CPU-Caches effizienter nutzt.",
+          "published": "2026-08-26T06:21:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Klage gegen IBM und Red Hat: US-Gericht entscheidet im Streit um Linux-Rechte",
+          "link": "https://www.golem.de/news/klage-gegen-ibm-und-red-hat-us-gericht-entscheidet-im-streit-um-linux-rechte-2608-212410.html",
+          "summary": "Ein Rechtsnachfolger der SCO Group hatte IBM und Red Hat vorgeworfen, unrechtmäßig Code in Linux integriert zu haben. ( Linux , IBM )",
+          "published": "2026-08-28T16:11:01+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(8 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Cloudflare Wallets Arrives Late to x402, and the Spending Controls Stop at the Payment",
+        "Gamescom: Spiele für alle: Indie-Highlights auf der Gamescom",
+        "#TGIQF: 35 Jahre Linux - Das Quiz"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Presentation: Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models",
+          "link": "https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Fabiane Nardon shares how TOTVS prepares enterprise data for token-hungry AI agents. She discusses balancing deterministic logic and non-deterministic LLMs across precision, security, and cost. Nardon details using data mesh, low-latency database architectures, semantic ontologies, and dynamic MCP tool selection to optimize context windows and reduce token overhead in transactional systems. By Fabiane Nardon",
+          "published": "Sat, 29 Aug 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "KI-Agenten erobern die 3D-Welt – aber das eigentliche Problem ist ein anderes",
+          "link": "https://t3n.de/news/meshy-3d-agent-ki-modelle-per-chat-1752981/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Code, Text, Bilder, Audio: KI-Agenten haben fast jede kreative Disziplin erreicht. Jetzt kommt 3D dazu – per Chat, ohne CAD. Doch ein Modell zu erzeugen, war nie das Problem. Die Frage ist, ob das Ergebnis taugt. Ein Blick auf Meshys 3D Agent. weiterlesen auf t3n.de",
+          "published": "Sat, 29 Aug 2026 11:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Sauerstoffleerstellen: Wie ein Baufehler die Speicherchips der Zukunft ermöglicht",
+          "link": "https://t3n.de/news/hzo-speicherchips-sauerstoffleerstellen-1760543/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein winziger Fehler im Materialaufbau galt in der Chipfertigung bislang als Problem. Nun zeigt sich, dass genau diese scheinbare Schwäche der Schlüssel zu effizienteren Datenspeichern sein kann. Eine neue Beobachtung stellt alte Gewissheiten der Materialforschung infrage. weiterlesen auf t3n.de",
+          "published": "Sat, 29 Aug 2026 09:17:58 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Gemini Spark: So will Googles KI-Agent deinen Arbeitsalltag verändern",
+          "link": "https://t3n.de/news/gemini-spark-ki-agent-arbeitsalltag-automatisierung-1757580/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Auf KI-Chatbots folgen KI-Agenten, das verändert die Arbeitsweise. Google hat dafür Gemini Spark bereits in den USA eingeführt, die Veröffentlichung in Deutschland folgt noch in diesem Jahr. Bei t3n MeisterPrompter gibt es einen Einblick zur Nutzung. weiterlesen auf t3n.de",
+          "published": "Sat, 29 Aug 2026 07:35:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Trotz Fachkräftemangel: Warum IT-Spezialisten plötzlich weniger gefragt sind",
+          "link": "https://t3n.de/news/it-fachkraeftemangel-nachfrage-einbruch-arbeitsmarkt-1756380/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im abgelaufenen zweiten Quartal 2026 ist die Nachfrage nach IT-Fachkräften spürbar gesunken. Einen besonders starken Rückgang gab es laut Hays-Fachkräfte-Index bei IT-Security-Spezialisten. Ein anderer Bereich profitiert derweil vom KI-Boom. weiterlesen auf t3n.de",
+          "published": "Sat, 29 Aug 2026 07:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "21 Milliarden Kilometer entfernt und seit 1977 unterwegs: Voyager 2 verblüfft Forscher noch heute",
+          "link": "https://t3n.de/news/voyager-2-nasa-sonde-weltraum-mission-1977-1756431/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Vor rund 37 Jahren hat die Raumsonde Voyager 2 spektakuläre Bilder vom Neptunmond Triton gemacht, die Wissenschaftler:innen bis heute begeistern – und einiges in Frage gestellt haben. weiterlesen auf t3n.de",
+          "published": "Sat, 29 Aug 2026 06:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "LM Studio built a judge for AI commands. Then the judge started agreeing with the defendant.",
+          "link": "https://thenewstack.io/bionic-shell-command-safety/",
+          "summary": "A command as ordinary as git diff can become a problem for an AI coding agent once a variable gets The post LM Studio built a judge for AI commands. Then the judge started agreeing with the defendant. appeared first on The New Stack .",
+          "published": "Fri, 28 Aug 2026 18:31:38 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+          "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+          "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
+          "published": "Fri, 28 Aug 2026 18:07:55 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(8 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models",
+        "KI-Agenten erobern die 3D-Welt – aber das eigentliche Problem ist ein anderes",
+        "Sauerstoffleerstellen: Wie ein Baufehler die Speicherchips der Zukunft ermöglicht"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "The iconic T-38 jets flown by astronauts just got a spiffy new look",
+          "link": "https://arstechnica.com/space/2026/08/nasa-t-38-astronaut-training-jet-gets-new-artemis-look/",
+          "summary": "\"Everyone wants to take that aircraft up now...\"",
+          "published": "Thu, 27 Aug 2026 17:26:25 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(1 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "The iconic T-38 jets flown by astronauts just got a spiffy new look"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Observability has a data problem. AI is about to make it worse.",
+          "link": "https://thenewstack.io/opentelemetry-observability-telemetry-storage/",
+          "summary": "Observability is entering a new phase now that OpenTelemetry has standardized instrumentation for data collection. Unfortunately, the observability industry still The post Observability has a data problem. AI is about to make it worse. appeared first on The New Stack .",
+          "published": "Wed, 26 Aug 2026 20:08:10 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Observability has a data problem. AI is about to make it worse."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Kunde schickt Laptop mit 64 GB RAM zur Reparatur – und bekommt nur die Hälfte wieder",
+          "link": "https://t3n.de/news/laptop-64-gb-ram-reparatur-1758678/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Kunde hat seinen kaputten Laptop zur Reparatur eingeschickt. Zu seiner Verwunderung kam das Gerät nicht nur repariert, sondern auch mit weniger Arbeitsspeicher als zuvor zurück. Was dahintersteckt. weiterlesen auf t3n.de",
+          "published": "Sat, 29 Aug 2026 13:20:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "SEO reicht nicht mehr: Warum du jetzt für Sprachmodelle statt für Google schreiben musst",
+          "link": "https://t3n.de/news/seo-reicht-nicht-mehr-geo-1758412/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Gute Texte allein reichen nicht. Wer in KI-Antworten vorkommen will, muss anders gliedern. Was du an deinen Absätzen ändern musst, mit Vorher-Nachher-Beispiel. weiterlesen auf t3n.de",
+          "published": "Sat, 29 Aug 2026 13:20:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Verkleinerung der Teams um bis zu 60 Prozent: Was hatte Meta wirklich für seine Belegschaft geplant?",
+          "link": "https://t3n.de/news/verkleinerung-der-teams-um-bis-zu-60-prozent-was-hatte-meta-wirklich-fuer-seine-belegschaft-geplant-1760558/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Mai 2026 waren rund 20 Prozent der Mitarbeiter:innen von Umstrukturierungen betroffen. Wie jetzt bekannt wurde, hatte der Tech-Konzern ursprünglich aber noch weitaus größere Änderungen vorgesehen. weiterlesen auf t3n.de",
+          "published": "Sat, 29 Aug 2026 12:19:10 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Wie T-Mobile den Salt-Typhoon-Angriff mit einem Kabelschnitt beendete",
+          "link": "https://t3n.de/news/t-mobile-salt-typhoon-angriff-kabelschnitt-china-spionage-1758997/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Um sich vor einem Cyberangriff zu schützen, ist T-Mobile in den USA schon vor Jahren ungewöhnliche Schritte gegangen. Sie kappten einfach die Leitung, die die Angreifer:innen für ihre Zwecke missbrauchten. weiterlesen auf t3n.de",
+          "published": "Sat, 29 Aug 2026 11:15:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "QR-Musikkassette: Ein komplettes Lied auf Papier speichern – so funktioniert die Offline-Technologie",
+          "link": "https://t3n.de/news/qr-musikkassette-lied-auf-papier-speichern-1759093/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Entwickler Makestreme hat ein ganzes Lied auf ein einziges Blatt Papier gedruckt. Mithilfe neuronaler Netze hat er dafür eine MP3 so stark komprimiert, dass sie in mehrere QR-Codes passt – und ganz ohne Internetzugang anhörbar ist. weiterlesen auf t3n.de",
+          "published": "Sat, 29 Aug 2026 10:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Für nur 3 Euro: So machst du aus deinem alten Laptop ein Chromebook",
+          "link": "https://t3n.de/news/altes-laptop-in-chromebook-verwandeln-anleitung-1758960/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit Chrome OS Flex bietet Google eine Alternative zu Windows an, die ausgedienten PCs ein neues Leben schenken soll. Die Installationsdatei kann man mittlerweil weiterlesen auf t3n.de",
+          "published": "Sat, 29 Aug 2026 09:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KW 35: Die Woche, in der die Räume für die Zivilgesellschaft enger werden",
+          "link": "https://netzpolitik.org/2026/kw-35-die-woche-in-der-die-raeume-fuer-die-zivilgesellschaft-enger-werden/",
+          "summary": "Die 35. Kalenderwoche geht zu Ende. Wir haben 20 neue Texte mit insgesamt 161.008 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 29 Aug 2026 06:34:25 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold8 Ultra, Galaxy Z Fold8 und Galaxy Z Flip8: Welches Foldable passt zu dir?",
+          "link": "https://t3n.de/news/samsung-galaxy-z-fold8-ultra-fold8-flip8-vergleich-1756843/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Drei Formate, drei Stärken: Samsung zeigt mit dem Galaxy Z Fold8 Ultra, dem Galaxy Z Fold8 und dem Galaxy Z Flip8, wie vielseitig Foldables heute sein können. weiterlesen auf t3n.de",
+          "published": "Sat, 29 Aug 2026 08:00:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(8 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Kunde schickt Laptop mit 64 GB RAM zur Reparatur – und bekommt nur die Hälfte wieder",
+        "SEO reicht nicht mehr: Warum du jetzt für Sprachmodelle statt für Google schreiben musst",
+        "Verkleinerung der Teams um bis zu 60 Prozent: Was hatte Meta wirklich für seine Belegschaft geplant?"
+      ]
+    }
+  ]
+}
