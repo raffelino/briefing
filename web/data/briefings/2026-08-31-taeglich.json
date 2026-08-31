@@ -1,0 +1,302 @@
+{
+  "date": "2026-08-31",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Article: Eliminating Long-Lived Credentials in GCP with Workload Identity Federation",
+          "link": "https://www.infoq.com/articles/gcp-wif-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Long-lived GCP service account keys are secrets that must be managed forever, are hard to rotate, and are easy to leak. Scaling Workload Identity Federation to 120+ production projects shows why it changes how machine identity is approached entirely: keys are secrets to manage, federated identities are trust relationships configured once, gated by attribute conditions. By Shijin Nair",
+          "published": "Mon, 31 Aug 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Claude schlägt menschliche Sicherheitsforscher: Warum KI sich bald selbst trainieren könnte",
+          "link": "https://t3n.de/news/claude-schlaegt-menschliche-sicherheitsforscher-warum-ki-sich-bald-selbst-trainieren-koennte-1760678/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Fähigkeiten neuer KI-Modelle entwickeln sich rasant weiter – oft zu schnell, um rechtzeitig passende Sicherheitsmaßnahmen zu etablieren. Automatisiertes Alignment-Training könnte eine Lösung sein, wie Anthropic beleuchtet. weiterlesen auf t3n.de",
+          "published": "Mon, 31 Aug 2026 10:30:28 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AWS Open Sources Kiro Crew for Asynchronous Coding Agents",
+          "link": "https://www.infoq.com/news/2026/08/kiro-crew-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Amazon recently announced Kiro Crew, an open-source system for running multiple Kiro coding agents across sessions, tools, and tasks. The new workspace lets developers assign asynchronous coding tasks to AI agents, allowing work such as incident investigation, ticket triage, migrations, and PR monitoring to continue without active supervision. By Renato Losio",
+          "published": "Sun, 30 Aug 2026 08:23:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise-Angebot: Security-Deep-Dive: Zweiteiliges Webinar zu Kubernetes-Sicherheit",
+          "link": "https://www.heise.de/news/Security-Deep-Dive-Zweiteiliges-Webinar-zu-Kubernetes-Sicherheit-11432295.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Unser zweiteiliges Webinar hilft bei der Absicherung von Kubernetes-Umgebungen und der Angriffserkennung.",
+          "published": "2026-08-30T13:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Developer-Häppchen – Kubernetes 1.37, WebAuthn 3 und GitBrowser für Linux",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Weitere-GitHub-Stoerung-Jupyter-Umfrage-und-TypeScript-Go-11432660.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu VS Code, GitBrowser, W3C, Jupyter, Kubernetes, ESLint, Rust, GitHub, TypeScript und Routebase.",
+          "published": "2026-08-29T07:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Article: Eliminating Long-Lived Credentials in GCP with Workload Identity Federation",
+        "Claude schlägt menschliche Sicherheitsforscher: Warum KI sich bald selbst trainieren könnte",
+        "AWS Open Sources Kiro Crew for Asynchronous Coding Agents"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Presentation: Running AI at the Edge: Running Real Workloads Directly in the Browser",
+          "link": "https://www.infoq.com/presentations/local-ai-browser-inference-privacy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "James Hall discusses the strategic and technical imperative of moving AI workloads from cloud providers to local edge devices. He shares practical approaches using WebGPU, Transformers.js, and DuckDB to achieve near-native performance in JavaScript. Through real-world case studies, he explains how to minimize data privacy risks, optimize browser inference, and build rigorous evaluation suites. By James Hall",
+          "published": "Mon, 31 Aug 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "FlexGanttFX is Open Source",
+          "link": "https://www.infoq.com/news/2026/08/flexgantfx/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Dirk Lemmerman has released FlexGanttFX as an open-source resource-scheduling framework under the AGPL license. This JavaFX library enables Gantt chart creation for various industries, optimizing performance with a Canvas rendering method. The framework includes features for task dependency modeling and direct editing, accommodating diverse project planning needs. By Erik Costlow",
+          "published": "Mon, 31 Aug 2026 03:48:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Zwei kritische Lücken in Next.js – Remote-Code-Ausführung unter Windows",
+          "link": "https://www.heise.de/news/Zwei-kritische-Luecken-in-Next-js-Remote-Code-Ausfuehrung-unter-Windows-11433140.html",
+          "summary": "Die zwei kritischen von Vercel gemeldeten Lücken im JavaScript-Framework Next.js ermöglichen es Angreifern, Code auszuführen.",
+          "published": "2026-08-28T10:11:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Running AI at the Edge: Running Real Workloads Directly in the Browser",
+        "FlexGanttFX is Open Source",
+        "Zwei kritische Lücken in Next.js – Remote-Code-Ausführung unter Windows"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Gefälschte Elster-Steuerbescheide 2025: So erkennt ihr den Phishing-Betrug",
+          "link": "https://t3n.de/news/elster-phishing-steuerbescheid-2025-betrug-1759497/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein aktueller Phishingversuch stellt eine vermeintliche Steuererstattung in Aussicht und bezieht das beliebte Steuerportal Elster mit ein. So könnt ihr die Cyberattacke erkennen. weiterlesen auf t3n.de",
+          "published": "Mon, 31 Aug 2026 12:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Root-Sicherheitslücke bedroht cPanel/WHM",
+          "link": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-cPanel-WHM-11434895.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In aktuellen Versionen haben die Entwickler der Webhosting-Control-Panel-Software cPanel/WHM eine Schwachstelle geschlossen.",
+          "published": "2026-08-31T09:33:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(2 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Gefälschte Elster-Steuerbescheide 2025: So erkennt ihr den Phishing-Betrug",
+        "Root-Sicherheitslücke bedroht cPanel/WHM"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Interview: „Die Geheimdienstreform untergräbt das Vertrauen zwischen Ärzten und Patienten“",
+          "link": "https://netzpolitik.org/2026/die-geheimdienstreform-untergraebt-das-vertrauen-zwischen-aerzten-und-patienten/",
+          "summary": "Wer hört beim vertraulichen Arztgespräch künftig mit? – Arzt: Sasun Bughdaryan, Unsplash , Ohr: rawpixel.com , Montage: netzpolitik.org Die geplante Geheimdienstreform der Bundesregierung alarmiert die Ärzteschaft. Sie gefährde das Patientengeheimnis und damit die Gesundheitsversorgung selbst, warnt Carsten Dochow von der Bundesärztekammer im Gespräch mit netzpolitik.org.",
+          "published": "Mon, 31 Aug 2026 08:48:18 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Mobilfunk bei Stromausfall: Bundesregierung will keine pauschale Batteriepflicht",
+          "link": "https://www.golem.de/news/mobilfunk-bei-stromausfall-bundesregierung-will-keine-pauschale-batteriepflicht-2608-212418.html",
+          "summary": "Die Bundesregierung hält eine starre Batteriepflicht für Mobilfunkstandorte zur Ausfallsicherung für ungeeignet. ( Mobilfunk , Politik )",
+          "published": "2026-08-29T11:25:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Interview: „Die Geheimdienstreform untergräbt das Vertrauen zwischen Ärzten und Patienten“",
+        "Mobilfunk bei Stromausfall: Bundesregierung will keine pauschale Batteriepflicht"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Podcast: Scott Jenson on Evolving Desktop OS, Local-First, & Agentic UX",
+          "link": "https://www.infoq.com/podcasts/evolving-desktop-agentic-ux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In this episode, Scott Jenson, a veteran UX designer known for his work on the Macintosh, Google Maps, and Chrome examines the long-term stagnation of desktop operating systems and the limitations of current mobile and cloud-centric models. By Scott Jenson",
+          "published": "Mon, 31 Aug 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Ausnahme in Kalifornien: Nicht nur Linux soll Ausweise nicht mehr prüfen",
+          "link": "https://www.heise.de/news/Ausnahme-in-Kalifornien-Nicht-nur-Linux-soll-Ausweise-nicht-mehr-pruefen-11434773.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Infolge eines Gesetzes hätten Linux-Distributionen in Kalifornien ab 2027 das Alter der User abfragen müssen. Das hat die Legislative dort jetzt abgewendet.",
+          "published": "2026-08-31T07:51:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux-Paketformat Flatpak erhält Großförderung für mehr Sicherheit und Features",
+          "link": "https://www.heise.de/news/Flatpak-Sovereign-Tech-Agency-foerdert-Weiterentwicklung-mit-halber-Million-Euro-11433344.html",
+          "summary": "Eine halbe Million Euro Förderung der Sovereign Tech Agency fließen in ein Projekt zum Linux-Paketformat Flatpak, unter anderem für verbesserte Sicherheit.",
+          "published": "2026-08-28T11:21:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Omarchy Linux: Desktop-Umbau und 10 Millionen Dollar für Stiftung",
+          "link": "https://www.heise.de/news/Omarchy-Linux-Desktop-Umbau-und-10-Millionen-Dollar-fuer-Stiftung-11432090.html",
+          "summary": "Omarchy 4.0 ersetzt große Teile der bisherigen Desktop-Umgebung. Gleichzeitig erhält das Projekt eine mit zehn Millionen US-Dollar finanzierte Stiftung.",
+          "published": "2026-08-27T14:05:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Linux 7.2: Neuer Kernel bringt Performance-Optimierung",
+          "link": "https://www.heise.de/news/Linux-7-2-Neuer-Kernel-bringt-Performance-Optimierung-11425914.html",
+          "summary": "Linux 7.2 fokussiert sich auf Modernisierung. Ein neuer GPU-Scheduler sorgt für mehr Fairness, während CPU-Scheduling nun CPU-Caches effizienter nutzt.",
+          "published": "2026-08-26T06:21:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Podcast: Scott Jenson on Evolving Desktop OS, Local-First, & Agentic UX",
+        "Ausnahme in Kalifornien: Nicht nur Linux soll Ausweise nicht mehr prüfen",
+        "Linux-Paketformat Flatpak erhält Großförderung für mehr Sicherheit und Features"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Strengere EU-Regeln für ChatGPT: Warum zu viele Nutzer OpenAI zum Verhängnis werden",
+          "link": "https://t3n.de/news/eu-dsa-chatgpt-roblox-reddit-strenge-regeln-1760732/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Verfahren, Rügen und Millionenstrafen: Große Online-Plattformen müssen bei Verstößen gegen EU-Gesetze mit Konsequenzen rechnen. Brüssel nimmt künftig drei weitere beliebte Angebote unter die Lupe. weiterlesen auf t3n.de",
+          "published": "Mon, 31 Aug 2026 12:45:31 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Foundry Model Router Expands from Two Regions to 28, Refreshing Its Model Pool",
+          "link": "https://www.infoq.com/news/2026/08/foundry-model-router-regions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft expanded Foundry's model router from two regions to 28 for global standard and 21 for data zone deployments, while adding Claude Opus 4.8 and GPT-5.6 and removing four deprecated models. Default deployments receive pool changes automatically; configured subsets exclude new models until added. The effective context window equals the smallest model in the pool. By Steef-Jan Wiggers",
+          "published": "Mon, 31 Aug 2026 10:18:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Cloudflare Extends AI Search to Make it Easier for Agents and Developers to Search Custom Data",
+          "link": "https://www.infoq.com/news/2026/08/cloudflare-ai-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare AI Search is a built-in search and retrieval service designed to give AI agents and applications a ready-to-use search engine over custom data. It supports agent integration, multimodal search, and seamless integration with other Cloudflare tools. By Sergio De Simone",
+          "published": "Sun, 30 Aug 2026 19:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Claude-Wasserzeichen entfernen: Dieses Tool verspricht Abhilfe – aber funktioniert es wirklich?",
+          "link": "https://t3n.de/news/claude-wasserzeichen-entfernen-tool-anthropic-synthid-1758888/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Anthropic verpasst Claude bald ein unsichtbares Wasserzeichen, um KI-generierte Inhalte zu markieren. Ein Coder hat der Markierung den Kampf angesagt und einen möglichen Weg gefunden, sie wieder zu entfernen. Aber funktioniert das wirklich? weiterlesen auf t3n.de",
+          "published": "Sun, 30 Aug 2026 20:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI leaving Cursor: “Developers have to be prepared to adapt when it happens.”",
+          "link": "https://thenewstack.io/openai-cuts-cursor-spacex/",
+          "summary": "OpenAI stated on Friday that it has notified SpaceX that it intends to wind down its contract providing OpenAI models The post OpenAI leaving Cursor: “Developers have to be prepared to adapt when it happens.&#8221; appeared first on The New Stack .",
+          "published": "Sun, 30 Aug 2026 17:03:49 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Strengere EU-Regeln für ChatGPT: Warum zu viele Nutzer OpenAI zum Verhängnis werden",
+        "Foundry Model Router Expands from Two Regions to 28, Refreshing Its Model Pool",
+        "Cloudflare Extends AI Search to Make it Easier for Agents and Developers to Search Custom Data"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "China testet schwimmende Photovoltaik-Plattform aus Bambus-Holz-Verbundmaterial",
+          "link": "https://www.heise.de/news/China-testet-schwimmende-Photovoltaik-Plattform-aus-Bambus-Holz-Verbundmaterial-11435153.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Statt Stahl kommt bei der Jilin-2-Photovoltaik-Anlage ein Verbundmaterial aus Holz und Bambus zum Einsatz. Das soll ökologischer sein.",
+          "published": "2026-08-31T12:34:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | Webseiten intelligent auslesen: Smarter scrapen mit Python und KI",
+          "link": "https://www.heise.de/ratgeber/Webseiten-intelligent-auslesen-Smarter-scrapen-mit-Python-und-KI-11349172.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Mit Python lassen sich Webseiten scrapen. KI macht den Scraper flexibler: Sie erkennt Inhalte auch dann, wenn HTML-Strukturen oder Formulierungen variieren.",
+          "published": "2026-08-31T08:15:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(2 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "China testet schwimmende Photovoltaik-Plattform aus Bambus-Holz-Verbundmaterial",
+        "heise+ | Webseiten intelligent auslesen: Smarter scrapen mit Python und KI"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "iOS 27 und Apple Intelligence: Welche iPhones bekommen alle Features?",
+          "link": "https://t3n.de/news/ios-27-apple-intelligence-iphone-kompatibilitaet-1748297/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein neues iPhone ist selten günstig. In den vergangenen Jahren hat es sich beim Erscheinen neuer Modelle deswegen gelohnt, einen Blick auf die Vorgänger zu werfen. Doch mit iOS 27 macht es Apple-Kund:innen unnötig schwer – vor allem, wenn einem Apple Intelligence wichtig ist. weiterlesen auf t3n.de",
+          "published": "Mon, 31 Aug 2026 11:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "5 Dinge, die du diese Woche wissen musst: Mehr Konkurrenz auf der Schiene",
+          "link": "https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-mehr-konkurrenz-auf-der-schiene-1760158/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um die neue Konkurrenz der Deutschen Bahn, ein mysteriöses KI-Modell, eine kostspielige Lizenzpanne und Terminverwaltung ohne Cloud-Dienste. weiterlesen auf t3n.de",
+          "published": "Mon, 31 Aug 2026 08:00:01 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "CSV, Notizen oder Dateien: Diese 7 Tools bringen Ordnung in deine Arbeit - oftmals kostenlos",
+          "link": "https://t3n.de/news/dokumente-notizen-csv-ordnung-arbeit-1760379/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Schnelle Suche in Dokumenten, ordentliche Notizen oder passende Dateinamen – mit diesen Tools bekommt ihr den Überblick über eure Arbeit zurück. weiterlesen auf t3n.de",
+          "published": "Mon, 31 Aug 2026 07:30:30 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mit Schrotflinte und Spraydose gegen Überwachung: Attacken gegen Flock-Kameras in den USA",
+          "link": "https://t3n.de/news/attacken-flock-kameras-usa-1760654/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In den USA häufen sich Attacken gegen Überwachungskameras am Straßenrand. Besonders im Visier ist der Anbieter Flock Safety. Die Angreifer:innen nutzen dafür Spraydosen oder Käse. Ein Politiker griff sogar zu einer Schrotflinte. weiterlesen auf t3n.de",
+          "published": "Sun, 30 Aug 2026 22:37:21 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Krypto-Betrug mit KI-Versprechen: US-Gründer drohen 280 Jahre Haft",
+          "link": "https://t3n.de/news/krypto-betrug-ki-schneeballsystem-usa-urteil-1760647/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Moderne Technologien versprechen oft schnelle Gewinne und verleiten Anleger zur Unachtsamkeit. Ein aktueller Fall aus den Vereinigten Staaten zeigt eindrücklich, wohin blindes Vertrauen in technische Fachbegriffe führen kann. weiterlesen auf t3n.de",
+          "published": "Sun, 30 Aug 2026 21:53:34 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "iOS 27 und Apple Intelligence: Welche iPhones bekommen alle Features?",
+        "5 Dinge, die du diese Woche wissen musst: Mehr Konkurrenz auf der Schiene",
+        "CSV, Notizen oder Dateien: Diese 7 Tools bringen Ordnung in deine Arbeit - oftmals kostenlos"
+      ]
+    }
+  ]
+}
