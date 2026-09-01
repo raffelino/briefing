@@ -1,0 +1,317 @@
+{
+  "date": "2026-09-01",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+          "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+          "summary": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
+          "published": "Mon, 31 Aug 2026 18:10:45 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Article: Eliminating Long-Lived Credentials in GCP with Workload Identity Federation",
+          "link": "https://www.infoq.com/articles/gcp-wif-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Long-lived GCP service account keys are secrets that must be managed forever, are hard to rotate, and are easy to leak. Scaling Workload Identity Federation to 120+ production projects shows why it changes how machine identity is approached entirely: keys are secrets to manage, federated identities are trust relationships configured once, gated by attribute conditions. By Shijin Nair",
+          "published": "Mon, 31 Aug 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "GoPro: YouTuber ist jetzt größter Aktionär, Aktienkurs macht Satz um 50 Prozent",
+          "link": "https://www.heise.de/news/GoPro-YouTuber-ist-jetzt-groesster-Aktionaer-Aktienkurs-macht-Satz-um-50-Prozent-11436017.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Obwohl GoPro in Schwierigkeiten steckt, hat der YouTuber „Markiplier“ kontinuierlich Aktien gekauft. Jetzt ist er größter Aktionär, die Aktie macht einen Satz.",
+          "published": "2026-09-01T07:45:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Developer-Häppchen – Kubernetes 1.37, WebAuthn 3 und GitBrowser für Linux",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Weitere-GitHub-Stoerung-Jupyter-Umfrage-und-TypeScript-Go-11432660.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu VS Code, GitBrowser, W3C, Jupyter, Kubernetes, ESLint, Rust, GitHub, TypeScript und Routebase.",
+          "published": "2026-08-29T07:15:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "AI Lab Report: KI lernt nicht aus dem Nichts",
+          "link": "https://www.golem.de/news/ai-lab-report-ki-lernt-nicht-aus-dem-nichts-2608-212434.html",
+          "summary": "Unser Newsletter AI Lab Report ordnet neue KI-Entwicklungen ein. In der aktuellen Ausgabe geht es darum, warum Modelle Fähigkeiten scheinbar aus dem Nichts entwickeln. ( In eigener Sache , KI )",
+          "published": "2026-08-31T13:24:06+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+        "Article: Eliminating Long-Lived Credentials in GCP with Workload Identity Federation",
+        "GoPro: YouTuber ist jetzt größter Aktionär, Aktienkurs macht Satz um 50 Prozent"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: GraalVM, Jakarta Data, JNoSQL, Azul Payara, WildFly, Quarkus, Atmosphere",
+          "link": "https://www.infoq.com/news/2026/08/java-news-roundup-aug24-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for August 24th, 2026, features news highlighting: the GA release of Atmosphere 4.0; point releases of GraalVM, Azul Payara and Quarkus; a maintenance release of WildFly 41; milestone releases of Jakarta Data and Eclipse JNoSQL; a beta release of the September 2026 edition of Open Liberty; and the release of Docker images for GlassFish 8.0.4. By Michael Redlich",
+          "published": "Mon, 31 Aug 2026 11:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Presentation: Running AI at the Edge: Running Real Workloads Directly in the Browser",
+          "link": "https://www.infoq.com/presentations/local-ai-browser-inference-privacy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "James Hall discusses the strategic and technical imperative of moving AI workloads from cloud providers to local edge devices. He shares practical approaches using WebGPU, Transformers.js, and DuckDB to achieve near-native performance in JavaScript. Through real-world case studies, he explains how to minimize data privacy risks, optimize browser inference, and build rigorous evaluation suites. By James Hall",
+          "published": "Mon, 31 Aug 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "FlexGanttFX is Open Source",
+          "link": "https://www.infoq.com/news/2026/08/flexgantfx/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Dirk Lemmerman has released FlexGanttFX as an open-source resource-scheduling framework under the AGPL license. This JavaFX library enables Gantt chart creation for various industries, optimizing performance with a Canvas rendering method. The framework includes features for task dependency modeling and direct editing, accommodating diverse project planning needs. By Erik Costlow",
+          "published": "Mon, 31 Aug 2026 03:48:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Zwei kritische Lücken in Next.js – Remote-Code-Ausführung unter Windows",
+          "link": "https://www.heise.de/news/Zwei-kritische-Luecken-in-Next-js-Remote-Code-Ausfuehrung-unter-Windows-11433140.html",
+          "summary": "Die zwei kritischen von Vercel gemeldeten Lücken im JavaScript-Framework Next.js ermöglichen es Angreifern, Code auszuführen.",
+          "published": "2026-08-28T10:11:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(4 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Java News Roundup: GraalVM, Jakarta Data, JNoSQL, Azul Payara, WildFly, Quarkus, Atmosphere",
+        "Presentation: Running AI at the Edge: Running Real Workloads Directly in the Browser",
+        "FlexGanttFX is Open Source"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Gefälschte Elster-Steuerbescheide 2025: So erkennt ihr den Phishing-Betrug",
+          "link": "https://t3n.de/news/elster-phishing-steuerbescheid-2025-betrug-1759497/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein aktueller Phishingversuch stellt eine vermeintliche Steuererstattung in Aussicht und bezieht das beliebte Steuerportal Elster mit ein. So könnt ihr die Cyberattacke erkennen. weiterlesen auf t3n.de",
+          "published": "Mon, 31 Aug 2026 12:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Agenten in der Container-Security: Erfahrungen aus der Praxis",
+          "link": "https://www.heise.de/hintergrund/KI-Agenten-in-der-Container-Security-Erfahrungen-aus-der-Praxis-11400640.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Zero-CVE-Images durch Agentic AI: Red Hats Hummingbird-Projekt zeigt, wie KI-Agenten Container-Security automatisieren – und wo Menschen unverzichtbar bleiben.",
+          "published": "2026-09-01T07:53:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "KI-Agenten in der Container-Security: Erfahrungen aus der Praxis",
+          "link": "https://www.heise.de/hintergrund/KI-Agenten-in-der-Container-Security-Erfahrungen-aus-der-Praxis-11400640.html",
+          "summary": "Zero-CVE-Images durch Agentic AI: Red Hats Hummingbird-Projekt zeigt, wie KI-Agenten Container-Security automatisieren – und wo Menschen unverzichtbar bleiben.",
+          "published": "2026-09-01T05:53:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Gefälschte Elster-Steuerbescheide 2025: So erkennt ihr den Phishing-Betrug",
+        "KI-Agenten in der Container-Security: Erfahrungen aus der Praxis",
+        "KI-Agenten in der Container-Security: Erfahrungen aus der Praxis"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Interview: „Die Geheimdienstreform untergräbt das Vertrauen zwischen Ärzten und Patienten“",
+          "link": "https://netzpolitik.org/2026/die-geheimdienstreform-untergraebt-das-vertrauen-zwischen-aerzten-und-patienten/",
+          "summary": "Wer hört beim vertraulichen Arztgespräch künftig mit? – Arzt: Sasun Bughdaryan, Unsplash , Ohr: rawpixel.com , Montage: netzpolitik.org Die geplante Geheimdienstreform der Bundesregierung alarmiert die Ärzteschaft. Sie gefährde das Patientengeheimnis und damit die Gesundheitsversorgung selbst, warnt Carsten Dochow von der Bundesärztekammer im Gespräch mit netzpolitik.org.",
+          "published": "Mon, 31 Aug 2026 08:48:18 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Bayern: Anstieg bei Cyberangriffen durch ausländische Nachrichtendienste",
+          "link": "https://www.heise.de/news/Bayerische-Regierung-Mehr-Cyberangriffe-aus-Russland-China-Nordkorea-11436023.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ob Online-Erpressung oder Sabotage: Cyberkriminalität ist Alltag, ein Rückgang nicht in Sicht. Laut Staatsregierung sind Geheimdienste dreier Staaten beteiligt.",
+          "published": "2026-09-01T07:14:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "AISI Deutschland: KI-Institut soll Gefahren von KI-Modellen bewerten",
+          "link": "https://www.golem.de/news/aisi-deutschland-ki-institut-soll-gefahren-von-ki-modellen-bewerten-2609-212488.html",
+          "summary": "Die Bundesregierung sieht in KI-Systemen auch Gefahren für die nationale Sicherheit. BSI und Bundesnetzagentur sollen nun KI-Modelle bewerten. ( KI , Politik )",
+          "published": "2026-09-01T11:23:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Interview: „Die Geheimdienstreform untergräbt das Vertrauen zwischen Ärzten und Patienten“",
+        "Bayern: Anstieg bei Cyberangriffen durch ausländische Nachrichtendienste",
+        "AISI Deutschland: KI-Institut soll Gefahren von KI-Modellen bewerten"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "DoorDash’s Flux Runs 130,000 Engineering Tasks Through Cloud-Based Agents",
+          "link": "https://www.infoq.com/news/2026/08/doordash-flux-cloud-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "DoorDash has moved engineering agent workloads from developer laptops to its Flux cloud platform. The platform automated 130,000 engineering tasks in one month and supports more than 25,000 automated code reviews weekly. Flux uses isolated Firecracker microVMs, an MCP gateway, reusable playbooks, and multiple invocation surfaces to run agent workflows with scoped access and centralized auditing. By Leela Kumili",
+          "published": "Mon, 31 Aug 2026 14:28:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Smart Glasses und Barrierefreiheit: „Meta hat kein Blinden-Hilfsmittel entwickelt“",
+          "link": "https://netzpolitik.org/2026/smart-glasses-und-barrierefreiheit-meta-hat-kein-blinden-hilfsmittel-entwickelt/",
+          "summary": "Meta bewirbt seine Brillen gerne als Werkzeug für Barrierefreiheit. – Alle Rechte vorbehalten: Imago / ZUMA Press Wire KI-Brillen geraten derzeit als Werkzeuge für heimliche Überwachung und digitale Gewalt in die Kritik. Rufe nach einem Verbot werden laut. Für Menschen mit einer Sehbehinderung können sie hingegen im Alltag vieles leichter machen. Wie gehen sie mit diesem Konflikt um?",
+          "published": "Mon, 31 Aug 2026 13:37:00 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Podcast: Scott Jenson on Evolving Desktop OS, Local-First, & Agentic UX",
+          "link": "https://www.infoq.com/podcasts/evolving-desktop-agentic-ux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In this episode, Scott Jenson, a veteran UX designer known for his work on the Macintosh, Google Maps, and Chrome examines the long-term stagnation of desktop operating systems and the limitations of current mobile and cloud-centric models. By Scott Jenson",
+          "published": "Mon, 31 Aug 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise-Angebot: iX-Konferenz für agile Führungskräfte: Herausforderungen effektiv meistern",
+          "link": "https://www.heise.de/news/iX-Konferenz-fuer-agile-Fuehrungskraefte-Herausforderungen-effektiv-meistern-11431397.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Am 1. und 2. Dezember bietet die Online-Konferenz rund um Führung und Selbstführung wertvolle Impulse für starke Teams unter wechselnden Herausforderungen.",
+          "published": "2026-09-01T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux-Paketformat Flatpak erhält Großförderung für mehr Sicherheit und Features",
+          "link": "https://www.heise.de/news/Flatpak-Sovereign-Tech-Agency-foerdert-Weiterentwicklung-mit-halber-Million-Euro-11433344.html",
+          "summary": "Eine halbe Million Euro Förderung der Sovereign Tech Agency fließen in ein Projekt zum Linux-Paketformat Flatpak, unter anderem für verbesserte Sicherheit.",
+          "published": "2026-08-28T11:21:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "DoorDash’s Flux Runs 130,000 Engineering Tasks Through Cloud-Based Agents",
+        "Smart Glasses und Barrierefreiheit: „Meta hat kein Blinden-Hilfsmittel entwickelt“",
+        "Podcast: Scott Jenson on Evolving Desktop OS, Local-First, & Agentic UX"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "German Web Awards 2026: Welche Agenturen prägen das KI-Zeitalter des Webs?",
+          "link": "https://t3n.de/news/german-web-awards-2026-gewinner-1758922/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Künstliche Intelligenz hat die Spielregeln im Web neu geschrieben. Wer digital überzeugen will, braucht mehr als eine schöne Website. Gefragt sind klare Strategien, technisches Können und Inhalte, die auch von Maschinen verstanden werden. Die German Web Awards zeichnen die Agenturen aus, denen das in diesem Jahr am besten gelungen ist. weiterlesen auf t3n.de",
+          "published": "Tue, 1 Sep 2026 09:05:56 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "SpaceX is in an “enviable position”: why Anthropic is sticking with Cursor as OpenAI cuts access",
+          "link": "https://thenewstack.io/anthropic-spacex-cursor-compute-openai/",
+          "summary": "OpenAI caused something of a stir over the weekend when it announced plans to cut Cursor&#8217;s direct access to OpenAI The post SpaceX is in an &#8220;enviable position&#8221;: why Anthropic is sticking with Cursor as OpenAI cuts access appeared first on The New Stack .",
+          "published": "Mon, 31 Aug 2026 21:47:04 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "MCP was supposed to solve the agent tooling problem. It missed a step.",
+          "link": "https://thenewstack.io/ard-agent-discovery-specification/",
+          "summary": "Connecting an AI agent to a tool is relatively straightforward. Things get more complicated once an organization has hundreds or The post MCP was supposed to solve the agent tooling problem. It missed a step. appeared first on The New Stack .",
+          "published": "Mon, 31 Aug 2026 20:04:20 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI wants to charge only when AI gets it right — here’s the catch",
+          "link": "https://thenewstack.io/openai-outcome-based-pricing/",
+          "summary": "AI companies have always charged customers for the tokens they use, whether the model gives them exactly what they need The post OpenAI wants to charge only when AI gets it right — here&#8217;s the catch appeared first on The New Stack .",
+          "published": "Mon, 31 Aug 2026 18:47:25 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Cut coding agent token use with better tool output",
+          "link": "https://thenewstack.io/cut-coding-agent-tokens/",
+          "summary": "Before an AI coding agent writes a single line of code, it has already spent tokens. For example, on source The post Cut coding agent token use with better tool output appeared first on The New Stack .",
+          "published": "Mon, 31 Aug 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "German Web Awards 2026: Welche Agenturen prägen das KI-Zeitalter des Webs?",
+        "SpaceX is in an “enviable position”: why Anthropic is sticking with Cursor as OpenAI cuts access",
+        "MCP was supposed to solve the agent tooling problem. It missed a step."
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Remote statt Return-to-Office? Was Startups anders machen – und was sie dafür brauchen",
+          "link": "https://t3n.de/news/remote-statt-return-to-office-was-startups-anders-machen-und-was-sie-dafuer-brauchen-1757510/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Viele Unternehmen holen ihre Mitarbeiter zurück ins Büro. Viele Startups setzen dagegen weiter voll auf Homeoffice. Das erleichtert ihnen das Recruiting und spa weiterlesen auf t3n.de",
+          "published": "Tue, 1 Sep 2026 11:00:34 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Studie zeigt: Wer KI versteht, hat mehr Angst um seinen Arbeitsplatz – nicht weniger",
+          "link": "https://t3n.de/news/jobverlust-ki-angst-1760863/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bisher galt die Annahme, dass sich vor allem Menschen vor einem Jobverlust durch KI fürchten, die sich mit dem Thema wenig auskennen. Eine Studie zeigt jetzt das Gegenteil. Ein „beunruhigendes Ergebnis“, so der leitende Wissenschaftler. weiterlesen auf t3n.de",
+          "published": "Tue, 1 Sep 2026 10:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Shein-Aktie startet mit 8 Prozent Minus – für deutsche Händler ist das kein Grund zur Erleichterung",
+          "link": "https://t3n.de/news/shein-aktie-startet-mit-8-prozent-minus-fuer-deutsche-haendler-ist-das-kein-grund-zur-erleichterung-1760857/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Shein ist für günstige Mode bekannt, wird dafür aber auch kritisiert. In Hongkong feiert die Shoppingplattform nun ihr Börsendebüt. Wie dieser in der Fachwelt bewertet wird. weiterlesen auf t3n.de",
+          "published": "Tue, 1 Sep 2026 08:30:20 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Effizient wie ein Solarmodul: Marktstart für ultradünne Solarfolie von Solarwindow",
+          "link": "https://t3n.de/news/ultraduenne-solarfolie-solarwindow-1760834/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die US-Firma Solarwindow hat den Verkaufsstart ihrer ultradünnen, flexiblen Solarfolie Electroflex angekündigt. Die selbstklebende Folie ist nur 0,85 Millimeter dick und kommt mit einer Effizienz auf dem Niveau moderner Solarmodule. weiterlesen auf t3n.de",
+          "published": "Mon, 31 Aug 2026 19:34:13 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Shai-Hulud: Whoever controls your package registry controls your pipeline",
+          "link": "https://thenewstack.io/shai-hulud-pipeline-security/",
+          "summary": "On September 15, 2025, npm&#8217;s registry did something unprecedented: Packages began updating themselves.&#160; No maintainer ran npm publish. No pull The post Shai-Hulud: Whoever controls your package registry controls your pipeline appeared first on The New Stack .",
+          "published": "Mon, 31 Aug 2026 16:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Remote statt Return-to-Office? Was Startups anders machen – und was sie dafür brauchen",
+        "Studie zeigt: Wer KI versteht, hat mehr Angst um seinen Arbeitsplatz – nicht weniger",
+        "Shein-Aktie startet mit 8 Prozent Minus – für deutsche Händler ist das kein Grund zur Erleichterung"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "(g+) KI-Abrechnung nach Energieverbrauch: Um den Faktor vier billiger",
+          "link": "https://www.golem.de/news/ki-abrechnung-nach-energieverbrauch-um-den-faktor-vier-billiger-2608-212451.html",
+          "summary": "Bei Neuralwatt bezahlt man bei KI-Nutzung statt Token verbrauchte Kilowattstunden. 30 Tage nachgerechnet ergeben 100 statt 428 US-Dollar. Ein Erfahrungsbericht von Robert Heide ( KI , API )",
+          "published": "2026-08-31T13:35:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "(g+) KI-Abrechnung nach Energieverbrauch: Um den Faktor vier billiger"
+      ]
+    }
+  ]
+}

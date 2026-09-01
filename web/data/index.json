@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-09-01",
+    "mode": "taeglich",
+    "file": "2026-09-01-taeglich.json",
+    "topic_count": 8
+  },
+  {
     "date": "2026-08-31",
     "mode": "taeglich",
     "file": "2026-08-31-taeglich.json",
