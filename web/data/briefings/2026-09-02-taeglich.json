@@ -1,0 +1,288 @@
+{
+  "date": "2026-09-02",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "KI-Assistenten könnten Millionen Deutschen helfen – doch genau die können sich die Technik nicht leisten",
+          "link": "https://t3n.de/news/ki-assistenten-koennten-millionen-deutschen-helfen-doch-genau-die-koennen-sich-die-technik-nicht-leisten-1761033/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Millionen Erwachsene in Deutschland haben Schwierigkeiten mit dem Lesen und Schreiben. Was KI und digitale Technologien für sie verändern &#8211; und wo neue Hürden entstehen. weiterlesen auf t3n.de",
+          "published": "Wed, 2 Sep 2026 08:30:43 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "HCP Terraform Positions Itself as the Control Plane for AI-Driven Infrastructure",
+          "link": "https://www.infoq.com/news/2026/09/hcp-terraform-ai-driven-control/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "HashiCorp is positioning HCP Terraform as the governance and control plane for a new generation of AI-driven infrastructure, arguing that the rapid adoption of coding agents is shifting the biggest infrastructure challenge from writing configuration to verifying and safely executing it. By Craig Risi",
+          "published": "Tue, 01 Sep 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Developer-Häppchen – Kubernetes 1.37, WebAuthn 3 und GitBrowser für Linux",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Weitere-GitHub-Stoerung-Jupyter-Umfrage-und-TypeScript-Go-11432660.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu VS Code, GitBrowser, W3C, Jupyter, Kubernetes, ESLint, Rust, GitHub, TypeScript und Routebase.",
+          "published": "2026-08-29T07:15:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Azure-Infrastruktur professionell administrieren",
+          "link": "https://www.golem.de/news/anzeige-azure-infrastruktur-professionell-administrieren-2609-212471.html",
+          "summary": "Die Administration von Microsoft Azure-Infrastrukturdiensten verlangt fundiertes Wissen über Architektur, Sicherheit und Kosten. Ein Workshop vermittelt das nötige Rüstzeug. ( Golem Karrierewelt , Unternehmenssoftware )",
+          "published": "2026-09-01T18:45:03+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Klimabilanz von E-Autos: Die Auto-Lüge der EU gibt es nicht",
+          "link": "https://www.golem.de/news/papier-der-tu-muenchen-die-auto-luege-der-eu-gibt-es-nicht-2609-212513.html",
+          "summary": "Schon vor der Veröffentlichung hat ein Papier zur Klimabilanz von E-Autos politischen Wirbel verursacht. Die Erkenntnisse sind aber nicht neu und eher trivial. Ein Bericht von Friedhelm Greis ( Elektroauto , Politik )",
+          "published": "2026-09-01T17:19:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KI-Assistenten könnten Millionen Deutschen helfen – doch genau die können sich die Technik nicht leisten",
+        "HCP Terraform Positions Itself as the Control Plane for AI-Driven Infrastructure",
+        "Developer-Häppchen – Kubernetes 1.37, WebAuthn 3 und GitBrowser für Linux"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Zwei kritische Lücken in Next.js – Remote-Code-Ausführung unter Windows",
+          "link": "https://www.heise.de/news/Zwei-kritische-Luecken-in-Next-js-Remote-Code-Ausfuehrung-unter-Windows-11433140.html",
+          "summary": "Die zwei kritischen von Vercel gemeldeten Lücken im JavaScript-Framework Next.js ermöglichen es Angreifern, Code auszuführen.",
+          "published": "2026-08-28T10:11:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Zwei kritische Lücken in Next.js – Remote-Code-Ausführung unter Windows"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Mittwoch: Dropbox-Datenleck wegen Lenovo-Fehler, MapQuest-Wachstum wegen Trump",
+          "link": "https://www.heise.de/news/Mittwoch-Dropbox-Datenleck-wegen-Lenovo-Fehler-MapQuest-Wachstum-wegen-Trump-11437595.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Dropbox-Datenabfluss mit Lenovo-ID + MapQuest-App beliebt dank Ontariosee + Kennwortklau in Berlin + Amazon gegen Werbebetrugsvorwurf + GoPro-Hilfe von YouTuber",
+          "published": "2026-09-02T06:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: September-Termin: heise security Tour mit Vorträgen zu KI, Lieferketten und mehr",
+          "link": "https://www.heise.de/news/September-Termin-heise-security-Tour-mit-Vortraegen-zu-KI-Lieferketten-und-mehr-11437401.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Eintageskonferenz für Sicherheitsverantwortliche mit praxisrelevantem Wissen zu aktuellen Herausforderungen der IT-Sicherheit: KI, Lieferketten und mehr.",
+          "published": "2026-09-01T17:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "KI-Agenten in der Container-Security: Erfahrungen aus der Praxis",
+          "link": "https://www.heise.de/hintergrund/KI-Agenten-in-der-Container-Security-Erfahrungen-aus-der-Praxis-11400640.html",
+          "summary": "Zero-CVE-Images durch Agentic AI: Red Hats Hummingbird-Projekt zeigt, wie KI-Agenten Container-Security automatisieren – und wo Menschen unverzichtbar bleiben.",
+          "published": "2026-09-01T05:53:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Mittwoch: Dropbox-Datenleck wegen Lenovo-Fehler, MapQuest-Wachstum wegen Trump",
+        "heise-Angebot: September-Termin: heise security Tour mit Vorträgen zu KI, Lieferketten und mehr",
+        "KI-Agenten in der Container-Security: Erfahrungen aus der Praxis"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "heise-Angebot: c’t-Workshop: CI/CD mit GitLab – Pipelines bauen, testen und optimieren",
+          "link": "https://www.heise.de/news/c-t-Workshop-CI-CD-mit-GitLab-Pipelines-bauen-testen-und-optimieren-11436141.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Softwareprojekte mit GitLab bauen, testen und deployen: Der zweitägige c't-Workshop vermittelt CI/CD-Wissen für den Praxiseinsatz.",
+          "published": "2026-09-02T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kreml erzürnt über deutsche Sanktionen nach Drohnen-Vorfall in Leipzig",
+          "link": "https://www.heise.de/news/Kreml-erzuernt-ueber-deutsche-Sanktionen-nach-Drohnen-Vorfall-in-Leipzig-11437613.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Bundesregierung wertet den Drohnen-Vorfall in Leipzig als Angriff, macht Moskau verantwortlich und zieht Konsequenzen. EU und Nato zeigen sich solidarisch.",
+          "published": "2026-09-02T07:13:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Flughafen Leipzig/Halle: Regierung weist Russland Verantwortung für Anschlagsversuch zu",
+          "link": "https://www.golem.de/news/flughafen-leipzig-halle-regierung-weist-russland-verantwortung-fuer-anschlagsversuch-zu-2609-212517.html",
+          "summary": "Die Bundesregierung zieht diplomatische Konsequenzen aus der mutmaßlichen Beteiligung Russlands an dem Drohnenvorfall. ( Bundesregierung , Politik )",
+          "published": "2026-09-01T18:37:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: c’t-Workshop: CI/CD mit GitLab – Pipelines bauen, testen und optimieren",
+        "Kreml erzürnt über deutsche Sanktionen nach Drohnen-Vorfall in Leipzig",
+        "Flughafen Leipzig/Halle: Regierung weist Russland Verantwortung für Anschlagsversuch zu"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "heise+ | SteamOS auf dem PC: Installation, Einrichtung und wo die Grenzen liegen",
+          "link": "https://www.heise.de/ratgeber/SteamOS-auf-dem-PC-Installation-Einrichtung-und-wo-die-Grenzen-liegen-11426653.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Valve hat sein Gaming-Linux für Desktop-PCs freigegeben, passende Grafikkarte vorausgesetzt. Eine Anleitung von der Hardware-Wahl bis zum ersten Benchmark.",
+          "published": "2026-09-01T17:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux-Paketformat Flatpak erhält Großförderung für mehr Sicherheit und Features",
+          "link": "https://www.heise.de/news/Flatpak-Sovereign-Tech-Agency-foerdert-Weiterentwicklung-mit-halber-Million-Euro-11433344.html",
+          "summary": "Eine halbe Million Euro Förderung der Sovereign Tech Agency fließen in ein Projekt zum Linux-Paketformat Flatpak, unter anderem für verbesserte Sicherheit.",
+          "published": "2026-08-28T11:21:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Omarchy Linux: Desktop-Umbau und 10 Millionen Dollar für Stiftung",
+          "link": "https://www.heise.de/news/Omarchy-Linux-Desktop-Umbau-und-10-Millionen-Dollar-fuer-Stiftung-11432090.html",
+          "summary": "Omarchy 4.0 ersetzt große Teile der bisherigen Desktop-Umgebung. Gleichzeitig erhält das Projekt eine mit zehn Millionen US-Dollar finanzierte Stiftung.",
+          "published": "2026-08-27T14:05:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise+ | SteamOS auf dem PC: Installation, Einrichtung und wo die Grenzen liegen",
+        "Linux-Paketformat Flatpak erhält Großförderung für mehr Sicherheit und Features",
+        "Omarchy Linux: Desktop-Umbau und 10 Millionen Dollar für Stiftung"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Claude Fable 5.1 watermark: It has a blind spot developers can’t ignore",
+          "link": "https://thenewstack.io/fable-5-1-watermark/",
+          "summary": "Anthropic launched Claude Fable 5.1 on Tuesday with a statistical signature embedded in its generated text, but developers shouldn&#8217;t expect The post Claude Fable 5.1 watermark: It has a blind spot developers can’t ignore appeared first on The New Stack .",
+          "published": "Tue, 01 Sep 2026 20:59:09 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Anthropic’s Fable 5.1 is a bit cheaper, a bit smarter, and refuses a lot less",
+          "link": "https://thenewstack.io/anthropic-fable-5-1-launch/",
+          "summary": "On Tuesday, Anthropic launched the latest versions of its flagship Fable and Mythos models. Anthropic promises that the updated models The post Anthropic&#8217;s Fable 5.1 is a bit cheaper, a bit smarter, and refuses a lot less appeared first on The New Stack .",
+          "published": "Tue, 01 Sep 2026 19:38:32 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Your Mac is now part of Perplexity’s AI infrastructure",
+          "link": "https://thenewstack.io/perplexity-hybrid-compute-mac/",
+          "summary": "Perplexity wants its AI agents to use more of the computing power already sitting inside a Mac. The company launched The post Your Mac is now part of Perplexity&#8217;s AI infrastructure appeared first on The New Stack .",
+          "published": "Tue, 01 Sep 2026 19:21:51 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenClaw 2.0 Releases with Simplified Setup and Collaborative Agents",
+          "link": "https://www.infoq.com/news/2026/09/openclaw-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "OpenClaw has released OpenClaw 2.0, a major update to the open-source personal AI agent that changes its installation process, browser interface, memory, skills, automations, plugins, security, and collaboration features. By Daniel Dominguez",
+          "published": "Tue, 01 Sep 2026 18:47:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "This is what a supercar was like a century ago",
+          "link": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
+          "summary": "When the average car could only do 40 mph, this Bentley could break 100.",
+          "published": "Tue, 01 Sep 2026 17:34:16 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Claude Fable 5.1 watermark: It has a blind spot developers can’t ignore",
+        "Anthropic’s Fable 5.1 is a bit cheaper, a bit smarter, and refuses a lot less",
+        "Your Mac is now part of Perplexity’s AI infrastructure"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "In Airbnb oder Hotel: Mit diesem Smartphone-Aufsatz findest du versteckte Kameras",
+          "link": "https://t3n.de/news/smartphone-aufsatz-kameras-1761003/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Forscher:innen haben einen Smartphone-Aufsatz entwickelt, der mit KI-Support versteckte Kameras in Airbnb-Wohnungen oder Hotels aufspüren soll. Die Hardwarekosten für das SweepLED genannte System belaufen sich auf sechs Euro. weiterlesen auf t3n.de",
+          "published": "Tue, 1 Sep 2026 19:50:18 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: Beyond Line Charts: Why Some Diversity in Telemetry Visualization Is Long Overdue",
+          "link": "https://www.infoq.com/presentations/telemetry-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Yao Yue discusses the fundamental limitations of standard line charts for system observability. Drawing from 15 years of operating large-scale systems, she shares how engineering leaders and software architects can transform telemetry data - moving beyond simple time-series defaults - to build visualizations that directly answer critical capacity, latency, and fleet-sizing questions. By Yao Yue",
+          "published": "Tue, 01 Sep 2026 12:35:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(2 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "In Airbnb oder Hotel: Mit diesem Smartphone-Aufsatz findest du versteckte Kameras",
+        "Presentation: Beyond Line Charts: Why Some Diversity in Telemetry Visualization Is Long Overdue"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Wettlauf ums erste deutsche Fusionskraftwerk: Drei Startups mit drei unterschiedlichen Strategien",
+          "link": "https://t3n.de/news/fusionskraftwerk-deutsch-startups-wettlauf-1757532/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kernfusion gilt als beinahe unerschöpfliche Energiequelle. Geforscht wird seit Jahrzehnten. Nun drängen Startups und Investoren in den Markt – und versprechen s weiterlesen auf t3n.de",
+          "published": "Wed, 2 Sep 2026 07:45:37 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
+          "link": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
+          "summary": "New features are rolling out across the Android ecosystem starting today.",
+          "published": "Tue, 01 Sep 2026 18:00:02 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "KI-Ergebnisse bei Google: Informationsroulette bei den Landtagswahlen",
+          "link": "https://netzpolitik.org/2026/ki-ergebnisse-bei-google-informationsroulette-bei-den-landtagswahlen/",
+          "summary": "Die Untersuchung vergleicht die Ergebnisse von Google mit dem Glücksspiel Roulette. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Hush Naidoo Eine Untersuchung hat sich angeschaut, wann bei Google welche KI-Ergebnisse beim Thema Landtagswahlen angezeigt werden. Dabei kam vor allem heraus: Der Suchmaschinenkonzern handelt intransparent und wenig nachvollziehbar.",
+          "published": "Tue, 01 Sep 2026 16:17:33 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Von unrentabel zu voller Kapazität: So rettet ein Startup ein scheinbar ausgedientes Geothermiekraftwerk",
+          "link": "https://t3n.de/news/unrentabel-startup-geothermiekraftwerk-1755600/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Startup Zanskar will zeigen, dass auch alte Geothermiekraftwerke eine Chance verdienen. Eine Anlage in den USA wird jetzt mit neuer Technik wiederbelebt. weiterlesen auf t3n.de",
+          "published": "Tue, 1 Sep 2026 14:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "US-Behörde verklagt Amazon: Konzern soll über Jahre Werbepreise künstlich nach oben getrieben haben",
+          "link": "https://t3n.de/news/us-behoerde-verklagt-amazon-konzern-soll-ueber-jahre-werbepreise-kuenstlich-nach-oben-getrieben-haben-1760953/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Amazon verdient Milliarden mit seinem Werbegeschäft. Doch laut US-Wettbewerbshütern geht es dabei nicht immer mit rechten Dingen zu. Der Internet-Riese dementiert. weiterlesen auf t3n.de",
+          "published": "Tue, 1 Sep 2026 14:30:36 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Wettlauf ums erste deutsche Fusionskraftwerk: Drei Startups mit drei unterschiedlichen Strategien",
+        "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
+        "KI-Ergebnisse bei Google: Informationsroulette bei den Landtagswahlen"
+      ]
+    }
+  ]
+}
