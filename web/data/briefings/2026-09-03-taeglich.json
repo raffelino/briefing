@@ -1,0 +1,258 @@
+{
+  "date": "2026-09-03",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+          "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+          "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
+          "published": "Wed, 02 Sep 2026 18:13:54 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+          "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+          "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
+          "published": "Wed, 02 Sep 2026 17:58:33 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Google ships its third Gemini Flash model in six weeks",
+          "link": "https://thenewstack.io/google-ships-its-third-gemini-flash-model-in-six-weeks/",
+          "summary": "Google hasn&#8217;t released a Gemini Pro model in a while, but on Wednesday, the company launched yet another set of The post Google ships its third Gemini Flash model in six weeks appeared first on The New Stack .",
+          "published": "Wed, 02 Sep 2026 16:56:52 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Developer-Häppchen – Kubernetes 1.37, WebAuthn 3 und GitBrowser für Linux",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Weitere-GitHub-Stoerung-Jupyter-Umfrage-und-TypeScript-Go-11432660.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu VS Code, GitBrowser, W3C, Jupyter, Kubernetes, ESLint, Rust, GitHub, TypeScript und Routebase.",
+          "published": "2026-08-29T07:15:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "(g+) FT Investigations Military technology: Russia secretly helping Iran develop supersonic cruise missiles",
+          "link": "https://www.golem.de/news/ft-investigations-military-technology-russia-secretly-helping-iran-develop-supersonic-cruise-missiles-2609-212556.html",
+          "summary": "Leaks reveal programme behind one of the most significant known transfers of military technology from Moscow to Tehran Von Miles Johnson ( Militär , Politik )",
+          "published": "2026-09-02T18:00:12+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+        "Trump may be forced to reveal secret rules feds use for AI safety testing",
+        "Google ships its third Gemini Flash model in six weeks"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Zwei kritische Lücken in Next.js – Remote-Code-Ausführung unter Windows",
+          "link": "https://www.heise.de/news/Zwei-kritische-Luecken-in-Next-js-Remote-Code-Ausfuehrung-unter-Windows-11433140.html",
+          "summary": "Die zwei kritischen von Vercel gemeldeten Lücken im JavaScript-Framework Next.js ermöglichen es Angreifern, Code auszuführen.",
+          "published": "2026-08-28T10:11:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Zwei kritische Lücken in Next.js – Remote-Code-Ausführung unter Windows"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Your next OpenAI API timeout might not be a timeout at all",
+          "link": "https://thenewstack.io/astra-api-safety-stops/",
+          "summary": "OpenAI said Tuesday that its upcoming Astra model is the company&#8217;s first to reach the Critical cybersecurity threshold in its The post Your next OpenAI API timeout might not be a timeout at all appeared first on The New Stack .",
+          "published": "Wed, 02 Sep 2026 20:13:54 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "„Viele unterschätzen den Aufwand“: Cybersecurity bei Medizinprodukten",
+          "link": "https://www.heise.de/hintergrund/Viele-unterschaetzen-den-Aufwand-Cybersecurity-bei-vernetzten-Medizinprodukten-11439089.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Software-Lieferketten, Altgeräte und Co. erhöhen die IT-Risiken in der Medizintechnik. Was bei der Entwicklung wichtig ist, erklärt ein Experte im Interview.",
+          "published": "2026-09-03T10:49:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Jetzt patchen! Angreifer attackieren JFrog Artifactory und machen sich zu Admins",
+          "link": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-JFrog-Artifactory-und-machen-sich-zu-Admins-11439271.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "JFrog Artifactory ist über zahlreiche Sicherheitslücken angreifbar. Eine Schwachstelle nutzen Angreifer bereits aus.",
+          "published": "2026-09-03T09:56:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop IT-Sicherheit: Angriffstechniken verstehen und erfolgreich abwehren",
+          "link": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Angriffstechniken-verstehen-und-erfolgreich-abwehren-11422254.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Analysieren Sie aktuelle Angriffstechniken mit und ohne KI, um die Wirksamkeit Ihrer Schutzmaßnahmen und die Verletzlichkeit Ihrer IT einzuschätzen.",
+          "published": "2026-09-03T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "KI-Agenten in der Container-Security: Erfahrungen aus der Praxis",
+          "link": "https://www.heise.de/hintergrund/KI-Agenten-in-der-Container-Security-Erfahrungen-aus-der-Praxis-11400640.html",
+          "summary": "Zero-CVE-Images durch Agentic AI: Red Hats Hummingbird-Projekt zeigt, wie KI-Agenten Container-Security automatisieren – und wo Menschen unverzichtbar bleiben.",
+          "published": "2026-09-01T05:53:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Your next OpenAI API timeout might not be a timeout at all",
+        "„Viele unterschätzen den Aufwand“: Cybersecurity bei Medizinprodukten",
+        "Jetzt patchen! Angreifer attackieren JFrog Artifactory und machen sich zu Admins"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Politische Werbung: Mit ihrem Verbot helfen Meta und Google der AfD",
+          "link": "https://netzpolitik.org/2026/politische-werbung-mit-ihrem-verbot-helfen-meta-und-google-der-afd/",
+          "summary": "Im September sind Landtagswahlen in drei Bundesländern (Symbolbild) – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Mika Baumeister Anstatt sich an neue EU-Regeln zu halten, haben Tech-Konzerne politische Werbung einfach verbannt. Dahinter steckt Kalkül. Politiker:innen sollten deshalb nicht darüber diskutieren, wann sie endlich wieder bei Google und Meta werben können, sondern wie wir demokratischere Soziale Medien bekommen. Ein Kommentar.",
+          "published": "Wed, 02 Sep 2026 15:32:04 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Swiggy Uses 350+ Features and Multi-Task MLP to Predict Customer Lifetime Value",
+          "link": "https://www.infoq.com/news/2026/09/swiggy-pltv-multitask-mlp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Swiggy developed an in house predicted lifetime value model using more than 350 pre order features and a multi task MLP for Food and Instamart. Adding order count as an auxiliary task reduced model parameters by 63% while improving predictive performance. The pLTV signal is used with Google Target ROAS bidding to optimize customer acquisition. By Leela Kumili",
+          "published": "Wed, 02 Sep 2026 13:55:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "IFA: Innovation for all: Die IFA 2026 im Zeichen von KI und Robotik",
+          "link": "https://www.heise.de/news/Innovation-for-all-Die-IFA-2026-im-Zeichen-von-KI-und-Robotik-11439141.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "KI verunsichere selbst Bildungsbürger und müsse demokratisiert werden, fordert Leif Lindner. Begeistert zeigt sich der IFA-Chef vom chinesischen Entwicklergeist",
+          "published": "2026-09-03T07:06:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux-Paketformat Flatpak erhält Großförderung für mehr Sicherheit und Features",
+          "link": "https://www.heise.de/news/Flatpak-Sovereign-Tech-Agency-foerdert-Weiterentwicklung-mit-halber-Million-Euro-11433344.html",
+          "summary": "Eine halbe Million Euro Förderung der Sovereign Tech Agency fließen in ein Projekt zum Linux-Paketformat Flatpak, unter anderem für verbesserte Sicherheit.",
+          "published": "2026-08-28T11:21:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Omarchy Linux: Desktop-Umbau und 10 Millionen Dollar für Stiftung",
+          "link": "https://www.heise.de/news/Omarchy-Linux-Desktop-Umbau-und-10-Millionen-Dollar-fuer-Stiftung-11432090.html",
+          "summary": "Omarchy 4.0 ersetzt große Teile der bisherigen Desktop-Umgebung. Gleichzeitig erhält das Projekt eine mit zehn Millionen US-Dollar finanzierte Stiftung.",
+          "published": "2026-08-27T14:05:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Politische Werbung: Mit ihrem Verbot helfen Meta und Google der AfD",
+        "Swiggy Uses 350+ Features and Multi-Task MLP to Predict Customer Lifetime Value",
+        "IFA: Innovation for all: Die IFA 2026 im Zeichen von KI und Robotik"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Cohere’s Parse 5 Promises Efficient Multi-Modal Information Extraction From Complex Documents",
+          "link": "https://www.infoq.com/news/2026/09/cohere-multimodal-parse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cohere has launched Parse 5, a multimodal foundation model designed to extract structured data from complex enterprise documents. The 2.3-billion-parameter system converts visually rich PDFs into Markdown while providing bounding box coordinates for visual grounding. It has been evaluated against over 2,000 enterprise pages, achieving an average score of 79.2 in key performance areas. By Olimpiu Pop",
+          "published": "Thu, 03 Sep 2026 06:06:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Multiverse says its 438B model is fast enough for AI agents. The benchmarks tell a more complicated story.",
+          "link": "https://thenewstack.io/quasar-438b-agent-compression/",
+          "summary": "A 438-billion-parameter reasoning model isn&#8217;t an obvious choice when speed is a priority. Multiverse Computing is betting that compression can The post Multiverse says its 438B model is fast enough for AI agents. The benchmarks tell a more complicated story. appeared first on The New Stack .",
+          "published": "Wed, 02 Sep 2026 20:14:53 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Anthropic’s Claude failures have made agent observability a security priority",
+          "link": "https://thenewstack.io/anthropic-claude-agent-security/",
+          "summary": "Anthropic aimed to steer its ship into safer, more carefully charted waters this week. The company announced it was improving The post Anthropic&#8217;s Claude failures have made agent observability a security priority appeared first on The New Stack .",
+          "published": "Wed, 02 Sep 2026 20:12:50 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "KI-Sicherheit: Anthropic trainiert absichtlich manipulatives Sprachmodell",
+          "link": "https://t3n.de/news/anthropic-hacker-opus-reward-hacking-ki-sicherheit-1761249/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn Künstliche Intelligenz darauf trainiert wird, Aufgaben um jeden Preis zu lösen, entstehen unvorhergesehene Risiken. Ein neues Experiment zeigt nun auf, wie leicht Schutzmechanismen umgangen werden können, sobald das Bewertungssystem Fehler aufweist. weiterlesen auf t3n.de",
+          "published": "Wed, 2 Sep 2026 20:06:10 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Vercel built a feedback loop that treats agent instructions like software",
+          "link": "https://thenewstack.io/vercel-agent-design-guidance/",
+          "summary": "Vercel ran more than 200 agent runs to build design.md, a new public prompt file designed to help agents create The post Vercel built a feedback loop that treats agent instructions like software appeared first on The New Stack .",
+          "published": "Wed, 02 Sep 2026 15:29:58 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Cohere’s Parse 5 Promises Efficient Multi-Modal Information Extraction From Complex Documents",
+        "Multiverse says its 438B model is fast enough for AI agents. The benchmarks tell a more complicated story.",
+        "Anthropic’s Claude failures have made agent observability a security priority"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "DSL vs. Kabel vs. Glasfaser: Diese Unterschiede solltest du vor der Wahl kennen",
+          "link": "https://t3n.de/news/dsl-kabel-glasfaser-unterschiede-internetanschluss-wahl-1749792/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Von DSL bis Starlink gibt es zahlreiche Mittel und Wege, um dich mit dem Internet zu verbinden. Doch welcher Anschluss ist für deine Zwecke am besten geeignet? weiterlesen auf t3n.de",
+          "published": "Thu, 3 Sep 2026 10:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "iPhone 18 Pro: So viel kannst du voraussichtlich sparen, wenn du ein wenig wartest",
+          "link": "https://t3n.de/news/iphone-18-pro-sparen-1761272/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Am 9. September 2026 präsentiert Apple im Rahmen seiner jährlichen Keynote auch neue Smartphones, darunter das iPhone 18 Pro und Pro Max. Wer sparen will, sollte mit dem Kauf aber ein paar Monate warten, wie eine Preisprognose zeigt. weiterlesen auf t3n.de",
+          "published": "Thu, 3 Sep 2026 10:00:15 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Wenn die KI-Website plötzlich offline geht: Was du aus dem Manus-Fall lernen kannst",
+          "link": "https://t3n.de/news/ki-website-ploetzlich-offline-manus-praxisbeispiel-1761188/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit KI-Tools lassen sich Websites ohne Programmierkenntnisse erstellen. Was verlockend ist, kommt schnell an Grenzen, wie das Praxisbeispiel von Prompt Engineer Susanne Renate Schneider zeigt. weiterlesen auf t3n.de",
+          "published": "Thu, 3 Sep 2026 08:00:29 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "I rented a car, and within hours, my driver's license was for sale",
+          "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+          "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
+          "published": "Wed, 02 Sep 2026 20:32:02 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "„FCKGW“: Ex-Entwickler enthüllt die Wahrheit hinter dem berühmtesten Windows-Product-Key aller Zeiten",
+          "link": "https://t3n.de/news/fckgw-entwickler-windows-xp-product-key-1759839/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer in den frühen 2000er-Jahren nicht für Windows XP zahlen wollte, benutzte dafür mit sehr großer Wahrscheinlichkeit den gleichen Product-Key wie Millionen andere Softwarepiraten. Aber woher stammte dieser „verbotene Schlüssel“ eigentlich? weiterlesen auf t3n.de",
+          "published": "Wed, 2 Sep 2026 14:55:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "DSL vs. Kabel vs. Glasfaser: Diese Unterschiede solltest du vor der Wahl kennen",
+        "iPhone 18 Pro: So viel kannst du voraussichtlich sparen, wenn du ein wenig wartest",
+        "Wenn die KI-Website plötzlich offline geht: Was du aus dem Manus-Fall lernen kannst"
+      ]
+    }
+  ]
+}
