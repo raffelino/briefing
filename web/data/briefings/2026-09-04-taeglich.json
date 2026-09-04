@@ -1,0 +1,366 @@
+{
+  "date": "2026-09-04",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Kubermatic AI: Teure GPUs besser nutzen – auch Team-übergreifend",
+          "link": "https://www.heise.de/news/Kubermatic-AI-Teure-GPUs-besser-nutzen-auch-Team-uebergreifend-11438811.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Kubernetes-native KI-Plattform Kubermatic AI soll GPU-Ressourcen konsolidieren und Modelle als geteilten Dienst über Teams hinweg bereitstellen.",
+          "published": "2026-09-03T17:05:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kubermatic AI: Teure GPUs besser nutzen – auch Team-übergreifend",
+          "link": "https://www.heise.de/news/Kubermatic-AI-Teure-GPUs-besser-nutzen-auch-Team-uebergreifend-11438811.html",
+          "summary": "Die Kubernetes-native KI-Plattform Kubermatic AI soll GPU-Ressourcen konsolidieren und Modelle als geteilten Dienst über Teams hinweg bereitstellen.",
+          "published": "2026-09-03T15:05:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Developer-Häppchen – Kubernetes 1.37, WebAuthn 3 und GitBrowser für Linux",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Weitere-GitHub-Stoerung-Jupyter-Umfrage-und-TypeScript-Go-11432660.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu VS Code, GitBrowser, W3C, Jupyter, Kubernetes, ESLint, Rust, GitHub, TypeScript und Routebase.",
+          "published": "2026-08-29T07:15:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Ladeinfrastruktur für E-Auto: Das BSI befürchtet den ganz großen Hack",
+          "link": "https://www.golem.de/news/ladeinfrastruktur-fuer-e-auto-das-bsi-befuerchtet-den-ganz-grossen-hack-2609-212631.html",
+          "summary": "Die Ladestationen für E-Autos gehören zur kritischen Infrastruktur. Das BSI hält Angriffe für wahrscheinlich, weiß aber noch nicht, wie und wann. Ein Bericht von Friedhelm Greis ( Ladesäule , Elektroauto )",
+          "published": "2026-09-04T09:30:03+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Mega-Deal: Nvidia schluckt Hugging Face für 13 Milliarden US-Dollar",
+          "link": "https://www.golem.de/news/megadeal-nvidia-schluckt-hugging-face-fuer-13-milliarden-us-dollar-2609-212618.html",
+          "summary": "Nvidia greift nach dem Herzstück der globalen Open-Source-KI-Community: Entwickler fragen sich, was aus der Unabhängigkeit von freien Modellen und alternativer Hardware bei Hugging Face wird. ( Nvidia , Wirtschaft )",
+          "published": "2026-09-03T15:27:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Kubermatic AI: Teure GPUs besser nutzen – auch Team-übergreifend",
+        "Kubermatic AI: Teure GPUs besser nutzen – auch Team-übergreifend",
+        "Developer-Häppchen – Kubernetes 1.37, WebAuthn 3 und GitBrowser für Linux"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Twenty Years of jQuery: How a Little Library Rewired Web Development",
+          "link": "https://www.infoq.com/news/2026/09/jquery-20-years/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "jQuery, created by John Resig and released in 2006, is a JavaScript library that simplifies HTML manipulation, event handling, animation, and Ajax. It enabled easier web development by providing an accessible API across browsers. While its use has declined with the rise of modern frameworks, jQuery remains prevalent on a significant portion of websites today. By Daniel Curtis",
+          "published": "Fri, 04 Sep 2026 05:03:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Zwei kritische Lücken in Next.js – Remote-Code-Ausführung unter Windows",
+          "link": "https://www.heise.de/news/Zwei-kritische-Luecken-in-Next-js-Remote-Code-Ausfuehrung-unter-Windows-11433140.html",
+          "summary": "Die zwei kritischen von Vercel gemeldeten Lücken im JavaScript-Framework Next.js ermöglichen es Angreifern, Code auszuführen.",
+          "published": "2026-08-28T10:11:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Twenty Years of jQuery: How a Little Library Rewired Web Development",
+        "Zwei kritische Lücken in Next.js – Remote-Code-Ausführung unter Windows"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Zwischen Panikmache und Realität: Was Phishing per KI wirklich für die Cybersicherheit bedeutet",
+          "link": "https://t3n.de/news/zwischen-panikmache-und-realitaet-was-phishing-per-ki-wirklich-fuer-die-cybersicherheit-bedeutet-1761061/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Rund 50 Prozent aller Phishing-Mails werden mittlerweile mithilfe von KI formuliert. Darüber, wie groß die Gefahr durch KI-gesteuerte Cyberangriffe tatsächlich weiterlesen auf t3n.de",
+          "published": "Thu, 3 Sep 2026 14:45:23 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise-Angebot: c’t-Webinar: IT-Security für Nicht-Nerds",
+          "link": "https://www.heise.de/news/c-t-Webinar-IT-Security-fuer-Nicht-Nerds-11418859.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Phishing erkennen, Daten sichern, Passkeys nutzen: Das c’t-Webinar vermittelt IT-Sicherheit alltagstauglich und verständlich für Einsteiger.",
+          "published": "2026-09-04T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Jetzt patchen! Es laufen derzeit Schadcode-Attacken auf Chrome",
+          "link": "https://www.heise.de/news/Jetzt-patchen-Angreifer-fuehren-Schadcode-in-der-Sandbox-von-Chrome-aus-11441030.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Google hat mehrere Sicherheitslücken im Webbrowser Chrome geschlossen. Eine Schwachstelle nutzen Angreifer bereits aus.",
+          "published": "2026-09-04T08:48:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "KI-Agenten in der Container-Security: Erfahrungen aus der Praxis",
+          "link": "https://www.heise.de/hintergrund/KI-Agenten-in-der-Container-Security-Erfahrungen-aus-der-Praxis-11400640.html",
+          "summary": "Zero-CVE-Images durch Agentic AI: Red Hats Hummingbird-Projekt zeigt, wie KI-Agenten Container-Security automatisieren – und wo Menschen unverzichtbar bleiben.",
+          "published": "2026-09-01T05:53:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Cyberangriff trifft Flughäfen: Hacker leaken Daten von Millionen von Fluggästen",
+          "link": "https://www.golem.de/news/cyberangriff-trifft-flughaefen-hacker-leaken-daten-von-millionen-von-fluggaesten-2609-212647.html",
+          "summary": "Eine Hackergruppe hat Daten eines britischen Flughafenbetreibers erbeutet und veröffentlicht. Mehr als 8 Millionen Menschen sind betroffen. ( Datenleck , Cyberwar )",
+          "published": "2026-09-04T10:18:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Zwischen Panikmache und Realität: Was Phishing per KI wirklich für die Cybersicherheit bedeutet",
+        "heise-Angebot: c’t-Webinar: IT-Security für Nicht-Nerds",
+        "Jetzt patchen! Es laufen derzeit Schadcode-Attacken auf Chrome"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Kehrtwende bei Cybersicherheit: Bund gibt Plan für BSI-Grundgesetzänderung auf",
+          "link": "https://www.heise.de/news/Kehrtwende-bei-Cybersicherheit-Bund-gibt-Plan-fuer-BSI-Grundgesetzaenderung-auf-11440646.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Trotz der verschärften Bedrohungslage und verstärkter IT-Angriffe verzichtet die Bundesregierung überraschend auf eine Verfassungsänderung zur Stärkung des BSI.",
+          "published": "2026-09-03T18:58:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Steuer-Coup gegen Bürgerproteste: Milliarden-Umschichtung für Rechenzentren",
+          "link": "https://www.heise.de/news/Steuer-Coup-gegen-Buergerproteste-Milliarden-Umschichtung-fuer-Rechenzentren-11440618.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Gewerbesteuerreform, die die Bundesregierung auf den Weg gebracht hat, sichert Kommunen Millionen durch Rechenzentren. Das soll Widerstand vor Ort mindern.",
+          "published": "2026-09-03T18:14:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Kehrtwende bei Cybersicherheit: Bund gibt Plan für BSI-Grundgesetzänderung auf",
+        "Steuer-Coup gegen Bürgerproteste: Milliarden-Umschichtung für Rechenzentren"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Tether: Apple Continuity Like Experience Between iOS and Linux Desktop Machines",
+          "link": "https://www.infoq.com/news/2026/09/apple-continuity-linux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Zack Bartel has developed Tether, an open-source project designed to integrate Apple Continuity features with Linux workstations. Tether allows users to send iMessages, sync clipboards, and view iOS notifications directly on Linux. It uses secure local network communication and a custom Bluetooth stack to ensure reliable connectivity and robust security in cross-platform interactions. By Olimpiu Pop",
+          "published": "Fri, 04 Sep 2026 06:06:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Neuer Job als Teamleiter Kommunikationsdienste (m/w/d) gesucht? Schau dir unsere Top Jobs an",
+          "link": "https://t3n.de/news/unsere-jobs-der-woche-1175973/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hier findest du unsere besten Jobs aus den Bereichen Technik &amp; Entwicklung, Marketing, PR &amp; Kommunikation, Projektmanagement &amp; Produktmanagement, Design &amp; UX, Content &amp; Redaktion und Business Development. weiterlesen auf t3n.de",
+          "published": "Thu, 3 Sep 2026 15:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Linux-Paketformat Flatpak erhält Großförderung für mehr Sicherheit und Features",
+          "link": "https://www.heise.de/news/Flatpak-Sovereign-Tech-Agency-foerdert-Weiterentwicklung-mit-halber-Million-Euro-11433344.html",
+          "summary": "Eine halbe Million Euro Förderung der Sovereign Tech Agency fließen in ein Projekt zum Linux-Paketformat Flatpak, unter anderem für verbesserte Sicherheit.",
+          "published": "2026-08-28T11:21:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Statt RHEL: Cern spart mit Umstieg auf Debian fast 6 Millionen Euro",
+          "link": "https://www.golem.de/news/statt-rhel-cern-spart-mit-umstieg-auf-debian-fast-6-millionen-euro-2609-212624.html",
+          "summary": "Cern wechselt einmal mehr die Linux-Distribution. Andernfalls müsste viel Hardware ersetzt werden - nicht nur Microsoft führt zu Obsoleszenz. ( Debian , Red Hat )",
+          "published": "2026-09-03T17:04:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Tether: Apple Continuity Like Experience Between iOS and Linux Desktop Machines",
+        "Neuer Job als Teamleiter Kommunikationsdienste (m/w/d) gesucht? Schau dir unsere Top Jobs an",
+        "Linux-Paketformat Flatpak erhält Großförderung für mehr Sicherheit und Features"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "4.500 Suchanfragen ausgewertet: Was bei Googles KI-Übersichten zu den Landtagswahlen auffällt",
+          "link": "https://t3n.de/news/4-500-suchanfragen-ausgewertet-was-bei-googles-ki-uebersichten-zu-den-landtagswahlen-auffaellt-1761444/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In mehreren Bundesländern stehen die Landtagswahlen an. Wer sich für seine Wahlentscheidung von Googles KI-Übersichten beraten lassen will, sollte allerdings vorsichtig sein. Das zeigt eine Analyse von Algorithmwatch. weiterlesen auf t3n.de",
+          "published": "Fri, 4 Sep 2026 11:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI stuft eigenes Modell als „kritisch&quot; ein – die Öffentlichkeit bekommt nur die Light-Version",
+          "link": "https://t3n.de/news/openai-astra-ki-modell-cybersecurity-kritisch-light-version-1761045/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "OpenAI will mit Astra bald ein neues KI-Modell veröffentlichen, das im Bereich Cybersicherheit besonders leistungsfähig ist. Daher sollen zunächst nur wenige Firmen vollen Zugang bekommen. Frei zugänglich kommt wohl eine abgespeckte Version. weiterlesen auf t3n.de",
+          "published": "Fri, 4 Sep 2026 10:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Software-Empfehlungen von KI? Diese Daten zeigen, warum das keine gute Idee ist",
+          "link": "https://t3n.de/news/studie-ki-perplexity-studie-beeinflussung-manipulierte-websites-1761497/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kann KI brauchbare Empfehlungen zu Software abgeben? Mit dieser Frage hat sich eine Studie beschäftigt und geprüft, welche Quellen Perplexity für Software-Empfehlungen nutzt. Das Ergebnis zeichnet ein Bild der gezielten KI-Manipulation. weiterlesen auf t3n.de",
+          "published": "Fri, 4 Sep 2026 10:20:14 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI spends $1 billion to expand Daybreak to defend power, water, and banking",
+          "link": "https://thenewstack.io/openai-daybreak-frontline-defenders/",
+          "summary": "In a livestreamed keynote on Thursday, OpenAI president Greg Brockman announced Daybreak for Frontline Defenders, a new global initiative to The post OpenAI spends $1 billion to expand Daybreak to defend power, water, and banking appeared first on The New Stack .",
+          "published": "Thu, 03 Sep 2026 21:22:31 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Shopify Introduces Gisting: Compressing LLM System Prompts into Learned Tokens",
+          "link": "https://www.infoq.com/news/2026/09/spotify-gisting-llm-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Shopify's engineering introduced gisting, a novel technique for compressing long LLM prompts into a smaller set of learned \"gist\" tokens, improving throughput and reducing inference cost. By Sergio De Simone",
+          "published": "Thu, 03 Sep 2026 20:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "4.500 Suchanfragen ausgewertet: Was bei Googles KI-Übersichten zu den Landtagswahlen auffällt",
+        "OpenAI stuft eigenes Modell als „kritisch&quot; ein – die Öffentlichkeit bekommt nur die Light-Version",
+        "Software-Empfehlungen von KI? Diese Daten zeigen, warum das keine gute Idee ist"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "KI-Boom als Risiko: Norwegens Billionen-Fonds spielt Crash-Szenarien durch",
+          "link": "https://t3n.de/news/ki-boom-als-risiko-norwegens-billionen-fonds-spielt-crash-szenarien-durch-1761332/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der norwegische Staatsfonds spielt verschiedene Krisenszenarien für sein Aktienportfolio durch. Die Szenarien zeigen, welche Risiken auch ETF-Anleger im Blick behalten sollten. weiterlesen auf t3n.de",
+          "published": "Thu, 3 Sep 2026 13:30:06 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "NASA-Sonde New Horizons: Drohende Abschaltung von Instrumenten wegen Geldmangel",
+          "link": "https://www.heise.de/news/Zugesagtes-Geld-fehlt-NASA-Sonde-New-Horizons-droht-Verlust-von-Instrumenten-11441156.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Seit ihrem Vorbeiflug am Pluto erforscht New Horizons den Rand des Sonnensystems. Weil zugesagtes Geld nicht fließt, droht eine Abschaltung von Instrumenten.",
+          "published": "2026-09-04T10:50:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Elektroschrott: 65 Milliarden Euro an Rohstoffen in EU ungenutzt",
+          "link": "https://www.golem.de/news/elektroschrott-65-milliarden-euro-an-rohstoffen-in-eu-ungenutzt-2609-212644.html",
+          "summary": "BCG und Cradle to Cradle NGO fordern ein Umdenken: Zirkuläres Design soll wertvolle Metalle aus Altgeräten sichern und Importe senken. ( Elektronikschrott , IFA2007 )",
+          "published": "2026-09-04T09:52:05+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+          "link": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+          "summary": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But unofficially, modders have already ported a leaked version of DLSS 5 to run on just about anything while cranking [&#8230;]",
+          "published": "2026-09-03T21:49:25-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(4 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KI-Boom als Risiko: Norwegens Billionen-Fonds spielt Crash-Szenarien durch",
+        "NASA-Sonde New Horizons: Drohende Abschaltung von Instrumenten wegen Geldmangel",
+        "Elektroschrott: 65 Milliarden Euro an Rohstoffen in EU ungenutzt"
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop: Backstage für Admins – IDP im Unternehmen aufbauen und betreiben",
+          "link": "https://www.heise.de/news/iX-Workshop-Backstage-fuer-Admins-IDP-im-Unternehmen-aufbauen-und-betreiben-11422305.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Erfahren Sie, wie Sie mit Backstage eine umfassende Internal Developer Platform in Ihrem Unternehmen bereitstellen und effizient verwalten.",
+          "published": "2026-09-04T08:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Platform Engineering / IDPs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: iX-Workshop: Backstage für Admins – IDP im Unternehmen aufbauen und betreiben"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "How to find failures without drowning in tracing data",
+          "link": "https://thenewstack.io/tracing-data-overload-sampling/",
+          "summary": "A metrics dashboard can tell you a system&#8217;s health with ease. A log can help you understand a discrete failure. The post How to find failures without drowning in tracing data appeared first on The New Stack .",
+          "published": "Thu, 03 Sep 2026 20:17:25 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Presentation: Instrumentation at Scale: Having Your Performance Cake and Eating It Too",
+          "link": "https://www.infoq.com/presentations/instrumenting-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Brian Martin discusses the real-world performance costs of metrics libraries and shares strategies for low-overhead, \"fearless\" instrumentation. Drawing from his work at IOP Systems, he explores atomic primitives, per-CPU sharding, lock-free histograms, and eBPF integration to help software architects and engineering leaders maintain full system visibility without sacrificing performance. By Brian Martin",
+          "published": "Thu, 03 Sep 2026 09:28:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(2 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "How to find failures without drowning in tracing data",
+        "Presentation: Instrumentation at Scale: Having Your Performance Cake and Eating It Too"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Mehr als Social-Media-Verbot: Familienministerin will Alterskontrollen ausweiten",
+          "link": "https://netzpolitik.org/2026/mehr-als-social-media-verbot-familienministerin-will-alterskontrollen-ausweiten/",
+          "summary": "Familienministerin Karin Prien (CDU) – Alle Rechte vorbehalten: IMAGO / Andreas Gora, Bearbeitung: netzpolitik.org Das Familienministerium arbeitet nach eigenen Angaben an einer nationalen Regelung für Altersgrenzen im Netz. Über ein Social-Media-Verbot könnte sie weit hinausgehen. Damit missachtet Familienministerin Karin Prien (CDU) die Empfehlungen ihres eigenen Expert*innen-Gremiums.",
+          "published": "Fri, 04 Sep 2026 09:16:00 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Studie zeigt: Mitarbeiter sind im Homeoffice produktiver - aus diesem einfachen Grund",
+          "link": "https://t3n.de/news/studie-zeigt-mitarbeiter-sind-im-homeoffice-produktiver-aus-diesem-einfachen-grund-1761499/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Immer mehr Unternehmen kürzen die Homeoffice-Tage oder holen ihre Teams sogar komplett zurück ins Büro. Für die Produktivität könnte das negative Folgen haben, wie eine Studie der University of Iowa nahelegt. weiterlesen auf t3n.de",
+          "published": "Fri, 4 Sep 2026 10:45:19 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Schultablets von Apple: Stadt darf andere Hersteller nicht ausschließen",
+          "link": "https://netzpolitik.org/2026/schultablets-von-apple-stadt-darf-andere-hersteller-nicht-ausschliessen/",
+          "summary": "Die Schüler:innen aus Datteln müssen noch eine Weile auf neue Geräte warten. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Mika Baumeister Im Streit zwischen einem Milliardenkonzern und der Stadt Datteln um die Austattung von Schulen mit Tablets hat nun das Oberlandesgericht entschieden.",
+          "published": "Fri, 04 Sep 2026 08:16:32 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
+          "link": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
+          "summary": "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.",
+          "published": "Thu, 03 Sep 2026 21:10:59 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
+          "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+          "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
+          "published": "Thu, 03 Sep 2026 19:52:06 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Mehr als Social-Media-Verbot: Familienministerin will Alterskontrollen ausweiten",
+        "Studie zeigt: Mitarbeiter sind im Homeoffice produktiver - aus diesem einfachen Grund",
+        "Schultablets von Apple: Stadt darf andere Hersteller nicht ausschließen"
+      ]
+    }
+  ]
+}
