@@ -1,0 +1,402 @@
+{
+  "date": "2026-09-05",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
+          "link": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
+          "summary": "FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
+          "published": "Fri, 04 Sep 2026 19:46:34 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
+          "link": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
+          "summary": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
+          "published": "Fri, 04 Sep 2026 19:01:02 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Kubernetes Promotes KYAML as a Safer, More Consistent Way to Work with Manifests",
+          "link": "https://www.infoq.com/news/2026/09/kubernetes-kyaml-manifests/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Kubernetes is encouraging developers to take a closer look at KYAML, a stricter dialect of YAML designed to make Kubernetes configuration more explicit, predictable, and less prone to common YAML errors. By Craig Risi",
+          "published": "Fri, 04 Sep 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Zukunft des MDR: „Die Schwergängigkeit bietet einen wirksamen Schutz“",
+          "link": "https://netzpolitik.org/2026/die-schwergaengigkeit-bietet-einen-wirksamen-schutz/",
+          "summary": "Was wird aus dem MDR in Sachsen-Anhalt? – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Stephen Monterroso, Bearbeitung: netzpolitik.org Mit schwarzen TV-Bildern und Funkstille warnt der MDR vor den Folgen einer AfD-Regierung in Sachsen-Anhalt. Wir haben mit dem Juristen Marc Bovermann über den Schutz des Rundfunks, die Rolle der Öffentlich-Rechtlichen und das Neutralitätsgebot gesprochen.",
+          "published": "Fri, 04 Sep 2026 11:10:20 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Copilot Code Review Reaches Azure Repos, Billed Per Review with Reporting Two Days Behind",
+          "link": "https://www.infoq.com/news/2026/09/copilot-code-review-azure-repos/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft opened GitHub Copilot code review for Azure Repos to all Azure DevOps customers, after acknowledging that many are not ready to migrate to GitHub. Reviews bill per use through the linked Azure subscription and appear in Cost Management 48 hours later. Budgets notify but do not stop reviews, and concurrency caps at five per organization. By Steef-Jan Wiggers",
+          "published": "Fri, 04 Sep 2026 10:01:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Google ships its third Gemini Flash model in six weeks",
+          "link": "https://thenewstack.io/google-ships-its-third-gemini-flash-model-in-six-weeks/",
+          "summary": "Google hasn&#8217;t released a Gemini Pro model in a while, but on Wednesday, the company launched yet another set of The post Google ships its third Gemini Flash model in six weeks appeared first on The New Stack .",
+          "published": "Wed, 02 Sep 2026 16:56:52 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "DSL vs. Kabel: Geschwindigkeiten, Routerwahl, Tarife | c’t uplink",
+          "link": "https://www.heise.de/news/DSL-vs-Kabel-Geschwindigkeiten-Routerwahl-Tarife-c-t-uplink-11442038.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Glasfaser ist toll, aber wenn man keines bekommt, bleibt nur Internet per DSL, TV-Kabel, 5G oder Starlink. Das vergleicht c’t-Redakteur Urs Mansmann im Podcast.",
+          "published": "2026-09-05T06:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Wie Dateiformate digitale Abhängigkeiten schaffen",
+          "link": "https://www.heise.de/news/ODF-statt-Lock-in-Wer-kontrolliert-unsere-Dateien-11441874.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Italo Vignoli von der Document Foundation erklärt, warum digitale Souveränität bei Dateiformaten beginnt und ODF proprietären Formaten überlegen ist.",
+          "published": "2026-09-04T17:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(8 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
+        "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
+        "Kubernetes Promotes KYAML as a Safer, More Consistent Way to Work with Manifests"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Twenty Years of jQuery: How a Little Library Rewired Web Development",
+          "link": "https://www.infoq.com/news/2026/09/jquery-20-years/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "jQuery, created by John Resig and released in 2006, is a JavaScript library that simplifies HTML manipulation, event handling, animation, and Ajax. It enabled easier web development by providing an accessible API across browsers. While its use has declined with the rise of modern frameworks, jQuery remains prevalent on a significant portion of websites today. By Daniel Curtis",
+          "published": "Fri, 04 Sep 2026 05:03:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Twenty Years of jQuery: How a Little Library Rewired Web Development"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Beyond Zero: Google Publishes Successor to BeyondCorp",
+          "link": "https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In a recent research paper, Google introduced Beyond Zero, a “security model for the AI era” that extends Zero Trust to autonomous AI agents. The new approach moves access decisions from the application level to individual resources and actions, combining static authorization controls with dynamic AI-driven decisions to enable machine-speed enforcement for humans and agents. By Renato Losio",
+          "published": "Sat, 05 Sep 2026 10:40:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Microsoft built a prompt injection detector. Then it caught a phishing campaign instead.",
+          "link": "https://thenewstack.io/unicode-ascii-smuggling-ai-pipelines/",
+          "summary": "Microsoft flagged a phishing campaign last week that exploits a gap in how machines read text. Attackers are slipping invisible The post Microsoft built a prompt injection detector. Then it caught a phishing campaign instead. appeared first on The New Stack .",
+          "published": "Fri, 04 Sep 2026 21:08:36 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Your next OpenAI API timeout might not be a timeout at all",
+          "link": "https://thenewstack.io/astra-api-safety-stops/",
+          "summary": "OpenAI said Tuesday that its upcoming Astra model is the company&#8217;s first to reach the Critical cybersecurity threshold in its The post Your next OpenAI API timeout might not be a timeout at all appeared first on The New Stack .",
+          "published": "Wed, 02 Sep 2026 20:13:54 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Sicherheitsarchitekturen robust gestalten",
+          "link": "https://www.heise.de/news/iX-Workshop-Sicherheitsarchitekturen-robust-gestalten-11415658.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Erfahren Sie in einer praxisnahen Simulation, wie Sie die Sicherheitsarchitektur Ihres Unternehmens bewerten, Schwachstellen erkennen und gezielt verbessern.",
+          "published": "2026-09-05T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "KI-Agenten in der Container-Security: Erfahrungen aus der Praxis",
+          "link": "https://www.heise.de/hintergrund/KI-Agenten-in-der-Container-Security-Erfahrungen-aus-der-Praxis-11400640.html",
+          "summary": "Zero-CVE-Images durch Agentic AI: Red Hats Hummingbird-Projekt zeigt, wie KI-Agenten Container-Security automatisieren – und wo Menschen unverzichtbar bleiben.",
+          "published": "2026-09-01T05:53:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Berlin: BSI warnt nach Datenveröffentlichung durch Hacker vor erhöhter Gefahr",
+          "link": "https://www.golem.de/news/berlin-bsi-warnt-nach-datenveroeffentlichung-durch-hacker-vor-erhoehter-gefahr-2609-212686.html",
+          "summary": "Berlin hat sich geweigert, Hackern für gestohlene Daten 30 Bitcoin zu zahlen - die Daten sind nun online gestellt worden. ( BSI , Phishing )",
+          "published": "2026-09-05T10:51:08+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Cyberangriff trifft Flughäfen: Hacker leaken Daten von Millionen von Fluggästen",
+          "link": "https://www.golem.de/news/cyberangriff-trifft-flughaefen-hacker-leaken-daten-von-millionen-von-fluggaesten-2609-212647.html",
+          "summary": "Eine Hackergruppe hat Daten eines britischen Flughafenbetreibers erbeutet und veröffentlicht. Mehr als 8 Millionen Menschen sind betroffen. ( Datenleck , Cyberwar )",
+          "published": "2026-09-04T10:18:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(7 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Beyond Zero: Google Publishes Successor to BeyondCorp",
+        "Microsoft built a prompt injection detector. Then it caught a phishing campaign instead.",
+        "Your next OpenAI API timeout might not be a timeout at all"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Interview: „Die Geheimdienstreform untergräbt das Vertrauen zwischen Ärzten und Patienten“",
+          "link": "https://netzpolitik.org/2026/die-geheimdienstreform-untergraebt-das-vertrauen-zwischen-aerzten-und-patienten/",
+          "summary": "Wer hört beim vertraulichen Arztgespräch künftig mit? – Arzt: Sasun Bughdaryan, Unsplash , Ohr: rawpixel.com , Montage: netzpolitik.org Die geplante Geheimdienstreform der Bundesregierung alarmiert die Ärzteschaft. Sie gefährde das Patientengeheimnis und damit die Gesundheitsversorgung selbst, warnt Carsten Dochow von der Bundesärztekammer im Gespräch mit netzpolitik.org.",
+          "published": "Mon, 31 Aug 2026 08:48:18 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(1 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Interview: „Die Geheimdienstreform untergräbt das Vertrauen zwischen Ärzten und Patienten“"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Mac-Programme unter Linux nutzen: So funktioniert das Projekt Darling",
+          "link": "https://t3n.de/news/mac-programme-linux-darling-projekt-1761573/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Möglichkeit, Programme für das Apple-Betriebssystem direkt auf einer quelloffenen Plattform auszuführen, klingt nach einem technischen Drahtseilakt. Ein ambitioniertes Open-Source-Projekt zeigt jedoch, dass dieses Drahtseil durchaus tragfähig sein kann. weiterlesen auf t3n.de",
+          "published": "Fri, 4 Sep 2026 15:30:33 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: From S3 to GPU in One Copy: Rethinking Data Loading for ML Training",
+          "link": "https://www.infoq.com/presentations/vortex-columnar-file-format-gpu-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Onur Satici explains how Vortex, an open-source columnar file format under the Linux Foundation, revolutionizes high-throughput data loading. He details how cascading lightweight encodings, layout-based segment pruning, and zero-copy memory pipelines eliminate CPU/NVMe bottlenecks to stream S3 data straight to GPUs at speeds up to 60 Gbps without requiring upfront data reprocessing. By Onur Satici",
+          "published": "Fri, 04 Sep 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Tether: Apple Continuity Like Experience Between iOS and Linux Desktop Machines",
+          "link": "https://www.infoq.com/news/2026/09/apple-continuity-linux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Zack Bartel has developed Tether, an open-source project designed to integrate Apple Continuity features with Linux workstations. Tether allows users to send iMessages, sync clipboards, and view iOS notifications directly on Linux. It uses secure local network communication and a custom Bluetooth stack to ensure reliable connectivity and robust security in cross-platform interactions. By Olimpiu Pop",
+          "published": "Fri, 04 Sep 2026 06:06:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Politische Werbung: Mit ihrem Verbot helfen Meta und Google der AfD",
+          "link": "https://netzpolitik.org/2026/politische-werbung-mit-ihrem-verbot-helfen-meta-und-google-der-afd/",
+          "summary": "Im September sind Landtagswahlen in drei Bundesländern (Symbolbild) – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Mika Baumeister Anstatt sich an neue EU-Regeln zu halten, haben Tech-Konzerne politische Werbung einfach verbannt. Dahinter steckt Kalkül. Politiker:innen sollten deshalb nicht darüber diskutieren, wann sie endlich wieder bei Google und Meta werben können, sondern wie wir demokratischere Soziale Medien bekommen. Ein Kommentar.",
+          "published": "Wed, 02 Sep 2026 15:32:04 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Smart Glasses und Barrierefreiheit: „Meta hat kein Blinden-Hilfsmittel entwickelt“",
+          "link": "https://netzpolitik.org/2026/smart-glasses-und-barrierefreiheit-meta-hat-kein-blinden-hilfsmittel-entwickelt/",
+          "summary": "Meta bewirbt seine Brillen gerne als Werkzeug für Barrierefreiheit. – Alle Rechte vorbehalten: Imago / ZUMA Press Wire KI-Brillen geraten derzeit als Werkzeuge für heimliche Überwachung und digitale Gewalt in die Kritik. Rufe nach einem Verbot werden laut. Für Menschen mit einer Sehbehinderung können sie hingegen im Alltag vieles leichter machen. Wie gehen sie mit diesem Konflikt um?",
+          "published": "Mon, 31 Aug 2026 13:37:00 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Mac-Programme unter Linux nutzen: So funktioniert das Projekt Darling",
+        "Presentation: From S3 to GPU in One Copy: Rethinking Data Loading for ML Training",
+        "Tether: Apple Continuity Like Experience Between iOS and Linux Desktop Machines"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Presentation: A Few Predicted Talks From QConAI 2030",
+          "link": "https://www.infoq.com/presentations/ai-predictions-2030/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Meryem Arik discusses her predictions for software engineering in 2030. She explains how token spend management, parallel agent infrastructure, and non-technical builders will reshape IT. She shares insights on agent-driven vendor decisions, upcoming regulatory hurdles, and why software engineers must pivot from pure coding skills toward product leadership and multi-agent coordination. By Meryem Arik",
+          "published": "Sat, 05 Sep 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Beste KI fürs Studium: Warum Gemini bei Hausarbeiten besser als Claude oder ChatGPT ist",
+          "link": "https://t3n.de/news/ki-studium-hausarbeiten-gemini-chatgpt-claude-vergleich-1759919/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI ist für Student:innen längst zu einem Standardwerkzeug geworden. Aber welches Tool schneidet bei Textaufgaben am besten ab? In einem Blindtest sind drei Anbieter gegeneinander angetreten – das sind die Ergebnisse. weiterlesen auf t3n.de",
+          "published": "Sat, 5 Sep 2026 11:25:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Agenten außer Kontrolle: Wenn KIs beim Hacken über Ethik streiten",
+          "link": "https://t3n.de/news/openai-ki-agenten-ethik-hack-1760987/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die veröffentlichten Chat-Protokolle des Sandbox-Ausbruchs bei OpenAI lesen sich wie ein Thriller. Interne KI-Modelle haben nicht nur eine fremde Plattform gehackt, sondern dabei auch regelrecht ethische Debatten untereinander geführt. weiterlesen auf t3n.de",
+          "published": "Sat, 5 Sep 2026 09:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "“Sorry for the messy rollout”: OpenAI launches GPT-6 Astra to most paying users a day after its unveiling",
+          "link": "https://thenewstack.io/gpt6-astra-developer-access-delayed/",
+          "summary": "Update: As of 6:30 p.m. Eastern on Friday, September 4, GPT-6 Astra was available on ChatGPT for all paying users The post &#8220;Sorry for the messy rollout&#8221;: OpenAI launches GPT-6 Astra to most paying users a day after its unveiling appeared first on The New Stack .",
+          "published": "Fri, 04 Sep 2026 23:42:24 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+          "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+          "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+          "published": "Fri, 04 Sep 2026 22:17:36 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+          "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+          "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
+          "published": "Fri, 04 Sep 2026 16:22:18 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "OpenAI will sell you Astra, but not the system that scored 98.6% on ARC-AGI-3",
+          "link": "https://thenewstack.io/openai-astra-harness-arc-agi-3/",
+          "summary": "Investor Matt Turck, whose fantastic podcast has hosted the people who built ARC-AGI, summed up Astra’s blockbuster benchmarks with three The post OpenAI will sell you Astra, but not the system that scored 98.6% on ARC-AGI-3 appeared first on The New Stack .",
+          "published": "Fri, 04 Sep 2026 15:25:17 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Guter Traffic, böser Traffic? So sinnvoll ist eine Ausweispflicht für Bots",
+          "link": "https://t3n.de/news/guter-traffic-boeser-traffic-so-sinnvoll-ist-eine-ausweispflicht-fuer-bots-1759642/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Zeitalter von KI-Agenten ist nicht mehr klar, wer mit welcher Absicht automatisiert Seiten im Netz aufruft. Eine digitale Ausweispflicht wird als Lösung diskutiert, beobachtet unsere Kolumnistin – und warnt vor den Folgen. weiterlesen auf t3n.de",
+          "published": "Fri, 4 Sep 2026 16:00:31 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(8 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: A Few Predicted Talks From QConAI 2030",
+        "Beste KI fürs Studium: Warum Gemini bei Hausarbeiten besser als Claude oder ChatGPT ist",
+        "KI-Agenten außer Kontrolle: Wenn KIs beim Hacken über Ethik streiten"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "KI-Boom als Risiko: Norwegens Staatsfonds spielt Crash-Szenarien durch",
+          "link": "https://www.heise.de/news/KI-Boom-als-Risiko-Norwegens-Staatsfonds-spielt-Crash-Szenarien-durch-11441868.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der norwegische Staatsfonds spielt Krisenszenarien für sein Aktienportfolio durch. Das zeigt, welche Risiken auch ETF-Anleger im Blick behalten sollten.",
+          "published": "2026-09-04T14:33:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kurz vor der Blizzcon: Blizzard deutet neues Starcraft-Spiel an",
+          "link": "https://www.golem.de/news/kurz-vor-der-blizzcon-blizzard-deutet-neues-starcraft-spiel-an-2609-212675.html",
+          "summary": "Nach jahrelanger Pause verdichten sich die Hinweise auf ein neues Starcraft. Statt Starcraft 3 könnte Blizzard allerdings einen Shooter vorstellen. ( Starcraft , Blizzard )",
+          "published": "2026-09-04T16:29:07+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;",
+          "link": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
+          "summary": "GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's \"core DNA,\" after a proposed $285 million acquisition by Starman was announced earlier this week. He claims the merger puts GoPro in a better position to continue developing its content creation tech, after saying in the deal announcement [&#8230;]",
+          "published": "2026-09-04T14:00:45-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KI-Boom als Risiko: Norwegens Staatsfonds spielt Crash-Szenarien durch",
+        "Kurz vor der Blizzcon: Blizzard deutet neues Starcraft-Spiel an",
+        "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "How to find failures without drowning in tracing data",
+          "link": "https://thenewstack.io/tracing-data-overload-sampling/",
+          "summary": "A metrics dashboard can tell you a system&#8217;s health with ease. A log can help you understand a discrete failure. The post How to find failures without drowning in tracing data appeared first on The New Stack .",
+          "published": "Thu, 03 Sep 2026 20:17:25 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "How to find failures without drowning in tracing data"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "KW 36: Die Woche, in der uns flau im Magen war",
+          "link": "https://netzpolitik.org/2026/kw-36-die-woche-in-der-uns-flau-im-magen-war/",
+          "summary": "Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 36. Kalenderwoche geht zu Ende. Wir haben 16 neue Texte mit insgesamt 138.777 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 05 Sep 2026 05:35:18 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "QR-Musikkassette: Ein ganzes Lied auf Papier speichern – so funktioniert die Offline-Technologie",
+          "link": "https://t3n.de/news/qr-musikkassette-lied-speicherung-offline-1759093/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Entwickler Makestreme hat ein ganzes Lied auf ein einziges Blatt Papier gedruckt. Mithilfe neuronaler Netze hat er dafür eine MP3 so stark komprimiert, dass sie in mehrere QR-Codes passt – und ganz ohne Internetzugang anhörbar ist. weiterlesen auf t3n.de",
+          "published": "Sat, 5 Sep 2026 06:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+          "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+          "summary": "Broadcom admits it put “too big a focus on VCF.”",
+          "published": "Fri, 04 Sep 2026 17:35:02 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Schlaf-Forscher räumen auf: Nicht jedes Nickerchen ist gleich – und das ist das Problem",
+          "link": "https://t3n.de/news/nickerchen-wirkung-schlaf-forscher-studien-1761642/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Schlaf-Forscher:innen haben sich intensiv mit den Auswirkungen von Nickerchen auf unser Wohlbefinden beschäftigt. Ihr Fazit: Es gibt keine allgemeingültige Antwort, die zu allen passt. weiterlesen auf t3n.de",
+          "published": "Fri, 4 Sep 2026 19:00:08 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Trump White House just tossed a grenade into international space relations",
+          "link": "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
+          "summary": "\"Let me be clear: America is not only welcome—we want you there.\"",
+          "published": "Fri, 04 Sep 2026 15:46:33 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Die neue Garmin Fenix 9 ist da: Warum sich das Vorgängermodell trotzdem noch lohnt",
+          "link": "https://t3n.de/news/die-neue-garmin-fenix-9-ist-da-warum-sich-das-vorgaengermodell-trotzdem-noch-lohnt-1761467/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit der Fenix-9-Serie hat Garmin neue Funktionen eingeführt. Das Besondere: Einige davon sind per Update auch auf älteren Modellen verfügbar. Das Vorgängermodell Fenix 8 kann sich deshalb jetzt doppelt lohnen. weiterlesen auf t3n.de",
+          "published": "Fri, 4 Sep 2026 15:00:57 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
+          "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+          "summary": "Fairphone's CTO explains how and why the Dutch company builds a different kind of smartphone.",
+          "published": "Fri, 04 Sep 2026 11:00:05 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Google Workspace: Die neuen Sprach-KI-Funktionen für Gmail, Docs und Keep",
+          "link": "https://t3n.de/news/google-workspace-die-neuen-sprach-ki-funktionen-fuer-gmail-docs-und-keep-1761513/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Unternehmen erweitert Workspace um neue KI-Funktionen, die sich per Sprache bedienen lassen. In Gmail, Docs und Keep können Nutzer:innen künftig nicht nur diktieren, sondern direkt mit den Anwendungen sprechen. weiterlesen auf t3n.de",
+          "published": "Fri, 4 Sep 2026 12:10:23 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(8 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KW 36: Die Woche, in der uns flau im Magen war",
+        "QR-Musikkassette: Ein ganzes Lied auf Papier speichern – so funktioniert die Offline-Technologie",
+        "“Trust, not features, is the real deficit”: VMware tries to appease SMBs"
+      ]
+    }
+  ]
+}
