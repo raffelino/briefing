@@ -1,0 +1,270 @@
+{
+  "date": "2026-09-07",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "heise-Angebot: c’t-Workshop: Observability für Kubernetes – Systeme verstehen, Fehler finden",
+          "link": "https://www.heise.de/news/c-t-Workshop-Observability-fuer-Kubernetes-Systeme-verstehen-Fehler-finden-11439283.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Metriken, Logs und Distributed Traces: Der Workshop zeigt, wie Sie mit Loki, Grafana, Tempo und Mimir Fehlverhalten erkennen und Ursachen eingrenzen.",
+          "published": "2026-09-07T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Mit Kubernetes zur effizienten Container-Orchestrierung",
+          "link": "https://www.heise.de/news/iX-Workshop-Mit-Kubernetes-zur-effizienten-Container-Orchestrierung-11425974.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Von der Automatisierung bis zur Wartung – ein praxisorientierter Einstieg in die Container-Orchestrierung mit Kubernetes.",
+          "published": "2026-09-07T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Video: Warum ihr nicht auf Wi-Fi 8 warten solltet",
+          "link": "https://www.heise.de/news/Video-Warum-ihr-nicht-auf-Wi-Fi-8-warten-solltet-11435719.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Wir erklären im Video einmal verständlich, was die neuen WLAN-Standards tatsächlich von den alten unterscheidet und wo die echten Geschwindigkeitsturbos warten.",
+          "published": "2026-09-06T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Wie Dateiformate digitale Abhängigkeiten schaffen",
+          "link": "https://www.heise.de/news/ODF-statt-Lock-in-Wer-kontrolliert-unsere-Dateien-11441874.html",
+          "summary": "Italo Vignoli von der Document Foundation erklärt, warum digitale Souveränität bei Dateiformaten beginnt und ODF proprietären Formaten überlegen ist.",
+          "published": "2026-09-04T15:00:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Kubermatic AI: Teure GPUs besser nutzen – auch Team-übergreifend",
+          "link": "https://www.heise.de/news/Kubermatic-AI-Teure-GPUs-besser-nutzen-auch-Team-uebergreifend-11438811.html",
+          "summary": "Die Kubernetes-native KI-Plattform Kubermatic AI soll GPU-Ressourcen konsolidieren und Modelle als geteilten Dienst über Teams hinweg bereitstellen.",
+          "published": "2026-09-03T15:05:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: c’t-Workshop: Observability für Kubernetes – Systeme verstehen, Fehler finden",
+        "heise-Angebot: iX-Workshop: Mit Kubernetes zur effizienten Container-Orchestrierung",
+        "Video: Warum ihr nicht auf Wi-Fi 8 warten solltet"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "vlt 1.0 Ships as a Drop-in npm Replacement with Phased Installs, Graph Queries, and Malware-Blocking",
+          "link": "https://www.infoq.com/news/2026/09/vlt-npm-replacement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "vlt, created by the original npm team, has launched version 1.0 as a drop-in replacement for npm. It features phased installations to prevent automatic script execution, a queryable dependency graph with over 60 selectors, and hosted registries that block malicious packages. The tool aims to enhance security and streamline the JavaScript development process. By Daniel Curtis",
+          "published": "Mon, 07 Sep 2026 06:31:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Java News Roundup: TornadoVM 6, JReleaser, LangChain4j, Java Operator SDK, JHipster, Yupiik Fusion",
+          "link": "https://www.infoq.com/news/2026/09/java-news-roundup-aug31-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for August 31st, 2026, features news highlighting: the GA release of TornadoVM 6.0; point releases of JReleaser, LangChain4j, Java Operator SDK, JHipster, Kotlin Toolchain and Yupiik Fusion; and maintenance releases of Micronaut and GraalVM Development Kit. By Michael Redlich",
+          "published": "Mon, 07 Sep 2026 02:30:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "vlt 1.0 Ships as a Drop-in npm Replacement with Phased Installs, Graph Queries, and Malware-Blocking",
+        "Java News Roundup: TornadoVM 6, JReleaser, LangChain4j, Java Operator SDK, JHipster, Yupiik Fusion"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "BSI warnt nach Daten-Leak vor erhöhter Cyber-Bedrohung",
+          "link": "https://www.heise.de/news/BSI-warnt-nach-Daten-Leak-vor-erhoehter-Cyber-Bedrohung-11442510.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Nach einem großen Datenleak warnt das BSI vor gezielten Phishing-Angriffen und rät zu Wachsamkeit. Auch mit Blick auf die anstehenden Wahlen gibt es Sorgen.",
+          "published": "2026-09-05T18:27:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "KI-Agenten in der Container-Security: Erfahrungen aus der Praxis",
+          "link": "https://www.heise.de/hintergrund/KI-Agenten-in-der-Container-Security-Erfahrungen-aus-der-Praxis-11400640.html",
+          "summary": "Zero-CVE-Images durch Agentic AI: Red Hats Hummingbird-Projekt zeigt, wie KI-Agenten Container-Security automatisieren – und wo Menschen unverzichtbar bleiben.",
+          "published": "2026-09-01T05:53:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Zero Trust in Microsoft 365 sicher implementieren",
+          "link": "https://www.golem.de/news/anzeige-zero-trust-in-microsoft-365-sicher-implementieren-2609-212696.html",
+          "summary": "Da Cloud-Umgebungen keine klassischen Netzwerkgrenzen mehr kennen, wird Zero Trust zum zentralen Sicherheitsmodell. Ein Workshop zeigt die praktische Umsetzung in Microsoft 365. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-09-07T07:15:08+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Berlin: BSI warnt nach Datenveröffentlichung durch Hacker vor erhöhter Gefahr",
+          "link": "https://www.golem.de/news/berlin-bsi-warnt-nach-datenveroeffentlichung-durch-hacker-vor-erhoehter-gefahr-2609-212686.html",
+          "summary": "Berlin hat sich geweigert, Hackern für gestohlene Daten 30 Bitcoin zu zahlen - die Daten sind nun online gestellt worden. ( BSI , Phishing )",
+          "published": "2026-09-05T10:51:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "BSI warnt nach Daten-Leak vor erhöhter Cyber-Bedrohung",
+        "KI-Agenten in der Container-Security: Erfahrungen aus der Praxis",
+        "Anzeige: Zero Trust in Microsoft 365 sicher implementieren"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "CERN Renounces RHEL in Favor of  Debian for Its Accelerator Controls Infrastructure",
+          "link": "https://www.infoq.com/news/2026/09/cern-debian-infra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "CERN engineers announced a shift from Red Hat-based distributions to Debian for its accelerator control systems. This decision stems from Red Hat's tightening compiler mandates, which threatened legacy hardware. The transition, focused on 2,200 specialized control machines, is set for completion in late 2026, while CERN's other systems will remain with Red Hat and AlmaLinux. By Olimpiu Pop",
+          "published": "Mon, 07 Sep 2026 07:07:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "How Figma Uses AI Agents for Security",
+          "link": "https://www.infoq.com/news/2026/09/figma-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The engineering team at software company Figma recently documented how they built AI agents to help their security team investigate alerts, search past incidents, check company systems, and even prepare code fixes. The agents learn from previous investigations, reducing repetitive work and helping engineers resolve complex alerts about 70% faster. By Renato Losio",
+          "published": "Sun, 06 Sep 2026 06:59:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(2 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "CERN Renounces RHEL in Favor of  Debian for Its Accelerator Controls Infrastructure",
+        "How Figma Uses AI Agents for Security"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Übernahme durch OpenAIs Agenten: Diese deutschsprachige Webseite wurde mit tausenden KI-Beiträgen geflutet",
+          "link": "https://t3n.de/news/openai-ki-agenten-deutschsprachige-webseite-tausende-beitraege-1761774/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die KI-Agenten von OpenAI sollen einen Monat lang autonom und unbemerkt auf einer deutschsprachigen Webseite tausende Beiträge erstellt haben. Was sie dort wollten und wie OpenAI auf die Aktion der Künstlichen Intelligenz reagiert. weiterlesen auf t3n.de",
+          "published": "Mon, 7 Sep 2026 09:17:16 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Was entscheidet, ob ein Energiekunde bleibt – wenn nicht der Preis?",
+          "link": "https://t3n.de/news/cx-kundenbindung-energiebranche-1760758/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Tarife werden vergleichbarer, Anbieterwechsel einfacher. Wer glaubt, das mit dem nächsten Preismodell zu lösen, denkt zu kurz. Die eigentliche Frage ist eine andere – und sie verändert, wie Energieunternehmen über ihre Kunden nachdenken müssen. weiterlesen auf t3n.de",
+          "published": "Mon, 7 Sep 2026 09:05:24 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Hugging-Face-Übernahme: Diese 2 Eastereggs hat Nvidia im Kaufpreis versteckt",
+          "link": "https://t3n.de/news/hugging-face-nvidia-eastereggs-1761758/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nvidia hat die Übernahme der KI-Plattform Hugging Face offiziell gemacht. Der schräge Kaufpreis von exakt 12.930.300.000 US-Dollar gab der Tech-Gemeinde allerdings zunächst Rätsel auf. Jetzt ist klar: Darin sind zwei Eastereggs versteckt. weiterlesen auf t3n.de",
+          "published": "Sun, 6 Sep 2026 22:34:17 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Bankraub mit ChatGPT geplant: Täter vergaß Maske – und trug rote Nike-Pantoletten",
+          "link": "https://t3n.de/news/chatgpt-bankraub-planung-nike-pantoletten-verurteilung-1759174/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die KI war keine große Hilfe: Der Täter betrat die Filiale unmaskiert und konnte auch wegen seiner auffälligen Nike-Pantoletten schnell überführt werden. Jetzt muss er für mehr als zehn Jahre ins Gefängnis. weiterlesen auf t3n.de",
+          "published": "Sun, 6 Sep 2026 19:45:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Sprechen statt Tippen: So will Googles Gemini Spark deinen Arbeitsalltag verändern",
+          "link": "https://t3n.de/news/gemini-spark-google-ki-agent-arbeitsalltag-automatisierung-1757580/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Auf KI-Chatbots folgen KI-Agenten, das verändert die Arbeitsweise. Google hat dafür Gemini Spark bereits in den USA eingeführt, die Veröffentlichung in Deutschland folgt noch in diesem Jahr. Bei t3n MeisterPrompter gibt es einen Einblick zur Nutzung. weiterlesen auf t3n.de",
+          "published": "Sun, 6 Sep 2026 16:25:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Übernahme durch OpenAIs Agenten: Diese deutschsprachige Webseite wurde mit tausenden KI-Beiträgen geflutet",
+        "Was entscheidet, ob ein Energiekunde bleibt – wenn nicht der Preis?",
+        "Hugging-Face-Übernahme: Diese 2 Eastereggs hat Nvidia im Kaufpreis versteckt"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "China-E-Autos: Volle Punktzahl beim Crashtest Euro NCAP",
+          "link": "https://www.golem.de/news/china-e-autos-volle-punktzahl-beim-crashtest-euro-ncap-2609-212700.html",
+          "summary": "Drei Elektroautos aus China, der GAC Aion UT, der Geely E2 und der Leapmotor B05, erreichen bei Euro NCAP jeweils fünf Sterne. ( Elektroauto , Auto )",
+          "published": "2026-09-07T10:15:01+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "An Amazon cargo plane crashed at Miami International Airport",
+          "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+          "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident, the FAA released a statement [&#8230;]",
+          "published": "2026-09-06T16:56:38-04:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Europe has its first commercial orbital rocket",
+          "link": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
+          "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectrum into low Earth orbit from a Norwegian spaceport. [&#8230;]",
+          "published": "2026-09-06T15:04:22-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "China-E-Autos: Volle Punktzahl beim Crashtest Euro NCAP",
+        "An Amazon cargo plane crashed at Miami International Airport",
+        "Europe has its first commercial orbital rocket"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Project Zenith: Diese Version von Windows 11 ist für High-End-PCs gedacht",
+          "link": "https://t3n.de/news/microsoft-project-zenith-windows-11-entwickler-1761792/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Microsoft hat mit Project Zenith eine überarbeitete Version von Windows 11 vorgestellt, die auf leistungsstarken PCs für Entwickler ausgeliefert wird. weiterlesen auf t3n.de",
+          "published": "Mon, 7 Sep 2026 10:22:23 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Danke an die globale Elite“: Das sind die Gewinner des Ig Nobelpreises für skurrile Forschung",
+          "link": "https://t3n.de/news/globale-elite-skurrilste-forschung-1761511/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Seit mehr als 30 Jahren wird der Ig Nobelpreis vergeben. Er ehrt skurrile Forschung in verschiedenen Disziplinen, die amüsieren und nachdenklich stimmen soll. Ein Einblick in die Zeremonie mit ihren kuriosen Traditionen. weiterlesen auf t3n.de",
+          "published": "Mon, 7 Sep 2026 08:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Lebenslauf-Check mit KI: Diese 6 Prompts zeigen dir, was du übersehen hast",
+          "link": "https://t3n.de/news/bewerbung-lebenslauf-ki-prompts-versteckte-chancen-potenzial-1758125/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Lebenslauf ist so etwas wie die Visitenkarte des eigenen beruflichen Werdegangs, seinen Inhalt kennt man in der Regel in- und auswendig. Aber manchmal sind weiterlesen auf t3n.de",
+          "published": "Sun, 6 Sep 2026 21:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Premiere für Isar Aerospace: Was der erfolgreiche Spectrum-Flug für die Raumfahrt bedeutet",
+          "link": "https://t3n.de/news/isar-aerospace-spectrum-1761750/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit dem erfolgreichen Start seiner Spectrum-Rakete hat Isar Aerospace deutsche und europäische Raumfahrtgeschichte geschrieben. Vom norwegischen Weltraumbahnhof Andøya aus erreichte Spectrum den Orbit und setzte mehrere Satelliten aus. weiterlesen auf t3n.de",
+          "published": "Sun, 6 Sep 2026 21:03:18 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Versteckte Befehle im Lebenslauf: Wie Bewerber per Prompt-Injection aus der Masse herausstechen wollen",
+          "link": "https://t3n.de/news/versteckte-befehle-im-lebenslauf-wie-bewerber-per-prompt-injection-aus-der-masse-herausstechen-wollen-1761743/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Jobsuchende sind vom aktuellen Arbeitsmarkt zunehmend frustriert. Um ihre Chancen zu erhöhen, greifen manche zu unethischen Mitteln und verstecken heimlich KI-Anweisungen in ihren Bewerbungsunterlagen. weiterlesen auf t3n.de",
+          "published": "Sun, 6 Sep 2026 19:54:42 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Project Zenith: Diese Version von Windows 11 ist für High-End-PCs gedacht",
+        "„Danke an die globale Elite“: Das sind die Gewinner des Ig Nobelpreises für skurrile Forschung",
+        "Lebenslauf-Check mit KI: Diese 6 Prompts zeigen dir, was du übersehen hast"
+      ]
+    }
+  ]
+}
