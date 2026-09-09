@@ -1,0 +1,262 @@
+{
+  "date": "2026-09-09",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Azure Virtual Desktop Hybrid Reaches GA with Licensing Details Unpublished",
+          "link": "https://www.infoq.com/news/2026/09/avd-hybrid-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has made Azure Virtual Desktop Hybrid generally available. Session hosts run on customer hardware through Azure Arc while brokering stays in Azure. The Hybrid service license is unpriced, Windows Server support requires RDS CALs with Software Assurance, and multi-session Windows is not supported at all. By Steef-Jan Wiggers",
+          "published": "Wed, 09 Sep 2026 08:54:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Monopolgefahr im KI-Sektor? An diesen Firmen ist Nvidia beteiligt",
+          "link": "https://t3n.de/news/monopolgefahr-im-ki-sektor-an-diesen-firmen-ist-nvidia-beteiligt-1761331/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer KI-Chips braucht, kommt meist nicht um Nvidia herum. Seine Milliardeninvestitionen in die gesamte KI-Wertschöpfungskette könnten diese Abhängigkeit weiter v weiterlesen auf t3n.de",
+          "published": "Tue, 8 Sep 2026 16:45:48 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Dieses Wearable misst deine Gehirnaktivitäten – wozu das gut sein soll",
+          "link": "https://t3n.de/news/dieses-wearable-misst-deine-gehirnaktivitaeten-wozu-das-gut-sein-soll-1762074/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Startup Atlas hat ein Mini-EEG auf den Markt gebracht. Damit will es seinen Kund:innen Einblicke liefern, in welchen Situationen ihre Leistungsfähigkeit besonders hoch ist und wann sie abnimmt. weiterlesen auf t3n.de",
+          "published": "Tue, 8 Sep 2026 15:30:12 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Pentagon-Leaks: Die verheimlichten Verträge der KI-Giganten",
+          "link": "https://www.heise.de/news/Pentagon-Leaks-Die-verheimlichten-Vertraege-der-KI-Giganten-11445865.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "400 Seiten Enthüllungsakten zeigen: Google, OpenAI & Co. liefern nicht nur Software ans US-Militär, sondern gestalten die globale Pentagon-Kriegsstrategie mit.",
+          "published": "2026-09-08T18:57:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "AWS ECS ohne Webkonsole verwalten",
+          "link": "https://www.heise.de/news/AWS-ECS-ohne-Webkonsole-verwalten-11445555.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das Terminal-Tool e1s für Amazon ECS ermöglicht in Version 2.0.0 den Wechsel von AWS-Profilen und Regionen im laufenden Betrieb.",
+          "published": "2026-09-08T15:38:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Azure Virtual Desktop Hybrid Reaches GA with Licensing Details Unpublished",
+        "Monopolgefahr im KI-Sektor? An diesen Firmen ist Nvidia beteiligt",
+        "Dieses Wearable misst deine Gehirnaktivitäten – wozu das gut sein soll"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Das neue Securtiy-Zeitalter: Wie KI die IT-Sicherheitslandschaft für immer verändert hat",
+          "link": "https://t3n.de/news/cybersecurity-wie-autonome-ki-agenten-server-hacken-und-warum-das-erst-der-anfang-ist-1761327/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Schlagzeilen werden von hackenden, autonomen KI-Agenten beherrscht. Doch KI könnte die IT-Sicherheit noch auf vielen anderen Ebenen verändern. Was auf uns z weiterlesen auf t3n.de",
+          "published": "Tue, 8 Sep 2026 15:30:51 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Berlin will IT-Sicherheit nach Cyberangriff verstärken",
+          "link": "https://www.heise.de/news/Berlin-will-IT-Sicherheit-nach-Cyberangriff-verstaerken-11446087.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Nach dem Cyberangriff setzt der Berliner Senat auf Verbesserungen bei der IT-Sicherheit. Für Betroffene des Datenklaus soll es eine Anlaufstelle geben.",
+          "published": "2026-09-09T08:34:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(2 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Das neue Securtiy-Zeitalter: Wie KI die IT-Sicherheitslandschaft für immer verändert hat",
+        "Berlin will IT-Sicherheit nach Cyberangriff verstärken"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Überwachungsbrillen: Warum deutsche Gerichte Smart Glasses nicht verbieten",
+          "link": "https://netzpolitik.org/2026/ueberwachungsbrillen-warum-deutsche-gerichte-smart-glasses-nicht-verbieten/",
+          "summary": "Viele Gerichte regeln das Filmen per Hausrecht, wie hier am Kriminalgericht Moabit in Berlin. Heimlich filmen, mithören, sich zuflüstern lassen: Mit KI-Brillen bleibt das unauffällig. Andere Länder reagieren mit Verboten in Gerichtsgebäuden, Besucher*innen müssen die Brillen am Eingang abgeben. Die deutschen Justizministerien halten dagegen die bestehenden Regeln für ausreichend.",
+          "published": "Wed, 09 Sep 2026 09:02:17 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "heise+ | Odysseus AI im Test: KI-Arbeitsplatz mit lokalen Modellen von PewDiePie",
+          "link": "https://www.heise.de/tests/Odysseus-AI-im-Test-KI-Arbeitsplatz-mit-lokalen-Modellen-von-PewDiePie-11413942.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Odysseus AI verspricht Mail, Kalender und Agenten mit lokalen Sprachmodellen. Wir haben getestet, ob das auch auf Alltagsrechnern funktioniert.",
+          "published": "2026-09-08T17:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Trickfilmserie kritisiert Trump: South Park wird zu South America",
+          "link": "https://www.golem.de/news/trickfilmserie-kritisiert-trump-south-park-wird-zu-south-america-2609-212798.html",
+          "summary": "Die Kultserie South Park antwortet auf Trumps Umbenennungswut mit einer eigenen Umbenennung. ( South Park , Bundesregierung )",
+          "published": "2026-09-09T09:40:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Überwachungsbrillen: Warum deutsche Gerichte Smart Glasses nicht verbieten",
+        "heise+ | Odysseus AI im Test: KI-Arbeitsplatz mit lokalen Modellen von PewDiePie",
+        "Trickfilmserie kritisiert Trump: South Park wird zu South America"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "OpenAIs KI soll eines der großen Mathematikprobleme gelöst haben: Wurde dabei mit unlauteren Mitteln gearbeitet?",
+          "link": "https://t3n.de/news/openai-ki-mathematikproblem-geloest-unlautere-mittel-1762243/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "OpenAIs KI-Agenten sollen eines der großen Mathematikprobleme gelöst haben. Allerdings kommt die Ankündigung mit einem großen Haken. Es gibt Anschuldigungen, dass OpenAI nicht ohne externen Antrieb auf die Lösung hingearbeitet hat. weiterlesen auf t3n.de",
+          "published": "Wed, 9 Sep 2026 10:00:23 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Agenten gegen Influencer: Wer beeinflusst künftig am meisten den Kauf?",
+          "link": "https://t3n.de/news/ki-agenten-influencer-kauf-1762019/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Influencer empfehlen Produkte, erklären ihre Vorzüge und schaffen im besten Fall Vertrauen. KI-Agenten können ebenfalls beraten – allerdings hochgradig personal weiterlesen auf t3n.de",
+          "published": "Wed, 9 Sep 2026 07:30:31 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Wenn der Berg ins Rutschen gerät: Wie weit sind Warnsysteme vor dieser Naturgefahr in Europa?",
+          "link": "https://t3n.de/news/berg-warnsysteme-europa-naturgefahr-1761860/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Während die Bergungsarbeiten nach der Sturzflut im Himalaya weitergehen, ist in Europa die Frage, inwiefern sich solche massiven Abbrüche von Fels und Schlamm a weiterlesen auf t3n.de",
+          "published": "Wed, 9 Sep 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anthropic promised 20x more usage. Then developers hit a weekly ceiling.",
+          "link": "https://thenewstack.io/anthropic-claude-max-lawsuit/",
+          "summary": "Anthropic sells its top-tier Claude Max subscription with the promise of 20 times more usage than its $20-a-month Pro plan. The post Anthropic promised 20x more usage. Then developers hit a weekly ceiling. appeared first on The New Stack .",
+          "published": "Tue, 08 Sep 2026 22:16:28 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "DeepSeek is hiring 150 engineers, and none of them will touch a model",
+          "link": "https://thenewstack.io/deepseek-dsec-agent-hiring/",
+          "summary": "Hundreds of thousands of AI agent sandboxes can already run concurrently on a single DeepSeek cluster. Now the company is The post DeepSeek is hiring 150 engineers, and none of them will touch a model appeared first on The New Stack .",
+          "published": "Tue, 08 Sep 2026 19:01:08 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "OpenAIs KI soll eines der großen Mathematikprobleme gelöst haben: Wurde dabei mit unlauteren Mitteln gearbeitet?",
+        "KI-Agenten gegen Influencer: Wer beeinflusst künftig am meisten den Kauf?",
+        "Wenn der Berg ins Rutschen gerät: Wie weit sind Warnsysteme vor dieser Naturgefahr in Europa?"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
+          "link": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
+          "summary": "Director Takashi Yamazaki's hotly anticipated sequel takes place two years after 2023 film's events.",
+          "published": "Tue, 08 Sep 2026 18:53:23 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "The secret to protecting next-gen spacecraft might be eggshells",
+          "link": "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/",
+          "summary": "3D-printed aluminum eggshell arrays filled with water proved more effective at impact resistance.",
+          "published": "Tue, 08 Sep 2026 16:20:58 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "30 Jahre „Crash Bandicoot“: Der Wirbelwind, der die PlayStation eroberte",
+          "link": "https://www.heise.de/hintergrund/30-Jahre-Crash-Bandicoot-Der-Wirbelwind-der-die-PlayStation-eroberte-11444910.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Crash Bandicoot feiert seinen 30. Geburtstag. Wir blicken zurück auf den ungewöhnlichen Helden und den Plattformer, der Naughty Dog zum Giganten machte.",
+          "published": "2026-09-09T11:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "„Größte Verschlechterung seit 29 Jahren“: Google passt für Europa die Suche an",
+          "link": "https://www.heise.de/news/Groesste-Verschlechterung-seit-29-Jahren-Google-passt-fuer-Europa-die-Suche-an-11446040.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Im Juli hat die EU Google wegen DMA-Verstößen bestraft und Änderungen verlangt. Für die Suche kommt der Konzern dem nun nach und gibt sich extrem unzufrieden.",
+          "published": "2026-09-09T07:05:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(4 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
+        "The secret to protecting next-gen spacecraft might be eggshells",
+        "30 Jahre „Crash Bandicoot“: Der Wirbelwind, der die PlayStation eroberte"
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "Presentation: Platform Engineering in the Age of AI",
+          "link": "https://www.infoq.com/presentations/ai-platform-engineering-roundtable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The panelists explain how platform teams adapt to support AI-assisted engineering, highlighting which capabilities belong in the platform. They discuss trade-offs between standardization and developer autonomy, while sharing strategies to manage AI tooling, security guardrails, and shifting workflows. By Stéphane Di Cesare, Davide de Paolis, Stephen Cihak, Camila Macedo, Renato Losio",
+          "published": "Tue, 08 Sep 2026 14:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Platform Engineering / IDPs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Platform Engineering in the Age of AI"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Von KI entwickelt: Zero-Click-Wurm hätte eine Milliarde Wechat-Konten übernehmen können",
+          "link": "https://t3n.de/news/ki-wurm-wechat-1762231/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein mit KI entwickelter sogenannter Zero-Click-Wurm hätte die Konten der über eine Milliarde Wechat-Nutzer:innen kapern können – mit nur einem Anruf. Weworm kompromittiert die Konten, ohne dass Nutzer:innen den Anruf annehmen müssen. weiterlesen auf t3n.de",
+          "published": "Tue, 8 Sep 2026 22:51:33 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
+          "link": "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
+          "summary": "Trump admin's propaganda \"arcade\" hits some apparent legal limits.",
+          "published": "Tue, 08 Sep 2026 16:31:21 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "NES: Bastler macht alte Konsole zu Live-Flugradar",
+          "link": "https://t3n.de/news/nes-konsole-live-flugradar-1762044/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bastler:innen, die noch ein altes NES herumstehen und Lust darauf haben, auf ihrem Fernsehbildschirm Flugzeuge zu verfolgen, sollten jetzt unbedingt weiterlesen. Denn mit NES Radar lässt sich die alte Konsole in ein Live-Flugradar verwandeln. weiterlesen auf t3n.de",
+          "published": "Tue, 8 Sep 2026 17:30:35 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Zwei Geräte in einem: Deshalb hat der neue Roomba Duo einen kleinen Mini-Roboter an Bord",
+          "link": "https://t3n.de/news/zwei-geraete-in-einem-deshalb-hat-der-neue-roomba-duo-einen-kleinen-mini-roboter-an-bord-1762035/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Hersteller iRobot baut sein Angebot gezielt aus: mit einem Saugroboter, der einen zweiten beherbergt. Das kann der auf der IFA vorgestellte Roomba Duo. weiterlesen auf t3n.de",
+          "published": "Tue, 8 Sep 2026 16:30:52 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "HashiCorp Packer 1.16 Adds Native SLSA Provenance Generation and Verification for Machine Images",
+          "link": "https://www.infoq.com/news/2026/09/hashicorp-packer-verification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "HashiCorp has released Packer v1.16.0, adding native support for generating, signing, and verifying SLSA provenance attestations for every image the tool builds. The release provides teams with a secure, tamper-proof record of how a machine image was made. It does this without needing extra supply-chain tools. By Claudio Masolo",
+          "published": "Tue, 08 Sep 2026 14:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Von KI entwickelt: Zero-Click-Wurm hätte eine Milliarde Wechat-Konten übernehmen können",
+        "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
+        "NES: Bastler macht alte Konsole zu Live-Flugradar"
+      ]
+    }
+  ]
+}
