@@ -1,0 +1,272 @@
+{
+  "date": "2026-09-10",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
+          "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
+          "summary": "Four women sue Amazon, say company denied basic accommodations and fired them.",
+          "published": "Wed, 09 Sep 2026 19:09:20 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Presentation: Fixing the AI Infra Scale Problem by Stuffing 1M Sandboxes in a Single Server",
+          "link": "https://www.infoq.com/presentations/unikraft-microvm-sandboxes-cloud-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Felipe Huici explains how Unikraft achieves millisecond cold boots, stateful scale-to-zero, and extreme density for sandboxing AI workloads. He discusses isolation primitives, Linux kernel optimizations, and snapshotting tricks, demonstrating how to maintain sub-10ms performance at scale while integrating seamlessly into Kubernetes environments with hardware-level security. By Felipe Huici",
+          "published": "Wed, 09 Sep 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Azure Virtual Desktop Hybrid Reaches GA with Licensing Details Unpublished",
+          "link": "https://www.infoq.com/news/2026/09/avd-hybrid-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has made Azure Virtual Desktop Hybrid generally available. Session hosts run on customer hardware through Azure Arc while brokering stays in Azure. The Hybrid service license is unpriced, Windows Server support requires RDS CALs with Software Assurance, and multi-session Windows is not supported at all. By Steef-Jan Wiggers",
+          "published": "Wed, 09 Sep 2026 08:54:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Verschwörung des Aufsichtsrats? Wordpress-Erfinder Mullenweg ist seinen Job los",
+          "link": "https://www.heise.de/news/Verschwoerung-des-Aufsichtsrats-Wordpress-Erfinder-Mullenweg-ist-seinen-Job-los-11448225.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Unternehmer verkündete die Neuigkeit im internen Chat – Automattic bestätigte sie knapp. Die Gründe sind unklar, ein Nachfolger steht fest.",
+          "published": "2026-09-10T09:48:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "AWS ECS ohne Webkonsole verwalten",
+          "link": "https://www.heise.de/news/AWS-ECS-ohne-Webkonsole-verwalten-11445555.html",
+          "summary": "Das Terminal-Tool e1s für Amazon ECS ermöglicht in Version 2.0.0 den Wechsel von AWS-Profilen und Regionen im laufenden Betrieb.",
+          "published": "2026-09-08T13:38:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
+        "Presentation: Fixing the AI Infra Scale Problem by Stuffing 1M Sandboxes in a Single Server",
+        "Azure Virtual Desktop Hybrid Reaches GA with Licensing Details Unpublished"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Eclipse IDE 2026-09 bringt experimentellen Unified-Diff-Modus",
+          "link": "https://www.heise.de/news/Eclipse-IDE-2026-09-Compact-Source-Files-und-Unified-Diff-11447106.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das neue Quartals-Release der Open-Source-IDE bietet beim Entwickeln mit Java einen neuen Dialog zum Erstellen von Compact Source Files.",
+          "published": "2026-09-10T08:43:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Eclipse IDE 2026-09 bringt experimentellen Unified-Diff-Modus",
+          "link": "https://www.heise.de/news/Eclipse-IDE-2026-09-Compact-Source-Files-und-Unified-Diff-11447106.html",
+          "summary": "Das neue Quartals-Release der Open-Source-IDE bietet beim Entwickeln mit Java einen neuen Dialog zum Erstellen von Compact Source Files.",
+          "published": "2026-09-10T06:43:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Eclipse IDE 2026-09 bringt experimentellen Unified-Diff-Modus",
+        "Eclipse IDE 2026-09 bringt experimentellen Unified-Diff-Modus"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Sicherheitslücken: 36.000 Plex-Media-Server-Instanzen potenziell angreifbar",
+          "link": "https://www.heise.de/news/Sicherheitsluecken-36-000-Plex-Media-Server-Instanzen-potenziell-angreifbar-11448584.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In aktuellen Versionen von Plex Media Server und Plex Desktop wurden mehrere Schwachstellen geschlossen. Weltweit sind zehntausende Instanzen angreifbar.",
+          "published": "2026-09-10T10:45:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Trezor, Bitbox, Cointracking: Phishing-Welle verunsichert unzählige Krypto-Nutzer",
+          "link": "https://www.golem.de/news/trezor-bitbox-cointracking-phishing-welle-verunsichert-unzaehlige-krypto-nutzer-2609-212856.html",
+          "summary": "Zahlreiche Krypto-Nutzer haben kürzlich täuschend echte Phishing-Mails erhalten. Ursache ist wohl ein Vorfall bei einem E-Mail-Marketing-Anbieter. ( Phishing , E-Mail )",
+          "published": "2026-09-10T10:18:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Sicherheitslücken: 36.000 Plex-Media-Server-Instanzen potenziell angreifbar",
+        "Trezor, Bitbox, Cointracking: Phishing-Welle verunsichert unzählige Krypto-Nutzer"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Überwachungsbrillen: Warum deutsche Gerichte Smart Glasses nicht verbieten",
+          "link": "https://netzpolitik.org/2026/ueberwachungsbrillen-warum-deutsche-gerichte-smart-glasses-nicht-verbieten/",
+          "summary": "Viele Gerichte regeln das Filmen per Hausrecht, wie hier am Kriminalgericht Moabit in Berlin. Heimlich filmen, mithören, sich zuflüstern lassen: Mit KI-Brillen bleibt das unauffällig. Andere Länder reagieren mit Verboten in Gerichtsgebäuden, Besucher*innen müssen die Brillen am Eingang abgeben. Die deutschen Justizministerien halten dagegen die bestehenden Regeln für ausreichend.",
+          "published": "Wed, 09 Sep 2026 09:02:17 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Digitalisierung: Digitale Brieftasche D-you startet im Januar 2027",
+          "link": "https://www.golem.de/news/digitalisierung-digitale-brieftasche-d-you-startet-im-januar-2027-2609-212852.html",
+          "summary": "Die Bundesregierung startet im Januar 2027 die digitale Brieftasche D-you für Personalausweis und Führerschein. ( E-Personalausweis , BSI )",
+          "published": "2026-09-10T08:15:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Überwachungsbrillen: Warum deutsche Gerichte Smart Glasses nicht verbieten",
+        "Digitalisierung: Digitale Brieftasche D-you startet im Januar 2027"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Anzeige: Ansible für automatisiertes Systemmanagement",
+          "link": "https://www.golem.de/news/anzeige-ansible-fuer-automatisiertes-systemmanagement-2609-212809.html",
+          "summary": "Ansible automatisiert Konfiguration und Deployment von Linux-Systemen ohne Agent auf den Zielsystemen. Ein Online-Workshop vermittelt dafür zentrale Werkzeuge und Abläufe. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-09-10T07:15:11+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Anzeige: Ansible für automatisiertes Systemmanagement"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "CPython Officially Adds RISC-V Support As a Tier 3 Platform",
+          "link": "https://www.infoq.com/news/2026/09/riscv-cpython/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The Python core development team has officially recognized RISC-V as a Tier 3 platform in CPython, following extensive community collaboration on its implementation. Ongoing efforts aim to enhance integration into the continuous testing pipeline and move towards Tier 2 support. Feedback from developers with RISC-V hardware is encouraged to improve stability and performance. By Olimpiu Pop",
+          "published": "Thu, 10 Sep 2026 05:05:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Claude performed best on a new benchmark for ‘agents that build agents’. But it passed fewer than a quarter of the tests.",
+          "link": "https://thenewstack.io/claude-build-agents-benchmark/",
+          "summary": "AI models now power all manner of agents, from coding assistants that write and debug software to customer service systems The post Claude performed best on a new benchmark for &#8216;agents that build agents&#8217;. But it passed fewer than a quarter of the tests. appeared first on The New Stack .",
+          "published": "Wed, 09 Sep 2026 20:14:09 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI gave an AI the power to block its own engineers’ code",
+          "link": "https://thenewstack.io/openai-ai-code-review/",
+          "summary": "Every pull request submitted by an OpenAI engineer now goes through an automated security review, and the AI model can The post OpenAI gave an AI the power to block its own engineers&#8217; code appeared first on The New Stack .",
+          "published": "Wed, 09 Sep 2026 19:53:08 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "“It could kill us all”: what Anthropic’s own researchers really think about superintelligence",
+          "link": "https://thenewstack.io/anthropic-alignment-superintelligence-warnings/",
+          "summary": "On Tuesday evening, Anthropic pretraining researcher Jacob Coxon announced on X that he&#8217;d resigned. Within hours, two of his colleagues The post &#8220;It could kill us all&#8221;: what Anthropic&#8217;s own researchers really think about superintelligence appeared first on The New Stack .",
+          "published": "Wed, 09 Sep 2026 19:51:46 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Meta's Recipe for Building Agents as \"Organizational Second Brains\"",
+          "link": "https://www.infoq.com/news/2026/09/meta-organizational-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Meta describes how an AI agent can be designed to capture the logic and expertise of domain experts, rather than simply storing documents or retrieving relevant information. The system, dubbed an \"organizational second brain\", was built for a specialized compliance domain, but Meta argues the architecture generalizes to areas like security, finance, engineering, and procurement. By Sergio De Simone",
+          "published": "Wed, 09 Sep 2026 18:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "CPython Officially Adds RISC-V Support As a Tier 3 Platform",
+        "Claude performed best on a new benchmark for ‘agents that build agents’. But it passed fewer than a quarter of the tests.",
+        "OpenAI gave an AI the power to block its own engineers’ code"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "heise+ | Obsidian für Einsteiger: So einfach organisieren Sie Notizen und Wissen",
+          "link": "https://www.heise.de/ratgeber/Obsidian-fuer-Einsteiger-So-einfach-organisieren-Sie-Notizen-und-Wissen-11443538.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Obsidian wirkt kompliziert? Dieser Crashkurs zeigt Schritt für Schritt, wie Sie ein simples Notiz-System aufbauen, Informationen sammeln und nachhaltig sichern.",
+          "published": "2026-09-10T07:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Shieldcrash: Forscher ärgert Microsoft mit neuem Defender-Exploit",
+          "link": "https://www.golem.de/news/shieldcrash-forscher-aergert-microsoft-mit-neuem-defender-exploit-2609-212855.html",
+          "summary": "Microsofts \"High-Quality-Update\" gegen den Shieldbreak-Exploit ist offenbar wenig effektiv. Ein frisch geleakter Exploit umgeht den Schutz. ( Sicherheitslücke , Microsoft )",
+          "published": "2026-09-10T08:55:06+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Anzeige: Microsoft 365 DSGVO-konform betreiben und absichern",
+          "link": "https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-und-absichern-2609-212841.html",
+          "summary": "Datenresidenz, Drittlandtransfer und Audit-Pflichten stellen Unternehmen bei Microsoft 365 vor Herausforderungen. Ein Onlineworkshop zeigt die DSGVO-konforme Konfiguration. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-09-09T18:45:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise+ | Obsidian für Einsteiger: So einfach organisieren Sie Notizen und Wissen",
+        "Shieldcrash: Forscher ärgert Microsoft mit neuem Defender-Exploit",
+        "Anzeige: Microsoft 365 DSGVO-konform betreiben und absichern"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "“AI factories are among the most complex systems ever built”: Nvidia and Palantir turn Nvidia’s supply chain into a proving ground for sovereign AI",
+          "link": "https://thenewstack.io/ai-factories-are-among-the-most-complex-systems-ever-built-nvidia-and-palantir-turn-nvidias-supply-chain-into-a-proving-ground-for-sovereign-ai/",
+          "summary": "Nvidia and Palantir announced on Thursday that they&#8217;re working together to bring &#8220;sovereign AI to critical supply chains,&#8221; kicking off The post “AI factories are among the most complex systems ever built”: Nvidia and Palantir turn Nvidia’s supply chain into a proving ground for sovereign AI appeared first on The New Stack .",
+          "published": "Thu, 10 Sep 2026 09:00:43 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Article: When Spec-Driven Development Pays Off",
+          "link": "https://www.infoq.com/articles/when-spec-driven-development-pays-off/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AI coding assistants have become a core part of software development. AI-generated code has shown productivity gains, but it's also contributing to security weaknesses and familiar bug patterns. In this article, author Nitin Garg highlights the bottleneck has moved from code generation to code verification, and how to detect & mitigate it when the AI-generated behavior diverges from the intent. By Nitin Garg",
+          "published": "Thu, 10 Sep 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "IETF Publishes RFC 10008, Adding the QUERY Method for Safe Requests With a Body",
+          "link": "https://www.infoq.com/news/2026/09/http-query-method/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In June 2026, the IETF published RFC 10008, introducing the QUERY method to HTTP, the first new standard HTTP verb since 2010. QUERY enables developers to send richer query filters in the request body while maintaining cacheable, safe, and idempotent semantics. This addition addresses long-standing limitations with GET and POST methods, facilitating improved API interactions. By Daniel Curtis",
+          "published": "Thu, 10 Sep 2026 06:27:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Digitaler Omnibus: Neues Bündnis will das Ende der Cookie-Banner einläuten",
+          "link": "https://netzpolitik.org/2026/digitaler-omnibus-neues-buendnis-will-das-ende-der-cookie-banner-einlaeuten/",
+          "summary": "Cookie-Banner gehören aufgefressen, fordert die „Kill the Cookie Banner“-Koalition. (Symbolbild) – Alle Rechte vorbehalten: IMAGO / Pond5 Images Mit ihrem Digitalen Omnibus will die EU-Kommission vor allem der Wirtschaft das Leben versüßen. Zu einem ihrer Vorschläge zählt jedoch auch, die vermaledeiten Cookie-Banner weitgehend aus der Welt zu schaffen. Dagegen läuft die Werbewirtschaft Sturm und bekommt nun ihrerseits Gegenwind zu spüren.",
+          "published": "Thu, 10 Sep 2026 06:14:21 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Google's AI genome system evaluates every possible one-base change",
+          "link": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+          "summary": "Most one-base changes to the human genome do nothing, but a few are significant.",
+          "published": "Wed, 09 Sep 2026 16:34:18 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "“AI factories are among the most complex systems ever built”: Nvidia and Palantir turn Nvidia’s supply chain into a proving ground for sovereign AI",
+        "Article: When Spec-Driven Development Pays Off",
+        "IETF Publishes RFC 10008, Adding the QUERY Method for Safe Requests With a Body"
+      ]
+    }
+  ]
+}
