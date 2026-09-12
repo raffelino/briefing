@@ -1,0 +1,372 @@
+{
+  "date": "2026-09-12",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Lambda SnapStart Comes to Container Images, Ending a Packaging Tradeoff",
+          "link": "https://www.infoq.com/news/2026/09/lambda-snapstart-container-image/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has extended Lambda SnapStart to container image functions, which hold up to 10 GB against 250 MB for zip archives. Teams previously chose between dependency headroom and sub-second startup. A Reddit thread from a month earlier shows what that cost: stripping whitespace and docstrings from installed packages to stay under the limit. By Steef-Jan Wiggers",
+          "published": "Sat, 12 Sep 2026 10:09:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "KW 37: Die Woche, in der wir die Ratlosigkeit überwinden",
+          "link": "https://netzpolitik.org/2026/kw-37-die-woche-in-der-wir-die-ratlosigkeit-ueberwinden/",
+          "summary": "Die 37. Kalenderwoche geht zu Ende. Wir haben 9 neue Texte mit insgesamt 51.637 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 12 Sep 2026 05:05:28 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Kubernetes v1.37 brings 67 enhancements. Which matter for operators?",
+          "link": "https://thenewstack.io/kubecon-kubernetes-updates-security/",
+          "summary": "Welcome to the first edition of Road to KubeCon, where we&#8217;ll track the world of Kubernetes as we approach KubeCon The post Kubernetes v1.37 brings 67 enhancements. Which matter for operators? appeared first on The New Stack .",
+          "published": "Fri, 11 Sep 2026 17:40:04 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "NVIDIA Personal AI Router Distributes AI Tasks across Local Compute",
+          "link": "https://www.infoq.com/news/2026/09/nvidia-pair-ai-task-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "NVIDIA Personal AI Router (PAIR), now available in beta, lets you combine the inference capacity of multiple computers on your local network and automatically distribute AI requests among them. It is primarily designed for local multi-agent AI workloads, where multiple independent model calls can otherwise overwhelm one GPU. By Sergio De Simone",
+          "published": "Fri, 11 Sep 2026 15:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Terraform AWS Provider Continues Rapid Expansion as AWS Infrastructure Becomes More Complex",
+          "link": "https://www.infoq.com/news/2026/09/terraform-aws-provider-6-62/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The Terraform AWS Provider continues its rapid evolution, with v6.62.0 adding support for new AWS capabilities while improving how Terraform understands and manages existing infrastructure. By Craig Risi",
+          "published": "Fri, 11 Sep 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "How AWS Lambda logs every flow across thousands of microVMs per host with eBPF and Rust",
+          "link": "https://thenewstack.io/aws-lambda-ebpf-rust/",
+          "summary": "On any compute platform, when a security alert fires, the question is always the same. Which workload talked to that The post How AWS Lambda logs every flow across thousands of microVMs per host with eBPF and Rust appeared first on The New Stack .",
+          "published": "Fri, 11 Sep 2026 12:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Could United Launch Alliance's money problems finally force its owners to sell?",
+          "link": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
+          "summary": "ULA is preparing to resume launching the Vulcan rocket in the coming weeks.",
+          "published": "Fri, 11 Sep 2026 11:00:44 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Presentation: How To Run on Three Clouds at Once, and When Not To",
+          "link": "https://www.infoq.com/presentations/form3-multicloud-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Ross McFarlane and Kevin Holditch discuss Form3's evolution from a single-cloud setup to a triple active multi-cloud architecture. They share key engineering strategies for cross-cloud networking, distributed databases with CockroachDB and NATS, custom Kubernetes operators, and navigating distinct regional disaster recovery expectations across the UK, Europe, and US financial markets. By Ross McFarlane, Kevin Holditch",
+          "published": "Fri, 11 Sep 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(8 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Lambda SnapStart Comes to Container Images, Ending a Packaging Tradeoff",
+        "KW 37: Die Woche, in der wir die Ratlosigkeit überwinden",
+        "Kubernetes v1.37 brings 67 enhancements. Which matter for operators?"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "heise-Angebot: Java in seiner besten Form: Noch Frühbucherticket für betterCode() Java sichern",
+          "link": "https://www.heise.de/news/Java-in-seiner-besten-Form-Noch-Fruehbucherticket-fuer-betterCode-Java-sichern-11449790.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die betterCode() Java 2026 zeigt, wie man die Änderungen der jüngsten JDKs sinnvoll nutzt, und hilft bei der KI-gestützten Softwareentwicklung in Java.",
+          "published": "2026-09-12T13:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Eclipse IDE 2026-09 bringt experimentellen Unified-Diff-Modus",
+          "link": "https://www.heise.de/news/Eclipse-IDE-2026-09-Compact-Source-Files-und-Unified-Diff-11447106.html",
+          "summary": "Das neue Quartals-Release der Open-Source-IDE bietet beim Entwickeln mit Java einen neuen Dialog zum Erstellen von Compact Source Files.",
+          "published": "2026-09-10T06:43:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: Java in seiner besten Form: Noch Frühbucherticket für betterCode() Java sichern",
+        "Eclipse IDE 2026-09 bringt experimentellen Unified-Diff-Modus"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "IT-Sicherheit: Wie veraltete Software Hackern und KI-Angreifern das Leben erleichtert",
+          "link": "https://t3n.de/news/sicherheit-alte-software-hacker-1762796/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das von OpenAIs Agenten gehackte Wiki zeigt: Viele Netzwerke wachsen über Jahre – und mit ihnen Software, Zugänge und Server, die niemand mehr wartet. Sie sind weiterlesen auf t3n.de",
+          "published": "Fri, 11 Sep 2026 16:00:01 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI Releases GPT-6 Astra for Coding and Computer Use",
+          "link": "https://www.infoq.com/news/2026/09/openai-gpt6-astra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "OpenAI has released GPT-6 Astra, a new model focused on coding, computer use, long-running agentic tasks, and cybersecurity, with availability across ChatGPT, Codex, and the OpenAI API. By Daniel Dominguez",
+          "published": "Thu, 10 Sep 2026 17:49:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Neuer Name, alte Baustellen: Das sind die Hürden zum Start der digitalen Brieftasche „d‑you“",
+          "link": "https://netzpolitik.org/2026/neuer-name-alte-baustellen-das-sind-die-huerden-zum-start-der-digitalen-brieftasche-d-you/",
+          "summary": "Digitalminister Karsten Wildberger präsentierte am Mittwoch den neuen Namen und das Logo der staatlichen Wallet. – CC-BY-NC-SA 4.0 : netzpolitik.org Die deutsche Version der EUDI-Wallet, die im Januar 2027 starten soll, wird „d‑you“ heißen. Bis dahin muss das Digitalministerium aber noch Probleme bei der IT-Sicherheit lösen. Bei „Restrisiken“ könnte die Bundesregierung den Start verschieben.",
+          "published": "Thu, 10 Sep 2026 09:51:22 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Patches: IT-Sicherheitsprodukte von Check Point werden zum Sicherheitsrisiko",
+          "link": "https://www.heise.de/news/Patches-IT-Sicherheitsprodukte-von-Check-Point-werden-zum-Sicherheitsrisiko-11450639.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mehrere Produkte von Check Point wie Security Gateway und Spark Firewall sind verwundbar. Davon sind auch nicht mehr im Support befindliche Versionen betroffen.",
+          "published": "2026-09-11T13:40:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Portasplit-Sicherheitslücke: Midea verteilt Updates an Klimageräte",
+          "link": "https://www.heise.de/news/Portasplit-Sicherheitsluecke-Midea-verteilt-Updates-an-Klimageraete-11449892.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Dass jeder die Portasplit von Midea per Bluetooth fernsteuern konnte, war nicht im Sinne der Entwickler – sie bessern nun nach.",
+          "published": "2026-09-11T13:18:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anthropic spent this week in hot water over cybersecurity",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+          "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. [&#8230;]",
+          "published": "2026-09-11T12:09:14-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(6 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "IT-Sicherheit: Wie veraltete Software Hackern und KI-Angreifern das Leben erleichtert",
+        "OpenAI Releases GPT-6 Astra for Coding and Computer Use",
+        "Neuer Name, alte Baustellen: Das sind die Hürden zum Start der digitalen Brieftasche „d‑you“"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Überwachungsbrillen: Warum deutsche Gerichte Smart Glasses nicht verbieten",
+          "link": "https://netzpolitik.org/2026/ueberwachungsbrillen-warum-deutsche-gerichte-smart-glasses-nicht-verbieten/",
+          "summary": "Viele Gerichte regeln das Filmen per Hausrecht, wie hier am Kriminalgericht Moabit in Berlin. Heimlich filmen, mithören, sich zuflüstern lassen: Mit KI-Brillen bleibt das unauffällig. Andere Länder reagieren mit Verboten in Gerichtsgebäuden, Besucher*innen müssen die Brillen am Eingang abgeben. Die deutschen Justizministerien halten dagegen die bestehenden Regeln für ausreichend.",
+          "published": "Wed, 09 Sep 2026 09:02:17 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(1 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Überwachungsbrillen: Warum deutsche Gerichte Smart Glasses nicht verbieten"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Herdr: Terminal-Multiplexer sortiert Flotten von Coding-Agenten",
+          "link": "https://www.heise.de/news/Herdr-Terminal-Multiplexer-sortiert-Flotten-von-Coding-Agenten-11448520.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Herdr bündelt langlebige Terminal-Sitzungen und zeigt, welcher Coding-Agent auf Eingaben wartet. Omarchy Linux integriert das junge Open-Source-Projekt.",
+          "published": "2026-09-11T18:26:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Herdr: Terminal-Multiplexer sortiert Flotten von Coding-Agenten",
+          "link": "https://www.heise.de/news/Herdr-Terminal-Multiplexer-sortiert-Flotten-von-Coding-Agenten-11448520.html",
+          "summary": "Herdr bündelt langlebige Terminal-Sitzungen und zeigt, welcher Coding-Agent auf Eingaben wartet. Omarchy Linux integriert das junge Open-Source-Projekt.",
+          "published": "2026-09-11T16:26:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "4.100 Bitcoin gestohlen: Kryptodieb prahlt mit Reichtum und wird verhaftet",
+          "link": "https://www.golem.de/news/4-100-bitcoin-gestohlen-kryptodieb-prahlt-mit-reichtum-und-wird-verhaftet-2609-212912.html",
+          "summary": "Eine Cybergang hat 245 Millionen US-Dollar in Bitcoin erbeutet und sich damit reichlich Luxus gegönnt. Der mutmaßliche Anführer bekennt sich schuldig. ( Cybercrime , Ferrari )",
+          "published": "2026-09-11T10:54:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Herdr: Terminal-Multiplexer sortiert Flotten von Coding-Agenten",
+        "Herdr: Terminal-Multiplexer sortiert Flotten von Coding-Agenten",
+        "4.100 Bitcoin gestohlen: Kryptodieb prahlt mit Reichtum und wird verhaftet"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs",
+          "link": "https://www.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cassie Shum discusses why knowledge graphs serve as a critical foundation for agentic systems. Moving beyond basic RAG, she explains 4 practical architectural patterns: context bundling, decision provenance, code as truth, and agent visibility. She demonstrates an engineering harness built on a knowledge graph to streamline feedback loops, optimize token usage, and maintain system reliability. By Cassie Shum",
+          "published": "Sat, 12 Sep 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Jacob Coxon warns AI could kill us all. Anthropic’s own report exposes safety gaps.",
+          "link": "https://thenewstack.io/coxon-anthropic-ai-monitoring-failures/",
+          "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Jacob Coxon warns AI could kill us all. Anthropic’s own report exposes safety gaps. appeared first on The New Stack .",
+          "published": "Sat, 12 Sep 2026 11:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Dein erster Claude-Skill: Mehr Produktivität durch KI-Workflows",
+          "link": "https://t3n.de/news/claude-skills-ki-workflows-automatisieren-1759940/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Recherchen nach festen Kriterien auswerten, wiederkehrende Berichte in Form bringen: Was Claude über das Chatfenster hinaus übernimmt – und was der Einstieg voraussetzt. weiterlesen auf t3n.de",
+          "published": "Sat, 12 Sep 2026 12:25:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Kontextdateien für KI-Coding: Studie entlarvt beliebte Praxis als ineffizient",
+          "link": "https://t3n.de/news/kontextdateien-agents-md-ki-coding-studie-eth-zuerich-ineffizient-1760349/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kontextdateien wie Agents.md stellen eine beliebte Coding-Praxis dar. Aber wie hilfreich sind sie wirklich? Eine neue Studie der ETH Zürich zeichnet ein überraschendes Bild – und rät von der Nutzung eher ab. weiterlesen auf t3n.de",
+          "published": "Sat, 12 Sep 2026 10:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Karriere-Update ohne böse Überraschung: So findest du die passende KI-Weiterbildung",
+          "link": "https://t3n.de/news/i-weiterbildung-serioes-finden-1758850/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Markt an KI-Weiterbildungen ist unübersichtlich und fragmentiert. Hinzukommt: Laut der Arbeitsagentur gibt es selbst bei zertifizierten Anbietern Hinweise a weiterlesen auf t3n.de",
+          "published": "Sat, 12 Sep 2026 07:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI’s researchers burned $7,000 a day on AI agents — now it’s opening the floodgates",
+          "link": "https://thenewstack.io/openai-agents-api-compute/",
+          "summary": "OpenAI rolled out its Agents API in public beta Thursday, opening the backend behind Codex to developers looking to run The post OpenAI’s researchers burned $7,000 a day on AI agents — now it’s opening the floodgates appeared first on The New Stack .",
+          "published": "Fri, 11 Sep 2026 21:27:42 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+          "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+          "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
+          "published": "Fri, 11 Sep 2026 19:34:09 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Oracle tries to appease Stargate data center opponents with renewables push",
+          "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
+          "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
+          "published": "Fri, 11 Sep 2026 18:22:22 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(8 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs",
+        "Jacob Coxon warns AI could kill us all. Anthropic’s own report exposes safety gaps.",
+        "Dein erster Claude-Skill: Mehr Produktivität durch KI-Workflows"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "SAP-Migration: So automatisierst du die Analyse von Tausenden AfO-Workbooks",
+          "link": "https://t3n.de/news/sap-migration-afo-workbooks-automatisieren-1755085/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Deine Migration zur SAP Analytics Cloud (SAC) scheitert oft an der unübersichtlichen Flut alter Analysis-for-Office-Workbooks. Manuelle Bestandsaufnahmen kosten dich Monate an Zeit und Nerven. Erfahre, wie du mit einer automatisierten Analyse für Klarheit sorgst, Redundanzen eliminierst und den Weg zur modernen SAC-Story in Rekordzeit ebnest weiterlesen auf t3n.de",
+          "published": "Sat, 12 Sep 2026 10:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "One Decade of Rustls: Evolution, Benchmarks, and Future Roadmap",
+          "link": "https://www.infoq.com/news/2026/09/rustls-one-decade/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Rustls, a Rust TLS library, marks its decade-long progression from a grassroots project to a funded open-source initiative. Key contributions from organisations boosted development, resulting in features like post-quantum cryptography and robust performance. The upcoming 0.24 release aims to enhance architecture and flexibility, including new input buffering and improved session handling By Olimpiu Pop",
+          "published": "Sat, 12 Sep 2026 07:07:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats",
+          "link": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
+          "summary": "Talarico talk to be on YouTube to save ABC stations the hassle of dealing with FCC.",
+          "published": "Thu, 10 Sep 2026 17:30:09 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "SAP-Migration: So automatisierst du die Analyse von Tausenden AfO-Workbooks",
+        "One Decade of Rustls: Evolution, Benchmarks, and Future Roadmap",
+        "Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Smartglasses: Meta macht Schluss mit überklebten Aufnahme-LEDs",
+          "link": "https://t3n.de/news/meta-smartglasses-update-led-heimliche-aufnahmen-datenschutz-1760415/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Meta spendiert den Smartglasses ein Update, das sich nicht primär an deren Nutzer:innen richtet. Stattdessen soll es dafür sorgen, dass sie andere in ihrer Umgebung nicht mehr heimlich aufnehmen können. weiterlesen auf t3n.de",
+          "published": "Sat, 12 Sep 2026 12:20:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Wie das Universum kurz nach dem Urknall: CERN erzeugt kleinsten Plasma-Tropfen",
+          "link": "https://t3n.de/news/cern-quark-gluon-plasma-urknall-sauerstoff-atomkerne-kleinster-tropfen-1760792/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein ungewöhnliches physikalisches Experiment am Teilchenbeschleuniger wirft neues Licht auf den Zustand der Materie unmittelbar nach dem Urknall. Das Beobachtete bricht dabei mit etablierten Annahmen der Physik und liefert einen unerwarteten Befund. weiterlesen auf t3n.de",
+          "published": "Sat, 12 Sep 2026 11:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Warum sind Mitarbeiter im Homeoffice produktiver?",
+          "link": "https://t3n.de/news/homeoffice-produktivitaet-studie-mitarbeiter-energielevel-buero-1761499/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Immer mehr Unternehmen kürzen die Homeoffice-Tage oder holen ihre Teams sogar komplett zurück ins Büro. Für die Produktivität könnte das negative Folgen haben, wie eine Studie der University of Iowa nahelegt. weiterlesen auf t3n.de",
+          "published": "Sat, 12 Sep 2026 09:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Wie du für 3 Euro aus deinem alten Laptop ein Chromebook machst",
+          "link": "https://t3n.de/news/chrome-os-flex-usb-stick-altes-laptop-chromebook-3-euro-1758960/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit Chrome OS Flex bietet Google eine Alternative zu Windows an, die ausgedienten PCs ein neues Leben schenken soll. Die Installationsdatei kann man mittlerweil weiterlesen auf t3n.de",
+          "published": "Sat, 12 Sep 2026 07:20:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Doomsday Spotify&quot;: Wie du Musik ohne Internet auf Papier speicherst",
+          "link": "https://t3n.de/news/doomsday-spotify-musik-qr-code-papier-offline-speichern-1759093/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Entwickler Makestreme hat ein ganzes Lied auf ein einziges Blatt Papier gedruckt. Mithilfe neuronaler Netze hat er dafür eine MP3 so stark komprimiert, dass sie in mehrere QR-Codes passt – und ganz ohne Internetzugang anhörbar ist. weiterlesen auf t3n.de",
+          "published": "Sat, 12 Sep 2026 06:40:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Wie T-Mobile einen Spionageangriff auf Trump und Vance mit einer Schere verhinderte",
+          "link": "https://t3n.de/news/t-mobile-stoppt-chinesische-hacker-salt-typhoon-schere-1758997/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Um sich vor einem Cyberangriff zu schützen, ist T-Mobile in den USA schon vor Jahren ungewöhnliche Schritte gegangen. Sie kappten einfach die Leitung, die die Angreifer:innen für ihre Zwecke missbrauchten. weiterlesen auf t3n.de",
+          "published": "Sat, 12 Sep 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Cohere’s new translation model is open weights — but not for commercial use",
+          "link": "https://thenewstack.io/cohere-translation-commercial-licensing/",
+          "summary": "This week, Cohere released North Small Translate 1.0 under a CC BY-NC 4.0 license: the weights are there to download, The post Cohere&#8217;s new translation model is open weights — but not for commercial use appeared first on The New Stack .",
+          "published": "Fri, 11 Sep 2026 17:50:11 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Omas gegen Rechts: „Wir machen weiter. Es gibt keine andere Option.“",
+          "link": "https://netzpolitik.org/2026/omas-gegen-rechts-wir-machen-weiter-es-gibt-keine-andere-option/",
+          "summary": "Die Omas gegen Rechts in Magdeburg haben am Wahlwochenende Unterstützung aus dem ganzen Bund erhalten. – Alle Rechte vorbehalten: Demo: IMAGO / STEINSIEK.CH, Personen: Omas gegen Rechts Der Ausgang der Landtagswahl in Sachsen-Anhalt hat vielen den Atem verschlagen. Die Omas gegen Rechts in Magdeburg erleben schon seit langem, wie sich die Lage vor Ort, aber auch online verschärft hat. Wir haben mit zwei von ihnen über gemeinschaftlichen Widerstand und das Wahlergebnis gesprochen – und wie es aus ihrer Sicht nun weitergeht.",
+          "published": "Fri, 11 Sep 2026 16:42:15 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(8 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Smartglasses: Meta macht Schluss mit überklebten Aufnahme-LEDs",
+        "Wie das Universum kurz nach dem Urknall: CERN erzeugt kleinsten Plasma-Tropfen",
+        "Warum sind Mitarbeiter im Homeoffice produktiver?"
+      ]
+    }
+  ]
+}
