@@ -1,0 +1,332 @@
+{
+  "date": "2026-09-15",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Grab's Agent Framework LLM-Kit Accelerates AI Agent Production Deployment",
+          "link": "https://www.infoq.com/news/2026/09/grab-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Grab has implemented LLM-Kit, a framework that standardizes over 500 internal agent services. This system enhances service integration, evaluation, and secret handling, reducing the time to deploy new AI agents from two weeks to one hour. It centralizes infrastructure management, allowing runtime tool discovery and flexible model integration, while maintaining operational control. By Hien Luu",
+          "published": "Tue, 15 Sep 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Amazon Linux 2027 Enters Public Preview with SELinux Enforcing by Default",
+          "link": "https://www.infoq.com/news/2026/09/amazon-linux-2027-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has released Amazon Linux 2027 in public preview, built on the AL2023 baseline with kernel 7.1 and SELinux in enforcing mode by default. Applications that pass on AL2023's permissive mode may fail under enforcing. The announcement gives no AL2023 end-of-support date, no GA date, and no in-place migration path. By Steef-Jan Wiggers",
+          "published": "Tue, 15 Sep 2026 03:40:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AI keeps finding security flaws — here’s what to fix first",
+          "link": "https://thenewstack.io/vulnerability-prioritization-business-context/",
+          "summary": "A security researcher testing a 300-person B2B company with a global footprint discovered an internet-exposed database with weak authentication during The post AI keeps finding security flaws — here’s what to fix first appeared first on The New Stack .",
+          "published": "Mon, 14 Sep 2026 15:20:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Mediatek stellt neuen 2-nm-Prozessor Dimensity 9600 Pro vor",
+          "link": "https://www.heise.de/news/Mediatek-Dimensity-9600-Pro-2-nm-Prozessor-mit-All-Big-Core-CPU-und-zwei-NPUs-11452083.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mediateks Dimensity 9600 Pro nutzt acht große CPU-Kerne und eine Dual-NPU für lokale KI-Anwendungen.",
+          "published": "2026-09-15T09:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Microsoft leitet letzte Phase für SQL Data Sync ein",
+          "link": "https://www.heise.de/news/Microsoft-leitet-letzte-Phase-fuer-SQL-Data-Sync-ein-11449866.html",
+          "summary": "Microsoft sperrt SQL Data Sync für neue Azure-Abonnements. Bestehende Installationen laufen noch bis September 2027 weiter.",
+          "published": "2026-09-11T07:47:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Grab's Agent Framework LLM-Kit Accelerates AI Agent Production Deployment",
+        "Amazon Linux 2027 Enters Public Preview with SELinux Enforcing by Default",
+        "AI keeps finding security flaws — here’s what to fix first"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: New OpenJDK JEPs, CDI 5.0, Spring, Open Liberty, RefactorFirst, ADK for Kotlin",
+          "link": "https://www.infoq.com/news/2026/09/java-news-roundup-sep07-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for September 7th, 2026, features news highlighting: new JEPs for ahead-of-time compilation and structured concurrency; GA releases of Jakarta CDI 5.0 and ADK for Kotlin 1.0; the September 2026 edition of Open Liberty; point releases of TornadoVM and RefactorFirst; a maintenance release of Micronaut; and first releases candidates of Groovy 6.0 and Gradle 9.8. By Michael Redlich",
+          "published": "Mon, 14 Sep 2026 20:15:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Eclipse IDE 2026-09 bringt experimentellen Unified-Diff-Modus",
+          "link": "https://www.heise.de/news/Eclipse-IDE-2026-09-Compact-Source-Files-und-Unified-Diff-11447106.html",
+          "summary": "Das neue Quartals-Release der Open-Source-IDE bietet beim Entwickeln mit Java einen neuen Dialog zum Erstellen von Compact Source Files.",
+          "published": "2026-09-10T06:43:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Java News Roundup: New OpenJDK JEPs, CDI 5.0, Spring, Open Liberty, RefactorFirst, ADK for Kotlin",
+        "Eclipse IDE 2026-09 bringt experimentellen Unified-Diff-Modus"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Datenleck bei Revolut: Wie Angreifer Kundendaten über eine Behörden-Domain abgriffen",
+          "link": "https://t3n.de/news/datenleck-bei-revolut-wie-angreifer-kundendaten-ueber-eine-behoerden-domain-abgriffen-1763426/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Neobank Revolut muss sich mit einem Datenvorfall auseinandersetzen. Täter nutzten eine echte Behörden-Domain, um an sensible Informationen von rund 680 Kunden zu kommen. weiterlesen auf t3n.de",
+          "published": "Tue, 15 Sep 2026 11:05:27 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Angreifer missbrauchen SQL-Schwachstelle in Ciscos Secure E-Mail-Gateway",
+          "link": "https://www.heise.de/news/Angreifer-missbrauchen-SQL-Schwachstelle-in-Ciscos-Secure-E-Mail-Gateway-11453346.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Cisco warnt vor laufenden Angriffen auf eine kritische SQL-Injection-Lücke im Secure E-Mail Gateway. Updates stehen bereit.",
+          "published": "2026-09-15T10:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Der Homebrew-Paketmanager bringt nun einen Sicherheitslücken-Scanner mit",
+          "link": "https://www.heise.de/news/Der-Homebrew-Paketmanager-bringt-nun-einen-Sicherheitsluecken-Scanner-mit-11453380.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die neue Homebrew-Version 7.0.0 bietet einen integrierten Sicherheitslücken-Scanner für installierte Software und schließt acht Schwachstellen.",
+          "published": "2026-09-15T10:17:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Mehrere Bugs beseitigt: Microsoft verteilt Notfallupdates für Windows",
+          "link": "https://www.golem.de/news/mehrere-bugs-beseitigt-microsoft-verteilt-notfallupdates-fuer-windows-2609-213014.html",
+          "summary": "Die neuen Windows-Updates beheben mehrere seit dem September-Patchday bestehende Bugs. Zudem adressiert Microsoft eine vergessene Schwachstelle. ( Windows , Microsoft )",
+          "published": "2026-09-15T08:57:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Datenleck bei Revolut: Wie Angreifer Kundendaten über eine Behörden-Domain abgriffen",
+        "Angreifer missbrauchen SQL-Schwachstelle in Ciscos Secure E-Mail-Gateway",
+        "Der Homebrew-Paketmanager bringt nun einen Sicherheitslücken-Scanner mit"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Tandoor: Warum ich meine Rezepte per Open Source verwalte – und wie mir KI dabei hilft",
+          "link": "https://t3n.de/news/tanndor-rezepte-verwalten-open-source-nervig-scrollen-ki-1674456/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Genervt von Foodblogs und Rezeptewebsites? Unser Autor verwaltet seine Lieblingsrezepte mit einer Open-Source-Lösung. Warum er darauf nicht mehr verzichten könnte. weiterlesen auf t3n.de",
+          "published": "Tue, 15 Sep 2026 10:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Startup Proxima Fusion will Fusionsreaktor-Bauteile künftig in Niedersachsen produzieren",
+          "link": "https://t3n.de/news/proxima-fusion-fusionsreaktor-niedersachsen-1762653/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Startup Proxima Fusion will eine Fabrik für eine kritische Komponente seines Fusionsgenerators in Niedersachsen aufbauen. Die Hochtemperatur-Supraleiter, di weiterlesen auf t3n.de",
+          "published": "Tue, 15 Sep 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Kontrollverlust bei Kommunikationsnetzen: Telecom-Chefs warnen EU",
+          "link": "https://www.heise.de/news/Kontrollverlust-bei-Kommunikationsnetzen-Telecom-Chefs-warnen-EU-11453235.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "17 Telecom-Vorstände warnen die EU vor einem Kontrollverlust bei Kommunikationsnetzen und fordern gelockerte Fusionsregeln und Huawei-Erleichterungen.",
+          "published": "2026-09-15T09:14:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Youtube: Elon Musk teilt erneut Verstoß gegen FSD-Nutzungsregeln",
+          "link": "https://www.golem.de/news/youtube-elon-musk-teilt-erneut-verstoss-gegen-fsd-nutzungsregeln-2609-212990.html",
+          "summary": "Ein 98-jähriger Mann erklärt in einem Video, dass er in seinem Tesla nicht mehr auf den Verkehr achten müsse. Elon Musk findet das gut - für Tesla ein Problem. ( Elon Musk , Elektroauto )",
+          "published": "2026-09-14T16:01:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Tandoor: Warum ich meine Rezepte per Open Source verwalte – und wie mir KI dabei hilft",
+        "Startup Proxima Fusion will Fusionsreaktor-Bauteile künftig in Niedersachsen produzieren",
+        "Kontrollverlust bei Kommunikationsnetzen: Telecom-Chefs warnen EU"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "KI für alle: Gates will Zugang zur Technologie mit einer Milliarde Dollar fördern – und fordert Regulierung",
+          "link": "https://t3n.de/news/bill-gates-ki-zugang-milliarde-forderung-regulierung-1763427/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Während darüber gestritten wird, wie gefährlich KI für die Menschheit ist, will die Stiftung von Microsoft-Mitgründer Bill Gates den Zugang dazu demokratisieren. Außerdem fordert er staatliche Regulierung. weiterlesen auf t3n.de",
+          "published": "Tue, 15 Sep 2026 10:30:43 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Herdr: Terminal-Multiplexer sortiert Flotten von Coding-Agenten",
+          "link": "https://www.heise.de/news/Herdr-Terminal-Multiplexer-sortiert-Flotten-von-Coding-Agenten-11448520.html",
+          "summary": "Herdr bündelt langlebige Terminal-Sitzungen und zeigt, welcher Coding-Agent auf Eingaben wartet. Omarchy Linux integriert das junge Open-Source-Projekt.",
+          "published": "2026-09-11T16:26:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Umfrage: Wie wichtig sind Linux und Open Source für dich?",
+          "link": "https://www.golem.de/news/umfrage-wie-wichtig-sind-linux-und-open-source-fuer-dich-2609-212329.html",
+          "summary": "Welche Rolle spielen Linux und Open Source für dich - und wo informierst und vernetzt du dich dazu? Bitte mach mit bei unserer kleinen Umfrage. ( In eigener Sache , Linux )",
+          "published": "2026-09-15T10:30:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KI für alle: Gates will Zugang zur Technologie mit einer Milliarde Dollar fördern – und fordert Regulierung",
+        "Herdr: Terminal-Multiplexer sortiert Flotten von Coding-Agenten",
+        "Umfrage: Wie wichtig sind Linux und Open Source für dich?"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Microsofts neue KI-Regeln: Was Chatbots und Agenten dürfen – und was nicht",
+          "link": "https://t3n.de/news/microsoft-ki-regeln-1763416/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Microsoft hat einen neuen Verhaltenskodex für seine KI präsentiert. Das ausführliche Dokument soll festlegen, was Chatbots und Agenten künftig tun dürfen und was ihnen unter allen Umständen verboten ist. Was im Dokument steht und warum es noch nicht final ist. weiterlesen auf t3n.de",
+          "published": "Tue, 15 Sep 2026 11:30:08 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Claude als Finanzberater: Neues Money-Feature soll der KI direkten Zugriff auf dein Bankkonto geben",
+          "link": "https://t3n.de/news/claude-money-feature-anthropic-1763397/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bekommt Claude bald Zugriff auf Bankkonten von User:innen? Darauf lässt zumindest ein neuer Bereich in der iOS-App schließen. Was schon jetzt zum &#8222;Money&#8220;-Feature der KI bekannt ist. weiterlesen auf t3n.de",
+          "published": "Tue, 15 Sep 2026 09:15:56 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
+          "link": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
+          "summary": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
+          "published": "Tue, 15 Sep 2026 07:00:30 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "How Solaris' Turnstile Influenced the Modern System Designs of Web Browsers and Language Runtimes",
+          "link": "https://www.infoq.com/news/2026/09/turnstile-system-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Sun's Solaris influenced modern systems engineering, with key innovations like the Slab Allocator for efficient memory management, OpenZFS for advanced storage, and DTrace for observability. Its turnstile mechanism addressed issues with mutexes, promoting lean locking designs that are reflected in contemporary programming languages and web browsers, enhancing performance and memory efficiency. By Olimpiu Pop",
+          "published": "Tue, 15 Sep 2026 06:06:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AI’s best coding agent fails 60% of the time — and the data backs it up",
+          "link": "https://thenewstack.io/real-swe-coding-benchmark/",
+          "summary": "Claude Fable 5.1 just won a new coding benchmark despite failing more than six out of 10 times. Its 38.8% The post AI&#8217;s best coding agent fails 60% of the time — and the data backs it up appeared first on The New Stack .",
+          "published": "Mon, 14 Sep 2026 22:22:27 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Microsofts neue KI-Regeln: Was Chatbots und Agenten dürfen – und was nicht",
+        "Claude als Finanzberater: Neues Money-Feature soll der KI direkten Zugriff auf dein Bankkonto geben",
+        "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+          "link": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
+          "summary": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
+          "published": "Mon, 14 Sep 2026 21:32:22 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Article: Implementing Durable Workflows on Postgres Without an External Orchestrator",
+          "link": "https://www.infoq.com/articles/durable-workflows-postgres/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Postgres can serve as the durable state store and coordination layer for workflows, eliminating the need for an external orchestrator. SKIP LOCKED enables concurrent work processing, primary-key checkpoints enforce idempotency, and leases support crash recovery. Workflow sleeps and human approvals can also be persisted as database state and survive restarts. By Raman Varma",
+          "published": "Mon, 14 Sep 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "1.1.1.1 prüft DNS jetzt mit Post-Quanten-Kryptografie",
+          "link": "https://www.heise.de/news/1-1-1-1-prueft-DNS-jetzt-mit-Post-Quanten-Kryptografie-11453315.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Cloudflare hat ML-DSA-44-Validierung für seinen DNS-Resolver 1.1.1.1 aktiviert. Das soll DNS-Antworten vor Quanten-Angriffen schützen.",
+          "published": "2026-09-15T10:37:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Webinar: AI Act kompakt – Kennzeichnung, KI-Kompetenz, Hochrisiko-KI",
+          "link": "https://www.heise.de/news/iX-Webinar-AI-Act-kompakt-Kennzeichnung-KI-Kompetenz-Hochrisiko-KI-11433644.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Erfahren Sie, wie Sie die neuen Anforderungen des AI Acts an Kennzeichnung, KI-Kompetenz und Hochrisiko-KI in Ihrem Unternehmen praktisch umsetzen können.",
+          "published": "2026-09-15T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "„Crazy Taxi“: Netflix und Sega kündigen Verfilmung an",
+          "link": "https://www.heise.de/news/Crazy-Taxi-Netflix-und-Sega-kuendigen-Verfilmung-an-11453181.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Netflix und Sega arbeiten an einem Film zu „Crazy Taxi“, auch „Sonic“ und „Stranger Than Heaven“ werden adaptiert.",
+          "published": "2026-09-15T09:05:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+        "Article: Implementing Durable Workflows on Postgres Without an External Orchestrator",
+        "1.1.1.1 prüft DNS jetzt mit Post-Quanten-Kryptografie"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Under Pressure? Triff t3n und Digital Bash auf der DMEXCO 2026",
+          "link": "https://t3n.de/news/dmexco-2026-t3n-koeln-1763415/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Am 23. und 24. September ist es wieder so weit: Die DMEXCO öffnet in Köln ihre Tore und wir sind mittendrin. Mit dabei: unser t3n-Media-Team am Gemeinschaftsstand mit den Kollegen von heiseonline und die Kolleg:innen von Digital Bash mit unserem gemeinsamen Bühnenprogramm direkt in Sichtweite. weiterlesen auf t3n.de",
+          "published": "Tue, 15 Sep 2026 11:00:40 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Microsoft Releases .NET 11 RC1 with Go-Live Support, C# 15 and F# 11 as Default Language Versions",
+          "link": "https://www.infoq.com/news/2026/09/dotnet-11-rc-1-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Last week, Microsoft has released .NET 11 Release Candidate 1, the first release candidate of the cycle, shipping with a go-live support license for production use. The release makes C# 15 and F# 11 the default language versions, extends dotnet test to mobile and desktop targets, finalizes the SignalR authentication refresh APIs, and improves Android build times in .NET MAUI. By Almir Vuk",
+          "published": "Tue, 15 Sep 2026 07:11:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Google Pixel: Wie du dein Smartphone mit einer zusätzlichen Kamera verbindest – und was dann möglich ist",
+          "link": "https://t3n.de/news/google-pixel-wie-du-dein-smartphone-mit-einer-zusaetzlichen-kamera-verbindest-und-was-dann-moeglich-ist-1763399/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Neben der Totale auch eine Seitenansicht filmen können? Das geht mit einem Feature auf Googles Pixel-Smartphones. Welche Möglichkeiten das für Aufnahmen und Livestreams eröffnet – und welche Einschränkungen gelten. weiterlesen auf t3n.de",
+          "published": "Tue, 15 Sep 2026 08:40:31 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "VW bricht mit neuem Konzeptfahrzeug drei Rekorde: Was den „Mission Efficiency“ so sparsam macht",
+          "link": "https://t3n.de/news/vw-mission-efficiency-sparsames-e-auto-rekorde-1763294/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit einer neuen Fahrzeugstudie hat VW gleich drei Weltrekorde aufgestellt. Was den &#8222;Mission Efficency&#8220; so besonders und besser als herkömmliche Serienfahrzeuge macht. weiterlesen auf t3n.de",
+          "published": "Mon, 14 Sep 2026 18:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "\"Offensively cheap\": Solar power is looking up",
+          "link": "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/",
+          "summary": "Chinese-made panels on rooftops across the world are changing the facts of life for big utilities.",
+          "published": "Mon, 14 Sep 2026 16:29:18 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Under Pressure? Triff t3n und Digital Bash auf der DMEXCO 2026",
+        "Microsoft Releases .NET 11 RC1 with Go-Live Support, C# 15 and F# 11 as Default Language Versions",
+        "Google Pixel: Wie du dein Smartphone mit einer zusätzlichen Kamera verbindest – und was dann möglich ist"
+      ]
+    }
+  ]
+}
