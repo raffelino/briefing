@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-16",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AWS agents will suggest your new flights. Code decides what gets booked.",
+          "link": "https://thenewstack.io/aws-agents-deterministic-validation/",
+          "summary": "AWS published a new Step Functions pattern this week that gives AI agents a role in airline rebooking while keeping The post AWS agents will suggest your new flights. Code decides what gets booked. appeared first on The New Stack .",
+          "published": "Tue, 15 Sep 2026 21:27:21 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Agents operate, humans govern: Scale your operations and reduce toil with Azure SRE Agent",
+          "link": "https://thenewstack.io/azure-sre-agent-operations/",
+          "summary": "What if engineers could spend their time building and optimizing systems rather than maintaining them? It&#8217;s 3 a.m., and the The post Agents operate, humans govern: Scale your operations and reduce toil with Azure SRE Agent appeared first on The New Stack .",
+          "published": "Tue, 15 Sep 2026 16:21:45 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Kubernetes 1.36 restores a lost guarantee for database backups",
+          "link": "https://thenewstack.io/kubernetes-volume-group-snapshots/",
+          "summary": "It&#8217;s 2 a.m., and you&#8217;re restoring a PostgreSQL cluster from last night&#8217;s backup. Its data directory lives on one PersistentVolumeClaim The post Kubernetes 1.36 restores a lost guarantee for database backups appeared first on The New Stack .",
+          "published": "Tue, 15 Sep 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Atlassian Automates Root Cause Analysis by Correlating Metrics, Logs and Traces",
+          "link": "https://www.infoq.com/news/2026/09/atlassian-automated-rca/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Atlassian has outlined a new approach to automating root cause analysis for large-scale cloud-native incidents, using correlation across metrics, logs, distributed traces, and service topology to generate ranked hypotheses about where failures originate and how they propagate. By Craig Risi",
+          "published": "Tue, 15 Sep 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Grab's Agent Framework LLM-Kit Accelerates AI Agent Production Deployment",
+          "link": "https://www.infoq.com/news/2026/09/grab-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Grab has implemented LLM-Kit, a framework that standardizes over 500 internal agent services. This system enhances service integration, evaluation, and secret handling, reducing the time to deploy new AI agents from two weeks to one hour. It centralizes infrastructure management, allowing runtime tool discovery and flexible model integration, while maintaining operational control. By Hien Luu",
+          "published": "Tue, 15 Sep 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AWS agents will suggest your new flights. Code decides what gets booked.",
+        "Agents operate, humans govern: Scale your operations and reduce toil with Azure SRE Agent",
+        "Kubernetes 1.36 restores a lost guarantee for database backups"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Eclipse IDE 2026-09 bringt experimentellen Unified-Diff-Modus",
+          "link": "https://www.heise.de/news/Eclipse-IDE-2026-09-Compact-Source-Files-und-Unified-Diff-11447106.html",
+          "summary": "Das neue Quartals-Release der Open-Source-IDE bietet beim Entwickeln mit Java einen neuen Dialog zum Erstellen von Compact Source Files.",
+          "published": "2026-09-10T06:43:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Eclipse IDE 2026-09 bringt experimentellen Unified-Diff-Modus"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: September-Termin: heise security Tour mit Vorträgen zu KI, Lieferketten und mehr",
+          "link": "https://www.heise.de/news/September-Termin-heise-security-Tour-mit-Vortraegen-zu-KI-Lieferketten-und-mehr-11452936.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Eintageskonferenz für Sicherheitsverantwortliche mit praxisrelevantem Wissen zu aktuellen Herausforderungen der IT-Sicherheit: KI, Lieferketten und mehr.",
+          "published": "2026-09-16T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anzeige: NIS-2 verlangt MFA - so rüsten Firmen ihr Active Directory nach",
+          "link": "https://www.golem.de/news/anzeige-nis-2-verlangt-mfa-so-ruesten-firmen-ihr-active-directory-nach-2609-212806.html",
+          "summary": "NIS-2 schreibt MFA vor - Active Directory bietet dafür kaum Bordmittel. Specops Secure Access sichert Windows, VPN und RDP: phishing-resistent und offline-fähig. ( Security , Datensicherheit )",
+          "published": "2026-09-16T09:00:08+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "(g+) Cybersecurity: Das italienische Start-up Exein sammelt 270 Millionen US-Dollar, um KI-Hacker mit KI zu bekämpfen",
+          "link": "https://www.golem.de/news/cybersecurity-das-italienische-start-up-exein-sammelt-270-millionen-us-dollar-um-ki-hacker-mit-ki-zu-bekaempfen-2609-213040.html",
+          "summary": "Ein Unternehmen aus Rom will Roboter, Drohnen, Leuchtmittel vor KI-Hacks schützen. Das Investoreninteresse ist riesig, die Financial Times hat mit dem Gründer gesprochen. Von Tom Wilson ( KI , Security )",
+          "published": "2026-09-15T18:00:02+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Cybersecurity Act (CSA): Europäische Telco-CEOs wehren sich gegen ein Huawei-Verbot",
+          "link": "https://www.golem.de/news/cybersecurity-act-csa-europaeische-telco-ceos-wehren-sich-gegen-ein-huawei-verbot-2609-213053.html",
+          "summary": "Der politisch gewollte Bann chinesischer Ausrüster droht die europäischen Netze zu ruinieren. Europäische Souveränität durch Nokia und Ericsson erweist sich als Trugschluss. Eine Analyse von Achim Sawall ( Huawei , API )",
+          "published": "2026-09-15T16:41:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: September-Termin: heise security Tour mit Vorträgen zu KI, Lieferketten und mehr",
+        "Anzeige: NIS-2 verlangt MFA - so rüsten Firmen ihr Active Directory nach",
+        "(g+) Cybersecurity: Das italienische Start-up Exein sammelt 270 Millionen US-Dollar, um KI-Hacker mit KI zu bekämpfen"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Sichtbar in KI-Antworten: Was Marketer jetzt über GEO wissen müssen",
+          "link": "https://t3n.de/news/geo-seo-sichtbar-in-ki-antworten-1759806/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kaum ein Thema bewegt im SEO-Bereich derzeit so die Gemüter wie die Frage, ob klassische Suchmaschinenoptimierung im KI-Zeitalter noch ausreicht, oder ob man zu GEO greifen sollte. Google hat jetzt aus seiner Sicht eine Antwort darauf gegeben. weiterlesen auf t3n.de",
+          "published": "Tue, 15 Sep 2026 17:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Bitkom: Social Media für viele Schulen laut Lehrkräften ein Problem",
+          "link": "https://www.heise.de/news/Bitkom-Social-Media-fuer-viele-Schulen-laut-Lehrkraeften-ein-Problem-11454125.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Laut einer Bitkom-Befragung halten nur wenige Lehrkräfte Schulen beim Thema Social Media für ausreichend vorbereitet. Knapp ein Drittel will ein Verbot.",
+          "published": "2026-09-15T18:10:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Sichtbar in KI-Antworten: Was Marketer jetzt über GEO wissen müssen",
+        "Bitkom: Social Media für viele Schulen laut Lehrkräften ein Problem"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Herdr: Terminal-Multiplexer sortiert Flotten von Coding-Agenten",
+          "link": "https://www.heise.de/news/Herdr-Terminal-Multiplexer-sortiert-Flotten-von-Coding-Agenten-11448520.html",
+          "summary": "Herdr bündelt langlebige Terminal-Sitzungen und zeigt, welcher Coding-Agent auf Eingaben wartet. Omarchy Linux integriert das junge Open-Source-Projekt.",
+          "published": "2026-09-11T16:26:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Ansible für automatisiertes Systemmanagement",
+          "link": "https://www.golem.de/news/anzeige-ansible-fuer-automatisiertes-systemmanagement-2609-213058.html",
+          "summary": "Ansible ermöglicht die automatisierte Konfiguration und Verwaltung von Linux-Systemen. Die Golem Karrierewelt vermittelt dafür Grundlagen und fortgeschrittene Techniken. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-09-16T07:15:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Herdr: Terminal-Multiplexer sortiert Flotten von Coding-Agenten",
+        "Anzeige: Ansible für automatisiertes Systemmanagement"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "KI-Hotline zum Petzen: Warum Agenten andere Agenten anschwärzen sollen",
+          "link": "https://t3n.de/news/ki-hotline-petzen-agenten-1763650/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI-Agenten haben jetzt mehrere Wege, um einander bei Sicherheitsforscher:innen anzuschwärzen. Wie das funktioniert und welchen Zweck die &#8222;AI Contact Hotlines&#8220; haben sollen. weiterlesen auf t3n.de",
+          "published": "Wed, 16 Sep 2026 09:30:32 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Dropbox Outlines How Focusing on Existing Infrastructure Efficiency Can Create Headroom for AI",
+          "link": "https://www.infoq.com/news/2026/09/dropbox-datacenter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Dropbox has outlined how a decade of infrastructure optimization is helping it absorb growing demand from AI without treating new data-center capacity as the only answer. Its work spans forecasting, fleet utilization, storage density, hardware lifecycles, and rack-level power delivery, much of it predating the current AI boom. By Matt Foster",
+          "published": "Wed, 16 Sep 2026 07:15:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "KI made in Germany: Warum SAP eine Milliarde in ein Freiburger Startup investiert",
+          "link": "https://t3n.de/news/ki-made-in-germany-warum-sap-eine-milliarde-in-ein-freiburger-startup-investiert-1762906/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kaum jemand kennt Tabular Foundation Models, aber der potenzielle Nutzen für die Datenanalyse ist enorm. Prior Labs, eines der führenden Startups in dem Segment weiterlesen auf t3n.de",
+          "published": "Wed, 16 Sep 2026 09:00:55 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI president: “The computer should be there to empower you.” So stop retooling software for AI agents",
+          "link": "https://thenewstack.io/computer-use-agent-connectors/",
+          "summary": "This week on the a16z show, Greg Brockman, president and co-founder of OpenAI, made the point that developers have been The post OpenAI president: “The computer should be there to empower you.” So stop retooling software for AI agents appeared first on The New Stack .",
+          "published": "Tue, 15 Sep 2026 23:41:22 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Meta lets Claude and Codex configure WhatsApp Business via MCP. But the agents don’t get their own identity.",
+          "link": "https://thenewstack.io/meta-mcp-whatsapp-business-claude/",
+          "summary": "Any business worth its salt in 2026 needs to be embracing the right tools to reach its customers, and few The post Meta lets Claude and Codex configure WhatsApp Business via MCP. But the agents don&#8217;t get their own identity. appeared first on The New Stack .",
+          "published": "Tue, 15 Sep 2026 22:08:56 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KI-Hotline zum Petzen: Warum Agenten andere Agenten anschwärzen sollen",
+        "Dropbox Outlines How Focusing on Existing Infrastructure Efficiency Can Create Headroom for AI",
+        "KI made in Germany: Warum SAP eine Milliarde in ein Freiburger Startup investiert"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Nach zehn Jahren Fortschritt: Warum der Frauenanteil in deutschen Top-Etagen bröckelt",
+          "link": "https://t3n.de/news/nach-zehn-jahren-fortschritt-warum-der-frauenanteil-in-deutschen-top-etagen-broeckelt-1762344/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Frauenanteil in den Vorständen deutscher Börsenkonzerne ist laut einer Studie seit Jahren erstmals zurückgegangen. Das hat auch etwas mit dem gesamtgesellsc weiterlesen auf t3n.de",
+          "published": "Wed, 16 Sep 2026 10:40:55 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Größer als die Autobranche: Deutschlands Digitalunternehmen erwirtschaften 481 Milliarden Euro",
+          "link": "https://t3n.de/news/groesser-als-die-autobranche-deutschlands-digitalunternehmen-erwirtschaften-481-milliarden-euro-1763639/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mehr als 15 Millionen Jobs hängen inzwischen an digitalen Geschäftsmodellen – und die meisten Unternehmen sind keine Tech-Giganten, sondern Mittelständler. weiterlesen auf t3n.de",
+          "published": "Wed, 16 Sep 2026 08:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Eine Tonne „grüner“ Stahl am Tag: US-Startup entwickelt neuen Ofen – und will diese alte Industrie umkrempeln",
+          "link": "https://t3n.de/news/eine-tonne-gruener-stahl-am-tag-us-startup-entwickelt-neuen-ofen-und-will-diese-alte-industrie-umkrempeln-1762711/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Dekarbonisierung bei der Herstellung von Stahl verläuft schleppend. Doch die US-Unternehmerin Laureen Meroueh hat ein Verfahren entwickelt, mit dem sich die weiterlesen auf t3n.de",
+          "published": "Wed, 16 Sep 2026 07:30:49 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Millionenstadt auf dem Mond: Forscher berechnen, wie lange Wasser und Strom reichen",
+          "link": "https://t3n.de/news/millionenstadt-mond-wasser-1763623/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Nasa will bis 2030 mit dem Bau einer Mondbasis beginnen. Elon Musks Besiedlungspläne sind noch ambitionierter. Aber reichen Wasser und Strom, um eine Millionenstadt auf dem Mond zu betreiben? Das haben jetzt Forscher berechnet. weiterlesen auf t3n.de",
+          "published": "Tue, 15 Sep 2026 20:45:34 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Samsung Galaxy 8 statt Galaxy 9: Für wen sich das ältere Modell jetzt lohnt",
+          "link": "https://t3n.de/news/samsung-galaxy-8-statt-galaxy-9-fuer-wen-sich-das-aeltere-modell-jetzt-lohnt-1763584/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Samsung Galaxy Watch 9 bringt einen schnelleren Prozessor und neue Fitness-Funktionen mit. Technisch bleibt sie im Vergleich zu ihrem Vorgänger aber erstaunlich ähnlich – und der kostet deutlich weniger. weiterlesen auf t3n.de",
+          "published": "Tue, 15 Sep 2026 17:30:26 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Nach zehn Jahren Fortschritt: Warum der Frauenanteil in deutschen Top-Etagen bröckelt",
+        "Größer als die Autobranche: Deutschlands Digitalunternehmen erwirtschaften 481 Milliarden Euro",
+        "Eine Tonne „grüner“ Stahl am Tag: US-Startup entwickelt neuen Ofen – und will diese alte Industrie umkrempeln"
+      ]
+    }
+  ]
+}
