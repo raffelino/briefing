@@ -1,0 +1,303 @@
+{
+  "date": "2026-09-17",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Repeated VM Escapes By GPT-5.6-Cyber Based Agents Prove  VMs and OS' Require Better Maintenance",
+          "link": "https://www.infoq.com/news/2026/09/agent-escape-vm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Traditional virtual machines are inadequate for isolating cyber-capable autonomous agents. Tests using GPT-5.6-Cyber indicated multiple escape attempts due to kernel flaws. While Firecracker provided some containment, vulnerabilities remained. The study underscores the need for minimal attack surface virtualisation technologies and rapid, proactive patching strategies to safeguard host systems. By Olimpiu Pop",
+          "published": "Thu, 17 Sep 2026 07:07:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+          "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+          "summary": "Group plans to be largely out of commission for several weeks.",
+          "published": "Wed, 16 Sep 2026 21:08:14 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "California may gut state net neutrality law to comply with Trump admin demand",
+          "link": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
+          "summary": "Trump admin broadband grants forbid states from enforcing net neutrality laws.",
+          "published": "Wed, 16 Sep 2026 19:36:44 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Microsoft Open-Sources TauGrid to Simplify AI Workload Management on Kubernetes",
+          "link": "https://www.infoq.com/news/2026/09/microsoft-taugrid-open-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has open-sourced TauGrid, a cloud-native platform designed to manage, schedule, and monitor AI workloads on GPU-enabled Kubernetes clusters. By Sergio De Simone",
+          "published": "Wed, 16 Sep 2026 18:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+          "link": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+          "summary": "War damage to data centers exceeded what AWS services are designed to withstand.",
+          "published": "Wed, 16 Sep 2026 16:40:11 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Repeated VM Escapes By GPT-5.6-Cyber Based Agents Prove  VMs and OS' Require Better Maintenance",
+        "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+        "California may gut state net neutrality law to comply with Trump admin demand"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java 27 Delivers Post-Quantum Cryptography, Future Language Innovation, Helidon 27, JavaFX 27",
+          "link": "https://www.infoq.com/news/2026/09/java27-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Oracle has released version 27 of the Java programming language and virtual machine. As the second non-LTS release since JDK 25, the final feature set includes nine JEPs, five of which are still progressing through the preview and incubator stages. This release focuses on strengthening security, future language innovation, and projects under the auspices of the Java Verified Portfolio. By Michael Redlich",
+          "published": "Wed, 16 Sep 2026 10:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Eclipse IDE 2026-09 bringt experimentellen Unified-Diff-Modus",
+          "link": "https://www.heise.de/news/Eclipse-IDE-2026-09-Compact-Source-Files-und-Unified-Diff-11447106.html",
+          "summary": "Das neue Quartals-Release der Open-Source-IDE bietet beim Entwickeln mit Java einen neuen Dialog zum Erstellen von Compact Source Files.",
+          "published": "2026-09-10T06:43:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Java 27 Delivers Post-Quantum Cryptography, Future Language Innovation, Helidon 27, JavaFX 27",
+        "Eclipse IDE 2026-09 bringt experimentellen Unified-Diff-Modus"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "GPT-6 Astra Is the First Model OpenAI Classifies as Critical for Cybersecurity",
+          "link": "https://www.infoq.com/news/2026/09/gpt-6-astra-critical-cyber/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "OpenAI has classified GPT-6 Astra at the Critical cybersecurity threshold under its Preparedness Framework, a first. In expert-led testing the model found previously unknown vulnerabilities in a browser and an OS kernel and built working exploits. The same system card reports a substantial decline in chain-of-thought monitorability. By Steef-Jan Wiggers",
+          "published": "Thu, 17 Sep 2026 04:59:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise-Angebot: c’t-Workshop: Threat Modeling – Sicherheitslücken finden, bevor Angreifer es tun",
+          "link": "https://www.heise.de/news/c-t-Workshop-Threat-Modeling-Sicherheitsluecken-finden-bevor-Angreifer-es-tun-11454593.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Threat Modeling gehört nicht nur in die Security-Abteilung. Der Workshop zeigt, wie ganze Entwicklungsteams Bedrohungen gemeinsam analysieren.",
+          "published": "2026-09-17T08:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(2 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "GPT-6 Astra Is the First Model OpenAI Classifies as Critical for Cybersecurity",
+        "heise-Angebot: c’t-Workshop: Threat Modeling – Sicherheitslücken finden, bevor Angreifer es tun"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Spritpreise: Reiche will Steuer auf Benzin und Diesel senken",
+          "link": "https://www.golem.de/news/spritpreise-reiche-will-steuer-auf-benzin-und-diesel-senken-2609-213126.html",
+          "summary": "Die Bundeswirtschaftsministerin schlägt eine Mehrwertsteuersenkung von 19 auf sieben Prozent vor und verspricht Entlastung direkt an der Zapfsäule. ( Bundesregierung , Politik )",
+          "published": "2026-09-17T07:25:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Spritpreise: Reiche will Steuer auf Benzin und Diesel senken"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Neuer Job als Lead Software Developer gesucht? Schau dir unsere Top Jobs an",
+          "link": "https://t3n.de/news/unsere-jobs-der-woche-1175973/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hier findest du unsere besten Jobs aus den Bereichen Technik &amp; Entwicklung, Marketing, PR &amp; Kommunikation, Projektmanagement &amp; Produktmanagement, Design &amp; UX, Content &amp; Redaktion und Business Development. weiterlesen auf t3n.de",
+          "published": "Thu, 17 Sep 2026 11:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "USA auf Rekordkurs bei Batteriespeichern: Doch das macht eine Krux offensichtlich",
+          "link": "https://t3n.de/news/usa-rekord-batteriespeicher-krux-1762957/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Batteriespeicher sind derzeit einer der wachstumsstärksten Bereiche der US-Energiewirtschaft. Doch fast alle neuen Systeme nutzen Zellen aus China — genau die w weiterlesen auf t3n.de",
+          "published": "Thu, 17 Sep 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Wie User Ads wahrnehmen: Neue Metriken für Chrome UX Report",
+          "link": "https://t3n.de/news/wie-user-ads-wahrnehmen-neue-metriken-fuer-chrome-ux-report-1763757/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Neue Metriken wie Ad Count und Ad Density im Chrome User Experience Report (CrUX) zeigen, wie User Werbung beim Browsen erleben. Das soll Advertisern im Web ein besseres Bild verschaffen und ihre Werbestrategie unterstützen. weiterlesen auf t3n.de",
+          "published": "Wed, 16 Sep 2026 15:15:42 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Herdr: Terminal-Multiplexer sortiert Flotten von Coding-Agenten",
+          "link": "https://www.heise.de/news/Herdr-Terminal-Multiplexer-sortiert-Flotten-von-Coding-Agenten-11448520.html",
+          "summary": "Herdr bündelt langlebige Terminal-Sitzungen und zeigt, welcher Coding-Agent auf Eingaben wartet. Omarchy Linux integriert das junge Open-Source-Projekt.",
+          "published": "2026-09-11T16:26:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Limitierte David-Beckham-Kaffeemaschine mit 250 Euro Rabatt bei Amazon",
+          "link": "https://www.golem.de/news/anzeige-limitierte-david-beckham-kaffeemaschine-mit-250-euro-rabatt-bei-amazon-2609-213097.html",
+          "summary": "Die Ninja Luxe Café Pro im David-Beckham-Design kostet bei Amazon nur noch 599,99 Euro. Das sind 250 Euro weniger als die UVP. ( Haushaltsgeräte , Amazon )",
+          "published": "2026-09-16T13:25:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Neuer Job als Lead Software Developer gesucht? Schau dir unsere Top Jobs an",
+        "USA auf Rekordkurs bei Batteriespeichern: Doch das macht eine Krux offensichtlich",
+        "Wie User Ads wahrnehmen: Neue Metriken für Chrome UX Report"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Presentation: When Incidents Refuse to End",
+          "link": "https://www.infoq.com/presentations/stream-incidents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Vanessa Huerta Granda explains how marathon incidents expose the gap between work as imagined and work as done. Drawing from real-world scenarios, she shares how complex outages reveal organizational fragility, human limits, and system interdependencies—and why incident response requires structured endurance, humane rotations, and holistic cross-functional coordination. By Vanessa Huerta Granda",
+          "published": "Thu, 17 Sep 2026 09:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "KI mit Selbstzweifel: Wie Modelle entscheiden, wann sie besser nicht antworten",
+          "link": "https://t3n.de/news/ki-mit-selbstzweifel-wie-modelle-entscheiden-wann-sie-besser-nicht-antworten-1763842/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine neue Studie zeigt, welche Rolle das interne Konfidenzniveau spielt. Je höher es ist, desto eher verzichten sie darauf, eine Antwort zu liefern. Vor allem für KI-Agenten ist das eine wichtige Erkenntnis. weiterlesen auf t3n.de",
+          "published": "Thu, 17 Sep 2026 10:50:54 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Warum deine KI bei langen Chats plötzlich schlechter wird – und was hilft",
+          "link": "https://t3n.de/news/ki-langen-chats-ploetzlich-schlechter-was-hilft-prompt-engineering-1763737/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Je länger ein Chat mit ChatGPT, Claude oder Gemini läuft, desto häufiger schleichen sich Fehler ein. Dann ist meist das Kontextfenster voll, Informationen gehen unkontrolliert verloren. Bei t3n MeisterPrompter erfährst du, wie du das Problem erkennst und gegensteuerst. weiterlesen auf t3n.de",
+          "published": "Thu, 17 Sep 2026 08:00:26 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nach Hacking-Attacke: OpenAI meldet weitere Fälle, in denen KI auf eigene Faust handelt",
+          "link": "https://t3n.de/news/openai-ki-besorrgniserregend-1763810/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Hacking-Attacke durch KI-Software von OpenAI verstärkte zuletzt die Ängste vor der Technologie. Jetzt gibt der ChatGPT-Entwickler neue Probleme bekannt. weiterlesen auf t3n.de",
+          "published": "Thu, 17 Sep 2026 07:30:10 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Perplexity’s AI agents helped build a database. They weren’t allowed to run it.",
+          "link": "https://thenewstack.io/perplexity-cobbledb-ai-database/",
+          "summary": "Perplexity decided it was paying too much for DynamoDB and wasn&#8217;t getting the control it wanted over read performance. So The post Perplexity’s AI agents helped build a database. They weren’t allowed to run it. appeared first on The New Stack .",
+          "published": "Wed, 16 Sep 2026 21:51:15 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: When Incidents Refuse to End",
+        "KI mit Selbstzweifel: Wie Modelle entscheiden, wann sie besser nicht antworten",
+        "Warum deine KI bei langen Chats plötzlich schlechter wird – und was hilft"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Kopierschutz: Denuvo verklagt Cracker voices38 in den USA",
+          "link": "https://www.heise.de/news/Kopierschutz-Denuvo-verklagt-Cracker-voices38-in-den-USA-11456106.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Denuvo hat in den USA Klage gegen den Cracker voices38 eingereicht – er soll den Kopierschutz bei 26 Spielen umgangen haben. Wer dahintersteckt, ist unklar.",
+          "published": "2026-09-17T09:27:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Grundsatzurteil: BGH stärkt Verbraucherrechte bei Datenweitergabe im Netz",
+          "link": "https://www.heise.de/news/Grundsatzurteil-BGH-staerkt-Verbraucherrechte-bei-Datenweitergabe-im-Netz-11455760.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Verbraucher können laut dem BGH unerlaubte Datenübermittlungen über deutsches Recht stoppen, selbst wenn die DSGVO keinen reinen Unterlassungsanspruch bietet.",
+          "published": "2026-09-16T18:33:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(2 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Kopierschutz: Denuvo verklagt Cracker voices38 in den USA",
+        "Grundsatzurteil: BGH stärkt Verbraucherrechte bei Datenweitergabe im Netz"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Presentation: Teaching Engineers, Trusting AI: How Education Enabled Autonomous Code Review",
+          "link": "https://www.infoq.com/presentations/duolingo-ai-literacy-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Sarah Deitke discusses how Duolingo drives cultural AI adoption beyond tooling access. She explains their internal AI literacy workshops and observability dashboards, then shares a case study on redesigning code review using an automated PR risk-assessment bot. Deitke demonstrates how pairing targeted developer education with safe AI guardrails speeds up delivery without increasing defect rates. By Sarah Deitke",
+          "published": "Wed, 16 Sep 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Teaching Engineers, Trusting AI: How Education Enabled Autonomous Code Review"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Datenschutz bremst Innovation? Forscher widerlegen den Mythos – und zeigen, was wirklich zählt",
+          "link": "https://t3n.de/news/datenschutz-bremst-innovation-forscher-widerlegen-den-mythos-und-zeigen-was-wirklich-zaehlt-1763830/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Datenschutz als Wettbewerbsvorteil: Wie Europa mit Qualität statt Datenmaximierung punkten kann und was Forscher empfehlen. weiterlesen auf t3n.de",
+          "published": "Thu, 17 Sep 2026 09:05:47 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Serbien: Oppositionelle stehen im Visier von Überwachungssoftware",
+          "link": "https://netzpolitik.org/2026/serbien-oppositionelle-stehen-im-visier-von-ueberwachungssoftware/",
+          "summary": "Kurz vor den Neuwahlen wurden Infektionen mit Trojanern bekannt. – Alle Rechte vorbehalten: Trojanisches Pferd: IMAGO / Zoonar, Vučić: IMAGO / Anadolu Agency IT-Forensik-Fachleute haben in mehreren Fällen den gezielten Einsatz von Spyware gegen Bürger:innen in Serbien festgestellt. Das ist nicht das erste Mal, dass Regierungskritiker:innen und Oppositionelle des Balkanstaats ins Visier geraten.",
+          "published": "Wed, 16 Sep 2026 15:23:30 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "EU Kids Act: EU-Kommission will Netz mit Alterskontrollen zupflastern",
+          "link": "https://netzpolitik.org/2026/eu-kids-act-eu-kommission-will-netz-mit-alterskontrollen-zupflastern/",
+          "summary": "Geht es nach der EU-Kommission, sollen alle Erwachsenen im Netz ihr Alter nachweisen. Und Eltern sollen nachweisen, dass sie die Eltern ihrer eigenen Kinder sind. – Alle Rechte vorbehalten: IMAGO/photothek; Bearbeitung: netzpolitik.org Für viele soziale Medien, Videoplattformen, Apps und Spiele sollen Menschen künftig ihr Alter kontrollieren lassen. Und wenn Erwachsene für Kinder einen Account einrichten, sollen sie ihre Sorgeberechtigung nachweisen. Das und mehr steht im Entwurf der EU-Kommission für den EU Kids Act, den wir hier veröffentlichen.",
+          "published": "Wed, 16 Sep 2026 14:31:06 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Notfall-Update veröffentlicht: Diesen Windows-Patch solltest du nicht herauszögern",
+          "link": "https://t3n.de/news/notfall-update-windows-1763765/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Microsoft will Probleme beheben, die sich mit dem letzten Update für Windows 10 und 11 eingeschlichen haben. Deshalb veröffentlicht das Unternehmen jetzt ein Notfall-Update. Was in dem Patch steckt. weiterlesen auf t3n.de",
+          "published": "Wed, 16 Sep 2026 16:00:30 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Über 45.000 Objekte kreisen um die Erde: So will die Esa das Müllproblem im All lösen",
+          "link": "https://t3n.de/news/weltraumschrott-esa-plan-muellproblem-all-1686467/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Allein 2025 wurden laut einem aktuellen Bericht der Weltraumbehörde Esa mehr als 4000 Objekte ins All katapultiert – und damit noch mehr potenzieller Weltraumsc weiterlesen auf t3n.de",
+          "published": "Wed, 16 Sep 2026 15:55:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Datenschutz bremst Innovation? Forscher widerlegen den Mythos – und zeigen, was wirklich zählt",
+        "Serbien: Oppositionelle stehen im Visier von Überwachungssoftware",
+        "EU Kids Act: EU-Kommission will Netz mit Alterskontrollen zupflastern"
+      ]
+    }
+  ]
+}
