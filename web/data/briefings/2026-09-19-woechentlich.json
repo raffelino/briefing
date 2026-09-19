@@ -1,0 +1,367 @@
+{
+  "date": "2026-09-19",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AWS Lambda Pushes Serverless Toward Long-Running Workloads",
+          "link": "https://www.infoq.com/news/2026/09/lambda-90-minute-timeout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS Lambda now allows functions running on Lambda Managed Instances to run for up to 90 minutes, six times longer than the previous 15-minute limit, further blurring the line between a Lambda invocation and a traditional server. The limit remains unchanged for traditional synchronous requests. By Renato Losio",
+          "published": "Sat, 19 Sep 2026 09:11:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Kubernetes can run AI inference. But can it count the real cost?",
+          "link": "https://thenewstack.io/kubernetes-ai-inference-costs/",
+          "summary": "Welcome to another edition of Road to KubeCon, where we&#8217;re tracking the Kubernetes and cloud-native ecosystem on the way into The post Kubernetes can run AI inference. But can it count the real cost? appeared first on The New Stack .",
+          "published": "Fri, 18 Sep 2026 15:53:21 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Kubernetes Multi-Cluster Project Karmada Reaches CNCF Graduation",
+          "link": "https://www.infoq.com/news/2026/09/karmada-kubernetes-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The Cloud Native Computing Foundation (CNCF) announced on September 2026 that Karmada, a multi-cluster and multi-cloud Kubernetes orchestration project, has graduated. This multi-cluster and multi-cloud Kubernetes orchestration project reached CNCF's highest maturity tier. By Claudio Masolo",
+          "published": "Thu, 17 Sep 2026 10:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Repeated VM Escapes By GPT-5.6-Cyber Based Agents Prove  VMs and OS' Require Better Maintenance",
+          "link": "https://www.infoq.com/news/2026/09/agent-escape-vm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Traditional virtual machines are inadequate for isolating cyber-capable autonomous agents. Tests using GPT-5.6-Cyber indicated multiple escape attempts due to kernel flaws. While Firecracker provided some containment, vulnerabilities remained. The study underscores the need for minimal attack surface virtualisation technologies and rapid, proactive patching strategies to safeguard host systems. By Olimpiu Pop",
+          "published": "Thu, 17 Sep 2026 07:07:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AWS agents will suggest your new flights. Code decides what gets booked.",
+          "link": "https://thenewstack.io/aws-agents-deterministic-validation/",
+          "summary": "AWS published a new Step Functions pattern this week that gives AI agents a role in airline rebooking while keeping The post AWS agents will suggest your new flights. Code decides what gets booked. appeared first on The New Stack .",
+          "published": "Tue, 15 Sep 2026 21:27:21 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Agents operate, humans govern: Scale your operations and reduce toil with Azure SRE Agent",
+          "link": "https://thenewstack.io/azure-sre-agent-operations/",
+          "summary": "What if engineers could spend their time building and optimizing systems rather than maintaining them? It&#8217;s 3 a.m., and the The post Agents operate, humans govern: Scale your operations and reduce toil with Azure SRE Agent appeared first on The New Stack .",
+          "published": "Tue, 15 Sep 2026 16:21:45 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS ohne IAM-Frust: direkt losentwickeln",
+          "link": "https://www.heise.de/news/AWS-ohne-IAM-Frust-direkt-losentwickeln-11457951.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Amazon Web Services bietet Neukunden einen vereinfachten Einstieg mit vorkonfigurierten Projektumgebungen und Ausgabenlimits.",
+          "published": "2026-09-18T12:06:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "AWS ohne IAM-Frust: direkt losentwickeln",
+          "link": "https://www.heise.de/news/AWS-ohne-IAM-Frust-direkt-losentwickeln-11457951.html",
+          "summary": "Amazon Web Services bietet Neukunden einen vereinfachten Einstieg mit vorkonfigurierten Projektumgebungen und Ausgabenlimits.",
+          "published": "2026-09-18T10:06:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(8 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AWS Lambda Pushes Serverless Toward Long-Running Workloads",
+        "Kubernetes can run AI inference. But can it count the real cost?",
+        "Kubernetes Multi-Cluster Project Karmada Reaches CNCF Graduation"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "htmx 4.0: a Fetch-Based Rewrite, Built-In Morphing Swaps, and Explicit Attribute Inheritance",
+          "link": "https://www.infoq.com/news/2026/09/htmx-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "htmx 4 has been released, featuring a transition from XMLHttpRequest to the fetch() API, enhancing streaming capabilities. Key updates include built-in morphing swaps for DOM state preservation and an hx-partial tag for cleaner updates. Attribute inheritance is now explicit, with event names standardized. The library maintains focus on minimal JavaScript while remaining popular among frameworks. By Daniel Curtis",
+          "published": "Fri, 18 Sep 2026 09:32:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "htmx 4.0: a Fetch-Based Rewrite, Built-In Morphing Swaps, and Explicit Attribute Inheritance"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: c’t-Webinar: Phishing, Passkeys und Co. – IT-Sicherheit für den Alltag",
+          "link": "https://www.heise.de/news/c-t-Webinar-Phishing-Passkeys-und-Co-IT-Sicherheit-fuer-den-Alltag-11458131.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Phishing, Passwörter, Backups: Im zweiteiligen c’t-Webinar lernen Einsteiger, wie sie Geräte und Daten wirksam schützen.",
+          "published": "2026-09-19T13:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: KI-Anwendungen angreifen, Schwachstellen finden und gezielt härten",
+          "link": "https://www.heise.de/news/iX-Workshop-KI-Anwendungen-angreifen-Schwachstellen-finden-und-gezielt-haerten-11434271.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Greifen Sie einen verwundbaren Bank-Chatbot an, spüren Sie Schwachstellen auf und lernen Sie, KI-Anwendungen Schritt für Schritt wirksam abzusichern.",
+          "published": "2026-09-19T10:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(2 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: c’t-Webinar: Phishing, Passkeys und Co. – IT-Sicherheit für den Alltag",
+        "heise-Angebot: iX-Workshop: KI-Anwendungen angreifen, Schwachstellen finden und gezielt härten"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Klage vor Verwaltungsgericht: Polizei fotografierte anlasslos Demonstrierende mit Transparent",
+          "link": "https://netzpolitik.org/2026/klage-vor-verwaltungsgericht-polizei-fotografierte-anlasslos-demonstrierende-mit-transparent/",
+          "summary": "Eine Person fordert auf der Demo am 20.9.2025 die Legalisierung von Abtreibungen. Die Berliner Polizei fotografierte solche Transparente, Plakate und Meinungsäußerungen. – Alle Rechte vorbehalten: IMAGO / snapshot Wer ein Transparent auf eine Demo mitnimmt, muss damit rechnen, in den Fokus der Polizei zu geraten. Das darf nicht sein, findet die Gesellschaft für Freiheitsrechte, denn Schilder und Plakate sind ein wichtiger Teil der Versammlungsfreiheit. Sie klagt nun gegen die Berliner Polizei.",
+          "published": "Thu, 17 Sep 2026 15:13:26 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "10-Punkte-Plan nach dem CSD-Anschlag: Die volle Härte des Strafstaats",
+          "link": "https://netzpolitik.org/2026/10-punkte-plan-nach-dem-csd-anschlag-die-volle-haerte-des-strafstaats/",
+          "summary": "Mehr Heranwachsende einzusperren, wird kaum Probleme lösen. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: engin akyurt Nach dem Anschlag auf den CSD legt die Bundesregierung altbekannte Maßnahmen auf den Tisch. Das Versagen von Behörden kaschiert sie, zum Schutz queerer Menschen fällt ihr nichts ein. Stattdessen geht es um Härte und Strafen. Ein Kommentar.",
+          "published": "Thu, 17 Sep 2026 12:10:52 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Pressefreiheit in Venezuela: Regierung gibt erste Domains frei",
+          "link": "https://www.heise.de/news/Venezuela-Kritische-Portale-sollen-wieder-zugaenglich-sein-11458651.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Venezuelas Übergangsregierung hat Onlineportale wieder freigeschaltet, die lange blockiert waren. Für die Opposition und die UNO ist das ein erster Schritt.",
+          "published": "2026-09-18T17:24:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Klage vor Verwaltungsgericht: Polizei fotografierte anlasslos Demonstrierende mit Transparent",
+        "10-Punkte-Plan nach dem CSD-Anschlag: Die volle Härte des Strafstaats",
+        "Pressefreiheit in Venezuela: Regierung gibt erste Domains frei"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Herdr: Terminal-Multiplexer sortiert Flotten von Coding-Agenten",
+          "link": "https://www.heise.de/news/Herdr-Terminal-Multiplexer-sortiert-Flotten-von-Coding-Agenten-11448520.html",
+          "summary": "Herdr bündelt langlebige Terminal-Sitzungen und zeigt, welcher Coding-Agent auf Eingaben wartet. Omarchy Linux integriert das junge Open-Source-Projekt.",
+          "published": "2026-09-11T16:26:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "(g+) Praxis-Workshop: TPM 2.0 unter Linux",
+          "link": "https://www.golem.de/news/praxis-workshop-tpm-2-0-unter-linux-2609-213171.html",
+          "summary": "Das einst verteufelte TPM ist längst im Linux-Alltag angekommen: Es entsperrt LUKS-Volumes, hütet SSH-Schlüssel und versiegelt Geheimnisse. Eine Anleitung von Martin Loschwitz ( Linux , Malware )",
+          "published": "2026-09-18T13:30:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Herdr: Terminal-Multiplexer sortiert Flotten von Coding-Agenten",
+        "(g+) Praxis-Workshop: TPM 2.0 unter Linux"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "German Web Awards 2026: Welche Agenturen prägen das KI-Zeitalter des Webs?",
+          "link": "https://t3n.de/news/german-web-awards-2026-gewinner-1758922/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Künstliche Intelligenz hat die Spielregeln im Web neu geschrieben. Wer digital überzeugen will, braucht mehr als eine schöne Website. Gefragt sind klare Strategien, technisches Können und Inhalte, die auch von Maschinen verstanden werden. Die German Web Awards zeichnen die Agenturen aus, denen das in diesem Jahr am besten gelungen ist. weiterlesen auf t3n.de",
+          "published": "Sat, 19 Sep 2026 13:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP",
+          "link": "https://www.infoq.com/presentations/linkedin-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Ajay Prakash discusses how LinkedIn overcomes AI agent limitations in large codebases. He explains Contextual Agent Playbooks and Tools - built on Model Context Protocol (MCP) - which serves procedural memory, code search, and runbooks directly to coding agents. Prakash shares architectural details and operational guardrails that deliver a 20% productivity boost with zero loss in reliability. By Ajay Prakash",
+          "published": "Sat, 19 Sep 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "This week’s news from Zed, Anthropic, and OpenRouter shows why better harnesses matter more than better models",
+          "link": "https://thenewstack.io/ai-agent-harness-economics/",
+          "summary": "Our five most-read stories this week covered code collaboration, a model router, a UI change, a benchmark, and a caching The post This week’s news from Zed, Anthropic, and OpenRouter shows why better harnesses matter more than better models appeared first on The New Stack .",
+          "published": "Sat, 19 Sep 2026 10:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Mehr als zwei Drittel der Deutschen wären bereit, einem KI-Agenten ihre Finanzdaten anzuvertrauen",
+          "link": "https://t3n.de/news/mehr-als-zwei-drittel-der-deutschen-waeren-bereit-einem-ki-agenten-ihre-finanzdaten-anzuvertrauen-1764181/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Vertrauen in die autonom handelnden Assistenten bleibt begrenzt. Trotzdem könnte die Bequemlichkeit siegen – vor allem dann, wenn die Möglichkeit besteht, beim Abschließen eines Kredits Geld zu sparen. weiterlesen auf t3n.de",
+          "published": "Sat, 19 Sep 2026 11:39:48 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Googles KI-Übersichten zu Landtagswahlen: Algorithmwatch entdeckt fragwürdige Muster",
+          "link": "https://t3n.de/news/ki-uebersichten-landtagswahlen-google-1761444/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Dieses Wochenende stehen die Landtagswahl in Mecklenburg-Vorpommern und die Abgeordnetenwahl in Berlin auf dem Programm. Wer sich für seine Wahlentscheidung von Googles KI-Übersichten beraten lassen will, sollte allerdings vorsichtig sein. Das zeigt eine Analyse von Algorithmwatch. weiterlesen auf t3n.de",
+          "published": "Sat, 19 Sep 2026 08:15:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Claude couldn’t hack OpenAI. Then Anthropic shipped Opus 5.",
+          "link": "https://thenewstack.io/claude-exploits-openai-forum/",
+          "summary": "Three security researchers at Hacktron AI found a memory-corruption bug in a widely used image library. Finding it was the The post Claude couldn&#8217;t hack OpenAI. Then Anthropic shipped Opus 5. appeared first on The New Stack .",
+          "published": "Fri, 18 Sep 2026 18:57:14 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "DoorDash Uses Multi Agent LLMs to Clean up 60,000 Feature Flags",
+          "link": "https://www.infoq.com/news/2026/09/doordash-feature-flag-cleanup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "DoorDash built a multi-agent LLM system to automate stale feature flag cleanup across more than 60,000 flags and 623 repositories. The workflow combines live experimentation data through MCP, engineer approval, isolated Git worktrees, parallel agents, and automated validation. In an evaluation of 50 flags, 45 produced usable pull requests at an average of 13.8 minutes and $4.79 per cleanup. By Leela Kumili",
+          "published": "Fri, 18 Sep 2026 13:50:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Researchers used Claude to hack OpenAI",
+          "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+          "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
+          "published": "Fri, 18 Sep 2026 13:30:12 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(8 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "German Web Awards 2026: Welche Agenturen prägen das KI-Zeitalter des Webs?",
+        "Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP",
+        "This week’s news from Zed, Anthropic, and OpenRouter shows why better harnesses matter more than better models"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "SAP-Migration: So automatisierst du die Analyse von Tausenden AfO-Workbooks",
+          "link": "https://t3n.de/news/sap-migration-afo-workbooks-automatisieren-1755085/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Deine Migration zur SAP Analytics Cloud (SAC) scheitert oft an der unübersichtlichen Flut alter Analysis-for-Office-Workbooks. Manuelle Bestandsaufnahmen kosten dich Monate an Zeit und Nerven. Erfahre, wie du mit einer automatisierten Analyse für Klarheit sorgst, Redundanzen eliminierst und den Weg zur modernen SAC-Story in Rekordzeit ebnest weiterlesen auf t3n.de",
+          "published": "Sat, 19 Sep 2026 10:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Article: Architecting Secure and Scalable Facial Verification Systems",
+          "link": "https://www.infoq.com/articles/secure-scalable-facial-verification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "When three thousand employees verify at once, synchronous API calls collapse. This article presents a four-layer architecture for high-volume face verification: client-side filtering that cut cloud costs 30%, decoupled detection and verification enabling 10x scaling, risk-based dynamic thresholds, and zero-trust privacy with consent gates and automated data purging for GDPR and HIPAA. By Praveen Kumar Gopalakrishnan",
+          "published": "Fri, 18 Sep 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "EuGH-Entscheidung könnte private Datenverarbeitung strenger regulieren",
+          "link": "https://www.heise.de/news/BGH-ruft-EuGH-an-Wo-endet-die-private-Datenverarbeitung-in-Chat-und-Kueche-11458929.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Bundesgerichtshof will vom EuGH wissen, wie weit die „Haushaltsausnahme“ der DSGVO bei weitergeleiteten Messenger-Nachrichten und Heimüberwachung reicht.",
+          "published": "2026-09-18T17:31:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Maßnahme gegen Webcrawler: Cloudflare ermöglicht Trennung von KI- und Suchbots",
+          "link": "https://www.golem.de/news/massnahme-gegen-webcrawler-cloudflare-ermoeglicht-trennung-von-ki-und-suchbots-2609-213221.html",
+          "summary": "Cloudflare bietet Webseitenbetreibern die Möglichkeit, keine Suchbots sperren zu müssen, wenn sie das Sammeln ihrer Daten verhindern möchten. ( Cloudflare , KI )",
+          "published": "2026-09-18T17:04:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "SAP-Migration: So automatisierst du die Analyse von Tausenden AfO-Workbooks",
+        "Article: Architecting Secure and Scalable Facial Verification Systems",
+        "EuGH-Entscheidung könnte private Datenverarbeitung strenger regulieren"
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "MariaDB 13 Expands Oracle Compatibility and Improves Developer Experience and Observability",
+          "link": "https://www.infoq.com/news/2026/09/mariadb-13-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "MariaDB Community Server 13.0 has reached General Availability (GA) and is now officially stable. This release introduces a range of new features, deprecations, and performance improvements, including expanded support for procedural SQL, new DML capabilities, and more. By Sergio De Simone",
+          "published": "Fri, 18 Sep 2026 19:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Platform Engineering / IDPs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "MariaDB 13 Expands Oracle Compatibility and Improves Developer Experience and Observability"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Bewerbungsgespräch mit KI: Satiriker antwortet nur Unsinn – und besteht trotzdem",
+          "link": "https://t3n.de/news/bewerbungsgespraech-ki-satiriker-unsinn-besteht-1762757/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Einsatz von künstlicher Intelligenz in Personalabteilungen nimmt zu, wobei virtuelle Avatare erste Bewerbungsgespräche führen und die Vorauswahl erleichtern sollen. Doch ein aktuelles Video zeigt nun, wie leicht sich diese Systeme manipulieren lassen. weiterlesen auf t3n.de",
+          "published": "Sat, 19 Sep 2026 13:15:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Größter neuer Krater im Sonnensystem: Objekt in Hausgröße schlug auf dem Mond ein",
+          "link": "https://t3n.de/news/groesster-neuer-krater-sonnensystem-mond-einschlag-1764001/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Frühjahr 2024 dürfte auf dem Mond ein Asteroid oder Komet mit der Größe eines drei- bis sechsstöckigen Hochhauses eingeschlagen sein. Ein Jahrhundertereignis. Der Einschlag hinterließ einen Krater mit einem Durchmesser von 222 Metern. weiterlesen auf t3n.de",
+          "published": "Sat, 19 Sep 2026 12:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Rings around a tiny body have changed over the past decade",
+          "link": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+          "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
+          "published": "Sat, 19 Sep 2026 10:00:06 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Warum die Garmin Fenix 8 für 370 Euro weniger attraktiver als das neue Modell wird",
+          "link": "https://t3n.de/news/garmin-fenix-8-370-euro-guenstiger-fenix-9-update-1761467/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit der Fenix-9-Serie hat Garmin neue Funktionen eingeführt. Das Besondere: Einige davon sind per Update auch auf älteren Modellen verfügbar. Das Vorgängermodell Fenix 8 kann sich deshalb jetzt doppelt lohnen. weiterlesen auf t3n.de",
+          "published": "Sat, 19 Sep 2026 11:45:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Ebay ändert wichtige Regeln – das müssen Käufer und Verkäufer jetzt wissen",
+          "link": "https://t3n.de/news/ebay-neue-regeln-kaeufer-verkaeufer-aenderungen-1763195/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer bei Ebay Artikel ersteigert und anschließend nicht bezahlt, muss künftig schneller mit Einschränkungen rechnen. Gleichzeitig baut der Marktplatz seine Preisvorschläge für potenzielle Käufer aus und erleichtert Händlern den Versand in Nicht-EU-Länder. weiterlesen auf t3n.de",
+          "published": "Sat, 19 Sep 2026 11:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Ab 2.299 Euro: Warum ich mir kein neues iPhone mehr kaufe",
+          "link": "https://t3n.de/news/iphone-preise-2299-euro-zu-teuer-1762617/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit dem iPhone 18 Pro hat Apple nicht nur neue Preise festgelegt, sondern auch alle alten Geräte nachträglich teurer gemacht. Unser Autor will das nicht mehr bezahlen – und liebäugelt mit der Rückkehr zu Android. weiterlesen auf t3n.de",
+          "published": "Sat, 19 Sep 2026 10:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Stahlherstellung: US-Startup entwickelt neuen Ofen – und will Kosten und Emissionen senken",
+          "link": "https://t3n.de/news/stahlherstellung-us-startup-ofen-kosten-emissionen-1762711/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Dekarbonisierung bei der Herstellung von Stahl verläuft schleppend. Doch die US-Unternehmerin Laureen Meroueh hat ein Verfahren entwickelt, mit dem sich die weiterlesen auf t3n.de",
+          "published": "Sat, 19 Sep 2026 09:45:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KW 38: Die Woche, als die EU-Kommission den Kids Act vorlegte",
+          "link": "https://netzpolitik.org/2026/kw-38-die-woche-als-die-eu-kommission-den-kids-act-vorlegte/",
+          "summary": "Die 38. Kalenderwoche geht zu Ende. Wir haben 16 neue Texte mit insgesamt 154.720 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 19 Sep 2026 06:08:53 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(8 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Bewerbungsgespräch mit KI: Satiriker antwortet nur Unsinn – und besteht trotzdem",
+        "Größter neuer Krater im Sonnensystem: Objekt in Hausgröße schlug auf dem Mond ein",
+        "Rings around a tiny body have changed over the past decade"
+      ]
+    }
+  ]
+}
