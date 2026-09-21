@@ -1,0 +1,268 @@
+{
+  "date": "2026-09-21",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AWS Cannot Restore Data Held Only in Damaged Middle East Availability Zones",
+          "link": "https://www.infoq.com/news/2026/09/aws-middle-east-data-loss/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has told customers it cannot restore resources and data hosted exclusively in the mec1-az2 availability zone in the UAE, or exclusively in the Bahrain region, after damage during the conflict with Iran. The company says the Bahrain damage spanned multiple availability zones and exceeded what its regional and multi-AZ services are designed to withstand. By Steef-Jan Wiggers",
+          "published": "Mon, 21 Sep 2026 08:43:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Kubernetes 1.37 Released: Stable Metrics API  and Rootless Kubelet in Beta",
+          "link": "https://www.infoq.com/news/2026/09/kubernetes-1-37/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The Cloud Native Computing Foundation (CNCF) announced the release of Kubernetes 1.37, named \"Garhwal\", emphasizing its focus on stability, security, and AI/ML workload optimization. By Mostafa Radwan",
+          "published": "Mon, 21 Sep 2026 01:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Bun Rewrites 535K Lines of Zig into Rust in Four Months, Eliminates Numerous Memory Leaks",
+          "link": "https://www.infoq.com/news/2026/09/bun-AI-rewrite-zig-rust-4-months/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Bun creator Jarred Sumner recently announced that Bun, the JavaScript/TypeScript runtime, bundler and package manager has been rewritten from Zig to Rust. The rewrite seeks to eliminate recurrent memory safety vulnerabilities via Rust’s borrow checker. The AI-assisted rewrite was released after 4 months of work instead of the estimated one year. By Bruno Couriol",
+          "published": "Sun, 20 Sep 2026 19:51:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Russlands  „Super-App“ Max: Überwachung vorbei am Smartphone-OS",
+          "link": "https://www.heise.de/hintergrund/Digitaler-Totalitarismus-Wie-Russlands-App-Max-zur-Ueberwachungswaffe-wird-11459403.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine Studie legt das Ausmaß der Spionagefähigkeiten der russischen Super-App Max offen. Die staatlich verordnete Anwendung gilt als Muster digitaler Kontrolle.",
+          "published": "2026-09-21T06:21:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Enterprise-Schwenk: Portainer friert Community Edition ein",
+          "link": "https://www.heise.de/news/Enterprise-Schwenk-Portainer-friert-Community-Edition-ein-11459273.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Portainer fokussiert sich ab Version 3.0 auf Kubernetes, Docker spielt nur noch die zweite Geige. Die Community Edition bleibt auf der 2.x-Codebasis.",
+          "published": "2026-09-20T13:09:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AWS Cannot Restore Data Held Only in Damaged Middle East Availability Zones",
+        "Kubernetes 1.37 Released: Stable Metrics API  and Rootless Kubelet in Beta",
+        "Bun Rewrites 535K Lines of Zig into Rust in Four Months, Eliminates Numerous Memory Leaks"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Google Agent Development Kit for Kotlin Reaches Feature Parity with Python, Supports On-Device AI",
+          "link": "https://www.infoq.com/news/2026/09/google-adk-1-0-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google has released the Agent Development Kit (ADK) for Kotlin 1.0, a production-ready framework for building AI agents across Kotlin, Android, and JVM/server applications. It brings Kotlin to feature parity with Google's ADK for Python and Java, while adding Android-specific capabilities for on-device and hybrid AI. By Sergio De Simone",
+          "published": "Sun, 20 Sep 2026 10:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Google Agent Development Kit for Kotlin Reaches Feature Parity with Python, Supports On-Device AI"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: M365 Security – Microsoft-Cloud und Entra ID effizient vor Angriffen schützen",
+          "link": "https://www.heise.de/news/M365-Security-Microsoft-Cloud-und-Entra-ID-effizient-vor-Angriffen-schuetzen-11426777.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In fünf Sessions lernen IT-Profis, wie sie ihre Microsoft-365-Umgebung effizient absichern. Von der Konfiguration über Defender bis zu Zero Trust.",
+          "published": "2026-09-21T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Warnung vor Angriffen auf Linux-Schwachstellen",
+          "link": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Linux-Schwachstellen-11459555.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt vor beobachteten Angriffen auf Linux-Lücken. Updates stehen bereit.",
+          "published": "2026-09-21T08:16:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Montag: Gesundheitsdatenautobahn vor Umbau, Kritik an Chat-Löschungen der EU",
+          "link": "https://www.heise.de/news/Montag-Gesundheitsdatenautobahn-vor-Umbau-Kritik-an-Chat-Loeschungen-der-EU-11459491.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ausfälle der Telematikinfrastruktur + IT-Sicherheit vor EU-Transparenz + Smart-Futterautomaten keine Abhörung + Speicher für PV-Ausbau + KI-Ausbruch nach Fehler",
+          "published": "2026-09-21T06:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "EU-Kommission bleibt trotz Rüge bei automatischer Löschung von Chat-Nachrichten",
+          "link": "https://www.heise.de/news/EU-Kommission-bleibt-trotz-Ruege-bei-automatischer-Loeschung-von-Chat-Nachrichten-11459229.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Trotz einer Rüge der EU-Bürgerbeauftragten hält Brüssel an automatischen Löschregeln für SMS und Signal-Nachrichten fest und begründet das mit IT-Sicherheit.",
+          "published": "2026-09-20T10:54:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+          "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+          "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at [&#8230;]",
+          "published": "2026-09-20T08:00:00-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: M365 Security – Microsoft-Cloud und Entra ID effizient vor Angriffen schützen",
+        "Warnung vor Angriffen auf Linux-Schwachstellen",
+        "Montag: Gesundheitsdatenautobahn vor Umbau, Kritik an Chat-Löschungen der EU"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Experten fordern Direktzahlungen statt Tankrabatt",
+          "link": "https://www.heise.de/news/Oekonomen-kritisieren-Tankrabatt-und-Spritpreisdeckel-11459541.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Bundesregierung setzt auf Tankrabatt und Spritpreisdeckel, doch Ökonomen sehen darin keine echte Entlastung. Sie fordern andere Maßnahmen.",
+          "published": "2026-09-21T08:15:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Experten fordern Direktzahlungen statt Tankrabatt"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "heise+ | Linux-Overlay MangoHud: Leistung und Hardware beim Spielen im Blick behalten",
+          "link": "https://www.heise.de/ratgeber/Linux-Overlay-MangoHud-Leistung-und-Hardware-beim-Spielen-im-Blick-behalten-11148095.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Ein frei konfigurierbares On-Screen-Display zeigt beim Spielen unter Linux, ob die FPS einbrechen, die CPU zu heiß wird oder der Arbeitsspeicher voll läuft.",
+          "published": "2026-09-20T17:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Herdr: Terminal-Multiplexer sortiert Flotten von Coding-Agenten",
+          "link": "https://www.heise.de/news/Herdr-Terminal-Multiplexer-sortiert-Flotten-von-Coding-Agenten-11448520.html",
+          "summary": "Herdr bündelt langlebige Terminal-Sitzungen und zeigt, welcher Coding-Agent auf Eingaben wartet. Omarchy Linux integriert das junge Open-Source-Projekt.",
+          "published": "2026-09-11T16:26:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Smarte Lautsprecher: Amazon deaktiviert Aux-Sprachsteuerung auf Echo-Lautsprechern",
+          "link": "https://www.golem.de/news/smarte-lautsprecher-amazon-deaktiviert-aux-sprachsteuerung-auf-echo-lautsprechern-2609-213265.html",
+          "summary": "Smart-Home-Geräte verlieren erneut Funktionen, für die Kunden bezahlt haben. Nur die wenigsten Nutzer können sich dagegen wehren. ( Echo , Amazon )",
+          "published": "2026-09-21T11:37:06+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Behörde warnt: Linux-Systeme werden über Kernel-Lücken attackiert",
+          "link": "https://www.golem.de/news/behoerde-warnt-angriffe-auf-luecken-im-linux-kernel-beobachtet-2609-213261.html",
+          "summary": "Die Cisa warnt vor laufenden Angriffen auf Linux-Systeme über drei gefährliche Sicherheitslücken in Kernel-Komponenten. Korrekturen sind verfügbar. ( Sicherheitslücke , Linux-Kernel )",
+          "published": "2026-09-21T10:24:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise+ | Linux-Overlay MangoHud: Leistung und Hardware beim Spielen im Blick behalten",
+        "Herdr: Terminal-Multiplexer sortiert Flotten von Coding-Agenten",
+        "Smarte Lautsprecher: Amazon deaktiviert Aux-Sprachsteuerung auf Echo-Lautsprechern"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Ausbruch aus der Sandbox: Wo das eigentliche Problem beim Testen von KI-Agenten liegt",
+          "link": "https://t3n.de/news/ausbruch-aus-der-sandbox-wo-das-eigentliche-problem-beim-testen-von-ki-agenten-liegt-1763779/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der internationale Aufschrei war gewaltig: Ein auf Cyberangriffe spezialisiertes KI-Modell von OpenAI ist während eines Tests aus seiner „Sandbox“ ausgebrochen, weiterlesen auf t3n.de",
+          "published": "Mon, 21 Sep 2026 11:30:36 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Studie zeigt: KI-Chatbots liefern bei Finanzfragen in 57 Prozent der Fälle falsche Antworten",
+          "link": "https://t3n.de/news/ki-finanztipps-studie-57-prozent-falsche-antworten-1764310/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI-Chatbots werden von vielen Menschen auch für Finanztipps genutzt. Eine britische Studie zeigt allerdings, dass das sehr gefährlich sein kann. weiterlesen auf t3n.de",
+          "published": "Mon, 21 Sep 2026 11:00:23 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "ChatGPT-Effekt: Frische Informatik-Absolventen verdienen 13 Prozent weniger als ihre Vorgänger",
+          "link": "https://t3n.de/news/berufe-ki-fokus-lohn-1764272/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI hat die Einstiegschancen von Absolvent:innen auf dem Arbeitsmarkt deutlich verschlechtert. Laut einem Arbeitspapier der US-Statistikbehörde verdienten etwa Informatik-Student:innen nach ihrem Abschluss seit dem ChatGPT-Start weniger. weiterlesen auf t3n.de",
+          "published": "Mon, 21 Sep 2026 10:30:34 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Compliance nachhaltig skalieren: Wie du Doppelarbeit bei neuen Anforderungen vermeidest",
+          "link": "https://t3n.de/news/security-fragebogen-compliance-enterprise-sales-1763488/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der erste große Enterprise-Kunde ist fast unterschrieben. Dann kommt der Security-Fragebogen: rund 200 Fragen zu Zugriffskontrollen, Sub-Prozessoren, Incident-Prozessen und Zertifizierungen. Während der Deal seit drei Wochen feststeht, sucht das Team Antworten aus verschiedenen Tools und Dokumenten zusammen. weiterlesen auf t3n.de",
+          "published": "Mon, 21 Sep 2026 10:05:34 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Steuerbescheid im Briefkasten? So nutzt du ChatGPT oder Gemini um das Schreiben zu prüfen",
+          "link": "https://t3n.de/news/steuerbescheid-ki-chatbots-pruefung-1763969/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn der Steuerbescheid nicht mit der eigenen Berechnung übereinstimmt, fühlen sich viele hilflos. KI-Modelle wie ChatGPT oder Gemini können helfen, das Behörde weiterlesen auf t3n.de",
+          "published": "Mon, 21 Sep 2026 09:30:17 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Ausbruch aus der Sandbox: Wo das eigentliche Problem beim Testen von KI-Agenten liegt",
+        "Studie zeigt: KI-Chatbots liefern bei Finanzfragen in 57 Prozent der Fälle falsche Antworten",
+        "ChatGPT-Effekt: Frische Informatik-Absolventen verdienen 13 Prozent weniger als ihre Vorgänger"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Forscher stellen biologische Verjüngung von gespendeten Lebern fest – welche Chancen das bietet",
+          "link": "https://t3n.de/news/forscher-stellen-biologische-verjuengung-von-gespendeten-lebern-fest-welche-chancen-das-bietet-1763758/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Werden Spenderlebern nach der Entnahme in Spezialgeräten mit Nährstoffen versorgt, scheinen sie nach der Transplantation besser zu funktionieren. Das bringt Vor weiterlesen auf t3n.de",
+          "published": "Mon, 21 Sep 2026 07:30:10 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI half beim Finden: iOS 27 schließt mehr als 100 Sicherheitslücken",
+          "link": "https://t3n.de/news/ki-half-beim-finden-ios-27-100-sicherheitsluecken-1763471/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Apple hat am 14. September unter anderem iOS 27 und macOS 27 veröffentlicht – und damit eine große Zahl an Sicherheitslücken geschlossen. Mehrere davon ließen sich aus der Ferne ausnutzen. weiterlesen auf t3n.de",
+          "published": "Mon, 21 Sep 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise+ | Schimmelprobleme und der Vermieter: Mit Home Assistant Lüftung dokumentieren",
+          "link": "https://www.heise.de/ratgeber/Schimmelprobleme-und-der-Vermieter-Mit-Home-Assistant-Lueftung-dokumentieren-11456395.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Mit Fensteröffnungssensoren kann Home Assistant das Lüftungsverhalten dauerhaft dokumentieren. Die Daten helfen bei Schimmeldiskussionen mit Vermietern.",
+          "published": "2026-09-21T12:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | Cyberrisiken moderner KI-Systeme",
+          "link": "https://www.heise.de/hintergrund/Cyberrisiken-moderner-KI-Systeme-11438085.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Mehrere KI-Modelle haben in Sicherheitstests Testumgebungen verlassen und fremde Produktivsysteme kompromittiert – ein Prüfstein für den EU AI-Act.",
+          "published": "2026-09-21T09:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | Krisenmanagement in der IT: Rollen und Strategien für den Notfall",
+          "link": "https://www.heise.de/hintergrund/Krisenmanagement-in-der-IT-Rollen-und-Strategien-fuer-den-Notfall-11452476.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Krisen in der IT erfordern schnelles Handeln. Erfahren Sie, wie Sie einen Krisenstab besetzen, Aufgaben delegieren und mit Triage-Methoden Prioritäten setzen.",
+          "published": "2026-09-21T08:15:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Forscher stellen biologische Verjüngung von gespendeten Lebern fest – welche Chancen das bietet",
+        "KI half beim Finden: iOS 27 schließt mehr als 100 Sicherheitslücken",
+        "heise+ | Schimmelprobleme und der Vermieter: Mit Home Assistant Lüftung dokumentieren"
+      ]
+    }
+  ]
+}
