@@ -1,0 +1,348 @@
+{
+  "date": "2026-09-22",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Presentation: Maximizing Success with Limited Time, Resources, and Energy: Lessons from Startup Engineering",
+          "link": "https://www.infoq.com/presentations/lessons-startup-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "David Gudeman discusses battle-tested architectural patterns for resource-constrained engineering teams. Drawing from over a decade of startup experience, he explains how pairing GCP, Firebase, and Cloud Run accelerates product-market fit. Learn how to eliminate redundant frontend state, structure event-driven backends, and maintain lean DevOps while building for long-term scalability. By David Gudeman",
+          "published": "Tue, 22 Sep 2026 09:04:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AWS open-sources an AI agent it says is 45% cheaper than Claude Code and Codex",
+          "link": "https://thenewstack.io/aws-strands-harness-agent/",
+          "summary": "Amazon Web Services (AWS) is lifting the lid on a new open source, general-purpose AI agent, designed to give developers The post AWS open-sources an AI agent it says is 45% cheaper than Claude Code and Codex appeared first on The New Stack .",
+          "published": "Mon, 21 Sep 2026 18:30:16 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
+          "link": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
+          "summary": "State AGs had \"very strong\" case that merger is illegal, Lina Khan says.",
+          "published": "Mon, 21 Sep 2026 16:15:26 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "AWS Cannot Restore Data Held Only in Damaged Middle East Availability Zones",
+          "link": "https://www.infoq.com/news/2026/09/aws-middle-east-data-loss/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has told customers it cannot restore resources and data hosted exclusively in the mec1-az2 availability zone in the UAE, or exclusively in the Bahrain region, after damage during the conflict with Iran. The company says the Bahrain damage spanned multiple availability zones and exceeded what its regional and multi-AZ services are designed to withstand. By Steef-Jan Wiggers",
+          "published": "Mon, 21 Sep 2026 08:43:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise+ | Wie sich Kubernetes-Cluster per CAPI verwalten lassen",
+          "link": "https://www.heise.de/ratgeber/Wie-sich-Kubernetes-Cluster-per-CAPI-verwalten-lassen-11454735.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Applikationen lassen sich in Kubernetes deklarativ verwalten und ausrollen. Das funktioniert auch über die Cluster API für komplette Kubernetes-Cluster.",
+          "published": "2026-09-22T09:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Maximizing Success with Limited Time, Resources, and Energy: Lessons from Startup Engineering",
+        "AWS open-sources an AI agent it says is 45% cheaper than Claude Code and Codex",
+        "California settles lawsuit against Paramount/Warner merger, angering advocates"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Changesets v3: Bumps Peer Dependents by Patch and Ships ESM Only with an 88% Smaller Install",
+          "link": "https://www.infoq.com/news/2026/09/changesets-v3-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Changesets v3.0, released on August 11, 2026, introduces significant updates for JavaScript monorepos. It offers leaner installations, a rebuilt CLI, and changes to peer dependency management that resolve long-standing complaints. Upgrading involves configuration updates. The tool focuses on versioning and changelogs while supporting contributors in declaring release intents. By Daniel Curtis",
+          "published": "Tue, 22 Sep 2026 06:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Out-of-Order HTML Streaming Moves from JS Frameworks into the Browser",
+          "link": "https://www.infoq.com/news/2026/09/native-deferred-html-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Out-of-order HTML streaming, a user experience pattern popularized by front-end frameworks and that allows users to view and interact faster with a page before it is entirely loaded, is making its way to web browsers. The proposal has the browser patching placeholders as data arrives. Developers can use either declarative HTML or matching JavaScript APIs. Available in Chrome 151. By Bruno Couriol",
+          "published": "Mon, 21 Sep 2026 23:57:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Java News Roundup: JDK 27, Open J Proxy, A2A Jakarta, Azul Payara, BoxLang, Netflix ja",
+          "link": "https://www.infoq.com/news/2026/09/java-news-roundup-sep14-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for September 14th, 2026, features news highlighting: the GA release of JDK 27, LibericaJDK 27, Open J Proxy 1.0 and A2A Jakarta 1.0; point releases of Azul Payara, JHipster, JetBrains Ktor and BoxLang; and introducing Netflix ja, a modern JMS command line development experience for Java developers. By Michael Redlich",
+          "published": "Mon, 21 Sep 2026 17:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Java 27: Sicherheit, Laufzeit und reifende APIs",
+          "link": "https://www.heise.de/news/Java-27-Sicherheit-Laufzeit-und-reifende-APIs-11460106.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das frisch erschienene OpenJDK 27 zielt vor allem auf Stabilität, Security und Performanceverbesserungen.",
+          "published": "2026-09-22T08:50:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Java 27: Sicherheit, Laufzeit und reifende APIs",
+          "link": "https://www.heise.de/news/Java-27-Sicherheit-Laufzeit-und-reifende-APIs-11460106.html",
+          "summary": "Das frisch erschienene OpenJDK 27 zielt vor allem auf Stabilität, Security und Performanceverbesserungen.",
+          "published": "2026-09-22T06:50:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Changesets v3: Bumps Peer Dependents by Patch and Ships ESM Only with an 88% Smaller Install",
+        "Out-of-Order HTML Streaming Moves from JS Frameworks into the Browser",
+        "Java News Roundup: JDK 27, Open J Proxy, A2A Jakarta, Azul Payara, BoxLang, Netflix ja"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Gehaltsreport 2027: In diesen IT-Jobs ist die Bezahlung am besten",
+          "link": "https://t3n.de/news/gehaltsreport-2027-in-diesen-it-jobs-ist-die-bezahlung-am-besten-1764404/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Laut einer Analyse der Personalberatungsagentur Michael Page sind im nächsten Jahr vor allem Cloud-, Daten- und Cybersecurity-Experten gefragt. Welche Gehaltsspannen man in der IT-Branche für welche Rollen erwarten kann. weiterlesen auf t3n.de",
+          "published": "Mon, 21 Sep 2026 20:00:53 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google confirms Gemini models hacked three companies in May 2026",
+          "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+          "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
+          "published": "Mon, 21 Sep 2026 16:57:26 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(2 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Gehaltsreport 2027: In diesen IT-Jobs ist die Bezahlung am besten",
+        "Google confirms Gemini models hacked three companies in May 2026"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "\"Sicherheitspaket 2.0\": Sachverständige halten Gesetzentwürfe für verfassungswidrig",
+          "link": "https://netzpolitik.org/2026/sicherheitspaket-2-0-sachverstaendige-halten-gesetzentwuerfe-fuer-verfassungswidrig/",
+          "summary": "Bundesinnenminister Alexander Dobrindt bei einem Besuch im Terrorismusabwehrzentrum GTAZ. – Alle Rechte vorbehalten: IMAGO / Andreas Gora Die Bundesregierung will Polizeibehörden und dem Bundesamt für Migration und Flüchtlinge neue Fahndungsmöglichkeiten erlauben. Fachleute halten die Befugnisse für viel zu weitreichend und warnten heute im Bundestag vor einer rechtlichen Wackelpartie.",
+          "published": "Mon, 21 Sep 2026 14:59:29 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "heise+ | Gesetz zur Kartenakzeptanz: Belastung für kleine Händler",
+          "link": "https://www.heise.de/hintergrund/Gesetz-zur-Kartenakzeptanz-Belastung-fuer-kleine-Haendler-11332172.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Die Bundesregierung arbeitet an der Kartenakzeptanzpflicht im Handel. c’t-Redakteur Markus Montz findet, dass sie Händler und Verbraucher unnötig belastet.",
+          "published": "2026-09-22T11:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Tankrabatt kommt: Spritpreise sollen ab Oktober sinken",
+          "link": "https://www.heise.de/news/Entlastung-an-der-Zapfsaeule-Tankrabatt-ab-1-Oktober-geplant-11461093.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Bundesregierung hat eine Neuauflage des Tankrabatts auf den Weg gebracht. Er soll ab 1. Oktober das Tanken vergünstigen.",
+          "published": "2026-09-22T09:49:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "T-Travel: Deutsche Telekom startet Angebot für Auslandsreisen",
+          "link": "https://www.golem.de/news/t-travel-deutsche-telekom-startet-angebot-fuer-auslandsreisen-2609-213278.html",
+          "summary": "Die Telekom startet mit T-Travel. Die Plattform bietet Datenpakete für 200 Reiseziele. Kunden erhalten auf Wunsch auch unlimitiertes Datenvolumen. ( Telekom , Mobilfunk )",
+          "published": "2026-09-21T15:44:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "\"Sicherheitspaket 2.0\": Sachverständige halten Gesetzentwürfe für verfassungswidrig",
+        "heise+ | Gesetz zur Kartenakzeptanz: Belastung für kleine Händler",
+        "Tankrabatt kommt: Spritpreise sollen ab Oktober sinken"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Das EU-Gewährleistungslabel kommt: Was Händler jetzt dazu wissen müssen",
+          "link": "https://t3n.de/news/eu-gewaehrleistungslabel-online-shops-wissen-1764373/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ab dem 27. September müssen Online-Händler ein neues EU-Gewährleistungslabel in ihre Shops integrieren. Warum das alles andere als ein Schritt zur Entbürokratis weiterlesen auf t3n.de",
+          "published": "Tue, 22 Sep 2026 07:30:14 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Flet 1.0: Cross-Platform-Apps in Python entwickeln",
+          "link": "https://www.heise.de/news/Flet-1-0-Cross-Platform-Apps-in-Python-entwickeln-11461191.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mit Flet lassen sich Windows-, macOS-, Linux-, iOS-, Android- und Web-Apps in Python entwickeln, inklusive pandas oder NumPy. Hinzu kommen fertige UI-Elemente.",
+          "published": "2026-09-22T11:11:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Nachfolger von Windows: Staatskanzlei Kiel stellt auf Linux um",
+          "link": "https://www.heise.de/news/Nachfolger-von-Windows-Staatskanzlei-Kiel-stellt-auf-Linux-um-11460729.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Schleswig-Holstein treibt den Wechsel von Microsoft auf Open Source voran. Nach E-Mail und Office läuft die Kieler Staatskanzlei nun weitgehend unter Linux.",
+          "published": "2026-09-21T18:45:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Flet 1.0: Cross-Platform-Apps in Python entwickeln",
+          "link": "https://www.heise.de/news/Flet-1-0-Cross-Platform-Apps-in-Python-entwickeln-11461191.html",
+          "summary": "Mit Flet lassen sich Windows-, macOS-, Linux-, iOS-, Android- und Web-Apps in Python entwickeln, inklusive pandas oder NumPy. Hinzu kommen fertige UI-Elemente.",
+          "published": "2026-09-22T09:11:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Umstellung auf Linux: Staatskanzlei Kiel fast vollständig weg von Windows",
+          "link": "https://www.golem.de/news/umstellung-auf-linux-staatskanzlei-kiel-fast-vollstaendig-weg-von-windows-2609-213307.html",
+          "summary": "Die Umstellung auf Linux ist nur eine von vielen Maßnahmen Schleswig-Holsteins, um sich von proprietärer Software zu lösen. ( Souveränität , Linux )",
+          "published": "2026-09-22T11:25:13+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Das EU-Gewährleistungslabel kommt: Was Händler jetzt dazu wissen müssen",
+        "Flet 1.0: Cross-Platform-Apps in Python entwickeln",
+        "Nachfolger von Windows: Staatskanzlei Kiel stellt auf Linux um"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Amazon macht dicht: Metas KI-Agent Muse darf nicht mehr shoppen",
+          "link": "https://t3n.de/news/amazon-meta-muse-ki-agent-shopping-1764489/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Amazon blockiert Metas KI-Agenten Muse beim Online-Shopping. Offiziell geht es um Datenschutz und Sicherheit, im Kern aber um die Kontrolle der Kundenbeziehung. weiterlesen auf t3n.de",
+          "published": "Tue, 22 Sep 2026 11:00:34 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Pilotprojekt Verhaltensscanner in Berlin: „Die Möglichkeit der anonymen Nutzung des öffentlichen Raums verschwindet“",
+          "link": "https://netzpolitik.org/2026/pilotprojekt-verhaltensscanner-in-berlin-die-moeglichkeit-der-anonymen-nutzung-des-oeffentlichen-raums-verschwindet/",
+          "summary": "Statt Polizisten soll in Kürze Software zur Verhaltenserkennung das Kottbusser Tor automatisiert überwachen. – CC-BY-NC-ND 2.0 : Matthias Berg Fotograf Berlin Wir sprechen mit der Berliner Datenschutzbeauftragten Meike Kamp über die automatisierten Verhaltensscanner, die in Kürze an mehreren Orten in Berlin die Menschen anlasslos dauerfilmen sollen. Sie kritisiert das Vorhaben, sieht verpflichtende Kontrollen der neuen Technologie durch ihre Behörde jedoch skeptisch.",
+          "published": "Tue, 22 Sep 2026 06:49:15 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Neo, Air, Pro, Mini, Studio, iMac: Welcher Mac ist der richtige für dich?",
+          "link": "https://t3n.de/news/neo-air-pro-mini-studio-imac-mac-kaufberatung-1764391/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Auf der Suche nach einem Mac? Dann kannst du zwischen sechs Modellen und vier Prozessoren in teilweise unterschiedlichen Konfigurationen wählen. Da kann sich schon einmal die Frage aufdrängen: Welchen Mac brauche ich eigentlich? Der Versuch einer Antwort. weiterlesen auf t3n.de",
+          "published": "Tue, 22 Sep 2026 08:00:02 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+          "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+          "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+          "published": "Mon, 21 Sep 2026 22:24:38 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Grok Build vs. Claude Code: I tested which one has the better memory",
+          "link": "https://thenewstack.io/grok-build-vs-claude-code-memory/",
+          "summary": "On September 16, xAI announced memory in Grok Build, its terminal coding agent. The pitch was that Grok “keeps notes The post Grok Build vs. Claude Code: I tested which one has the better memory appeared first on The New Stack .",
+          "published": "Mon, 21 Sep 2026 20:04:18 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Amazon macht dicht: Metas KI-Agent Muse darf nicht mehr shoppen",
+        "Pilotprojekt Verhaltensscanner in Berlin: „Die Möglichkeit der anonymen Nutzung des öffentlichen Raums verschwindet“",
+        "Neo, Air, Pro, Mini, Studio, iMac: Welcher Mac ist der richtige für dich?"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Anzeige: Microsoft 365 DSGVO-konform konfigurieren und betreiben",
+          "link": "https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-konfigurieren-und-betreiben-2609-213113.html",
+          "summary": "Microsoft 365 DSGVO-konform zu betreiben erfordert technische und organisatorische Maßnahmen. Ein Workshop ordnet Datenresidenz, Audits und Drittlandtransfers ein. ( Golem Karrierewelt , Datenschutz )",
+          "published": "2026-09-21T18:45:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Anzeige: Microsoft 365 DSGVO-konform konfigurieren und betreiben"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Whatsapp: So soll der Messenger näher mit Instagram und Facebook zusammenrücken",
+          "link": "https://t3n.de/news/whatsapp-messenger-naeher-instagram-facebook-zusammenruecken-1764449/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Meta arbeitet an einer Neuerung für Whatsapp. Dadurch soll der Messenger besser an die anderen Dienste des Unternehmens, Instagram und Facebook, angebunden werden. Wie das geht und was Whatsapp-User:innen dadurch ermöglicht wird. weiterlesen auf t3n.de",
+          "published": "Tue, 22 Sep 2026 09:20:42 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Uber Redesigns M3DB Sharding with Subclusters to Limit Failure Impact",
+          "link": "https://www.infoq.com/news/2026/09/uber-m3db-subcluster-sharding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Uber has redesigned shard placement in M3DB with fixed size subclusters to limit the impact of node failures, maintenance, and cluster scaling. The approach bounds shard dependencies, preserves replica isolation, and uses a greedy algorithm to select shard migrations while avoiding a separate rebalancing pass and unnecessary data movement. By Leela Kumili",
+          "published": "Mon, 21 Sep 2026 14:37:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Wie Sprachnachrichten nur andersherum: Whatsapp testet neue Diktierfunktion für Textnachrichten",
+          "link": "https://t3n.de/news/wie-sprachnachrichten-nur-andersherum-whatsapp-testet-neue-diktierfunktion-fuer-textnachrichten-1764361/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Statt ihre Nachrichten einzutippen, könnten Nutzer:innen diese künftig einfach einsprechen. Die Verarbeitung würde lokal auf dem Gerät stattfinden, sodass sie mit der End-to-End-Verschlüsselung kompatibel wäre. weiterlesen auf t3n.de",
+          "published": "Mon, 21 Sep 2026 15:45:09 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Premiere in den USA: Autonome Cessna fliegt von Küste zu Küste – ganz ohne Pilot",
+          "link": "https://t3n.de/news/premiere-in-den-usa-autonome-cessna-fliegt-von-kueste-zu-kueste-ganz-ohne-pilot-1764327/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das umgebaute Kleinflugzeug von Joby Aviation ist nach Angaben des Unternehmens autonom von Kalifornien bis an die Ostküste geflogen. Eine Sicherheitsperson saß mit an Bord – eingreifen musste sie aber nie. weiterlesen auf t3n.de",
+          "published": "Mon, 21 Sep 2026 15:15:20 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Amazons neues Werbe-Tool: Eine Karte zeigt, wo deine Marke stark ist – und wo nicht",
+          "link": "https://t3n.de/news/amazons-neues-werbe-tool-eine-karte-zeigt-wo-deine-marke-stark-ist-und-wo-nicht-1764343/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Amazon baut sein Werbegeschäft in Deutschland um eine stärkere regionale Aussteuerung aus. Mit Geographic Insights and Activation sollen Werbetreibende erkennen können, in welchen Regionen noch Wachstumspotenzial besteht. weiterlesen auf t3n.de",
+          "published": "Mon, 21 Sep 2026 14:30:09 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Whatsapp: So soll der Messenger näher mit Instagram und Facebook zusammenrücken",
+        "Uber Redesigns M3DB Sharding with Subclusters to Limit Failure Impact",
+        "Wie Sprachnachrichten nur andersherum: Whatsapp testet neue Diktierfunktion für Textnachrichten"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Arbeitsspeicher aus China: CXMTs G5-Plattform ist in der Massenproduktion",
+          "link": "https://www.golem.de/news/arbeitsspeicher-aus-china-cxmts-g5-plattform-ist-in-der-massenproduktion-2609-213272.html",
+          "summary": "Die neue Technologieplattform von CXMT soll leistungsfähige Chips zu geringeren Kosten und bei reduziertem Energieverbrauch ermöglichen. ( CXMT , PC-Hardware )",
+          "published": "2026-09-21T13:45:04+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Methan aus CO2: So könnte Raketentreibstoff auf dem Mars entstehen",
+          "link": "https://www.golem.de/news/methan-aus-co2-so-koennte-raketentreibstoff-auf-dem-mars-entstehen-2609-213198.html",
+          "summary": "Forscher haben nahezu reines Methan aus Kohlendioxid hergestellt. Die Methode könnte helfen, Raketentreibstoff direkt auf dem Mars zu produzieren. ( Mars , Raumfahrt )",
+          "published": "2026-09-21T12:40:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Arbeitsspeicher aus China: CXMTs G5-Plattform ist in der Massenproduktion",
+        "Methan aus CO2: So könnte Raketentreibstoff auf dem Mars entstehen"
+      ]
+    }
+  ]
+}
