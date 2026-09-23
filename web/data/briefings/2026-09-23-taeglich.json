@@ -1,0 +1,336 @@
+{
+  "date": "2026-09-23",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Elastic Beanstalk Adds Cluster Mode, Running Applications on Shared EKS Clusters",
+          "link": "https://www.infoq.com/news/2026/09/elastic-beanstalk-cluster-eks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has added Cluster Mode to Elastic Beanstalk, running applications on EKS clusters the service creates and operates. Clusters are assigned by subnet set and cannot be changed afterward, direct cluster access is service-managed, and AWS recommends separate clusters for untrusted or regulated workloads. The mode adds EKS and Auto Mode fees that EC2 discounts do not reduce. By Steef-Jan Wiggers",
+          "published": "Wed, 23 Sep 2026 06:44:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+          "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+          "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
+          "published": "Tue, 22 Sep 2026 19:28:23 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Trump’s sneaky plan to gut Endangered Species Act draws from 1995 Scalia dissent",
+          "link": "https://arstechnica.com/tech-policy/2026/09/trumps-sneaky-plan-to-gut-endangered-species-act-draws-from-1995-scalia-dissent/",
+          "summary": "Trump adopts Scalia’s ire for feds protecting populations of endangered animals.",
+          "published": "Tue, 22 Sep 2026 14:29:15 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Google Open-Sources AX a Kubernetes Style Orchestrator for Autonomous AI Agents",
+          "link": "https://www.infoq.com/news/2026/09/google-ax-orchestrator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google has open-sourced AX, an orchestrator designed for managing autonomous AI agent workloads. AX operates on a runtime, Agent Substrate, treating agents as stateful actors. It provides resource-efficient task suspension and resumption to optimise performance and reduce latency in idle phases. It features a control plane with Kubernetes-style primitives for managing agent tasks and resources. By Olimpiu Pop",
+          "published": "Tue, 22 Sep 2026 14:14:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "GitLab Duo Expands Self-Hosted AI Options Through Microsoft Foundry",
+          "link": "https://www.infoq.com/news/2026/09/gitlab-microsoft-foundry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "GitLab has expanded GitLab Duo Self-Hosted to support models deployed through Microsoft Foundry, letting organizations run GitLab's AI development capabilities against models hosted in their chosen Azure environment. By Craig Risi",
+          "published": "Tue, 22 Sep 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Elastic Beanstalk Adds Cluster Mode, Running Applications on Shared EKS Clusters",
+        "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+        "Trump’s sneaky plan to gut Endangered Species Act draws from 1995 Scalia dissent"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Changesets v3: Bumps Peer Dependents by Patch and Ships ESM Only with an 88% Smaller Install",
+          "link": "https://www.infoq.com/news/2026/09/changesets-v3-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Changesets v3.0, released on August 11, 2026, introduces significant updates for JavaScript monorepos. It offers leaner installations, a rebuilt CLI, and changes to peer dependency management that resolve long-standing complaints. Upgrading involves configuration updates. The tool focuses on versioning and changelogs while supporting contributors in declaring release intents. By Daniel Curtis",
+          "published": "Tue, 22 Sep 2026 06:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Java 27: Sicherheit, Laufzeit und reifende APIs",
+          "link": "https://www.heise.de/news/Java-27-Sicherheit-Laufzeit-und-reifende-APIs-11460106.html",
+          "summary": "Das frisch erschienene OpenJDK 27 zielt vor allem auf Stabilität, Security und Performanceverbesserungen.",
+          "published": "2026-09-22T06:50:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Changesets v3: Bumps Peer Dependents by Patch and Ships ESM Only with an 88% Smaller Install",
+        "Java 27: Sicherheit, Laufzeit und reifende APIs"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Eviltokens zerschlagen: 12.000 Microsoft-Konten mittels KI-Phishingdienst gekapert",
+          "link": "https://www.golem.de/news/eviltokens-microsoft-zerschlaegt-ki-phishingdienst-hinter-12-000-gekaperten-konten-2609-213337.html",
+          "summary": "Über Eviltokens sind mithilfe von KI innerhalb weniger Monate Microsoft-Konten von über 10.000 Organisationen gekapert worden - und das ohne Passwortklau. ( Phishing , Microsoft )",
+          "published": "2026-09-23T09:26:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Eviltokens zerschlagen: 12.000 Microsoft-Konten mittels KI-Phishingdienst gekapert"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "EUDI-Wallet-App „d-you“: Verbraucherschützer fordern besseren Datenschutz",
+          "link": "https://www.heise.de/news/EUDI-Wallet-App-d-you-Verbraucherschuetzer-fordern-besseren-Datenschutz-11462248.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mit einer digitalen Brieftasche will die Bundesregierung die Digitalisierung beschleunigen. Aus Sicht des vzbv fehlen jedoch wichtige Datenschutzvorkehrungen.",
+          "published": "2026-09-23T11:12:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Windows-Update-Vorschau killt lokale PC-zu-PC-Migration",
+          "link": "https://www.heise.de/news/Windows-Update-Vorschau-killt-lokale-PC-zu-PC-Migration-11462690.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Microsoft verteilt Update-Vorschauen für Windows 11. Sie testen die nicht sicherheitsrelevanten Bestandteile des Patchday-Flickens.",
+          "published": "2026-09-23T09:46:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Schäden durch KI: EU diskutiert neue Haftungsregeln",
+          "link": "https://www.heise.de/news/Schaeden-durch-KI-EU-diskutiert-neue-Haftungsregeln-11461732.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In der EU wird angeblich erneut über die Haftung für KI-Schäden gesprochen. Erst 2025 wurde ein als „verfrüht“ kritisierter Gesetzentwurf zurückgezogen.",
+          "published": "2026-09-22T19:05:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "EUDI-Wallet-App „d-you“: Verbraucherschützer fordern besseren Datenschutz",
+        "Windows-Update-Vorschau killt lokale PC-zu-PC-Migration",
+        "Schäden durch KI: EU diskutiert neue Haftungsregeln"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Drei aktiv ausgenutzte Linux-Sicherheitslücken entdeckt: Welche Gefahren drohen",
+          "link": "https://t3n.de/news/linux-sicherheitsluecken-gefahren-1764515/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die US-Cybersicherheitsbehörde Cisa warnt vor insgesamt drei Sicherheitslücken im Linux-Kernel, die schon aktiv ausgenutzt werden. IT-Admins sollten die zur Verfügung stehenden Updates schnellstmöglich installieren. weiterlesen auf t3n.de",
+          "published": "Tue, 22 Sep 2026 14:00:14 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Entwickler: Windows? Nein danke",
+          "link": "https://www.heise.de/news/Entwickler-nutzen-Macs-11462286.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine Umfrage unter Softwareentwicklern zeigt: macOS ist das meistgenutzte Betriebssystem. Unter Linux-Nutzern führt Ubuntu deutlich.",
+          "published": "2026-09-22T17:47:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Entwickler: Windows? Nein danke",
+          "link": "https://www.heise.de/news/Entwickler-nutzen-Macs-11462286.html",
+          "summary": "Eine Umfrage unter Softwareentwicklern zeigt: macOS ist das meistgenutzte Betriebssystem. Unter Linux-Nutzern führt Ubuntu deutlich.",
+          "published": "2026-09-22T15:47:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Flet 1.0: Cross-Platform-Apps in Python entwickeln",
+          "link": "https://www.heise.de/news/Flet-1-0-Cross-Platform-Apps-in-Python-entwickeln-11461191.html",
+          "summary": "Mit Flet lassen sich Windows-, macOS-, Linux-, iOS-, Android- und Web-Apps in Python entwickeln, inklusive pandas oder NumPy. Hinzu kommen fertige UI-Elemente.",
+          "published": "2026-09-22T09:11:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Ansible für Deployment und Systemmanagement",
+          "link": "https://www.golem.de/news/anzeige-ansible-fuer-deployment-und-systemmanagement-2609-213121.html",
+          "summary": "Ansible Fundamentals erleichtern die automatisierte Verwaltung von Linux-Systemen. Ein Online-Workshop vermittelt Konfiguration, Playbooks, Rollen und Deployment. ( Golem Karrierewelt , Open Source )",
+          "published": "2026-09-22T18:45:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Drei aktiv ausgenutzte Linux-Sicherheitslücken entdeckt: Welche Gefahren drohen",
+        "Entwickler: Windows? Nein danke",
+        "Entwickler: Windows? Nein danke"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Steuerbescheid prüfen: So helfen dir ChatGPT oder Gemini beim Einspruch",
+          "link": "https://t3n.de/news/steuerbescheid-pruefen-chatgpt-gemini-einspruch-1763969/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn der Steuerbescheid mit einer Nachzahlung kommt, fühlen sich viele hilflos. Chatbots wie ChatGPT oder Gemini können helfen, das Behördendeutsch zu entschlüs weiterlesen auf t3n.de",
+          "published": "Wed, 23 Sep 2026 11:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Gadget von Apple soll aufs Abstellgleis geraten: Was dazu bekannt ist",
+          "link": "https://t3n.de/news/ki-gadget-apple-abstellgleis-1764708/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Richtungswechsel bei Apple: Laut einem Bericht soll das Unternehmen die Produktion eine tragbaren KI-Gadget gestoppt haben. Stattdessen soll sich Apple auf ein anderes Gerät konzentrieren. weiterlesen auf t3n.de",
+          "published": "Wed, 23 Sep 2026 10:30:47 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mensch statt KI-Agent? Meta Muse soll Call-Center-Mitarbeiter für Anrufe nutzen – warum das ein Problem ist",
+          "link": "https://t3n.de/news/muse-ai-call-center-mitarbeiter-statt-ki-1764706/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Verspricht Meta bei Muse AI mehr, als das Unternehmen halten kann? Der KI-Agent soll theoretisch Anrufe für Nutzer:innen tätigen. Jetzt gibt es interne Kommunikation, die darauf hinweist, dass stattdessen Call-Center-Mitarbeiter:innen die Anrufe übernehmen. weiterlesen auf t3n.de",
+          "published": "Wed, 23 Sep 2026 10:01:13 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+          "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+          "summary": "The frontier AI model race has entered its comparison shopping phase.",
+          "published": "Tue, 22 Sep 2026 21:25:18 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Alle U40 und aus der KI-Branche: Diese 7 Milliardäre sind neu im Club der Überreichen",
+          "link": "https://t3n.de/news/ki-branche-milliardaere-1764683/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Insgesamt zehn Personen im neuen Forbes 400, dem Ranking der Überreichen in den USA, sind noch keine 40. Die sieben Neuzugänge haben ihre Milliarden allesamt im KI-Bereich verdient – vier von ihnen beim OpenAI-Rivalen Anthropic. weiterlesen auf t3n.de",
+          "published": "Tue, 22 Sep 2026 22:18:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Steuerbescheid prüfen: So helfen dir ChatGPT oder Gemini beim Einspruch",
+        "KI-Gadget von Apple soll aufs Abstellgleis geraten: Was dazu bekannt ist",
+        "Mensch statt KI-Agent? Meta Muse soll Call-Center-Mitarbeiter für Anrufe nutzen – warum das ein Problem ist"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Effort begins to fill the void left by terminated US climate report",
+          "link": "https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/",
+          "summary": "First paper added to community collection is a roadmap for research.",
+          "published": "Tue, 22 Sep 2026 16:26:30 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Österreich setzt NIS2 um, erhält Bundesamt für Cybersicherheit",
+          "link": "https://www.heise.de/news/Ab-1-10-Meldepflicht-fuer-IT-Vorfaelle-in-Oesterreich-11462442.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die NIS-2-Richtlinie beschert Österreich Registrierungspflichten für Unternehmen und Behörden. Diese erhalten Zuwachs: Das neue Bundesamt für Cybersicherheit.",
+          "published": "2026-09-22T23:24:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(2 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Effort begins to fill the void left by terminated US climate report",
+        "Österreich setzt NIS2 um, erhält Bundesamt für Cybersicherheit"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Anzeige: 20 Jahre OSMC - Monitoring-Wissen direkt aus der Praxis",
+          "link": "https://www.golem.de/news/anzeige-20-jahre-osmc-monitoring-wissen-direkt-aus-der-praxis-2609-213271.html",
+          "summary": "KI im Monitoring, die Zukunft etablierter Open-Source-Stacks, Observability im Betriebsalltag: Darum geht es vom 17. bis 19. November auf der Open Source Monitoring Conference (OSMC) in Nürnberg. Golem-Leser bekommen Rabatt. ( Software )",
+          "published": "2026-09-23T09:00:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Anzeige: 20 Jahre OSMC - Monitoring-Wissen direkt aus der Praxis"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Mit Viren gegen Bakterien: Wie die personalisierte Behandlung funktioniert – und wo es in der Praxis hapert",
+          "link": "https://t3n.de/news/mit-viren-gegen-bakterien-wie-die-personalisierte-behandlung-funktioniert-und-wo-es-in-der-praxis-hapert-1764488/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Phagen können oft helfen, wenn kein Antibiotikum mehr wirkt. In Deutschland ist eine Therapie mit den Viren, die Bakterien töten, aber nur in Ausnahmefällen erl weiterlesen auf t3n.de",
+          "published": "Wed, 23 Sep 2026 07:30:11 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "13,8 Prozent Wachstum: Die Wirtschaft schwächelt, Onlinewerbung boomt",
+          "link": "https://t3n.de/news/138-prozent-wachstum-die-wirtschaft-schwaechelt-onlinewerbung-boomt-1764508/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Onlinewerbemarkt zeigt sich erstaunlich robust: Der OVK als Branchenstimme rechnet für 2026 inzwischen mit einem Wachstum von 13,8 Prozent, sieht sich aber mit gravierenden Veränderungen durch die KI-Suche und kuratierte KI-Antworten konfrontiert. weiterlesen auf t3n.de",
+          "published": "Wed, 23 Sep 2026 07:00:15 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
+          "link": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
+          "summary": "Cities defend permit requirements, say ISPs aren't building networks fast enough.",
+          "published": "Tue, 22 Sep 2026 20:38:30 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Bitcoin überspringt Marke von 85.000 Dollar: Das steckt hinter der Erholungsrallye",
+          "link": "https://t3n.de/news/bitcoin-erholungsrallye-1764672/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bitcoin befindet sich seit Mitte August im Aufwind. Zuletzt kletterte der Kurs binnen einer Woche um 13 Prozent auf über 86.000 US-Dollar. Optimistische Beobachter:innen rechnen bis Ende 2026 mit dem Erreichen der Marke von 100.000 Dollar. weiterlesen auf t3n.de",
+          "published": "Tue, 22 Sep 2026 20:51:32 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Protests for Germany’s car industry as job losses loom",
+          "link": "https://arstechnica.com/cars/2026/09/protests-for-germanys-car-industry-as-job-losses-loom/",
+          "summary": "A combination of Chinese competition and US tariffs is causing problems in Germany.",
+          "published": "Tue, 22 Sep 2026 14:40:47 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Mit Viren gegen Bakterien: Wie die personalisierte Behandlung funktioniert – und wo es in der Praxis hapert",
+        "13,8 Prozent Wachstum: Die Wirtschaft schwächelt, Onlinewerbung boomt",
+        "Cities across US oppose Trump FCC plan to preempt local broadband rules"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Umweltprüfung für Rechenzentren, Erlaubnis von CO2-Speicherung in Österreich",
+          "link": "https://www.heise.de/news/Umweltpruefung-fuer-Rechenzentren-Erlaubnis-von-CO2-Speicherung-in-Oesterreich-11462514.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Österreichs Regierung schickt drei Gesetze in Begutachtung: Klimagesetz, Umweltverträglichkeitsprüfungsgesetz und ein Ende des Verbots von CO2-Speichern.",
+          "published": "2026-09-23T05:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Effizienz-Rating: EU plant Energie-Rating für Rechenzentren",
+          "link": "https://www.golem.de/news/effizienz-rating-eu-plant-energie-rating-fuer-rechenzentren-2609-213343.html",
+          "summary": "Die EU-Kommission plant ein Bewertungssystem für Rechenzentren ab 500 kW, um den Energie- und Wasserverbrauch transparenter zu machen. ( EU-Kommission , GreenIT )",
+          "published": "2026-09-23T09:55:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Umweltprüfung für Rechenzentren, Erlaubnis von CO2-Speicherung in Österreich",
+        "Effizienz-Rating: EU plant Energie-Rating für Rechenzentren"
+      ]
+    }
+  ]
+}
