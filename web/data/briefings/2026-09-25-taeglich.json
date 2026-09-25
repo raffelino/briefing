@@ -1,0 +1,278 @@
+{
+  "date": "2026-09-25",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "KI außer Kontrolle? Wie die Technologie unsere Cybersecurity auf den Kopf stellt",
+          "link": "https://t3n.de/news/ki-ausser-kontrolle-wie-die-technologie-unsere-cybersecurity-auf-den-kopf-stellt-1765005/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Hack von Hugging Face, überzeugendere Phishing-Mails und vor allem die Schnelligkeit: KI und die damit ausgestatteten Agenten werden zunehmend zu einer Bedrohung für die IT-Sicherheit unserer Computer. Die Entwicklung beleuchtet die neue Ausgabe von MIT Technology Review. weiterlesen auf t3n.de",
+          "published": "Fri, 25 Sep 2026 11:00:31 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Article: The Agent Harness: What It Is and Two Ways to Build One",
+          "link": "https://www.infoq.com/articles/agent-harness-build-one/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This article explains the development and operational layers of an agent harness through two implementations of a finance assistant: AWS AgentCore Harness and LangChain with Envoy AI Gateway. It compares how each handles tools, memory, model access, cost control, and observability, and examines the trade-offs in operational ownership, portability, and engineering effort. By Trista Pan",
+          "published": "Fri, 25 Sep 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
+          "link": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
+          "summary": "New York sues Polymarket as Trump admin tries to override state gambling laws.",
+          "published": "Thu, 24 Sep 2026 19:07:19 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Developers and platform teams both want Kubernetes self-service. They disagree on who owns it.",
+          "link": "https://thenewstack.io/kubernetes-self-service-platform-teams/",
+          "summary": "What do developers want? Kubernetes environments when they need them. What do they not want? Those environments after a week The post Developers and platform teams both want Kubernetes self-service. They disagree on who owns it. appeared first on The New Stack .",
+          "published": "Thu, 24 Sep 2026 16:06:27 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Bundestagsdebatte zur Geheimdienstreform: Zwischen Schreddern und Nachbessern",
+          "link": "https://netzpolitik.org/2026/bundestagsdebatte-zur-geheimdienstreform-zwischen-schreddern-und-nachbessern/",
+          "summary": "Besonders an den geplanten Regelungen für den Verfassungsschutz gab es Kritik. (Archivbild) – Alle Rechte vorbehalten: IMAGO / Chris Emil Janßen Die Geheimdienstreform ist im Bundestag angekommen. In einer ersten Debatte war die Kluft groß: Während Innenminister Dobrindt es für selbstverständlich hält, dass deutsche Geheimdienste operative Fähigkeiten bekommen sollen, warnen Teile der Opposition vor Gefahren für die Demokratie.",
+          "published": "Thu, 24 Sep 2026 10:18:32 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KI außer Kontrolle? Wie die Technologie unsere Cybersecurity auf den Kopf stellt",
+        "Article: The Agent Harness: What It Is and Two Ways to Build One",
+        "New York defies Trump admin, asks court to shut down Polymarket gambling"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Vercel Labs Ships scriptc, a TypeScript-to-Native Compiler That Leaves the JavaScript Engine Behind",
+          "link": "https://www.infoq.com/news/2026/09/vercel-scriptc-node/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Vercel Labs has introduced scriptc, an experimental compiler that converts TypeScript into small native executables without relying on Node, V8, or a JavaScript engine. It uses the TypeScript compiler for type checking and can output C or WebAssembly code. Initial benchmarks show faster startup times and lower memory usage than Node, though it experiences slower execution speeds. By Daniel Curtis",
+          "published": "Fri, 25 Sep 2026 05:49:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "How a forgotten node can put Oracle Java back in production",
+          "link": "https://thenewstack.io/azul-ai-assistant-java-risk/",
+          "summary": "Enterprise Java company Azul announced its Azul Intelligence Cloud AI Assistant on Wednesday. The technology arrives in response to industry-wide The post How a forgotten node can put Oracle Java back in production appeared first on The New Stack .",
+          "published": "Thu, 24 Sep 2026 17:50:35 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Java 27: Sicherheit, Laufzeit und reifende APIs",
+          "link": "https://www.heise.de/news/Java-27-Sicherheit-Laufzeit-und-reifende-APIs-11460106.html",
+          "summary": "Das frisch erschienene OpenJDK 27 zielt vor allem auf Stabilität, Security und Performanceverbesserungen.",
+          "published": "2026-09-22T06:50:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Vercel Labs Ships scriptc, a TypeScript-to-Native Compiler That Leaves the JavaScript Engine Behind",
+        "How a forgotten node can put Oracle Java back in production",
+        "Java 27: Sicherheit, Laufzeit und reifende APIs"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Wie ein Programmierfehler 1988 das Internet lahmlegte – und die Cybersecurity-Ära einläutete",
+          "link": "https://t3n.de/news/1988-fehler-internet-ausfall-1715315/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Einer der frühesten Cyberangriffe ereignete sich schon Ende der 80er in den USA. Damals infizierte ein Computerwurm einen Teil des Internets und sorgte sogar für eine FBI-Ermittlung. Warum der Vorfall aber nicht nur negative Seiten hatte. weiterlesen auf t3n.de",
+          "published": "Fri, 25 Sep 2026 10:35:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(1 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Wie ein Programmierfehler 1988 das Internet lahmlegte – und die Cybersecurity-Ära einläutete"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Ganzjahresreifen 225/45 R17 im Test: Pirelli vor Continental und Goodyear",
+          "link": "https://www.heise.de/ratgeber/Ganzjahresreifen-225-45-R17-im-Test-Pirelli-vor-Continental-und-Goodyear-11462862.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die GTÜ hat zehn Ganzjahresreifen in 225/45 R17 getestet. Der Test bestätigt erneut, dass solche Reifen aufgrund der Physik immer kompromissbehaftet sind.",
+          "published": "2026-09-25T07:30:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Ganzjahresreifen 225/45 R17 im Test: Pirelli vor Continental und Goodyear"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Presentation: Designing Fast, Delightful UX With LLMs for Mobile Frontends",
+          "link": "https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Balakrishnan Ramdoss discusses how to architect production-grade, AI-powered conversational apps at scale. He explains how to overcome model latency, leverage server-driven UI and Backend-for-Frontend patterns to dynamically render multi-modal interfaces, optimize prompts for UI selection, and integrate low-latency, privacy-first on-device AI for mobile applications. By Balakrishnan Ramdoss",
+          "published": "Thu, 24 Sep 2026 09:24:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Canvas UI Ships 35 HTML-in-Canvas Components That Run WebGL and WebGPU Effects Over Live DOM",
+          "link": "https://www.infoq.com/news/2026/09/canvas-ui-webgl/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Canvas UI is an open-source component library created by David Haz, utilizing the experimental HTML-in-Canvas API. It features 35 components that render GPU effects on live page content while maintaining accessibility. The library integrates with multiple frameworks and requires specific Chrome versions for full functionality. By Daniel Curtis",
+          "published": "Thu, 24 Sep 2026 06:02:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Läuft das auf AlmaLinux? Ein Katalog soll Klarheit schaffen",
+          "link": "https://www.heise.de/news/AlmaLinux-Zertifizierungsprogramm-fuer-Software-und-Hardware-11465635.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "AlmaLinux führt ein Zertifizierungsprogramm für Anwendungen und Hardware ein. Ein neuer Katalog zeigt Kompatibilität mit verschiedenen Versionen.",
+          "published": "2026-09-25T10:39:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Was läuft auf meinen Servern? systemd-report sammelt Antworten",
+          "link": "https://www.heise.de/news/Was-laeuft-auf-meinen-Servern-systemd-report-sammelt-Antworten-11465325.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "systemd-report bündelt Systemdaten und Messwerte in signierten JSON-Berichten. Das soll die Verwaltung großer Linux-Flotten erleichtern.",
+          "published": "2026-09-25T09:36:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Top 10: Der beste Over-Ear-Kopfhörer im Test",
+          "link": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-over-ear-kopfhoerer-im-test-preis-leistungs-sieger-nur-73-euro/sl68nkv?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Wir zeigen die besten Over-Ear-Kopfhörer aus über 50 Einzeltests – vom Preis-Leistungs-Tipp bis zur teuren Luxusklasse.",
+          "published": "2026-09-24T20:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Designing Fast, Delightful UX With LLMs for Mobile Frontends",
+        "Canvas UI Ships 35 HTML-in-Canvas Components That Run WebGL and WebGPU Effects Over Live DOM",
+        "Läuft das auf AlmaLinux? Ein Katalog soll Klarheit schaffen"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Deutscher Journalistenpreis für Databroker-Files: „Großartiges Investigativstück mit hoher gesellschaftlicher Relevanz“",
+          "link": "https://netzpolitik.org/2026/deutscher-journalistenpreis-fuer-databroker-files-grossartiges-investigativstueck-mit-hoher-gesellschaftlicher-relevanz/",
+          "summary": "Der Deutsche Journalistenpreis 2026. – Alle Rechte vorbehalten: https://djp.de Ingo Dachwitz und Sebastian Meineck wurden für ihre Databroker-Recherche mit dem Deutschen Journalistenpreis geehrt. Die Jury würdigte den Beitrag als „Paradestück für datengetriebenen Journalismus“.",
+          "published": "Fri, 25 Sep 2026 09:41:04 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Wie aus einer Anfrage dreifacher Aufwand wird und wie er sich vermeiden lässt",
+          "link": "https://t3n.de/news/compliance-anfragen-datenschutz-ki-governance-1763430/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Jede neue Software, jeder Dienstleister, jede KI-Anwendung führt zu Aufwand der beteiligten Data Compliance-Teams. Zeit- und kostenintensiv ist dabei vor allem die Abstimmung zwischen Datenschutz, Informationssicherheit und KI-Governance. weiterlesen auf t3n.de",
+          "published": "Fri, 25 Sep 2026 09:05:56 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI’s agent had a routine task. It breached a government portal.",
+          "link": "https://thenewstack.io/ai-agents-probe-vulnerabilities/",
+          "summary": "An OpenAI agent researching public medicine spending bypassed security blocks and gained unauthorized access to public and non-public files on The post OpenAI’s agent had a routine task. It breached a government portal. appeared first on The New Stack .",
+          "published": "Thu, 24 Sep 2026 19:16:28 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+          "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+          "summary": "\"There will obviously be legal consequences,\" prime minister promises.",
+          "published": "Thu, 24 Sep 2026 16:01:16 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "InfoQ Launches High-Performing Teams Certification Program",
+          "link": "https://www.infoq.com/news/2026/09/high-performing-teams-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "InfoQ has opened enrollment for a new five-week certification program covering engineering team design, delivery flow, AI-enabled work, and metrics, facilitated by InfoQ editor and podcast co-host Olimpiu Pop. By Artenisa Chatziou",
+          "published": "Thu, 24 Sep 2026 15:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Deutscher Journalistenpreis für Databroker-Files: „Großartiges Investigativstück mit hoher gesellschaftlicher Relevanz“",
+        "Wie aus einer Anfrage dreifacher Aufwand wird und wie er sich vermeiden lässt",
+        "OpenAI’s agent had a routine task. It breached a government portal."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "US-Regierung will Klage von X gegen Millionenstrafe der EU beitreten",
+          "link": "https://www.heise.de/news/US-Regierung-will-Klage-von-X-gegen-Millionenstrafe-der-EU-beitreten-11465263.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Im Dezember 2025 hat die EU die erste DSA-Strafe gegen X verhängt, der Kurznachrichtendienst klagt dagegen. Nun bekommt er dabei Unterstützung aus Washington.",
+          "published": "2026-09-25T07:44:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "US-Regierung will Klage von X gegen Millionenstrafe der EU beitreten"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Mars-Überraschung: Nasa-Rover entdeckt Hinweise auf uralte Thermalquellen",
+          "link": "https://t3n.de/news/mars-nasa-rover-thermalquellen-1765067/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Nasa-Rover Perseverance entdeckte im Marskraters Jezero überraschender Weise Spuren der Interaktion von Wasser und Gestein aus unterschiedlichen Zeiträumen. Darunter sind Hinweise auf heißes Wasser &#8211; und damit potenziell auf mikrobiologisches Leben. weiterlesen auf t3n.de",
+          "published": "Fri, 25 Sep 2026 11:30:35 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Ganz ohne Programmier-Skills: Meta lässt dich jetzt auf deinem Smartphone Videospiele entwickeln",
+          "link": "https://t3n.de/news/meta-videospiele-ki-smartphone-erstellen-1765065/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Meta will Nutzer:innen von Facebook, Instagram und Horizon zu Entwickler:innen machen. Mit einfachen KI-Tools sollen sie jederzeit Welten erschaffen können, die genau ihren Vorstellungen entsprechen. Wie das funktionieren soll. weiterlesen auf t3n.de",
+          "published": "Fri, 25 Sep 2026 09:30:29 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Darum schickt Google jetzt testweise KI-Chips ins All",
+          "link": "https://t3n.de/news/darum-schickt-google-jetzt-testweise-ki-chips-ins-all-1765063/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Tech-Milliardär Elon Musk spricht seit langem von Rechenzentren im All. Jetzt offenbart ein anderes Tech-Schwergewicht konkrete Test-Pläne &#8211; mit Hilfe einer der Raketen von Musks Firma SpaceX. weiterlesen auf t3n.de",
+          "published": "Fri, 25 Sep 2026 07:48:42 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "What iOS Developers Need to Change in their Apps to prepare for the iPhone Duo",
+          "link": "https://www.infoq.com/news/2026/09/apple-iphone-duo-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "With the upcoming introduction of the foldable iPhone Duo, iOS developers will need to adapt their apps to ensure they work correctly across the new device's outer display, larger inner display, and partially folded states. Developers will also need to account changes to navigation and toolbars, camera behavior, and new reserved regions. By Sergio De Simone",
+          "published": "Thu, 24 Sep 2026 19:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Österreich: Sicherheitsbehörden lassen sich mit Werbedaten ausspionieren",
+          "link": "https://netzpolitik.org/2026/oesterreich-sicherheitsbehoerden-lassen-sich-mit-werbedaten-ausspionieren/",
+          "summary": "Österreichs Innenminister Gerhard Karner spricht nicht gerne über Überwachung mit Werbedaten. – CC-BY-SA 3.0 : AleXXw Eine neue Recherche demonstriert das Risiko, das Standortdaten aus der Online-Werbe-Industrie für die Sicherheit Österreichs bedeuten. Journalist:innen konnten dank Databrokern mehrere sensible Bewegungsprofile nachvollziehen. Während die Regierung mauert, nutzen österreichische Sicherheitsbehörden selbst solche Daten.",
+          "published": "Thu, 24 Sep 2026 16:00:51 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Mars-Überraschung: Nasa-Rover entdeckt Hinweise auf uralte Thermalquellen",
+        "Ganz ohne Programmier-Skills: Meta lässt dich jetzt auf deinem Smartphone Videospiele entwickeln",
+        "Darum schickt Google jetzt testweise KI-Chips ins All"
+      ]
+    }
+  ]
+}
