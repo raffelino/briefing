@@ -1,0 +1,418 @@
+{
+  "date": "2026-09-26",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "139.000 Treffer, ein Kandidat: KI-Filter entlarvt vermeintliches Alien-Signal",
+          "link": "https://t3n.de/news/ki-filter-entlarvt-alien-signal-1765246/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bei der Suche nach Hinweisen auf extraterrestrische Technologien produzieren irdische Strahlungsquellen permanent Stördaten. Eine neu entwickelte Filtermethode zeigt nun auf, wie sich echte astronomische Auffälligkeiten von menschlicher Technik trennen lassen. weiterlesen auf t3n.de",
+          "published": "Sat, 26 Sep 2026 10:27:44 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenTelemetry and Prometheus are getting along. What’s still missing?",
+          "link": "https://thenewstack.io/opentelemetry-prometheus-observability-interoperability/",
+          "summary": "Welcome to another edition of Road to KubeCon, where we&#8217;re tracking the major movements in the Kubernetes and cloud native The post OpenTelemetry and Prometheus are getting along. What’s still missing? appeared first on The New Stack .",
+          "published": "Fri, 25 Sep 2026 16:56:47 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Stateless MCP Removes Session Affinity Requirements for AWS Server Deployments",
+          "link": "https://www.infoq.com/news/2026/09/aws-stateless-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS details how the latest Model Context Protocol specification removes protocol-level sessions, sticky-session requirements, and session storage for remote MCP servers. The change enables independent request routing and simpler horizontal scaling while shifting application state, retries, observability, and idempotency concerns to other layers. By Leela Kumili",
+          "published": "Fri, 25 Sep 2026 12:58:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Article: The Agent Harness: What It Is and Two Ways to Build One",
+          "link": "https://www.infoq.com/articles/agent-harness-build-one/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This article explains the development and operational layers of an agent harness through two implementations of a finance assistant: AWS AgentCore Harness and LangChain with Envoy AI Gateway. It compares how each handles tools, memory, model access, cost control, and observability, and examines the trade-offs in operational ownership, portability, and engineering effort. By Trista Pan",
+          "published": "Fri, 25 Sep 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
+          "link": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
+          "summary": "New York sues Polymarket as Trump admin tries to override state gambling laws.",
+          "published": "Thu, 24 Sep 2026 19:07:19 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Developers and platform teams both want Kubernetes self-service. They disagree on who owns it.",
+          "link": "https://thenewstack.io/kubernetes-self-service-platform-teams/",
+          "summary": "What do developers want? Kubernetes environments when they need them. What do they not want? Those environments after a week The post Developers and platform teams both want Kubernetes self-service. They disagree on who owns it. appeared first on The New Stack .",
+          "published": "Thu, 24 Sep 2026 16:06:27 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Bundestagsdebatte zur Geheimdienstreform: Zwischen Schreddern und Nachbessern",
+          "link": "https://netzpolitik.org/2026/bundestagsdebatte-zur-geheimdienstreform-zwischen-schreddern-und-nachbessern/",
+          "summary": "Besonders an den geplanten Regelungen für den Verfassungsschutz gab es Kritik. (Archivbild) – Alle Rechte vorbehalten: IMAGO / Chris Emil Janßen Die Geheimdienstreform ist im Bundestag angekommen. In einer ersten Debatte war die Kluft groß: Während Innenminister Dobrindt es für selbstverständlich hält, dass deutsche Geheimdienste operative Fähigkeiten bekommen sollen, warnen Teile der Opposition vor Gefahren für die Demokratie.",
+          "published": "Thu, 24 Sep 2026 10:18:32 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Amazon blocked Meta’s Muse. Then Shopify wired it into every store.",
+          "link": "https://thenewstack.io/amazon-meta-muse-block/",
+          "summary": "Amazon started blocking Meta’s Muse from browsing and buying on Amazon.com on Sunday, roughly two weeks after the personal agent The post Amazon blocked Meta&#8217;s Muse. Then Shopify wired it into every store. appeared first on The New Stack .",
+          "published": "Wed, 23 Sep 2026 16:39:15 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(8 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "139.000 Treffer, ein Kandidat: KI-Filter entlarvt vermeintliches Alien-Signal",
+        "OpenTelemetry and Prometheus are getting along. What’s still missing?",
+        "Stateless MCP Removes Session Affinity Requirements for AWS Server Deployments"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Vercel Labs Ships scriptc, a TypeScript-to-Native Compiler That Leaves the JavaScript Engine Behind",
+          "link": "https://www.infoq.com/news/2026/09/vercel-scriptc-node/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Vercel Labs has introduced scriptc, an experimental compiler that converts TypeScript into small native executables without relying on Node, V8, or a JavaScript engine. It uses the TypeScript compiler for type checking and can output C or WebAssembly code. Initial benchmarks show faster startup times and lower memory usage than Node, though it experiences slower execution speeds. By Daniel Curtis",
+          "published": "Fri, 25 Sep 2026 05:49:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "How a forgotten node can put Oracle Java back in production",
+          "link": "https://thenewstack.io/azul-ai-assistant-java-risk/",
+          "summary": "Enterprise Java company Azul announced its Azul Intelligence Cloud AI Assistant on Wednesday. The technology arrives in response to industry-wide The post How a forgotten node can put Oracle Java back in production appeared first on The New Stack .",
+          "published": "Thu, 24 Sep 2026 17:50:35 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Java 27: Sicherheit, Laufzeit und reifende APIs",
+          "link": "https://www.heise.de/news/Java-27-Sicherheit-Laufzeit-und-reifende-APIs-11460106.html",
+          "summary": "Das frisch erschienene OpenJDK 27 zielt vor allem auf Stabilität, Security und Performanceverbesserungen.",
+          "published": "2026-09-22T06:50:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Vercel Labs Ships scriptc, a TypeScript-to-Native Compiler That Leaves the JavaScript Engine Behind",
+        "How a forgotten node can put Oracle Java back in production",
+        "Java 27: Sicherheit, Laufzeit und reifende APIs"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop: Cybersecurity im KMU – vom Sicherheitscheck zum Maßnahmenplan",
+          "link": "https://www.heise.de/news/iX-Workshop-Cybersecurity-im-KMU-vom-Sicherheitscheck-zum-Massnahmenplan-11443190.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Machen Sie Ihre Cybersecurity planbar: Bewerten Sie Ihren Sicherheitsstatus, setzen Sie die richtigen Prioritäten und entwickeln Sie einen konkreten Fahrplan.",
+          "published": "2026-09-26T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Phishing-Angriffe mit echten Hotel-Buchungsdaten",
+          "link": "https://www.heise.de/news/Phishing-Angriffe-mit-echten-Hotel-Buchungsdaten-11466446.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Über eine Schwachstelle bei HotelNetSolutions wurden Buchungsdaten von Hotelgästen abgegriffen. Kriminelle nutzen sie für glaubhafte Phishing-Nachrichten.",
+          "published": "2026-09-25T14:44:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(2 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: iX-Workshop: Cybersecurity im KMU – vom Sicherheitscheck zum Maßnahmenplan",
+        "Phishing-Angriffe mit echten Hotel-Buchungsdaten"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Grafana Turns Cypress Test Results Into Persistent Observability Data",
+          "link": "https://www.infoq.com/news/2026/09/grafana-cypress-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Grafana Labs has published a practical approach for monitoring Cypress test suites by converting test results into Prometheus metrics and sending them to Grafana Cloud. By Craig Risi",
+          "published": "Fri, 25 Sep 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "\"Sicherheitspaket 2.0\": Sachverständige halten Gesetzentwürfe für verfassungswidrig",
+          "link": "https://netzpolitik.org/2026/sicherheitspaket-2-0-sachverstaendige-halten-gesetzentwuerfe-fuer-verfassungswidrig/",
+          "summary": "Bundesinnenminister Alexander Dobrindt bei einem Besuch im Terrorismusabwehrzentrum GTAZ. – Alle Rechte vorbehalten: IMAGO / Andreas Gora Die Bundesregierung will Polizeibehörden und dem Bundesamt für Migration und Flüchtlinge neue Fahndungsmöglichkeiten erlauben. Fachleute halten die Befugnisse für viel zu weitreichend und warnten heute im Bundestag vor einer rechtlichen Wackelpartie.",
+          "published": "Mon, 21 Sep 2026 14:59:29 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Grafana Turns Cypress Test Results Into Persistent Observability Data",
+        "\"Sicherheitspaket 2.0\": Sachverständige halten Gesetzentwürfe für verfassungswidrig"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Presentation: Designing Fast, Delightful UX With LLMs for Mobile Frontends",
+          "link": "https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Balakrishnan Ramdoss discusses how to architect production-grade, AI-powered conversational apps at scale. He explains how to overcome model latency, leverage server-driven UI and Backend-for-Frontend patterns to dynamically render multi-modal interfaces, optimize prompts for UI selection, and integrate low-latency, privacy-first on-device AI for mobile applications. By Balakrishnan Ramdoss",
+          "published": "Thu, 24 Sep 2026 09:24:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Qualcomm kündigt Linux-Support für Snapdragon X2 an",
+          "link": "https://www.heise.de/news/Qualcomm-kuendigt-Linux-Support-fuer-Snapdragon-X2-an-11463854.html",
+          "summary": "Künftig sollen die Qualcomm-Prozessoren auch Linux-Betriebssysteme unterstützen, zunächst Debian, kurz danach auch Ubuntu.",
+          "published": "2026-09-24T10:49:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Entwickler: Windows? Nein danke",
+          "link": "https://www.heise.de/news/Entwickler-nutzen-Macs-11462286.html",
+          "summary": "Eine Umfrage unter Softwareentwicklern zeigt: macOS ist das meistgenutzte Betriebssystem. Unter Linux-Nutzern führt Ubuntu deutlich.",
+          "published": "2026-09-22T15:47:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Flet 1.0: Cross-Platform-Apps in Python entwickeln",
+          "link": "https://www.heise.de/news/Flet-1-0-Cross-Platform-Apps-in-Python-entwickeln-11461191.html",
+          "summary": "Mit Flet lassen sich Windows-, macOS-, Linux-, iOS-, Android- und Web-Apps in Python entwickeln, inklusive pandas oder NumPy. Hinzu kommen fertige UI-Elemente.",
+          "published": "2026-09-22T09:11:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "(g+) Im Zeitalter von Edge und Docker: Warum die SPS im Schaltschrank bleibt",
+          "link": "https://www.golem.de/news/im-zeitalter-von-edge-und-docker-warum-die-sps-im-schaltschrank-bleibt-2609-213433.html",
+          "summary": "Unternehmen wollen OT wie IT betreiben. Doch Echtzeit, Safety und Verfügbarkeit setzen Grenzen. Anbieter und Anwender zeigen, was auf Edge und Cloud wandert - und was auf der SPS bleibt. Von Dietmar Müller ( Industrie 4.0 , Linux )",
+          "published": "2026-09-26T10:00:05+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Apple Silicon und Linux: Apple-M3-Macs kommen NVMe-Support im Linux-Kernel näher",
+          "link": "https://www.golem.de/news/apple-silicon-und-linux-apple-m3-macs-kommen-nvme-support-im-linux-kernel-naeher-2609-213454.html",
+          "summary": "Trotz der fortschreitenden Integration der Apple-M3-Hardware-Unterstützung im Linux-Kernel bleibt die funktionale Unterstützung rudimentär. ( Linux-Kernel , Apple )",
+          "published": "2026-09-25T17:17:06+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Word, Excel, Powerpoint: Projekt bringt Microsoft Office auf Linux",
+          "link": "https://www.golem.de/news/word-excel-powerpoint-projekt-bringt-microsoft-office-auf-linux-2609-213438.html",
+          "summary": "Über Proton kann Word bereits auf Linux gestartet werden. Eine große Herausforderung bleibt aber: die Lizenzierung durch Microsoft. ( Microsoft 365 , Linux )",
+          "published": "2026-09-25T12:57:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(7 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Designing Fast, Delightful UX With LLMs for Mobile Frontends",
+        "Qualcomm kündigt Linux-Support für Snapdragon X2 an",
+        "Entwickler: Windows? Nein danke"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Bilder von ChatGPT-Nutzern landen im Internet: OpenAI räumt weiteren Sicherheitsvorfall ein",
+          "link": "https://t3n.de/news/bilder-von-chatgpt-nutzern-landen-im-internet-openai-raeumt-weiteren-sicherheitsvorfall-ein-1765257/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das KI-Unternehmen verwendet auch Bilder von Nutzer:innen seines Chatbots für das Training neuer KI-Modelle. Normalerweise werden diese anonymisiert. Bei einigen könnte der Prozess aber schiefgelaufen sein. weiterlesen auf t3n.de",
+          "published": "Sat, 26 Sep 2026 12:55:23 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Rätsel nach 108 Jahren gelöst: Wie OpenAI-Modell GPT-6 Astra einen Weltkriegs-Funkspruch knackte",
+          "link": "https://t3n.de/news/openai-gpt-6-raetsel-code-1764423/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "OpenAIs GPT-6 Astra soll einen bisher als ungelöst geltenden Funkspruch aus dem Ersten Weltkrieg entschlüsselt haben. Die Lösung scheint aber weniger spektakulär als gedacht gewesen zu sein. Das KI-Modell hat derweil einen weiteren Code geknackt. weiterlesen auf t3n.de",
+          "published": "Sat, 26 Sep 2026 12:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Die Blackbox von Google Discover: So funktioniert das Empfehlungssystem",
+          "link": "https://t3n.de/news/google-discover-algorithmus-empfehlungssystem-1765250/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Zeiten, in denen Suchmaschinen ausschließlich auf konkrete Anfragen warteten, gehören der Vergangenheit an. Heute drängen Algorithmen ungefragt Inhalte auf die Bildschirme der Nutzerschaft und verändern so die Art der Informationsaufnahme grundlegend. weiterlesen auf t3n.de",
+          "published": "Sat, 26 Sep 2026 11:15:53 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Der unsichtbare Preis von ChatGPT: Warum zu viel Entlastung im Job unglücklich macht",
+          "link": "https://t3n.de/news/sinn-job-ki-psychologin-1756442/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Viele Beschäftigte lassen KI bereits Texte schreiben, Code produzieren oder Recherchen übernehmen. Was kurzfristig nach Effizienzgewinn aussieht, hat der Psycho weiterlesen auf t3n.de",
+          "published": "Sat, 26 Sep 2026 09:45:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Bequemlichkeit schlägt Skepsis: Zwei Drittel der Deutschen würden KI-Agenten ihre Finanzdaten geben",
+          "link": "https://t3n.de/news/ki-agenten-finanzdaten-studie-1764181/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Vertrauen in die autonom handelnden Assistenten bleibt begrenzt. Trotzdem könnte die Bequemlichkeit siegen – vor allem dann, wenn die Möglichkeit besteht, beim Abschließen eines Kredits Geld zu sparen. weiterlesen auf t3n.de",
+          "published": "Sat, 26 Sep 2026 09:25:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+          "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+          "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+          "published": "Fri, 25 Sep 2026 21:36:20 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+          "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+          "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+          "published": "Fri, 25 Sep 2026 17:57:37 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Microsoft’s new Copilot agents get their own email, calendar — and a place in the org chart",
+          "link": "https://thenewstack.io/copilot-agents-identity-runtime/",
+          "summary": "Microsoft announced what it calls its biggest Copilot update to date on Friday, with CEO Satya Nadella describing Copilot as The post Microsoft&#8217;s new Copilot agents get their own email, calendar — and a place in the org chart appeared first on The New Stack .",
+          "published": "Fri, 25 Sep 2026 17:16:31 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(8 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Bilder von ChatGPT-Nutzern landen im Internet: OpenAI räumt weiteren Sicherheitsvorfall ein",
+        "Rätsel nach 108 Jahren gelöst: Wie OpenAI-Modell GPT-6 Astra einen Weltkriegs-Funkspruch knackte",
+        "Die Blackbox von Google Discover: So funktioniert das Empfehlungssystem"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "SAP-Migration: So automatisierst du die Analyse von Tausenden AfO-Workbooks",
+          "link": "https://t3n.de/news/sap-migration-afo-workbooks-automatisieren-1755085/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Deine Migration zur SAP Analytics Cloud (SAC) scheitert oft an der unübersichtlichen Flut alter Analysis-for-Office-Workbooks. Manuelle Bestandsaufnahmen kosten dich Monate an Zeit und Nerven. Erfahre, wie du mit einer automatisierten Analyse für Klarheit sorgst, Redundanzen eliminierst und den Weg zur modernen SAC-Story in Rekordzeit ebnest weiterlesen auf t3n.de",
+          "published": "Sat, 26 Sep 2026 09:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "After seven years, a spacecraft company is releasing its Otters into the wild",
+          "link": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
+          "summary": "\"There is always a tension that comes with seeing the first of anything fly.\"",
+          "published": "Fri, 25 Sep 2026 15:35:23 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Trump administration takes Musk’s side in fight over EU tech rules",
+          "link": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
+          "summary": "Washington says Brussels overreached when it fined X €120 million under the DSA.",
+          "published": "Fri, 25 Sep 2026 13:45:49 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Fensterputzroboter mit ausfahrbarer Abziehlippe im Test: Hobot SP10 iScraper",
+          "link": "https://www.heise.de/bestenlisten/testbericht/fensterputzroboter-mit-ausfahrbarer-abziehlippe-im-test-hobot-sp10-iscraper/ejcyyx8?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Hobot SP10 iScraper zieht die Scheibe mit zwei ausfahrbaren Gummilippen ab – ein im Testfeld einzigartiges Konzept gegen das Schlierenproblem.",
+          "published": "2026-09-25T16:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Digital Services Act: US-Regierung will sich in EU-Rechtssprechung einmischen",
+          "link": "https://www.golem.de/news/digital-services-act-us-regierung-will-sich-in-eu-rechtssprechung-einmischen-2609-213446.html",
+          "summary": "Das US-Justizministerium will sich an einem DSA-Verfahren der EU gegen Elon Musk und seine Plattform X beteiligen. ( Digital Services Act , Datenschutz )",
+          "published": "2026-09-25T14:13:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "SAP-Migration: So automatisierst du die Analyse von Tausenden AfO-Workbooks",
+        "After seven years, a spacecraft company is releasing its Otters into the wild",
+        "Trump administration takes Musk’s side in fight over EU tech rules"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Presentation: Adaptive Recommenders in the Real World: Inference, Evals, and System Design",
+          "link": "https://www.infoq.com/presentations/adaptive-recommendation-systems-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Mallika Rao explains that the true complexity of adaptive recommendation systems lies outside model architecture. She discusses how real-time feedback loops, retrieval freshness, multi-stage orchestration, and end-to-end latency budgeting enable systems to continuously learn and evolve in production under real-world operational constraints like latency, cost, and observability. By Mallika Rao",
+          "published": "Sat, 26 Sep 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Adaptive Recommenders in the Real World: Inference, Evals, and System Design"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Krypto-Konten eingefroren: Das undurchsichtige Bankennetzwerk von Tether",
+          "link": "https://t3n.de/news/us-justizministerium-beschlagnahmt-millionen-tether-dienstleister-1765272/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Zugang zum traditionellen Bankensystem ist für Krypto-Unternehmen mit Hürden verbunden. Wenn etablierte Akteure auf verschleierte Umwege über Strohfirmen zurückgreifen müssen, ruft das unweigerlich die Ermittlungsbehörden auf den Plan. weiterlesen auf t3n.de",
+          "published": "Sat, 26 Sep 2026 13:05:31 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Abgelenktes Licht aus dem All: Neue Spur im Rätsel um Dunkle Materie",
+          "link": "https://t3n.de/news/dunkle-materie-3d-simulation-gravitationslinsen-1765254/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein astronomisches Phänomen verzerrt das Licht entfernter Galaxien auf dem Weg zur Erde. Bisherige Computermodelle lieferten dafür oft unpräzise Vorhersagen. Ein neuer Ansatz mit direkten dreidimensionalen Simulationen könnte das nun ändern. weiterlesen auf t3n.de",
+          "published": "Sat, 26 Sep 2026 12:19:26 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Cloudflare Details Its Migration from WordPress to EmDash",
+          "link": "https://www.infoq.com/news/2026/09/cloudflare-emdash-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare recently documented the migration of its main blog from WordPress to EmDash, the open source content management system developed internally. The new platform is designed to improve performance and caching, and it was tested to handle traffic of up to 7000 requests per second. By Renato Losio",
+          "published": "Sat, 26 Sep 2026 09:38:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Künstliche Intelligenz fürs Smarthome: Mein Experiment mit KI-gesteuerten Automationen",
+          "link": "https://t3n.de/news/ki-smarthome-selbstexperiment-1759948/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine KI im Smarthome zu installieren, klingt im ersten Moment schwierig. Dank Opencode und Home Assistant ist es das aber nicht. Aber bleibt es womöglich trotzd weiterlesen auf t3n.de",
+          "published": "Sat, 26 Sep 2026 11:35:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Zitronen-Tarte mit Essiggurken: Wie japanische Supermärkte mit KI neue Snacks erfinden",
+          "link": "https://t3n.de/news/japan-ki-supermarkt-snack-1763900/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Generative KI automatisiert längst mehr als nur digitale Workflows. Im hart umkämpften japanischen Einzelhandel lagern erste Marktführer die Konzeption neuer Lebensmittel an Algorithmen aus, verwenden dabei aber zwei fundamental unterschiedliche Strategien. weiterlesen auf t3n.de",
+          "published": "Sat, 26 Sep 2026 08:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Teuer wie ein Gebrauchtwagen: Warum mich die neuen iPhone-Preise zurück zu Android treiben",
+          "link": "https://t3n.de/news/iphone-preise-kommentar-1762617/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit dem iPhone 18 Pro hat Apple nicht nur neue Preise festgelegt, sondern auch alle alten Geräte nachträglich teurer gemacht. Unser Autor will das nicht mehr bezahlen – und liebäugelt mit der Rückkehr zu Android. weiterlesen auf t3n.de",
+          "published": "Sat, 26 Sep 2026 08:15:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Digitaler Euro: Was Parlament und EU-Länder bei der Privatsphäre trennt",
+          "link": "https://netzpolitik.org/2026/digitaler-euro-was-parlament-und-eu-laender-bei-der-privatsphaere-trennt/",
+          "summary": "Ein Zaun schützt die Europäische Zentralbank in Frankfurt vor unbefugtem Zugriff. Welche rechtlichen Befugnisse und Beschränkungen beim Digitalen Euro gelten, legen aber das Europäische Parlament und der Rat fest. – Alle Rechte vorbehalten: IMAGO / Ralph Peters Über den Digitalen Euro verhandeln seit diesem Monat das Europäische Parlament und die EU-Mitgliedstaaten. Bei Privatsphäre und Datenschutz haben die Institutionen unterschiedliche Vorstellungen. Das Parlament will strengere Regeln, die EU-Länder mehr Datenspuren.",
+          "published": "Sat, 26 Sep 2026 05:38:32 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "KW 39: Die Woche, in der mit Hufeisen geworfen wird",
+          "link": "https://netzpolitik.org/2026/kw-39-die-woche-in-der-mit-hufeisen-geworfen-wird/",
+          "summary": "Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 39. Kalenderwoche geht zu Ende. Wir haben 11 neue Texte mit insgesamt 74.705 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 26 Sep 2026 05:32:27 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(8 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Krypto-Konten eingefroren: Das undurchsichtige Bankennetzwerk von Tether",
+        "Abgelenktes Licht aus dem All: Neue Spur im Rätsel um Dunkle Materie",
+        "Cloudflare Details Its Migration from WordPress to EmDash"
+      ]
+    }
+  ]
+}
