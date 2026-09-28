@@ -1,0 +1,293 @@
+{
+  "date": "2026-09-28",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Presentation: From Consumers to Builders: Turning 200 of our Team into Agent Creators in 2 Weeks",
+          "link": "https://www.infoq.com/presentations/building-internal-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Ben Maraney shares how Forter demystified AI agent creation for technical and non-technical staff. He discusses leveraging custom MCP servers, combining no-code and code-based platforms, sidestepping complex RAG setups, and aligning security and legal teams to accelerate internal agent adoption across R&amp;D. By Ben Maraney",
+          "published": "Mon, 28 Sep 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Uber Separates Scaling Intent From Execution on Kubernetes Platform",
+          "link": "https://www.infoq.com/news/2026/09/uber-kubernetes-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Uber has published a detailed account of its new ServiceScale controller, which allows multiple orchestrators to safely manage the scaling of the same Kubernetes workloads. The blog post, written by senior software engineers Egor Grishechko and Srikar Paruchuru, describes how the company separated scaling intent from execution to support regional failover without carrying reserved idle capacity. By Matt Saunders",
+          "published": "Mon, 28 Sep 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Mac Mini mit M6: Mit dieser Entscheidung sendet Apple das völlig falsch Signal",
+          "link": "https://t3n.de/news/mac-mini-m6-speicher-teuer-nachhaltigkeit-1765372/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Beim neuen Mac Mini hat Apple nicht nur den Preis heraufgesetzt, sondern auch eine Designentscheidung getroffen, die in diesen Zeiten das falsche Signal sendet, findet unser Autor. Es geht um die Nachhaltigkeit – und vor allem ums Geld. weiterlesen auf t3n.de",
+          "published": "Mon, 28 Sep 2026 10:35:14 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AWS Introduces Foreign Key Constraints in Aurora DSQL",
+          "link": "https://www.infoq.com/news/2026/09/aurora-dsql-foreign-keys/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS recently announced that Aurora DSQL now supports foreign key constraints, allowing applications to enforce referential integrity directly in the database, including CASCADE, SET NULL, and other referential actions. The addition addresses a long-standing gap that users had explicitly called out as an adoption blocker. By Renato Losio",
+          "published": "Mon, 28 Sep 2026 04:54:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "The rise of agentic AI on Kubernetes: unleashing the new infrastructure layer",
+          "link": "https://thenewstack.io/agentic-ai-kubernetes-management/",
+          "summary": "AI is changing expectations around infrastructure and operations, including Kubernetes management. When models run close to the data they use, The post The rise of agentic AI on Kubernetes: unleashing the new infrastructure layer appeared first on The New Stack .",
+          "published": "Sun, 27 Sep 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: From Consumers to Builders: Turning 200 of our Team into Agent Creators in 2 Weeks",
+        "Uber Separates Scaling Intent From Execution on Kubernetes Platform",
+        "Mac Mini mit M6: Mit dieser Entscheidung sendet Apple das völlig falsch Signal"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: TornadoVM 7.0, Groovy 6.0, GraalVM, Hibernate, Quarkus, Gradle, Maven",
+          "link": "https://www.infoq.com/news/2026/09/java-news-roundup-sep21-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for September 21st, 2026, features news highlighting: GA releases of TornadoVM 7.0 and Groovy 6.0; point releases of GraalVM and Gradle; maintenance releases of Quarkus and GDK for Micronaut; the seventh release candidate of Maven 4.0; milestone releases of Micrometer Metrics and Tracing; and beta releases of Open Liberty and Hibernate ORM. By Michael Redlich",
+          "published": "Mon, 28 Sep 2026 02:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Swift 6.4 Brings Subprocess 1.0, Improved Interoperability, Faster Wasm, and More",
+          "link": "https://www.infoq.com/news/2026/09/swift-6-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The latest release of Swift, Swift 6.4, introduces a range of language and tooling improvements, including better performance through expanded support for non-copyable values, up to 40 times faster Wasm generated code, improved interoperability with C++20 and Java, and a new Subprocess library that provides a cross-platform API for launching and interacting with external processes. By Sergio De Simone",
+          "published": "Sun, 27 Sep 2026 14:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Metalsong über Kotlin: Powerpoint zum Mitsingen",
+          "link": "https://www.golem.de/news/metalsong-ueber-kotlin-powerpoint-zum-mitsingen-2609-213447.html",
+          "summary": "Die italienische Metalband Nanowar of Steel hat es wieder getan: Nach ihrem Stück HelloWorld.java haben die Musiker den Song Kotlin veröffentlicht. Von Emanuel Kessler ( Unterhaltung & Hobby , Java )",
+          "published": "2026-09-27T10:30:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Java News Roundup: TornadoVM 7.0, Groovy 6.0, GraalVM, Hibernate, Quarkus, Gradle, Maven",
+        "Swift 6.4 Brings Subprocess 1.0, Improved Interoperability, Faster Wasm, and More",
+        "Metalsong über Kotlin: Powerpoint zum Mitsingen"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Notepad++ 8.9.8.1: Update schließt mehrere Sicherheitslücken",
+          "link": "https://www.heise.de/news/Notepad-8-9-8-1-Update-schliesst-mehrere-Sicherheitsluecken-11467765.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das mächtige Textwerkzeug Notepad++ ist in Version 8.9.8.1 erschienen. Don Ho bessert fünf Schwachstellen damit aus.",
+          "published": "2026-09-28T11:16:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Montag: OpenAI-Pause beim KI-Training, Werkstattbesuche nach VW-Schraubenproblem",
+          "link": "https://www.heise.de/news/Montag-OpenAI-Pause-beim-KI-Training-Werkstattbesuche-nach-VW-Schraubenproblem-11467426.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Sicherheitsproblem bei OpenAI + VW-Schraubenproblem bei Seat & Audi + Zertifikatsproblem der AusweisApp + Erpressung nach Flink-Datenleck + Ausbau von Minecraft",
+          "published": "2026-09-28T06:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anzeige: IT-Jobs in Entwicklung, DevOps und IT-Administration",
+          "link": "https://www.golem.de/news/anzeige-it-jobs-in-entwicklung-devops-und-it-administration-2609-213432.html",
+          "summary": "Von Golang-Entwicklung bis IT-Sicherheit: Diese sechs Positionen bieten vielseitige Aufgaben in Entwicklung, Administration und Führung. ( Golem Karrierewelt , Unternehmenssoftware )",
+          "published": "2026-09-27T07:00:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Notepad++ 8.9.8.1: Update schließt mehrere Sicherheitslücken",
+        "Montag: OpenAI-Pause beim KI-Training, Werkstattbesuche nach VW-Schraubenproblem",
+        "Anzeige: IT-Jobs in Entwicklung, DevOps und IT-Administration"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Alle Rezepte an einem Ort – und ohne Cloud: Dieses quelloffene Tool sollten Hobbyköche kennen",
+          "link": "https://t3n.de/news/foodblog-rezepte-tandoor-open-source-app-1674456/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Genervt von Foodblogs und Rezeptewebsites? Unser Autor verwaltet seine Lieblingsrezepte mit einer Open-Source-Lösung. Warum er darauf nicht mehr verzichten könnte. weiterlesen auf t3n.de",
+          "published": "Sun, 27 Sep 2026 21:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Ikonen der Forschung: Click Boom Flash #72 über Industriefotografie als Kunst",
+          "link": "https://www.heise.de/news/Ikonen-der-Forschung-Click-Boom-Flash-72-ueber-Industriefotografie-als-Kunst-11466552.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "„Ich bin einiges gewohnt von Kraftwerken. Aber da dachte ich mir, wow“, sagt Fotograf Christian Lühnig über den Blick in die Montagehalle eines Fusionsreaktors.",
+          "published": "2026-09-28T07:40:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Gesetzentwurf: Halterhaftung für E-Scooter in Planung",
+          "link": "https://www.golem.de/news/gesetzentwurf-halterhaftung-fuer-e-scooter-in-planung-2609-213467.html",
+          "summary": "Die Bundesregierung will die Haftungsregeln für E-Scooter verschärfen und Geschädigten die Durchsetzung von Schadenersatzansprüchen erleichtern. ( E-Scooter , Bundesregierung )",
+          "published": "2026-09-27T10:55:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Alle Rezepte an einem Ort – und ohne Cloud: Dieses quelloffene Tool sollten Hobbyköche kennen",
+        "Ikonen der Forschung: Click Boom Flash #72 über Industriefotografie als Kunst",
+        "Gesetzentwurf: Halterhaftung für E-Scooter in Planung"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Qualcomm kündigt Linux-Support für Snapdragon X2 an",
+          "link": "https://www.heise.de/news/Qualcomm-kuendigt-Linux-Support-fuer-Snapdragon-X2-an-11463854.html",
+          "summary": "Künftig sollen die Qualcomm-Prozessoren auch Linux-Betriebssysteme unterstützen, zunächst Debian, kurz danach auch Ubuntu.",
+          "published": "2026-09-24T10:49:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Entwickler: Windows? Nein danke",
+          "link": "https://www.heise.de/news/Entwickler-nutzen-Macs-11462286.html",
+          "summary": "Eine Umfrage unter Softwareentwicklern zeigt: macOS ist das meistgenutzte Betriebssystem. Unter Linux-Nutzern führt Ubuntu deutlich.",
+          "published": "2026-09-22T15:47:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Flet 1.0: Cross-Platform-Apps in Python entwickeln",
+          "link": "https://www.heise.de/news/Flet-1-0-Cross-Platform-Apps-in-Python-entwickeln-11461191.html",
+          "summary": "Mit Flet lassen sich Windows-, macOS-, Linux-, iOS-, Android- und Web-Apps in Python entwickeln, inklusive pandas oder NumPy. Hinzu kommen fertige UI-Elemente.",
+          "published": "2026-09-22T09:11:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Gravity Linux: KI-Hilfe soll Linux schneller auf moderne Apple-CPUs bringen",
+          "link": "https://www.golem.de/news/gravity-linux-ki-hilfe-soll-linux-schneller-auf-moderne-apple-cpus-bringen-2609-213482.html",
+          "summary": "Ein neues Projekt will Linux auf neueres Apple Silicon bringen. Eine Alpha-Version unterstützt bereits die GPU des M4 Mac Mini. ( Linux , Apple )",
+          "published": "2026-09-28T10:03:04+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Anzeige: American Express Platinum Card - Luxus oder gutes Investment?",
+          "link": "https://www.golem.de/news/anzeige-american-express-platinum-card-luxus-oder-gutes-investment-2609-213355.html",
+          "summary": "Wer häufig reist, gern gut essen geht und seine Ausgaben bewusst steuert, kann aus der American Express Platinum Card viel herausholen. Rechtfertigen die Vorteile das Jahresentgelt von 720 Euro? ( Wirtschaft )",
+          "published": "2026-09-28T09:00:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Qualcomm kündigt Linux-Support für Snapdragon X2 an",
+        "Entwickler: Windows? Nein danke",
+        "Flet 1.0: Cross-Platform-Apps in Python entwickeln"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Article: Five Ways To Use AI Coding Agents to Improve Your Software Architecture",
+          "link": "https://www.infoq.com/articles/ai-agents-improve-software-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Modern architectures often use legacy services for specific tasks, but these services may lack accurate documentation and using them can be risky if you don't understand them well. AI coding agents can help close that knowledge gap. By Pierre Pureur, Kurt Bittner, Todd Miller",
+          "published": "Mon, 28 Sep 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Nvidia launches Open Agent Safety Platform to lock down rogue AI agents",
+          "link": "https://thenewstack.io/nvidia-openshell-sentry-agents/",
+          "summary": "OpenAI, Anthropic, Meta, and Google have all recently disclosed that their models broke out of their test environments and reached The post Nvidia launches Open Agent Safety Platform to lock down rogue AI agents appeared first on The New Stack .",
+          "published": "Mon, 28 Sep 2026 10:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI pausiert Training neuer KI-Modelle nach weiterem Vorfall: So soll es jetzt weitergehen",
+          "link": "https://t3n.de/news/openai-pausiert-ki-training-neue-modelle-1765374/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "OpenAI zieht die Notbremse bei der KI‑Entwicklung. Das Training noch leistungsfähigerer Modelle wird nach einem weiteren Zwischenfall vorerst gestoppt. Was das Unternehmen mit dieser Pause erreichen will. weiterlesen auf t3n.de",
+          "published": "Mon, 28 Sep 2026 11:30:46 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "ChatGPT als Steuerberater: Wie KI dir bei Einsprüchen gegen das Finanzamt hilft",
+          "link": "https://t3n.de/news/chatgpt-steuerberater-ki-steuerbescheid-einspruch-finanzamt-1763969/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn der Steuerbescheid mit einer Nachzahlung kommt, fühlen sich viele hilflos. Chatbots wie ChatGPT oder Gemini können helfen, das Behördendeutsch zu entschlüs weiterlesen auf t3n.de",
+          "published": "Sun, 27 Sep 2026 16:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Video: Großbatteriespeicher – nützlich, nicht das Ende dynamischer Stromtarife",
+          "link": "https://www.heise.de/news/Video-Grossbatteriespeicher-nuetzlich-nicht-das-Ende-dynamischer-Stromtarife-11467997.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Großbatteriespeicher übertreffen sich mit Rekordmeldungen. Werden dynamische Stromtarife und private Arbitrage-Stromspeicher dadurch unrentabel?",
+          "published": "2026-09-28T13:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Article: Five Ways To Use AI Coding Agents to Improve Your Software Architecture",
+        "Nvidia launches Open Agent Safety Platform to lock down rogue AI agents",
+        "OpenAI pausiert Training neuer KI-Modelle nach weiterem Vorfall: So soll es jetzt weitergehen"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Autistici / Inventati: Es ist immer noch viel zu still",
+          "link": "https://netzpolitik.org/2026/autistici-inventati-es-ist-immer-noch-viel-zu-still/",
+          "summary": "Die Terror-Sanktionen der USA gegen das Tech-Kollektiv sind eine besondere Form internationaler Zensur. (Symbolbild) – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Mick Haupt Anne Roth hat vor 19 Jahren ein Blog bei NoBlogs.org gestartet. Jetzt hat die unkommerzielle Plattform dicht gemacht, weil die USA das dahinter stehende Tech-Kollektiv als Terrorismus eingestuft haben. Die USA greifen damit direkt und ohne jedes Verfahren die Meinungs- und Internetfreiheit in anderen Ländern an.",
+          "published": "Mon, 28 Sep 2026 11:10:38 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Auf Sand gebaut: Oracle-Schreiben wirft Schlaglicht auf Probleme bei KI-Projekten",
+          "link": "https://t3n.de/news/oracle-probleme-ki-projekte-1765379/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Oracle steht bei dem milliardenschweren Project Jupiter offenbar unter Druck. Der Konzern hat dem Projektentwickler eine Force-Majeure-Mitteilung geschickt, um sich finanziell abzusichern. Der Move zeigt ein grundlegendes Problem der KI-Branche. weiterlesen auf t3n.de",
+          "published": "Mon, 28 Sep 2026 12:00:17 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Niedriger Rhein-Pegel: Mit dieser Technik können Binnenschiffe trotz Trockenheit fahren",
+          "link": "https://t3n.de/news/rhein-pegel-technik-binnenschiffe-1756914/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bei Trockenheit kommt die Schifffahrt auf dem Rhein beinahe zum Erliegen. Neue Konzepte sollen Frachter nun tauglicher für Niedrigwasser machen. weiterlesen auf t3n.de",
+          "published": "Mon, 28 Sep 2026 09:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Jahresendstress: Resilienzcoach erklärt, wie du deine Ressourcen schützt",
+          "link": "https://t3n.de/news/resilienz-coach-tipps-ressourcen-schuetzen-jahresabschluss-termindruck-1765148/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Herbst füllen sich To-Do-Liste und Terminkalender für den näherrückenden Jahresabschluss. Die Phase ist mitunter stressig und nagt an den eigenen Ressourcen. Im Podcast t3n Arbeit in Progress gibt Resilienzcoach Bettina Steeg Tipps, wie du jetzt mit deiner Energie möglichst gut haushaltest. weiterlesen auf t3n.de",
+          "published": "Mon, 28 Sep 2026 07:00:48 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Patente verletzt: Vibrationsalarm bei iPhone und Watch kostet Apple 5,7 Milliarden Dollar",
+          "link": "https://t3n.de/news/patente-vibrationsalarm-iphone-1765336/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "2021 hatte Taction Technology Klage gegen Apple eingereicht. Der iPhone-Konzern soll zwei Patente des Unternehmens mit Bezug zum Vibrationsalarm verletzt haben. Jetzt muss Apple 5,7 Milliarden US-Dollar zahlen – sieht sich aber zu Unrecht beschuldigt. weiterlesen auf t3n.de",
+          "published": "Sun, 27 Sep 2026 22:16:01 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Autistici / Inventati: Es ist immer noch viel zu still",
+        "Auf Sand gebaut: Oracle-Schreiben wirft Schlaglicht auf Probleme bei KI-Projekten",
+        "Niedriger Rhein-Pegel: Mit dieser Technik können Binnenschiffe trotz Trockenheit fahren"
+      ]
+    }
+  ]
+}
