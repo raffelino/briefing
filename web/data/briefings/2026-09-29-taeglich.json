@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-29",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "heise+ | Vom klassischen DBMS zur offenen Echtzeit-Datenplattform",
+          "link": "https://www.heise.de/hintergrund/Vom-klassischen-DBMS-zur-offenen-Echtzeit-Datenplattform-11445689.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "IoT- und Sensordaten erfordern neue Architekturen. Offene Plattformen verbinden relationale Datenbanken mit Streaming und Echtzeitanalysen.",
+          "published": "2026-09-29T09:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise+ | Vom klassischen DBMS zur offenen Echtzeit-Datenplattform"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
+          "link": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
+          "summary": "Kalshi's defiance of state gambling laws may be headed to Supreme Court.",
+          "published": "Mon, 28 Sep 2026 19:04:09 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Radicle Discloses Critical Flaws Exposing Private Repositories in Plain Text",
+          "link": "https://www.infoq.com/news/2026/09/radicle-network-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Radicle has identified two critical security vulnerabilities in its wire protocol, compromising confidentiality across all node releases. Attackers can access private repository data in cleartext and impersonate nodes. Due to architectural flaws, immediate halting of clearnet operations is advised. Fixes will require a shift to a new protocol (Iroh), creating backward incompatibility issues. By Olimpiu Pop",
+          "published": "Mon, 28 Sep 2026 14:14:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Presentation: From Consumers to Builders: Turning 200 of our Team into Agent Creators in 2 Weeks",
+          "link": "https://www.infoq.com/presentations/building-internal-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Ben Maraney shares how Forter demystified AI agent creation for technical and non-technical staff. He discusses leveraging custom MCP servers, combining no-code and code-based platforms, sidestepping complex RAG setups, and aligning security and legal teams to accelerate internal agent adoption across R&amp;D. By Ben Maraney",
+          "published": "Mon, 28 Sep 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Uber Separates Scaling Intent From Execution on Kubernetes Platform",
+          "link": "https://www.infoq.com/news/2026/09/uber-kubernetes-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Uber has published a detailed account of its new ServiceScale controller, which allows multiple orchestrators to safely manage the scaling of the same Kubernetes workloads. The blog post, written by senior software engineers Egor Grishechko and Srikar Paruchuru, describes how the company separated scaling intent from execution to support regional failover without carrying reserved idle capacity. By Matt Saunders",
+          "published": "Mon, 28 Sep 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AWS CloudWatch: KI soll bei Incidents mit ermitteln",
+          "link": "https://www.heise.de/news/AWS-CloudWatch-KI-soll-bei-Incidents-mit-ermitteln-11463430.html",
+          "summary": "AWS führt CloudWatch Omni ein: Eine neue Oberfläche für das Monitoring von Anwendungen und KI-Agenten. Agenten helfen auch bei der Auswertung mit.",
+          "published": "2026-09-23T14:28:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Kalshi loses again as judges rule prediction markets must obey gambling laws",
+        "Radicle Discloses Critical Flaws Exposing Private Repositories in Plain Text",
+        "Presentation: From Consumers to Builders: Turning 200 of our Team into Agent Creators in 2 Weeks"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Malta versus Lilith Wittmann: Gerichtsurteil stärkt Meinungs- und Pressefreiheit",
+          "link": "https://netzpolitik.org/2026/malta-versus-lilith-wittmann-gerichtsurteil-staerkt-meinungs-und-pressefreiheit/",
+          "summary": "Lilith Wittmann nach der öffentlichen Verhandlung beim Landgericht II Berlin – CC-BY-SA 4.0 : Lilith Wittmann vorm Landgericht II Berlin Tegeler Weg: netzpolitik.org; Bearbeitung: netzpolitik.org Die IT-Sicherheitsexpertin Lilith Wittmann leitete Daten der maltesischen Glücksspielbehörde an Medien und Ermittlungsbehörden weiter, wonach diese mutmaßlich illegales Glücksspiel ermöglichte. Die Behörde ging daraufhin gerichtlich gegen Wittmann vor. Nun liegt ein Urteil vor, das die Meinungs- und Pressefreiheit stärkt.",
+          "published": "Mon, 28 Sep 2026 11:26:38 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "heise-Angebot: CySecMed 2026: Zwei Tage Cybersecurity für die Medizintechnik",
+          "link": "https://www.heise.de/news/CySecMed-2026-Zwei-Tage-Cybersecurity-fuer-die-Medizintechnik-11468265.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Wie lassen sich vernetzte Medizinprodukte sicher gestalten? Die CySecMed verbindet technische Praxis, regulatorische Fragen und Austausch in der Branche.",
+          "published": "2026-09-29T12:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Digitale Gesundheitsanwendungen: HelloBetter meldet Datenpanne nach Cyberangriff",
+          "link": "https://www.heise.de/news/Digitale-Gesundheitsanwendungen-HelloBetter-meldet-Datenpanne-nach-Cyberangriff-11469296.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Aufgrund einer Schwachstelle konnten Unbekannte auf sensible Nutzerdaten eines Anbieters digitaler Therapieprogramme zugreifen.",
+          "published": "2026-09-29T11:10:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Mistral eröffnet KI-Standort in München",
+          "link": "https://www.heise.de/news/Mistral-eroeffnet-KI-Standort-in-Muenchen-11469166.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mistral baut in München Teams für Industrie-KI und physikalische Simulationen auf. Zu den ersten Partnern gehören BMW, Siemens Energy und die TUM.",
+          "published": "2026-09-29T11:06:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anzeige: Microsoft 365 mit Zero Trust absichern",
+          "link": "https://www.golem.de/news/anzeige-microsoft-365-mit-zero-trust-absichern-2609-213173.html",
+          "summary": "Microsoft 365 Zero Trust setzt auf konsequente Prüfung von Zugriffen. Ein Online-Workshop vermittelt die Umsetzung mit Entra ID, DLP, Monitoring und Defender. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-09-28T18:45:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Malta versus Lilith Wittmann: Gerichtsurteil stärkt Meinungs- und Pressefreiheit",
+        "heise-Angebot: CySecMed 2026: Zwei Tage Cybersecurity für die Medizintechnik",
+        "Digitale Gesundheitsanwendungen: HelloBetter meldet Datenpanne nach Cyberangriff"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Von Europa nach Hongkong: Hackathon und Delegationsreise eröffnen Chancen für aufstrebende Tech-Talente",
+          "link": "https://t3n.de/news/von-europa-nach-hongkong-1764629/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Programm aus Hackathon und Delegationsreise hat europäischen Gründer:innen den Zugang zu Forschungsförderung, Kapital und Märkten in Hongkong, auf dem chinesischen Festland und darüber hinaus geebnet. Welche Vorteile bietet Hongkong, die bei europäischen Tech-Gründer:innen so gut ankommen? weiterlesen auf t3n.de",
+          "published": "Tue, 29 Sep 2026 09:00:59 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Neue EU-Regeln gegen Greenwashing: Was sich beim Einkaufen jetzt ändert",
+          "link": "https://t3n.de/news/neue-eu-regeln-gegen-greenwashing-was-sich-beim-einkaufen-jetzt-aendert-1765493/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Seit Ende September gelten beim Einkaufen neue Kennzeichnungsregeln – und die sollen dazu beitragen, dass Verbraucher:innen nicht mehr durch Greenwashing-Aussagen wie „umweltfreundlich“ oder „nachhaltig“ getäuscht werden. weiterlesen auf t3n.de",
+          "published": "Tue, 29 Sep 2026 07:30:35 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Trump-Regierung kippt Bidens strenge Spritverbrauchsregeln für Neuwagen",
+          "link": "https://www.heise.de/news/Weniger-Effizienz-mehr-CO-USA-lockern-Verbrauchsvorgaben-fuer-Neuwagen-11468627.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die US-Regierung senkt die Flottenverbrauchsvorgaben für Neuwagen massiv. Statt 50,4 mpg sollen 2031 nur noch rund 34,9 mpg gelten, mit weitreichenden Folgen.",
+          "published": "2026-09-29T07:53:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Von Europa nach Hongkong: Hackathon und Delegationsreise eröffnen Chancen für aufstrebende Tech-Talente",
+        "Neue EU-Regeln gegen Greenwashing: Was sich beim Einkaufen jetzt ändert",
+        "Trump-Regierung kippt Bidens strenge Spritverbrauchsregeln für Neuwagen"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Qualcomm kündigt Linux-Support für Snapdragon X2 an",
+          "link": "https://www.heise.de/news/Qualcomm-kuendigt-Linux-Support-fuer-Snapdragon-X2-an-11463854.html",
+          "summary": "Künftig sollen die Qualcomm-Prozessoren auch Linux-Betriebssysteme unterstützen, zunächst Debian, kurz danach auch Ubuntu.",
+          "published": "2026-09-24T10:49:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Entwickler: Windows? Nein danke",
+          "link": "https://www.heise.de/news/Entwickler-nutzen-Macs-11462286.html",
+          "summary": "Eine Umfrage unter Softwareentwicklern zeigt: macOS ist das meistgenutzte Betriebssystem. Unter Linux-Nutzern führt Ubuntu deutlich.",
+          "published": "2026-09-22T15:47:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "(g+) Immutable Desktops: Der Linux-Desktop wird berechenbarer",
+          "link": "https://www.golem.de/news/immutable-desktops-der-linux-desktop-wird-berechenbarer-2609-213486.html",
+          "summary": "Immutable-Linux-Desktops sollen stabilere Updates und einfache Rollbacks bieten. Wir zeigen, wie Fedora, Opensuse, Vanilla OS und Ubuntu Core das umsetzen. Ein Ratgebertext von Antonino Zambito ( Linux , Dateisystem )",
+          "published": "2026-09-28T13:30:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Qualcomm kündigt Linux-Support für Snapdragon X2 an",
+        "Entwickler: Windows? Nein danke",
+        "(g+) Immutable Desktops: Der Linux-Desktop wird berechenbarer"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Sonnet 5.5 ist da: Warum das neue KI-Modell von Anthropic das ideale Arbeitswerkzeug sein soll",
+          "link": "https://t3n.de/news/sonnet-5-5-ist-da-warum-das-neue-ki-modell-von-anthropic-das-ideale-arbeitswerkzeug-sein-soll-1765554/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nur rund drei Monate nach der Veröffentlichung von Sonnet 5 legt das Unternehmen schon mit einer neuen Version nach. Diese soll nah an Opus 5.5 heranreichen, im Arbeitsalltag aber die bessere Wahl sein. weiterlesen auf t3n.de",
+          "published": "Tue, 29 Sep 2026 12:30:30 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anthropic warnt vor existenziellen KI-Risiken – und plant trotzdem den Mega-IPO",
+          "link": "https://t3n.de/news/anthropic-warnt-vor-existenziellen-ki-risiken-und-plant-trotzdem-den-mega-ipo-1765545/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Prospekt für den geplanten Börsengang warnt Anthropic vor möglichen katastrophalen Folgen seiner eigenen KI-Modelle. Gleichzeitig wächst das Geschäft rasant – ebenso wie Verluste und Kosten. weiterlesen auf t3n.de",
+          "published": "Tue, 29 Sep 2026 11:35:02 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Fritzbox mieten oder kaufen: Was lohnt sich am meisten?",
+          "link": "https://t3n.de/news/fritzbox-mieten-kaufen-1765482/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Du bist dabei, einen neuen Internetvertrag abzuschließen, und dir wird eine Fritzbox zur Miete angeboten? Wann sich das lohnt und wann du deinen neuen Router lieber selbst kaufen solltest. weiterlesen auf t3n.de",
+          "published": "Tue, 29 Sep 2026 10:30:41 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI und Anthropic: Was vom KI-Hype des Sommers wirklich übrig bleibt",
+          "link": "https://t3n.de/news/openai-anthropic-ki-hype-1764681/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Selten war die Schlagzeilendichte größer: Sprachmodelle sollen kurz vor der Superintelligenz stehen und uns alle umbringen. Die beiden KI-Wissenschaftlerinnen T weiterlesen auf t3n.de",
+          "published": "Tue, 29 Sep 2026 09:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Modell handelt auf eigene Initiative: OpenAI stoppt Veröffentlichung von GPT 6.1 Astra",
+          "link": "https://t3n.de/news/gpt-6-1-astra-open-ai-stoppt-veroeffentlichung-1765515/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nach Hacking-Attacken durch seine KI stellte der ChatGPT-Entwickler OpenAI die Entwicklungsprozesse auf den Prüfstand. Ein geplantes neues KI-Modell kommt jetzt wegen Bedenken gar nicht heraus. weiterlesen auf t3n.de",
+          "published": "Tue, 29 Sep 2026 07:45:07 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Sonnet 5.5 ist da: Warum das neue KI-Modell von Anthropic das ideale Arbeitswerkzeug sein soll",
+        "Anthropic warnt vor existenziellen KI-Risiken – und plant trotzdem den Mega-IPO",
+        "Fritzbox mieten oder kaufen: Was lohnt sich am meisten?"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "F1 in Azerbaijan: That was almost a close-run thing",
+          "link": "https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/",
+          "summary": "Kimi Antonelli could not repeat his Monza magic after a crash in qualifying.",
+          "published": "Mon, 28 Sep 2026 17:41:35 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Anzeige: Microsoft 365 DSGVO-konform betreiben",
+          "link": "https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-2609-213172.html",
+          "summary": "Golem Karrierewelt: Microsoft 365 erfordert klare Regeln für Datenschutz und Compliance. Ein Workshop ordnet DSGVO, Datenresidenz, Audits und Drittlandtransfers ein. ( Golem Karrierewelt , Datenschutz )",
+          "published": "2026-09-29T07:15:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "F1 in Azerbaijan: That was almost a close-run thing",
+        "Anzeige: Microsoft 365 DSGVO-konform betreiben"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Atlassian Rebuilds Metrics Pipeline Around OpenTelemetry at Massive Scale",
+          "link": "https://www.infoq.com/news/2026/09/atlassian-opentelemetry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Software company Atlassian has published an account of its migration from gostatsd to OpenTelemetry, replacing the internal workings of a metrics platform that receives data from about 100,000 hosts across 14 regions. The existing service had a 99.95% SLO, so the team had to change the platform without disrupting the metrics used by production alerts. By Matt Saunders",
+          "published": "Tue, 29 Sep 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Cloudflare Worker Previews: Per-Branch Environments for Workers",
+          "link": "https://www.infoq.com/news/2026/09/cloudflare-worker-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare has introduced Worker Previews. This feature allows each Git branch to have its own isolated, production-like environment for a Worker. Each environment has a stable URL. It also has its own configuration and unique state for each branch. Plus, there’s scoped observability. By Claudio Masolo",
+          "published": "Tue, 29 Sep 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(2 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Atlassian Rebuilds Metrics Pipeline Around OpenTelemetry at Massive Scale",
+        "Cloudflare Worker Previews: Per-Branch Environments for Workers"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Ohne Akku, mit Geräuschunterdrückung: Bose bringt neue kabelgebundene In-Ears",
+          "link": "https://t3n.de/news/ohne-akku-mit-geraeuschunterdrueckung-bose-bringt-neue-kabelgebundene-in-ears-1765535/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kein Laden, kein Bluetooth-Pairing: Bose verkauft erstmals seit 2015 wieder kabelgebundene Ohrhörer. Die In-Ears mit Geräuschunterdrückung sind vergleichsweise günstig und hängen am USB-C-Anschluss. weiterlesen auf t3n.de",
+          "published": "Tue, 29 Sep 2026 12:00:15 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Ärzte, Aktivistinnen und Internetnutzer: Diese Geheimdienstreform betrifft uns alle",
+          "link": "https://netzpolitik.org/2026/aerzte-aktivistinnen-und-internetnutzer-diese-geheimdienstreform-betrifft-uns-alle/",
+          "summary": "Die Geheimdienstreform wirkt sich auf uns alle aus. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Timon Studler Bei der Geheimdienstreform geht es nur um Bedrohungen durch „fremde Mächte“ und Terror? Mitnichten. Die Regeln, die derzeit der Bundestag debattiert, gehen uns alle an: beim Arztbesuch, in der Autowerkstatt und auf der Demo.",
+          "published": "Tue, 29 Sep 2026 09:46:01 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Smartphones: Betrüger sollen aus gebrauchten Teilen zusammengebaute Geräte als Neuware verkauft haben",
+          "link": "https://t3n.de/news/eine-million-geraete-betroffen-betrueger-sollen-aus-gebrauchten-teilen-zusammengebaute-smartphones-als-neuware-verkauft-haben-1765542/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Käufer und Käuferinnen in der ganzen EU sind wohl in die Irre geführt worden: Ermittlungen zufolge haben Kriminelle mindestens eine Million Handys online als Pseudo-Neuware verkauft. Nun gibt es Folgen. weiterlesen auf t3n.de",
+          "published": "Tue, 29 Sep 2026 11:05:58 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "iOS 27.0.1 ist da: Diese 3 nervigen iPhone-Fehler behebt das Update",
+          "link": "https://t3n.de/news/ios-27-0-1-update-iphone-3-fehler-1765525/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Erste Käufer:innen des iPhone 18 Pro und Pro Max monierten schnell Probleme mit den neuen Apple-Telefonen. Zwei davon behebt das Update auf iOS 27.0.1. Auch auf allen anderen Geräten behebt die frische Software einen Fehler. weiterlesen auf t3n.de",
+          "published": "Tue, 29 Sep 2026 09:05:17 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Starship erreicht erstmals den Erdorbit: Warum der Flug vorzeitig beendet werden musste",
+          "link": "https://t3n.de/news/starship-erreicht-erdorbit-flug-vorzeitig-beendet-1765516/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Starship von SpaceX hat seinen erneuten Testflug erfolgreich abgeschlossen und es dabei sogar bis in den Orbit geschafft. Allerdings kam es auch bei diesem Test zu Problemen, die den Verlauf des Starship-Fluges beeinflussten. weiterlesen auf t3n.de",
+          "published": "Tue, 29 Sep 2026 08:15:44 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Ohne Akku, mit Geräuschunterdrückung: Bose bringt neue kabelgebundene In-Ears",
+        "Ärzte, Aktivistinnen und Internetnutzer: Diese Geheimdienstreform betrifft uns alle",
+        "Smartphones: Betrüger sollen aus gebrauchten Teilen zusammengebaute Geräte als Neuware verkauft haben"
+      ]
+    }
+  ]
+}
