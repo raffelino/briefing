@@ -1,0 +1,316 @@
+{
+  "date": "2026-09-30",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "“Think of it as Kubernetes for agents”: OpenClaw lands in the enterprise with Nvidia and Red Hat on board",
+          "link": "https://thenewstack.io/openclaw-enterprise-kubernetes-agents/",
+          "summary": "OpenClaw has come a long way since it emerged as a viral weekend project less than a year ago. Created The post &#8220;Think of it as Kubernetes for agents&#8221;: OpenClaw lands in the enterprise with Nvidia and Red Hat on board appeared first on The New Stack .",
+          "published": "Wed, 30 Sep 2026 10:36:01 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Verspätungen und Zugausfälle: Mit diesem Tool vermeidest du Stress beim Bahnfahren",
+          "link": "https://t3n.de/news/verspaetungen-und-zugausfaelle-mit-diesem-tool-vermeidest-du-stress-beim-bahnfahren-1765831/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nur rund jeder zweite Fernverkehrszug in Deutschland kommt pünktlich an. Delay Bahn hilft dabei, die Zuverlässigkeit von Verbindungen schon vor dem Buchen zu prüfen, und zeigt Züge jetzt auch in Echtzeit an. weiterlesen auf t3n.de",
+          "published": "Wed, 30 Sep 2026 11:30:20 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Agents Refactor 300K Lines in Three Weeks, and Practitioners Ask What It Proves",
+          "link": "https://www.infoq.com/news/2026/09/agentic-refactoring-case-study/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "CodeScene has published a case study in which coding agents refactored 300,000 lines of C over three weeks for roughly $4,000 in tokens, verified by a frame-by-frame replay harness. The agents built a playbook of codebase-specific recipes along the way. Practitioners have questioned the scope, the metric, and how much of the result depends on the harness. By Steef-Jan Wiggers",
+          "published": "Wed, 30 Sep 2026 06:16:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
+          "link": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
+          "summary": "FCC unlikely to stop Trump ads described as illegal taxpayer-funded propaganda.",
+          "published": "Tue, 29 Sep 2026 20:23:40 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Kubernetes Teams Get a Safer Way to See Their Own GPU Metrics",
+          "link": "https://www.infoq.com/news/2026/09/kubernetes-gpu-metrics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Adobe engineers have described an open-source approach for giving teams self-service access to their own Prometheus metrics in multi-tenant Kubernetes environments, without exposing the shared metrics of other teams. By Craig Risi",
+          "published": "Tue, 29 Sep 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "“Think of it as Kubernetes for agents”: OpenClaw lands in the enterprise with Nvidia and Red Hat on board",
+        "Verspätungen und Zugausfälle: Mit diesem Tool vermeidest du Stress beim Bahnfahren",
+        "Agents Refactor 300K Lines in Three Weeks, and Practitioners Ask What It Proves"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Spring News Roundup: Second Milestone Releases of Boot, Framework, Data, Security, Integration",
+          "link": "https://www.infoq.com/news/2026/09/spring-news-roundup-sep21-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "There was a flurry of activity during the week of September 21st, 2026, highlighting: second milestone releases of: Spring Boot, Spring Batch, Spring Security, Spring AMQP, Spring Integration, Spring Data, Spring Framework, Spring for GraphQL and Spring for Apache Kafka. There were also first milestone releases of Spring AI, Spring Cloud, Spring Web Services and Spring LDAP. By Michael Redlich",
+          "published": "Tue, 29 Sep 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Spring News Roundup: Second Milestone Releases of Boot, Framework, Data, Security, Integration"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "iOS: Warum du mit der Installation neuer Updates nicht mehr warten solltest",
+          "link": "https://t3n.de/news/ios-27-26-update-iphone-sicherheit-luecken-1765808/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer iOS 27 bislang nicht auf seinem iPhone installiert hat, sollte das tunlichst nachholen, denn die Vorgängerversion enthält eine Schwachstelle. Wollt ihr die Software partout nicht, gibt es aber auch eine andere Lösung. weiterlesen auf t3n.de",
+          "published": "Wed, 30 Sep 2026 11:00:05 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "24 Sicherheitslücken in Android: So wurden sie mit einem Github-Agenten aufgespürt",
+          "link": "https://t3n.de/news/github-agent-24-android-sicherheitsluecken-1765713/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Seit geraumer Zeit bietet das GitHub Security Lab ein eigenes, quelloffenes KI-Framework für Sicherheitsforscher:innen an. Darüber sollen sich Schwachstellen in diversen Systemen aufspüren lassen. Jetzt hat das Team dahinter ganze 24 Probleme in Android mit KI-Unterstützung finden können. weiterlesen auf t3n.de",
+          "published": "Tue, 29 Sep 2026 17:00:01 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Kritische Schwachstelle: Google stopft 32 Löcher in Chrome",
+          "link": "https://www.golem.de/news/kritische-schwachstelle-google-stopft-32-loecher-in-chrome-2609-213576.html",
+          "summary": "Die kritische Lücke erlaubt eine Remotecodeausführung außerhalb der Sandbox. Die nächste finale Version von Chrome steht schon in den Startlöchern. ( Browser , Chrome )",
+          "published": "2026-09-30T12:00:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "iOS: Warum du mit der Installation neuer Updates nicht mehr warten solltest",
+        "24 Sicherheitslücken in Android: So wurden sie mit einem Github-Agenten aufgespürt",
+        "Kritische Schwachstelle: Google stopft 32 Löcher in Chrome"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Neues Firefox-Design: Das sind die größten Änderungen seit Jahren",
+          "link": "https://t3n.de/news/firefox-157-update-design-kompaktmodus-1765774/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das aktuelle Update des bekannten Open-Source-Browsers bringt optische Veränderungen unter dem Codenamen „Project Nova“ auf Desktop- und Mobilgeräte. Neben der überarbeiteten Oberfläche gibt es sicherheitsrelevante Anpassungen. weiterlesen auf t3n.de",
+          "published": "Tue, 29 Sep 2026 20:14:56 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise-Angebot: c't Sonderheft: Home Assistant meistern wie ein Profi",
+          "link": "https://www.heise.de/news/c-t-Sonderheft-Home-Assistant-meistern-wie-ein-Profi-11468208.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mit Home Assistant holen Sie das Beste aus Ihrem Smart Home heraus. Wir zeigen, wie der Einsteig gelingt und Sie die Software ausreizen können.",
+          "published": "2026-09-30T12:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "E-Auto-Förderung: Berlin sieht keinen Vorteil für Chinas Autohersteller",
+          "link": "https://www.heise.de/news/E-Auto-Foerderung-Berlin-sieht-keinen-Vorteil-fuer-Chinas-Autobauer-11470181.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Bundesregierung weist Befürchtungen zurück, dass chinesische Hersteller überproportional von der E-Auto-Förderung profitieren. BAFA-Daten belegen dies.",
+          "published": "2026-09-29T17:39:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "pB-Fusion: Chinesischer Konzern baut unmögliches Fusionskraftwerk",
+          "link": "https://www.golem.de/news/pb-fusion-chinesischer-konzern-baut-unmoegliches-fusionskraftwerk-2609-213567.html",
+          "summary": "Mit 100 Millionen Fusionsreaktionen hat erstmals ein kommerzieller Betreiber die Proton-Bor-Fusion realisiert. Bis zur Energiegewinnung dauert es noch. ( Kernfusion , Laser )",
+          "published": "2026-09-30T09:21:09+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Anzeige: Identity- und Access-Management mit Keycloak absichern",
+          "link": "https://www.golem.de/news/anzeige-identity-und-access-management-mit-keycloak-absichern-2609-213226.html",
+          "summary": "Identity- und Access-Management verbindet sichere Anmeldung mit kontrollierten Zugriffsrechten. Die Golem Karrierewelt vermittelt dazu Keycloak-Know-how. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-09-29T18:45:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Neues Firefox-Design: Das sind die größten Änderungen seit Jahren",
+        "heise-Angebot: c't Sonderheft: Home Assistant meistern wie ein Profi",
+        "E-Auto-Förderung: Berlin sieht keinen Vorteil für Chinas Autohersteller"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Informationsfreiheit in Brandenburg: Die Verhöhnung von Transparenz",
+          "link": "https://netzpolitik.org/2026/informationsfreiheit-in-brandenburg-die-verhoehnung-von-transparenz/",
+          "summary": "Wenn man Informationsfreiheit beschneidet, verwelkt sie. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Carl Tronders Brandenburgs Innenminister will die Informationsfreiheit noch weiter beschneiden als bisher bekannt. Wie er das begründet, verspottet demokratische Grundprinzipien. Ein Kommentar.",
+          "published": "Tue, 29 Sep 2026 15:15:39 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "WSL Container sind da – Windows-Apps starten Linux-Container",
+          "link": "https://www.heise.de/news/WSL-Container-sind-da-Linux-Container-ohne-Extra-Engine-11470785.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Microsoft gibt WSL Container frei: Linux-Container lassen sich damit direkt unter Windows bauen und starten – auch aus Windows-Anwendungen heraus.",
+          "published": "2026-09-30T11:53:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "WSL Container sind da – Windows-Apps starten Linux-Container",
+          "link": "https://www.heise.de/news/WSL-Container-sind-da-Linux-Container-ohne-Extra-Engine-11470785.html",
+          "summary": "Microsoft gibt WSL Container frei: Linux-Container lassen sich damit direkt unter Windows bauen und starten – auch aus Windows-Anwendungen heraus.",
+          "published": "2026-09-30T09:53:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Qualcomm kündigt Linux-Support für Snapdragon X2 an",
+          "link": "https://www.heise.de/news/Qualcomm-kuendigt-Linux-Support-fuer-Snapdragon-X2-an-11463854.html",
+          "summary": "Künftig sollen die Qualcomm-Prozessoren auch Linux-Betriebssysteme unterstützen, zunächst Debian, kurz danach auch Ubuntu.",
+          "published": "2026-09-24T10:49:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Ansible automatisiert Linux-Systeme ohne Agenten",
+          "link": "https://www.golem.de/news/anzeige-ansible-automatisiert-linux-systeme-ohne-agenten-2609-213225.html",
+          "summary": "Ansible automatisiert Konfiguration und Deployment von Linux-Systemen ohne zusätzliche Agenten. Die Golem Karrierewelt vermittelt die zentralen Konzepte und Werkzeuge. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-09-30T07:15:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Informationsfreiheit in Brandenburg: Die Verhöhnung von Transparenz",
+        "WSL Container sind da – Windows-Apps starten Linux-Container",
+        "WSL Container sind da – Windows-Apps starten Linux-Container"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Dots: OpenAI stellt KI-Agenten vor – und stoppt neues Modell",
+          "link": "https://t3n.de/news/dots-openai-ki-agent-1765787/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nach Hacking-Attacken durch seine KI stellte der ChatGPT-Entwickler OpenAI die Entwicklungsprozesse auf den Prüfstand. Ein geplantes neues KI-Modell kommt jetzt wegen Bedenken gar nicht heraus. weiterlesen auf t3n.de",
+          "published": "Wed, 30 Sep 2026 08:00:53 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Protests against OpenAI get increasingly creative",
+          "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+          "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
+          "published": "Tue, 29 Sep 2026 21:52:58 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Genus-3-Polyeder: Mathematiker liefert Bauplan für komplexe Form mithilfe von ChatGPT",
+          "link": "https://t3n.de/news/genus-3-polyeder-mathematik-3d-form-chatgpt-1765781/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Es sieht aus wie ein Grafikfehler in einer 3D-Software, der beim Modellieren entsteht. Ein Mathematiker hat nun mit Unterstützung von KI bewiesen, dass hinter diesem vermeintlichen Chaos eine exakt berechenbare Struktur steckt. weiterlesen auf t3n.de",
+          "published": "Tue, 29 Sep 2026 21:26:09 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Amazon CloudWatch Omni Extends CloudWatch into the Agent Era",
+          "link": "https://www.infoq.com/news/2026/09/aws-cloudwatchomni-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Recently launched, Amazon CloudWatch Omni is an AI-first observability platform designed to monitor, evaluate, and troubleshoot applications and autonomous AI agents in a unified environment. By Sergio De Simone",
+          "published": "Tue, 29 Sep 2026 19:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
+          "link": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
+          "summary": "So is SpaceX just being selfish or what?",
+          "published": "Tue, 29 Sep 2026 18:34:00 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Dots: OpenAI stellt KI-Agenten vor – und stoppt neues Modell",
+        "Protests against OpenAI get increasingly creative",
+        "Genus-3-Polyeder: Mathematiker liefert Bauplan für komplexe Form mithilfe von ChatGPT"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Atlassian Rebuilds Metrics Pipeline Around OpenTelemetry at Massive Scale",
+          "link": "https://www.infoq.com/news/2026/09/atlassian-opentelemetry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Software company Atlassian has published an account of its migration from gostatsd to OpenTelemetry, replacing the internal workings of a metrics platform that receives data from about 100,000 hosts across 14 regions. The existing service had a 99.95% SLO, so the team had to change the platform without disrupting the metrics used by production alerts. By Matt Saunders",
+          "published": "Tue, 29 Sep 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Cloudflare Worker Previews: Per-Branch Environments for Workers",
+          "link": "https://www.infoq.com/news/2026/09/cloudflare-worker-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare has introduced Worker Previews. This feature allows each Git branch to have its own isolated, production-like environment for a Worker. Each environment has a stable URL. It also has its own configuration and unique state for each branch. Plus, there’s scoped observability. By Claudio Masolo",
+          "published": "Tue, 29 Sep 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(2 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Atlassian Rebuilds Metrics Pipeline Around OpenTelemetry at Massive Scale",
+        "Cloudflare Worker Previews: Per-Branch Environments for Workers"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Fremde Gesichter, Nummernschilder, Bankdaten: Google Fotos macht sensible Bildbereiche unkenntlich",
+          "link": "https://t3n.de/news/google-fotos-sensitive-informationen-blurren-1765804/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Gesichter von Fremden oder sensible Infos auf Fotos wie Nummernschild oder Bankverbindung: Mit einem neuen Tool kannst du in Google Fotos heikle Ausschnitte von Bildern verpixeln oder blurren. Drei verschiedene Varianten stehen dabei zur Wahl. weiterlesen auf t3n.de",
+          "published": "Wed, 30 Sep 2026 12:00:19 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nach KI-Hackerangriffen: Trump setzt auf Selbstverpflichtung statt Regulierung",
+          "link": "https://t3n.de/news/nach-ki-hackerangriffen-trump-setzt-auf-selbstverpflichtung-statt-regulierung-1765794/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Seit Wochen wird weltweit über Risiken Künstlicher Intelligenz diskutiert. US-Präsident Trump sagt nach einem Treffen mit KI-Bossen, dass die Unternehmen sich gegenseitig kontrollieren sollen. weiterlesen auf t3n.de",
+          "published": "Wed, 30 Sep 2026 08:30:37 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Bewerbung mit KI optimieren: 6 Schritte und 4 Prompts für das beste Ergebnis",
+          "link": "https://t3n.de/news/bewerbung-mit-ki-optimieren-6-schritte-und-4-prompts-fuer-das-beste-ergebnis-1765161/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In Zeiten von ATS-Systemen und weniger Stellenausschreibungen auf dem deutschen Markt müssen Bewerber:innen einiges tun, um in die nähere Auswahl für eine Stell weiterlesen auf t3n.de",
+          "published": "Wed, 30 Sep 2026 07:30:23 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Eine Tonne „grüner“ Stahl am Tag: US-Startup entwickelt neuen Ofen – und will Emissionen senken",
+          "link": "https://t3n.de/news/tonne-gruener-stahl-ofen-emissionen-1762711/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Dekarbonisierung bei der Herstellung von Stahl verläuft schleppend. Doch die US-Unternehmerin Laureen Meroueh hat ein Verfahren entwickelt, mit dem sich die weiterlesen auf t3n.de",
+          "published": "Tue, 29 Sep 2026 17:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Meta Muse und Meta AI erfassen die meisten Nutzerdaten im Chatbot-Vergleich",
+          "link": "https://t3n.de/news/meta-muse-ai-chatbots-datenschutz-vergleich-1765761/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Veröffentlichung neuer KI-Anwendungen geht oft mit weitreichenden Versprechen zur Datensicherheit einher. Ein Blick auf die deklarierte Praxis der Datenerfassung durch die jeweiligen Anbieter zeichnet jedoch ein anderes Bild. weiterlesen auf t3n.de",
+          "published": "Tue, 29 Sep 2026 17:15:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Fremde Gesichter, Nummernschilder, Bankdaten: Google Fotos macht sensible Bildbereiche unkenntlich",
+        "Nach KI-Hackerangriffen: Trump setzt auf Selbstverpflichtung statt Regulierung",
+        "Bewerbung mit KI optimieren: 6 Schritte und 4 Prompts für das beste Ergebnis"
+      ]
+    }
+  ]
+}
