@@ -1,0 +1,372 @@
+{
+  "date": "2026-10-01",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Presentation: Keeping the Mainline Green Across Diverse Language Monorepos",
+          "link": "https://www.infoq.com/presentations/mergequeue/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Dhruva Juloori discusses how Uber maintains green mainlines across massive monorepos handling 65,000+ monthly changes. He explains how SubmitQueue uses binary speculation trees, conflict analysis, and machine learning models to predict build success and execution times. Dhruva shares how bypassing large diffs slashed CI resource usage by 53% while accelerating PR landing times by 37%. By Dhruva Juloori",
+          "published": "Thu, 01 Oct 2026 09:33:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Keeping the Mainline Green Across Diverse Language Monorepos"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Container Apps Express Reaches GA on a Newly Generally Available Sandbox Layer",
+          "link": "https://www.infoq.com/news/2026/10/container-apps-express-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has made Azure Container Apps Express generally available alongside Container Apps Sandboxes, the microVM compute layer it runs on. Express skips environment provisioning and scales to zero, with subsecond startup from prewarmed pools. Custom domains, zone redundancy, Key Vault references, OpenTelemetry and Dapr are not supported. By Steef-Jan Wiggers",
+          "published": "Thu, 01 Oct 2026 06:31:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "“Think of it as Kubernetes for agents”: OpenClaw lands in the enterprise with OpenAI, Nvidia and Red Hat on board",
+          "link": "https://thenewstack.io/openclaw-enterprise-kubernetes-agents/",
+          "summary": "OpenClaw has come a long way since it emerged as a viral weekend project less than a year ago. Created The post &#8220;Think of it as Kubernetes for agents&#8221;: OpenClaw lands in the enterprise with OpenAI, Nvidia and Red Hat on board appeared first on The New Stack .",
+          "published": "Wed, 30 Sep 2026 10:36:01 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Agents Refactor 300K Lines in Three Weeks, and Practitioners Ask What It Proves",
+          "link": "https://www.infoq.com/news/2026/09/agentic-refactoring-case-study/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "CodeScene has published a case study in which coding agents refactored 300,000 lines of C over three weeks for roughly $4,000 in tokens, verified by a frame-by-frame replay harness. The agents built a playbook of codebase-specific recipes along the way. Practitioners have questioned the scope, the metric, and how much of the result depends on the harness. By Steef-Jan Wiggers",
+          "published": "Wed, 30 Sep 2026 06:16:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "mstack: OCI-Container mit systemd ausführen",
+          "link": "https://www.heise.de/news/mstack-OCI-Container-mit-systemd-ausfuehren-11472047.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "OCI ist das Format, das Docker, Kubernetes und Konsorten verwenden. systemd bietet nun eine direktere und einfachere Integration von OCI-Containern.",
+          "published": "2026-10-01T08:28:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: c’t-Workshop: Cloud-native Systeme im Griff: Observability für Kubernetes",
+          "link": "https://www.heise.de/news/c-t-Workshop-Cloud-native-Systeme-im-Griff-Observability-fuer-Kubernetes-11467737.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Metriken, Logs und Distributed Traces: Der Workshop zeigt, wie Sie mit Loki, Grafana, Tempo und Mimir Fehlverhalten erkennen und Ursachen eingrenzen.",
+          "published": "2026-10-01T08:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Container Apps Express Reaches GA on a Newly Generally Available Sandbox Layer",
+        "“Think of it as Kubernetes for agents”: OpenClaw lands in the enterprise with OpenAI, Nvidia and Red Hat on board",
+        "Agents Refactor 300K Lines in Three Weeks, and Practitioners Ask What It Proves"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "software-architektur.tv: The Power of Modern CSS – Lucas Dohmen & Dylan Beattie",
+          "link": "https://www.heise.de/news/software-architektur-tv-The-Power-of-Modern-CSS-Lucas-Dohmen-Dylan-Beattie-11470689.html",
+          "summary": "In der Episode diskutieren Lucas Dohmen und Dylan Beattie über modernes CSS als Alternative zu JavaScript-Frameworks für eine schlanke, wartbare Webarchitektur.",
+          "published": "2026-09-30T15:07:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "software-architektur.tv: The Power of Modern CSS – Lucas Dohmen & Dylan Beattie"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Phishing: 9 Tricks von Cyberkriminellen, die du kennen solltest",
+          "link": "https://t3n.de/news/phishing-varianten-cyberkriminelle-tricks-1679869/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Phishing ist für viele Menschen mittlerweile ein Begriff. Wusstet ihr aber, dass es viele verschiedene Arten der betrügerischen Cyberangriffe gibt? Wir zeigen euch, welche wichtigen Phishing-Typen ihr kennen solltet. weiterlesen auf t3n.de",
+          "published": "Thu, 1 Oct 2026 11:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google-Analyse zeigt Verdopplung von Softwareschwachstellen durch KI",
+          "link": "https://t3n.de/news/google-bericht-ki-verdoppelt-software-schwachstellen-1766026/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Künstliche Intelligenz verändert nicht nur die Softwareentwicklung, sondern auch die Art und Weise, wie Fehler im Code aufgespürt werden. Ein neuer Bericht zeigt nun die konkreten Auswirkungen dieser Werkzeuge auf die IT-Sicherheit. weiterlesen auf t3n.de",
+          "published": "Wed, 30 Sep 2026 19:28:18 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise-Angebot: Was ist IT-Sicherheit wert? Resilienz als Antwort auf Profi-Angriffe",
+          "link": "https://www.heise.de/news/Was-ist-IT-Sicherheit-wert-Resilienz-als-Antwort-auf-Profi-Angriffe-11470973.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Abwehr allein genügt nicht mehr: Der 10. IT-Sicherheitstag Gelsenkirchen am 18. November zeigt, wie Organisationen Cyber-Resilience aufbauen.",
+          "published": "2026-10-01T12:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Donnerstag: Sicherheitslücke bei Wiener Behörde, Tech-Prominenz hilft Pentagon",
+          "link": "https://www.heise.de/news/Donnerstag-Sicherheitsluecke-bei-Wiener-Behoerde-Tech-Prominenz-hilft-Pentagon-11471994.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Cybereinbruch in Wien + Musk & Luckey als Hegseth-Berater + Google-KI für IT-Sicherheit + US-Untersuchung von KI-Vorfällen + KI-Einsatz in der Reha + #heiseshow",
+          "published": "2026-10-01T06:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Googles Gemini 4 Argon legt Fokus auf Cybersicherheit",
+          "link": "https://www.heise.de/news/Googles-Gemini-4-Argon-legt-Fokus-auf-Cybersicherheit-11471944.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Google stellt Gemini 4 Argon für IT-Sicherheit und Enterprise-Workflows vor, doch die Benchmarks zeigen Lücken gegenüber GPT-6 Astra und Claude Sonnet 5.5.",
+          "published": "2026-10-01T00:25:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Phishing: 9 Tricks von Cyberkriminellen, die du kennen solltest",
+        "Google-Analyse zeigt Verdopplung von Softwareschwachstellen durch KI",
+        "heise-Angebot: Was ist IT-Sicherheit wert? Resilienz als Antwort auf Profi-Angriffe"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "CloudBees just committed to an AI-first pivot. Here’s why it matters for enterprise DevOps teams",
+          "link": "https://thenewstack.io/cloudbees-ceo-ai-transformation/",
+          "summary": "When new CloudBees CEO Mo Plassnig took the job earlier this year, his board of directors handed him a mandate The post CloudBees just committed to an AI-first pivot. Here&#8217;s why it matters for enterprise DevOps teams appeared first on The New Stack .",
+          "published": "Wed, 30 Sep 2026 18:08:49 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Presentation: Context Is the New Code",
+          "link": "https://www.infoq.com/presentations/context-as-code-devops-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Patrick Debois discusses how to manage, evaluate, distribute, and observe context using proven software engineering practices. He shares how treating context like code - complete with testing, CI/CD, package managers, and security scanning - enables engineering leaders to reliably scale AI coding agents, maintain control over non-deterministic outputs, and build long-term organizational knowledge. By Patrick Debois",
+          "published": "Wed, 30 Sep 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Spaniens neue Verkehrsregeln: Radfahrer und E-Scooter-Nutzer im Blick",
+          "link": "https://www.heise.de/news/Spaniens-neue-Verkehrsregeln-Radfahrer-und-E-Scooter-Nutzer-im-Blick-11472109.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Spanien führt im Sinne eines „menschen- und stadtzentrierten Mobilitätsverständnisses“ neue Überholregeln und Abstandsvorschriften zum Schutz Schwächerer ein.",
+          "published": "2026-10-01T09:59:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Smartphone-Browser für Android: Opera verschenkt 3 GByte eSIM-Datenvolumen für Auslandsreisen",
+          "link": "https://www.golem.de/news/smartphone-browser-fuer-android-opera-verschenkt-3-gbyte-esim-datenvolumen-fuer-auslandsreisen-2610-213599.html",
+          "summary": "Besitzer eines Android-Smartphones mit eSIM erhalten über den Opera-Browser auf Reisen 3 GByte kostenloses Datenvolumen. ( Opera , Smartphone )",
+          "published": "2026-10-01T07:58:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "CloudBees just committed to an AI-first pivot. Here’s why it matters for enterprise DevOps teams",
+        "Presentation: Context Is the New Code",
+        "Spaniens neue Verkehrsregeln: Radfahrer und E-Scooter-Nutzer im Blick"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Too big to fail: Verantwortungslose KI-Panik",
+          "link": "https://netzpolitik.org/2026/too-big-to-fail-verantwortungslose-ki-panik/",
+          "summary": "Die KI-Branche treibt demokratische Gesellschaften vor sich her. Das muss ein Ende finden. – Alle Rechte vorbehalten: IMAGO / Depositphotos Seit Jahren warnt die KI-Branche vor den Gefahren der Technik, die sie selbst auf die Welt losgelassen hat. Bis heute hat sich daran kaum etwas verbessert. Das liegt auch daran, dass die Tech-Konzerne den Rahmen der Debatte bestimmen. Es wird Zeit, dass sie echte Verantwortung übernehmen. Ein Kommentar.",
+          "published": "Wed, 30 Sep 2026 13:34:57 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Treiber-Lücken gefährden Linux- und Windows-PCs mit Nvidia-GPU",
+          "link": "https://www.heise.de/news/Treiber-Luecken-gefaehrden-Linux-und-Windows-PCs-mit-Nvidia-GPU-11472265.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Zahlreiche Sicherheitslücken in GPU-Treibern von Nvidia machen Linux- und Windows-Computer angreifbar. Patches sind verfügbar.",
+          "published": "2026-10-01T10:47:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Neues Tool klont Linux-Systeme per systemd-Container",
+          "link": "https://www.heise.de/news/sdme-Das-eigene-Linux-als-Container-klonen-11472031.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das eigene Linux-System schnell einmal klonen, um etwas zu testen: Das bietet sdme, der systemd Machine Editor.",
+          "published": "2026-10-01T08:14:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Neues Tool klont Linux-Systeme per systemd-Container",
+          "link": "https://www.heise.de/news/sdme-Das-eigene-Linux-als-Container-klonen-11472031.html",
+          "summary": "Das eigene Linux-System schnell einmal klonen, um etwas zu testen: Das bietet sdme, der systemd Machine Editor.",
+          "published": "2026-10-01T06:14:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "WSL Container sind da – Windows-Apps starten Linux-Container",
+          "link": "https://www.heise.de/news/WSL-Container-sind-da-Linux-Container-ohne-Extra-Engine-11470785.html",
+          "summary": "Microsoft gibt WSL Container frei: Linux-Container lassen sich damit direkt unter Windows bauen und starten – auch aus Windows-Anwendungen heraus.",
+          "published": "2026-09-30T09:53:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Too big to fail: Verantwortungslose KI-Panik",
+        "Treiber-Lücken gefährden Linux- und Windows-PCs mit Nvidia-GPU",
+        "Neues Tool klont Linux-Systeme per systemd-Container"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "AI agents speed up development — data access slows them down",
+          "link": "https://thenewstack.io/unified-api-layer-agents/",
+          "summary": "Building the app was never the hard part. Now, with AI agents assisting with development, teams complete applications and internal The post AI agents speed up development — data access slows them down appeared first on The New Stack .",
+          "published": "Thu, 01 Oct 2026 11:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "2027 startet das Altersvorsorgedepot – doch viele Sparer wissen kaum etwas darüber",
+          "link": "https://t3n.de/news/2027-startet-das-altersvorsorgedepot-doch-viele-sparer-wissen-kaum-etwas-darueber-1766086/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ab 2027 soll das staatlich geförderte Altersvorsorgedepot das private Sparen fürs Alter attraktiver machen. Doch laut einer Umfrage wissen viele Menschen bislang wenig darüber, wie das neue Modell funktioniert. weiterlesen auf t3n.de",
+          "published": "Thu, 1 Oct 2026 12:00:31 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Neues Frontier-KI-Modell von Google: Was Gemini 4 Argon leisten soll und wer es jetzt nutzen darf",
+          "link": "https://t3n.de/news/google-gemini-4-argon-frontier-ki-modell-1766042/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google stellt mit Gemini 4 Argon ein neues Frontier-Modell seiner KI vor. Welche Verbesserungen das Unternehmen vorgenommen hat und welche Aufgaben Argon 4 schon bei Google bewältigen konnte. weiterlesen auf t3n.de",
+          "published": "Thu, 1 Oct 2026 10:30:13 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "TypeSafe AI Releases Jev: A Decision-Only Model That Returns Typed Probabilities Instead of Text",
+          "link": "https://www.infoq.com/news/2026/10/typesafe-ai-jev-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, has introduced Jev, a decision-making model that generates typed outputs rather than text. It evaluates inputs in parallel, providing results with probabilistic scores and confidence values. Jev's adoption has been swift, with integrations into platforms like Vercel and Netlify, highlighting its efficiency over traditional models. By Daniel Curtis",
+          "published": "Thu, 01 Oct 2026 06:47:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "KI-Agenten am Arbeitsplatz: Deutschland liegt weltweit nur hinter den USA",
+          "link": "https://t3n.de/news/ki-agenten-am-arbeitsplatz-deutschland-liegt-weltweit-nur-hinter-den-usa-1766034/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Fast jeder zweite Beschäftigte in Deutschland nutzt schon KI-Agenten am Arbeitsplatz. Gleichzeitig wächst die Sorge um den eigenen Job und neue Anforderungen an die Qualifikation. weiterlesen auf t3n.de",
+          "published": "Thu, 1 Oct 2026 08:30:06 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AI agents speed up development — data access slows them down",
+        "2027 startet das Altersvorsorgedepot – doch viele Sparer wissen kaum etwas darüber",
+        "Neues Frontier-KI-Modell von Google: Was Gemini 4 Argon leisten soll und wer es jetzt nutzen darf"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Dinosaur-killing impact crater might have been teeming with life",
+          "link": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
+          "summary": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
+          "published": "Wed, 30 Sep 2026 21:54:12 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "So what's happening with Russia's new, long-delayed crewed spacecraft?",
+          "link": "https://arstechnica.com/space/2026/09/so-whats-happening-with-russias-new-long-delayed-crewed-spacecraft/",
+          "summary": "Russia says it has a \"promising, reusable manned transport spacecraft.\"",
+          "published": "Wed, 30 Sep 2026 16:48:56 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "CRA readiness starts in the codebase",
+          "link": "https://thenewstack.io/cra-readiness-starts-codebase/",
+          "summary": "The Cyber Resilience Act (CRA) is often discussed as a policy or reporting challenge. But for organizations that build products The post CRA readiness starts in the codebase appeared first on The New Stack .",
+          "published": "Wed, 30 Sep 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Scraping: Reddit schränkt alte Oberfläche weiter ein",
+          "link": "https://www.golem.de/news/scraping-reddit-schraenkt-alte-oberflaeche-weiter-ein-2610-213600.html",
+          "summary": "Die klassische Ansicht bekommt eine zusätzliche Zugangshürde. Reddit will damit das automatisierte Auslesen von Inhalten erschweren. ( Reddit , RSS )",
+          "published": "2026-10-01T08:36:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Dinosaur-killing impact crater might have been teeming with life",
+        "So what's happening with Russia's new, long-delayed crewed spacecraft?",
+        "CRA readiness starts in the codebase"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+          "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+          "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
+          "published": "Wed, 30 Sep 2026 20:44:48 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Attackers have been exploiting critical Zimbra flaw to steal emails"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Noch vor den Prime Deal Days: Amazon stellt neuen Fire TV Stick 4K vor und reduziert ihn direkt",
+          "link": "https://t3n.de/news/amazon-fire-tv-stick-4k-2026-fernbedienung-prime-day-1765936/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit dem neuen Fire TV Stick 4K will Amazon sein Angebot an Streaming-Sticks vereinfachen. Kunden bekommen nicht nur schlankere Hardware, sondern auch eine neue Fernbedienung. weiterlesen auf t3n.de",
+          "published": "Thu, 1 Oct 2026 12:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Logitech MX Keypad vs. Elgato Stream Deck: Das Duell der Stream-Controller",
+          "link": "https://t3n.de/news/logitech-mx-keypad-vs-elgato-stream-deck-1765539/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Logitech MX Keypad soll Streamer:innen, Entwickler:innen und allen Produktiven am PC und Mac eine Hilfe sein. Im Test zeigt sich, wie gut das Versprechen gelingt und ob das Gadget mit dem Elgato Stream Deck mithalten kann. weiterlesen auf t3n.de",
+          "published": "Thu, 1 Oct 2026 12:30:26 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Otto Days: Lohnen sich die Apple-Angebote wirklich?",
+          "link": "https://t3n.de/news/otto-days-lohnen-sich-die-apple-angebote-wirklich-1766093/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Schlacht um die besten Schnäppchen hat begonnen. Rund um die Prime Deal Days locken auch andere Shops mit Angeboten. Wir haben die Rabatte für Macbook, iPad und Co. für dich unter die Lupe genommen. weiterlesen auf t3n.de",
+          "published": "Thu, 1 Oct 2026 12:10:16 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Welche Daten senden Autos weiter? Forscher nehmen 21 Pkw und ihre Apps unter die Lupe",
+          "link": "https://t3n.de/news/daten-pkw-apps-1766079/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "US-Forscher:innen haben untersucht, wie Pkw und Apps Daten sammeln und ob sie sie an Dritte weitersenden. Als besonders datenhungrig erwies sich Tesla, während Honda auf die Ergebnisse mit einer Verschärfung seiner Praktiken reagierte. weiterlesen auf t3n.de",
+          "published": "Thu, 1 Oct 2026 11:30:55 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Windows-Update 26H2 ist da – und mit ihm drei fiese Bugs",
+          "link": "https://t3n.de/news/windows-11-26h2-update-bugs-1765800/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein neues Update für Windows steht bereit. Doch schon jetzt stellt sich heraus, dass die Aktualisierung auch Probleme bereitet. Sollten Nutzer:innen deshalb das Windows-Update aussetzen? weiterlesen auf t3n.de",
+          "published": "Thu, 1 Oct 2026 10:55:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Noch vor den Prime Deal Days: Amazon stellt neuen Fire TV Stick 4K vor und reduziert ihn direkt",
+        "Logitech MX Keypad vs. Elgato Stream Deck: Das Duell der Stream-Controller",
+        "Otto Days: Lohnen sich die Apple-Angebote wirklich?"
+      ]
+    }
+  ]
+}
