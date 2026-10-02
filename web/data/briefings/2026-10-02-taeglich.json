@@ -1,0 +1,358 @@
+{
+  "date": "2026-10-02",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Presentation: Keeping the Mainline Green Across Diverse Language Monorepos",
+          "link": "https://www.infoq.com/presentations/mergequeue/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Dhruva Juloori discusses how Uber maintains green mainlines across massive monorepos handling 65,000+ monthly changes. He explains how SubmitQueue uses binary speculation trees, conflict analysis, and machine learning models to predict build success and execution times. Dhruva shares how bypassing large diffs slashed CI resource usage by 53% while accelerating PR landing times by 37%. By Dhruva Juloori",
+          "published": "Thu, 01 Oct 2026 09:33:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Historische Daten in S3? AWS Aurora holt sie jetzt direkt",
+          "link": "https://www.heise.de/news/Historische-Daten-in-S3-AWS-Aurora-holt-sie-jetzt-direkt-11472901.html",
+          "summary": "Amazon Aurora PostgreSQL kann nun Daten aus einem Data Lake gemeinsam mit Inhalten aus der Datenbank abfragen, ohne die Data-Lake-Daten zuvor zu kopieren.",
+          "published": "2026-10-01T13:58:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Keeping the Mainline Green Across Diverse Language Monorepos",
+        "Historische Daten in S3? AWS Aurora holt sie jetzt direkt"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+          "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+          "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
+          "published": "Thu, 01 Oct 2026 20:11:55 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "AWS launches a local answer to TypeSafe’s Jev decision model",
+          "link": "https://thenewstack.io/aws-strands-decider-model/",
+          "summary": "AWS on Thursday launched&#160;Strands Decider 2B, its take on decision models like&#160;Jev,&#160;Kev,&#160;imajev,&#160;Laya, and others. TypeSafe&#8217;s Jev kicked off the current The post AWS launches a local answer to TypeSafe&#8217;s Jev decision model appeared first on The New Stack .",
+          "published": "Thu, 01 Oct 2026 16:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "A live Kubernetes cluster can still have an ownership gap",
+          "link": "https://thenewstack.io/kubernetes-operations-ownership-governance/",
+          "summary": "Day 1 of a Kubernetes deployment usually feels like a milestone to an IT department: Clusters are provisioned, networking is The post A live Kubernetes cluster can still have an ownership gap appeared first on The New Stack .",
+          "published": "Thu, 01 Oct 2026 15:30:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Container Apps Express Reaches GA on a Newly Generally Available Sandbox Layer",
+          "link": "https://www.infoq.com/news/2026/10/container-apps-express-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has made Azure Container Apps Express generally available alongside Container Apps Sandboxes, the microVM compute layer it runs on. Express skips environment provisioning and scales to zero, with subsecond startup from prewarmed pools. Custom domains, zone redundancy, Key Vault references, OpenTelemetry and Dapr are not supported. By Steef-Jan Wiggers",
+          "published": "Thu, 01 Oct 2026 06:31:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise+ | Quantiges Krümelchaos: Ein Handyspiel erklärt die Quantenwelt",
+          "link": "https://www.heise.de/hintergrund/Quantiges-Kruemelchaos-Ein-Handyspiel-erklaert-die-Quantenwelt-11420666.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Das kostenlose Handyspiel Qookies von Forschenden aus München führt Jugendliche mit einem geheimen Keksrezept in die Quantenwelt ein – ganz ohne Formeln.",
+          "published": "2026-10-02T08:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+        "AWS launches a local answer to TypeSafe’s Jev decision model",
+        "A live Kubernetes cluster can still have an ownership gap"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "software-architektur.tv: The Power of Modern CSS – Lucas Dohmen & Dylan Beattie",
+          "link": "https://www.heise.de/news/software-architektur-tv-The-Power-of-Modern-CSS-Lucas-Dohmen-Dylan-Beattie-11470689.html",
+          "summary": "In der Episode diskutieren Lucas Dohmen und Dylan Beattie über modernes CSS als Alternative zu JavaScript-Frameworks für eine schlanke, wartbare Webarchitektur.",
+          "published": "2026-09-30T15:07:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "software-architektur.tv: The Power of Modern CSS – Lucas Dohmen & Dylan Beattie"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+          "link": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+          "summary": "It has been a bad month for federal government cybersecurity.",
+          "published": "Thu, 01 Oct 2026 20:28:45 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Open Source mit Ablaufdatum? Siemens ändert Kurs bei Radioss",
+          "link": "https://www.heise.de/news/Open-Source-mit-Ablaufdatum-Siemens-aendert-Kurs-bei-Radioss-11473978.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Siemens beendet das Open-Source-Projekt OpenRadioss. Der Quellcode ist nicht mehr öffentlich zugänglich, stattdessen gibt es ein R&amp;D-Programm.",
+          "published": "2026-10-02T11:36:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Ransomwaregruppe Killsec ausgehoben: Teenager als Hauptverdächtiger",
+          "link": "https://www.heise.de/news/Ransomwaregruppe-Killsec-ausgehoben-Teenager-als-Hauptverdaechtiger-11473281.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Federführend bei „Operation Killswitch“ waren Hamburger Strafverfolger, es gab drei Festnahmen und acht Durchsuchungen.",
+          "published": "2026-10-01T18:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Open Source mit Ablaufdatum? Siemens ändert Kurs bei Radioss",
+          "link": "https://www.heise.de/news/Open-Source-mit-Ablaufdatum-Siemens-aendert-Kurs-bei-Radioss-11473978.html",
+          "summary": "Siemens beendet das Open-Source-Projekt OpenRadioss. Der Quellcode ist nicht mehr öffentlich zugänglich, stattdessen gibt es ein R&amp;D-Programm.",
+          "published": "2026-10-02T09:36:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Googles Gemini 4 Argon legt Fokus auf Cybersicherheit",
+          "link": "https://www.heise.de/news/Googles-Gemini-4-Argon-legt-Fokus-auf-Cybersicherheit-11471944.html",
+          "summary": "Google stellt Gemini 4 Argon für IT-Sicherheit und Enterprise-Workflows vor, doch die Benchmarks zeigen Lücken gegenüber GPT-6 Astra und Claude Sonnet 5.5.",
+          "published": "2026-09-30T22:25:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+        "Open Source mit Ablaufdatum? Siemens ändert Kurs bei Radioss",
+        "Ransomwaregruppe Killsec ausgehoben: Teenager als Hauptverdächtiger"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Tankrabatt trifft Deutschlandticket: Warum der Staat bei Mobilität mit zweierlei Maß misst",
+          "link": "https://t3n.de/news/tankrabatt-trifft-deutschlandticket-warum-der-staat-bei-mobilitaet-mit-zweierlei-mass-misst-1766242/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Auf der einen Seite startet der Tankrabatt der Bundesregierung, auf der anderen Seite wird angekündigt, dass das Deutschlandticket in Zukunft von 63 auf fast 67 Euro steigt. Ein direkter Vergleich greift zu kurz – die unterschiedliche politische Logik dahinter zeigt aber, dass hier mit zweierlei Maß gemessen wird. weiterlesen auf t3n.de",
+          "published": "Thu, 1 Oct 2026 16:40:43 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Instaffo: Erfahrene IT-Bewerber senken ihre Gehaltswünsche",
+          "link": "https://www.golem.de/news/instaffo-erfahrene-it-bewerber-senken-ihre-gehaltswuensche-2610-213648.html",
+          "summary": "Laut Instaffo Gehaltsreport Deutschland 2026 gehen erfahrene IT-Fachkräfte mit deutlich niedrigeren Gehaltsvorstellungen an den Start als noch vor drei Jahren. ( Arbeit , Softwareentwicklung )",
+          "published": "2026-10-02T12:30:10+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "(g+) Halbleiterindustrie: ASML-Chef: \"Es gibt nur ein Unternehmen, das diese Maschinen herstellt\"",
+          "link": "https://www.golem.de/news/halbleiterindustrie-asml-chef-es-gibt-nur-ein-unternehmen-das-diese-maschinen-herstellt-2610-213628.html",
+          "summary": "Unsere Leseempfehlung heute: Die Financial Times hat mit ASML-Chef Christophe Fouquet gesprochen. Von Patrick Jenkins ( Technik/Hardware , TSMC )",
+          "published": "2026-10-01T18:00:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Tankrabatt trifft Deutschlandticket: Warum der Staat bei Mobilität mit zweierlei Maß misst",
+        "Instaffo: Erfahrene IT-Bewerber senken ihre Gehaltswünsche",
+        "(g+) Halbleiterindustrie: ASML-Chef: \"Es gibt nur ein Unternehmen, das diese Maschinen herstellt\""
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Article: From Reusable to Regeneratable: Rethinking the Shared UI Component Library",
+          "link": "https://www.infoq.com/articles/regeneratable-ui-component-library/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Regeneration has changed reuse economics. A model pointed at a solid design system can produce most standard UI on demand, so paying to keep a canonical component package alive is much harder to justify than it used to be. Keep the design system, tokens, guidelines and tests central. They are what actually buy you consistency. By Daniel Curtis",
+          "published": "Fri, 02 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Qualcomm Unveils Linux Preview on Snapdragon X2 to Accelerate Upstream ARM Laptops",
+          "link": "https://www.infoq.com/news/2026/10/snapdragon-x2-linux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Qualcomm has released an early dev preview of Linux for its upcoming Snapdragon X2 Series laptop processors. The initiative focuses on integrating with the mainline Linux kernel ahead of commercial release to reduce software issues historically faced by ARM laptops. The preview includes a functional Debian 13 environment and aims to standardize system initialization and hardware task management. By Olimpiu Pop",
+          "published": "Thu, 01 Oct 2026 14:14:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Boston Dynamics: Was macht die neue Atlas-Roboterhand besser?",
+          "link": "https://www.heise.de/news/Boston-Dynamics-Was-macht-die-neue-Atlas-Roboterhand-besser-11474127.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Boston Dynamics will seinen humanoiden Atlas-Roboter fitter für die Arbeitswelt machen. Dafür benötigt der Roboter agilere und geschicktere Hände.",
+          "published": "2026-10-02T12:17:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Softwarearchitektur: Technische Entscheidungen sind auch UX-Entscheidungen",
+          "link": "https://www.heise.de/hintergrund/Softwarearchitektur-Technische-Entscheidungen-sind-auch-UX-Entscheidungen-11457309.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Den Grundstein für gute User Experience legen Entwicklungsteams bereits in Architektur und Priorisierungen, nicht erst im Interface.",
+          "published": "2026-10-02T09:54:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Softwarearchitektur: Technische Entscheidungen sind auch UX-Entscheidungen",
+          "link": "https://www.heise.de/hintergrund/Softwarearchitektur-Technische-Entscheidungen-sind-auch-UX-Entscheidungen-11457309.html",
+          "summary": "Den Grundstein für gute User Experience legen Entwicklungsteams bereits in Architektur und Priorisierungen, nicht erst im Interface.",
+          "published": "2026-10-02T07:54:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Article: From Reusable to Regeneratable: Rethinking the Shared UI Component Library",
+        "Qualcomm Unveils Linux Preview on Snapdragon X2 to Accelerate Upstream ARM Laptops",
+        "Boston Dynamics: Was macht die neue Atlas-Roboterhand besser?"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "OpenAI DevDay 2026 Recap for Developers",
+          "link": "https://www.infoq.com/news/2026/10/openai-devday-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "OpenAI announced a series of product and developer updates at DevDay 2026, including GPT-6.1 Sol, computer use for the Agents API, cloud-based Codex environments, a Decisions API, and new plugin capabilities for ChatGPT. By Daniel Dominguez",
+          "published": "Fri, 02 Oct 2026 10:39:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Das Ende des Gedankenstrichs: Warum sich KI-Modelle in Texten immer noch verraten",
+          "link": "https://t3n.de/news/das-ende-des-gedankenstrichs-warum-sich-ki-modelle-in-texten-immer-noch-verraten-1766310/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Unternehmen wie OpenAI und Anthropic arbeiten hart daran, typische Muster aus ihren Sprachmodellen zu entfernen. Trotzdem gibt es weiterhin Lieblingsphrasen, die sie deutlich häufiger als Menschen benutzen. weiterlesen auf t3n.de",
+          "published": "Fri, 2 Oct 2026 12:00:13 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Engineering Production Systems for an Agentic Era: QCon San Francisco 2026",
+          "link": "https://www.infoq.com/news/2026/10/qconsf-2026-sessions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "QCon San Francisco 2026 will bring together practitioners from Airbnb, OpenAI, Netflix, Honeycomb, and other engineering organizations to share how they are building, operating, and evolving production systems as AI agents take on a larger role. By Artenisa Chatziou",
+          "published": "Fri, 02 Oct 2026 10:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Vom Chatbot zur Bild-KI: Diese 7 lokalen KI-Tools solltet ihr kennen",
+          "link": "https://t3n.de/news/statt-chatgpt-7-lokale-ki-anwendungen-1643976/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Es muss nicht immer ChatGPT, Claude, Jev oder Midjourney sein. Mit den richtigen Tools könnt ihr auch auf eurem Rechner KI-Anwendungen ausführen. Wir geben euch einen Überblick. weiterlesen auf t3n.de",
+          "published": "Fri, 2 Oct 2026 11:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Docker Sandbox Kit Spec: Packaging AI Agent Permissions as OCI Images",
+          "link": "https://www.infoq.com/news/2026/10/docker-sandbox-ai-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Docker has announced that it is bringing the Sandbox Kit Specification to the CNCF, aiming to make what an AI agent may access as portable as the agent itself. By Claudio Masolo",
+          "published": "Fri, 02 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "OpenAI DevDay 2026 Recap for Developers",
+        "Das Ende des Gedankenstrichs: Warum sich KI-Modelle in Texten immer noch verraten",
+        "Engineering Production Systems for an Agentic Era: QCon San Francisco 2026"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Transform AI from a security blind spot into a roadmap",
+          "link": "https://thenewstack.io/shadow-ai-ciso-governance/",
+          "summary": "I used to joke that every new technology came as a three-course CISO dinner: hype for the appetizer, hope for The post Transform AI from a security blind spot into a roadmap appeared first on The New Stack .",
+          "published": "Thu, 01 Oct 2026 16:40:44 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Reddit schaltet RSS-Feeds und öffentliche API ab",
+          "link": "https://www.heise.de/news/Reddit-schaltet-RSS-Feeds-und-oeffentliche-API-ab-11473237.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Reddit stellt am 13. November 2026 seine RSS-Feeds ein, bis März 2027 folgt die API. Grund dafür sind laut Unternehmen Scraping und Missbrauch.",
+          "published": "2026-10-01T17:31:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(2 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Transform AI from a security blind spot into a roadmap",
+        "Reddit schaltet RSS-Feeds und öffentliche API ab"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Presentation: Beyond Observability: Evolving Production Operations in the Age of AI",
+          "link": "https://www.infoq.com/presentations/ai-production-operations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The panelists discuss how production operations are evolving with AI, turning operational data into actionable insights for incident response. They explain how automation and new architectural practices help engineering teams build more understandable systems, while exploring how AI reshapes software delivery and changes the historically deterministic nature of production applications. By Michael Hausenblas, Sujana Sooreddy, Noam Levi, Renato Losio",
+          "published": "Thu, 01 Oct 2026 12:30:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Beyond Observability: Evolving Production Operations in the Age of AI"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Versteckter KI-Chatbot auf dem Mac: So greifst du auf Apples lokales Modell zu",
+          "link": "https://t3n.de/news/versteckter-chatbot-mac-apple-ki-foundation-modell-1764148/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Lokale KI-Modelle versprechen Privatsphäre, brauchen aber viel Speicher. Es sei denn, man hat einen Mac mit Apple‑Chip. Denn da steht so ein lokales Modell zur Verfügung. So greift ihr darauf zu. weiterlesen auf t3n.de",
+          "published": "Fri, 2 Oct 2026 12:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Psychisch-Kranken-Gesetz in NRW: Daten für die Abschiebung",
+          "link": "https://netzpolitik.org/2026/psychisch-kranken-gesetz-in-nrw-daten-fuer-die-abschiebung/",
+          "summary": "Abschiebungen aus Krankenhäusern kommen immer wieder vor. (Symbolbild) – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Frederic Köberl Ein neues Gesetz in Nordrhein-Westfalen soll nicht nur der Polizei mehr Informationen über Menschen liefern, die in eine Klinik eingewiesen wurden. Auch die Ausländerbehörden sollen mehr über Geflüchtete in Psychiatrien erfahren – damit sie Abschiebungen besser planen können.",
+          "published": "Fri, 02 Oct 2026 09:30:49 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Nasa-Rover Perseverance analysiert 180 Ziele – und stößt auf einen Hinweis auf mikrobielles Leben",
+          "link": "https://t3n.de/news/mars-perseverance-thermalquellen-jezero-krater-1765067/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Nasa-Rover Perseverance entdeckte im Marskraters Jezero überraschender Weise Spuren der Interaktion von Wasser und Gestein aus unterschiedlichen Zeiträumen. Darunter sind Hinweise auf heißes Wasser &#8211; und damit potenziell auf mikrobiologisches Leben. weiterlesen auf t3n.de",
+          "published": "Fri, 2 Oct 2026 10:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Florida cops say they don't know who owns 11 unpermitted Flock cameras",
+          "link": "https://arstechnica.com/tech-policy/2026/10/florida-cops-say-they-dont-know-who-owns-11-unpermitted-flock-cameras/",
+          "summary": "Floridians alarmed by 14 mysterious Flock cameras; 11 have no clear owner.",
+          "published": "Thu, 01 Oct 2026 16:49:33 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "SpaceX-Rakete Starship erreicht Erdorbit: Das sind die nächsten Ziele",
+          "link": "https://t3n.de/news/spacex-starship-erreicht-orbit-testflug-1766249/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Monatelang endeten die Tests in Trümmern oder planmäßig im Meer. Jetzt hat das größte Raketensystem der Raumfahrtgeschichte eine entscheidende Flugphase absolviert. Für den Aufbau orbitaler Netzwerke rückt damit eine neue Ära näher. weiterlesen auf t3n.de",
+          "published": "Thu, 1 Oct 2026 17:41:49 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Versteckter KI-Chatbot auf dem Mac: So greifst du auf Apples lokales Modell zu",
+        "Psychisch-Kranken-Gesetz in NRW: Daten für die Abschiebung",
+        "Nasa-Rover Perseverance analysiert 180 Ziele – und stößt auf einen Hinweis auf mikrobielles Leben"
+      ]
+    }
+  ]
+}
