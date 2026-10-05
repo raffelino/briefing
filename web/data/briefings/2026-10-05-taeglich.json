@@ -1,0 +1,328 @@
+{
+  "date": "2026-10-05",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Presentation: Building Reusable Evaluation Frameworks for Agentic AI Products",
+          "link": "https://www.infoq.com/presentations/elastic-ai-agent-evaluations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Susan Chang explains how Elastic transitioned from siloed, ad-hoc AI agent evaluations to a unified, production-grade framework. She discusses balancing LLM-as-a-judge with deterministic rules, bridging Python data science evals with TypeScript production code, and implementing deep tracing to catch regressions across complex RAG and cybersecurity workloads while preserving domain context. By Susan Chang",
+          "published": "Mon, 05 Oct 2026 11:19:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Historische Daten in S3? AWS Aurora holt sie jetzt direkt",
+          "link": "https://www.heise.de/news/Historische-Daten-in-S3-AWS-Aurora-holt-sie-jetzt-direkt-11472901.html",
+          "summary": "Amazon Aurora PostgreSQL kann nun Daten aus einem Data Lake gemeinsam mit Inhalten aus der Datenbank abfragen, ohne die Data-Lake-Daten zuvor zu kopieren.",
+          "published": "2026-10-01T13:58:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Building Reusable Evaluation Frameworks for Agentic AI Products",
+        "Historische Daten in S3? AWS Aurora holt sie jetzt direkt"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Pizza Bot: Open-Source Inbox for Background AI Agents",
+          "link": "https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "A team of developers working at AWS recently open-sourced Pizza Bot, a self-hosted application designed to let AI agents run tasks in the background and return results through an inbox-style interface. Agents can perform scheduled or webhook-triggered work, delegate tasks to specialized workers, and pause for human approval when needed. By Renato Losio",
+          "published": "Sun, 04 Oct 2026 06:34:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Der „KI-Zar“ der USA kommt von den Geheimdiensten",
+          "link": "https://www.heise.de/news/Der-KI-Zar-der-USA-kommt-von-den-Geheimdiensten-11475401.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Sonderbeauftragte für KI in den USA ist gefunden: Jay Clayton soll neben seiner Tätigkeit als Geheimdienstchef eine Task Force leiten.",
+          "published": "2026-10-04T17:56:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Weniger Abhängigkeit von KI-Anbietern: Eclipse startet Sovereign AI Foundation",
+          "link": "https://www.heise.de/news/Weniger-Abhaengigkeit-von-KI-Anbietern-Eclipse-startet-Sovereign-AI-Foundation-11474319.html",
+          "summary": "Viele Organisationen nutzen KI-Modelle, die sie weder prüfen noch anpassen können. Die Sovereign AI Foundation (SAIF) will Open-Source-Alternativen aufzeigen.",
+          "published": "2026-10-02T12:38:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "mstack: OCI-Container mit systemd ausführen",
+          "link": "https://www.heise.de/news/mstack-OCI-Container-mit-systemd-ausfuehren-11472047.html",
+          "summary": "OCI ist das Format, das Docker, Kubernetes und Konsorten verwenden. systemd bietet nun eine direktere und einfachere Integration von OCI-Containern.",
+          "published": "2026-10-01T06:28:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "The new Fitbit Edge leaks",
+          "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+          "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Watch and [&#8230;]",
+          "published": "2026-10-04T17:02:09-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Pizza Bot: Open-Source Inbox for Background AI Agents",
+        "Der „KI-Zar“ der USA kommt von den Geheimdiensten",
+        "Weniger Abhängigkeit von KI-Anbietern: Eclipse startet Sovereign AI Foundation"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Aspire 13.6 Adds Persistent Dashboard Telemetry and First-Party Java and Rust Hosting",
+          "link": "https://www.infoq.com/news/2026/10/dotnet-aspire-13-6-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has released Aspire 13.6. The dashboard now stores telemetry in SQLite and keeps up to ten completed runs per application. The release adds prerelease hosting packages for Java and Rust, portable volume paths, and new CLI options. Breaking changes include automatic TLS for local MongoDB resources and a new default Cosmos DB emulator image. By Almir Vuk",
+          "published": "Mon, 05 Oct 2026 09:39:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "software-architektur.tv: The Power of Modern CSS – Lucas Dohmen & Dylan Beattie",
+          "link": "https://www.heise.de/news/software-architektur-tv-The-Power-of-Modern-CSS-Lucas-Dohmen-Dylan-Beattie-11470689.html",
+          "summary": "In der Episode diskutieren Lucas Dohmen und Dylan Beattie über modernes CSS als Alternative zu JavaScript-Frameworks für eine schlanke, wartbare Webarchitektur.",
+          "published": "2026-09-30T15:07:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Aspire 13.6 Adds Persistent Dashboard Telemetry and First-Party Java and Rust Hosting",
+        "software-architektur.tv: The Power of Modern CSS – Lucas Dohmen & Dylan Beattie"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Podcast: Future Cybersecurity: Hardware Memory Safety, Automated Governance and Post-Quantum Cryptography",
+          "link": "https://www.infoq.com/podcasts/future-cybersecurity-hardware-memory-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In this episode, Chris Swan, engineer at Atsign and security track host at QCon London, reflects on the ideas shared during QCon London 2026 and teases topics of the future edition. The discussion explores how security engineering is shifting from relying on human vigilance toward automated, system-level defences across the entire application stack. By Chris Swan",
+          "published": "Mon, 05 Oct 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Open Source mit Ablaufdatum? Siemens ändert Kurs bei Radioss",
+          "link": "https://www.heise.de/news/Open-Source-mit-Ablaufdatum-Siemens-aendert-Kurs-bei-Radioss-11473978.html",
+          "summary": "Siemens beendet das Open-Source-Projekt OpenRadioss. Der Quellcode ist nicht mehr öffentlich zugänglich, stattdessen gibt es ein R&amp;D-Programm.",
+          "published": "2026-10-02T09:36:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Googles Gemini 4 Argon legt Fokus auf Cybersicherheit",
+          "link": "https://www.heise.de/news/Googles-Gemini-4-Argon-legt-Fokus-auf-Cybersicherheit-11471944.html",
+          "summary": "Google stellt Gemini 4 Argon für IT-Sicherheit und Enterprise-Workflows vor, doch die Benchmarks zeigen Lücken gegenüber GPT-6 Astra und Claude Sonnet 5.5.",
+          "published": "2026-09-30T22:25:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Podcast: Future Cybersecurity: Hardware Memory Safety, Automated Governance and Post-Quantum Cryptography",
+        "Open Source mit Ablaufdatum? Siemens ändert Kurs bei Radioss",
+        "Googles Gemini 4 Argon legt Fokus auf Cybersicherheit"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "heise+ | Wie Künstliche Intelligenz die DevOps-Transformation beeinflusst",
+          "link": "https://www.heise.de/hintergrund/Wie-Kuenstliche-Intelligenz-die-DevOps-Transformation-beeinflusst-11470823.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "DORA bietet Orientierung beim Bewältigen von KI-Herausforderungen und gibt Antworten auf Fragen, die die Weiterentwicklung moderner DevOps-Praktiken prägen.",
+          "published": "2026-10-05T09:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise+ | Wie Künstliche Intelligenz die DevOps-Transformation beeinflusst"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Softwarearchitektur: Technische Entscheidungen sind auch UX-Entscheidungen",
+          "link": "https://www.heise.de/hintergrund/Softwarearchitektur-Technische-Entscheidungen-sind-auch-UX-Entscheidungen-11457309.html",
+          "summary": "Den Grundstein für gute User Experience legen Entwicklungsteams bereits in Architektur und Priorisierungen, nicht erst im Interface.",
+          "published": "2026-10-02T07:54:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Eine API für Linux: Remote-Verwaltung mit systemd",
+          "link": "https://www.heise.de/news/Eine-API-fuer-Linux-Remote-Verwaltung-mit-systemd-11472737.html",
+          "summary": "Neue systemd-Features erlauben Systemverwaltung, die vorher nur mit externer Software möglich war.",
+          "published": "2026-10-01T11:40:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Neues Tool klont Linux-Systeme per systemd-Container",
+          "link": "https://www.heise.de/news/sdme-Das-eigene-Linux-als-Container-klonen-11472031.html",
+          "summary": "Das eigene Linux-System schnell einmal klonen, um etwas zu testen: Das bietet sdme, der systemd Machine Editor.",
+          "published": "2026-10-01T06:14:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "WSL Container sind da – Windows-Apps starten Linux-Container",
+          "link": "https://www.heise.de/news/WSL-Container-sind-da-Linux-Container-ohne-Extra-Engine-11470785.html",
+          "summary": "Microsoft gibt WSL Container frei: Linux-Container lassen sich damit direkt unter Windows bauen und starten – auch aus Windows-Anwendungen heraus.",
+          "published": "2026-09-30T09:53:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Fünf Jahre Windows 11: Auf dem besten Weg zum meistgehassten Windows",
+          "link": "https://www.golem.de/news/fuenf-jahre-windows-11-auf-dem-besten-weg-zum-meistgehassten-windows-2610-213660.html",
+          "summary": "In den ersten fünf Jahren hat Windows 11 vor allem eines geschafft: Immer mehr Leute wollen stattdessen MacOS oder Linux verwenden. Eine Analyse von Oliver Nickel ( Windows 11 , Microsoft )",
+          "published": "2026-10-05T08:30:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Softwarearchitektur: Technische Entscheidungen sind auch UX-Entscheidungen",
+        "Eine API für Linux: Remote-Verwaltung mit systemd",
+        "Neues Tool klont Linux-Systeme per systemd-Container"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Article: The Platform Engineering Playbook for Production LLMs",
+          "link": "https://www.infoq.com/articles/platform-engineering-playbook-production-llms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In this article, author discusses his experience with AI agent hallucinations in an inventory recommendation system and how this problem was solved by treating the LLM stack as a platform infrastructure concern instead of as an application one. He makes a case for a shared LLM platform with common services like prompt registry & versioning, schema enforcement and token cost attribution by request. By Aditya Mulik",
+          "published": "Mon, 05 Oct 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Cloudflare Fixes Cross-Tenant Data Exposure in Containers",
+          "link": "https://www.infoq.com/news/2026/10/cloudflare-cross-tenant-exposure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare has disclosed a cross-tenant data exposure vulnerability in Containers and Sandboxes, caused by thin-provisioned storage pools configured to skip zeroing reused blocks. Researchers recovered directory structures, database pages and complete SQLite databases across four continents. Cloudflare remediated it and found no evidence of exploitation. By Steef-Jan Wiggers",
+          "published": "Mon, 05 Oct 2026 08:48:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Cloudflare Plans Public Certificate Authority to Issue Quantum-Safe TLS Certificates",
+          "link": "https://www.infoq.com/news/2026/10/postquatam-certificates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Error generating summary: { \"error\": { \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\", \"type\": \"insufficient_quota\", \"param\": null, \"code\": \"credit_balance_exhausted\" } } By Olimpiu Pop",
+          "published": "Mon, 05 Oct 2026 05:05:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Agents have made CI the bottleneck. Faster pipelines are the wrong fix.",
+          "link": "https://thenewstack.io/ci-bottleneck-agent-verification/",
+          "summary": "Three posts landed in September that I think engineering leaders should read together. Anthropic&#8217;s engineering team wrote that their continuous The post Agents have made CI the bottleneck. Faster pipelines are the wrong fix. appeared first on The New Stack .",
+          "published": "Sun, 04 Oct 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "heise+ | KI-Agenten außer Kontrolle: Warum OpenAI & Co. in den USA nicht haftbar sind",
+          "link": "https://www.heise.de/hintergrund/KI-Agenten-ausser-Kontrolle-Warum-OpenAI-Co-in-den-USA-nicht-haftbar-sind-11472481.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Jüngste Hacker-Angriffe durch KI-Agenten zeigen: Die US-Gesetzgebung hinkt bei der Verantwortung von Unternehmen hinterher. Ein Ergebnis gezielter Lobbyarbeit.",
+          "published": "2026-10-05T13:30:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Article: The Platform Engineering Playbook for Production LLMs",
+        "Cloudflare Fixes Cross-Tenant Data Exposure in Containers",
+        "Cloudflare Plans Public Certificate Authority to Issue Quantum-Safe TLS Certificates"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Bildmanipulationen: Content-Signatur C2PA ausgehebelt",
+          "link": "https://www.golem.de/news/bildmanipulationen-content-signatur-c2pa-ausgehebelt-2610-213700.html",
+          "summary": "Ein Sicherheitsforscher nutzt eine Regel des Standards, die Bereiche eines Bilds von der Signaturberechnung ausschließt. Diese Regel ist jedoch technisch notwendig. ( Datensicherheit , Photoshop )",
+          "published": "2026-10-05T11:39:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Bildmanipulationen: Content-Signatur C2PA ausgehebelt"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
+          "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
+          "summary": "Wunmi Mosaku ( Sinners, Loki ) narrates NatGeo's new documentary Africa: Earth's Wild Home",
+          "published": "Sun, 04 Oct 2026 15:34:14 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Android 17 QPR3: Beta 1 mit Bugfixes für Pixel-Geräte verfügbar",
+          "link": "https://www.heise.de/news/Android-17-QPR3-Beta-1-mit-Bugfixes-fuer-Pixel-Geraete-verfuegbar-11476179.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die stabile Version mit vielen Bugfixes wird erst im März 2027 erwartet.",
+          "published": "2026-10-05T13:39:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Skoda Octavia bekommt Vollhybrid mit 100 oder 125 kW",
+          "link": "https://www.heise.de/news/Skoda-Octavia-bekommt-Vollhybrid-mit-100-oder-125-kW-11476027.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Volkswagen-Konzern verteilt seinen neu entwickelten Hybridantrieb, der seriell oder parallel betrieben wird, nun auch in den Skoda Octavia.",
+          "published": "2026-10-05T12:26:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Microsoft-Authenticator-Backup ab Januar nicht mehr mit Microsoft-Konto",
+          "link": "https://www.heise.de/news/Microsoft-Authenticator-Android-Backup-ab-Januar-nur-noch-mit-Google-One-11475979.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Microsofts Authenticator kann ein Backup in der Cloud ablegen. Ab Januar geht das unter Android nicht mehr mit persönlichen Microsoft-Konten.",
+          "published": "2026-10-05T12:21:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "AT&amp;T-Netz in den USA: Austausch von iPhone 18 Pro Max droht",
+          "link": "https://www.heise.de/news/iPhone-18-Pro-Max-AT-T-Geraete-muessen-unter-Umstaenden-getauscht-werden-11475347.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Offenbar reicht iOS 27.0.1 nicht aus, um ein Problem mit Apples neuem iPhone-Topmodell zu beheben. Tritt der Fehler auf, hilft nur Hardwaretausch.",
+          "published": "2026-10-05T11:37:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Insider-Vorschauen bringen den Pfad ~ zu Windows",
+          "link": "https://www.heise.de/news/Insider-Vorschauen-bringen-den-Pfad-zu-Windows-11475833.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Microsoft hat zum Wochenende neue Windows-Insider-Vorschauen veröffentlicht. Der Unix-Pfad ~ kommt damit zu Windows.",
+          "published": "2026-10-05T11:01:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Android 17 QPR3: Beta 1 mit Bugfixes für Pixel-Geräte verfügbar",
+        "Skoda Octavia bekommt Vollhybrid mit 100 oder 125 kW",
+        "Microsoft-Authenticator-Backup ab Januar nicht mehr mit Microsoft-Konto"
+      ]
+    }
+  ]
+}
