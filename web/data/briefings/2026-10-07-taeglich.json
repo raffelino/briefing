@@ -1,0 +1,359 @@
+{
+  "date": "2026-10-07",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Historische Daten in S3? AWS Aurora holt sie jetzt direkt",
+          "link": "https://www.heise.de/news/Historische-Daten-in-S3-AWS-Aurora-holt-sie-jetzt-direkt-11472901.html",
+          "summary": "Amazon Aurora PostgreSQL kann nun Daten aus einem Data Lake gemeinsam mit Inhalten aus der Datenbank abfragen, ohne die Data-Lake-Daten zuvor zu kopieren.",
+          "published": "2026-10-01T13:58:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Historische Daten in S3? AWS Aurora holt sie jetzt direkt"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "The CNCF is graduating projects faster than ever. AI agents are helping with the due diligence.",
+          "link": "https://thenewstack.io/open-source-ai-kubernetes/",
+          "summary": "Back in 2018, a scrappy startup called OpenAI used Kubernetes to balance compute loads across its own data centers and The post The CNCF is graduating projects faster than ever. AI agents are helping with the due diligence. appeared first on The New Stack .",
+          "published": "Tue, 06 Oct 2026 20:02:17 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Mistral’s new AI tried to escape its test environment. In three weeks, anyone can download it",
+          "link": "https://thenewstack.io/mistral-large-4-weights/",
+          "summary": "Mistral launched Large 4 on Tuesday, its first major model release since Medium 3.5 at the end of April and The post Mistral’s new AI tried to escape its test environment. In three weeks, anyone can download it appeared first on The New Stack .",
+          "published": "Tue, 06 Oct 2026 17:26:01 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "KI-gestützter Lügendetektor: „Das Schlimmste aus beiden Welten“, sagen Forscher",
+          "link": "https://t3n.de/news/ki-gestuetzter-luegendetektor-forscher-1765397/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "„Polygraph+“ heißt das Entwicklungsprogramm, das die US-Regierung auf den Weg bringen will. Dabei soll KI die Zuverlässigkeit der umstrittenen Lügendetektoren v weiterlesen auf t3n.de",
+          "published": "Tue, 6 Oct 2026 17:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
+          "link": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/",
+          "summary": "Oil companies say federal law should block state climate deception claims.",
+          "published": "Tue, 06 Oct 2026 13:29:46 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "OpenTelemetry Makes Kubernetes Attributes Processor Stable as Observability Schema Matures",
+          "link": "https://www.infoq.com/news/2026/10/opentelemetry-kubernetes-observ/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "OpenTelemetry has promoted its Kubernetes Attributes Processor to v1.0.0, marking a significant step in making Kubernetes telemetry more predictable and stable across observability pipelines. By Craig Risi",
+          "published": "Tue, 06 Oct 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "The CNCF is graduating projects faster than ever. AI agents are helping with the due diligence.",
+        "Mistral’s new AI tried to escape its test environment. In three weeks, anyone can download it",
+        "KI-gestützter Lügendetektor: „Das Schlimmste aus beiden Welten“, sagen Forscher"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "heise-Angebot: Java in seiner besten Form: Jetzt noch Ticket für die betterCode() Java sichern",
+          "link": "https://www.heise.de/news/Java-in-seiner-besten-Form-Jetzt-noch-Ticket-fuer-die-betterCode-Java-sichern-11476433.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die betterCode() Java 2026 zeigt, wie man die Änderungen der jüngsten JDKs sinnvoll nutzt, und hilft bei der KI-gestützten Softwareentwicklung in Java.",
+          "published": "2026-10-07T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Fehlersuche per KI: IBM und Red Hat finden mehr als 400 Bugs in Java Code",
+          "link": "https://www.golem.de/news/fehlersuche-per-ki-ibm-und-red-hat-finden-mehr-als-400-bugs-in-java-code-2610-213801.html",
+          "summary": "Das gemeinsame Projekt Lightwell nutzt KI-Agenten zum Aufspüren von Schwachstellen in Open-Source-Software - und zur Entwicklung der benötigten Patches. ( Sicherheitslücke , IBM )",
+          "published": "2026-10-07T11:50:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: Java in seiner besten Form: Jetzt noch Ticket für die betterCode() Java sichern",
+        "Fehlersuche per KI: IBM und Red Hat finden mehr als 400 Bugs in Java Code"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: KI in der Cybersecurity – Sicherheit trotz Coding-Agenten, LLMs und Deepfakes",
+          "link": "https://www.heise.de/news/KI-in-der-Cybersecurity-Sicherheit-trotz-Coding-Agenten-LLMs-und-Deepfakes-11447449.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Künstliche Intelligenz verändert die IT-Sicherheit und schafft neue Herausforderungen. Sie bietet neue Angriffsflächen, aber auch Möglichkeiten.",
+          "published": "2026-10-07T12:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Mittwoch: Uber-Ausbau mit Catering-Übernahme, Toshiba und Seagate buhlen um TDK",
+          "link": "https://www.heise.de/news/Mittwoch-Uber-Ausbau-mit-Catering-Uebernahme-Toshiba-und-Seagate-buhlen-um-TDK-11478611.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Uber kauft Catering-Konzern + Bieterstreit um HDD-Schreib-Leseköpfe + Jaguars Design-Neustart + Japans Ransomware-Auslieferung + Bit-Rauschen über RAM-Preise",
+          "published": "2026-10-07T06:15:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "OpenCourant: Der Fork, den Siemens nicht stoppen kann",
+          "link": "https://www.heise.de/news/OpenCourant-Der-Fork-den-Siemens-nicht-stoppen-kann-11477542.html",
+          "summary": "Nach der Einstellung von OpenRadioss führt ein neuer Fork den Simulationssolver unter dem Namen OpenCourant fort.",
+          "published": "2026-10-06T10:32:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Open Source mit Ablaufdatum? Siemens ändert Kurs bei Radioss",
+          "link": "https://www.heise.de/news/Open-Source-mit-Ablaufdatum-Siemens-aendert-Kurs-bei-Radioss-11473978.html",
+          "summary": "Siemens beendet das Open-Source-Projekt OpenRadioss. Der Quellcode ist nicht mehr öffentlich zugänglich, stattdessen gibt es ein R&amp;D-Programm.",
+          "published": "2026-10-02T09:36:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "IT-Sicherheit: Modat findet Tausende offene Systeme in Wind- und Solarparks",
+          "link": "https://www.golem.de/news/it-sicherheit-modat-findet-tausende-offene-systeme-in-wind-und-solarparks-2610-213797.html",
+          "summary": "Modat hat in Europa 8.547 erreichbare Systeme von Wind- und Solarparks gefunden. Manche steuern einen ganzen Windpark. ( Sicherheitslücke , Security )",
+          "published": "2026-10-07T11:12:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: KI in der Cybersecurity – Sicherheit trotz Coding-Agenten, LLMs und Deepfakes",
+        "Mittwoch: Uber-Ausbau mit Catering-Übernahme, Toshiba und Seagate buhlen um TDK",
+        "OpenCourant: Der Fork, den Siemens nicht stoppen kann"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Verwaltungsdigitalisierung: Vieles unklar bei der Deutschland-App",
+          "link": "https://netzpolitik.org/2026/verwaltungsdigitalisierung-vieles-unklar-bei-der-deutschland-app/",
+          "summary": "Karsten Wildberger sprach im Bundestag Anfang September über das Digitalbudget. – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Mit der Deutschland-App will Digitalminister Karsten Wildberger die öffentliche Verwaltung zügig digitalisieren. Umsetzen soll das Projekt die Telekom. Doch die Bundesregierung hat keinen Überblick darüber, was der Konzern genau macht, wie die Antwort der Bundesregierung auf eine Kleine Anfrage zeigt.",
+          "published": "Tue, 06 Oct 2026 16:52:30 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Neuer Bundesdatenschutzbeauftragter: „Weder besonders hart, noch besonders lasch, sondern ausgewogen“",
+          "link": "https://netzpolitik.org/2026/neuer-bundesdatenschutzbeauftragter-weder-besonders-hart-noch-besonders-lasch-sondern-ausgewogen/",
+          "summary": "Der neue Bundesbeauftragte für den Datenschutz und die Informationsfreiheit: Moritz Hennemann – Alle Rechte vorbehalten: IMAGO / Metodi Popow Seit wenigen Tagen ist Moritz Hennemann im Amt, heute hat er sich erstmalig zu seinen Prioritäten geäußert. Dabei fand er Lob für Reformvorhaben beim Datenschutz, kritisierte jedoch Pläne der Bundesregierung für den Ausbau von Geheimdiensten und die Aushöhlung der Informationsfreiheit.",
+          "published": "Tue, 06 Oct 2026 14:20:47 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Verwaltungsdigitalisierung: Vieles unklar bei der Deutschland-App",
+        "Neuer Bundesdatenschutzbeauftragter: „Weder besonders hart, noch besonders lasch, sondern ausgewogen“"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "What’s up, Docsy? Google’s docs project joins the Linux Foundation as AI agents become readers",
+          "link": "https://thenewstack.io/docsy-linux-foundation-agents/",
+          "summary": "Technical documentation is increasingly being read by AI agents, creating a new set of demands around how that information is The post What&#8217;s up, Docsy? Google’s docs project joins the Linux Foundation as AI agents become readers appeared first on The New Stack .",
+          "published": "Wed, 07 Oct 2026 11:02:46 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Amazon kills Alexa’s ability to control Echo speakers' AUX input",
+          "link": "https://arstechnica.com/gadgets/2026/10/amazon-bricks-alexas-ability-to-control-echo-speakers-aux-input/",
+          "summary": "Amazon hasn't made an Echo with a 3.5mm port in six years.",
+          "published": "Tue, 06 Oct 2026 17:03:16 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Softwarearchitektur: Technische Entscheidungen sind auch UX-Entscheidungen",
+          "link": "https://www.heise.de/hintergrund/Softwarearchitektur-Technische-Entscheidungen-sind-auch-UX-Entscheidungen-11457309.html",
+          "summary": "Den Grundstein für gute User Experience legen Entwicklungsteams bereits in Architektur und Priorisierungen, nicht erst im Interface.",
+          "published": "2026-10-02T07:54:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Eine API für Linux: Remote-Verwaltung mit systemd",
+          "link": "https://www.heise.de/news/Eine-API-fuer-Linux-Remote-Verwaltung-mit-systemd-11472737.html",
+          "summary": "Neue systemd-Features erlauben Systemverwaltung, die vorher nur mit externer Software möglich war.",
+          "published": "2026-10-01T11:40:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Zeekr 9X: Luxus-SUV mit Kino und Range Extender",
+          "link": "https://www.golem.de/news/zeekr-9x-luxus-suv-mit-kino-und-range-extender-2610-213761.html",
+          "summary": "Mit dem Zeekr 9X greift die Geely-Marke etablierte Luxus-SUVs an. Sein Antrieb kombiniert elektrisches Fahren mit Plug-in-Hybrid und Range Extender. Ein Bericht von Dirk Kunde ( Auto , Elektroauto )",
+          "published": "2026-10-07T08:57:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "What’s up, Docsy? Google’s docs project joins the Linux Foundation as AI agents become readers",
+        "Amazon kills Alexa’s ability to control Echo speakers' AUX input",
+        "Softwarearchitektur: Technische Entscheidungen sind auch UX-Entscheidungen"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Presentation: The Reinvention of the Dev Team",
+          "link": "https://www.infoq.com/presentations/agentic-dev-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Hannah Foxwell shares how the surge of agentic coding forces engineering leaders to rethink team dynamics. She discusses three key anchors for navigating AI-driven velocity: building software worth building, prioritizing automated safety over speed, and preserving the human element through generalist \"broken comb\" skillsets and sustainable on-call practices. By Hannah Foxwell",
+          "published": "Wed, 07 Oct 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Digitale Brieftasche d-you: Fachleute warnen vor Sicherheitsrisiken und Vertrauensverlust",
+          "link": "https://netzpolitik.org/2026/fachleute-warnen-vor-sicherheitsrisiken-und-vertrauensverlust/",
+          "summary": "Wenige Wochen vor dem Start der digitalen Brieftasche zeigen sich aus Sicht von Fachleuten mehr und mehr Risse. – Alle Rechte vorbehalten: IMAGO / Herrmann Agenturfotografie, Bearbeitung: netzpolitik.org Wenige Monate vor ihrem Start fehlten der digitalen Brieftasche entscheidende Funktionen, kritisierten Fachleute bei einer Anhörung im Bundestag. Verbesserte Sicherheit sei nötig, um Vertrauen für d‑you zu schaffen.",
+          "published": "Wed, 07 Oct 2026 10:22:34 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Eine Milliarde Nutzer von ChatGPT: Dennoch hat KI ein Akzeptanz-Problem bei uns",
+          "link": "https://t3n.de/news/eine-milliarde-nutzer-von-chatgpt-dennoch-hat-ki-ein-akzeptanz-problem-bei-uns-1766749/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Umfragen der Stanford University und Gallup belegen, dass die Menschen kein gutes Bild von KI-Produkten und den Rechenzentren haben. Gleichzeitig steigen die Nu weiterlesen auf t3n.de",
+          "published": "Wed, 7 Oct 2026 11:30:15 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI auf Beweissuche: OpenAI will erneut hunderte offene Mathe-Probleme gelöst haben",
+          "link": "https://t3n.de/news/openai-mathematik-beweise-github-1766978/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein noch unveröffentlichtes Sprachmodell drängt in die Königsdisziplin der Wissenschaft. Ein umfangreicher Datensatz an angeblichen Lösungen für jahrzehntealte Mathematik-Rätsel zwingt die akademische Welt zu einer kritischen Bestandsaufnahme. weiterlesen auf t3n.de",
+          "published": "Wed, 7 Oct 2026 11:00:50 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI im Kleiderschrank: Mit diesem Prompt machst du ChatGPT und Claude zu Modeberatern",
+          "link": "https://t3n.de/news/ki-im-kleiderschrank-mit-diesem-prompt-machst-du-chatgpt-und-claude-zu-modeberatern-1766932/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kann ein KI-Tool dein Modeberater werden? Das hat Prompt Engineer Susanne Renate Schneider ausprobiert. Sie teilt einen Prompt, der ChatGPT, Claude und Co. nicht nur zum Assistenten macht. weiterlesen auf t3n.de",
+          "published": "Wed, 7 Oct 2026 10:20:28 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: The Reinvention of the Dev Team",
+        "Digitale Brieftasche d-you: Fachleute warnen vor Sicherheitsrisiken und Vertrauensverlust",
+        "Eine Milliarde Nutzer von ChatGPT: Dennoch hat KI ein Akzeptanz-Problem bei uns"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Anzeige: Einhell Akku-Handstaubsauger am Prime Day zum Bestpreis nur noch rund 44 Euro",
+          "link": "https://www.golem.de/news/anzeige-einhell-akku-handstaubsauger-am-prime-day-zum-bestpreis-nur-noch-rund-44-euro-2610-213802.html",
+          "summary": "Mit zwei Saugrohren wird der Einhell-Handsauger zum Bodensauger und ist wie weitere Einhell-Geräte noch bis Mitternacht günstiger. ( Technik/Hardware )",
+          "published": "2026-10-07T11:24:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Anzeige: Einhell Akku-Handstaubsauger am Prime Day zum Bestpreis nur noch rund 44 Euro"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Anzeige: 20 Jahre OSMC - Monitoring aus der Praxis",
+          "link": "https://www.golem.de/news/anzeige-20-jahre-osmc-monitoring-aus-der-praxis-2610-213785.html",
+          "summary": "KI, Open Source und Observability im Praxistest: Zum 20. Jubiläum der OSMC vom 17. bis 19. November gibt es Vorträge, Workshops und Praxisberichte - und für Golem-Leser 15 Prozent Rabatt! ( Software )",
+          "published": "2026-10-07T09:00:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Anzeige: 20 Jahre OSMC - Monitoring aus der Praxis"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Googlebooks: Das beste Feature funktioniert nicht mit Samsung-Geräten",
+          "link": "https://t3n.de/news/googlebooks-feature-samsung-1766972/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Zusammenarbeit von Android-Smartphones mit den neuen Googlebooks ist ein zentrales Feature der Laptops. Doch es hakt zum Verkaufsstart ausgerechnet bei der Kommunikation mit Samsung-Geräten, den wohl meistverbreiteten Smartphones mit dem Google-System. weiterlesen auf t3n.de",
+          "published": "Wed, 7 Oct 2026 12:00:56 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Prime Deal Days: Amazon wirbt mit günstigen Xiaomi-Smartphones – doch wie gut sind die Angebote?",
+          "link": "https://t3n.de/news/prime-deal-days-amazon-wirbt-mit-guenstigen-xiaomi-smartphones-doch-wie-gut-sind-die-angebote-1766988/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Rahmen der Prime Deal Days hat Amazon viele Smartphones der Xiaomi-Marken Redmi und Poco reduziert. Der Preisvergleich zeigt: Selbst bei neuen Top-Modellen kannst du jetzt schon mehrere hundert Euro sparen. weiterlesen auf t3n.de",
+          "published": "Wed, 7 Oct 2026 11:40:54 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Article: Building a Session-Ordered Kafka Pipeline in Go",
+          "link": "https://www.infoq.com/articles/apache-kafka-golang-session-ordered-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The article describes a custom implementation that provides a session-level ordering on top of Apache Kafka partitions, supporting strict message ordering across 1000s of independent channels. The solution required application-level routing, consistent hashing, retries, and contiguous watermark commits. Engineers conducted operational hardening supported by extensive performance testing. By Joshua Oluikpe",
+          "published": "Wed, 07 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Stand Deutschland vor einem Super-Blackout? Hacker hätten 8 Gigawatt mit einem Klick vom Stromnetz nehmen können",
+          "link": "https://t3n.de/news/super-blackout-deutschland-hacker-8-gigawatt-1766966/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In Deutschland und weiten Teilen Europas hätte es einen großflächigen Blackout geben können. Über eine Sicherheitslücke haben sich Hacker:innen indirekten Zugriff auf das Stromnetz verschafft. Warum es trotzdem nicht zum gigantischen Stromausfall kam. weiterlesen auf t3n.de",
+          "published": "Wed, 7 Oct 2026 09:15:57 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Prime Deal Days: Amazon reduziert iPads und Apple Watches – aber nicht alle Deals lohnen sich",
+          "link": "https://t3n.de/news/amazon-prime-deal-days-ipad-iphone-apple-watch-deals-lohnen-1766758/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit Verweis auf die Chipkrise hat Apple den Preis für viele Gadgets nachträglich erhöht. Amazon wiederum bietet derzeit iPads, Apple Watches und ein iPhone im Rahmen der Prime Deal Days günstiger an. Doch welche Angebote lohnen sich wirklich? weiterlesen auf t3n.de",
+          "published": "Wed, 7 Oct 2026 09:05:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Googlebooks: Das beste Feature funktioniert nicht mit Samsung-Geräten",
+        "Prime Deal Days: Amazon wirbt mit günstigen Xiaomi-Smartphones – doch wie gut sind die Angebote?",
+        "Article: Building a Session-Ordered Kafka Pipeline in Go"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Stirling PDF 3.1: Gruppenunterschrift verlässt die Alpha-Phase",
+          "link": "https://www.heise.de/news/Stirling-PDF-3-1-Gruppenunterschrift-verlaesst-die-Alpha-Phase-11478247.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Stirling PDF 3.1 bringt die Gruppenunterschrift „Stirling Sign“ aus der Alpha-Phase und testet einen neuen Office-Konverter, der mehr Effizienz bringen soll.",
+          "published": "2026-10-07T07:30:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Stirling PDF 3.1: Gruppenunterschrift verlässt die Alpha-Phase"
+      ]
+    }
+  ]
+}
