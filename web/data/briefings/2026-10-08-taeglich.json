@@ -1,0 +1,305 @@
+{
+  "date": "2026-10-08",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "heise+ | Digitale Souveränität durch Open Source – die Datenplattform der Zukunft?",
+          "link": "https://www.heise.de/hintergrund/Digitale-Souveraenitaet-durch-Open-Source-die-Datenplattform-der-Zukunft-11474440.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "In unsicherer geopolitischer Lage ist digitale Souveränität (Datenkontrolle) strategisch wichtig. US-Riesen wie AWS, Azure & Google beherrschen 63% des Marktes.",
+          "published": "2026-10-08T13:30:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise+ | Digitale Souveränität durch Open Source – die Datenplattform der Zukunft?"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "OpenSSH 10.6 deliberately breaks two features in the name of security",
+          "link": "https://thenewstack.io/openssh-breaks-compression-usernames/",
+          "summary": "OpenSSH 10.6, released Tuesday, makes compression less effective and rejects some usernames that previously worked, and the maintainers knew both The post OpenSSH 10.6 deliberately breaks two features in the name of security appeared first on The New Stack .",
+          "published": "Wed, 07 Oct 2026 21:27:33 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Kubernetes won the orchestration wars. Its teams are still fighting.",
+          "link": "https://thenewstack.io/kubernetes-teams-ai-automation/",
+          "summary": "Kubernetes won the container orchestration wars. The CNCF reports that 82% of container users run Kubernetes in production. Despite its The post Kubernetes won the orchestration wars. Its teams are still fighting. appeared first on The New Stack .",
+          "published": "Wed, 07 Oct 2026 19:57:34 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
+          "link": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/",
+          "summary": "TP-Link can't sell latest routers in US, still needs exemption from FCC ban.",
+          "published": "Wed, 07 Oct 2026 19:53:42 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "AI in Production: What Breaks, What Works, and Who Approves It? | InfoQ Webinar",
+          "link": "https://www.infoq.com/news/2026/10/infoq-ai-webinar/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "On October 14, InfoQ hosts a free 60-minute panel with five practitioners on running AI in production. They'll discuss agent autonomy and human approval, how to verify AI-generated changes, sensitive-data exposure, and production RAG. Registrants can submit questions and will receive the recording. By Artenisa Chatziou",
+          "published": "Wed, 07 Oct 2026 14:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Digitale Souveränität: Nein, Europa ist keine Kolonie von Big Tech",
+          "link": "https://netzpolitik.org/2026/digitale-souveraenitaet-nein-europa-ist-keine-kolonie-von-big-tech/",
+          "summary": "EU-Kommissionspräsidentin beim \"Mattei Plan for Africa and Global Gateway Summit\" in Italien 2025 – Alle Rechte vorbehalten: IMAGO / Anadolu Agency Wer Europa als Opfer eines digitalen Kolonialismus inszeniert, negiert historisches Unrecht und übersieht den Ausweg aus Europas selbstverschuldeter Unmündigkeit. In dieser Debatte vergaloppiert sich nicht nur Kulturstaatsminister Wolfram Weimer. Ein Widerspruch.",
+          "published": "Wed, 07 Oct 2026 12:56:05 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "OpenSSH 10.6 deliberately breaks two features in the name of security",
+        "Kubernetes won the orchestration wars. Its teams are still fighting.",
+        "TP-Link problems in US grow amid FCC router ban and four state lawsuits"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Presentation: Multi-Agent Patterns from Spotify’s AI Powered Advertising Platform",
+          "link": "https://www.infoq.com/presentations/spotify-multi-agent-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Pratik Rasam discusses how Spotify Ads Manager runs production-grade multi-agent systems at scale using Google ADK Java. He shares key architectural patterns, domain ownership models, deterministic guardrails, and tracing-based evaluation strategies, detailing hard-learned lessons on drawing agent boundaries, optimizing tool schemas, and managing costs while avoiding monolithic agent pitfalls. By Pratik Rasam",
+          "published": "Thu, 08 Oct 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Multi-Agent Patterns from Spotify’s AI Powered Advertising Platform"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop: Schwachstellen aufdecken – Pentesting mit Open-Source-Tools",
+          "link": "https://www.heise.de/news/iX-Workshop-Schwachstellen-aufdecken-Pentesting-mit-Open-Source-Tools-11468459.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.",
+          "published": "2026-10-08T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "OpenCourant: Der Fork, den Siemens nicht stoppen kann",
+          "link": "https://www.heise.de/news/OpenCourant-Der-Fork-den-Siemens-nicht-stoppen-kann-11477542.html",
+          "summary": "Nach der Einstellung von OpenRadioss führt ein neuer Fork den Simulationssolver unter dem Namen OpenCourant fort.",
+          "published": "2026-10-06T10:32:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Angeklagter zahlte heimlich Lösegeld: Ransomware-Entschlüsselungsdienst vor Gericht",
+          "link": "https://www.golem.de/news/angeklagter-zahlte-heimlich-loesegeld-ransomware-entschluesselungsdienst-vor-gericht-2610-213874.html",
+          "summary": "Von Ransomware-Angriffen betroffenen Firmen versprach der Angeklagte, über fortschrittliche Entschlüsselungstechniken zu verfügen. ( Cybercrime , Verschlüsselung )",
+          "published": "2026-10-08T13:15:06+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Ransomware: Qilin-Hacker nach Deutschland ausgeliefert",
+          "link": "https://www.golem.de/news/ransomware-qilin-hacker-nach-deutschland-ausgeliefert-2610-213843.html",
+          "summary": "Ein mutmaßliches Mitglied der Hackergruppe Qilin ist an Deutschland überstellt worden. Dem Russen wird ein Angriff auf ein deutsches Logistikunternehmen vorgeworfen. ( Ransomware , Security )",
+          "published": "2026-10-08T08:09:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: iX-Workshop: Schwachstellen aufdecken – Pentesting mit Open-Source-Tools",
+        "OpenCourant: Der Fork, den Siemens nicht stoppen kann",
+        "Angeklagter zahlte heimlich Lösegeld: Ransomware-Entschlüsselungsdienst vor Gericht"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Von Europa nach Hongkong: Hackathon und Delegationsreise eröffnen Chancen für aufstrebende Tech-Talente",
+          "link": "https://t3n.de/news/von-europa-nach-hongkong-1764629/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Programm aus Hackathon und Delegationsreise hat europäischen Gründer:innen den Zugang zu Forschungsförderung, Kapital und Märkten in Hongkong, auf dem chinesischen Festland und darüber hinaus geebnet. Welche Vorteile bietet Hongkong, die bei europäischen Tech-Gründer:innen so gut ankommen? weiterlesen auf t3n.de",
+          "published": "Wed, 7 Oct 2026 17:45:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(1 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Von Europa nach Hongkong: Hackathon und Delegationsreise eröffnen Chancen für aufstrebende Tech-Talente"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "The Async Multiprocessing Has Sound Foundations in Linux, But Further Testing Is Needed",
+          "link": "https://www.infoq.com/news/2026/10/linux-amp-analysis/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "At Embedded Linux Conference Europe 2026, Wolfram Sang discussed the Linux building blocks for asymmetric multiprocessing (AMP). He highlighted the solid foundation but noted challenges like limited contributor coverage and fragmented testing. Sang's work on a hardware-spinlock driver revealed maintenance complexities and the need for more reviewers and testers to support evolving AMP systems. By Olimpiu Pop",
+          "published": "Wed, 07 Oct 2026 16:16:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "What’s up, Docsy? Google’s docs project joins the Linux Foundation as AI agents become readers",
+          "link": "https://thenewstack.io/docsy-linux-foundation-agents/",
+          "summary": "Technical documentation is increasingly being read by AI agents, creating a new set of demands around how that information is The post What&#8217;s up, Docsy? Google’s docs project joins the Linux Foundation as AI agents become readers appeared first on The New Stack .",
+          "published": "Wed, 07 Oct 2026 11:02:46 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Komplett neu in Rust: Mold 3.0 wirft C++ über Bord",
+          "link": "https://www.heise.de/news/Komplett-neu-in-Rust-Mold-3-0-wirft-C-ueber-Bord-11479469.html",
+          "summary": "Mit Version 3.0 wechselt der schnelle Linker Mold von C++ zu Rust. Das nächste Ziel steht schon fest: Mold soll Standard-Linker in Linux-Distributionen werden.",
+          "published": "2026-10-07T13:05:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "The Async Multiprocessing Has Sound Foundations in Linux, But Further Testing Is Needed",
+        "What’s up, Docsy? Google’s docs project joins the Linux Foundation as AI agents become readers",
+        "Komplett neu in Rust: Mold 3.0 wirft C++ über Bord"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Building scalable, agent-friendly APIs for AI applications",
+          "link": "https://thenewstack.io/building-agent-friendly-apis/",
+          "summary": "Nowadays, most of us interact with frontier AI models in a structured way, even if we do not always think The post Building scalable, agent-friendly APIs for AI applications appeared first on The New Stack .",
+          "published": "Thu, 08 Oct 2026 11:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Entdeckung oder Routine? Was Anthropics KI-Labor für die Bewertung echter Forschungsdurchbrüche bedeutet",
+          "link": "https://t3n.de/news/entdeckung-routine-anthropic-ki-labor-1765931/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI-Firmen bestehen darauf, dass ihre Agenten und Sprachmodelle bahnbrechende Fortschritte erzielen. Jüngstes Beispiel aus der Biologie ist ein Vorstoß von Anthr weiterlesen auf t3n.de",
+          "published": "Thu, 8 Oct 2026 12:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI auf GitHub: KI soll hunderte offene Mathe-Probleme gelöst haben",
+          "link": "https://t3n.de/news/openai-ki-mathe-beweise-github-1766978/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein noch unveröffentlichtes Sprachmodell drängt in die Königsdisziplin der Wissenschaft. Ein umfangreicher Datensatz an angeblichen Lösungen für jahrzehntealte Mathematik-Rätsel zwingt die akademische Welt zu einer kritischen Bestandsaufnahme. weiterlesen auf t3n.de",
+          "published": "Thu, 8 Oct 2026 11:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Windows 11: Microsoft verbessert die Suche und gibt Copilot mehr Zugriff auf Dateien – was sich dadurch ändert",
+          "link": "https://t3n.de/news/windows-11-verbesserte-suche-copilot-mehr-zugriff-1767161/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Unter Windows 11 plant Microsoft zwei größere Neuerungen für User:innen. Dadurch soll zunächst die Suche deutlich nützlicher werden. Zudem bekommt Copilot mehr Funktionen, aber dadurch auch mehr Zugriff auf die Daten deines PCs. weiterlesen auf t3n.de",
+          "published": "Thu, 8 Oct 2026 11:30:29 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Compliance nachhaltig skalieren: Wie du Doppelarbeit bei neuen Anforderungen vermeidest",
+          "link": "https://t3n.de/news/security-fragebogen-compliance-enterprise-sales-1763488/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der erste große Enterprise-Kunde ist fast unterschrieben. Dann kommt der Security-Fragebogen: rund 200 Fragen zu Zugriffskontrollen, Sub-Prozessoren, Incident-Prozessen und Zertifizierungen. Während der Deal seit drei Wochen feststeht, sucht das Team Antworten aus verschiedenen Tools und Dokumenten zusammen. weiterlesen auf t3n.de",
+          "published": "Thu, 8 Oct 2026 10:45:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Building scalable, agent-friendly APIs for AI applications",
+        "Entdeckung oder Routine? Was Anthropics KI-Labor für die Bewertung echter Forschungsdurchbrüche bedeutet",
+        "OpenAI auf GitHub: KI soll hunderte offene Mathe-Probleme gelöst haben"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
+          "link": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
+          "summary": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV that puts a sportier spin on the automaker's iX3. The iX4 is [&#8230;]",
+          "published": "2026-10-07T18:01:00-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(1 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Schneller ist nicht immer besser: Welcher Internetanschluss wirklich zu dir passt",
+          "link": "https://t3n.de/news/internetanschluss-vergleich-dsl-kabel-glasfaser-1749792/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Von DSL bis Starlink gibt es zahlreiche Mittel und Wege, um dich mit dem Internet zu verbinden. Doch welcher Anschluss ist für deine Zwecke am besten geeignet? weiterlesen auf t3n.de",
+          "published": "Thu, 8 Oct 2026 10:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Coach gesucht? Mit diesen 5 Tipps findest du einen seriösen Anbieter",
+          "link": "https://t3n.de/news/coach-gesucht-5-tipps-serioese-anbieter-1767163/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Du suchst einen Coach, um beruflich oder persönlich weiterzukommen? Worauf du achten solltest, um seriöse Anbieter zu erkennen. Und warum ein kostenloses Erstgespräch bei der Suche helfen kann. weiterlesen auf t3n.de",
+          "published": "Thu, 8 Oct 2026 10:30:24 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mehr Streams als Taylor Swift: Betrüger macht Millionen mit KI-Songs",
+          "link": "https://t3n.de/news/taylor-swift-betrueger-ki-songs-1767153/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit bis zu 10.000 Bots, tausenden Fake-Accounts und KI-Songs hat ein Musiker Streamingdienste um mehrere Millionen US-Dollar erleichtert. Zwischenzeitlich erzielte der Betrüger mehr Streams als Taylor Swift – jetzt muss er ins Gefängnis. weiterlesen auf t3n.de",
+          "published": "Thu, 8 Oct 2026 10:13:18 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Technological Sovereignty Requires Choice, Skills, and Support, Panelists Say During OSS EU",
+          "link": "https://www.infoq.com/news/2026/10/technological-sovereignity-panel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "European organisations can enhance their technological sovereignty by developing credible alternatives and acquiring necessary skills, rather than completely avoiding global providers. A panel discussion at the OSS EU highlighted the importance of understanding dependencies in cloud and hardware, and emphasized the need for practical choices in software for effective operational sovereignty. By Olimpiu Pop",
+          "published": "Thu, 08 Oct 2026 08:08:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Redis by proxy: Percona targets the last major hurdle to Valkey adoption",
+          "link": "https://thenewstack.io/valkey-proxy-redis-percona/",
+          "summary": "When Redis changed its licensing in 2024, replacing its permissive BSD license with proprietary, source-available alternatives, it prompted a major The post Redis by proxy: Percona targets the last major hurdle to Valkey adoption appeared first on The New Stack .",
+          "published": "Thu, 08 Oct 2026 06:54:15 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Schneller ist nicht immer besser: Welcher Internetanschluss wirklich zu dir passt",
+        "Coach gesucht? Mit diesen 5 Tipps findest du einen seriösen Anbieter",
+        "Mehr Streams als Taylor Swift: Betrüger macht Millionen mit KI-Songs"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Token-Effizienz: Wer das stärkste KI-Modell für alles nutzt, zahlt drauf - so geht es besser",
+          "link": "https://t3n.de/news/toke-effizienz-ki-modell-kosten-1767175/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Token zählen reicht nicht. Wer KI wirtschaftlich einsetzen will, muss anders rechnen – nämlich in erledigten Aufgaben statt in verbrauchten Ressourcen. Was das weiterlesen auf t3n.de",
+          "published": "Thu, 8 Oct 2026 11:00:39 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Token-Effizienz: Wer das stärkste KI-Modell für alles nutzt, zahlt drauf - so geht es besser"
+      ]
+    }
+  ]
+}
