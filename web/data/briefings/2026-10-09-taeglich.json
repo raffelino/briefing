@@ -1,0 +1,295 @@
+{
+  "date": "2026-10-09",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "AI data lakes are driving new storage demands",
+          "link": "https://thenewstack.io/ai-data-lakes-storage/",
+          "summary": "The frenetic pace of AI development is challenging data center design and operational paradigms. The twin pillars of hyperscale computing The post AI data lakes are driving new storage demands appeared first on The New Stack .",
+          "published": "Thu, 08 Oct 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AI data lakes are driving new storage demands"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "HashiCorp Relased Terraform Google Cloud Provider 8.0 in General Availability",
+          "link": "https://www.infoq.com/news/2026/10/terraform-google-cloud-provider/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "HashiCorp has announced the general availability of version 8.0 of the Terraform provider for Google Cloud. The major release updates the default load balancing for two Compute Engine resources. It also removes resources linked to retired Google Cloud services. By Claudio Masolo",
+          "published": "Fri, 09 Oct 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "The API tax: Why AI agents stall without infrastructure context",
+          "link": "https://thenewstack.io/autonomous-cloud-context-layer/",
+          "summary": "Enterprises continue to face an autonomous cloud bottleneck that breaks autonomous operations and leads to failure. This architectural flaw leaves The post The API tax: Why AI agents stall without infrastructure context appeared first on The New Stack .",
+          "published": "Thu, 08 Oct 2026 13:30:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AI changed how you respond to incidents. Your tabletops haven’t caught up.",
+          "link": "https://thenewstack.io/ai-incident-response-tabletops/",
+          "summary": "Tabletop exercises answer one question: when something breaks, will the people responsible for fixing it do the right thing, in The post AI changed how you respond to incidents. Your tabletops haven&#8217;t caught up. appeared first on The New Stack .",
+          "published": "Thu, 08 Oct 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS Strands Box: KI-Agenten an die kurze Leine nehmen",
+          "link": "https://www.heise.de/news/AWS-Strands-Box-KI-Agenten-an-die-kurze-Leine-nehmen-11482058.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein Agent darf Logs lesen, aber keine Infrastruktur ändern? Strands Box verbindet eine Sandbox mit Regeln, die auch frühere Aktionen berücksichtigen.",
+          "published": "2026-10-09T10:46:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | Docker-Container migrieren: Wechsel von Portainer zu Arcane",
+          "link": "https://www.heise.de/ratgeber/Docker-Container-migrieren-Wechsel-von-Portainer-zu-Arcane-11462082.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Portainer friert seine Community Edition ein und konzentriert sich auf Kubernetes. Wir zeigen, wie Sie Docker-Compose-Projekte zur Alternative Arcane umziehen.",
+          "published": "2026-10-09T07:30:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "HashiCorp Relased Terraform Google Cloud Provider 8.0 in General Availability",
+        "The API tax: Why AI agents stall without infrastructure context",
+        "AI changed how you respond to incidents. Your tabletops haven’t caught up."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Presentation: Multi-Agent Patterns from Spotify’s AI Powered Advertising Platform",
+          "link": "https://www.infoq.com/presentations/spotify-multi-agent-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Pratik Rasam discusses how Spotify Ads Manager runs production-grade multi-agent systems at scale using Google ADK Java. He shares key architectural patterns, domain ownership models, deterministic guardrails, and tracing-based evaluation strategies, detailing hard-learned lessons on drawing agent boundaries, optimizing tool schemas, and managing costs while avoiding monolithic agent pitfalls. By Pratik Rasam",
+          "published": "Thu, 08 Oct 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Multi-Agent Patterns from Spotify’s AI Powered Advertising Platform"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Bundesrechnungshof: Digitalminister macht IT-Sicherheit per Vogelstimmen-App",
+          "link": "https://netzpolitik.org/2026/bundesrechnungshof-digitalminister-macht-it-sicherheit-per-vogelstimmen-app/",
+          "summary": "Geld für IT-Sicherheitsmaßnahmen gab die Bundesregierung unter anderem für eine Vogelstimmen-App aus. (Symbolbild) – CC-BY-SA 4.0 : Wikimedia Commons / Kookaburra 81 Angriffe auf die IT der öffentlichen Verwaltung häufen sich. Doch statt gezielt in Maßnahmen zu investieren, die IT-Sicherheit stärken, investiert die Bundesregierung in Robotikforschung und eine Vogelstimmen-App. Das sagt ein Bericht des Bundesrechnungshofs, den wir veröffentlichen.",
+          "published": "Thu, 08 Oct 2026 13:06:20 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Tausende europäische Windanlagen und Solarparks offen im Internet",
+          "link": "https://www.heise.de/news/Tausende-europaeische-Windanlagen-und-Solarparks-offen-im-Internet-11482262.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine IT-Sicherheitsfirma hat europäische Solarparks und Windkraftanlagen kartiert. Über 8500 Verwaltungssysteme sind offen im Netz.",
+          "published": "2026-10-09T12:28:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: KI-Agenten, NIS2, Ransomware: Das bietet der ICC Summit 2026",
+          "link": "https://www.heise.de/news/KI-Agenten-NIS2-Ransomware-Das-bietet-der-ICC-Summit-2026-11480270.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Wie Identitäten zum Kern der Cybersecurity werden, zeigt der ICC Summit am 26. November 2026 in München. Jetzt steht das Konferenz-Programm.",
+          "published": "2026-10-09T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "OpenCourant: Der Fork, den Siemens nicht stoppen kann",
+          "link": "https://www.heise.de/news/OpenCourant-Der-Fork-den-Siemens-nicht-stoppen-kann-11477542.html",
+          "summary": "Nach der Einstellung von OpenRadioss führt ein neuer Fork den Simulationssolver unter dem Namen OpenCourant fort.",
+          "published": "2026-10-06T10:32:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Datenleck: 9 GByte Redaktions- und Nutzerdaten von Nius frei zugänglich",
+          "link": "https://www.golem.de/news/datenleck-9-gbyte-redaktions-und-nutzerdaten-von-nius-frei-zugaenglich-2610-213910.html",
+          "summary": "Unbekannte stellen die Nius-Daten nach einem Hackerangriff ins Netz. Sie enthalten auch Informationen über Gesprächspartner der Redaktion. ( Datenleck , Security )",
+          "published": "2026-10-09T10:03:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Bundesrechnungshof: Digitalminister macht IT-Sicherheit per Vogelstimmen-App",
+        "Tausende europäische Windanlagen und Solarparks offen im Internet",
+        "heise-Angebot: KI-Agenten, NIS2, Ransomware: Das bietet der ICC Summit 2026"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Most AI incident tools still leave a key decision to humans",
+          "link": "https://thenewstack.io/ai-sre-agent-autonomy-phases/",
+          "summary": "An AI SRE agent can help troubleshoot an incident. But can you trust it to decide on its own when The post Most AI incident tools still leave a key decision to humans appeared first on The New Stack .",
+          "published": "Thu, 08 Oct 2026 16:20:24 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Billigimporte im Onlinehandel: Haftungspflicht für Drittstaaten-Händler gefordert",
+          "link": "https://www.golem.de/news/billigimporte-im-onlinehandel-haftungspflicht-fuer-drittstaaten-haendler-gefordert-2610-213917.html",
+          "summary": "Die Bundesregierung wird aufgefordert, die ständigen Rechtsbrüche von Drittstaaten-Händlern nicht länger zu dulden. Es müsse Sanktionen geben. ( Onlinehandel , Verbraucherschutz )",
+          "published": "2026-10-09T11:02:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Most AI incident tools still leave a key decision to humans",
+        "Billigimporte im Onlinehandel: Haftungspflicht für Drittstaaten-Händler gefordert"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Komplett neu in Rust: Mold 3.0 wirft C++ über Bord",
+          "link": "https://www.heise.de/news/Komplett-neu-in-Rust-Mold-3-0-wirft-C-ueber-Bord-11479469.html",
+          "summary": "Mit Version 3.0 wechselt der schnelle Linker Mold von C++ zu Rust. Das nächste Ziel steht schon fest: Mold soll Standard-Linker in Linux-Distributionen werden.",
+          "published": "2026-10-07T13:05:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: LPIC-1: Linux-Wissen für die Zertifizierung vertiefen",
+          "link": "https://www.golem.de/news/anzeige-lpic-1-linux-wissen-fuer-die-zertifizierung-vertiefen-2610-213842.html",
+          "summary": "LPIC-1 verlangt Kenntnisse in mehreren Bereichen der Linux-Administration. Ein Online-Workshop vertieft vorhandenes Wissen für die beiden Prüfungen. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-10-08T18:45:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Komplett neu in Rust: Mold 3.0 wirft C++ über Bord",
+        "Anzeige: LPIC-1: Linux-Wissen für die Zertifizierung vertiefen"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Laut Harvard-Studie: Warum Software-Entwickler durch KI nicht wirklich produktiver sind",
+          "link": "https://t3n.de/news/laut-harvard-studie-warum-software-entwickler-durch-ki-nicht-wirklich-produktiver-sind-1767446/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Tools und Agenten können beim Generieren von Code viel Zeit sparen. Eine aktuelle Analyse deutet allerdings darauf hin, dass dieser positive Effekt in der Praxis verpufft. Der Grund liegt im Überprüfungsprozess. weiterlesen auf t3n.de",
+          "published": "Fri, 9 Oct 2026 13:00:38 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale",
+          "link": "https://www.infoq.com/presentations/netflix-observability-aiops-ontology-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Prasanna Vijayanathan and Renzo Sanchez-Silva share how Netflix tackles observability across 38M events/sec. They discuss replacing reactive monitoring with an AI-driven operational ontology and agentic workflows using Claude and graph databases. They explain how unifying MELT telemetry into queryable knowledge graphs enables automated triaging, root-cause analysis, and self-healing systems. By Prasanna Vijayanathan, Renzo Sanchez-Silva",
+          "published": "Fri, 09 Oct 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "&quot;OpenAI kann KI nicht allein sicher machen&quot;: Ex-Mitarbeiter veröffentlichen kritischen Brief",
+          "link": "https://t3n.de/news/openai-ex-mitarbeiter-brief-ki-sicherheit-1767427/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "OpenAI hat drei Mitarbeiter:innen mit sofortiger Wirkung entlassen, weil sie angeblich vertrauliche Informationen weitergegeben hätten. Jetzt setzen sich die Ex-Mitarbeiter:innen mit einem kritischen Brief zur Wehr und warnen vor den Entwicklungen bei OpenAI. weiterlesen auf t3n.de",
+          "published": "Fri, 9 Oct 2026 12:30:05 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Olson and Söderqvist Discuss Valkey’s Evolution and Future Past Caching Use Cases at OSS EU",
+          "link": "https://www.infoq.com/news/2026/10/valkey-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Valkey is a growing project, launched as a fork of Redis over two years ago, supported by twelve maintainers and nine committee members from various companies. Recent developments include enhanced throughput, improved cluster functionality, and plans for features like synchronous replication and tiered storage. The project also emphasises security and release efficiency through automation. By Olimpiu Pop",
+          "published": "Fri, 09 Oct 2026 09:09:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "3 KI-Figuren, ein Konsens: Claude Skills als Sparringsteam für Selbstständige",
+          "link": "https://t3n.de/news/claude-skills-ki-sparringspartner-1767372/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer allein arbeitet, hat niemanden, der Entscheidungen sofort hinterfragt. Ein Solo-Selbstständiger hat sich mit Claude-Skills drei KI-Sparringspartner gebaut, im Gespräch mit Claude statt mit Code. weiterlesen auf t3n.de",
+          "published": "Fri, 9 Oct 2026 10:40:54 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Laut Harvard-Studie: Warum Software-Entwickler durch KI nicht wirklich produktiver sind",
+        "Presentation: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale",
+        "&quot;OpenAI kann KI nicht allein sicher machen&quot;: Ex-Mitarbeiter veröffentlichen kritischen Brief"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Mehr als Videospiele: Microsoft gründet neue Xbox-Sparte",
+          "link": "https://www.heise.de/news/Mehr-als-Videospiele-Microsoft-gruendet-neue-Xbox-Sparte-11482112.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Microsoft gründet mit XP eine neue Sparte, um das Geschäft mit Marken wie „Minecraft“ und „Fallout“ auszubauen. Die Leitung übernimmt Mojangs bisherige Chefin.",
+          "published": "2026-10-09T11:32:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Mehr als Videospiele: Microsoft gründet neue Xbox-Sparte"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Dreimal so viel Energie: Dieser Batterie-Prototyp soll Lithium-Ionen in den Schatten stellen",
+          "link": "https://t3n.de/news/dreimal-so-viel-energie-dieser-batterie-prototyp-soll-lithium-ionen-in-den-schatten-stellen-1767406/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das chinesische Unternehmen Welion New Energy stellt halbfeste Festkörperzellen her, um E-Motoren mehr Leistung zu geben. Mit seinem Ansatz will das Team Lithiu weiterlesen auf t3n.de",
+          "published": "Fri, 9 Oct 2026 12:00:12 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "FritzOS 8.50 wird für erste Router ausgerollt: Ist deine Fritzbox schon dabei?",
+          "link": "https://t3n.de/news/fritzos-8-50-update-fuer-erste-fritzboxen-1767411/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Fritz rollt das Update auf FritzOS 8.50 für erste Router aus. Mit dem Update gehen einige praktische Neuerungen wie ein DNS-Filter einher. Welche Fritzboxen die Aktualisierung jetzt herunterladen können. weiterlesen auf t3n.de",
+          "published": "Fri, 9 Oct 2026 09:30:12 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "“Don’t use ‘open weight’ and ‘open source’ interchangeably”: Percona CEO on why AI terminology matters",
+          "link": "https://thenewstack.io/open-weight-open-source-ai/",
+          "summary": "The AI industry has enthusiastically embraced the language of open source, even as some of its most prominent &#8220;open&#8221; models The post “Don’t use ‘open weight’ and ‘open source’ interchangeably”: Percona CEO on why AI terminology matters appeared first on The New Stack .",
+          "published": "Fri, 09 Oct 2026 06:43:21 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Was weiß Amazon über seine Kunden? Diese kuriosen Dinge verrät die App",
+          "link": "https://t3n.de/news/was-weiss-amazon-ueber-seine-kunden-diese-kuriosen-dinge-verraet-die-app-1767308/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "&#8222;Hat ein flaches Gesäß&#8220;, attestierte die Amazon-App einer US-Kundin in einem etwas versteckten Menü. Diese Erkenntnis teilte sie in einem sozialen Netzwerk mit. Die Antworten anderer Nutzer ließen nicht lange auf sich warten. weiterlesen auf t3n.de",
+          "published": "Fri, 9 Oct 2026 08:00:33 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Gehaltsverhandlung: Wie Fachkräfte im Online-Marketing Geld verschenken - und wie man den eigenen Marktwert ermittelt",
+          "link": "https://t3n.de/news/gehaltsverhandlung-online-marketing-marktwert-1767159/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Online-Marketing bietet zahlreiche Möglichkeiten, Geld zu verdienen: ob angestellt, als Freelancer oder mit eigenem Online-Business. Entsprechend groß ist die S weiterlesen auf t3n.de",
+          "published": "Fri, 9 Oct 2026 07:00:16 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Dreimal so viel Energie: Dieser Batterie-Prototyp soll Lithium-Ionen in den Schatten stellen",
+        "FritzOS 8.50 wird für erste Router ausgerollt: Ist deine Fritzbox schon dabei?",
+        "“Don’t use ‘open weight’ and ‘open source’ interchangeably”: Percona CEO on why AI terminology matters"
+      ]
+    }
+  ]
+}
