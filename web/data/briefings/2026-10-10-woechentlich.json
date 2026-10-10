@@ -1,0 +1,449 @@
+{
+  "date": "2026-10-10",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "AI data lakes are driving new storage demands",
+          "link": "https://thenewstack.io/ai-data-lakes-storage/",
+          "summary": "The frenetic pace of AI development is challenging data center design and operational paradigms. The twin pillars of hyperscale computing The post AI data lakes are driving new storage demands appeared first on The New Stack .",
+          "published": "Thu, 08 Oct 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AI data lakes are driving new storage demands"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Kubernetes on cgroup v1 is dead. Here’s what comes next.",
+          "link": "https://thenewstack.io/kubernetes-node-swap-ai/",
+          "summary": "Welcome back to another edition of Road to KubeCon, where we&#8217;re tracking the latest movements in the cloud-native ecosystem as The post Kubernetes on cgroup v1 is dead. Here’s what comes next. appeared first on The New Stack .",
+          "published": "Fri, 09 Oct 2026 20:15:46 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Github Migrates Copilot Runtime to Rust with AI-Assisted Rewrite",
+          "link": "https://www.infoq.com/news/2026/10/github-copilot-rust-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "GitHub migrated more than 800,000 lines of Copilot runtime code from TypeScript and Node.js to Rust in about 14.5 weeks using AI-assisted development. The incremental migration used N-API interoperability, automated testing, human review, and 128 pull requests while continuing to ship releases. By Leela Kumili",
+          "published": "Fri, 09 Oct 2026 14:29:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AWS, Upstage and Ollama agree on a decision-model API. OpenAI hasn’t signed on.",
+          "link": "https://thenewstack.io/decision-models-system-one/",
+          "summary": "AWS’s new decision model comes with a familiar address. Released October 1, Strands Decider 2B is an open-weight model built The post AWS, Upstage and Ollama agree on a decision-model API. OpenAI hasn’t signed on. appeared first on The New Stack .",
+          "published": "Fri, 09 Oct 2026 12:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+          "link": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
+          "summary": "\"I can say we’re weeks away from launching on Vulcan.\"",
+          "published": "Fri, 09 Oct 2026 11:00:57 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "HashiCorp Relased Terraform Google Cloud Provider 8.0 in General Availability",
+          "link": "https://www.infoq.com/news/2026/10/terraform-google-cloud-provider/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "HashiCorp has announced the general availability of version 8.0 of the Terraform provider for Google Cloud. The major release updates the default load balancing for two Compute Engine resources. It also removes resources linked to retired Google Cloud services. By Claudio Masolo",
+          "published": "Fri, 09 Oct 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "The API tax: Why AI agents stall without infrastructure context",
+          "link": "https://thenewstack.io/autonomous-cloud-context-layer/",
+          "summary": "Enterprises continue to face an autonomous cloud bottleneck that breaks autonomous operations and leads to failure. This architectural flaw leaves The post The API tax: Why AI agents stall without infrastructure context appeared first on The New Stack .",
+          "published": "Thu, 08 Oct 2026 13:30:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AI changed how you respond to incidents. Your tabletops haven’t caught up.",
+          "link": "https://thenewstack.io/ai-incident-response-tabletops/",
+          "summary": "Tabletop exercises answer one question: when something breaks, will the people responsible for fixing it do the right thing, in The post AI changed how you respond to incidents. Your tabletops haven&#8217;t caught up. appeared first on The New Stack .",
+          "published": "Thu, 08 Oct 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenSSH 10.6 deliberately breaks two features in the name of security",
+          "link": "https://thenewstack.io/openssh-breaks-compression-usernames/",
+          "summary": "OpenSSH 10.6, released Tuesday, makes compression less effective and rejects some usernames that previously worked, and the maintainers knew both The post OpenSSH 10.6 deliberately breaks two features in the name of security appeared first on The New Stack .",
+          "published": "Wed, 07 Oct 2026 21:27:33 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(8 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Kubernetes on cgroup v1 is dead. Here’s what comes next.",
+        "Github Migrates Copilot Runtime to Rust with AI-Assisted Rewrite",
+        "AWS, Upstage and Ollama agree on a decision-model API. OpenAI hasn’t signed on."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Presentation: Multi-Agent Patterns from Spotify’s AI Powered Advertising Platform",
+          "link": "https://www.infoq.com/presentations/spotify-multi-agent-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Pratik Rasam discusses how Spotify Ads Manager runs production-grade multi-agent systems at scale using Google ADK Java. He shares key architectural patterns, domain ownership models, deterministic guardrails, and tracing-based evaluation strategies, detailing hard-learned lessons on drawing agent boundaries, optimizing tool schemas, and managing costs while avoiding monolithic agent pitfalls. By Pratik Rasam",
+          "published": "Thu, 08 Oct 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Multi-Agent Patterns from Spotify’s AI Powered Advertising Platform"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Bundesrechnungshof: Digitalminister macht IT-Sicherheit per Vogelstimmen-App",
+          "link": "https://netzpolitik.org/2026/bundesrechnungshof-digitalminister-macht-it-sicherheit-per-vogelstimmen-app/",
+          "summary": "Geld für IT-Sicherheitsmaßnahmen gab die Bundesregierung unter anderem für eine Vogelstimmen-App aus. (Symbolbild) – CC-BY-SA 4.0 : Wikimedia Commons / Kookaburra 81 Angriffe auf die IT der öffentlichen Verwaltung häufen sich. Doch statt gezielt in Maßnahmen zu investieren, die IT-Sicherheit stärken, investiert die Bundesregierung in Robotikforschung und eine Vogelstimmen-App. Das sagt ein Bericht des Bundesrechnungshofs, den wir veröffentlichen.",
+          "published": "Thu, 08 Oct 2026 13:06:20 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Anthropic scannt Open-Source-Projekte kostenlos auf Sicherheitslücken",
+          "link": "https://www.heise.de/news/Anthropic-scannt-Open-Source-Projekte-kostenlos-auf-Sicherheitsluecken-11482774.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Anthropic bietet Open-Source-Projekten kostenlose KI-Sicherheitsscans an. In Tests waren angeblich die meisten hier gefundenen Schwachstellen real.",
+          "published": "2026-10-09T17:59:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Tausende europäische Windanlagen und Solarparks offen im Internet",
+          "link": "https://www.heise.de/news/Tausende-europaeische-Windanlagen-und-Solarparks-offen-im-Internet-11482262.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine IT-Sicherheitsfirma hat europäische Solarparks und Windkraftanlagen kartiert. Über 8500 Verwaltungssysteme sind offen im Netz.",
+          "published": "2026-10-09T12:28:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "OpenCourant: Der Fork, den Siemens nicht stoppen kann",
+          "link": "https://www.heise.de/news/OpenCourant-Der-Fork-den-Siemens-nicht-stoppen-kann-11477542.html",
+          "summary": "Nach der Einstellung von OpenRadioss führt ein neuer Fork den Simulationssolver unter dem Namen OpenCourant fort.",
+          "published": "2026-10-06T10:32:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(4 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Bundesrechnungshof: Digitalminister macht IT-Sicherheit per Vogelstimmen-App",
+        "Anthropic scannt Open-Source-Projekte kostenlos auf Sicherheitslücken",
+        "Tausende europäische Windanlagen und Solarparks offen im Internet"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Von Europa nach Hongkong: Hackathon und Delegationsreise eröffnen Chancen für aufstrebende Tech-Talente",
+          "link": "https://t3n.de/news/von-europa-nach-hongkong-1764629/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Programm aus Hackathon und Delegationsreise hat europäischen Gründer:innen den Zugang zu Forschungsförderung, Kapital und Märkten in Hongkong, auf dem chinesischen Festland und darüber hinaus geebnet. Welche Vorteile bietet Hongkong, die bei europäischen Tech-Gründer:innen so gut ankommen? weiterlesen auf t3n.de",
+          "published": "Sat, 10 Oct 2026 11:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Amazon ECS now auto-repairs failing GPUs and instances. Here’s why it matters for SREs.",
+          "link": "https://thenewstack.io/amazon-ecs-auto-repair/",
+          "summary": "Running applications in production means maintaining an &#8220;always-on&#8221; posture through disruptions. Infrastructure fails; dependencies slow down, and networks partition, not The post Amazon ECS now auto-repairs failing GPUs and instances. Here&#8217;s why it matters for SREs. appeared first on The New Stack .",
+          "published": "Fri, 09 Oct 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Most AI incident tools still leave a key decision to humans",
+          "link": "https://thenewstack.io/ai-sre-agent-autonomy-phases/",
+          "summary": "An AI SRE agent can help troubleshoot an incident. But can you trust it to decide on its own when The post Most AI incident tools still leave a key decision to humans appeared first on The New Stack .",
+          "published": "Thu, 08 Oct 2026 16:20:24 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Verwaltungsdigitalisierung: Vieles unklar bei der Deutschland-App",
+          "link": "https://netzpolitik.org/2026/verwaltungsdigitalisierung-vieles-unklar-bei-der-deutschland-app/",
+          "summary": "Karsten Wildberger sprach im Bundestag Anfang September über das Digitalbudget. – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Mit der Deutschland-App will Digitalminister Karsten Wildberger die öffentliche Verwaltung zügig digitalisieren. Umsetzen soll das Projekt die Telekom. Doch die Bundesregierung hat keinen Überblick darüber, was der Konzern genau macht, wie die Antwort der Bundesregierung auf eine Kleine Anfrage zeigt.",
+          "published": "Tue, 06 Oct 2026 16:52:30 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Neuer Bundesdatenschutzbeauftragter: „Weder besonders hart, noch besonders lasch, sondern ausgewogen“",
+          "link": "https://netzpolitik.org/2026/neuer-bundesdatenschutzbeauftragter-weder-besonders-hart-noch-besonders-lasch-sondern-ausgewogen/",
+          "summary": "Der neue Bundesbeauftragte für den Datenschutz und die Informationsfreiheit: Moritz Hennemann – Alle Rechte vorbehalten: IMAGO / Metodi Popow Seit wenigen Tagen ist Moritz Hennemann im Amt, heute hat er sich erstmalig zu seinen Prioritäten geäußert. Dabei fand er Lob für Reformvorhaben beim Datenschutz, kritisierte jedoch Pläne der Bundesregierung für den Ausbau von Geheimdiensten und die Aushöhlung der Informationsfreiheit.",
+          "published": "Tue, 06 Oct 2026 14:20:47 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Billigimporte im Onlinehandel: Haftungspflicht für Drittstaaten-Händler gefordert",
+          "link": "https://www.golem.de/news/billigimporte-im-onlinehandel-haftungspflicht-fuer-drittstaaten-haendler-gefordert-2610-213917.html",
+          "summary": "Die Bundesregierung wird aufgefordert, die ständigen Rechtsbrüche von Drittstaaten-Händlern nicht länger zu dulden. Es müsse Sanktionen geben. ( Onlinehandel , Verbraucherschutz )",
+          "published": "2026-10-09T11:02:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(6 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Von Europa nach Hongkong: Hackathon und Delegationsreise eröffnen Chancen für aufstrebende Tech-Talente",
+        "Amazon ECS now auto-repairs failing GPUs and instances. Here’s why it matters for SREs.",
+        "Most AI incident tools still leave a key decision to humans"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Your artwork could be featured in the next Debian release",
+          "link": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
+          "summary": "Debian Linux has put a call out for artist submissions for its next release: Forky.",
+          "published": "Fri, 09 Oct 2026 18:33:26 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "The Async Multiprocessing Has Sound Foundations in Linux, But Further Testing is Needed",
+          "link": "https://www.infoq.com/news/2026/10/linux-amp-analysis/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "At Embedded Linux Conference Europe 2026, Wolfram Sang discussed the Linux building blocks for asymmetric multiprocessing (AMP). He highlighted the solid foundation but noted challenges like limited contributor coverage and fragmented testing. Sang's work on a hardware-spinlock driver revealed maintenance complexities and the need for more reviewers and testers to support evolving AMP systems. By Olimpiu Pop",
+          "published": "Wed, 07 Oct 2026 16:16:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Agil und strukturiert: eine Umgebung für KI-gestütztes Lernen",
+          "link": "https://www.heise.de/hintergrund/Agil-und-strukturiert-eine-Umgebung-fuer-KI-gestuetztes-Lernen-11480376.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "KI hilft beim Einstieg in fremde Fachgebiete, irrt dabei aber unbemerkt. Wie sieht ein agiler Lernprozess aus, der davor schützt?",
+          "published": "2026-10-10T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Chinas Rohstoffdominanz: Warum Brüssels Milliarden-Offensive ins Stocken gerät",
+          "link": "https://www.heise.de/news/Chinas-Rohstoffdominanz-Warum-Bruessels-Milliarden-Offensive-ins-Stocken-geraet-11483044.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Trotz neuer Förderprojekte und Milliardenhilfe hinkt die EU ihren Ambitionen bei kritischen Rohstoffen hinterher. Bürokratie und Reibungen bremsen den Hochlauf.",
+          "published": "2026-10-09T19:09:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Macher von NotebookLM: Apple holt Assets und Mitarbeiter von KI-Start-up Huxe",
+          "link": "https://www.heise.de/news/Macher-von-NotebookLM-Apple-holt-Assets-und-Mitarbeiter-von-KI-Start-up-Huxe-11482694.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Raiza Martin & Team hatten nach ihrem Job bei Google versucht, den KI-Podcast-Ansatz von NotebookLM weiterzuentwickeln – und scheiterten. Apple übernimmt Teile.",
+          "published": "2026-10-09T17:52:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Agil und strukturiert: eine Umgebung für KI-gestütztes Lernen",
+          "link": "https://www.heise.de/hintergrund/Agil-und-strukturiert-eine-Umgebung-fuer-KI-gestuetztes-Lernen-11480376.html",
+          "summary": "KI hilft beim Einstieg in fremde Fachgebiete, irrt dabei aber unbemerkt. Wie sieht ein agiler Lernprozess aus, der davor schützt?",
+          "published": "2026-10-10T06:00:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Komplett neu in Rust: Mold 3.0 wirft C++ über Bord",
+          "link": "https://www.heise.de/news/Komplett-neu-in-Rust-Mold-3-0-wirft-C-ueber-Bord-11479469.html",
+          "summary": "Mit Version 3.0 wechselt der schnelle Linker Mold von C++ zu Rust. Das nächste Ziel steht schon fest: Mold soll Standard-Linker in Linux-Distributionen werden.",
+          "published": "2026-10-07T13:05:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(7 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Your artwork could be featured in the next Debian release",
+        "The Async Multiprocessing Has Sound Foundations in Linux, But Further Testing is Needed",
+        "Agil und strukturiert: eine Umgebung für KI-gestütztes Lernen"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Microsoft skipped OpenAI’s decision model and built its own on Alibaba’s Qwen",
+          "link": "https://thenewstack.io/microsoft-decision-model-foundry/",
+          "summary": "Microsoft on Friday launched Microsoft-Decision-1 in Foundry, three days after OpenAI opened its Decisions API to every developer in public The post Microsoft skipped OpenAI’s decision model and built its own on Alibaba’s Qwen appeared first on The New Stack .",
+          "published": "Sat, 10 Oct 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Project Suncatcher: Warum Google für seine Weltraum-Rechenzentren 1.800 Starship-Flüge braucht",
+          "link": "https://t3n.de/news/project-suncatcher-google-rechenzentrum-weltall-1766378/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google will KI-Rechenzentren ins All verlagern, um nahezu ununterbrochen Sonnenenergie zu nutzen. Ein erster KI-Chip kreist bereits zu Testzwecken um die Erde. Doch bis die Vision wirtschaftlich tragfähig wird, sind gewaltige Hürden zu überwinden. weiterlesen auf t3n.de",
+          "published": "Sat, 10 Oct 2026 14:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Zu viel Autonomie? Wie Metas KI-Agent Muse ohne Erlaubnis eine Privatadresse weitergab",
+          "link": "https://t3n.de/news/zu-viel-autonomie-meta-ki-agent-1765382/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Metas KI-Agent Muse kann unter anderem eigenständig Facebook-Marketplace-Accounts managen. Ein Nutzer schilderte, welch unerfreuliche Dinge ihm dabei passierten. weiterlesen auf t3n.de",
+          "published": "Sat, 10 Oct 2026 13:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Elon Musk’s Grok Bot will pick Claude over Grok when it’s better. One-model loyalty is dead.",
+          "link": "https://thenewstack.io/musk-claude-model-triage/",
+          "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Elon Musk’s Grok Bot will pick Claude over Grok when it’s better. One-model loyalty is dead. appeared first on The New Stack .",
+          "published": "Sat, 10 Oct 2026 10:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Openclaw: Zwei KI-Agenten sorgen sich sechs Stunden lang um ihren schlafenden User",
+          "link": "https://t3n.de/news/openclaw-ki-agenten-sorgen-sich-um-schlafenden-user-1766686/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein X-User berichtet von einem kuriosen Zwischenfall mit zwei Openclaw-Agenten. Während einer längeren Abwesenheit haben sich die beiden Tools zusammengerauft, um herauszufinden, ob ihrem Nutzer etwas zugestoßen sein könnte. weiterlesen auf t3n.de",
+          "published": "Sat, 10 Oct 2026 11:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Fritzbox mieten oder kaufen: Diese Rechnung zeigt, ab wann sich der Einmalkauf lohnt",
+          "link": "https://t3n.de/news/fritzbox-mieten-kaufen-rechnung-1765482/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Du bist dabei, einen neuen Internetvertrag abzuschließen, und dir wird eine Fritzbox zur Miete angeboten? Wann sich das lohnt und wann du deinen neuen Router lieber selbst kaufen solltest. weiterlesen auf t3n.de",
+          "published": "Sat, 10 Oct 2026 09:15:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Warum die spannendsten KI-Agenten ziemlich langweilige Aufgaben erledigen",
+          "link": "https://t3n.de/news/warum-die-spannendsten-ki-agenten-ziemlich-langweilige-aufgaben-erledigen-1765900/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Autonome Super-Agenten bestimmen die Debatte. In Unternehmen liegt der größere Hebel oft woanders: bei Angeboten, Aufträgen, Rechnungen oder Serviceanfragen. Eine Studie zeigt, welche Prozesse sich für KI-Agenten besonders eignen. weiterlesen auf t3n.de",
+          "published": "Sat, 10 Oct 2026 09:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "ChatGPTs neue Shopping-Funktionen: So findest du per virtueller Anprobe das perfekte Outfit",
+          "link": "https://t3n.de/news/chatgpt-shopping-funktionen-virtuelle-anprobe-outfit-1766318/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "ChatGPT führt zwei neue Shopping-Funktionen ein. Zum einen eine virtuelle Anprobe von Kleidung und zum anderen eine neue Favoriten-Funktion, mit der Produkte gespeichert werden können. weiterlesen auf t3n.de",
+          "published": "Sat, 10 Oct 2026 08:55:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(8 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Microsoft skipped OpenAI’s decision model and built its own on Alibaba’s Qwen",
+        "Project Suncatcher: Warum Google für seine Weltraum-Rechenzentren 1.800 Starship-Flüge braucht",
+        "Zu viel Autonomie? Wie Metas KI-Agent Muse ohne Erlaubnis eine Privatadresse weitergab"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+          "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+          "summary": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
+          "published": "Fri, 09 Oct 2026 21:51:12 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "CircleCI Makes Machine Runner Orchestrator Generally Available",
+          "link": "https://www.infoq.com/news/2026/10/circleci-machine-runner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "CircleCI has made its Machine Runner Orchestrator 1.0.0 generally available, providing automated scaling of self-hosted machine runner virtual machines according to CI workload demand. By Craig Risi",
+          "published": "Fri, 09 Oct 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise-Angebot: Last Call: c’t-Webinar –Wärmepumpen-Grundlagen",
+          "link": "https://www.heise.de/news/Last-Call-c-t-Webinar-Waermepumpen-Grundlagen-11478663.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Viele zweifeln, ob sich eine Wärmepumpe für ihr Gebäude eignet. Ein Online-Crashkurs vermittelt das nötige Grundlagenwissen und das herstellerunabhängig.",
+          "published": "2026-10-10T13:00:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+        "CircleCI Makes Machine Runner Orchestrator Generally Available",
+        "heise-Angebot: Last Call: c’t-Webinar –Wärmepumpen-Grundlagen"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing",
+          "link": "https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare has put Traces into open beta, extending automatic tracing from Workers to security rules, transformations, cache, routing and origin handling as OpenTelemetry spans. Traces accept and forward W3C traceparent headers, and Trace Rules allow targeted sampling. Pricing moves to ingestion and retention volume from December 1. By Steef-Jan Wiggers",
+          "published": "Sat, 10 Oct 2026 07:12:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Nvidia-Logo lockt Diebe: Statt Chips erbeuten sie 18 Tonnen Sand",
+          "link": "https://t3n.de/news/nvidia-logo-diebe-18-tonnen-sand-1765669/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Diebe hatten es auf teure Nvidia-Grafikkarten abgesehen, standen am Ende aber mit leeren Händen da. Denn statt Hardware fanden sie nur Sand. Wie es dazu gekommen ist. weiterlesen auf t3n.de",
+          "published": "Sat, 10 Oct 2026 12:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anstatt Gmail und Outlook: Diese europäischen Mail-Anbieter schützen deine Privatsphäre",
+          "link": "https://t3n.de/news/gmail-outlook-alternativen-europa-mailanbieter-1738872/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Willst du möglichst privat mit anderen per Mail kommunizieren? Dann solltest du eher auf Provider wie Gmail und Outlook verzichten und stattdessen eine dieser e weiterlesen auf t3n.de",
+          "published": "Sat, 10 Oct 2026 10:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Gehirnscan zu Bild: KI rekonstruiert, was Menschen gerade sehen",
+          "link": "https://t3n.de/news/ki-gehirnscan-bilder-rekonstruieren-1766379/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine Forschergruppe hat einen Decoder fürs Gehirn entwickelt. Dazu trainierten sie ein KI-Modell mit Daten von Proband:innen, die in einem MRT-Scanner lagen und weiterlesen auf t3n.de",
+          "published": "Sat, 10 Oct 2026 09:40:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KW 41: Die Woche, in der es um Spionage und Landesverrat ging.",
+          "link": "https://netzpolitik.org/2026/kw-41-die-woche-in-der-es-um-spionage-und-landesverrat-ging/",
+          "summary": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 41. Kalenderwoche geht zu Ende. Wir haben 15 neue Texte mit insgesamt 137.103 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 10 Oct 2026 07:02:46 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Statt nur DB Navigator: Mit diesen drei Webseiten findest du günstigere und zuverlässigere Bahnverbindungen",
+          "link": "https://t3n.de/news/db-navigator-alternativen-bahnsparer-delay-bahn-railcation-1766291/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Vielen reicht beim Planen einer Reise mit der Deutschen Bahn der DB Navigator als Standard-App völlig aus. Dabei gibt es mittlerweile spezialisierte Anwendungen und Tools, die deine Zugverbindungen optimieren und die Reiseplanung deutlich entspannter machen. weiterlesen auf t3n.de",
+          "published": "Sat, 10 Oct 2026 08:25:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "One UI 9: Wer das neue Samsung-Update jetzt bekommt – und wer sich gedulden muss",
+          "link": "https://t3n.de/news/one-ui-9-samsung-update-galaxy-rollout-1763943/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Samsung hat den Rollout für das Update auf One UI 9 und damit entsprechend auf Android 17 für erste Galaxy-Smartphones gestartet. Die Aktualisierung bringt neue KI-Funktionen über Galaxy AI mit sich. Welche Geräte schon dabei sind und wer sich noch etwas gedulden muss. weiterlesen auf t3n.de",
+          "published": "Sat, 10 Oct 2026 06:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Frequenz-Deal für Starlink: SpaceX will hybrides Mobilfunknetz aufbauen",
+          "link": "https://t3n.de/news/spacex-mobilfunknetz-starlink-frequenz-deal-1767630/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Elon Musks Raumfahrtunternehmen rüstet massiv auf und wildert im Revier etablierter Telekommunikationskonzerne. Mit dem Erwerb spezieller Funklizenzen soll ein technisches Problem gelöst werden, das bisher den Empfang in Innenräumen verhinderte. weiterlesen auf t3n.de",
+          "published": "Fri, 9 Oct 2026 21:57:33 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Volkswagen's replacement for the ID.4 crossover is here",
+          "link": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
+          "summary": "The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
+          "published": "Fri, 09 Oct 2026 10:00:59 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(8 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Nvidia-Logo lockt Diebe: Statt Chips erbeuten sie 18 Tonnen Sand",
+        "Anstatt Gmail und Outlook: Diese europäischen Mail-Anbieter schützen deine Privatsphäre",
+        "Gehirnscan zu Bild: KI rekonstruiert, was Menschen gerade sehen"
+      ]
+    }
+  ]
+}
