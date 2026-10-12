@@ -1,0 +1,264 @@
+{
+  "date": "2026-10-12",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AWS Strands Box: KI-Agenten an die kurze Leine nehmen",
+          "link": "https://www.heise.de/news/AWS-Strands-Box-KI-Agenten-an-die-kurze-Leine-nehmen-11482058.html",
+          "summary": "Ein Agent darf Logs lesen, aber keine Infrastruktur ändern? Strands Box verbindet eine Sandbox mit Regeln, die auch frühere Aktionen berücksichtigen.",
+          "published": "2026-10-09T08:46:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Satellitennetz Guowang: Videogespräch zwischen Arktis und Antarkis",
+          "link": "https://www.golem.de/news/satellitennetz-guowang-videogespraech-zwischen-arktis-und-antarkis-2610-214000.html",
+          "summary": "Die chinesische Starlink-Alternative hat mit der Verbindung von Pol zu Pol ihre Fähigkeiten gezeigt. Der Weg zum globalen Netz ist aber noch weit. ( China , Überwachung )",
+          "published": "2026-10-12T13:16:01+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Decart: Amazon verhandelt KI-Übernahme für sieben Milliarden US-Dollar",
+          "link": "https://www.golem.de/news/decart-amazon-verhandelt-ki-uebernahme-fuer-sieben-milliarden-us-dollar-2610-213988.html",
+          "summary": "Für Amazon/AWS löst Decart das Problem, dass Unternehmen ihre Modelle nur schwer von Nvidia-Hardware zu AWS-Chips verlagern können. ( AWS , KI )",
+          "published": "2026-10-12T11:16:10+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Strukturierter Parteivortrag: Wie Hubig die KI-Flut an Gerichten eindämmen will",
+          "link": "https://www.golem.de/news/strukturierter-parteivortrag-wie-hubig-ki-flut-an-gerichten-eindaemmen-will-2610-213967.html",
+          "summary": "Vor allem an Sozialgerichten kämpfen Richter mit KI-generierten Schriftsätzen von mehreren Hundert Seiten. Dagegen will die Justizministerin vorgehen. Ein Bericht von Friedhelm Greis ( KI , Politik )",
+          "published": "2026-10-11T14:11:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AWS Strands Box: KI-Agenten an die kurze Leine nehmen",
+        "Satellitennetz Guowang: Videogespräch zwischen Arktis und Antarkis",
+        "Decart: Amazon verhandelt KI-Übernahme für sieben Milliarden US-Dollar"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: Grails 8, Open Liberty, GlassFish, Infinispan, LangChain4j, Spock",
+          "link": "https://www.infoq.com/news/2026/10/java-news-roundup-oct05-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for October 5th, 2026, features news highlighting: OpenJDK JEPs Proposed to Target for JDK 28; Lazy Constants elevated to Candidate status; the GA releases of Apache Grails 8.0 and Open Liberty 20.0.0.10; point releases of TornadoVM, Infinispan, LangChain4j and Spock; and a maintenance release of GlassFish. By Michael Redlich",
+          "published": "Mon, 12 Oct 2026 10:10:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Java News Roundup: Grails 8, Open Liberty, GlassFish, Infinispan, LangChain4j, Spock"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Cyberkriminelle behaupten Datenleck bei Confluent, Deloitte, KFC und MoneyGram",
+          "link": "https://www.heise.de/news/Cyberkriminelle-behaupten-Datenleck-bei-Confluent-Deloitte-KFC-und-MoneyGram-11484301.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine Cybergang behauptet, bei Confluent, Deloitte, KFC und MoneyGram Daten kopiert zu haben. Daten von Air Canada und FTAPI hat sie veröffentlicht.",
+          "published": "2026-10-12T14:24:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: Webinar-Zweiteiler: Maßgeschneiderte Verteidigung mit Wazuh",
+          "link": "https://www.heise.de/news/Webinar-Zweiteiler-Massgeschneiderte-Verteidigung-mit-Wazuh-11481854.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Wazuh ist ein beliebtes Opensource-SIEM und -XDR. Im zweiteiligen Webinar lernen Sie alles über Installation, Anpassung und Eigenbetrieb der Software.",
+          "published": "2026-10-12T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "OpenCourant: Der Fork, den Siemens nicht stoppen kann",
+          "link": "https://www.heise.de/news/OpenCourant-Der-Fork-den-Siemens-nicht-stoppen-kann-11477542.html",
+          "summary": "Nach der Einstellung von OpenRadioss führt ein neuer Fork den Simulationssolver unter dem Namen OpenCourant fort.",
+          "published": "2026-10-06T10:32:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Dringendes Update: Citrix warnt vor kritischer Lücke in Netscaler",
+          "link": "https://www.golem.de/news/dringendes-update-citrix-warnt-vor-kritischer-luecke-in-netscaler-2610-213995.html",
+          "summary": "Die Schwachstelle erlaubt eine Remotecodeausführung. Netscaler ADP und Netscaler Gateway sind auch anfällig für Denial-of-Service. ( Sicherheitslücke , Citrix )",
+          "published": "2026-10-12T12:29:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Cyberkriminelle behaupten Datenleck bei Confluent, Deloitte, KFC und MoneyGram",
+        "heise-Angebot: Webinar-Zweiteiler: Maßgeschneiderte Verteidigung mit Wazuh",
+        "OpenCourant: Der Fork, den Siemens nicht stoppen kann"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Defekte Geräte: Mit dieser beliebten Ausrede kommen Händler nicht mehr durch",
+          "link": "https://t3n.de/news/defekte-geraete-mit-dieser-beliebten-ausrede-kommen-haendler-nicht-mehr-durch-1767768/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer ein nicht funktionierendes Gerät reklamiert, wird vom Händler gerne an den Hersteller verwiesen. Doch das ist so nicht in Ordnung, wie ein Urteil gegen Mediamarkt beweist. Kund:innen können sich damit jetzt besser gegen solche Praktiken wehren. weiterlesen auf t3n.de",
+          "published": "Mon, 12 Oct 2026 13:30:24 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI: Bundesregierung lässt Mistral fallen",
+          "link": "https://www.golem.de/news/ki-bundesregierung-laesst-mistral-fallen-2610-213963.html",
+          "summary": "Der geplante KI-Rahmenvertrag zwischen Deuschland, Mistral und SAP ist vorerst vom Tisch. ( Bundesregierung , KI )",
+          "published": "2026-10-11T13:41:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Defekte Geräte: Mit dieser beliebten Ausrede kommen Händler nicht mehr durch",
+        "KI: Bundesregierung lässt Mistral fallen"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Agil und strukturiert: eine Umgebung für KI-gestütztes Lernen",
+          "link": "https://www.heise.de/hintergrund/Agil-und-strukturiert-eine-Umgebung-fuer-KI-gestuetztes-Lernen-11480376.html",
+          "summary": "KI hilft beim Einstieg in fremde Fachgebiete, irrt dabei aber unbemerkt. Wie sieht ein agiler Lernprozess aus, der davor schützt?",
+          "published": "2026-10-10T06:00:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Komplett neu in Rust: Mold 3.0 wirft C++ über Bord",
+          "link": "https://www.heise.de/news/Komplett-neu-in-Rust-Mold-3-0-wirft-C-ueber-Bord-11479469.html",
+          "summary": "Mit Version 3.0 wechselt der schnelle Linker Mold von C++ zu Rust. Das nächste Ziel steht schon fest: Mold soll Standard-Linker in Linux-Distributionen werden.",
+          "published": "2026-10-07T13:05:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Agil und strukturiert: eine Umgebung für KI-gestütztes Lernen",
+        "Komplett neu in Rust: Mold 3.0 wirft C++ über Bord"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Entwickler lassen GPT, Claude und Grok einen Toyota fahren: So lief der Test",
+          "link": "https://t3n.de/news/gpt-claude-grok-steuern-toyota-1767731/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Drei Entwickler haben die großen Sprachmodelle GPT, Claude und Grok ans Steuer eines echten Fahrzeugs gelassen. Tatsächlich gelang es allen drei KI-Systemen, das Auto zu steuern. Aber nur ein Modell absolvierte den Test-Parcours zu 100 Prozent. weiterlesen auf t3n.de",
+          "published": "Mon, 12 Oct 2026 14:30:09 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "GitLab 19.4 Adds Goal-Driven Agents and Tighter Cost Controls",
+          "link": "https://www.infoq.com/news/2026/10/gitlab-19-4-goal-driven-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "GitLab has released version 19.4 of its DevSecOps platform, adding a goal-driven mode to GitLab Duo CLI, three hosted open-weight models, a larger set of Model Context Protocol (MCP) tools, and more detailed controls for AI spending. By Matt Saunders",
+          "published": "Mon, 12 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Xcode 27.2 Introduces an Agent- and Merge-Friendly JSON Format for Project Configuration",
+          "link": "https://www.infoq.com/news/2026/10/xcode-json-project-format/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Apple is introducing a new JSON-based format for Xcode project configuration files, replacing the traditional property-list-based format. Available in Xcode 27.2, the new format aims to improve readability, simplify maintenance, and make project configuration easier for AI coding agents to understand and modify. By Sergio De Simone",
+          "published": "Mon, 12 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Plan der Bundesnetzagentur: So teuer könnten Pakete und Briefe bald werden",
+          "link": "https://t3n.de/news/bundesnetzagentur-briefe-pakete-porto-erhoehung-1767742/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Porto steigt – mal wieder. Beschlossene Sache ist das zwar nicht, aber so gut wie sicher: Ein Behördenpapier weist den Weg. Erstmals springt das Standardbrief-Porto auf mehr als einen Euro. weiterlesen auf t3n.de",
+          "published": "Mon, 12 Oct 2026 10:41:44 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Weniger Demo, mehr Daten: Was Unternehmen nach dem KI-Hype wirklich beschäftigt",
+          "link": "https://t3n.de/news/weniger-demo-mehr-daten-was-unternehmen-nach-dem-ki-hype-wirklich-beschaeftigt-1765690/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Chatbots, Copiloten und beeindruckende Demos gibt es inzwischen genug. 2026 wollen Unternehmen vor allem wissen, welche KI-Anwendungen im Arbeitsalltag funktionieren und sich rechnen. Drei Entwicklungen machen deutlich, wohin sich die Diskussion verschiebt. weiterlesen auf t3n.de",
+          "published": "Mon, 12 Oct 2026 09:00:08 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Entwickler lassen GPT, Claude und Grok einen Toyota fahren: So lief der Test",
+        "GitLab 19.4 Adds Goal-Driven Agents and Tighter Cost Controls",
+        "Xcode 27.2 Introduces an Agent- and Merge-Friendly JSON Format for Project Configuration"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
+          "link": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
+          "summary": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known films: There's Always Vanilla, which I'll admit I've never seen, and Season of the Witch, or, as it [&#8230;]",
+          "published": "2026-10-11T11:15:00-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(1 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Article: When Should You Use Liquid Clustering? Benchmarking Lakehouse Layout Strategies",
+          "link": "https://www.infoq.com/articles/liquid-clustering-lakehouse-layout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Physical data layout is one of the most consequential decisions in lakehouse engineering. The author compares Liquid Clustering, ZOrdering, and partitioning across four workload types on Delta Lake, uncovering two undocumented failure modes that likely affect production systems today and offering a decision framework for choosing the right layout strategy. By Kushal Kumar Vishwakarma",
+          "published": "Mon, 12 Oct 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "„Hat ein flaches Gesäß“: Was Amazons App in einem versteckten Menü über Kunden verrät",
+          "link": "https://t3n.de/news/amazon-app-kunden-daten-1767308/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "&#8222;Hat ein flaches Gesäß&#8220;, attestierte die Amazon-App einer US-Kundin in einem etwas versteckten Menü. Diese Erkenntnis teilte sie in einem sozialen Netzwerk mit. Die Antworten anderer Nutzer ließen nicht lange auf sich warten. weiterlesen auf t3n.de",
+          "published": "Mon, 12 Oct 2026 12:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Physiker finden mathematische Formel: Wann lokale KI-Modelle plötzlich gefährlich werden",
+          "link": "https://t3n.de/news/mathematische-formel-kipppunkt-ki-1767244/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Modelle für künstliche Intelligenz können unvermittelt von sicheren zu gefährlichen Ausgaben wechseln. Eine neue mathematische Formel soll helfen, diesen kritischen Kipppunkt frühzeitig zu erkennen. weiterlesen auf t3n.de",
+          "published": "Mon, 12 Oct 2026 11:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Comeback für die Ente: Citroën bringt Autoklassiker als Stromer zurück",
+          "link": "https://t3n.de/news/ente-citroen-e-auto-1767722/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Auf dem Pariser Autosalon 2026 hat Citroën mit dem 2CV Concept das Comeback der legendären Ente in E-Auto-Form vorgestellt. Der Stromer soll zu einem Einstiegspreis von rund 15.000 Euro auf den Markt kommen – allerdings erst 2028. weiterlesen auf t3n.de",
+          "published": "Mon, 12 Oct 2026 10:00:19 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Zweites Leben: Dieses Startup tritt mit gebrauchten E-Auto-Akkus gegen Chinas Marktmacht an",
+          "link": "https://t3n.de/news/zoelle-stromausfaelle-rechenzentren-dieses-startup-sieht-in-gebrauchten-e-auto-batterien-die-loesung-1767574/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Vier kanadische Mechatronik-Absolventen zerlegten einst in einem Schuppen Nissan-Leaf-Batterien. Heute betreiben sie die größte Anlage zur Batterieumrüstung wel weiterlesen auf t3n.de",
+          "published": "Mon, 12 Oct 2026 08:30:19 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Article: When Should You Use Liquid Clustering? Benchmarking Lakehouse Layout Strategies",
+        "„Hat ein flaches Gesäß“: Was Amazons App in einem versteckten Menü über Kunden verrät",
+        "Physiker finden mathematische Formel: Wann lokale KI-Modelle plötzlich gefährlich werden"
+      ]
+    }
+  ]
+}
