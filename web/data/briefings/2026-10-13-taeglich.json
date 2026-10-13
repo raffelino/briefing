@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-13",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "GPUs on Kubernetes are bring-your-own-everything, starting with the bill",
+          "link": "https://thenewstack.io/gpus-on-kubernetes/",
+          "summary": "If you run a Kubernetes platform, you&#8217;ve probably got at least one Grafana dashboard for resource visibility on your workloads. The post GPUs on Kubernetes are bring-your-own-everything, starting with the bill appeared first on The New Stack .",
+          "published": "Mon, 12 Oct 2026 20:48:01 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Software Testing: Ein Lasttest ohne Risikofrage ist verschwendete Lebenszeit",
+          "link": "https://www.heise.de/blog/Software-Testing-Ein-Lasttest-ohne-Risikofrage-ist-verschwendete-Lebenszeit-11485475.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Richard Seidl spricht mit Stephan Schwarz über Lasttests in Kubernetes und warum alles mit sauberen Requests und Limits für Container beginnt.",
+          "published": "2026-10-13T09:58:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Software Testing: Ein Lasttest ohne Risikofrage ist verschwendete Lebenszeit",
+          "link": "https://www.heise.de/blog/Software-Testing-Ein-Lasttest-ohne-Risikofrage-ist-verschwendete-Lebenszeit-11485475.html",
+          "summary": "Richard Seidl spricht mit Stephan Schwarz über Lasttests in Kubernetes und warum alles mit sauberen Requests und Limits für Container beginnt.",
+          "published": "2026-10-13T07:58:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "AWS Strands Box: KI-Agenten an die kurze Leine nehmen",
+          "link": "https://www.heise.de/news/AWS-Strands-Box-KI-Agenten-an-die-kurze-Leine-nehmen-11482058.html",
+          "summary": "Ein Agent darf Logs lesen, aber keine Infrastruktur ändern? Strands Box verbindet eine Sandbox mit Regeln, die auch frühere Aktionen berücksichtigen.",
+          "published": "2026-10-09T08:46:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Über Zero-Day-Lücke: Offenbar erster KI-Angriff auf deutsche Kommune",
+          "link": "https://www.golem.de/news/ueber-zero-day-luecke-offenbar-erster-ki-angriff-auf-deutsche-kommune-2610-214050.html",
+          "summary": "Das Ziel ist Tangerhütte in Sachsen-Anhalt. Unter anderem deutet die Geschwindigkeit der Angreifer auf den Einsatz von KI hin. ( KI , Server )",
+          "published": "2026-10-13T13:02:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "GPUs on Kubernetes are bring-your-own-everything, starting with the bill",
+        "Software Testing: Ein Lasttest ohne Risikofrage ist verschwendete Lebenszeit",
+        "Software Testing: Ein Lasttest ohne Risikofrage ist verschwendete Lebenszeit"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: Grails 8, Open Liberty, GlassFish, Infinispan, LangChain4j, Spock",
+          "link": "https://www.infoq.com/news/2026/10/java-news-roundup-oct05-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for October 5th, 2026, features news highlighting: OpenJDK JEPs Proposed to Target for JDK 28; Lazy Constants elevated to Candidate status; the GA releases of Apache Grails 8.0 and Open Liberty 20.0.0.10; point releases of TornadoVM, Infinispan, LangChain4j and Spock; and a maintenance release of GlassFish. By Michael Redlich",
+          "published": "Mon, 12 Oct 2026 10:10:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Datenbanken mit Java, KI und MCP steuern: Googles MCP Toolbox",
+          "link": "https://www.heise.de/news/Datenbanken-mit-Java-KI-und-MCP-steuern-Googles-MCP-Toolbox-11483877.html",
+          "summary": "Java-Entwickler können mit der Google-Toolbox ihre Datenbanken per KI über MCP ansprechen – derzeit noch mit Einschränkungen.",
+          "published": "2026-10-12T13:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Java News Roundup: Grails 8, Open Liberty, GlassFish, Infinispan, LangChain4j, Spock",
+        "Datenbanken mit Java, KI und MCP steuern: Googles MCP Toolbox"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Sicherheitslücke: DoS-Attacken auf IBM SPSS Modeler möglich",
+          "link": "https://www.heise.de/news/Sicherheitsluecke-DoS-Attacken-auf-IBM-SPSS-Modeler-moeglich-11485855.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Zwei Schwachstellen in Apache OpenNLP bedrohen die Data-Mining-Software IBM SPSS Modeler.",
+          "published": "2026-10-13T11:40:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Sicherheitslücke mit maximalem Schweregrad bedroht GitLab",
+          "link": "https://www.heise.de/news/24-Sicherheitsluecken-in-GitLab-geschlossen-11485669.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Angreifer können an mehreren Schwachstellen in GitLab Community Edition und Enterprise Edition ansetzen.",
+          "published": "2026-10-13T11:03:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Sicherheitslücke in Reisebuchungssystem: Passagierdaten waren betroffen",
+          "link": "https://www.heise.de/news/Sicherheitsluecke-in-Reisebuchungssystem-Passagierdaten-waren-betroffen-11479912.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein Datenleck bei Amadeus legte Passagierdaten offen. Über einen ungeschützten Heap-Dump waren Zugangsdaten im Klartext einsehbar.",
+          "published": "2026-10-13T08:08:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "OpenCourant: Der Fork, den Siemens nicht stoppen kann",
+          "link": "https://www.heise.de/news/OpenCourant-Der-Fork-den-Siemens-nicht-stoppen-kann-11477542.html",
+          "summary": "Nach der Einstellung von OpenRadioss führt ein neuer Fork den Simulationssolver unter dem Namen OpenCourant fort.",
+          "published": "2026-10-06T10:32:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Warnung des BSI: Hacker nehmen Firewall von Sonicwall ins Visier",
+          "link": "https://www.golem.de/news/warnung-des-bsi-hacker-nehmen-firewall-von-sonicwall-ins-visier-2610-214040.html",
+          "summary": "Die Schwachstelle ist besonders schwerwiegend, weil sie Zugriffe aus der Ferne erlaubt - ohne Authentifizierung. ( Firewall , Server )",
+          "published": "2026-10-13T10:36:01+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Sicherheitslücke: DoS-Attacken auf IBM SPSS Modeler möglich",
+        "Sicherheitslücke mit maximalem Schweregrad bedroht GitLab",
+        "Sicherheitslücke in Reisebuchungssystem: Passagierdaten waren betroffen"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Gesichtersuchmaschine PimEyes: Ein Verbot, das niemand durchsetzt",
+          "link": "https://netzpolitik.org/2026/gesichtersuchmaschine-pimeyes-ein-verbot-das-niemand-durchsetzt/",
+          "summary": "Darf sich ein Unternehmen die biometrischen Daten eines Gesichtes einfach nehmen und in einer Datenbank speichern? – CC-BY 4.0 : Comuzi Seit mehr als einem Jahr verbietet die EU bestimmte Formen biometrischer Gesichtsdatenbanken. Doch die Suchmaschine PimEyes macht einfach weiter. Die zuständige Bundesnetzagentur hält sich bedeckt – und die Bundesregierung laviert gar um das Verbot herum.",
+          "published": "Tue, 13 Oct 2026 12:21:01 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(1 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Gesichtersuchmaschine PimEyes: Ein Verbot, das niemand durchsetzt"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Maus und Tastatur mit mehreren PCs teilen: So geht’s unter Windows, Mac und Linux",
+          "link": "https://t3n.de/news/maus-tastatur-mehrere-pcs-teilen-windows-mac-linux-1766390/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hast du mehrere Windows-PCs oder Macs, die du mit einer Tastatur und einer Maus betreiben willst? Das geht dank dieser Hard- und Softwarelösungen mit wenigen Ha weiterlesen auf t3n.de",
+          "published": "Tue, 13 Oct 2026 07:30:48 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Luxus-SUV mit Kühlschrank: Xpeng G9L startet in Deutschland",
+          "link": "https://t3n.de/news/e-suv-xpeng-g9l-deutschland-1767876/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der chinesische Autobauer Xpeng hat auf dem Pariser Automobilsalon mit dem G9L ein Luxus-SUV vorgestellt, das eine Reichweite von bis zu knapp 600 Kilometer haben soll. Der Xpeng G9L soll im Dezember 2026 in Deutschland ausgeliefert werden. weiterlesen auf t3n.de",
+          "published": "Mon, 12 Oct 2026 21:06:33 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Agil und strukturiert: eine Umgebung für KI-gestütztes Lernen",
+          "link": "https://www.heise.de/hintergrund/Agil-und-strukturiert-eine-Umgebung-fuer-KI-gestuetztes-Lernen-11480376.html",
+          "summary": "KI hilft beim Einstieg in fremde Fachgebiete, irrt dabei aber unbemerkt. Wie sieht ein agiler Lernprozess aus, der davor schützt?",
+          "published": "2026-10-10T06:00:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Komplett neu in Rust: Mold 3.0 wirft C++ über Bord",
+          "link": "https://www.heise.de/news/Komplett-neu-in-Rust-Mold-3-0-wirft-C-ueber-Bord-11479469.html",
+          "summary": "Mit Version 3.0 wechselt der schnelle Linker Mold von C++ zu Rust. Das nächste Ziel steht schon fest: Mold soll Standard-Linker in Linux-Distributionen werden.",
+          "published": "2026-10-07T13:05:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Photoshop geklont: Kann Adobe einpacken?",
+          "link": "https://www.golem.de/news/photoshop-geklont-kann-adobe-einpacken-2610-214045.html",
+          "summary": "Wir haben uns zwei Photoshop-Klone auf MacOS, Windows und Linux angesehen und sind beeindruckt, aber nicht überzeugt. Ein Hands-on von Martin Wolf ( Creative Cloud , Adobe )",
+          "published": "2026-10-13T14:00:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Maus und Tastatur mit mehreren PCs teilen: So geht’s unter Windows, Mac und Linux",
+        "Luxus-SUV mit Kühlschrank: Xpeng G9L startet in Deutschland",
+        "Agil und strukturiert: eine Umgebung für KI-gestütztes Lernen"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Production Patterns for Agents, Evals, and LLM Costs: QCon AI New York 2026",
+          "link": "https://www.infoq.com/news/2026/10/qcon-ai-newyork-2026-sessionsv2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Once AI is in production, code arrives faster than it can be reviewed, token costs rise, evals have to be good enough to act on, and agents need permissions and guardrails. QCon AI New York 2026 (December 15-16) has confirmed sessions from engineers sharing how they handle these constraints. By Artenisa Chatziou",
+          "published": "Tue, 13 Oct 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "So skalierst du dein E-Commerce-Business durch smarte Daten-Logistik",
+          "link": "https://t3n.de/news/so-skalierst-du-dein-e-commerce-business-durch-smarte-daten-logistik-1757982/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer ein E-Commerce-Business erfolgreich skalieren will, stößt früher oder später auf dasselbe strukturelle Problem: Modernes Fulfillment ist heute kein reines Platzproblem mehr, sondern eine Herausforderung der Datenverarbeitung. weiterlesen auf t3n.de",
+          "published": "Tue, 13 Oct 2026 13:30:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: How Eve Online Leverages Head Based Sampling to Observe \"Fun\"",
+          "link": "https://www.infoq.com/presentations/eve-observability-head-sampling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Nicholas Herring shares how EVE Online tackles distributed tracing and observability across a 20-year-old MMO architecture. He discusses leveraging head-based, dynamic exponential moving average (EMA), and deterministic sampling techniques to maintain high system fidelity, control telemetry costs, and avoid performance degradation under high-throughput real-time game simulations. By Nicholas Herring",
+          "published": "Tue, 13 Oct 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Anthropic warnt: KI-Modelle könnten sich bald selbst auf Smart-Home-Geräten ausbreiten",
+          "link": "https://t3n.de/news/anthropic-warnt-ki-modelle-koennten-sich-bald-selbst-auf-smart-home-geraeten-ausbreiten-1767921/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Anthropic-Forscher:innen zufolge seien KI-Modelle nur wenige Monate davon entfernt, sich selbst zu replizieren. Dann könnten sie sich wie ein „digitaler Schleimpilz“ auf IoT-Geräten verbreiten. weiterlesen auf t3n.de",
+          "published": "Tue, 13 Oct 2026 12:30:41 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Werbeindustrie liest mit: KI-Chatbots schicken Inhalte aus Gesprächen an Tracking-Firmen",
+          "link": "https://netzpolitik.org/2026/werbeindustrie-liest-mit-ki-chatbots-schicken-inhalte-aus-gespraechen-an-tracking-firmen/",
+          "summary": "Wer erfährt, worüber ich mit meiner KI spreche? (Symbolbild) – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Solen Feyissa Sechs von neun untersuchten KI-Chatbots übermitteln laut einer Studie Gesprächsinformationen an Tracking- und Werbedienste. Betroffen sind auch bekannte Angebote wie ChatGPT, Claude und Gemini.",
+          "published": "Tue, 13 Oct 2026 09:48:26 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Production Patterns for Agents, Evals, and LLM Costs: QCon AI New York 2026",
+        "So skalierst du dein E-Commerce-Business durch smarte Daten-Logistik",
+        "Presentation: How Eve Online Leverages Head Based Sampling to Observe \"Fun\""
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Cray-1: Museum baut Supercomputer aus den 70ern nach – aus 30 alten Mac Minis",
+          "link": "https://t3n.de/news/cray-1-supercomputer-mac-minis-1767899/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein spanisches Computermuseum hat mit dem Cray-1 einen Supercomputer aus den 1970er-Jahren nachgebaut. Basis sind 30 ausgediente Mac Minis, die zusammen ein Vielfaches der ursprünglichen Rechenleistung erbringen. weiterlesen auf t3n.de",
+          "published": "Tue, 13 Oct 2026 10:33:31 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anzeige: Microsoft 365 DSGVO-konform betreiben",
+          "link": "https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-2610-213231.html",
+          "summary": "Microsoft 365 DSGVO-konform zu betreiben erfordert technische und organisatorische Maßnahmen. Die Golem Karrierewelt vermittelt die relevanten Werkzeuge und Anforderungen. ( Golem Karrierewelt , Datenschutz )",
+          "published": "2026-10-13T12:08:03+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Wordcraft: KI-geschriebene Software kopiert Microsoft Office",
+          "link": "https://www.golem.de/news/wordcraft-ki-geschriebene-software-kopiert-microsoft-office-2610-214035.html",
+          "summary": "Mittels Vibecoding, KI und Rust entstehen aktuell viele Klone von teils teurer kommerzieller Software. Nun ist Office 365 dran. ( Microsoft 365 , KI )",
+          "published": "2026-10-13T09:14:07+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Collaborative Combat Aircraft: Valkyrie - Europas unbemanntes Kampfflugzeug im Erstflug",
+          "link": "https://www.golem.de/news/collaborative-combat-aircraft-valkyrie-europas-unbemanntes-kampfflugzeug-im-erstflug-2610-214032.html",
+          "summary": "Airbus und Kratos haben am 12. Oktober den ersten europäischen Flug der U740 Valkyrie absolviert. Der Zeitplan für eine kampffähige Drohne bis 2029 steht. ( Airbus , Politik )",
+          "published": "2026-10-13T08:16:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Cray-1: Museum baut Supercomputer aus den 70ern nach – aus 30 alten Mac Minis",
+        "Anzeige: Microsoft 365 DSGVO-konform betreiben",
+        "Wordcraft: KI-geschriebene Software kopiert Microsoft Office"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Spotify More Than Doubled Monthly Code Changes as AI Accelerated Development",
+          "link": "https://www.infoq.com/news/2026/10/spotify-ai-quality-controls/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Spotify reports that AI-assisted development more than doubled monthly merged changes, prompting a review of quality and reliability controls across its engineering organization. The company describes changes to testing, observability, rollback capacity, workload prioritization, and automated maintenance as it adapts to higher software change volume. By Leela Kumili",
+          "published": "Mon, 12 Oct 2026 13:57:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Spotify More Than Doubled Monthly Code Changes as AI Accelerated Development"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Der Kampf um die Riester-Millionen: Warum die Banken jetzt mit Gratisdepots locken",
+          "link": "https://t3n.de/news/der-kampf-um-die-riester-millionen-warum-die-banken-jetzt-mit-gratisdepots-locken-1767853/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Für Banken und Neobroker könnte das neue Altersvorsorgedepot zu einem der größten Neukundenmagneten in den kommenden Jahren werden. Für die Versicherungswirtsch weiterlesen auf t3n.de",
+          "published": "Tue, 13 Oct 2026 14:00:32 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Microsoft-Präsident Brad Smith : KI wird lascher kontrolliert als Milch",
+          "link": "https://t3n.de/news/microsoft-ki-kontrolle-milch-1767917/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nach Microsoft-Mitgründer Bill Gates und CEO Satya Nadella hat jetzt auch der Präsident des Softwarekonzerns Brad Smith nachdrücklich vor den potenziellen Gefahren von KI gewarnt. Jede Milch im Supermarkt werde strenger reguliert, so Smith. weiterlesen auf t3n.de",
+          "published": "Tue, 13 Oct 2026 13:00:23 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Fitbit Edge: Googles neuer Fitnesstracker kommt mit Bildschirm – was er noch kann",
+          "link": "https://t3n.de/news/google-neuer-fitnesstracker-fitbit-edge-1767919/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google hat seinen neuen Fitnesstracker Fitbit Edge vorgestellt. Er misst nicht nur eure Trainingsdaten, sondern kann noch mehr. weiterlesen auf t3n.de",
+          "published": "Tue, 13 Oct 2026 12:00:17 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nach Update auf One UI 9: Samsung-Smartphones starten nicht mehr – so behebst du das Problem",
+          "link": "https://t3n.de/news/update-one-ui-9-samsung-probleme-start-1767903/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mehrere Samsung-User:innen berichten von Problemen nach dem Update auf One UI 9. Statt neuer Features bringt die Aktualisierung zunächst Startprobleme für Galaxy-Geräte mit sich. Doch es gibt einen Workaround. weiterlesen auf t3n.de",
+          "published": "Tue, 13 Oct 2026 11:00:28 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+          "link": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
+          "summary": "As of Friday, state health officials reported 1,136 cases across 41 counties.",
+          "published": "Mon, 12 Oct 2026 21:54:35 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Der Kampf um die Riester-Millionen: Warum die Banken jetzt mit Gratisdepots locken",
+        "Microsoft-Präsident Brad Smith : KI wird lascher kontrolliert als Milch",
+        "Fitbit Edge: Googles neuer Fitnesstracker kommt mit Bildschirm – was er noch kann"
+      ]
+    }
+  ]
+}
