@@ -1,0 +1,325 @@
+{
+  "date": "2026-10-14",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AWS Reworks EventBridge Custom Buses for Enterprise-Scale Event-Driven Architectures",
+          "link": "https://www.infoq.com/news/2026/10/aws-eventbridge-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has introduced an enhanced Custom Event Bus for Amazon EventBridge, targeting a problem that often emerges when event-driven architectures move beyond a single team or AWS account: the event infrastructure itself becomes fragmented. By Craig Risi",
+          "published": "Tue, 13 Oct 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "„Passwort“ Folge 68: Alte Exploits in neuen Appliances",
+          "link": "https://www.heise.de/news/Passwort-Folge-68-Alte-Exploits-in-neuen-Appliances-11482528.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Hosts fragen sich ob vieler altbekannter Bugs, ob sie versehentlich in die Neunziger zurückgereist sind. Immerhin gibt's echte PKI-Neuigkeiten.",
+          "published": "2026-10-14T09:02:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Software Testing: Ein Lasttest ohne Risikofrage ist verschwendete Lebenszeit",
+          "link": "https://www.heise.de/blog/Software-Testing-Ein-Lasttest-ohne-Risikofrage-ist-verschwendete-Lebenszeit-11485475.html",
+          "summary": "Richard Seidl spricht mit Stephan Schwarz über Lasttests in Kubernetes und warum alles mit sauberen Requests und Limits für Container beginnt.",
+          "published": "2026-10-13T07:58:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "AWS Strands Box: KI-Agenten an die kurze Leine nehmen",
+          "link": "https://www.heise.de/news/AWS-Strands-Box-KI-Agenten-an-die-kurze-Leine-nehmen-11482058.html",
+          "summary": "Ein Agent darf Logs lesen, aber keine Infrastruktur ändern? Strands Box verbindet eine Sandbox mit Regeln, die auch frühere Aktionen berücksichtigen.",
+          "published": "2026-10-09T08:46:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Über Zero-Day-Lücke: Offenbar erster KI-Angriff auf deutsche Kommune",
+          "link": "https://www.golem.de/news/ueber-zero-day-luecke-offenbar-erster-ki-angriff-auf-deutsche-kommune-2610-214050.html",
+          "summary": "Das Ziel ist Tangerhütte in Sachsen-Anhalt. Unter anderem deutet die Geschwindigkeit der Angreifer auf den Einsatz von KI hin. ( KI , Server )",
+          "published": "2026-10-13T13:02:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AWS Reworks EventBridge Custom Buses for Enterprise-Scale Event-Driven Architectures",
+        "„Passwort“ Folge 68: Alte Exploits in neuen Appliances",
+        "Software Testing: Ein Lasttest ohne Risikofrage ist verschwendete Lebenszeit"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Cloudflares Newly Acquired Vite+ Reaches 1.0 with GitLab CI Support, Hooks, and tsup Migration",
+          "link": "https://www.infoq.com/news/2026/10/cloudflare-viteplus-stable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "VoidZero has launched Vite+ 1.0, the first stable version of its JavaScript toolchain. It features a command line tool for managing Node.js, package management, and frontend development from a single configuration file. Enhancements include CI integration for GitLab and Docker support. Future updates are planned, focusing on stability and diagnostics. By Daniel Curtis",
+          "published": "Wed, 14 Oct 2026 06:15:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Datenbanken mit Java, KI und MCP steuern: Googles MCP Toolbox",
+          "link": "https://www.heise.de/news/Datenbanken-mit-Java-KI-und-MCP-steuern-Googles-MCP-Toolbox-11483877.html",
+          "summary": "Java-Entwickler können mit der Google-Toolbox ihre Datenbanken per KI über MCP ansprechen – derzeit noch mit Einschränkungen.",
+          "published": "2026-10-12T13:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Cloudflares Newly Acquired Vite+ Reaches 1.0 with GitLab CI Support, Hooks, and tsup Migration",
+        "Datenbanken mit Java, KI und MCP steuern: Googles MCP Toolbox"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Datenleck bei Autohäusern: So erkennst du gefälschte Zahlungsaufforderungen",
+          "link": "https://t3n.de/news/datenleck-bei-autohaeusern-so-erkennst-du-gefaelschte-zahlungsaufforderungen-1768121/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Autokäufer könnten sich nun Betrugsversuchen gegenübersehen, die besonders schwierig zu erkennen sind. Vor allem Häuser mit Marken eines Konzerns nutzen das System und könnten betroffen sein. weiterlesen auf t3n.de",
+          "published": "Wed, 14 Oct 2026 09:10:46 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "ZCS Command Injection via SNMP Handlers Enables Unauthenticated Remote Code Execution",
+          "link": "https://www.infoq.com/news/2026/10/zimbra-command-injection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "A critical remote command execution vulnerability in the Zimbra Collaboration Suite, identified as CVE-2026-73570, poses risks by allowing unauthorized access to mailbox data and credentials. This flaw, stemming from improper input sanitization, has been actively exploited. Organizations are advised to upgrade to version 10.1.20 or disable susceptible SNMP services to mitigate risks. By Olimpiu Pop",
+          "published": "Tue, 13 Oct 2026 13:13:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise-Angebot: c’t-Workshop: Threat Modeling – Sicherheitslücken finden, bevor Angreifer es tun",
+          "link": "https://www.heise.de/news/c-t-Workshop-Sicherheit-von-Anfang-an-Threat-Modeling-fuer-Entwicklungsteams-11483897.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Welche Risiken stecken in einer geplanten Architektur? Im Workshop lernen Sie, die wichtigen Fragen zu formulieren, bevor Änderungen später teuer werden.",
+          "published": "2026-10-14T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Active Directory hacken und schützen",
+          "link": "https://www.heise.de/news/iX-Workshop-Active-Directory-hacken-und-schuetzen-11472837.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Werden Sie selbst zum Hacker und lernen, wie Angreifer gezielt Schwachstellen in Active Directory ausnutzen, um Server und Domänencontroller zu kompromittieren.",
+          "published": "2026-10-14T08:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "BSI gemahnt auch Betreiber kleiner vernetzter Anlagen",
+          "link": "https://www.heise.de/news/BSI-gemahnt-auch-Betreiber-kleiner-vernetzter-Anlagen-11487069.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Nach dem Angriff auf die Kühlsystemsteuerung französischer Supermärkte warnt Deutschlands IT-Sicherheitsbehörde vor vergleichbaren Attacken.",
+          "published": "2026-10-13T22:23:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Datenleck bei Autohäusern: So erkennst du gefälschte Zahlungsaufforderungen",
+        "ZCS Command Injection via SNMP Handlers Enables Unauthenticated Remote Code Execution",
+        "heise-Angebot: c’t-Workshop: Threat Modeling – Sicherheitslücken finden, bevor Angreifer es tun"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Typographic Intelligence: Warum Designsysteme nicht mehr ausreichen",
+          "link": "https://t3n.de/news/typographic-intelligence-warum-designsysteme-nicht-mehr-ausreichen-1761122/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI beschleunigt kreative Prozesse und ermöglicht immer mehr Output in immer kürzerer Zeit. Doch damit entsteht ein neuer Engpass: die fundierte Entscheidung. Moderne Markenführung braucht Systeme, die nicht nur Gestaltung skalieren, sondern auch Expertise und menschliche Urteilskraft fest in kreative Prozesse integrieren. weiterlesen auf t3n.de",
+          "published": "Wed, 14 Oct 2026 09:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Gesichtersuchmaschine PimEyes: Ein Verbot, das niemand durchsetzt",
+          "link": "https://netzpolitik.org/2026/gesichtersuchmaschine-pimeyes-ein-verbot-das-niemand-durchsetzt/",
+          "summary": "Darf sich ein Unternehmen die biometrischen Daten eines Gesichtes einfach nehmen und in einer Datenbank speichern? – CC-BY 4.0 : Comuzi Seit mehr als einem Jahr verbietet die EU bestimmte Formen biometrischer Gesichtsdatenbanken. Doch die Suchmaschine PimEyes macht einfach weiter. Die zuständige Bundesnetzagentur hält sich bedeckt – und die Bundesregierung laviert gar um das Verbot herum.",
+          "published": "Tue, 13 Oct 2026 12:21:01 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Baden-Württemberg: Grün-Schwarz will Datenschutzbehörde verkleinern",
+          "link": "https://www.heise.de/news/Baden-Wuerttemberg-Gruen-Schwarz-will-Datenschutzbehoerde-verkleinern-11486963.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die grün-schwarze Landesregierung in Baden-Württemberg will dem Datenschutzbeauftragten des Landes im nächsten Haushalt 40 Prozent der Stellen streichen.",
+          "published": "2026-10-13T20:11:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "KI für Ermittlungsbehörden: Software soll Wohnungen und Häuser über Innenraumfotos orten",
+          "link": "https://www.golem.de/news/ki-fuer-ermittlungsbehoerden-software-soll-wohnungen-und-haeuser-ueber-innenraumfotos-orten-2610-214067.html",
+          "summary": "Für die Zuordnung der Wohnadresse soll der KI ein einzelnes Bild ausreichen. ( KI , Politik )",
+          "published": "2026-10-13T17:43:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Typographic Intelligence: Warum Designsysteme nicht mehr ausreichen",
+        "Gesichtersuchmaschine PimEyes: Ein Verbot, das niemand durchsetzt",
+        "Baden-Württemberg: Grün-Schwarz will Datenschutzbehörde verkleinern"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Agil und strukturiert: eine Umgebung für KI-gestütztes Lernen",
+          "link": "https://www.heise.de/hintergrund/Agil-und-strukturiert-eine-Umgebung-fuer-KI-gestuetztes-Lernen-11480376.html",
+          "summary": "KI hilft beim Einstieg in fremde Fachgebiete, irrt dabei aber unbemerkt. Wie sieht ein agiler Lernprozess aus, der davor schützt?",
+          "published": "2026-10-10T06:00:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Garmin Marq 3: Luxus-Sportuhren kosten bis zu 3.150 Euro",
+          "link": "https://www.golem.de/news/garmin-marq-3-luxus-sportuhren-kosten-bis-zu-3-150-euro-2610-214064.html",
+          "summary": "Titan, Keramik und edle Armbänder: Garmin stellt sechs Luxusuhren vor, die technisch viel mit der Fenix 9 Pro gemeinsam haben. ( Garmin Fenix , Garmin )",
+          "published": "2026-10-13T17:27:05+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Photoshop geklont: Kann Adobe einpacken?",
+          "link": "https://www.golem.de/news/photoshop-geklont-kann-adobe-einpacken-2610-214045.html",
+          "summary": "Wir haben uns zwei Photoshop-Klone auf MacOS, Windows und Linux angesehen und sind beeindruckt, aber nicht überzeugt. Ein Hands-on von Martin Wolf ( Creative Cloud , Adobe )",
+          "published": "2026-10-13T14:00:07+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Agil und strukturiert: eine Umgebung für KI-gestütztes Lernen",
+        "Garmin Marq 3: Luxus-Sportuhren kosten bis zu 3.150 Euro",
+        "Photoshop geklont: Kann Adobe einpacken?"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Vom Bankkonto zum Handyvertrag: Wie Revolut in Deutschland aufholen will",
+          "link": "https://t3n.de/news/vom-bankkonto-zum-handyvertrag-wie-revolut-in-deutschland-aufholen-will-1768120/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit einem Handytarif erschließt sich Revolut ein neues Geschäftsfeld in Deutschland. Doch um neue Kunden in Deutschland zu gewinnen, verfolgt Wachstumschef Wikt weiterlesen auf t3n.de",
+          "published": "Wed, 14 Oct 2026 11:00:48 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google Antigravity SDK Adds Local Model Support for Greater Token Efficiency and Code Privacy",
+          "link": "https://www.infoq.com/news/2026/10/antigravity-sdk-local-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google has introduced support for local models in the Antigravity SDK, enabling developers to build and execute agentic workflows directly on their own machines, while retaining the flexibility to mix in cloud-based models for higher-level tasks. This approach gives developers greater control over data privacy, inference costs, network dependencies, and computational workload distribution. By Sergio De Simone",
+          "published": "Wed, 14 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Keine Lust auf Gemini: Android-User bringen den Google Assistant über Umwege zurück",
+          "link": "https://t3n.de/news/keine-lust-auf-gemini-android-user-bringen-den-google-assistant-ueber-umwege-zurueck-1768131/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Einige Android-User:innen wollen den Google Assistant zurück haben. Da Google den Helfer aber Gemini ausgetauscht hatten, nehmen sie jetzt große Umwege in Kauf, um die alten Zeiten auf ihrem Smartphone wiederherzustellen. weiterlesen auf t3n.de",
+          "published": "Wed, 14 Oct 2026 10:00:30 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Wanze im Konferenzraum: FBI nimmt OpenAI-Mitarbeiter wegen Spionageverdachts fest",
+          "link": "https://t3n.de/news/wanze-im-konferenzraum-fbi-nimmt-openai-mitarbeiter-wegen-spionageverdachts-fest-1768113/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In einem wichtigen Konferenzraum des ChatGPT-Entwicklers OpenAI wird ein Aufnahmegerät entdeckt. Nach einer Festnahme ermittelt das FBI weiter. weiterlesen auf t3n.de",
+          "published": "Wed, 14 Oct 2026 08:30:16 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Laut Umfrage: Hacker sind nicht das größte Problem für Unternehmen – sondern die eigenen Mitarbeiter",
+          "link": "https://t3n.de/news/laut-umfrage-hacker-sind-nicht-das-groesste-problem-fuer-unternehmen-sondern-die-eigenen-mitarbeiter-1768032/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Betrug ist oft gezielt auf menschlichem Versagen aufgebaut. Sicherheitsexpert:innen sind sich dessen bewusst. Das Budget, das ihnen zur Verfügung steht, spiegelt die wachsenden Risiken allerdings nicht wider. weiterlesen auf t3n.de",
+          "published": "Wed, 14 Oct 2026 08:00:06 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Vom Bankkonto zum Handyvertrag: Wie Revolut in Deutschland aufholen will",
+        "Google Antigravity SDK Adds Local Model Support for Greater Token Efficiency and Code Privacy",
+        "Keine Lust auf Gemini: Android-User bringen den Google Assistant über Umwege zurück"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Backstage 1.55 Adds Scaffolder Task Recovery and Removes Deprecated Catalog APIs",
+          "link": "https://www.infoq.com/news/2026/10/backstage-1-55-task-recovery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Backstage 1.55 adds opt-in recovery for Software Template tasks, resuming crashed or timed-out runs from the last completed step. The release also carries breaking changes to the catalog, search and TechDocs, so teams should review their configuration before upgrading to the current 1.55.3 patch. By Mark Silvester",
+          "published": "Tue, 13 Oct 2026 17:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Anzeige: Cloud Competence Center: Governance und Roadmap planen",
+          "link": "https://www.golem.de/news/anzeige-cloud-competence-center-governance-und-roadmap-planen-2610-213969.html",
+          "summary": "Cloud Governance umfasst Prozesse, Rollen und organisatorische Veränderungen. Ein Online-Workshop zeigt, wie Unternehmen diese Themen in einer Roadmap zusammenführen. ( Golem Karrierewelt , Verschlüsselung )",
+          "published": "2026-10-13T18:45:12+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "AI Act: Apple smartes Display Homeview kommt nicht in die EU",
+          "link": "https://www.golem.de/news/ai-act-apple-smartes-display-homeview-kommt-nicht-in-die-eu-2610-214062.html",
+          "summary": "Apple kündigt Homeview an: ein 7-Zoll-Smart-Display, das Entertainment, Kommunikation und Smart Home in einem Gerät vereint. In die EU kommt es nicht. ( Smart Home , Apple )",
+          "published": "2026-10-13T16:45:03+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Backstage 1.55 Adds Scaffolder Task Recovery and Removes Deprecated Catalog APIs",
+        "Anzeige: Cloud Competence Center: Governance und Roadmap planen",
+        "AI Act: Apple smartes Display Homeview kommt nicht in die EU"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Perseverance überholt Opportunity – und stellt damit einen neuen Rekord auf",
+          "link": "https://t3n.de/news/perseverance-ueberholt-opportunity-und-stellt-damit-einen-neuen-rekord-auf-1768139/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Fünf Jahre nach seiner Landung hat der Rover mehr als 28,1 Meilen auf dem Mars zurückgelegt. Das entspricht einer Entfernung von rund 45 Kilometern und ist weiter als jedes andere Fahrzeug im Sonnensystem. weiterlesen auf t3n.de",
+          "published": "Wed, 14 Oct 2026 10:32:10 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Fichte stirbt in Wochen, Buche über Jahre: Wie der Klimawandel den deutschen Wald umkrempelt",
+          "link": "https://t3n.de/news/klimawandel-deutscher-wald-1767916/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Klimawandel betrifft mittlerweile auch andere Baumarten an anderen Standorten als lange gedacht. Sogar Buchen an ihren natürlichen Lebensräumen sind mittler weiterlesen auf t3n.de",
+          "published": "Wed, 14 Oct 2026 09:30:23 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Homeview-Hub, Thermostate und Türschloss: Apple zeigt neue Smarthome-Produkte – doch es gibt einen Haken",
+          "link": "https://t3n.de/news/smarthome-apple-homeview-hub-1768033/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Apple hat eine Reihe von neuen Smarthome-Produkten vorgestellt. Im Zentrum der Ankündigung steht dabei der neue Homeview-Hub. Was du zu den neuen Gadgets wissen musst. weiterlesen auf t3n.de",
+          "published": "Wed, 14 Oct 2026 07:15:09 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Schatten-KI in der Personalabteilung: Wie häufig Bewerbungen heimlich mit KI aussortiert werden",
+          "link": "https://t3n.de/news/schatten-ki-personalabteilung-bewerbungen-aussortiert-1768003/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Personaler:innen werden von einer unüberwindbaren Menge von KI-generierten Bewerbungen überrumpelt. Im Alltag greifen sie dabei oftmals selbst auf KI-Tools zur Bewertung zurück. Auch dann, wenn diese eigentlich nicht erlaubt sind. weiterlesen auf t3n.de",
+          "published": "Wed, 14 Oct 2026 07:00:26 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Surround-System für Apple TV: Homepod Mini 2 vorgestellt",
+          "link": "https://t3n.de/news/apple-homepod-mini-2-tv-4k-1768083/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wie erwartet, hat Apple überarbeitete Versionen von Homepod Mini und Apple TV vorgestellt. Vier Homepod Mini 2 sollen gemeinsam mit dem neuen Apple TV 4K ein Surround-System ermöglichen. Das smarte Display Homeview schafft es nicht in die EU. weiterlesen auf t3n.de",
+          "published": "Tue, 13 Oct 2026 20:56:50 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Perseverance überholt Opportunity – und stellt damit einen neuen Rekord auf",
+        "Fichte stirbt in Wochen, Buche über Jahre: Wie der Klimawandel den deutschen Wald umkrempelt",
+        "Homeview-Hub, Thermostate und Türschloss: Apple zeigt neue Smarthome-Produkte – doch es gibt einen Haken"
+      ]
+    }
+  ]
+}
