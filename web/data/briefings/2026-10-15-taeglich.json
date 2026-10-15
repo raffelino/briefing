@@ -1,0 +1,314 @@
+{
+  "date": "2026-10-15",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Länderübergreifende Recherche: Palantirs Geschäfte in Europa",
+          "link": "https://netzpolitik.org/2026/laenderuebergreifende-recherche-palantirs-geschaefte-in-europa/",
+          "summary": "Palantir steht in Europa unter Druck. – Alle Rechte vorbehalten: Rosa Snijders / Follow The Money Software von Palantir findet sich bei europäischen Streitkräften, bei Polizeien und im Gesundheitssystem. Aber viele Länder suchen nach Alternativen, sie sorgen sich um Abhängigkeiten, Sicherheit und Demokratie. Ein Recherche-Team hat untersucht, wo der Tech-Konzern in Europa Verträge mit Regierungen hat.",
+          "published": "Thu, 15 Oct 2026 06:16:01 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Where do you look when Kubernetes is healthy but requests stall?",
+          "link": "https://thenewstack.io/kubernetes-hidden-latency-telemetry/",
+          "summary": "In cloud-native operations, few scenarios are as maddening as the &#8220;phantom slowdown.&#8221; This happens when Grafana or Kubernetes dashboards show The post Where do you look when Kubernetes is healthy but requests stall? appeared first on The New Stack .",
+          "published": "Wed, 14 Oct 2026 17:43:51 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+          "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+          "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
+          "published": "Wed, 14 Oct 2026 11:00:30 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "heise-Angebot: CLC 2026: KI, Platform Engineering, Software Delivery – noch Ticket sichern",
+          "link": "https://www.heise.de/news/CLC-2026-KI-Platform-Engineering-Software-Delivery-noch-Ticket-sichern-11487286.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die CLC 2026 zeigt am 11. und 12. November KI-gestützte Softwareentwicklung, DevEx, Platform Engineering und Kubernetes-Betrieb.",
+          "published": "2026-10-15T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "EU-Gericht bestätigt  Einstufung von Stripchat als Großplattform",
+          "link": "https://www.heise.de/news/DSA-EU-Gericht-weist-Klage-von-Stripchat-gegen-Einstufung-als-Grossplattform-ab-11488595.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die EU-Kommission hat die Erotikseite Stripchat zu Recht als streng regulierte Plattform benannt. Das EU-Gericht hat die Zuverlässigkeit der Daten bestätigt.",
+          "published": "2026-10-14T18:06:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Länderübergreifende Recherche: Palantirs Geschäfte in Europa",
+        "Where do you look when Kubernetes is healthy but requests stall?",
+        "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Hype um Three.js: Warum KI-Agenten diese JavaScript-Bibliothek lieben",
+          "link": "https://t3n.de/news/three-js-ki-agenten-javascript-bibliothek-1767987/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eigentlich ist Three.js nur bei Webentwicklungsprofis bekannt. Plötzlich schreibt das Tool wöchentliche Downloadzahlen im zweistelligen Millionenbereich. Was st weiterlesen auf t3n.de",
+          "published": "Thu, 15 Oct 2026 09:30:21 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Cloudflares Newly Acquired Vite+ Reaches 1.0 with GitLab CI Support, Hooks, and tsup Migration",
+          "link": "https://www.infoq.com/news/2026/10/cloudflare-viteplus-stable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "VoidZero has launched Vite+ 1.0, the first stable version of its JavaScript toolchain. It features a command line tool for managing Node.js, package management, and frontend development from a single configuration file. Enhancements include CI integration for GitLab and Docker support. Future updates are planned, focusing on stability and diagnostics. By Daniel Curtis",
+          "published": "Wed, 14 Oct 2026 06:15:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Datenbanken mit Java, KI und MCP steuern: Googles MCP Toolbox",
+          "link": "https://www.heise.de/news/Datenbanken-mit-Java-KI-und-MCP-steuern-Googles-MCP-Toolbox-11483877.html",
+          "summary": "Java-Entwickler können mit der Google-Toolbox ihre Datenbanken per KI über MCP ansprechen – derzeit noch mit Einschränkungen.",
+          "published": "2026-10-12T13:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Hype um Three.js: Warum KI-Agenten diese JavaScript-Bibliothek lieben",
+        "Cloudflares Newly Acquired Vite+ Reaches 1.0 with GitLab CI Support, Hooks, and tsup Migration",
+        "Datenbanken mit Java, KI und MCP steuern: Googles MCP Toolbox"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Mögliches Datenleck: Notebooksbilliger meldet Cyberangriff",
+          "link": "https://www.golem.de/news/moegliches-datenleck-notebooksbilliger-meldet-cyberangriff-2610-214130.html",
+          "summary": "Unbekannte greifen offenbar auch auf Bankdaten zu - Notebooksbilliger warnt vor Betrugsversuchen mit gestohlenen Kundendaten ( Cybercrime , Security )",
+          "published": "2026-10-15T09:58:02+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Anzeige: Zero Trust: Von den Grundlagen zur Implementierung",
+          "link": "https://www.golem.de/news/anzeige-zero-trust-von-den-grundlagen-zur-implementierung-2610-214031.html",
+          "summary": "Zero Trust Security erfordert einen Plan für die Umsetzung. Ein Online-Workshop vermittelt Grundlagen und Handlungsempfehlungen für die Implementierung. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-10-14T18:45:03+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Löschung inaktiver Konten: Paypal-Warnhinweis verwirrt Nutzer",
+          "link": "https://www.golem.de/news/loeschung-inaktiver-konten-paypal-benachrichtigung-verwirrt-nutzer-2610-214115.html",
+          "summary": "Paypal-Nutzer erhalten derzeit Hinweise über die Löschung eines inaktiven Kontos. Das ist zwar kein Phishing, aber gerade deshalb verwirrend. ( Paypal , Phishing )",
+          "published": "2026-10-14T17:17:06+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+          "link": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+          "summary": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. Through an investigation with Japan's National Police Agency, it tracked scam activity back to [&#8230;]",
+          "published": "2026-10-14T16:03:43-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(4 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Mögliches Datenleck: Notebooksbilliger meldet Cyberangriff",
+        "Anzeige: Zero Trust: Von den Grundlagen zur Implementierung",
+        "Löschung inaktiver Konten: Paypal-Warnhinweis verwirrt Nutzer"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Social-Media-Verbot für Kinder unter 13 Jahren: Deutschland prescht in der EU voran",
+          "link": "https://t3n.de/news/social-media-verbot-deutschland-1768312/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Bundesregierung hat Eckpunkte für eine Stärkung des Schutzes von Kindern und Jugendlichen im Internet verabschiedet. Noch bevor ein EU-weites Social-Media-Verbot für Kinder in Kraft tritt, will Deutschland unter 13-Jährigen die Nutzung untersagen. weiterlesen auf t3n.de",
+          "published": "Wed, 14 Oct 2026 21:59:38 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Social-Media-Verbot für Jugendliche: Regierung beschließt Regulierungseckpunkte",
+          "link": "https://www.heise.de/news/Social-Media-Verbot-fuer-Jugendliche-Regierung-beschliesst-Regulierungseckpunkte-11488649.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Neben EU-Vorgaben, einer Alters-Wallet und neuen Elternpflichten setzt die Bundesregierung auf Social-Media-Beschränkungen. Gegner warnen vor Überwachung.",
+          "published": "2026-10-14T18:54:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anzeige: Von der Buchung bis zum Boarding: Geschäftsreisen effektiv planen",
+          "link": "https://www.golem.de/news/anzeige-von-der-buchung-bis-zum-boarding-geschaeftsreisen-effektiv-planen-2610-213907.html",
+          "summary": "Von der Buchung über Versicherung und Lounge bis zu Mobilität und Reisekosten: So holst du aus einer Geschäftsreise das Beste für dein Business raus. ( Reisen , Wirtschaft )",
+          "published": "2026-10-15T09:00:09+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Bundesregierung: Nationales Social-Media-Verbot für unter 13-Jährige beschlossen",
+          "link": "https://www.golem.de/news/bundesregierung-nationales-social-media-verbot-fuer-unter-13-jaehrige-beschlossen-2610-214106.html",
+          "summary": "Die Bundesregierung plant eine nationales Social-Media-Verbot für Kinder. Das dürfte einen Run auf die EUDI-Wallet hervorrufen. ( Social-Media-Verbot , Soziales Netz )",
+          "published": "2026-10-14T14:52:07+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "US-Finanzinvestor: Warburg Pincus kritisiert genaue Prüfung der PSI-Übernahme",
+          "link": "https://www.golem.de/news/us-finanzinvestor-warburg-pincus-kritisiert-genaue-pruefung-der-psi-uebernahme-2610-214101.html",
+          "summary": "US-Finanzinvestor Warburg Pincus beschwert sich, dass bei der Prüfung des Kaufs des Berliner Softwareunternehmens PSI Kunden direkt von der Bundesregierung angesprochen wurden. ( René Obermann , Wirtschaft )",
+          "published": "2026-10-14T14:21:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Social-Media-Verbot für Kinder unter 13 Jahren: Deutschland prescht in der EU voran",
+        "Social-Media-Verbot für Jugendliche: Regierung beschließt Regulierungseckpunkte",
+        "Anzeige: Von der Buchung bis zum Boarding: Geschäftsreisen effektiv planen"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race.",
+          "link": "https://thenewstack.io/torvalds-claude-code-kernel/",
+          "summary": "Linux creator and longtime lead maintainer Linus Torvalds turned to Anthropic&#8217;s Claude Code to tackle a kernel performance problem that The post Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race. appeared first on The New Stack .",
+          "published": "Wed, 14 Oct 2026 22:59:18 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Linux- und Unix-Desktop KDE feiert 30. Geburtstag",
+          "link": "https://www.heise.de/hintergrund/Linux-und-Unix-Desktop-KDE-feiert-30-Geburtstag-11487966.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Vor 30 Jahren begann die Arbeit an der Desktop-Umgebung KDE. Das Jubiläum feiert das Team mit Partys, einer größeren Spendenaktion und einem Wettbewerb.",
+          "published": "2026-10-14T16:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Agil und strukturiert: eine Umgebung für KI-gestütztes Lernen",
+          "link": "https://www.heise.de/hintergrund/Agil-und-strukturiert-eine-Umgebung-fuer-KI-gestuetztes-Lernen-11480376.html",
+          "summary": "KI hilft beim Einstieg in fremde Fachgebiete, irrt dabei aber unbemerkt. Wie sieht ein agiler Lernprozess aus, der davor schützt?",
+          "published": "2026-10-10T06:00:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Firewall und Sicherheit: Microsoft Defender kommt für Linux-Desktops",
+          "link": "https://www.golem.de/news/firewall-und-sicherheit-microsoft-defender-kommt-fuer-linux-desktops-2610-214125.html",
+          "summary": "Microsoft weitet das Security-Tool auf Linux-Systeme aus. Dabei werden die Features für Linux-Server direkt übernommen. ( Microsoft 365 , Server )",
+          "published": "2026-10-15T08:25:07+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Assisted-by-Tag: KI-Code im Linux-Kernel muss nicht mehr markiert werden",
+          "link": "https://www.golem.de/news/assisted-by-tag-ki-code-im-linux-kernel-muss-nicht-mehr-markiert-werden-2610-214123.html",
+          "summary": "Solange Entwickler ihren Code verstünden, sei die Nutzung von LLMs völlig in Ordnung, sagt Linus Torvalds selbst. ( Linux , KI )",
+          "published": "2026-10-15T07:56:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race.",
+        "Linux- und Unix-Desktop KDE feiert 30. Geburtstag",
+        "Agil und strukturiert: eine Umgebung für KI-gestütztes Lernen"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Wenige Wochen vor der Premiere: KI-Agent soll ganze Staffel einer TV-Serie gelöscht haben",
+          "link": "https://t3n.de/news/wenige-wochen-vor-der-premiere-ki-agent-soll-ganze-staffel-einer-tv-serie-geloescht-haben-1768359/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eigentlich war die Ausstrahlung der zweiten Staffel von „The Challenge Sverige“ für November geplant. Jetzt muss das Rohmaterial noch einmal neu geschnitten werden. weiterlesen auf t3n.de",
+          "published": "Thu, 15 Oct 2026 11:00:46 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Article: Server-Side DPoP and Token Exchange in Spring Security 7",
+          "link": "https://www.infoq.com/articles/spring-security-7-server-side-dpop-token-exchange/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Spring Authorization Server now lives inside Spring Security 7 under the same Maven coordinates, so the upgrade is a version bump. This server-side guide covers enabling DPoP and RFC 8693 Token Exchange, explains why 7.1 apps can silently stop enforcing DPoP until they call .dPoP(), and shows how to combine both into narrowed, sender-constrained tokens for service-to-service and agentic calls. By Dhruv Agnihotri",
+          "published": "Thu, 15 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "DSP-Alternative aus Polen: So will WP Ads Agenturen das Media Buying vereinfachen",
+          "link": "https://t3n.de/news/dsp-alternative-wp-ads-media-buying-agenturen-1763444/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer international skalieren will, kennt das Problem: zu viele DSPs, zu viele Partner, zu viele Berichte, die sich widersprechen. WP Ads, die europäische Growth-Marketing-Plattform aus Polen, bietet einen anderen Ansatz und expandiert mit einem ungewöhnlich transparenten Modell in den DACH-Markt. weiterlesen auf t3n.de",
+          "published": "Thu, 15 Oct 2026 09:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Wenn das KI-Budget hochschießt: So hat der Personio-CEO Ordnung ins Agenten-Chaos gebracht",
+          "link": "https://t3n.de/news/wenn-das-ki-budget-hochschiesst-so-hat-der-personio-ceo-ordnung-ins-agenten-chaos-gebracht-1767108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein KI-Budget, das auf sechs Millionen Euro angestiegen war, und ein Wildwuchs an Hunderten von KI-Agenten: Die KI-Transformation seines Startups Personio stell weiterlesen auf t3n.de",
+          "published": "Thu, 15 Oct 2026 07:30:57 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Researchers left a hidden message for rogue AI agents. Then the agents wrote back.",
+          "link": "https://thenewstack.io/rogue-ai-agent-fleet-tencent/",
+          "summary": "A team of researchers investigating AI agents trying to bypass Alibaba&#8217;s anti-bot protections left a hidden message inviting the agents The post Researchers left a hidden message for rogue AI agents. Then the agents wrote back. appeared first on The New Stack .",
+          "published": "Wed, 14 Oct 2026 17:47:11 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Wenige Wochen vor der Premiere: KI-Agent soll ganze Staffel einer TV-Serie gelöscht haben",
+        "Article: Server-Side DPoP and Token Exchange in Spring Security 7",
+        "DSP-Alternative aus Polen: So will WP Ads Agenturen das Media Buying vereinfachen"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Whatsapp: So lädst du Freunde ohne Konto jetzt zum Videochat ein",
+          "link": "https://t3n.de/news/whatsapp-ohne-konto-videochat-1768356/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Meta führt bei seiner Messaging-App Whatsapp sogenannte Gastanrufe ein. Damit ist es möglich, auch Personen ohne Benutzer:innen-Konto zu einem Videochat einzuladen. Bis Ende 2026 soll noch eine Anbindung an Google Kalender und Outlook hinzukommen. weiterlesen auf t3n.de",
+          "published": "Thu, 15 Oct 2026 10:30:40 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Apple Watch mit Android? Diese Open-Source-App macht das jetzt möglich – aber es gibt einen Haken",
+          "link": "https://t3n.de/news/apple-watch-android-open-source-app-1768328/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Apple Watch ist primär für iPhones gedacht. Eine Verbindung zu Android ist nur über Umwege und mit starken Einschränkungen möglich. Ein Entwickler will das Ganze mit seinem quelloffenen Projekt jetzt ändern. weiterlesen auf t3n.de",
+          "published": "Thu, 15 Oct 2026 10:00:52 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "50 Grad statt Tiefkühlung: Hacker verwandeln Supermarkt-Kühlschränke in Heizöfen",
+          "link": "https://t3n.de/news/50-grad-statt-tiefkuehlung-frankreich-1767846/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hacker:innen haben sich Zugriff auf eine Reihe von Kühlschränken in Supermärkten verschafft. Sie manipulieren aus der Ferne nicht nur die Anzeigen, sondern auch die Temperaturen. Wie sie damit horrende Schäden verursachen. weiterlesen auf t3n.de",
+          "published": "Thu, 15 Oct 2026 09:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Lösen wir mit KI echte Probleme oder erfinden wir neue?",
+          "link": "https://t3n.de/news/ki-probleme-loesen-beispiele-kritische-nutzung-1768283/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Halluzinationen, Ressourcenhunger und unklare Produktivitätsgewinne: Wo hilft Künstliche Intelligenz? Im Podcast t3n MeisterPrompter gibt es ein teilweise ernüchterndes Zwischenfazit. weiterlesen auf t3n.de",
+          "published": "Thu, 15 Oct 2026 09:05:07 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Wir müssen diszipliniert sein“: Netflix-Chefs kündigen Stellenabbau per E-Mail an",
+          "link": "https://t3n.de/news/wir-muessen-diszipliniert-sein-netflix-chefs-kuendigen-stellenabbau-per-e-mail-an-1768322/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Netflix ist die klare Nummer eins beim Videostreaming, wächst jedoch langsamer als erhofft. Mit dem Duo aus Paramount und Warner entsteht zudem ein starker Rivale. Jetzt gibt es Jobabbau. weiterlesen auf t3n.de",
+          "published": "Thu, 15 Oct 2026 08:30:42 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Whatsapp: So lädst du Freunde ohne Konto jetzt zum Videochat ein",
+        "Apple Watch mit Android? Diese Open-Source-App macht das jetzt möglich – aber es gibt einen Haken",
+        "50 Grad statt Tiefkühlung: Hacker verwandeln Supermarkt-Kühlschränke in Heizöfen"
+      ]
+    }
+  ]
+}
