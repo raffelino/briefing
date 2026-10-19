@@ -1,0 +1,319 @@
+{
+  "date": "2026-10-19",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AWS Introduces Preview of Well-Architected Agent",
+          "link": "https://www.infoq.com/news/2026/10/aws-well-architected-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS recently announced the preview of the Well-Architected Agent, a service that analyzes environments against Well-Architected best practices and provides prioritized recommendations across cost, security, performance, and reliability. The AI agent can also suggest remediation steps and review infrastructure-as-code before deployment. By Renato Losio",
+          "published": "Sun, 18 Oct 2026 14:29:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Scale isn’t one number: three ways a Kubernetes control plane runs out of room",
+          "link": "https://thenewstack.io/scaling-kubernetes-control-planes/",
+          "summary": "Three clusters in trouble, and they look nothing alike. The first is a training fleet. It sat at a few The post Scale isn&#8217;t one number: three ways a Kubernetes control plane runs out of room appeared first on The New Stack .",
+          "published": "Sun, 18 Oct 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS Will Run Its European Sovereign Cloud Without the Global Backbone for Several Hours",
+          "link": "https://www.infoq.com/news/2026/10/aws-sovereign-cloud-exercise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "On October 24, AWS will operate its European Sovereign Cloud without a connection to the AWS Global Network backbone, with a team of EU residents and the region’s own hardware and software. AWS says neither of the two systems being severed is operation-critical, and practitioners are divided over whether the exercise answers the question customers are asking. By Steef-Jan Wiggers",
+          "published": "Sun, 18 Oct 2026 05:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise+ | Leapmotor B03X im Test: Kompaktes Platzwunder mit Eingewöhnungsbedarf",
+          "link": "https://www.heise.de/tests/Leapmotor-B03X-im-Test-Liebmotor-fuer-wenig-Geld-aber-ungewohnte-Bedienung-11488947.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Der Leapmotor B03X verbindet Wendigkeit mit viel Platz auf rund 4,3 Metern. Er fährt auch gut. Aber man muss die Autobedienung neu lernen.",
+          "published": "2026-10-19T07:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Musks geopolitischer Hebel: Gedrosseltes Starlink rüttelt Europa auf",
+          "link": "https://www.heise.de/news/Musks-geopolitischer-Hebel-Gedrosseltes-Starlink-ruettelt-Europa-auf-11491703.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Plötzliche Tempolimits für Satellitensignale haben die ukrainische Abwehr behindert. Die EU berät über Alternativen. Die Sorge über fatale Abhängigkeit geht um.",
+          "published": "2026-10-17T19:02:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AWS Introduces Preview of Well-Architected Agent",
+        "Scale isn’t one number: three ways a Kubernetes control plane runs out of room",
+        "AWS Will Run Its European Sovereign Cloud Without the Global Backbone for Several Hours"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Datenbanken mit Java, KI und MCP steuern: Googles MCP Toolbox",
+          "link": "https://www.heise.de/news/Datenbanken-mit-Java-KI-und-MCP-steuern-Googles-MCP-Toolbox-11483877.html",
+          "summary": "Java-Entwickler können mit der Google-Toolbox ihre Datenbanken per KI über MCP ansprechen – derzeit noch mit Einschränkungen.",
+          "published": "2026-10-12T13:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Datenbanken mit Java, KI und MCP steuern: Googles MCP Toolbox"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: IT-Security im KI-Zeitalter: der secIT-Thementag am 2. Dezember",
+          "link": "https://www.heise.de/news/IT-Security-im-KI-Zeitalter-der-secIT-Thementag-am-2-Dezember-11490487.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Neue Waffen für Angreifer und Verteidiger, neue Bedrohungen durch agentische Cyberangriffe: der secIT-Thementag zeigt, wie KI die IT-Sicherheit verändert.",
+          "published": "2026-10-18T13:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Phishing-Angriff auf Merz und viele andere: CDU-Mailkonto in Heilbronn gehackt",
+          "link": "https://www.heise.de/news/Phishing-Angriff-auf-Merz-und-viele-andere-CDU-Mailkonto-in-Heilbronn-gehackt-11491677.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Hacker dringen in das E-Mail-Konto der Heilbronner CDU ein und verschicken von dort Tausende Phishing-Nachrichten – auch an den Bundeskanzler Friedrich Merz.",
+          "published": "2026-10-17T18:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "25 Jahre Luigi's Mansion: Als der grüne Klempner aus dem Schatten von Mario trat",
+          "link": "https://www.golem.de/news/25-jahre-luigi-s-mansion-als-der-gruene-klempner-aus-dem-schatten-von-mario-trat-2610-213779.html",
+          "summary": "In Luigi's Mansion von September 2001 war endlich Luigi der Star. Lohnt sich das famos animierte Nintendo-Abenteuer auch heute noch? Von Sönke Siemens und Benedikt Plass-Fleßenkämper ( Retrogaming , IBM )",
+          "published": "2026-10-18T07:30:11+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: IT-Security im KI-Zeitalter: der secIT-Thementag am 2. Dezember",
+        "Phishing-Angriff auf Merz und viele andere: CDU-Mailkonto in Heilbronn gehackt",
+        "25 Jahre Luigi's Mansion: Als der grüne Klempner aus dem Schatten von Mario trat"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Buildkite Adds Scoped Secrets and New Agentic CI Tools",
+          "link": "https://www.infoq.com/news/2026/10/buildkite-ci-secrets-agentic/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Continuous integration provider Buildkite has introduced pipeline-scoped secrets and new Model Context Protocol tools for validating pipelines, diagnosing failed builds and repairing webhooks. The company has also added Linux arm64 support to its GitHub Actions compatibility layer and expanded OpenTelemetry data in Buildkite Agent v4.1.0. By Matt Saunders",
+          "published": "Mon, 19 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Bundesrat will Verfassungsschutz Zugriff auf Fahrerlaubnisregister geben",
+          "link": "https://www.heise.de/news/Bundesrat-will-Verfassungsschutz-Zugriff-auf-Fahrerlaubnisregister-geben-11491799.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Bundesrat will den Verfassungsschutzbehörden direkten Zugriff auf das Fahrerlaubnisregister ermöglichen, um Gefährdungsanalysen zu verbessern.",
+          "published": "2026-10-18T13:12:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Buildkite Adds Scoped Secrets and New Agentic CI Tools",
+        "Bundesrat will Verfassungsschutz Zugriff auf Fahrerlaubnisregister geben"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "PwnEscape: Kritische Lücke in Linux-Kernel erlaubt VM-Ausbruch",
+          "link": "https://www.heise.de/news/PwnEscape-Kritische-Luecke-in-Linux-Kernel-erlaubt-VM-Ausbruch-11492131.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Fehler steckt im Netzwerkbereich von Linux und ist, so die Entdecker, Teil einer neuartigen Klasse von Sicherheitslücken. Auch Cloud-Hoster sind betroffen.",
+          "published": "2026-10-19T11:03:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | All Systems Go!: Wie Systemd Image-basierte Linux-Systeme vorantreibt",
+          "link": "https://www.heise.de/hintergrund/All-Systems-Go-Wie-Systemd-Image-basierte-Linux-Systeme-vorantreibt-11482750.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Auf der Konferenz „All Systems Go!“ wurden sichere und Image-basierte Linux-Systeme diskutiert. Im Zentrum steht das systemd-Projekt.",
+          "published": "2026-10-18T11:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Missing Link: Barrierefreiheit mit Bluetooth – wie weit ist Auracast wirklich?",
+          "link": "https://www.heise.de/hintergrund/Missing-Link-Barrierefreiheit-mit-Bluetooth-wie-weit-ist-Auracast-wirklich-11490616.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Auracast verbreitet sich zunehmend, auch als Hörhilfe – doch Bedienung, Latenz und Hürden bei der Entwicklung bremsen die Technik noch.",
+          "published": "2026-10-18T07:48:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux-Kernel: Maintainer wollen „Assisted-by“-Tag streichen",
+          "link": "https://www.heise.de/news/Linux-Kennzeichnung-von-KI-Code-soll-entfallen-auch-Torvalds-nutzt-LLMs-11490345.html",
+          "summary": "Kernel-Maintainer wollen die Kennzeichnung für KI-Patches abschaffen, weil nur wenige sie setzen. Auch Linus Torvalds programmiert inzwischen mit KI.",
+          "published": "2026-10-16T10:57:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Agil und strukturiert: eine Umgebung für KI-gestütztes Lernen",
+          "link": "https://www.heise.de/hintergrund/Agil-und-strukturiert-eine-Umgebung-fuer-KI-gestuetztes-Lernen-11480376.html",
+          "summary": "KI hilft beim Einstieg in fremde Fachgebiete, irrt dabei aber unbemerkt. Wie sieht ein agiler Lernprozess aus, der davor schützt?",
+          "published": "2026-10-10T06:00:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "PwnEscape: Kritische Lücke in Linux-Kernel erlaubt VM-Ausbruch",
+        "heise+ | All Systems Go!: Wie Systemd Image-basierte Linux-Systeme vorantreibt",
+        "Missing Link: Barrierefreiheit mit Bluetooth – wie weit ist Auracast wirklich?"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "EmbeddingGemma 2 Expands Beyond Text to Support Code, Images, Video, and Audio",
+          "link": "https://www.infoq.com/news/2026/10/embeddinggemma-2-multimodal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Based on Gemma 4 and released under the Apache 2.0 license, Google's EmbeddingGemma 2 is a compact, open-weight, multimodal embedding model designed to make semantic search and retrieval-augmented generation (RAG) more efficient while optimizing performance for on-device deployment. By Sergio De Simone",
+          "published": "Mon, 19 Oct 2026 10:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Chatten mit abtrünnigen KI-Agenten aus China: Was die Modelle über sich verraten",
+          "link": "https://t3n.de/news/chatten-abtruennige-ki-agenten-china-1768796/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Was passiert, wenn abtrünnige KI-Agenten im Netz entdeckt und zum Gespräch eingeladen werden? Das haben Wissenschaftler:innen jetzt bei chinesischen Modellen herausgefunden. Was ihnen die KI-Gesprächspartner verraten haben. weiterlesen auf t3n.de",
+          "published": "Mon, 19 Oct 2026 11:00:51 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Linke, Grüne und SPD: Was außer Vergesellschaftung im Berliner Sondierungspapier steht",
+          "link": "https://netzpolitik.org/2026/linke-gruene-und-spd-was-ausser-vergesellschaftung-im-berliner-sondierungspapier-steht/",
+          "summary": "Graf, Eralp und Krach bei der Pressekonferenz zum Abschluss der Sondierungen. – Alle Rechte vorbehalten: IMAGO / Anadolu Agency Neben Ideen für die Berliner Wohnungspolitik haben sich Linke, Grüne und SPD auch auf einen groben Kurs bei Polizei, Verfassungsschutz und Verwaltungsdigitalisierung geeinigt. Wichtige Fragen sind aber noch offen.",
+          "published": "Mon, 19 Oct 2026 07:13:24 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Anthropic gives outside AI watchdog “employee-like” access",
+          "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+          "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+          "published": "Sun, 18 Oct 2026 16:25:19 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Geheimnis gelüftet: So hat eine KI Napoleons verschlüsselten Brief gelesen",
+          "link": "https://t3n.de/news/napoleon-brief-ki-entschluesselt-geheimcode-1766406/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine KI hat einen verschlüsselten Brief von Napoleon Bonaparte nach 217 Jahren geknackt. Ein Entwickler ließ GPT-6 Astra sechs Stunden lang rechnen. So ging das Model von OpenAI vor. weiterlesen auf t3n.de",
+          "published": "Sun, 18 Oct 2026 18:15:00 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "EmbeddingGemma 2 Expands Beyond Text to Support Code, Images, Video, and Audio",
+        "Chatten mit abtrünnigen KI-Agenten aus China: Was die Modelle über sich verraten",
+        "Linke, Grüne und SPD: Was außer Vergesellschaftung im Berliner Sondierungspapier steht"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop: NIS-2-Richtlinie im Unternehmen umsetzen",
+          "link": "https://www.heise.de/news/iX-Workshop-NIS-2-Richtlinie-im-Unternehmen-umsetzen-11473169.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Erfahren Sie, welche NIS-2-Pflichten für Ihr Unternehmen gelten – und wie Sie passende Sicherheitsmaßnahmen für Ihre IT gezielt planen und umsetzen.",
+          "published": "2026-10-18T10:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Collaborative Combat Aircraft: F-22-Pilot übernimmt erstmals Steuerung der Fury-Kampfdrohne",
+          "link": "https://www.golem.de/news/collaborative-combat-aircraft-f-22-pilot-uebernimmt-erstmals-steuerung-der-fury-kampfdrohne-2610-214217.html",
+          "summary": "Ein F-22-Pilot hat erstmals im Flug Befehle an eine Kampfdrohne gegeben. Das zeigt, wie eng bemannte Jets und autonome Systeme zusammenrücken. ( Militär , Politik )",
+          "published": "2026-10-17T14:52:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: iX-Workshop: NIS-2-Richtlinie im Unternehmen umsetzen",
+        "Collaborative Combat Aircraft: F-22-Pilot übernimmt erstmals Steuerung der Fury-Kampfdrohne"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "NestJS 12: ESM Packages, Standard Schema Validation and Native Observability",
+          "link": "https://www.infoq.com/news/2026/10/nestjs-12-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "NestJS version 12 has been released, transitioning core packages to ESM and adding Standard Schema validation. It updates the CLI and introduces an observability SDK. Key changes include project generation choices between CJS and ESM, improved validation options, and lifecycle project hooks. Users will need Node.js 20.19+ or 22.12+. Migration guides are available for upgrading. By Daniel Curtis",
+          "published": "Mon, 19 Oct 2026 06:31:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "The best gadget I bought this year is a milk frother",
+          "link": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+          "summary": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I unexpectedly found myself obsessed with was their [&#8230;]",
+          "published": "2026-10-18T09:00:00-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(2 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "NestJS 12: ESM Packages, Standard Schema Validation and Native Observability",
+        "The best gadget I bought this year is a milk frother"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Loud Working: Mit diesen 6 Tipps nutzt du den Arbeitstrend, ohne als Selbstdarsteller zu gelten",
+          "link": "https://t3n.de/news/loud-working-mit-diesen-6-tipps-nutzt-du-den-arbeitstrend-ohne-als-selbstdarsteller-zu-gelten-1767857/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die eigene Arbeit gekonnt zur Schau zu stellen, benötigt mehr Fingerspitzengefühl und Sendungsbewusstsein, als der neue Arbeitstrend „Loud Working“ zunächst ver weiterlesen auf t3n.de",
+          "published": "Mon, 19 Oct 2026 11:30:37 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Verifizierung per Iris-Scan: So will Sam Altmans World Zoom-Meetings vor Deepfakes schützen",
+          "link": "https://t3n.de/news/verifizierung-per-iris-scan-so-will-sam-altmans-world-zoom-meetings-vor-deepfakes-schuetzen-1768810/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wie erkennt man, ob eine Person im Video-Call echt ist? World ID soll die Antwort mithilfe eines neuen Verifizierungsverfahrens liefern. Auch Banken führen das Tool ein, um die Sicherheit zu erhöhen. weiterlesen auf t3n.de",
+          "published": "Mon, 19 Oct 2026 10:15:38 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": ".NET 11 Release Candidate 2: Go-Live License and Updates Across Libraries, F#, MAUI, and WinForms",
+          "link": "https://www.infoq.com/news/2026/10/dotnet-11-rc-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has released .NET 11 Release Candidate 2 under a go-live license, supported in Visual Studio 2026 Insiders. The release adds incremental CBOR reading, experimental post-quantum cryptography APIs, file-based app directive improvements, NuGet package cooldowns, F# runtime async building blocks, a C# UI option for .NET MAUI, and refined Windows Forms visual styles. By Almir Vuk",
+          "published": "Mon, 19 Oct 2026 08:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Sparkassen starten Kryptohandel – und warnen Kunden davor",
+          "link": "https://t3n.de/news/sparkassen-kryptohandel-bitcoin-warnung-1768795/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Wettbewerb im Kryptohandel nimmt zu: Nun wollen auch die Sparkassen mit einem eigenen Angebot Privatkunden ansprechen. Sie rollen schrittweise ein neues Angebot aus. Was steckt dahinter? weiterlesen auf t3n.de",
+          "published": "Mon, 19 Oct 2026 08:15:21 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "5 Dinge, die du diese Woche wissen musst: Steigert KI wirklich unsere Produktivität?",
+          "link": "https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-steigert-ki-wirklich-unsere-produktivitaet-1768546/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um eine Studie zur Produktivitätssteigerung durch KI, kleine Atomreaktoren, einen Raketenstart mit ungewöhnlichen Folgen, Hardware-Reklamationen und Kopien von Adobe-Tools. weiterlesen auf t3n.de",
+          "published": "Mon, 19 Oct 2026 08:00:58 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Loud Working: Mit diesen 6 Tipps nutzt du den Arbeitstrend, ohne als Selbstdarsteller zu gelten",
+        "Verifizierung per Iris-Scan: So will Sam Altmans World Zoom-Meetings vor Deepfakes schützen",
+        ".NET 11 Release Candidate 2: Go-Live License and Updates Across Libraries, F#, MAUI, and WinForms"
+      ]
+    }
+  ]
+}
