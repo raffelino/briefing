@@ -1,0 +1,314 @@
+{
+  "date": "2026-10-20",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Lokale KI ohne Cloud: Dieses Gratis-Tool vereint Chatbot, Websuche und Dokumentenwissen",
+          "link": "https://t3n.de/news/anything-llm-lokale-ki-rag-agent-1768974/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Agentische Fähigkeiten, Websuche und integrierter Wissensspeicher: Anything LLM ist ein Allrounder für den lokalen KI‑Einsatz. Wir haben uns angeschaut, wie sic weiterlesen auf t3n.de",
+          "published": "Tue, 20 Oct 2026 11:15:19 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+          "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+          "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+          "published": "Mon, 19 Oct 2026 14:45:43 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Software Testing: Ein Lasttest ohne Risikofrage ist verschwendete Lebenszeit",
+          "link": "https://www.heise.de/blog/Software-Testing-Ein-Lasttest-ohne-Risikofrage-ist-verschwendete-Lebenszeit-11485475.html",
+          "summary": "Richard Seidl spricht mit Stephan Schwarz über Lasttests in Kubernetes und warum alles mit sauberen Requests und Limits für Container beginnt.",
+          "published": "2026-10-13T07:58:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Lokale KI ohne Cloud: Dieses Gratis-Tool vereint Chatbot, Websuche und Dokumentenwissen",
+        "Disney found a way to buy Character.AI without buying its lawsuits",
+        "Software Testing: Ein Lasttest ohne Risikofrage ist verschwendete Lebenszeit"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: JEPs for JDK 28, Azul Payara, Gatherers4j, Google ADK, Yupiik, Apache Camel CVEs",
+          "link": "https://www.infoq.com/news/2026/10/java-news-roundup-oct12-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for October 12th, 2026, features news highlighting: three OpenJDK JEPs targeted for JDK 28; the October 2026 edition of Azul Payara; point releases of Gatherers4j, Yupiik Fusion, Google ADK for Java and Google ADK for Kotlin; and 38 CVEs resolved in Apache Camel. By Michael Redlich",
+          "published": "Mon, 19 Oct 2026 20:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Article: From Microservices to Agents: the Next Evolution of Distributed Systems",
+          "link": "https://www.infoq.com/articles/distributed-systems-microservices-agentic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The article examines the transition from microservices to agentic AI architecture in distributed systems. Microservices allow for functional decomposition, while agentic systems focus on decision decomposition. This shift introduces new complexities in observability, reliability, and system design, highlighting the need for updated architectural patterns and practices. By Mallika Rao",
+          "published": "Mon, 19 Oct 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Datenbanken mit Java, KI und MCP steuern: Googles MCP Toolbox",
+          "link": "https://www.heise.de/news/Datenbanken-mit-Java-KI-und-MCP-steuern-Googles-MCP-Toolbox-11483877.html",
+          "summary": "Java-Entwickler können mit der Google-Toolbox ihre Datenbanken per KI über MCP ansprechen – derzeit noch mit Einschränkungen.",
+          "published": "2026-10-12T13:15:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Java News Roundup: JEPs for JDK 28, Azul Payara, Gatherers4j, Google ADK, Yupiik, Apache Camel CVEs",
+        "Article: From Microservices to Agents: the Next Evolution of Distributed Systems",
+        "Datenbanken mit Java, KI und MCP steuern: Googles MCP Toolbox"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Hacker übernehmen CDU-Mailkonto und verschicken 6.500 Phishing-Nachrichten – auch an Kanzler Merz",
+          "link": "https://t3n.de/news/hacker-cdu-phishing-mail-kanzler-merz-1768965/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hacker haben es auf die CDU und Kanzler Friedrich Merz abgesehen. Mit echt aussehenden Phishing-Mails wollten sie die Politiker:innen in die Falle locken. Was sie damit erreichen wollten. weiterlesen auf t3n.de",
+          "published": "Tue, 20 Oct 2026 10:45:10 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mobilfunk aus dem All: Was europäische Anbieter planen – und warum Starlink wohl außen vor bleibt",
+          "link": "https://t3n.de/news/mobilfunk-weltall-europaeische-anbieter-starlink-1768858/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Deutschlands Handynetze werden immer besser, die Unternehmen investieren Milliarden. Doch mancherorts bleibt der Mobilfunk eine Schwachstelle. Nun blicken Netzbetreiber nach oben. weiterlesen auf t3n.de",
+          "published": "Mon, 19 Oct 2026 12:30:39 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anzeige: Penetrationstests: Schwachstellen in Webanwendungen prüfen",
+          "link": "https://www.golem.de/news/anzeige-penetrationstests-schwachstellen-in-webanwendungen-pruefen-2610-214026.html",
+          "summary": "Sicherheitslücken in Webanwendungen bleiben ohne gezielte Tests leicht unentdeckt. Ein zweitägiger Workshop vermittelt den praktischen Einstieg ins Penetration Testing. ( Golem Karrierewelt , Sicherheitslücke )",
+          "published": "2026-10-20T07:15:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Hacker übernehmen CDU-Mailkonto und verschicken 6.500 Phishing-Nachrichten – auch an Kanzler Merz",
+        "Mobilfunk aus dem All: Was europäische Anbieter planen – und warum Starlink wohl außen vor bleibt",
+        "Anzeige: Penetrationstests: Schwachstellen in Webanwendungen prüfen"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Investitionsgipfel: An diesen Stellschrauben muss die Bundesregierung drehen",
+          "link": "https://t3n.de/news/investitionsgipfel-an-diesen-stellschrauben-muss-die-bundesregierung-drehen-1768907/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Bundesregierung will diese Woche für Investitionen in Deutschland werben. Doch mit großen Ankündigungen allein wird sich die Investitionsschwäche in Deutschland nicht überwinden lassen. Was sich jetzt ändern muss, damit Deutschland zu alter Form zurückfindet. weiterlesen auf t3n.de",
+          "published": "Mon, 19 Oct 2026 16:10:28 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Buildkite Adds Scoped Secrets and New Agentic CI Tools",
+          "link": "https://www.infoq.com/news/2026/10/buildkite-ci-secrets-agentic/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Continuous integration provider Buildkite has introduced pipeline-scoped secrets and new Model Context Protocol tools for validating pipelines, diagnosing failed builds and repairing webhooks. The company has also added Linux arm64 support to its GitHub Actions compatibility layer and expanded OpenTelemetry data in Buildkite Agent v4.1.0. By Matt Saunders",
+          "published": "Mon, 19 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Software Testing: ZAP als Proxy: Regressionstests werden zu Sicherheitstests",
+          "link": "https://www.heise.de/blog/Software-Testing-ZAP-als-Proxy-Regressionstests-werden-zu-Sicherheitstests-11493529.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Richard Seidl spricht mit Daniel Schmuck über Sicherheitstests in einer Bank: Das Open-Source-Tool ZAP schneidet Playwright-Tests mit und leitet Angriffe ab.",
+          "published": "2026-10-20T11:10:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Software Testing: ZAP als Proxy: Regressionstests werden zu Sicherheitstests",
+          "link": "https://www.heise.de/blog/Software-Testing-ZAP-als-Proxy-Regressionstests-werden-zu-Sicherheitstests-11493529.html",
+          "summary": "Richard Seidl spricht mit Daniel Schmuck über Sicherheitstests in einer Bank: Das Open-Source-Tool ZAP schneidet Playwright-Tests mit und leitet Angriffe ab.",
+          "published": "2026-10-20T09:10:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(4 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Investitionsgipfel: An diesen Stellschrauben muss die Bundesregierung drehen",
+        "Buildkite Adds Scoped Secrets and New Agentic CI Tools",
+        "Software Testing: ZAP als Proxy: Regressionstests werden zu Sicherheitstests"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Linux-Kernel 7.3 ist da: Korrekturen quer durch die Bank",
+          "link": "https://www.heise.de/news/Linux-Kernel-7-3-ist-da-Korrekturen-quer-durch-die-Bank-11492655.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Linus Torvalds hat den Linux-Kernel 7.3 veröffentlicht. Die Änderungen sind zahlreich. Zuletzt gab es noch Korrekturen querbeet.",
+          "published": "2026-10-19T14:23:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Linux-Kernel: Maintainer wollen „Assisted-by“-Tag streichen",
+          "link": "https://www.heise.de/news/Linux-Kennzeichnung-von-KI-Code-soll-entfallen-auch-Torvalds-nutzt-LLMs-11490345.html",
+          "summary": "Kernel-Maintainer wollen die Kennzeichnung für KI-Patches abschaffen, weil nur wenige sie setzen. Auch Linus Torvalds programmiert inzwischen mit KI.",
+          "published": "2026-10-16T10:57:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "PwnEscape: Linux-Lücke lässt Angreifer aus VMs ausbrechen",
+          "link": "https://www.golem.de/news/pwnescape-linux-luecke-laesst-angreifer-aus-vms-ausbrechen-2610-214254.html",
+          "summary": "Das Übermitteln speziell gestalteter IPv4-Pakete reicht aus, um unter Linux aus einer VM auszubrechen und Code auf dem Hostsystem auszuführen. ( Sicherheitslücke , Virtualisierung )",
+          "published": "2026-10-19T13:49:09+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Linux-Kernel 7.3 ist da: Korrekturen quer durch die Bank",
+        "Linux-Kernel: Maintainer wollen „Assisted-by“-Tag streichen",
+        "PwnEscape: Linux-Lücke lässt Angreifer aus VMs ausbrechen"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "MiniMax just halved its token prices. Your AI agent bill may not follow.",
+          "link": "https://thenewstack.io/minimax-flash-agent-costs/",
+          "summary": "MiniMax released M3.1 Flash on Monday, saying it cuts agent costs by 70 percent. Per-token prices fell by half, which The post MiniMax just halved its token prices. Your AI agent bill may not follow. appeared first on The New Stack .",
+          "published": "Mon, 19 Oct 2026 22:00:19 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+          "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+          "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+          "published": "Mon, 19 Oct 2026 20:21:53 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "One sentence changed Claude Code’s overreach rate from 0% to 17.1%",
+          "link": "https://thenewstack.io/coding-agents-overstep-scope/",
+          "summary": "Anthropic is reportedly developing a model that can infer what users want from incomplete instructions. According to The Information, a The post One sentence changed Claude Code&#8217;s overreach rate from 0% to 17.1% appeared first on The New Stack .",
+          "published": "Mon, 19 Oct 2026 18:36:02 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Neues Namenschaos bei Google Gemini: Welche Funktion künftig welche Aufgabe übernimmt",
+          "link": "https://t3n.de/news/google-gemini-umbau-skills-gems-tasks-spark-1768926/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer in seinem Google-Konto eigene Arbeitsabläufe eingerichtet hat, steht im Herbst vor einer veränderten Oberfläche. Google ändert vertraute Funktionsnamen und sortiert gewohnte Werkzeuge neu. weiterlesen auf t3n.de",
+          "published": "Mon, 19 Oct 2026 17:33:11 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Claude für alte Fernseher: So macht die KI Android-TVs wieder flott",
+          "link": "https://t3n.de/news/claude-alter-fernseher-android-tv-1768831/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Alternde Smart-TVs könnten dank KI eine neue Chance bekommen. Ein Entwickler hat einen Weg gefunden, mit dem Claude auf den Geräten ordentlich aufräumt. Wie das Ganze funktioniert. weiterlesen auf t3n.de",
+          "published": "Mon, 19 Oct 2026 15:05:44 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "MiniMax just halved its token prices. Your AI agent bill may not follow.",
+        "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+        "One sentence changed Claude Code’s overreach rate from 0% to 17.1%"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+          "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+          "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
+          "published": "Tue, 20 Oct 2026 05:59:56 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+          "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+          "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
+          "published": "Mon, 19 Oct 2026 20:54:17 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(2 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Japan launches mission to bring home a piece of the Martian moon Phobos",
+        "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "NestJS 12: ESM Packages, Standard Schema Validation and Native Observability",
+          "link": "https://www.infoq.com/news/2026/10/nestjs-12-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "NestJS version 12 has been released, transitioning core packages to ESM and adding Standard Schema validation. It updates the CLI and introduces an observability SDK. Key changes include project generation choices between CJS and ESM, improved validation options, and lifecycle project hooks. Users will need Node.js 20.19+ or 22.12+. Migration guides are available for upgrading. By Daniel Curtis",
+          "published": "Mon, 19 Oct 2026 06:31:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "NestJS 12: ESM Packages, Standard Schema Validation and Native Observability"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "KI ohne Cloud-Zwang: So ermittelst du in Sekunden das passende Modell für dein Setup",
+          "link": "https://t3n.de/news/ki-ohne-cloud-zwang-tool-1768536/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer täglich mit großen Mengen sensibler Daten jongliert, kann von einer lokalen Nutzung profitieren. Aber nicht jedes Sprachmodell funktioniert auf jedem Rechner. Ein direkter Vergleich hilft bei der Auswahl. weiterlesen auf t3n.de",
+          "published": "Tue, 20 Oct 2026 10:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Coreweave hat Milliardenschulden: Wie sich das auf die KI-Branche auswirken könnte",
+          "link": "https://t3n.de/news/coreweave-milliardenschulden-ki-branche-1768938/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das US-Unternehmen Coreweave kämpft mit Problemen. Der Aktienkurs ist eingebrochen, da die Investor:innen das Vertrauen durch enorme Schulden verloren haben. Könnte das Auswirkungen auf die ganze KI-Industrie haben? weiterlesen auf t3n.de",
+          "published": "Tue, 20 Oct 2026 09:35:17 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Abgase im Sonnenlicht: Wie SpaceX-Raketen das Phänomen der „Weltraumqualle“ erzeugen",
+          "link": "https://t3n.de/news/space-jellyfish-spacex-1768173/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "SpaceX hat mit einem Start seiner Rakete für wortwörtliches Aufsehen gesorgt. Am Himmel war kurze Zeit danach ein &#8222;Space Jellyfish&#8220; zu sehen. Wie die Weltraumqualle entstehen konnte und warum sie nicht die einzige ihrer Art ist. weiterlesen auf t3n.de",
+          "published": "Tue, 20 Oct 2026 08:55:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "35 Jahre altes Microsoft-Programm verliert Support – diese Gratis-Alternativen ersetzen es",
+          "link": "https://t3n.de/news/35-jahre-altes-microsoft-programm-verliert-support-diese-gratis-alternativen-ersetzen-es-1768945/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Microsoft hat den Support für Publisher eingestellt: Wer regelmäßig damit arbeitet, muss sich nach Alternativen umsehen. Welche Programme sich für einfache und aufwendigere Layouts eignen. weiterlesen auf t3n.de",
+          "published": "Tue, 20 Oct 2026 08:40:01 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Pinterest Uses Event Time Watermarks to Finalize Petabyte Scale Data Partitions",
+          "link": "https://www.infoq.com/news/2026/10/pinterest-event-time-partition/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Pinterest has introduced event time-based partition finalization for its database ingestion framework. The mechanism uses Apache Flink to track event time and Apache Iceberg metadata to publish a non-regressing watermark, helping downstream jobs determine when continuously ingested CDC data is sufficiently complete for processing. By Leela Kumili",
+          "published": "Mon, 19 Oct 2026 14:37:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KI ohne Cloud-Zwang: So ermittelst du in Sekunden das passende Modell für dein Setup",
+        "Coreweave hat Milliardenschulden: Wie sich das auf die KI-Branche auswirken könnte",
+        "Abgase im Sonnenlicht: Wie SpaceX-Raketen das Phänomen der „Weltraumqualle“ erzeugen"
+      ]
+    }
+  ]
+}
