@@ -1,0 +1,277 @@
+{
+  "date": "2026-10-22",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AI found flaws in the code behind 70% of the web. The fix took two months.",
+          "link": "https://thenewstack.io/ai-php2shell-disclosure-framework/",
+          "summary": "PHP powers roughly 70% of the world&#8217;s websites, according to Wiz Research, so a flaw in its core engine affects The post AI found flaws in the code behind 70% of the web. The fix took two months. appeared first on The New Stack .",
+          "published": "Wed, 21 Oct 2026 22:17:07 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+          "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+          "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+          "published": "Wed, 21 Oct 2026 18:51:42 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+          "link": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+          "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
+          "published": "Wed, 21 Oct 2026 18:20:40 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Netflix Bridges AWS IAM and Internal Identity with Workload Attestation",
+          "link": "https://www.infoq.com/news/2026/10/netflix-workload-attestation-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Netflix has developed a workload attestation mechanism for Apache Spark jobs running on Amazon EMR. The design combines AWS IAM identity with signed claims from Netflix’s control plane before issuing short-lived internal X.509 certificates, allowing managed compute workloads to authenticate to internal services without directly injecting credentials. By Leela Kumili",
+          "published": "Wed, 21 Oct 2026 13:45:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Cilium 1.20 Expands Gateway API and Opens eBPF Datapath for Kubernetes",
+          "link": "https://www.infoq.com/news/2026/10/cilium-120-kubernetes-networking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cilium 1.20 has been released with broader Kubernetes Gateway API support, an extensible eBPF datapath and further work on sidecarless mutual TLS. The release also makes the newer netkit network device easier to introduce across Kubernetes fleets that run different Linux kernel versions. By Matt Saunders",
+          "published": "Wed, 21 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AI found flaws in the code behind 70% of the web. The fix took two months.",
+        "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+        "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Wichtige PHP-Updates am 21. Oktober beheben Codeeinschleusung-Schwachstellen",
+          "link": "https://www.heise.de/news/Wichtige-PHP-Updates-am-21-Oktober-beheben-Codeeinschleusung-Schwachstellen-11495072.html",
+          "summary": "Technische Details werden um 16 Uhr folgen, doch die Lage ist ernst: Es droht Codeausführung aus der Ferne. Admins sollten das Risiko abwägen.",
+          "published": "2026-10-21T08:22:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Wichtige PHP-Updates am 21. Oktober beheben Codeeinschleusung-Schwachstellen"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "LKA Baden-Württemberg: Kritik an Gesichtserkennung bei Demo-Teilnehmenden",
+          "link": "https://netzpolitik.org/2026/lka-baden-wuerttemberg-kritik-an-gesichtserkennung-bei-demo-teilnehmenden/",
+          "summary": "Ein Foto kann unter Umständen bereits ausreichen, um von der Polizei per Gesichtserkennung identifiziert zu werden. (Symbolbild) – Alle Rechte vorbehalten: IMAGO / Shotshop Als ein Polizist gegen Palästina-Aktivist:innen ermittelte, soll er auch unbeteiligte Teilnehmer:innen einer Demo per Gesichtserkennung identifiziert haben. Die Gesellschaft für Freiheitsrechte hält das für rechtswidrig: „Die Polizei ermittelt ins Blaue hinein.“",
+          "published": "Wed, 21 Oct 2026 15:14:59 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Software Testing: ZAP als Proxy: Regressionstests werden zu Sicherheitstests",
+          "link": "https://www.heise.de/blog/Software-Testing-ZAP-als-Proxy-Regressionstests-werden-zu-Sicherheitstests-11493529.html",
+          "summary": "Richard Seidl spricht mit Daniel Schmuck über Sicherheitstests in einer Bank: Das Open-Source-Tool ZAP schneidet Playwright-Tests mit und leitet Angriffe ab.",
+          "published": "2026-10-20T09:10:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Entwicklerstudio: EA schließt Bioware und stoppt neues Mass Effect",
+          "link": "https://www.golem.de/news/entwicklerstudio-ea-schliesst-bioware-und-stoppt-neues-mass-effect-2610-214369.html",
+          "summary": "Nach mehr als 30 Jahren ist Schluss: Electronic Arts schließt das traditionsreiche Rollenspielstudio Bioware. ( Bioware , Electronic Arts )",
+          "published": "2026-10-22T00:27:10+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "LKA Baden-Württemberg: Kritik an Gesichtserkennung bei Demo-Teilnehmenden",
+        "Software Testing: ZAP als Proxy: Regressionstests werden zu Sicherheitstests",
+        "Entwicklerstudio: EA schließt Bioware und stoppt neues Mass Effect"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "php2shell: Updates trudeln ein, viele Webseiten offline, Angriffe laufen",
+          "link": "https://www.heise.de/news/php2shell-Updates-trudeln-ein-viele-Webseiten-offline-Angriffe-laufen-11496366.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Viele Linux-Distributionen liefern aktualisierte PHP-Pakete. Webseiten gingen offline. Erfolgreiche Exploits sind bislang nicht belegt.",
+          "published": "2026-10-22T09:23:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "php2shell: Updates trudeln ein, viele Webseiten offline, Angriffe laufen",
+          "link": "https://www.heise.de/news/php2shell-Updates-trudeln-ein-viele-Webseiten-offline-Angriffe-laufen-11496366.html",
+          "summary": "Viele Linux-Distributionen liefern aktualisierte PHP-Pakete. Webseiten gingen offline. Erfolgreiche Exploits sind bislang nicht belegt.",
+          "published": "2026-10-22T07:23:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Was Linux 7.3 bei Grafikspeicher, Scheduling und Dateisystemen verbessert",
+          "link": "https://www.heise.de/news/Linux-7-3-verbessert-Dateisysteme-und-Scheduling-11494072.html",
+          "summary": "Linux-Kernel 7.3 steigert die Leistung bei Scheduling, Grafik und Dateisystemen. Unterstützung für Apple Time Machine inklusive.",
+          "published": "2026-10-20T11:52:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Linux-Kernel: Maintainer wollen „Assisted-by“-Tag streichen",
+          "link": "https://www.heise.de/news/Linux-Kennzeichnung-von-KI-Code-soll-entfallen-auch-Torvalds-nutzt-LLMs-11490345.html",
+          "summary": "Kernel-Maintainer wollen die Kennzeichnung für KI-Patches abschaffen, weil nur wenige sie setzen. Auch Linus Torvalds programmiert inzwischen mit KI.",
+          "published": "2026-10-16T10:57:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Tablet von Lenovo mit 10,1'' Wuxga reduziert bei Amazon",
+          "link": "https://www.golem.de/news/anzeige-tablet-von-lenovo-mit-10-1-wuxga-reduziert-bei-amazon-2610-214360.html",
+          "summary": "Ein Tablet von Lenovo mit 10,1'' großem IPS-Display, Wuxga-Auflösung und aufstellbarer Schutzhülle gibt es zum Aktionspreis bei Amazon. ( Tablet , Lenovo )",
+          "published": "2026-10-21T14:40:02+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "php2shell: Updates trudeln ein, viele Webseiten offline, Angriffe laufen",
+        "php2shell: Updates trudeln ein, viele Webseiten offline, Angriffe laufen",
+        "Was Linux 7.3 bei Grafikspeicher, Scheduling und Dateisystemen verbessert"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Vercel Labs Open-Sources fx: A Zig Coding Agent Designed to Be Embedded",
+          "link": "https://www.infoq.com/news/2026/10/vercel-zig-fx-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Vercel Labs has released fx, an experimental open-source coding agent written in Zig. It runs as a CLI, a script component, or an embedded library, including a WebAssembly build. Early feedback questioned its model-agnostic claim and a name conflict with an existing tool. Vercel says the project is pre-1.0 and changing quickly. By Daniel Curtis",
+          "published": "Thu, 22 Oct 2026 09:33:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Article: AI Changes the Data Interface, Not the Query Engine",
+          "link": "https://www.infoq.com/articles/ai-changes-data-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This article presents a disaster-recovery analytics workflow in which an AI agent generates constrained SQL or Python, DuckDB computes reproducible facts from Parquet, and the agent interprets the results. It explains the determinism split, replayable analysis, and four signals for deciding when an embedded engine is sufficient or a managed lakehouse is justified. By Peihao Yuan",
+          "published": "Thu, 22 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Harbor Adds Docker Sandboxes to Run Reproducible AI Agent Evals in Isolated MicroVMs",
+          "link": "https://www.infoq.com/news/2026/10/ai-agents-harbor-docker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Docker announced that Harbor, the open-source agent evaluation framework, now works with Docker Sandboxes. This change allows each evaluation task to run in its own microVM. So, instead of sharing a container, tasks are isolated for better performance By Claudio Masolo",
+          "published": "Thu, 22 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Anthropic zeigt Claude Duet: Wie der KI-Assistent Muse und Dots Konkurrenz machen soll",
+          "link": "https://t3n.de/news/anthropic-claude-duet-1769375/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Anthropic will Meta mit Muse und OpenAI mit Dots Konkurrenz machen. Dafür veröffentlicht das KI-Unternehmen jetzt seinen eigenen agentischen Assistenten. Was Claude Duet leisten und für wen es gedacht ist. weiterlesen auf t3n.de",
+          "published": "Thu, 22 Oct 2026 10:07:36 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Developer Behind the AI-Built Adobe Clones Says They Are “Not Anywhere Close to Ready",
+          "link": "https://www.infoq.com/news/2026/10/photocraft-adobe-parity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "A developer used Claude Opus 5.5 to build open-source replacements for seven Adobe applications, promoted them across Reddit with a projection of roughly 100% parity within a month, then told Hacker News the project was not anywhere close to ready. Its own roadmap puts it at 45% ready for real work and 2,300 to 4,100 agent-hours from full parity. By Steef-Jan Wiggers",
+          "published": "Thu, 22 Oct 2026 07:41:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Vercel Labs Open-Sources fx: A Zig Coding Agent Designed to Be Embedded",
+        "Article: AI Changes the Data Interface, Not the Query Engine",
+        "Harbor Adds Docker Sandboxes to Run Reproducible AI Agent Evals in Isolated MicroVMs"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "The new human-crafted Apple Music brand matters in an AI world",
+          "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+          "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+          "published": "Wed, 21 Oct 2026 19:44:40 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Presentation: AI is an Amplifier: Scale High Performance, Not Dysfunction",
+          "link": "https://www.infoq.com/presentations/dora-ai-adoption-engineering-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Nathen Harvey shares insights from DORA research on AI adoption in software delivery. He explains why AI acts as an amplifier, how the DORA AI Capabilities Model drives outcomes, and why engineering leaders must evolve beyond bottlenecks like code reviews to achieve sustainable productivity, reduce delivery instability, and empower developers without burning out their teams. By Nathen Harvey",
+          "published": "Wed, 21 Oct 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Virtualisierung: Multipass mit Debian, Fedora im Image-Katalog",
+          "link": "https://www.heise.de/news/Multipass-Debian-und-Fedora-als-Cloud-Images-im-Image-Katalog-11495926.html",
+          "summary": "Canonical hat Multipass 1.17 veröffentlicht. Der VM-Manager unterstützt nun Debian- und Fedora-Cloud-Images direkt neben Ubuntu.",
+          "published": "2026-10-21T14:28:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "The new human-crafted Apple Music brand matters in an AI world",
+        "Presentation: AI is an Amplifier: Scale High Performance, Not Dysfunction",
+        "Virtualisierung: Multipass mit Debian, Fedora im Image-Katalog"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Schluss mit Spül-Pflicht: Airbnb verbietet Vermietern lästige Check-out-Aufgaben",
+          "link": "https://t3n.de/news/airbnb-check-out-regeln-1769365/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Einige Airbnb-Vermieter fordern von ihren Gästen, vor Verlassen der Unterkunft das Geschirr zu spülen und die Wäsche in die Maschine zu stecken. Die Plattform will dem nun einen Riegel vorschieben. weiterlesen auf t3n.de",
+          "published": "Thu, 22 Oct 2026 08:30:38 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "200.000 Dollar Pfand pro Satellit: Wie eine Kaution das Problem mit Weltraumschrott lösen soll",
+          "link": "https://t3n.de/news/weltraumschrott-kaution-200000-dollar-satellit-1769337/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mehr als die Hälfte aller ausgedienten Satelliten bleibt als Schrott im All zurück, weil das Aufräumen den Gewinn der Betreiber:innen schmälert. Ein Vorstoß aus der Wissenschaft will diese Rechnung nun mit einem bewährten Prinzip umdrehen. weiterlesen auf t3n.de",
+          "published": "Wed, 21 Oct 2026 17:26:56 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Deepseek: Dieses quelloffene Tool soll KI-Kosten reduzieren – für wen es gedacht ist",
+          "link": "https://t3n.de/news/deepseek-quelloffenes-tool-ki-kosten-reduzieren-1769248/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das chinesische KI‑Unternehmen Deepseek hat ein neues Open-Source-Tool veröffentlicht, um seiner Konkurrenz Druck zu machen. Damit sollen die Kosten für die KI-Nutzung spürbar reduziert werden. weiterlesen auf t3n.de",
+          "published": "Wed, 21 Oct 2026 16:00:19 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Skoda: Wie du dir jetzt Accessoires für dein Auto selbst drucken kannst",
+          "link": "https://t3n.de/news/skoda-3d-druckvorlagen-auto-1769154/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Skoda hat einige Druckvorlagen für Besitzer:innen von 3D-Druckern und Fahrzeugen des Herstellers veröffentlicht. Was mit den kostenlosen Vorlagen möglich ist, um das Auto zu verbessern. weiterlesen auf t3n.de",
+          "published": "Wed, 21 Oct 2026 13:30:50 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Spotify: Teilen des Familienabos wird komplizierter",
+          "link": "https://t3n.de/news/spotify-teilen-des-familienabos-wird-schwieriger-1769133/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Spotify will das Teilen von Familien- und Duo-Abos über den eigenen Haushalt hinaus stoppen. Künftig sollen Mitglieder per QR-Code beweisen, dass sie wirklich zusammenwohnen. weiterlesen auf t3n.de",
+          "published": "Wed, 21 Oct 2026 13:00:01 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Schluss mit Spül-Pflicht: Airbnb verbietet Vermietern lästige Check-out-Aufgaben",
+        "200.000 Dollar Pfand pro Satellit: Wie eine Kaution das Problem mit Weltraumschrott lösen soll",
+        "Deepseek: Dieses quelloffene Tool soll KI-Kosten reduzieren – für wen es gedacht ist"
+      ]
+    }
+  ]
+}
