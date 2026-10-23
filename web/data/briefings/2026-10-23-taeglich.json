@@ -1,0 +1,313 @@
+{
+  "date": "2026-10-23",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Jailbreak für die Nintendo Switch 2: So hat ein Programmierer OpenAIs Codex dafür genutzt",
+          "link": "https://t3n.de/news/jailbreak-nintendo-switch-2-openai-codex-1769559/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Entwickler hat eine erste Version eines Jailbreaks für die Nintendo Switch 2 veröffentlicht. Den Hack konnte er dank KI-Hilfe realisieren. Wie er OpenAIs Codex dafür genutzt hat und welche Probleme der Jailbreak für die Switch 2 mit sich bringt. weiterlesen auf t3n.de",
+          "published": "Fri, 23 Oct 2026 09:10:01 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Ramp built an AI agent harness in six weeks — and LangChain’s CEO says it’s part of a bigger shift",
+          "link": "https://thenewstack.io/ramp-laminar-agent-harness/",
+          "summary": "Ramp spent months testing managed agent APIs, open-source frameworks, and third-party platforms before concluding it would be better off building The post Ramp built an AI agent harness in six weeks — and LangChain&#8217;s CEO says it&#8217;s part of a bigger shift appeared first on The New Stack .",
+          "published": "Thu, 22 Oct 2026 16:31:15 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Google and AWS open new paths for PyTorch beyond Nvidia",
+          "link": "https://thenewstack.io/pytorch-tpu-trainium-migration/",
+          "summary": "At PyTorch Conference North America 2026 this week, Google open-sourced TorchTPU, a native PyTorch stack for Google TPUs, now available The post Google and AWS open new paths for PyTorch beyond Nvidia appeared first on The New Stack .",
+          "published": "Thu, 22 Oct 2026 15:23:23 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "PHP’s security scramble is just a preview: AI is digging up flaws faster than maintainers can fix them",
+          "link": "https://thenewstack.io/php2shell-ai-vulnerabilities-maintainers/",
+          "summary": "One of the biggest security scares to hit the web is causing widespread disruption, prompting businesses, hospitals, schools, and government The post PHP’s security scramble is just a preview: AI is digging up flaws faster than maintainers can fix them appeared first on The New Stack .",
+          "published": "Thu, 22 Oct 2026 14:35:13 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Google turns the infrastructure behind Gemini’s agents into a cloud service",
+          "link": "https://thenewstack.io/google-agent-compute-engine/",
+          "summary": "Google will soon make the infrastructure that powers its Gemini agents available to Google Cloud users in preview. Announced on The post Google turns the infrastructure behind Gemini’s agents into a cloud service appeared first on The New Stack .",
+          "published": "Thu, 22 Oct 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Jailbreak für die Nintendo Switch 2: So hat ein Programmierer OpenAIs Codex dafür genutzt",
+        "Ramp built an AI agent harness in six weeks — and LangChain’s CEO says it’s part of a bigger shift",
+        "Google and AWS open new paths for PyTorch beyond Nvidia"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Wichtige PHP-Updates am 21. Oktober beheben Codeeinschleusung-Schwachstellen",
+          "link": "https://www.heise.de/news/Wichtige-PHP-Updates-am-21-Oktober-beheben-Codeeinschleusung-Schwachstellen-11495072.html",
+          "summary": "Technische Details werden um 16 Uhr folgen, doch die Lage ist ernst: Es droht Codeausführung aus der Ferne. Admins sollten das Risiko abwägen.",
+          "published": "2026-10-21T08:22:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "DSA-Verfahren eingeleitet: EU untersucht Booking.com wegen Phishing und Fake-Angeboten",
+          "link": "https://www.golem.de/news/dsa-verfahren-eingeleitet-eu-untersucht-booking-com-wegen-phishing-und-fake-angeboten-2610-214414.html",
+          "summary": "Weil Betrüger über gestohlene Buchungsdaten hochgradig glaubwürdige Zahlungsaufforderungen an Reisende verschicken, fordert die EU wirksame Schutzmaßnahmen bei Booking.com. ( Booking.com , Wirtschaft )",
+          "published": "2026-10-22T19:40:06+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "IT-Sicherheit: BSI-Präsidentin droht KI-Anbietern in den USA und in China mit Haftung",
+          "link": "https://www.golem.de/news/it-sicherheit-bsi-praesidentin-droht-ki-anbietern-in-den-usa-und-in-china-mit-haftung-2610-214412.html",
+          "summary": "BSI-Präsidentin Claudia Plattner wünscht sich ein schärferes Vorgehen gegen die Sicherheitsrisiken durch KI. Sie kritisiert einen unzureichenden, laxen Umgang mit IT-Sicherheit. ( BSI , KI )",
+          "published": "2026-10-22T17:59:04+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Johannes Schätzl: SPD-Digitalpolitiker kritisiert nach PHP-Lücke das BSI",
+          "link": "https://www.golem.de/news/johannes-schaetzl-spd-digitalpolitiker-kritisiert-nach-php-luecke-das-bsi-2610-214409.html",
+          "summary": "Der Informatiker fordert eine grundlegende Neuaufstellung der deutschen Cyberabwehr. Da Angreifer Schwachstellen mithilfe von KI direkt und in Rekordzeit ausnutzen, reiche das Hinterherlaufen mit Updates nicht mehr aus. ( BSI , PHP )",
+          "published": "2026-10-22T16:52:11+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Kundendaten abgeflossen: Cyberangriff legt Cloudplattform Railway lahm",
+          "link": "https://www.golem.de/news/kundendaten-abgeflossen-cyberangriff-legt-cloudplattform-railway-lahm-2610-214393.html",
+          "summary": "Railway ist Ziel eines Cyberangriffs geworden. Laut dem Plattformbetreiber sind Angreifer unter anderem an API-Keys und Zugangsdaten seiner Kunden gelangt. ( Datenleck , API )",
+          "published": "2026-10-22T13:42:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Wichtige PHP-Updates am 21. Oktober beheben Codeeinschleusung-Schwachstellen",
+        "DSA-Verfahren eingeleitet: EU untersucht Booking.com wegen Phishing und Fake-Angeboten",
+        "IT-Sicherheit: BSI-Präsidentin droht KI-Anbietern in den USA und in China mit Haftung"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Software Testing: ZAP als Proxy: Regressionstests werden zu Sicherheitstests",
+          "link": "https://www.heise.de/blog/Software-Testing-ZAP-als-Proxy-Regressionstests-werden-zu-Sicherheitstests-11493529.html",
+          "summary": "Richard Seidl spricht mit Daniel Schmuck über Sicherheitstests in einer Bank: Das Open-Source-Tool ZAP schneidet Playwright-Tests mit und leitet Angriffe ab.",
+          "published": "2026-10-20T09:10:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Linux-Systemadministration: Grundlagen in fünf Tagen",
+          "link": "https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-2610-214322.html",
+          "summary": "Linux-Systemadministration erfordert Kenntnisse von Shell, Diensten und Zugriffsrechten. Ein fünftägiger Online-Workshop vermittelt die Grundlagen. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-10-23T07:15:04+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Software Testing: ZAP als Proxy: Regressionstests werden zu Sicherheitstests",
+        "Anzeige: Linux-Systemadministration: Grundlagen in fünf Tagen"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Presentation: Actors for Agents: Patterns for Production AI",
+          "link": "https://www.infoq.com/presentations/actors-for-production-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Manju Rajashekhar explains how the actor model solves the complex runtime challenges of production AI agents. By treating agents as distributed systems, he discusses state ownership, message passing, write-through state, and supervision boundaries to manage failures, continuations, and mutable execution graphs, moving agentic workflows beyond fragile demos to resilient architecture. By Manju Rajashekhar",
+          "published": "Thu, 22 Oct 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Linux-Desktop-Suite DMS 2.0 im neuen Look mit Dateimanager Dux Files",
+          "link": "https://www.heise.de/news/Linux-Desktop-DMS-2-0-Aus-DankMaterialShell-wird-Dux-Shell-11497532.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Linux-Desktop-Suite DMS 2.0 „Heisenberg“ für Wayland-Compositors wie Niri kommt in neuem Design und bringt erstmals einen eigenen Dateimanager mit.",
+          "published": "2026-10-23T08:30:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "php2shell: Updates trudeln ein, viele Webseiten offline, Angriffe laufen",
+          "link": "https://www.heise.de/news/php2shell-Updates-trudeln-ein-viele-Webseiten-offline-Angriffe-laufen-11496366.html",
+          "summary": "Viele Linux-Distributionen liefern aktualisierte PHP-Pakete. Webseiten gingen offline. Erfolgreiche Exploits sind bislang nicht belegt.",
+          "published": "2026-10-22T07:23:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Was Linux 7.3 bei Grafikspeicher, Scheduling und Dateisystemen verbessert",
+          "link": "https://www.heise.de/news/Linux-7-3-verbessert-Dateisysteme-und-Scheduling-11494072.html",
+          "summary": "Linux-Kernel 7.3 steigert die Leistung bei Scheduling, Grafik und Dateisystemen. Unterstützung für Apple Time Machine inklusive.",
+          "published": "2026-10-20T11:52:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: American Express Platinum Card - Luxus oder gutes Investment?",
+          "link": "https://www.golem.de/news/anzeige-american-express-platinum-card-luxus-oder-gutes-investment-2610-214426.html",
+          "summary": "Wer häufig reist, gern gut essen geht und seine Ausgaben bewusst steuert, kann aus der American Express Platinum Card viel herausholen. Rechtfertigen die Vorteile das Jahresentgelt von 720 Euro? ( Wirtschaft )",
+          "published": "2026-10-23T09:45:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Actors for Agents: Patterns for Production AI",
+        "Linux-Desktop-Suite DMS 2.0 im neuen Look mit Dateimanager Dux Files",
+        "php2shell: Updates trudeln ein, viele Webseiten offline, Angriffe laufen"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Anthropic Adds Opt-In Security Scanning for Critical Open-Source Projects",
+          "link": "https://www.infoq.com/news/2026/10/anthropic-oss-security-scanner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AI company Anthropic has launched OSS Scanner, a free, opt-in service to find vulnerabilities in open-source projects. Enrolled maintainers receive periodic security reports generated by the company's strongest models, including Claude Mythos. The reports are sent without human review, and project maintainers can choose to validate their findings and decide which proposed fixes to accept. By Matt Saunders",
+          "published": "Fri, 23 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Nicht das Lager bremst dein Wachstum, sondern die Daten: Was gutes Fulfillment heute ausmacht",
+          "link": "https://t3n.de/news/e-commerce-fulfillment-skalieren-echtzeit-daten-1757982/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer ein E-Commerce-Business erfolgreich skalieren will, stößt früher oder später auf dasselbe strukturelle Problem: Modernes Fulfillment ist heute kein reines Platzproblem mehr, sondern eine Herausforderung der Datenverarbeitung. weiterlesen auf t3n.de",
+          "published": "Fri, 23 Oct 2026 09:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+          "link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+          "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
+          "published": "Thu, 22 Oct 2026 21:07:09 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Five AI agent harnesses took the same memory test. The results weren’t even close.",
+          "link": "https://thenewstack.io/letta-frontiermemory-agent-harness-benchmark/",
+          "summary": "AI agents are getting better at remembering past conversations and earlier tasks but remembering something doesn&#8217;t guarantee an agent can The post Five AI agent harnesses took the same memory test. The results weren&#8217;t even close. appeared first on The New Stack .",
+          "published": "Thu, 22 Oct 2026 18:34:32 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation",
+          "link": "https://thenewstack.io/openai-donates-open-responses/",
+          "summary": "OpenAI on Thursday announced that it is donating the Open Responses API specification to the open source Agentic AI Foundation The post OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation appeared first on The New Stack .",
+          "published": "Thu, 22 Oct 2026 16:01:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Anthropic Adds Opt-In Security Scanning for Critical Open-Source Projects",
+        "Nicht das Lager bremst dein Wachstum, sondern die Daten: Was gutes Fulfillment heute ausmacht",
+        "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\""
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Neue AGB von Meta: Verlage fordern EU-Stopp wegen KI-Scraping",
+          "link": "https://www.heise.de/news/Neue-AGB-von-Meta-Verlage-fordern-EU-Stopp-wegen-KI-Scraping-11497167.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Neue Meta-Geschäftsbedingungen alarmieren europäische Medienhäuser. Sie sehen darin eine illegale Ausbeutung von Journalismus für KI. Brüssel soll einschreiten.",
+          "published": "2026-10-22T15:45:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Virtualisierung: Multipass mit Debian, Fedora im Image-Katalog",
+          "link": "https://www.heise.de/news/Multipass-Debian-und-Fedora-als-Cloud-Images-im-Image-Katalog-11495926.html",
+          "summary": "Canonical hat Multipass 1.17 veröffentlicht. Der VM-Manager unterstützt nun Debian- und Fedora-Cloud-Images direkt neben Ubuntu.",
+          "published": "2026-10-21T14:28:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Etsy is cracking down on AI slop listings",
+          "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+          "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongside items that use [&#8230;]",
+          "published": "2026-10-22T20:09:58-04:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+          "link": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+          "summary": "Spotify co-CEO Alex Norstr&#246;m confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a question about the \"crackdown,\" he called it a [&#8230;]",
+          "published": "2026-10-22T19:02:43-04:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+          "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+          "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape [&#8230;]",
+          "published": "2026-10-22T16:32:05-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(5 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Neue AGB von Meta: Verlage fordern EU-Stopp wegen KI-Scraping",
+        "Virtualisierung: Multipass mit Debian, Fedora im Image-Katalog",
+        "Etsy is cracking down on AI slop listings"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "iOS 27.2: Diese 7 Features landen bald auf dem iPhone",
+          "link": "https://t3n.de/news/ios-27-2-iphone-features-update-1769564/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Schon bald sollte Apple den Release von iOS 27.2 starten. Schon jetzt zeichnet sich ab, dass das Update einige praktische Features für iPhone-User:innen bereithält. Welche das sind und wann du mit dem iOS-Update rechnen darfst. weiterlesen auf t3n.de",
+          "published": "Fri, 23 Oct 2026 11:00:11 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Koalitionsverhandlungen in Berlin: Rot-Rot-Grün muss KI-Kameras stoppen",
+          "link": "https://netzpolitik.org/2026/koalitionsverhandlungen-in-berlin-rot-rot-gruen-muss-ki-kameras-stoppen/",
+          "summary": "Muss da dringend wieder weg: Videoüberwachung am Kottbusser Tor in Berlin. – CC-BY-NC-SA 4.0 : netzpolitik.org Wie geht es weiter mit den KI-Kameras in Berlin? Das haben Verhandler*innen von Linken, Grünen und SPD nun zu klären. Wenn ihnen die Stadt wichtig ist, gibt es nur eine Option: den kompletten Rückbau der „intelligenten“ Videoüberwachung. Ein Kommentar.",
+          "published": "Fri, 23 Oct 2026 07:21:35 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Angst ums Homeoffice beim Remote-Job? Auf diese rechtlichen Punkte kommt es an",
+          "link": "https://t3n.de/news/homeoffice-remote-job-rechtliche-punkte-1769122/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Viele Unternehmen rufen derzeit ihre Mitarbeiter:innen wieder zurück ins Büro. Doch ganz so einfach geht das nicht – und Angestellte haben verschiedene Optionen weiterlesen auf t3n.de",
+          "published": "Fri, 23 Oct 2026 08:00:01 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "EU-Länder einig beim Daten-Omnibus: Mehr KI-Training, weniger Datenschutz",
+          "link": "https://netzpolitik.org/2026/eu-laender-einig-beim-daten-omnibus-mehr-ki-training-weniger-datenschutz/",
+          "summary": "Der EU-Rat will die Nutzung von Daten in den meisten Fällen einfacher machen – oft zulasten des Datenschutzes. – Alle Rechte vorbehalten: Ikon Images Geschäftsgeheimnisse schützen, Datenschutz schwächen, personenbezogene Daten für KI-Training freigeben: Am gestrigen Mittwoch haben sich die EU-Länder auf ihre Position zum Daten-Omnibus verständigt. Sie wird für Diskussionen sorgen.",
+          "published": "Thu, 22 Oct 2026 17:21:37 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Astronomische Spurensuche: Was die 5 Sterne im Zentrum über van Goghs „Sternennacht“ verraten",
+          "link": "https://t3n.de/news/astronomische-spurensuche-was-die-5-sterne-im-zentrum-ueber-van-goghs-sternennacht-verraten-1769494/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Sternenhimmel in Vincent van Goghs Gemälde „Sternennacht“ könnte auf einer Beobachtung am 22. Juli 1889 beruhen. Zu diesem Schluss kommt ein Forschungsteam aus Südkorea, das die Positionen von Himmelskörpern mit dem Gemälde verglichen hat. weiterlesen auf t3n.de",
+          "published": "Thu, 22 Oct 2026 17:00:40 +0200",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "iOS 27.2: Diese 7 Features landen bald auf dem iPhone",
+        "Koalitionsverhandlungen in Berlin: Rot-Rot-Grün muss KI-Kameras stoppen",
+        "Angst ums Homeoffice beim Remote-Job? Auf diese rechtlichen Punkte kommt es an"
+      ]
+    }
+  ]
+}
