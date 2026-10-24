@@ -1,0 +1,426 @@
+{
+  "date": "2026-10-24",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AI jobs are waiting while GPUs sit idle. Kubernetes has a new plan.",
+          "link": "https://thenewstack.io/kubernetes-agentic-ai-inference/",
+          "summary": "Welcome to another edition of Road to KubeCon! We&#8217;re tracking movements in the Kubernetes and cloud-native ecosystem as we count The post AI jobs are waiting while GPUs sit idle. Kubernetes has a new plan. appeared first on The New Stack .",
+          "published": "Fri, 23 Oct 2026 19:08:53 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "CSIRO Uses Serverless Architecture to Query 100x More Genomic Variants on AWS",
+          "link": "https://www.infoq.com/news/2026/10/csiro-serverless-genomic-variant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "CSIRO has developed Serverless Beacon, a serverless architecture for querying genomic variants without copying VCF files into a central database. The system combines Amazon S3, Lambda, Athena and DynamoDB, using metadata indexes and HTTP byte range requests to query compressed genomic regions. Tests reported 1.52 second average latency for 10,000 base pair queries. By Leela Kumili",
+          "published": "Fri, 23 Oct 2026 14:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AWS Introduces Lambda Web Functions for Node.js Applications",
+          "link": "https://www.infoq.com/news/2026/10/aws-lambda-web-functions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS recently introduced Lambda Web Functions, allowing developers to run Node.js web applications using frameworks such as Express and Hono directly on Lambda, with support for concurrent requests and response streaming. By Renato Losio",
+          "published": "Fri, 23 Oct 2026 12:49:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Ramp built an AI agent harness in six weeks — and LangChain’s CEO says it’s part of a bigger shift",
+          "link": "https://thenewstack.io/ramp-laminar-agent-harness/",
+          "summary": "Ramp spent months testing managed agent APIs, open-source frameworks, and third-party platforms before concluding it would be better off building The post Ramp built an AI agent harness in six weeks — and LangChain&#8217;s CEO says it&#8217;s part of a bigger shift appeared first on The New Stack .",
+          "published": "Thu, 22 Oct 2026 16:31:15 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Google and AWS open new paths for PyTorch beyond Nvidia",
+          "link": "https://thenewstack.io/pytorch-tpu-trainium-migration/",
+          "summary": "At PyTorch Conference North America 2026 this week, Google open-sourced TorchTPU, a native PyTorch stack for Google TPUs, now available The post Google and AWS open new paths for PyTorch beyond Nvidia appeared first on The New Stack .",
+          "published": "Thu, 22 Oct 2026 15:23:23 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "PHP’s security scramble is just a preview: AI is digging up flaws faster than maintainers can fix them",
+          "link": "https://thenewstack.io/php2shell-ai-vulnerabilities-maintainers/",
+          "summary": "One of the biggest security scares to hit the web is causing widespread disruption, prompting businesses, hospitals, schools, and government The post PHP’s security scramble is just a preview: AI is digging up flaws faster than maintainers can fix them appeared first on The New Stack .",
+          "published": "Thu, 22 Oct 2026 14:35:13 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Google turns the infrastructure behind Gemini’s agents into a cloud service",
+          "link": "https://thenewstack.io/google-agent-compute-engine/",
+          "summary": "Google will soon make the infrastructure that powers its Gemini agents available to Google Cloud users in preview. Announced on The post Google turns the infrastructure behind Gemini’s agents into a cloud service appeared first on The New Stack .",
+          "published": "Thu, 22 Oct 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AI found flaws in the code behind 70% of the web. The fix took two months.",
+          "link": "https://thenewstack.io/ai-php2shell-disclosure-framework/",
+          "summary": "PHP powers roughly 70% of the world&#8217;s websites, according to Wiz Research, so a flaw in its core engine affects The post AI found flaws in the code behind 70% of the web. The fix took two months. appeared first on The New Stack .",
+          "published": "Wed, 21 Oct 2026 22:17:07 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(8 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AI jobs are waiting while GPUs sit idle. Kubernetes has a new plan.",
+        "CSIRO Uses Serverless Architecture to Query 100x More Genomic Variants on AWS",
+        "AWS Introduces Lambda Web Functions for Node.js Applications"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
+          "link": "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/",
+          "summary": "Corporate phishing tests are common, but this one was especially cruel.",
+          "published": "Fri, 23 Oct 2026 16:51:59 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Interpol macht Cyberkriminelle in Afrika dingfest",
+          "link": "https://www.heise.de/news/Interpol-macht-Cyberkriminelle-in-Afrika-dingfest-11498747.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Phishing, verbotenes Kryptomining, Finanzbetrug: Bei einer internationalen Polizeioperation in Afrika haben Ermittler cyberkriminelle Netzwerke ausgehoben.",
+          "published": "2026-10-23T17:38:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "php2shell: Millionen PHP-Dienste in Deutschland verwundbar",
+          "link": "https://www.heise.de/news/php2shell-Millionen-PHP-Dienste-in-Deutschland-verwundbar-11498464.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die IT-Sicherheitsfirma Censys scannt PHP-Server auf für php2shell anfällige Versionen. Millionen in Deutschland sind noch verwundbar.",
+          "published": "2026-10-23T14:03:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Wichtige PHP-Updates am 21. Oktober beheben Codeeinschleusung-Schwachstellen",
+          "link": "https://www.heise.de/news/Wichtige-PHP-Updates-am-21-Oktober-beheben-Codeeinschleusung-Schwachstellen-11495072.html",
+          "summary": "Technische Details werden um 16 Uhr folgen, doch die Lage ist ernst: Es droht Codeausführung aus der Ferne. Admins sollten das Risiko abwägen.",
+          "published": "2026-10-21T08:22:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Microsoft 365 nach dem Zero-Trust-Prinzip absichern",
+          "link": "https://www.golem.de/news/anzeige-microsoft-365-nach-dem-zero-trust-prinzip-absichern-2610-214323.html",
+          "summary": "Zero Trust verbindet Zugriffsschutz, Datenschutz und Monitoring in Microsoft 365. Ein Online-Workshop vermittelt die passenden Sicherheitsmaßnahmen. ( Golem Karrierewelt , Sicherheitslücke )",
+          "published": "2026-10-23T18:45:05+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Knicks sent employees fake offer of championship rings in phishing test: Report",
+        "Interpol macht Cyberkriminelle in Afrika dingfest",
+        "php2shell: Millionen PHP-Dienste in Deutschland verwundbar"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Expansion nach Asien: Warum europäische Tech-Gründer:innen jetzt auf Hongkong setzen",
+          "link": "https://t3n.de/news/hongkong-expansion-europaeische-tech-gruender-1764629/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Programm aus Hackathon und Delegationsreise hat europäischen Gründer:innen den Zugang zu Forschungsförderung, Kapital und Märkten in Hongkong, auf dem chinesischen Festland und darüber hinaus geebnet. Welche Vorteile bietet Hongkong, die bei europäischen Tech-Gründer:innen so gut ankommen? weiterlesen auf t3n.de",
+          "published": "Sat, 24 Oct 2026 09:40:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Reklamation abgelehnt? So wehrst du dich gegen die Hersteller-Ausrede der Händler",
+          "link": "https://t3n.de/news/reklamation-abgelehnt-haendler-1767768/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer ein nicht funktionierendes Gerät reklamiert, wird vom Händler gerne an den Hersteller verwiesen. Doch das ist so nicht in Ordnung, wie ein Urteil gegen Mediamarkt beweist. Kund:innen können sich damit jetzt besser gegen solche Praktiken wehren. weiterlesen auf t3n.de",
+          "published": "Sat, 24 Oct 2026 09:10:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Boom: Wie die Bundesregierung die Regulierung von Rechenzentren aushöhlt",
+          "link": "https://netzpolitik.org/2026/ki-boom-wie-die-bundesregierung-die-regulierung-von-rechenzentren-aushoehlt/",
+          "summary": "Bundeskanzler Friedrich Merz (CDU) und Nvidia-Chef Jensen Huang auf dem \"Invest in Germany\"-Gipfel in Berlin. – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Der KI-Boom lässt den Strombedarf von Rechenzentren rasant ansteigen. Doch statt den Energieverbrauch zu begrenzen und Abwärme zu nutzen, will die Bundesregierung Energieeffizienzvorgaben aufweichen. Sie gibt damit den Interessen der großen Tech-Giganten nach.",
+          "published": "Fri, 23 Oct 2026 14:28:43 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Article: Multi-Cloud FinOps: An Engineering Framework for Cross-Cloud Cost Optimization",
+          "link": "https://www.infoq.com/articles/multi-cloud-finops-cost-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Multi-cloud flexibility comes with hidden egress costs driven by service placement and communication patterns. This article applies Backend FinOps to cross-cloud architecture, covering cost visibility through FOCUS, workload placement, synchronization models, and CI/CD-integrated cost governance. A controlled experiment shows architecture changes saved far more than rate negotiation alone. By Vivek Arora",
+          "published": "Fri, 23 Oct 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "LKA Baden-Württemberg: Kritik an Gesichtserkennung bei Demo-Teilnehmenden",
+          "link": "https://netzpolitik.org/2026/lka-baden-wuerttemberg-kritik-an-gesichtserkennung-bei-demo-teilnehmenden/",
+          "summary": "Ein Foto kann unter Umständen bereits ausreichen, um von der Polizei per Gesichtserkennung identifiziert zu werden. (Symbolbild) – Alle Rechte vorbehalten: IMAGO / Shotshop Als ein Polizist gegen Palästina-Aktivist:innen ermittelte, soll er auch unbeteiligte Teilnehmer:innen einer Demo per Gesichtserkennung identifiziert haben. Die Gesellschaft für Freiheitsrechte hält das für rechtswidrig: „Die Polizei ermittelt ins Blaue hinein.“",
+          "published": "Wed, 21 Oct 2026 15:14:59 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Anthropic lässt KI-Agenten Verhandlungsregeln für Menschen lernen",
+          "link": "https://www.heise.de/news/Anthropic-laesst-KI-Agenten-Verhandlungsregeln-fuer-Menschen-lernen-11498981.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Anthropic berät sich angeblich mit Anwaltskanzleien, wie KI-Agenten künftig Preise, Gehälter und Verträge für ihre Nutzer aushandeln sollten.",
+          "published": "2026-10-24T10:14:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Raffineriestrategie: Bundesregierung tritt in Dialog mit Mineralölwirtschaft",
+          "link": "https://www.heise.de/news/Raffineriestrategie-Bundesregierung-will-deutsche-Standorte-halten-11498450.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Wirtschaftsministerin Reiche will Raffineriekapazität in Deutschland sichern. Vorerst gibt es aber nur einen Dialog ohne Zeitplan, Summen oder Maßnahmen.",
+          "published": "2026-10-23T15:28:00+02:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(7 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Expansion nach Asien: Warum europäische Tech-Gründer:innen jetzt auf Hongkong setzen",
+        "Reklamation abgelehnt? So wehrst du dich gegen die Hersteller-Ausrede der Händler",
+        "KI-Boom: Wie die Bundesregierung die Regulierung von Rechenzentren aushöhlt"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "A few engineers asked IT for Linux. Then it spread to 200 machines.",
+          "link": "https://thenewstack.io/linux-developer-device-management/",
+          "summary": "Linux is already part of the AI developer&#8217;s desktop toolkit. Nvidia&#8217;s DGX Spark, which became available to order on October The post A few engineers asked IT for Linux. Then it spread to 200 machines. appeared first on The New Stack .",
+          "published": "Fri, 23 Oct 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Presentation: Actors for Agents: Patterns for Production AI",
+          "link": "https://www.infoq.com/presentations/actors-for-production-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Manju Rajashekhar explains how the actor model solves the complex runtime challenges of production AI agents. By treating agents as distributed systems, he discusses state ownership, message passing, write-through state, and supervision boundaries to manage failures, continuations, and mutable execution graphs, moving agentic workflows beyond fragile demos to resilient architecture. By Manju Rajashekhar",
+          "published": "Thu, 22 Oct 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Gescheiterte Linux-Konsole: Atari beendet Support für VCS",
+          "link": "https://www.heise.de/news/Atari-stellt-Linux-Konsole-VCS-ein-Offline-Betrieb-weiterhin-moeglich-11498172.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Atari wird den VCS nicht weiterbetreiben. Damit die Linux-Konsole nicht unbrauchbar wird, will der Hersteller sie von der Infrastruktur abkoppeln.",
+          "published": "2026-10-23T12:50:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: Product Owner Day 2026: Online-Konferenz mit Workshops zu KI und OKR",
+          "link": "https://www.heise.de/news/Product-Owner-Day-2026-Online-Konferenz-mit-Workshops-zu-KI-und-OKR-11473613.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Online-Konferenz zeigt am 19. November Methoden für mehr Wirksamkeit in der Produktarbeit. Davor und danach stehen zwei Workshops zur Wahl.",
+          "published": "2026-10-23T12:00:00+02:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "php2shell: Updates trudeln ein, viele Webseiten offline, Angriffe laufen",
+          "link": "https://www.heise.de/news/php2shell-Updates-trudeln-ein-viele-Webseiten-offline-Angriffe-laufen-11496366.html",
+          "summary": "Viele Linux-Distributionen liefern aktualisierte PHP-Pakete. Webseiten gingen offline. Erfolgreiche Exploits sind bislang nicht belegt.",
+          "published": "2026-10-22T07:23:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Was Linux 7.3 bei Grafikspeicher, Scheduling und Dateisystemen verbessert",
+          "link": "https://www.heise.de/news/Linux-7-3-verbessert-Dateisysteme-und-Scheduling-11494072.html",
+          "summary": "Linux-Kernel 7.3 steigert die Leistung bei Scheduling, Grafik und Dateisystemen. Unterstützung für Apple Time Machine inklusive.",
+          "published": "2026-10-20T11:52:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Kopfhörer von Bose mit Noise Cancelling reduziert bei Amazon",
+          "link": "https://www.golem.de/news/anzeige-kopfhoerer-von-bose-mit-noise-cancelling-reduziert-bei-amazon-2610-214446.html",
+          "summary": "Amazon hat die Kopfhörer Bose QuietComfort SC für Bluetooth und Aux im Angebot, die mit anpassbarem Noise Cancelling überzeugen. ( Kopfhörer , Audio/Video )",
+          "published": "2026-10-23T13:43:08+02:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(7 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "A few engineers asked IT for Linux. Then it spread to 200 machines.",
+        "Presentation: Actors for Agents: Patterns for Production AI",
+        "Gescheiterte Linux-Konsole: Atari beendet Support für VCS"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Zu gefährlich fürs Netz? Wie OpenAI seine KI-Modelle in einer simulierten Internetwelt trainieren will",
+          "link": "https://t3n.de/news/zu-gefaehrlich-fuers-netz-wie-openai-seine-ki-modelle-in-einer-simulierten-internetwelt-trainieren-will-1769746/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nach wiederholten Sicherheitsvorfällen zieht das KI-Labor jetzt die Reißleine. Dabei hatten Expert:innen zuvor argumentiert, dass es nahezu unmöglich sei, eine Sandbox komplett von der Außenwelt abzuschotten. weiterlesen auf t3n.de",
+          "published": "Sat, 24 Oct 2026 13:24:28 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google’s Data Agent Kit Hits GA, Splitting Agent Guardrails Between Skills and IAM",
+          "link": "https://www.infoq.com/news/2026/10/data-agent-kit-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google has made Data Agent Kit generally available, a free set of MCP tools and 37 open-source skills that connect coding agents to more than fifteen Google Data Cloud services. Two kinds of guardrail ship with it, and practitioners need to tell them apart: one is a skill asking the agent to stop, the other an IAM deny policy that refuses the call. By Steef-Jan Wiggers",
+          "published": "Sat, 24 Oct 2026 08:34:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Blackjack-Studie: KI-Agenten erfinden heimlich eine Geheimsprache, um Karten zu zählen",
+          "link": "https://t3n.de/news/blackjack-studie-ki-agenten-1765425/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Einzeln betrachtet, wirken agentische Systeme oft harmlos. Gemeinsam können sie allerdings ihre Kräfte bündeln und ihre Kommunikation gezielt verschleiern. In der realen Welt könnten sie so großen Schaden anrichten. weiterlesen auf t3n.de",
+          "published": "Sat, 24 Oct 2026 10:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Security-Fragebogen bremst den Deal? So wird Compliance zum Wachstumstreiber für Enterprise-Vertrieb",
+          "link": "https://t3n.de/news/security-fragebogen-enterprise-vertrieb-compliance-1763488/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der erste große Enterprise-Kunde ist fast unterschrieben. Dann kommt der Security-Fragebogen: rund 200 Fragen zu Zugriffskontrollen, Sub-Prozessoren, Incident-Prozessen und Zertifizierungen. Während der Deal seit drei Wochen feststeht, sucht das Team Antworten aus verschiedenen Tools und Dokumenten zusammen. weiterlesen auf t3n.de",
+          "published": "Sat, 24 Oct 2026 08:40:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nicht das Lager bremst dein Wachstum, sondern die Daten: Was gutes Fulfillment heute ausmacht",
+          "link": "https://t3n.de/news/e-commerce-fulfillment-skalieren-echtzeit-daten-1757982/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer ein E-Commerce-Business erfolgreich skalieren will, stößt früher oder später auf dasselbe strukturelle Problem: Modernes Fulfillment ist heute kein reines Platzproblem mehr, sondern eine Herausforderung der Datenverarbeitung. weiterlesen auf t3n.de",
+          "published": "Sat, 24 Oct 2026 06:00:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Was die digitale Brieftasche d-you kann – und wo ihre Grenzen liegen",
+          "link": "https://t3n.de/news/digitale-brieftasche-d-you-1769694/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit der digitale Brieftasche sollen sich Bürger einfacher online ausweisen und digitale Nachweise auf dem Smartphone speichern können. Doch d-you startet mit begrenzten Funktionen und auch bei Datenschutz und Sicherheit gibt es noch offene Fragen. weiterlesen auf t3n.de",
+          "published": "Fri, 23 Oct 2026 17:30:22 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Beschwerde erfolgreich: Politisches Microtargeting von vier Parteien war rechtswidrig",
+          "link": "https://netzpolitik.org/2026/beschwerde-erfolgreich-politisches-microtargeting-von-vier-parteien-war-rechtswidrig/",
+          "summary": "Vier Parteien spielten gezielte Wahlwerbung für bestimmte Nutzergruppen aus (Symbolbild) – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Silvan Arnet Nicht alle bekamen dieselbe Wahlwerbung zu sehen: Mindestens vier Parteien spielten im Bundestagswahlkampf 2021 auf Facebook gezielt Werbung für bestimmte Personengruppen aus. Die Berliner Datenschutzbeauftragte hat diese Praxis nun als rechtswidrig eingestuft.",
+          "published": "Fri, 23 Oct 2026 12:45:30 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
+          "link": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
+          "summary": "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein.",
+          "published": "Fri, 23 Oct 2026 11:15:03 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(8 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Zu gefährlich fürs Netz? Wie OpenAI seine KI-Modelle in einer simulierten Internetwelt trainieren will",
+        "Google’s Data Agent Kit Hits GA, Splitting Agent Guardrails Between Skills and IAM",
+        "Blackjack-Studie: KI-Agenten erfinden heimlich eine Geheimsprache, um Karten zu zählen"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Cloudflare Brings On-Demand CPU and Memory Profiling to Production Workers",
+          "link": "https://www.infoq.com/news/2026/10/cloudflare-cpu-memory-profiling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare has introduced on-demand CPU and memory profiling for Workers and Durable Objects, allowing developers to investigate performance bottlenecks in production using interactive flamegraphs. By Craig Risi",
+          "published": "Fri, 23 Oct 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Virtualisierung: Multipass mit Debian, Fedora im Image-Katalog",
+          "link": "https://www.heise.de/news/Multipass-Debian-und-Fedora-als-Cloud-Images-im-Image-Katalog-11495926.html",
+          "summary": "Canonical hat Multipass 1.17 veröffentlicht. Der VM-Manager unterstützt nun Debian- und Fedora-Cloud-Images direkt neben Ubuntu.",
+          "published": "2026-10-21T14:28:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Daten-Omnibus: EU-Ministerrat will Datenschutz für KI-Training lockern",
+          "link": "https://www.golem.de/news/daten-omnibus-eu-ministerrat-will-datenschutz-fuer-ki-training-lockern-2610-214448.html",
+          "summary": "Der EU-Ministerrat hat sich beim Daten-Omnibus geeinigt. KI-Training mit persönlichen Daten soll einfacher werden. ( DSGVO , Datenschutz )",
+          "published": "2026-10-23T14:27:09+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "(g+) Cyber Resilience Act: Die Meldepflicht mit den eingebauten Lücken",
+          "link": "https://www.golem.de/news/cyber-resilience-act-die-meldepflicht-mit-den-eingebauten-luecken-2610-214438.html",
+          "summary": "Seit September gilt eine neue EU-Meldepflicht für Sicherheitslücken. Doch wer ein älteres vernetztes Gerät besitzt, kann auf einem bekannten Problem sitzen bleiben - ganz legal. Eine Analyse von Jan Gruber ( Security , Exfat )",
+          "published": "2026-10-23T13:30:13+02:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Xbox’s first chief operating officer is out after just a few months",
+          "link": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+          "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief [&#8230;]",
+          "published": "2026-10-23T17:39:26-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(5 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Cloudflare Brings On-Demand CPU and Memory Profiling to Production Workers",
+        "Virtualisierung: Multipass mit Debian, Fedora im Image-Katalog",
+        "Daten-Omnibus: EU-Ministerrat will Datenschutz für KI-Training lockern"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Schluss mit Gruppenchats und Cloud-Chaos: So will Google das Teilen von Party-Fotos vereinfachen",
+          "link": "https://t3n.de/news/google-group-camera-fuer-partyfotos-1768147/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google plant eine Neuerung für die Fotos-App, mit der User:innen auf Partys leichter Bilder miteinander teilen können. Wie die &#8222;Group Camera&#8220; funktioniert und wann das Feature erscheinen könnte. weiterlesen auf t3n.de",
+          "published": "Sat, 24 Oct 2026 12:45:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KW 43: Die Woche, in der das Internet geschlossen wurde",
+          "link": "https://netzpolitik.org/2026/kw-43-die-woche-in-der-das-internet-geschlossen-wurde/",
+          "summary": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 43. Kalenderwoche geht zu Ende. Wir haben 12 neue Texte mit insgesamt 113.270 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 24 Oct 2026 06:53:00 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Neues Leben für alte iPods: Diese Software-Lösungen sind besser als die von Apple",
+          "link": "https://t3n.de/news/ipod-musik-synchronisieren-software-loesung-apple-1769213/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Alte iPods sind wieder in Mode. Doch sind die Mittel und Wege, Musik via Mac auf die MP3-Player zu spielen, beschränkt. Drei Apps lösen das Problem. Nicht alle weiterlesen auf t3n.de",
+          "published": "Fri, 23 Oct 2026 16:00:01 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "PHP2Shell was only the beginning: AI is accelerating the patch race",
+          "link": "https://thenewstack.io/php2shell-ai-patch-race/",
+          "summary": "Government websites and public services across Europe went offline this week as organizations responded to two newly disclosed PHP vulnerabilities. The post PHP2Shell was only the beginning: AI is accelerating the patch race appeared first on The New Stack .",
+          "published": "Fri, 23 Oct 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "FritzOS 8.50: Für diese Fritzboxen steht das Update jetzt bereit",
+          "link": "https://t3n.de/news/fritzos-8-50-update-fuer-erste-fritzboxen-1767411/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "FritzOS 8.50 wird schon für erste Router des Herstellers ausgerollt. Mit der Zeit sollen immer mehr Fritzboxen hinzukommen. Welche Geräte das Update jetzt laden können. weiterlesen auf t3n.de",
+          "published": "Fri, 23 Oct 2026 15:05:00 +0200",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "PHP-Sicherheitslücken: Wir stehen auf den Schultern vieler kleiner Giganten",
+          "link": "https://netzpolitik.org/2026/wir-stehen-auf-den-schultern-vieler-kleiner-giganten/",
+          "summary": "Wir stehen auf den Schultern vieler kleiner Giganten. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Chris Curry Auch wenn „das Internet“ nach der Aufregung der vergangenen Tage vielerorts wieder stabil läuft, ist es kaputt. Und das hat viel mit dem schiefen sozialen Gefüge der digitalen Welt zu tun.",
+          "published": "Fri, 23 Oct 2026 10:21:04 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Koalitionsverhandlungen in Berlin: Rot-Rot-Grün muss KI-Kameras stoppen",
+          "link": "https://netzpolitik.org/2026/koalitionsverhandlungen-in-berlin-rot-rot-gruen-muss-ki-kameras-stoppen/",
+          "summary": "Muss da dringend wieder weg: Videoüberwachung am Kottbusser Tor in Berlin. – CC-BY-NC-SA 4.0 : netzpolitik.org Wie geht es weiter mit den KI-Kameras in Berlin? Das haben Verhandler*innen von Linken, Grünen und SPD nun zu klären. Wenn ihnen die Stadt wichtig ist, gibt es nur eine Option: den kompletten Rückbau der „intelligenten“ Videoüberwachung. Ein Kommentar.",
+          "published": "Fri, 23 Oct 2026 07:21:35 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "EU-Länder einig beim Daten-Omnibus: Mehr KI-Training, weniger Datenschutz",
+          "link": "https://netzpolitik.org/2026/eu-laender-einig-beim-daten-omnibus-mehr-ki-training-weniger-datenschutz/",
+          "summary": "Der EU-Rat will die Nutzung von Daten in den meisten Fällen einfacher machen – oft zulasten des Datenschutzes. – Alle Rechte vorbehalten: Ikon Images Geschäftsgeheimnisse schützen, Datenschutz schwächen, personenbezogene Daten für KI-Training freigeben: Am gestrigen Mittwoch haben sich die EU-Länder auf ihre Position zum Daten-Omnibus verständigt. Sie wird für Diskussionen sorgen.",
+          "published": "Thu, 22 Oct 2026 17:21:37 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(8 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Schluss mit Gruppenchats und Cloud-Chaos: So will Google das Teilen von Party-Fotos vereinfachen",
+        "KW 43: Die Woche, in der das Internet geschlossen wurde",
+        "Neues Leben für alte iPods: Diese Software-Lösungen sind besser als die von Apple"
+      ]
+    }
+  ]
+}
