@@ -1,0 +1,331 @@
+{
+  "date": "2026-10-26",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Google ML Drift Accelerates On-Device AI Inference Across Diverse GPUs",
+          "link": "https://www.infoq.com/news/2026/10/google-ml-drift/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google has released ML Drift, an open-source, cross-platform GPU compute engine designed for on-device AI and machine learning inference. Licensed under Apache 2.0, it abstracts the complexities of different GPU hardware and low-level APIs, supporting OpenGL ES, OpenCL, Metal, and WebGPU. By Sergio De Simone",
+          "published": "Sun, 25 Oct 2026 17:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Google ML Drift Accelerates On-Device AI Inference Across Diverse GPUs"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "PHP Patches Two Critical RCE Flaws That Were Already Under Attack",
+          "link": "https://www.infoq.com/news/2026/10/php-critical-rce-patches/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "PHP released 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to fix two critical vulnerabilities allowing unauthenticated remote code execution. Amazon recorded an exploitation attempt four days before the patches shipped, and operators spent the day working out whether they ran PHP, where to get the package, and how to tell it had landed. By Steef-Jan Wiggers",
+          "published": "Sun, 25 Oct 2026 18:07:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Raus aus der Abhängigkeit? Was die Microsoft-Alternative Euro-Office kann – und warum sie für Streit sorgt",
+          "link": "https://t3n.de/news/euro-office-alternative-streit-1768614/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Euro-Office ist mittlerweile auch für den Desktop verfügbar. Wir erklären, was die offene Microsoft-Alternative alles kann – und warum das Projekt immer wieder weiterlesen auf t3n.de",
+          "published": "Sun, 25 Oct 2026 19:05:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "PyTorch Conference 2026: Google and Meta Open-Source TorchTPU for Native PyTorch on TPUs",
+          "link": "https://www.infoq.com/news/2026/10/google-meta-torchtpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google and Meta open-sourced TorchTPU, a native PyTorch backend for Google's TPUs, at PyTorch Conference North America 2026, and Meta said it plans to move larger LLM workloads onto TPUs with it. AWS released TorchNeuron for Trainium the same week, while developers questioned TPU availability and where vendor lock-in now sits. By Andrew Hoblitzell",
+          "published": "Sun, 25 Oct 2026 18:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Is Kubernetes ready for AI agents?",
+          "link": "https://thenewstack.io/kubernetes-ready-ai-agents/",
+          "summary": "Kubernetes was built around a fairly simple assumption. It&#8217;s that software does what its developers told it to do. AI The post Is Kubernetes ready for AI agents? appeared first on The New Stack .",
+          "published": "Sun, 25 Oct 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Reise durch die Ewigkeit? Dieses Radiosignal reiste 10 Milliarden Jahre bis zur Erde",
+          "link": "https://t3n.de/news/10-milliarden-jahre-radiosignal-1767609/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein sehr kurzes, aber energiereiches Signal aus den Tiefen des Weltraums beschäftigt die Wissenschaft. Die Herkunft war lange unklar, bis das modernste Infrarotteleskop seine Instrumente auf die vermutete Quelle richtete. weiterlesen auf t3n.de",
+          "published": "Sun, 25 Oct 2026 13:50:00 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "PHP Patches Two Critical RCE Flaws That Were Already Under Attack",
+        "Raus aus der Abhängigkeit? Was die Microsoft-Alternative Euro-Office kann – und warum sie für Streit sorgt",
+        "PyTorch Conference 2026: Google and Meta Open-Source TorchTPU for Native PyTorch on TPUs"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Python schließt per Update kritische TLS-Lücke wegen eMudhra-Schlüsseln",
+          "link": "https://www.heise.de/news/Python-schliesst-per-Update-kritische-TLS-Luecke-wegen-eMudhra-Schluesseln-11499933.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 und 3.11.18 beheben eine kritische Schwachstelle durch kompromittierte eMudhra-Zertifikate und weitere Lücken.",
+          "published": "2026-10-26T11:18:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "„Tal der Tränen“: Warum Angreifer bei Sicherheitslücken derzeit im Vorteil sind",
+          "link": "https://www.heise.de/news/Cyberagentur-Software-Schwachstellen-bleiben-laenger-ein-Problem-11499379.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein Experte der Cyberagentur des Bundes erklärt, warum Sicherheitslücken wie die PHP-Schwachstelle derzeit zunehmen und wie KI künftig helfen könnte.",
+          "published": "2026-10-25T11:28:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Python schließt per Update kritische TLS-Lücke wegen eMudhra-Schlüsseln",
+          "link": "https://www.heise.de/news/Python-schliesst-per-Update-kritische-TLS-Luecke-wegen-eMudhra-Schluesseln-11499933.html",
+          "summary": "Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 und 3.11.18 beheben eine kritische Schwachstelle durch kompromittierte eMudhra-Zertifikate und weitere Lücken.",
+          "published": "2026-10-26T10:18:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Wähleradressen: AfD droht wegen Datenleck Ärger mit dem Datenschutz",
+          "link": "https://www.golem.de/news/waehleradressen-afd-droht-wegen-datenleck-aerger-mit-dem-datenschutz-2610-214478.html",
+          "summary": "Nach einem E-Mail-Leak prüft der Datenschutzbeauftragte, ob die AfD in MV Wählerdaten nicht ausreichend geschützt hat. ( Datenschutz , Politik )",
+          "published": "2026-10-24T15:05:10+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "AfD-Datenleck: Geleakte Mails bringen Weidel in der Spendenaffäre in Erklärungsnot",
+          "link": "https://www.golem.de/news/afd-datenleck-geleakte-mails-bringen-weidel-in-der-spendenaffaere-in-erklaerungsnot-2610-214476.html",
+          "summary": "Geleakte E-Mails zeigen, dass Alice Weidel 2017 konkrete Spenden für ihren Social-Media-Wahlkampf erwartete und selbst festlegte, wie das Geld fließen sollte. ( Datenleck , E-Mail )",
+          "published": "2026-10-24T13:47:08+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Python schließt per Update kritische TLS-Lücke wegen eMudhra-Schlüsseln",
+        "„Tal der Tränen“: Warum Angreifer bei Sicherheitslücken derzeit im Vorteil sind",
+        "Python schließt per Update kritische TLS-Lücke wegen eMudhra-Schlüsseln"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Risikoprüfungen: Wie China Jobverluste durch KI eindämmen will",
+          "link": "https://t3n.de/news/china-jobverluste-ki-1769807/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Staatsrat der Volksrepublik China hat die Behörden des Landes aufgefordert, durch KI verursachte Jobverluste wirksam einzudämmen. Ein entsprechender Leitfaden verpflichtet Firmen, bei der Einführung von KI-Systemen mit Vorsicht vorzugehen. weiterlesen auf t3n.de",
+          "published": "Sun, 25 Oct 2026 20:15:14 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise+ | Gehaltsprognose 2027: Was IT-Fachkräfte erwarten können",
+          "link": "https://www.heise.de/ratgeber/Gehaltsprognose-2027-Was-IT-Fachkraefte-erwarten-koennen-11492366.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "KI-Skills und Security-Wissen zahlen sich aus: Der Gehaltsreport von Robert Half zeigt, welche Vergütung IT-Profis 2027 erwartet.",
+          "published": "2026-10-26T07:30:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anzeige: Sechs IT-Jobs in Datenanalyse, Entwicklung und IT-Operations",
+          "link": "https://www.golem.de/news/anzeige-sechs-it-jobs-in-datenanalyse-entwicklung-und-it-operations-2610-214144.html",
+          "summary": "Von Data Analytics und CI/CD bis IT-Security und Operationsmanagement: Sechs neue IT-Jobs bieten anspruchsvolle Aufgaben und Perspektiven. ( Golem Karrierewelt , Unternehmenssoftware )",
+          "published": "2026-10-25T07:00:06+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Brandbrief: Bundesländer fordern Reform von Offshore-Windkraftgesetz",
+          "link": "https://www.golem.de/news/brandbrief-bundeslaender-fordern-reform-von-offshore-windkraftgesetz-2610-214475.html",
+          "summary": "Acht Ministerpräsidenten fordern Änderungen am Offshore-Windkraftgesetz und warnen, dass der derzeitige Ansatz Investitionen verhindern könnte. ( Windkraft , Bundesregierung )",
+          "published": "2026-10-24T13:15:06+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Risikoprüfungen: Wie China Jobverluste durch KI eindämmen will",
+        "heise+ | Gehaltsprognose 2027: Was IT-Fachkräfte erwarten können",
+        "Anzeige: Sechs IT-Jobs in Datenanalyse, Entwicklung und IT-Operations"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "5 kostenlose Alternativen für Windows: So einfach ist der Umstieg auf Linux",
+          "link": "https://t3n.de/news/linux-pc-windows-alternative-1741537/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Linux zu nutzen ist heute ziemlich simpel – wenn man ein paar Dinge vorher weiß. Wir erklären, wie der Umstieg möglichst reibungslos abläuft. Von der kompatible weiterlesen auf t3n.de",
+          "published": "Sun, 25 Oct 2026 13:00:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Freiheit im Netz auf Talfahrt: Zensur, KI, Alterschecks und digitale Isolation",
+          "link": "https://www.heise.de/news/Freiheit-im-Netz-auf-Talfahrt-Zensur-KI-Alterschecks-und-digitale-Isolation-11499475.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Freedom-on-the-Net-Bericht 2026 verweist auf weltweit sinkende Internetfreiheiten. Autokraten isolieren Netze; Altersgrenzen und KI schaffen neue Hürden.",
+          "published": "2026-10-25T16:38:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | c’t-Story: Der menschliche Mähroboter",
+          "link": "https://www.heise.de/hintergrund/c-t-Story-Der-menschliche-Maehroboter-11459507.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Wenn hochmoderne autonome Luxustechnik im Garten niemanden mehr beeindruckt, ist die Stunde für revolutionäre retrofuturistische Dienstleistungen gekommen.",
+          "published": "2026-10-25T14:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | Desinfec't: Defekten Grub-Bootloader unter Linux wiederherstellen",
+          "link": "https://www.heise.de/ratgeber/Desinfec-t-Defekten-Grub-Bootloader-unter-Linux-wiederherstellen-11488347.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Wenn Linux nicht mehr von selbst bootet, können Sie den Desinfec't-Bootloader benutzen oder mit Desinfec't Ihr installiertes Linux reparieren.",
+          "published": "2026-10-25T11:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "php2shell: Updates trudeln ein, viele Webseiten offline, Angriffe laufen",
+          "link": "https://www.heise.de/news/php2shell-Updates-trudeln-ein-viele-Webseiten-offline-Angriffe-laufen-11496366.html",
+          "summary": "Viele Linux-Distributionen liefern aktualisierte PHP-Pakete. Webseiten gingen offline. Erfolgreiche Exploits sind bislang nicht belegt.",
+          "published": "2026-10-22T07:23:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "5 kostenlose Alternativen für Windows: So einfach ist der Umstieg auf Linux",
+        "Freiheit im Netz auf Talfahrt: Zensur, KI, Alterschecks und digitale Isolation",
+        "heise+ | c’t-Story: Der menschliche Mähroboter"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Cloudflare’s Auto Router Rates Each Request for Stakes, from the Most Recent Turns",
+          "link": "https://www.infoq.com/news/2026/10/cloudflare-auto-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare has released Auto Router in public beta through AI Gateway, picking a model per request from a classifier that scores complexity, ambiguity, stakes and context dependence. Cloudflare’s own benchmark puts it ten points below Claude Opus 5.5 on success rate at a third of the cost, and practitioners have questioned how stakes survive a long agent session. By Steef-Jan Wiggers",
+          "published": "Mon, 26 Oct 2026 10:20:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Nach Hacking-Vorfällen: OpenAI trainiert Spitzenmodelle nur noch in einer Kopie des Webs",
+          "link": "https://t3n.de/news/openai-training-simulation-web-1769746/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nach wiederholten Sicherheitsvorfällen zieht das KI-Labor jetzt die Reißleine. Dabei hatten Expert:innen zuvor argumentiert, dass es nahezu unmöglich sei, eine Sandbox komplett von der Außenwelt abzuschotten. weiterlesen auf t3n.de",
+          "published": "Mon, 26 Oct 2026 09:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "5 Dinge, die du diese Woche wissen musst: Smart in die kalte Jahreszeit",
+          "link": "https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-smart-in-die-kalte-jahreszeit-1769574/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um smarte Thermostate, Claude Duet, die Vorzüge einer sehr alten Windows-Version, die Auswirkungen von KI auf unsere Erinnerungen und Anything LLM. weiterlesen auf t3n.de",
+          "published": "Mon, 26 Oct 2026 08:00:58 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Keine Lust auf Gemini? Mit diesem Trick holst du den alten Google Assistant zurück",
+          "link": "https://t3n.de/news/google-assistant-zurueck-gemini-deaktivieren-1768131/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Einige Android-User:innen wollen den Google Assistant zurück haben. Da Google den Helfer aber Gemini ausgetauscht hatten, nehmen sie jetzt große Umwege in Kauf, um die alten Zeiten auf ihrem Smartphone wiederherzustellen. weiterlesen auf t3n.de",
+          "published": "Sun, 25 Oct 2026 14:40:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Warum der Mittelstand bei KI-Agenten jetzt nicht warten sollte",
+          "link": "https://t3n.de/news/ki-agenten-mittelstand-routine-einsparen-1764951/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Während viele mittelständische Unternehmen KI-Agenten noch vorsichtig prüfen, zeigt Accio, Alibaba.coms agentische KI-Plattform für KMU und Solopreneurs, wie Agentic AI im B2B-Alltag entlasten kann: bei Recherche, Datenabgleich, Dokumentenprüfung und operativen Routineprozessen. weiterlesen auf t3n.de",
+          "published": "Sun, 25 Oct 2026 14:00:00 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Cloudflare’s Auto Router Rates Each Request for Stakes, from the Most Recent Turns",
+        "Nach Hacking-Vorfällen: OpenAI trainiert Spitzenmodelle nur noch in einer Kopie des Webs",
+        "5 Dinge, die du diese Woche wissen musst: Smart in die kalte Jahreszeit"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Virtualisierung: Multipass mit Debian, Fedora im Image-Katalog",
+          "link": "https://www.heise.de/news/Multipass-Debian-und-Fedora-als-Cloud-Images-im-Image-Katalog-11495926.html",
+          "summary": "Canonical hat Multipass 1.17 veröffentlicht. Der VM-Manager unterstützt nun Debian- und Fedora-Cloud-Images direkt neben Ubuntu.",
+          "published": "2026-10-21T14:28:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Legendäre Bossgegner: Drachentöten leicht gemacht",
+          "link": "https://www.golem.de/news/legendaere-bossgegner-drachentoeten-leicht-gemacht-2610-214447.html",
+          "summary": "Majestätisch, furchteinflößend und oft nahezu unbesiegbar: Drachen gehören zu den faszinierendsten Wesen der Videospielgeschichte. Was macht einen guten Drachenkampf aus? Von Fabian Mauruschat ( Spiele , World of Warcraft )",
+          "published": "2026-10-25T07:30:08+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+          "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+          "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all seem to happen in the [&#8230;]",
+          "published": "2026-10-25T16:16:19-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Virtualisierung: Multipass mit Debian, Fedora im Image-Katalog",
+        "Legendäre Bossgegner: Drachentöten leicht gemacht",
+        "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "„Magnificent Seven“: Welche Unternehmen laut Apollo-Chefökonom bisher vom KI-Boom profitieren",
+          "link": "https://t3n.de/news/magnificent-seven-welche-unternehmen-laut-apollo-chefoekonom-bisher-vom-ki-boom-profitieren-1769814/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Außerhalb des Tech-Sektors haben sich Margen und Umsätze durch den Einsatz der Technologie kaum verändert. Gleichzeitig ist der Token-Verbrauch allerdings deutlich gestiegen – und damit auch die Kosten. weiterlesen auf t3n.de",
+          "published": "Sun, 25 Oct 2026 20:45:06 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Gestörte Satellitennavigation: Über verwundbare Systeme und ihre Alternativen",
+          "link": "https://t3n.de/news/satelliten-systeme-alternativen-1767174/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Navigation mit Satellitensystemen wie GPS wird zunehmend gezielt gestört. Was steckt dahinter – und was wären die Alternativen? weiterlesen auf t3n.de",
+          "published": "Sun, 25 Oct 2026 20:00:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "3-Euro-Rettung: So machst du aus deinem alten Laptop ein Chromebook",
+          "link": "https://t3n.de/news/3-euro-laptop-chromebook-stick-1758960/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit Chrome OS Flex bietet Google eine Alternative zu Windows an, die ausgedienten PCs ein neues Leben schenken soll. Die Installationsdatei kann man mittlerweil weiterlesen auf t3n.de",
+          "published": "Sun, 25 Oct 2026 16:30:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Echte Polwanderung: Warum selbst der geografische Nordpol keinen festen Platz hat",
+          "link": "https://t3n.de/news/geografische-pole-der-erde-wandern-1769517/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer einen Kompass nutzt, rechnet mit einem beweglichen Magnetfeld, hält den geografischen Nordpol aber meist für einen festen Ort. Satellitendaten und Gesteinsanalysen zeigen jedoch, dass selbst der Boden unter den Ozeanen keine feste Größe ist. weiterlesen auf t3n.de",
+          "published": "Sun, 25 Oct 2026 12:30:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Steam Frame: Valve bereitet Unterstützung für optische Laufwerke vor",
+          "link": "https://www.heise.de/tests/Steam-Frame-Valve-bereitet-Unterstuetzung-fuer-optische-Laufwerke-vor-11499909.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein Steam-Nutzer wollte auf seiner VR-Brille vergebens DVDs schauen und ein altes Rennspiel von Disc installieren. Valve reagierte prompt mit einer Änderung.",
+          "published": "2026-10-26T10:36:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "„Magnificent Seven“: Welche Unternehmen laut Apollo-Chefökonom bisher vom KI-Boom profitieren",
+        "Gestörte Satellitennavigation: Über verwundbare Systeme und ihre Alternativen",
+        "3-Euro-Rettung: So machst du aus deinem alten Laptop ein Chromebook"
+      ]
+    }
+  ]
+}
