@@ -1,0 +1,366 @@
+{
+  "date": "2026-10-27",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AWS Shows Use of AI Agents to Triage Linux Kernel CVEs",
+          "link": "https://www.infoq.com/news/2026/10/aws-ai-agents-linux-kernel-cves/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Engineers from Amazon Web Services (AWS) have described how the team that maintains the Linux kernel for EC2 infrastructure handles kernel CVEs. The process combines an automated filter, an AI agent and human review. The team also argues that it needs to move to newer long-term-support (LTS) kernels, as older branches collect fixes that are never backported. By Matt Saunders",
+          "published": "Tue, 27 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AI is changing Kubernetes; is your platform ready for 2027?",
+          "link": "https://thenewstack.io/kubernetes-agentic-ai-platforms/",
+          "summary": "AI workloads, including those using agentic AI, will&#160;only add to and change&#160;the questions&#160;Kubernetes teams have to answer. It&#8217;s no longer The post AI is changing Kubernetes; is your platform ready for 2027? appeared first on The New Stack .",
+          "published": "Mon, 26 Oct 2026 19:51:04 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Readyon Builds Four Layer Tenant Isolation for Multi Tenant Amazon EKS",
+          "link": "https://www.infoq.com/news/2026/10/readyon-four-layer-isolation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "ReadyOn has detailed a four-layer tenant isolation architecture for its Harmony platform on Amazon EKS. The design combines Kubernetes namespaces, dedicated Karpenter node pools, VPC security groups, and per-tenant Aurora databases, with controls evaluated against a 10-stage multi-tenant threat model focused on cross-tenant access and lateral movement. By Leela Kumili",
+          "published": "Mon, 26 Oct 2026 14:07:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "The next 10 years of KubeVirt",
+          "link": "https://thenewstack.io/next-ten-years-kubevirt/",
+          "summary": "KubeVirt was founded by Red Hat in 2016 around the idea that Kubernetes could run virtual machines alongside containers. We The post The next 10 years of KubeVirt appeared first on The New Stack .",
+          "published": "Mon, 26 Oct 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS Continuum: KI findet und behebt Code-Schwachstellen",
+          "link": "https://www.heise.de/news/AWS-Continuum-KI-findet-und-behebt-Code-Schwachstellen-11497692.html",
+          "summary": "Amazon Web Services macht die KI-gestützte Erkennung und Behebung von Code-Schwachstellen in AWS Continuum allgemein verfügbar.",
+          "published": "2026-10-23T06:38:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AWS Shows Use of AI Agents to Triage Linux Kernel CVEs",
+        "AI is changing Kubernetes; is your platform ready for 2027?",
+        "Readyon Builds Four Layer Tenant Isolation for Multi Tenant Amazon EKS"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: JDK 28 Schedule, Oracle CPUs, eMudhra Certs, Apache POI, WildFly, Azul, BellSoft",
+          "link": "https://www.infoq.com/news/2026/10/java-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for October 19th, 2026, features news highlighting: the proposed release schedule for JDK 28; the eMudhra Intermediate CA certificates breach; the October 2026 Critical Patch Update; Azul and BellSoft CPUs; GA releases of WildFly 42 and Apache POI 6.0; the beta release of Open Liberty 26.0.0.11; and maintenance releases of Micronaut and JobRunr. By Michael Redlich",
+          "published": "Mon, 26 Oct 2026 14:35:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "(g+) IT-Arbeitsmarkt: Mit welchen Tech-Stacks Entwickler jetzt gefragt sind",
+          "link": "https://www.golem.de/news/it-arbeitsmarkt-mit-welchen-tech-stacks-entwickler-jetzt-gefragt-sind-2610-214504.html",
+          "summary": "SAP, Cloud-Betrieb und IT-Sicherheit statt angesagter Frameworks: Welche Kompetenzen Unternehmen tatsächlich nachfragen und worauf IT-Freelancer jetzt setzen sollten. Ein Ratgebertext von Pierre Wilken ( Arbeit , Java )",
+          "published": "2026-10-26T13:30:06+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Java News Roundup: JDK 28 Schedule, Oracle CPUs, eMudhra Certs, Apache POI, WildFly, Azul, BellSoft",
+        "(g+) IT-Arbeitsmarkt: Mit welchen Tech-Stacks Entwickler jetzt gefragt sind"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "The sandbox wasn’t enough: Why AI agent governance requires runtime observability",
+          "link": "https://thenewstack.io/ai-agent-runtime-observability/",
+          "summary": "Models running an OpenAI cybersecurity evaluation reached the public Internet from an environment designed to be isolated. Package installation through The post The sandbox wasn&#8217;t enough: Why AI agent governance requires runtime observability appeared first on The New Stack .",
+          "published": "Mon, 26 Oct 2026 13:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "php2shell: Erfolgreiche Angriffe auf PHP-Schwachstelle bestätigt",
+          "link": "https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Seit Bekanntwerden der php2shell-Schwachstelle laufen Angriffe darauf. Am Wochenende wurden erste erfolgreiche Attacken bestätigt.",
+          "published": "2026-10-27T09:02:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Dienstag: Goldener Handschlag bei Microsoft, Milliarden-Deal von SpaceX",
+          "link": "https://www.heise.de/news/Dienstag-Goldener-Handschlag-bei-Microsoft-Milliarden-Deal-von-SpaceX-11501077.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Microsoft baut Stellen ab + SpaceX schließt Finanzierungsdeal + Verfahren gegen Milei eingestellt + Anthropic vor Börsengang + Debatte um PHP-Schwachstellen",
+          "published": "2026-10-27T06:15:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "php2shell: Erfolgreiche Angriffe auf PHP-Schwachstelle bestätigt",
+          "link": "https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html",
+          "summary": "Seit Bekanntwerden der php2shell-Schwachstelle laufen Angriffe darauf. Am Wochenende wurden erste erfolgreiche Attacken bestätigt.",
+          "published": "2026-10-27T08:02:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Python schließt per Update kritische TLS-Lücke wegen eMudhra-Schlüsseln",
+          "link": "https://www.heise.de/news/Python-schliesst-per-Update-kritische-TLS-Luecke-wegen-eMudhra-Schluesseln-11499933.html",
+          "summary": "Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 und 3.11.18 beheben eine kritische Schwachstelle durch kompromittierte eMudhra-Zertifikate und weitere Lücken.",
+          "published": "2026-10-26T10:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "The sandbox wasn’t enough: Why AI agent governance requires runtime observability",
+        "php2shell: Erfolgreiche Angriffe auf PHP-Schwachstelle bestätigt",
+        "Dienstag: Goldener Handschlag bei Microsoft, Milliarden-Deal von SpaceX"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "\"Mein Bildungsraum\": Millionengrab für eine digitale Zeugnismappe",
+          "link": "https://netzpolitik.org/2026/mein-bildungsraum-millionengrab-fuer-eine-digitale-zeugnismappe/",
+          "summary": "Ohne Aufsehen endete des Projekts \"Mein Bildungsraum\" (Symbolbild) – CC-BY-SA 4.0 : Grabsteindetail Granary-Friedhof Boston: Wikimedia Commons / Rhododendrites; Bearbeitung: netzpolitik.org Die Bundesregierung hat das digitale Großprojekt „Mein Bildungsraum“ begraben. Von dem Versprechen, lebenslanges Lernen zu fördern, ist nurmehr eine digitale Zeugnismappe geblieben. Die Gründe für das Scheitern lassen sich benennen. Ein Kommentar.",
+          "published": "Mon, 26 Oct 2026 10:46:08 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Allrad reicht nicht mehr: US-Crossover rutschen in die Pkw-Klasse",
+          "link": "https://www.heise.de/news/US-Behoerde-NHTSA-Viele-Crossover-sollen-ab-2030-als-Pkw-gelten-11499983.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die US-Kraftfahrtbehörde NHTSA ändert die Kriterien für leichte Lastwagen ab 2030. Strengere Verbrauchsregeln könnten die Fertigung ins Ausland treiben.",
+          "published": "2026-10-26T15:05:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Mein Bildungsraum: Bund beendet Bildungsplattform nach 236 Millionen Euro",
+          "link": "https://www.golem.de/news/mein-bildungsraum-bund-beendet-bildungsplattform-nach-236-millionen-euro-2610-214533.html",
+          "summary": "Aus der nationalen Bildungsplattform wird eine App für digitale Abiturzeugnisse. Erste Länder testen sie bereits. ( Bundesregierung , Politik )",
+          "published": "2026-10-27T08:21:04+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "r/opensource: Leute ohne ausreichende Englischkenntnisse sind nicht mehr erwünscht",
+          "link": "https://www.golem.de/news/r-opensource-leute-ohne-ausreichende-englischkenntnisse-sind-nicht-mehr-erwuenscht-2610-214511.html",
+          "summary": "Die Reddit-Community r/opensource stellt neue Regeln auf, um etwa KI-Nutzung zu unterbinden. Das wird stark kritisiert. ( Reddit , Softwareentwicklung )",
+          "published": "2026-10-26T12:31:02+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "\"Mein Bildungsraum\": Millionengrab für eine digitale Zeugnismappe",
+        "Allrad reicht nicht mehr: US-Crossover rutschen in die Pkw-Klasse",
+        "Mein Bildungsraum: Bund beendet Bildungsplattform nach 236 Millionen Euro"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Article: The Evolution of Agentic Harnesses: From Chains to Graph to Code",
+          "link": "https://www.infoq.com/articles/agentic-ai-architecture-harness-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Agentic LLM systems have moved from linear prompt chains to graph-based workflows and, more recently, code-executing harnesses. Chains are simple but fragile, graphs add branching, retries, and validation, and code harnesses verify outputs through execution. The article advises validating model outputs and choosing the least complex design that meets reliability, speed, and cost needs. By Karthik Ramgopal",
+          "published": "Mon, 26 Oct 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Wenn KI wählen müsste: GPT und Grok liefern gegensätzliche Empfehlungen",
+          "link": "https://www.heise.de/news/KI-Wahlempfehlungen-GPT-waehlt-Demokraten-Grok-waehlt-Republikaner-11500825.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein Forscherteam fragte GPT-6.1 Sol und Grok 4.7 per API nach Wahlempfehlungen. Das Ergebnis: GPT wählte fast nur demokratisch, Grok fast nur republikanisch.",
+          "published": "2026-10-26T18:07:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "php2shell: Updates trudeln ein, viele Webseiten offline, Angriffe laufen",
+          "link": "https://www.heise.de/news/php2shell-Updates-trudeln-ein-viele-Webseiten-offline-Angriffe-laufen-11496366.html",
+          "summary": "Viele Linux-Distributionen liefern aktualisierte PHP-Pakete. Webseiten gingen offline. Erfolgreiche Exploits sind bislang nicht belegt.",
+          "published": "2026-10-22T07:23:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "The RealReal won’t let AI agents hog designer clothing",
+          "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+          "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, [&#8230;]",
+          "published": "2026-10-26T13:30:55-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(4 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Article: The Evolution of Agentic Harnesses: From Chains to Graph to Code",
+        "Wenn KI wählen müsste: GPT und Grok liefern gegensätzliche Empfehlungen",
+        "php2shell: Updates trudeln ein, viele Webseiten offline, Angriffe laufen"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "ChatGPT für Teilchenphysiker? Warum das Cern mit Mistral ein eigenes KI-Modell entwickelt",
+          "link": "https://t3n.de/news/chatgpt-fuer-teilchenphysiker-warum-das-cern-mit-mistral-ein-eigenes-ki-modell-entwickelt-1769962/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Werden jetzt auch Kernphysiker wegrationalisiert? Das Forschungszentrum Cern will gemeinsam mit Mistral ein KI-Modell für Teilchenphysik entwickeln. weiterlesen auf t3n.de",
+          "published": "Tue, 27 Oct 2026 10:00:01 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI halved its agent’s price. Its own safety report flagged a catch.",
+          "link": "https://thenewstack.io/openai-terra-bypassed-restrictions/",
+          "summary": "OpenAI launched GPT-6.1 Terra on Monday, cutting API prices in half and delivering major gains in coding and computer-use benchmarks. The post OpenAI halved its agent’s price. Its own safety report flagged a catch. appeared first on The New Stack .",
+          "published": "Mon, 26 Oct 2026 22:14:01 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AGNTCon + MCPCon 2026: Agentic AI Foundation Adds Four Projects as MCP Turns to Security",
+          "link": "https://www.infoq.com/news/2026/10/agntcon-mcpcon-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "At AGNTCon + MCPCon North America 2026, the Agentic AI Foundation added OpenSandbox, Open Responses, Agent Skills, and OpenEnv, reaching ten projects in its first year. Keynotes from Anthropic, OpenAI, Google, and UC Berkeley focused on MCP in production, security, and agents with their own identities. By Andrew Hoblitzell",
+          "published": "Mon, 26 Oct 2026 22:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Countdown für Börsengang eingeläutet: Was Anthropic in seinem Börsenprospekt verrät",
+          "link": "https://t3n.de/news/boersengang-anthropic-1769997/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit der Veröffentlichung des Börsenprospekts rückt der erwartete Börsengang von Anthropic näher. Der KI-Anbieter weist darin ein hohes Wachstum, aber auch hohe Verluste aus. Auf 90 Seiten breitet das Unternehmen Risikofaktoren aus. weiterlesen auf t3n.de",
+          "published": "Mon, 26 Oct 2026 20:20:02 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Most of Anthropic’s Q3 revenue came from models that barely existed six months ago",
+          "link": "https://thenewstack.io/anthropic-s1-models-revenue/",
+          "summary": "Anthropic&#8217;s long-awaited S-1, filed Monday ahead of its planned Nasdaq debut under the ticker ANT, shows how quickly customers are The post Most of Anthropic’s Q3 revenue came from models that barely existed six months ago appeared first on The New Stack .",
+          "published": "Mon, 26 Oct 2026 18:29:26 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "ChatGPT für Teilchenphysiker? Warum das Cern mit Mistral ein eigenes KI-Modell entwickelt",
+        "OpenAI halved its agent’s price. Its own safety report flagged a catch.",
+        "AGNTCon + MCPCon 2026: Agentic AI Foundation Adds Four Projects as MCP Turns to Security"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "„Crackgate“: Apple nimmt zu iPhone-Duo-Defekt Stellung – ein bisschen",
+          "link": "https://www.heise.de/news/Crackgate-Apple-nimmt-zu-iPhone-Duo-Defekt-Stellung-ein-bisschen-11501087.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Resonanz früher Nutzer „unglaublich positiv“, Problem kommt selten vor: Apple hat sich zu gebrochenen Duo-Displays geäußert. Betroffene sollen zum Support.",
+          "published": "2026-10-27T10:56:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Schweiz in Minecraft: Student baut Land im Maßstab 1:1 nach",
+          "link": "https://www.heise.de/news/Schweiz-im-Massstab-1-1-in-Minecraft-ETH-Student-baut-Land-aus-Geodaten-nach-11500785.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein Block, ein Meter: Das Projekt Blocks rechnet die Schweiz aus Swisstopo-Daten in eine Minecraft-Welt um. Die Gesamtkarte erhalten nur Schweizer Einwohner.",
+          "published": "2026-10-26T16:58:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
+          "link": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+          "summary": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of iPhone Duo units.\" If your iPhone Duo [&#8230;]",
+          "published": "2026-10-26T13:28:07-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "„Crackgate“: Apple nimmt zu iPhone-Duo-Defekt Stellung – ein bisschen",
+        "Schweiz in Minecraft: Student baut Land im Maßstab 1:1 nach",
+        "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens"
+      ]
+    },
+    {
+      "id": "platform-eng",
+      "name": "Platform Engineering / IDPs",
+      "items": [
+        {
+          "title": "Developers Reporting Double-Digit Weekly Time Savings From AI Fell From 68% to 26%",
+          "link": "https://www.infoq.com/news/2026/10/atlassian-devex-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Atlassian’s State of Developer Experience 2026 finds the share of developers saving ten or more hours a week with AI dropped from 68% to 26% year over year, while only 28% report noticeably less friction than before AI. Engineering leaders report spending more time managing and correcting AI output than developers do. By Steef-Jan Wiggers",
+          "published": "Tue, 27 Oct 2026 04:45:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Platform Engineering / IDPs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Developers Reporting Double-Digit Weekly Time Savings From AI Fell From 68% to 26%"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "The AI observability race will be won on interoperability",
+          "link": "https://thenewstack.io/ai-observability-through-interoperability/",
+          "summary": "The AI race is often measured by model quality, speed, and token cost. For business leaders, those measures contribute to The post The AI observability race will be won on interoperability appeared first on The New Stack .",
+          "published": "Mon, 26 Oct 2026 12:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "The AI observability race will be won on interoperability"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Brotli-Problem weitet sich aus: Sicherheitslücke betrifft mehr Apps als gedacht",
+          "link": "https://t3n.de/news/brotli-sicherheitsluecke-apps-1770029/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine Mitte Oktober 2026 als „node2shell“ bekanntgewordene Sicherheitslücke in Googles Brotli-Decoder betrifft deutlich mehr Apps als ursprünglich angenommen. Für die meisten Anwendungen sind Patches vorhanden. Admins sollten schnell updaten. weiterlesen auf t3n.de",
+          "published": "Tue, 27 Oct 2026 10:30:25 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "FritzOS 8.50: Diese Fritzboxen können das Update jetzt laden",
+          "link": "https://t3n.de/news/fritzos-8-50-update-fritzbox-download-1767411/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "FritzOS 8.50 wird schon für erste Router des Herstellers ausgerollt. Mit der Zeit sollen immer mehr Fritzboxen hinzukommen. Welche Geräte das Update jetzt laden können. weiterlesen auf t3n.de",
+          "published": "Tue, 27 Oct 2026 08:30:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "iOS 27.2: Update steht für iPhones bereit – das steckt drin",
+          "link": "https://t3n.de/news/ios-27-2-iphone-update-features-1769564/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "iOS 27.2 ist da und wird an kompatible iPhones ausgerollt. Leider müssen Apple-Fans hierzulande auf einige der Neuerungen verzichten. Woran das liegt und was trotzdem mit dem Update bereitsteht. weiterlesen auf t3n.de",
+          "published": "Tue, 27 Oct 2026 08:00:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "iPhone Duo: Gebrochene Displays, Verfügbarkeit, Betriebssystem – was ihr vor dem Kauf wissen müsst",
+          "link": "https://t3n.de/news/iphone-duo-kaufen-wichtig-display-verfuegbarkeit-1768383/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Verkaufsstart vom iPhone Duo bringt offenbar einige Probleme mit sich. Das Gerät ist in den kommenden Monaten nur schwer zu bekommen. Zudem beklagen erste Nutzer Probleme mit kaputten Displays. Ihr wollt selbst ein Duo kaufen? Wir verraten, was ihr vorab wissen müsst. weiterlesen auf t3n.de",
+          "published": "Tue, 27 Oct 2026 07:30:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Wegen hoher KI-Investitionen: Microsoft bietet 60.000 Mitarbeitern Abfindungen an",
+          "link": "https://t3n.de/news/ki-microsoft-abfindungen-1770007/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die hohen KI-Investitionen setzen Microsoft offenbar zu. Der Konzern muss Kosten sparen – und setzt dafür beim Personal an. 60.000 Mitarbeiter:innen werden über ein entsprechendes Programm Abfindungen angeboten. Nicht zum ersten Mal. weiterlesen auf t3n.de",
+          "published": "Mon, 26 Oct 2026 21:33:09 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Brotli-Problem weitet sich aus: Sicherheitslücke betrifft mehr Apps als gedacht",
+        "FritzOS 8.50: Diese Fritzboxen können das Update jetzt laden",
+        "iOS 27.2: Update steht für iPhones bereit – das steckt drin"
+      ]
+    }
+  ]
+}
