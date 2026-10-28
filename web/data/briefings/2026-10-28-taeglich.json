@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-28",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Microsoft's October Security Update Fixes 1,400+ Vulnerabilities, One Exploited in the Wild",
+          "link": "https://www.infoq.com/news/2026/10/microsoft-october-2026-patch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft's latest monthly security update addresses 1415 vulnerabilities across multiple products. One vulnerability affecting Windows Shell has been exploited in the wild, while 85 are classified as critical. Affected products include Windows OS, Office, Exchange, .NET, Edge, as well as potentially Hyper-V and Azure components. By Sergio De Simone",
+          "published": "Wed, 28 Oct 2026 10:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+          "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+          "summary": "International travel used to be the main risk of measles cases in the US—not anymore.",
+          "published": "Tue, 27 Oct 2026 22:22:32 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+          "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+          "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+          "published": "Tue, 27 Oct 2026 21:50:04 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Google Cloud für BND, MAD und Verfassungsschutz: Unsouveräner geht es nicht",
+          "link": "https://t3n.de/news/google-cloud-fuer-bnd-mad-und-verfassungsschutz-unsouveraener-geht-es-nicht-1770152/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Deutsche Geheimdienste könnten in Zukunft mit der ND-Cloud einen Cloud-Dienst von Google nutzen. Für unseren Autor ist das nicht nur Quatsch, sondern auch realitätsverweigernd. weiterlesen auf t3n.de",
+          "published": "Tue, 27 Oct 2026 15:45:11 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "The hidden failure paths that affect Kubernetes control plane availability",
+          "link": "https://thenewstack.io/kubernetes-control-plane-failures/",
+          "summary": "Kubernetes control planes are designed to contain individual failures, but their availability still depends on how components in the critical The post The hidden failure paths that affect Kubernetes control plane availability appeared first on The New Stack .",
+          "published": "Tue, 27 Oct 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Microsoft's October Security Update Fixes 1,400+ Vulnerabilities, One Exploited in the Wild",
+        "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+        "\"No human at the helm\": Delaware plan would let AI agents run entire businesses"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+          "link": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11480210.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
+          "published": "2026-10-28T10:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Darknet Diaries Deutsch: Maxie – zwischen Netz und Meeresgrund – Teil 1",
+          "link": "https://www.heise.de/news/Darknet-Diaries-Deutsch-Maxie-zwischen-Netz-und-Meeresgrund-Teil-1-11485741.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Pentesterin Maxie Reynolds erzählt, wie sie sich im Auftrag ihrer Kunden Zugang zu Gebäuden verschafft – und warum Hacking manchmal ganz ohne Computer auskommt.",
+          "published": "2026-10-27T16:02:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "php2shell: Erfolgreiche Angriffe auf PHP-Schwachstelle bestätigt",
+          "link": "https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html",
+          "summary": "Seit Bekanntwerden der php2shell-Schwachstelle laufen Angriffe darauf. Am Wochenende wurden erste erfolgreiche Attacken bestätigt.",
+          "published": "2026-10-27T08:02:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Python schließt per Update kritische TLS-Lücke wegen eMudhra-Schlüsseln",
+          "link": "https://www.heise.de/news/Python-schliesst-per-Update-kritische-TLS-Luecke-wegen-eMudhra-Schluesseln-11499933.html",
+          "summary": "Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 und 3.11.18 beheben eine kritische Schwachstelle durch kompromittierte eMudhra-Zertifikate und weitere Lücken.",
+          "published": "2026-10-26T10:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(4 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+        "Darknet Diaries Deutsch: Maxie – zwischen Netz und Meeresgrund – Teil 1",
+        "php2shell: Erfolgreiche Angriffe auf PHP-Schwachstelle bestätigt"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Antrag: Grüne fordern Haftung für KI-Firmen und Management",
+          "link": "https://www.golem.de/news/antrag-gruene-fordern-haftung-fuer-ki-firmen-und-management-2610-214570.html",
+          "summary": "Die Grünen fordern strengere Sicherheitsauflagen für KI. Man verlangt ein entschlossenes Handeln der Bundesregierung sowie eine Aufstockung staatlicher Prüfstellen. ( Security , PHP )",
+          "published": "2026-10-27T18:33:01+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Antrag: Grüne fordern Haftung für KI-Firmen und Management"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Zero 3W & 4 Model A: Hinweise auf neue Raspberry Pi 4",
+          "link": "https://www.golem.de/news/zero-3w-4-model-a-hinweise-auf-neue-raspberry-pi-4-2610-214581.html",
+          "summary": "Raspberry Pi sind mittlerweile extrem teuer geworden. Der Linux-Kernel kündigt nun zwei neue, günstigere Modelle an. ( Raspberry Pi , Linux )",
+          "published": "2026-10-28T10:45:03+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Zero 3W & 4 Model A: Hinweise auf neue Raspberry Pi 4"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Article: Building an Offline-First AI Coding Tutor for Low-End Android Phones",
+          "link": "https://www.infoq.com/articles/building-offline-first-android-app-low-end-devices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This article is about engineering an offline-first app for low-end devices based on our experience in Nigeria and India. The interesting problems in this space are storage, quota, cold start, and failure-path design. Our approach applies to any product whose users are on constrained devices and intermittent connections, when the assumption they have a laptop and broadband access do not hold. By Chidi Nwaogu",
+          "published": "Wed, 28 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Präsidentschaftswahl in Brasilien: Gewonnen mit und trotz Internet",
+          "link": "https://netzpolitik.org/2026/praesidentschaftswahl-in-brasilien-gewonnen-mit-und-trotz-internet/",
+          "summary": "Der wiedergewählte brasilianische Präsident Lula mit seinem digitalen Einflüsterer André Janones. (Archivbild) – Alle Rechte vorbehalten: Foto: Fotoarena / Bearbeitung: netzpolitik.org Brasiliens Linke hat in sozialen Medien traditionell einen schweren Stand. Trotz des Gegenwinds gelang Präsident Lula die Wiederwahl. Dazu hat entscheidend eine Online-Kampagne beigetragen, die auf Mobilisierung vor Ort gesetzt hat.",
+          "published": "Wed, 28 Oct 2026 08:51:45 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Google built AI agents a world to practice in. The physics still aren’t quite right.",
+          "link": "https://thenewstack.io/genie-4-world-model/",
+          "summary": "Google DeepMind introduced Genie 4 on Tuesday, a world model that renders interactive environments in real time with simulated physics, The post Google built AI agents a world to practice in. The physics still aren’t quite right. appeared first on The New Stack .",
+          "published": "Tue, 27 Oct 2026 22:33:51 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+          "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+          "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+          "published": "Tue, 27 Oct 2026 21:31:14 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Replit’s CEO says an idea from 1937 could make the org chart obsolete",
+          "link": "https://thenewstack.io/replit-self-driving-company/",
+          "summary": "Replit CEO and co-founder Amjad Masad has spent the past year watching AI agents absorb the routine execution inside his The post Replit’s CEO says an idea from 1937 could make the org chart obsolete appeared first on The New Stack .",
+          "published": "Tue, 27 Oct 2026 21:16:40 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Article: Building an Offline-First AI Coding Tutor for Low-End Android Phones",
+        "Präsidentschaftswahl in Brasilien: Gewonnen mit und trotz Internet",
+        "Google built AI agents a world to practice in. The physics still aren’t quite right."
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
+          "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+          "summary": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
+          "published": "Tue, 27 Oct 2026 14:20:26 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Uber Moves beyond CPU Cores with Performance-Aware Scheduling for Stateful Workloads",
+          "link": "https://www.infoq.com/news/2026/10/uber-cpu-stateful-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Uber has introduced Normalized Compute Units (NCUs) to make CPU allocation more consistent across its highly heterogeneous server fleet. By Craig Risi",
+          "published": "Tue, 27 Oct 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+          "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+          "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing [&#8230;]",
+          "published": "2026-10-27T18:55:05-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
+        "Uber Moves beyond CPU Cores with Performance-Aware Scheduling for Stateful Workloads",
+        "Here’s why the iPhone Duo’s hinge could be cracking the screen"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Reicht schon ein Macbook mit M1? Diese Hardware brauchst du für lokale KI",
+          "link": "https://t3n.de/news/lokale-ki-modelle-mac-pc-grafikkarte-hardware-voraussetzungen-1760193/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI-Modelle lokal auf dem Computer zu betreiben, bringt einen entscheidenden Vorteil: Eure Daten bleiben bei euch. Doch nicht jedes Modell läuft auf jedem Endger weiterlesen auf t3n.de",
+          "published": "Wed, 28 Oct 2026 11:00:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Android 18: Neue Funktion soll deine Kontakte besser schützen",
+          "link": "https://t3n.de/news/android-18-kontakte-schuetzen-1770333/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google schließt endlich eine Sicherheitslücke in Android. Apps hatten bisher nahezu unbegrenzten Zugriff auf das Adressbuch deines Smartphones. So soll sich das mit Android 18 ändern. weiterlesen auf t3n.de",
+          "published": "Wed, 28 Oct 2026 10:48:21 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Youtube-Konkurrenz: Instagram-Videos können jetzt bis zu 90 Minuten lang sein",
+          "link": "https://t3n.de/news/instagram-videos-90-minuten-1770279/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Vier Jahre nach dem Aus für IGTV startet Instagram mit „Features“ ein neues Format für längere Videos. Bis zu 90 Minuten lang sollen auf der Plattform veröffentlichte Bewegtbildinhalte wie Video-Podcasts oder Comedyshows künftig sein dürfen. weiterlesen auf t3n.de",
+          "published": "Tue, 27 Oct 2026 20:11:42 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "php2shell: Angreifer nutzen die Lücken jetzt aus – 4 Millionen deutsche Dienste verwundbar",
+          "link": "https://t3n.de/news/php2shell-angreifer-nutzen-die-luecken-jetzt-aus-4-millionen-deutsche-dienste-veruwndbar-1770083/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mehrere kritische PHP-Lücken werden nun aktiv ausgenutzt, berichten Sicherheitsexperten. Und die Gefahr ist nicht gebannt: Allein in Deutschland melden sich noch über vier Millionen Dienste mit verwundbaren Versionsnummern. weiterlesen auf t3n.de",
+          "published": "Tue, 27 Oct 2026 16:30:28 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Überholmanöver im All: Japan will beim Mars-Wettlauf gewinnen",
+          "link": "https://t3n.de/news/mars-mission-japan-mmx-wettlauf-1768868/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Seit Jahren arbeiten verschiedene Raumfahrtnationen daran, erstmals Gesteinsproben vom Mars zur Erde zu transportieren. Während deren Vorhaben ins Stocken geraten sind, wählt ein weiterer Akteur nun eine indirekte Route mit eigenen Risiken. weiterlesen auf t3n.de",
+          "published": "Tue, 27 Oct 2026 15:55:00 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Reicht schon ein Macbook mit M1? Diese Hardware brauchst du für lokale KI",
+        "Android 18: Neue Funktion soll deine Kontakte besser schützen",
+        "Youtube-Konkurrenz: Instagram-Videos können jetzt bis zu 90 Minuten lang sein"
+      ]
+    }
+  ]
+}
