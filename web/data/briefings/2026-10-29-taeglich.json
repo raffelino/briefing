@@ -1,0 +1,288 @@
+{
+  "date": "2026-10-29",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Neues PROLED-XDR-Display: Apple verpasst Macbook Pro erstmals Touch-Bildschirm",
+          "link": "https://t3n.de/news/apple-macbook-pro-touch-1770497/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Apple hat erstmals ein Macbook Pro mit Touch-Bildschirm vorgestellt. Die Tandem-OLED-Technologie des PROLED-XDR-Displays soll eine Helligkeit von bis zu 2.000 Nits ermöglichen. Zudem erhält das Profi-Laptop die vom iPhone bekannte Dynamic Island. weiterlesen auf t3n.de",
+          "published": "Wed, 28 Oct 2026 19:51:48 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anything LLM im Praxistest: So baust du dir deinen eigenen ChatGPT-Ersatz – komplett offline",
+          "link": "https://t3n.de/news/anything-llm-im-praxistest-1768974/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Agentische Fähigkeiten, Websuche und integrierter Wissensspeicher: Anything LLM ist ein Allrounder für den lokalen KI‑Einsatz. Wir haben uns angeschaut, wie sic weiterlesen auf t3n.de",
+          "published": "Wed, 28 Oct 2026 14:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Microsoft's October Security Update Fixes 1,400+ Vulnerabilities, One Exploited in the Wild",
+          "link": "https://www.infoq.com/news/2026/10/microsoft-october-2026-patch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft's latest monthly security update addresses 1415 vulnerabilities across multiple products. One vulnerability affecting Windows Shell has been exploited in the wild, while 85 are classified as critical. Affected products include Windows OS, Office, Exchange, .NET, Edge, as well as potentially Hyper-V and Azure components. By Sergio De Simone",
+          "published": "Wed, 28 Oct 2026 10:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Der nächste Engpass für Elektronik in Europa: Leiterplatten werden knapp",
+          "link": "https://www.heise.de/news/Der-naechste-Engpass-fuer-Elektronik-in-Europa-Leiterplatten-werden-knapp-11503725.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In Europa gibt es nur noch wenige Hersteller von Platinen, auch PCBs genannt. Zudem drohen Lieferschwierigkeiten bei Vorprodukten wie Epoxidharz und Glasgewebe.",
+          "published": "2026-10-28T19:36:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(4 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Neues PROLED-XDR-Display: Apple verpasst Macbook Pro erstmals Touch-Bildschirm",
+        "Anything LLM im Praxistest: So baust du dir deinen eigenen ChatGPT-Ersatz – komplett offline",
+        "Microsoft's October Security Update Fixes 1,400+ Vulnerabilities, One Exploited in the Wild"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Angriffe auf Linux- und VMware-ESX-Schwachstellen",
+          "link": "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die IT-Sicherheitsbehörde CISA warnt vor Angriffen auf Lecks im Linux-Kernel und VMware ESX. Dieses Mal sind Hintergründe bekannt.",
+          "published": "2026-10-29T08:34:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "php2shell: Erfolgreiche Angriffe auf PHP-Schwachstelle bestätigt",
+          "link": "https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html",
+          "summary": "Seit Bekanntwerden der php2shell-Schwachstelle laufen Angriffe darauf. Am Wochenende wurden erste erfolgreiche Attacken bestätigt.",
+          "published": "2026-10-27T08:02:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Python schließt per Update kritische TLS-Lücke wegen eMudhra-Schlüsseln",
+          "link": "https://www.heise.de/news/Python-schliesst-per-Update-kritische-TLS-Luecke-wegen-eMudhra-Schluesseln-11499933.html",
+          "summary": "Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 und 3.11.18 beheben eine kritische Schwachstelle durch kompromittierte eMudhra-Zertifikate und weitere Lücken.",
+          "published": "2026-10-26T10:18:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+          "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+          "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over [&#8230;]",
+          "published": "2026-10-28T16:03:00-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(4 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Angriffe auf Linux- und VMware-ESX-Schwachstellen",
+        "php2shell: Erfolgreiche Angriffe auf PHP-Schwachstelle bestätigt",
+        "Python schließt per Update kritische TLS-Lücke wegen eMudhra-Schlüsseln"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Datadog Builds a Specialist AI Model for SRE Investigations",
+          "link": "https://www.infoq.com/news/2026/10/datadog-scout-sre-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Datadog has released Scout, a model trained to investigate production problems. It runs inside Bits Investigation, the company's AI SRE product, where it can pick up an alert, look through telemetry and suggest what caused the problem. Datadog engineers and a small number of customers are using it in a closed preview. By Matt Saunders",
+          "published": "Thu, 29 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Apple: Dieser neue Mac Studio kostet mehr als ein Neuwagen",
+          "link": "https://t3n.de/news/apple-mac-studio-512-gigabyte-ram-kleinwagen-1770523/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn man die Möglichkeiten für das neue Macbook Pro mit Touchscreen im Konfigurator ausreizt, landet man bei rund 16.000 Euro. Gegen die neue Version des Mac Studio wirkt das noch günstig. weiterlesen auf t3n.de",
+          "published": "Thu, 29 Oct 2026 09:15:32 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Datadog Builds a Specialist AI Model for SRE Investigations",
+        "Apple: Dieser neue Mac Studio kostet mehr als ein Neuwagen"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
+          "link": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
+          "summary": "With more than 200 kWh, this luxury three-row can go 460 miles on a charge.",
+          "published": "Wed, 28 Oct 2026 17:55:45 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "heise+ | Gamingmaus mit Breitbandfunk: Steelseries Sensei Pro im Test",
+          "link": "https://www.heise.de/tests/Gamingmaus-mit-Breitbandfunk-Steelseries-Sensei-Pro-im-Test-11488203.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Mit der Sensei Pro trumpft nach Logitech und Razer auch Steelseries mit einer Luxusmaus auf. Breitbandfunk ist spannend, aber nötig? Wir haben es getestet.",
+          "published": "2026-10-29T08:15:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | Verschlüsselte Linux-Systeme mit Desinfec't retten und reparieren",
+          "link": "https://www.heise.de/ratgeber/Verschluesselte-Linux-Systeme-mit-Desinfec-t-retten-und-reparieren-11488223.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Mit Desinfec't beseitigen Sie nicht nur Viren, sondern sichern Daten, ändern vergessene Passwörter oder schalten störende Systemdienste ab. Wir zeigen, wie.",
+          "published": "2026-10-28T17:30:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(3 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
+        "heise+ | Gamingmaus mit Breitbandfunk: Steelseries Sensei Pro im Test",
+        "heise+ | Verschlüsselte Linux-Systeme mit Desinfec't retten und reparieren"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "QCon AI New York 2026 Program Committee Picks: Agent Identity, Context Costs, and Open-Source Infere",
+          "link": "https://www.infoq.com/news/2026/10/qcon-ai-newyork-2026-pc-picks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Who authorizes an agent’s actions, and how should teams manage growing context costs? The QCon AI New York 2026 program committee shares six session picks that tackle these questions, alongside open-source inference, agent standards, and audio AI. By Artenisa Chatziou",
+          "published": "Thu, 29 Oct 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "“Urgency is an inherently subjective call”: Anthropic tells TNS how it grades Claude Duet",
+          "link": "https://thenewstack.io/claude-duet-agent-judgment/",
+          "summary": "Anthropic built Claude Duet, an AI assistant that monitors your connected apps and works on tasks in the background, to The post “Urgency is an inherently subjective call”: Anthropic tells TNS how it grades Claude Duet appeared first on The New Stack .",
+          "published": "Thu, 29 Oct 2026 11:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Anthropic Says Nobody Needs a Mental Model of Claude Code. Practitioners Are Testing That",
+          "link": "https://www.infoq.com/news/2026/10/anthropic-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Anthropic has published how the Claude Code team reviews code now that Claude writes roughly 90% of it, including a claim that nobody keeps a complete mental model of the codebase. The post documents a pull request that ran more than fifty review rounds overnight, a reviewer spending most of its effort on pre-existing code, and a control the team says it does not yet have. By Steef-Jan Wiggers",
+          "published": "Thu, 29 Oct 2026 09:58:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Discord bei Google: Welche Nachrichten bald im Suchindex landen – und warum für die EU andere Regeln gelten",
+          "link": "https://t3n.de/news/discord-google-suche-welche-nachrichten-regeln-1770555/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Jahrelang blieben Unterhaltungen auf Discord hinter den Mauern der Plattform für Suchmaschinen unsichtbar. Nun öffnet der Dienst tausende Kanäle für das offene Web, legt dafür aber Kriterien fest, durch die längst nicht jeder Beitrag im Suchindex landet. weiterlesen auf t3n.de",
+          "published": "Thu, 29 Oct 2026 10:45:06 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Wenn KI dir nach dem Mund redet: Mit diesem Prompt prüfst du alte Chats",
+          "link": "https://t3n.de/news/falsche-zustimmung-ki-mit-diesem-prompt-alte-chats-pruefen-1770431/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "ChatGPT, Claude und Gemini stimmen mitunter zu, obwohl deine Ideen zu wenig durchdacht sind. Ein Prompt hilft dir, frühere Gespräche auf falsches Lob zu prüfen. weiterlesen auf t3n.de",
+          "published": "Thu, 29 Oct 2026 08:30:21 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "QCon AI New York 2026 Program Committee Picks: Agent Identity, Context Costs, and Open-Source Infere",
+        "“Urgency is an inherently subjective call”: Anthropic tells TNS how it grades Claude Duet",
+        "Anthropic Says Nobody Needs a Mental Model of Claude Code. Practitioners Are Testing That"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Samsung gibt groben Ausblick auf Galaxy S27 und Produktroadmap 2027",
+          "link": "https://www.heise.de/news/Samsung-gibt-groben-Ausblick-auf-Galaxy-S27-und-Produktroadmap-2027-11504263.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Samsung hat im Zuge der Veröffentlichung der Quartalszahlen einen Ausblick auf das Galaxy S27 und eine grobe Produktroadmap für das Jahr 2027 gewährt.",
+          "published": "2026-10-29T10:33:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "1-zu-1-Nachbau: Student rekreiert die Schweiz in Minecraft",
+          "link": "https://www.golem.de/news/1-zu-1-nachbau-student-rekreiert-die-schweiz-in-minecraft-2610-214631.html",
+          "summary": "Das Land wird maßstabsgetreu nach Geodaten erschaffen. Ein Block hat dabei eine Kantenlänge von einem Meter. ( Spiele , Minecraft )",
+          "published": "2026-10-29T11:38:02+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Anzeige: Cyber Resilience Act in der Produktentwicklung umsetzen",
+          "link": "https://www.golem.de/news/anzeige-cyber-resilience-act-in-der-produktentwicklung-umsetzen-2610-214494.html",
+          "summary": "Der Cyber Resilience Act erfordert Prozesse für sichere Produkte. Ein Workshop zeigt, wie Hersteller Risiken bewerten und Pflichten umsetzen. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-10-29T07:15:06+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Samsung gibt groben Ausblick auf Galaxy S27 und Produktroadmap 2027",
+        "1-zu-1-Nachbau: Student rekreiert die Schweiz in Minecraft",
+        "Anzeige: Cyber Resilience Act in der Produktentwicklung umsetzen"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Presentation: Wrangling Telemetry at Scale: A Guide to Self-Hosted Observability",
+          "link": "https://www.infoq.com/presentations/self-hosted-observability-stack-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Colin Douch shares battle-tested strategies for building and scaling self-hosted observability stacks. He explains how to effectively correlate metrics, structured logs, and distributed traces using open-source tooling like Prometheus, VictoriaMetrics, and Jaeger, while navigating the engineering trade-offs of avoiding SaaS vendor lock-in. By Colin Douch",
+          "published": "Wed, 28 Oct 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Wrangling Telemetry at Scale: A Guide to Self-Hosted Observability"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Der Verkäufer wird zur Kasse: Was sich bei Mediamarkt und Saturn jetzt bei der Bezahlung ändert",
+          "link": "https://t3n.de/news/mediamarkt-saturn-bezahlung-1770551/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Schluss mit dem Anstehen an der Kasse: Mediamarkt und Saturn führen in vielen Märkten eine neue Bezahlmöglichkeit ein – und die erinnert an den Apple Store. Kund:innen können dann direkt beim Berater bezahlen. weiterlesen auf t3n.de",
+          "published": "Thu, 29 Oct 2026 11:15:57 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Open Source Diktier-App: So hat sich ein Produktmanager seinen KI-Workflow aufgebaut",
+          "link": "https://t3n.de/news/open-source-diktier-app-freeflow-1770271/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Produktmanager Jan Werner nutzt in seinem Arbeitsalltag nahezu rund um die Uhr die KI-Diktier-App Freeflow. Warum er von Wispr Flow auf die Open-Source-Lösung u weiterlesen auf t3n.de",
+          "published": "Thu, 29 Oct 2026 08:00:28 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Schon vor 10 Jahren auf Aufnahmen: Algorithmus entdeckt neuen Zwergplaneten hinter Pluto",
+          "link": "https://t3n.de/news/algorithmus-zwergplanet-pluto-1770507/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Forscher:innen haben in Daten des Vera-C.-Rubin-Observatoriums einen möglichen neuen Zwergplaneten hinter Pluto entdeckt. Bei dem Fund half ein eigens entwickelter Algorithmus. Der Himmelskörper war schon 2016 auf Teleskopaufnahmen zu sehen. weiterlesen auf t3n.de",
+          "published": "Wed, 28 Oct 2026 21:25:02 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
+          "link": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
+          "summary": "Florida county claims it lacks resources to find owners of unpermitted Flock cameras.",
+          "published": "Wed, 28 Oct 2026 17:37:49 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "25 Jahre im Mars-Orbit: Mit welchen Kniffen die Nasa ihre ältesten Sonden am Leben hält",
+          "link": "https://t3n.de/news/mars-odyssey-25-jahre-nasa-sonde-orbit-1770491/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eigentlich waren nur wenige Jahre Betrieb eingeplant, doch im Orbit des Nachbarplaneten laufen zwei Raumsonden noch immer. Dafür mussten die Teams auf der Erde zu ungewöhnlichen Tricks greifen. Allerdings bereitet deren Nachfolge bereits Sorgen. weiterlesen auf t3n.de",
+          "published": "Wed, 28 Oct 2026 16:30:38 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Der Verkäufer wird zur Kasse: Was sich bei Mediamarkt und Saturn jetzt bei der Bezahlung ändert",
+        "Open Source Diktier-App: So hat sich ein Produktmanager seinen KI-Workflow aufgebaut",
+        "Schon vor 10 Jahren auf Aufnahmen: Algorithmus entdeckt neuen Zwergplaneten hinter Pluto"
+      ]
+    }
+  ]
+}
