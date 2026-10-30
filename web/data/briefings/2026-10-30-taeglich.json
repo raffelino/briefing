@@ -1,0 +1,413 @@
+{
+  "date": "2026-10-30",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Article: InfoQ AI, ML and Data Engineering Trends Report - 2026",
+          "link": "https://www.infoq.com/articles/ai-ml-data-engineering-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This InfoQ Trends Report offers readers a comprehensive overview of emerging trends and technologies in the areas of AI, ML, and Data Engineering. This report summarizes the InfoQ editorial team’s and external guests' view on the current trends in AI and ML technologies and what to look out for in the next 12 months. By Srini Penchikala, Chip Huyen, Daniel Dominguez, Hien Luu, Arthur Casals",
+          "published": "Fri, 30 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Podcast: AI, ML, and Data Engineering InfoQ Trends Report 2026",
+          "link": "https://www.infoq.com/podcasts/ai-ml-data-engineering-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In this episode, members of the InfoQ AI and ML editorial staff and friends of InfoQ discuss the current trends in the domain of AI, ML and Data Engineering. One of the regular features of InfoQ are the trends reports, which each focus on a different aspect of software dev. These reports provide the InfoQ readers and listeners with a high-level overview of the topics to pay attention to this year. By Chip Huyen, Daniel Dominguez, Hien Luu, Arthur Casals",
+          "published": "Fri, 30 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(2 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Article: InfoQ AI, ML and Data Engineering Trends Report - 2026",
+        "Podcast: AI, ML, and Data Engineering InfoQ Trends Report 2026"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Microsoft Retires Azure Deployment Environments with No Replacement Product",
+          "link": "https://www.infoq.com/news/2026/10/ade-dev-box-retirement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Azure Deployment Environments retires on February 22, 2027 and Microsoft names no successor, telling teams to use Bicep or ARM templates directly. Microsoft Dev Box follows on September 18, 2028, pointed at Windows 365, which Microsoft says is not a one-to-one replacement. Remaining Dev Box workloads should expect deletion. By Steef-Jan Wiggers",
+          "published": "Fri, 30 Oct 2026 08:13:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AWS’s Hydro team wants the compiler to catch coding agents’ mistakes",
+          "link": "https://thenewstack.io/ai-agents-compiler-guardrails/",
+          "summary": "Earlier this month, the team behind Hydro developed a new way to check that a distributed system still works correctly The post AWS&#8217;s Hydro team wants the compiler to catch coding agents&#8217; mistakes appeared first on The New Stack .",
+          "published": "Thu, 29 Oct 2026 21:53:05 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+          "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+          "summary": "Charges filed as Trump admin tries to save Kalshi from Utah's total ban on gambling.",
+          "published": "Thu, 29 Oct 2026 17:21:33 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Why MCP servers should tell agents what to do next",
+          "link": "https://thenewstack.io/aws-mcp-agent-observability/",
+          "summary": "Many MCP servers do one thing. An agent asks for data, and the server hands it back. AWS&#8217;s James Ward The post Why MCP servers should tell agents what to do next appeared first on The New Stack .",
+          "published": "Thu, 29 Oct 2026 15:55:39 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS Elastic Beanstalk for regulated workloads: Built for the next decade, not just the first deploy",
+          "link": "https://thenewstack.io/elastic-beanstalk-regulated-workloads/",
+          "summary": "For more than a decade, the managed application platform industry has optimized around a compelling promise: get code running as The post AWS Elastic Beanstalk for regulated workloads: Built for the next decade, not just the first deploy appeared first on The New Stack .",
+          "published": "Thu, 29 Oct 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Microsoft Retires Azure Deployment Environments with No Replacement Product",
+        "AWS’s Hydro team wants the compiler to catch coding agents’ mistakes",
+        "Kalshi and its co-founders face felony charges for violating Utah gambling laws"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "heise+ | FastAPI und HTMX: Webanwendungen einfach mit Python und HTML erstellen",
+          "link": "https://www.heise.de/ratgeber/FastAPI-und-HTMX-Webanwendungen-einfach-mit-Python-und-HTML-erstellen-11499995.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Mit FastAPI und HTMX lassen sich Webanwendungen in Python und HTML bauen – ohne separates JavaScript-Framework fürs Frontend.",
+          "published": "2026-10-30T12:00:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise+ | FastAPI und HTMX: Webanwendungen einfach mit Python und HTML erstellen"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Cisco-Firewalls und GitLab-Lücke werden angegriffen",
+          "link": "https://www.heise.de/news/Cisco-Firewalls-und-GitLab-Luecke-werden-angegriffen-11505669.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Bösartige Akteure missbrauchen Schwachstellen in Ciscos SSL-VPN und GitLab. Updates stehen bereit, Admins sollten sie installieren.",
+          "published": "2026-10-30T08:51:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Hinter kritischen GitLab-Lücken stecken Fehler in der Regex-Engine von Ruby",
+          "link": "https://www.heise.de/news/Ruby-behebt-drei-kritische-Luecken-vor-denen-CVE-Scanner-nicht-warnen-11505663.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die kritischen GitLab-Lücken der letzten Wochen gehen auf drei jetzt behobene Fehler in Rubys Regex-Engine zurück. CVE-Scanner schlagen auf sie nicht an.",
+          "published": "2026-10-30T08:43:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Hinter kritischen GitLab-Lücken stecken Fehler in der Regex-Engine von Ruby",
+          "link": "https://www.heise.de/news/Ruby-behebt-drei-kritische-Luecken-vor-denen-CVE-Scanner-nicht-warnen-11505663.html",
+          "summary": "Die kritischen GitLab-Lücken der letzten Wochen gehen auf drei jetzt behobene Fehler in Rubys Regex-Engine zurück. CVE-Scanner schlagen auf sie nicht an.",
+          "published": "2026-10-30T07:43:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "php2shell: Erfolgreiche Angriffe auf PHP-Schwachstelle bestätigt",
+          "link": "https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html",
+          "summary": "Seit Bekanntwerden der php2shell-Schwachstelle laufen Angriffe darauf. Am Wochenende wurden erste erfolgreiche Attacken bestätigt.",
+          "published": "2026-10-27T08:02:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Python schließt per Update kritische TLS-Lücke wegen eMudhra-Schlüsseln",
+          "link": "https://www.heise.de/news/Python-schliesst-per-Update-kritische-TLS-Luecke-wegen-eMudhra-Schluesseln-11499933.html",
+          "summary": "Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 und 3.11.18 beheben eine kritische Schwachstelle durch kompromittierte eMudhra-Zertifikate und weitere Lücken.",
+          "published": "2026-10-26T10:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Cisco-Firewalls und GitLab-Lücke werden angegriffen",
+        "Hinter kritischen GitLab-Lücken stecken Fehler in der Regex-Engine von Ruby",
+        "Hinter kritischen GitLab-Lücken stecken Fehler in der Regex-Engine von Ruby"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Apple Mac Studio: 512 GB RAM kosten so viel wie ein Neuwagen",
+          "link": "https://t3n.de/news/apple-mac-studio-512gb-ram-preis-neuwagen-1770523/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn man die Möglichkeiten für das neue Macbook Pro mit Touchscreen im Konfigurator ausreizt, landet man bei rund 16.000 Euro. Gegen die neue Version des Mac Studio wirkt das noch günstig. weiterlesen auf t3n.de",
+          "published": "Fri, 30 Oct 2026 11:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Grenzpartnerschaft“: Auch der EU-Datenschützer rügt geplantes Polizeiabkommen mit den USA",
+          "link": "https://netzpolitik.org/2026/grenzpartnerschaft-auch-der-eu-datenschuetzer-ruegt-geplantes-polizeiabkommen-mit-den-usa/",
+          "summary": "Die US-Regierung will vor allem Zugriff auf Daten von Reisenden. (Symbolbild) – Alle Rechte vorbehalten: IMAGO/ Marc Bremer; Bearbeitung: netzpolitik.org Der Europäische Datenschutzbeauftragte fordert schärfere Grenzen für einen Austausch von heiklen Polizeidaten mit US-Behörden. Die Bundesregierung hält ihre Verhandlungen dazu sogar im Parlament geheim.",
+          "published": "Fri, 30 Oct 2026 10:48:30 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Bug0 Releases QA Agent to Automate Regression Testing With Cached Playwright Replays",
+          "link": "https://www.infoq.com/news/2026/10/bug0-agent-testing-cached-replay/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "QA Agent is a new source-available Playwright library for agentic browser regression testing. The agent associates test instructions expressed in natural language to actions on the user interface, caches those when appropriate for faster CI replays, remapping them to test specifications when the user interface changes. Verification is based on multi-model consensus and vision model evaluations. By Bruno Couriol",
+          "published": "Thu, 29 Oct 2026 15:17:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Datadog Builds a Specialist AI Model for SRE Investigations",
+          "link": "https://www.infoq.com/news/2026/10/datadog-scout-sre-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Datadog has released Scout, a model trained to investigate production problems. It runs inside Bits Investigation, the company's AI SRE product, where it can pick up an alert, look through telemetry and suggest what caused the problem. Datadog engineers and a small number of customers are using it in a closed preview. By Matt Saunders",
+          "published": "Thu, 29 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "OmniFocus und OmniOutliner: Apps spezifisch an das iPhone Duo angepasst",
+          "link": "https://www.heise.de/news/OmniFocus-und-OmniOutliner-Apps-spezifisch-an-das-iPhone-Duo-angepasst-11495875.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Zwei traditionsreiche Apps der Omni Group sind bereit für Apples Foldable – und zeigen, was damit möglich ist.",
+          "published": "2026-10-30T10:36:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Apple Mac Studio: 512 GB RAM kosten so viel wie ein Neuwagen",
+        "„Grenzpartnerschaft“: Auch der EU-Datenschützer rügt geplantes Polizeiabkommen mit den USA",
+        "Bug0 Releases QA Agent to Automate Regression Testing With Cached Playwright Replays"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "„Dark Messiah“: Community Edition bringt Koop-Modus und Linux-Support",
+          "link": "https://www.heise.de/news/Dark-Messiah-Community-Edition-bringt-Koop-Modus-und-Linux-Support-11505617.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine Fan-Mod bringt den Arkane-Klassiker „Dark Messiah of Might and Magic“ auf eine aktuelle Source-Engine – mit Ubisofts Segen und neuem Koop-Modus.",
+          "published": "2026-10-30T07:28:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Angriff auf Ruby-Lücke: Alpine Linux muss Gitlab-Instanz komplett neu aufsetzen",
+          "link": "https://www.golem.de/news/angriff-auf-ruby-luecke-alpine-linux-muss-gitlab-instanz-komplett-neu-aufsetzen-2610-214676.html",
+          "summary": "Hacker haben versucht, über eine Ruby-Lücke die Gitlab-Instanz von Alpine Linux zu kompromittieren. Der Vorfall ist ein Weckruf an andere Gitlab-Admins. ( Sicherheitslücke , Ruby )",
+          "published": "2026-10-30T11:38:08+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Linux-Lücke: Claude schreibt Root-Exploit, Ubuntu und RHEL ohne Patch",
+          "link": "https://www.golem.de/news/linux-luecke-claude-schreibt-root-exploit-ubuntu-und-rhel-ohne-patch-2610-214664.html",
+          "summary": "Eine gravierende Sicherheitslücke im Linux-Kernel ermöglicht unter bestimmten Bedingungen Angriffe aus der Ferne. ( Security-Alert , Linux-Kernel )",
+          "published": "2026-10-29T21:56:06+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "„Dark Messiah“: Community Edition bringt Koop-Modus und Linux-Support",
+        "Angriff auf Ruby-Lücke: Alpine Linux muss Gitlab-Instanz komplett neu aufsetzen",
+        "Linux-Lücke: Claude schreibt Root-Exploit, Ubuntu und RHEL ohne Patch"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Presentation: The Ladder Is Missing Rungs: Engineering Progression When AI Ate the Middle",
+          "link": "https://www.infoq.com/presentations/ai-software-engineering-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Alasdair Allan discusses empirical research from METR and Anthropic on AI coding adoption. He explains the \"supervision paradox,\" where reliance on AI tools disrupts junior skill development, risks institutional context loss, and threatens the long-term engineering pipeline needed to oversee autonomous systems effectively. By Alasdair Allan",
+          "published": "Fri, 30 Oct 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Größter Kunde von SpaceX ist nicht mehr die US-Regierung, sondern eine KI-Firma",
+          "link": "https://t3n.de/news/groesster-kunde-von-spacex-ist-nicht-mehr-die-us-regierung-sondern-eine-ki-firma-1770765/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Drittel des SpaceX-Umsatzes stammt inzwischen von der KI-Firma Anthropic. Damit ist die US-Regierung nicht mehr der größte Kunde des Unternehmens. weiterlesen auf t3n.de",
+          "published": "Fri, 30 Oct 2026 11:20:12 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Unsicher wie es im Job weitergehen soll? Mit diesen Fragen und Methoden gewinnst du Klarheit",
+          "link": "https://t3n.de/news/unsicher-wie-es-im-job-weitergehen-soll-mit-diesen-fragen-und-methoden-gewinnst-du-klarheit-1770481/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Vanessa Jördens von der Bundesagentur für Arbeit hilft Menschen hauptberuflich bei der Bundesagentur für Arbeit dabei, sich im Job neu zu orientieren. Diese Met weiterlesen auf t3n.de",
+          "published": "Fri, 30 Oct 2026 10:40:17 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Sam Altman almost scrapped token pricing. Here’s why he backed off.",
+          "link": "https://thenewstack.io/openai-token-pricing-reversal/",
+          "summary": "OpenAI considered dropping token-based pricing for its next model, letting developers submit a prompt and receive a price for the The post Sam Altman almost scrapped token pricing. Here’s why he backed off. appeared first on The New Stack .",
+          "published": "Thu, 29 Oct 2026 22:19:18 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Microsoft’s new Copilot harness makes agents easy — until you want to switch",
+          "link": "https://thenewstack.io/microsoft-copilot-harness-foundry/",
+          "summary": "Microsoft is opening up the GitHub Copilot agent harness to outside developers through Microsoft Foundry, bringing the same orchestration infrastructure The post Microsoft’s new Copilot harness makes agents easy — until you want to switch appeared first on The New Stack .",
+          "published": "Thu, 29 Oct 2026 20:54:15 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: The Ladder Is Missing Rungs: Engineering Progression When AI Ate the Middle",
+        "Größter Kunde von SpaceX ist nicht mehr die US-Regierung, sondern eine KI-Firma",
+        "Unsicher wie es im Job weitergehen soll? Mit diesen Fragen und Methoden gewinnst du Klarheit"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+          "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
+          "summary": "Inspector general rejected request from Democratic and Republican senators.",
+          "published": "Thu, 29 Oct 2026 20:08:10 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Reddit verlangt künftig den Login",
+          "link": "https://www.heise.de/news/Reddit-verlangt-kuenftig-den-Login-11505605.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Reddit soll künftig vorrangig nur noch mit Konto nutzbar sein. Firmenchef Steve Huffman nennt Werbung und Scraping als Gründe.",
+          "published": "2026-10-30T06:30:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Auslegungssache 171: Omnibus mit Schlagseite",
+          "link": "https://www.heise.de/hintergrund/Auslegungssache-171-Omnibus-mit-Schlagseite-11504905.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Im c't-Podcast erklärt vzbv-Verbraucherschützerin Michaela Schröder, wie ihr Verband in Brüssel agiert und welche Kritik er an geplanten DSGVO-Änderungen hat.",
+          "published": "2026-10-30T06:10:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Maine’s data center revolt will decide who controls the Senate",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+          "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst, tying the man to her Democratic challenger, [&#8230;]",
+          "published": "2026-10-30T07:00:00-04:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(4 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+        "Reddit verlangt künftig den Login",
+        "Auslegungssache 171: Omnibus mit Schlagseite"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "OpenTelemetry: Collector-Updates zerlegen keine Filterregeln mehr",
+          "link": "https://www.heise.de/news/OpenTelemetry-Collector-Updates-zerlegen-keine-Filterregeln-mehr-11505793.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Schluss mit kaputten Collector-Pipelines nach Updates: Die OpenTelemetry Transformation Language (OTTL) ist in Version 1.0 stabil und rückwärtskompatibel.",
+          "published": "2026-10-30T11:43:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "DirectX-Preview soll Speicherbedarf von Raytracing-Daten drastisch senken",
+          "link": "https://www.heise.de/news/DirectX-Preview-soll-Speicherbedarf-von-Raytracing-Daten-drastisch-senken-11505569.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Microsoft testet mit Agility SDK 1.722 Clustered Geometry und Partitioned TLAS für dynamische Raytracing-Geometrie. Spieler haben jedoch zunächst nichts davon.",
+          "published": "2026-10-30T07:04:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "OpenTelemetry: Collector-Updates zerlegen keine Filterregeln mehr",
+          "link": "https://www.heise.de/news/OpenTelemetry-Collector-Updates-zerlegen-keine-Filterregeln-mehr-11505793.html",
+          "summary": "Schluss mit kaputten Collector-Pipelines nach Updates: Die OpenTelemetry Transformation Language (OTTL) ist in Version 1.0 stabil und rückwärtskompatibel.",
+          "published": "2026-10-30T10:43:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "DirectX-Preview soll Speicherbedarf von Raytracing-Daten drastisch senken",
+          "link": "https://www.heise.de/news/DirectX-Preview-soll-Speicherbedarf-von-Raytracing-Daten-drastisch-senken-11505569.html",
+          "summary": "Microsoft testet mit Agility SDK 1.722 Clustered Geometry und Partitioned TLAS für dynamische Raytracing-Geometrie. Spieler haben jedoch zunächst nichts davon.",
+          "published": "2026-10-30T06:04:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(4 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "OpenTelemetry: Collector-Updates zerlegen keine Filterregeln mehr",
+        "DirectX-Preview soll Speicherbedarf von Raytracing-Daten drastisch senken",
+        "OpenTelemetry: Collector-Updates zerlegen keine Filterregeln mehr"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Nicht nur das Macbook Pro mit Touchscreen: Diese Apple-Gadgets hätte es unter Steve Jobs nicht gegeben",
+          "link": "https://t3n.de/news/macbook-pro-touchscreen-steve-jobs-apple-gadgets-1770763/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Steve Jobs war ein großer Fan von Multitouch. Sonst hätte es nie ein iPhone oder ein iPad gegeben. Doch an einem Gerät wollte er keinen Touchscreen: am Macbook. Nun hat es einen. Es ist nicht das erste Mal, dass Apple Gadgets gebracht hat, die Jobs einst ablehnte. weiterlesen auf t3n.de",
+          "published": "Fri, 30 Oct 2026 12:00:01 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Rocket Cargo: US-Militär liefert Fracht erstmals per SpaceX-Kapsel aus dem All",
+          "link": "https://t3n.de/news/rocket-cargo-militaer-fracht-spacex-kapsel-1770767/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Lieferung per Raumkapsel: Das Projekt „Rocket Cargo“ der US Air Force hat erstmals Fracht mit einer SpaceX-Kapsel durchs Weltall geschickt. Ein Blick auf einen Test, der die Militärlogistik verändern könnte. weiterlesen auf t3n.de",
+          "published": "Fri, 30 Oct 2026 10:08:17 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Xing: Was aus deinen Kontakten geworden ist - und wie du sie mit KI bei Linkedin wiederfindest",
+          "link": "https://t3n.de/news/xing-linkedin-kontakte-1770625/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Über die Jahre haben viele von uns Hunderte Kontakte auf Xing angesammelt. Doch wer heute vor allem Linkedin nutzt, hat längst nicht alle ehemaligen Geschäftspa weiterlesen auf t3n.de",
+          "published": "Fri, 30 Oct 2026 07:00:26 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Studien zeigen: Mit diesen 5 Routinen beginnt der Arbeitstag produktiver - gerade im Homeoffice",
+          "link": "https://t3n.de/news/arbeitstag-morgen-produktiv-homeoffice-1769424/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer morgens schnell in die Arbeit finden will, kämpft oft gegen sich selbst: die eigene Motivation, oder eingeübte, aber unproduktive Muster. Welche Methoden un weiterlesen auf t3n.de",
+          "published": "Fri, 30 Oct 2026 06:30:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks",
+          "link": "https://www.infoq.com/news/2026/10/google-dpop-oauth2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google's OAuth Platform has recently introduces support for Demonstrating Proof-of-Possession (DPoP), an OAuth 2.0 security mechanism designed to mitigate token theft and replay attacks. By Sergio De Simone",
+          "published": "Thu, 29 Oct 2026 19:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Nicht nur das Macbook Pro mit Touchscreen: Diese Apple-Gadgets hätte es unter Steve Jobs nicht gegeben",
+        "Rocket Cargo: US-Militär liefert Fracht erstmals per SpaceX-Kapsel aus dem All",
+        "Xing: Was aus deinen Kontakten geworden ist - und wie du sie mit KI bei Linkedin wiederfindest"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "How to Make Artificial Intelligence More Environmentally Sustainable",
+          "link": "https://www.infoq.com/news/2026/10/AI-environmentally-sustainable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "IT is responsible for about 2 - 4% of all global emissions, and electricity use at Microsoft and Google has climbed because of AI, according to their own reports. Sustainability ought to be a top-level architectural concern. Some recommendations are: use pre-built and smaller models, run compute where low-carbon electricity is abundant, and train on renewable energy. By Ben Linders",
+          "published": "Thu, 29 Oct 2026 11:41:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "How to Make Artificial Intelligence More Environmentally Sustainable"
+      ]
+    }
+  ]
+}
