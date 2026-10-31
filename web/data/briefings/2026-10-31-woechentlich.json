@@ -1,0 +1,428 @@
+{
+  "date": "2026-10-31",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Article: InfoQ AI, ML and Data Engineering Trends Report - 2026",
+          "link": "https://www.infoq.com/articles/ai-ml-data-engineering-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This InfoQ Trends Report offers readers a comprehensive overview of emerging trends and technologies in the areas of AI, ML, and Data Engineering. This report summarizes the InfoQ editorial team’s and external guests' view on the current trends in AI and ML technologies and what to look out for in the next 12 months. By Srini Penchikala, Chip Huyen, Daniel Dominguez, Hien Luu, Arthur Casals",
+          "published": "Fri, 30 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Podcast: AI, ML, and Data Engineering InfoQ Trends Report 2026",
+          "link": "https://www.infoq.com/podcasts/ai-ml-data-engineering-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In this episode, members of the InfoQ AI and ML editorial staff and friends of InfoQ discuss the current trends in the domain of AI, ML and Data Engineering. One of the regular features of InfoQ are the trends reports, which each focus on a different aspect of software dev. These reports provide the InfoQ readers and listeners with a high-level overview of the topics to pay attention to this year. By Chip Huyen, Daniel Dominguez, Hien Luu, Arthur Casals",
+          "published": "Fri, 30 Oct 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(2 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Article: InfoQ AI, ML and Data Engineering Trends Report - 2026",
+        "Podcast: AI, ML, and Data Engineering InfoQ Trends Report 2026"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Kubernetes Confidential Containers Get Fortanix Attestation and Key Management",
+          "link": "https://www.infoq.com/news/2026/10/k8s-confidential-containers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Fortanix's CoCo integration connects workload attestation to decryption-key release for Kubernetes AI workloads. GPU-verification settings affect protection, while upstream Trustee and Azure Secure Key Release offer alternative routes to attestation-based key release. By Mark Silvester",
+          "published": "Sat, 31 Oct 2026 08:18:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "LocalStack for Azure Enters Public Preview with Security Settings Stored but Not Enforced",
+          "link": "https://www.infoq.com/news/2026/10/localstack-azure-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "LocalStack has opened its Azure emulator to a free public preview, running Azure services locally and accepting existing ARM, Bicep, and Terraform without rewrites. Its own documentation reports partial operation coverage per service and a consistent pattern: configuration is stored and returned, while enforcement of access restrictions, TLS, and network rules is not implemented. By Steef-Jan Wiggers",
+          "published": "Sat, 31 Oct 2026 07:57:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Busy GPUs can hide slow AI inference on Kubernetes",
+          "link": "https://thenewstack.io/ai-inference-kubernetes-observability/",
+          "summary": "A Kubernetes cluster can be healthy while the AI service running on it disappoints users. A model might return its The post Busy GPUs can hide slow AI inference on Kubernetes appeared first on The New Stack .",
+          "published": "Fri, 30 Oct 2026 19:56:41 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Kubernetes just formed a workload conformance group. Here’s why it matters for AI teams.",
+          "link": "https://thenewstack.io/kubernetes-workload-conformance-ai/",
+          "summary": "Welcome to the final edition of Road to KubeCon, where we track the Kubernetes and cloud-native ecosystem each week on The post Kubernetes just formed a workload conformance group. Here’s why it matters for AI teams. appeared first on The New Stack .",
+          "published": "Fri, 30 Oct 2026 17:29:11 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Microsoft Retires Azure Deployment Environments with No Replacement Product",
+          "link": "https://www.infoq.com/news/2026/10/ade-dev-box-retirement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Azure Deployment Environments retires on February 22, 2027 and Microsoft names no successor, telling teams to use Bicep or ARM templates directly. Microsoft Dev Box follows on September 18, 2028, pointed at Windows 365, which Microsoft says is not a one-to-one replacement. Remaining Dev Box workloads should expect deletion. By Steef-Jan Wiggers",
+          "published": "Fri, 30 Oct 2026 08:13:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AWS’s Hydro team wants the compiler to catch coding agents’ mistakes",
+          "link": "https://thenewstack.io/ai-agents-compiler-guardrails/",
+          "summary": "Earlier this month, the team behind Hydro developed a new way to check that a distributed system still works correctly The post AWS&#8217;s Hydro team wants the compiler to catch coding agents&#8217; mistakes appeared first on The New Stack .",
+          "published": "Thu, 29 Oct 2026 21:53:05 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Why MCP servers should tell agents what to do next",
+          "link": "https://thenewstack.io/aws-mcp-agent-observability/",
+          "summary": "Many MCP servers do just one thing. An agent asks for data and the server hands it back. AWS&#8217;s James The post Why MCP servers should tell agents what to do next appeared first on The New Stack .",
+          "published": "Thu, 29 Oct 2026 15:55:39 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS Elastic Beanstalk for regulated workloads: Built for the next decade, not just the first deploy",
+          "link": "https://thenewstack.io/elastic-beanstalk-regulated-workloads/",
+          "summary": "For more than a decade, the managed application platform industry has optimized around a compelling promise: get code running as The post AWS Elastic Beanstalk for regulated workloads: Built for the next decade, not just the first deploy appeared first on The New Stack .",
+          "published": "Thu, 29 Oct 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(8 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Kubernetes Confidential Containers Get Fortanix Attestation and Key Management",
+        "LocalStack for Azure Enters Public Preview with Security Settings Stored but Not Enforced",
+        "Busy GPUs can hide slow AI inference on Kubernetes"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: Webinar-Zweiteiler: Mit Wazuh gegen php2shell und Co. verteidigen",
+          "link": "https://www.heise.de/news/Webinar-Zweiteiler-Mit-Wazuh-gegen-php2shell-und-Co-verteidigen-11505245.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Wazuh ist ein beliebtes Opensource-SIEM und -XDR. Wie es bei der Verteidigung gegen neue und alte Exploits hilft, erklärt unser zweiteiliges Webinar.",
+          "published": "2026-10-30T12:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Hinter kritischen GitLab-Lücken stecken Fehler in der Regex-Engine von Ruby",
+          "link": "https://www.heise.de/news/Ruby-behebt-drei-kritische-Luecken-vor-denen-CVE-Scanner-nicht-warnen-11505663.html",
+          "summary": "Die kritischen GitLab-Lücken der letzten Wochen gehen auf drei jetzt behobene Fehler in Rubys Regex-Engine zurück. CVE-Scanner schlagen auf sie nicht an.",
+          "published": "2026-10-30T07:43:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: Webinar-Zweiteiler: Mit Wazuh gegen php2shell und Co. verteidigen",
+        "Hinter kritischen GitLab-Lücken stecken Fehler in der Regex-Engine von Ruby"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "„Grenzpartnerschaft“: Auch der EU-Datenschützer rügt geplantes Polizeiabkommen mit den USA",
+          "link": "https://netzpolitik.org/2026/grenzpartnerschaft-auch-der-eu-datenschuetzer-ruegt-geplantes-polizeiabkommen-mit-den-usa/",
+          "summary": "Die US-Regierung will vor allem Zugriff auf Daten von Reisenden. (Symbolbild) – Alle Rechte vorbehalten: IMAGO/ Marc Bremer; Bearbeitung: netzpolitik.org Der Europäische Datenschutzbeauftragte fordert schärfere Grenzen für einen Austausch von heiklen Polizeidaten mit US-Behörden. Die Bundesregierung hält ihre Verhandlungen dazu sogar im Parlament geheim.",
+          "published": "Fri, 30 Oct 2026 10:48:30 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Bug0 Releases QA Agent to Automate Regression Testing With Cached Playwright Replays",
+          "link": "https://www.infoq.com/news/2026/10/bug0-agent-testing-cached-replay/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "QA Agent is a new source-available Playwright library for agentic browser regression testing. The agent associates test instructions expressed in natural language to actions on the user interface, caches those when appropriate for faster CI replays, remapping them to test specifications when the user interface changes. Verification is based on multi-model consensus and vision model evaluations. By Bruno Couriol",
+          "published": "Thu, 29 Oct 2026 15:17:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "\"Mein Bildungsraum\": Millionengrab für eine digitale Zeugnismappe",
+          "link": "https://netzpolitik.org/2026/mein-bildungsraum-millionengrab-fuer-eine-digitale-zeugnismappe/",
+          "summary": "Ohne Aufsehen endete des Projekts \"Mein Bildungsraum\" (Symbolbild) – CC-BY-SA 4.0 : Grabsteindetail Granary-Friedhof Boston: Wikimedia Commons / Rhododendrites; Bearbeitung: netzpolitik.org Die Bundesregierung hat das digitale Großprojekt „Mein Bildungsraum“ begraben. Von dem Versprechen, lebenslanges Lernen zu fördern, ist nurmehr eine digitale Zeugnismappe geblieben. Die Gründe für das Scheitern lassen sich benennen. Ein Kommentar.",
+          "published": "Mon, 26 Oct 2026 10:46:08 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "„Grenzpartnerschaft“: Auch der EU-Datenschützer rügt geplantes Polizeiabkommen mit den USA",
+        "Bug0 Releases QA Agent to Automate Regression Testing With Cached Playwright Replays",
+        "\"Mein Bildungsraum\": Millionengrab für eine digitale Zeugnismappe"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Erneut kritischer Bug in Linux TCP/IP aufgedeckt – Updates in Arbeit",
+          "link": "https://www.heise.de/news/Erneut-kritischer-Bug-in-Linux-TCP-IP-aufgedeckt-Updates-in-Arbeit-11506050.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine kritische Lücke im TCP/IP-Stack des Linux-Kerns erlaubt Remote Code Execution. Anthropics Claude entdeckte den elf Jahre alten Fehler.",
+          "published": "2026-10-30T13:12:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Erneut kritischer Bug in Linux TCP/IP aufgedeckt – Updates in Arbeit"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Digitale Brieftasche „d-you“: Dein Ausweis zieht aufs Smartphone – doch für 82 Prozent der Deutschen gibt es einen Haken",
+          "link": "https://t3n.de/news/digitale-brieftasche-d-you-1769694/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit der digitalen Brieftasche sollen sich Bürger einfacher online ausweisen und digitale Nachweise auf dem Smartphone speichern können. Doch d-you startet mit begrenzten Funktionen und auch bei Datenschutz und Sicherheit gibt es noch offene Fragen. weiterlesen auf t3n.de",
+          "published": "Sat, 31 Oct 2026 12:35:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Transparenzbericht 3. Quartal 2026: Unsere Einnahmen und Ausgaben und Druck im Kessel",
+          "link": "https://netzpolitik.org/2026/transparenzbericht-3-quartal-2026-unsere-einnahmen-und-ausgaben-und-steigender-druck-im-kessel/",
+          "summary": "La Gare Saint-Lazare, le train de Normandie (1877) – Gemeinfrei: Claude Monet Auf dem politischen Druckanzeiger klettert der Zeiger stetig nach oben. Druck erzeugt bekanntlich Gegendruck. Vor allem junge Menschen wollen eine Wende. Wir stehen an der Seite der Zivilgesellschaft und suchen 300 Brandschutzhelfer:innen.",
+          "published": "Sat, 31 Oct 2026 07:34:23 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Geheime Bildbotschaften: Wie sich die KI-Modelle von OpenAI und Anthropic unbemerkt Nachrichten schicken",
+          "link": "https://t3n.de/news/geheime-bildbotschaften-ki-1769790/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Forscher:innen haben untersucht, wie KI-Modelle geheime Botschaften in Bildern verstecken und ob sie diese wieder entschlüsseln können. Obwohl die KI keine neuen Methoden erfand, könnten die Erkenntnisse für die KI-Sicherheit von Belang sein. weiterlesen auf t3n.de",
+          "published": "Sat, 31 Oct 2026 07:45:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "MIT-Experiment: Forscher setzen 13 KI-Agenten auf einer einsamen Insel aus – und schauen 30 Stunden lang zu",
+          "link": "https://t3n.de/news/mit-experiment-ki-einsame-insel-1769624/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Experiment wurden die KI-Agenten 30 Stunden sich selbst überlassen. Um sich die Zeit zu vertreiben, fingen sie an, sich Spiele auszudenken. Laut der Forschungsgruppe gibt das auch einen Einblick in ihr Lernverhalten. weiterlesen auf t3n.de",
+          "published": "Sat, 31 Oct 2026 07:20:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google Discloses PageBreak AI Security Agent That Found 500+ XSS Bugs",
+          "link": "https://www.infoq.com/news/2026/10/google-pagebreak-security-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "According to a paper published by Google, its AI-powered security agent has uncovered more than 500 XSS vulnerabilities across its web applications since entering full operation in January. PageBreak uses Gemini models to autonomously investigate potential vulnerabilities, but reports them only after deterministic validators successfully reproduce the exploit against a running application. By Renato Losio",
+          "published": "Sat, 31 Oct 2026 06:20:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+          "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+          "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+          "published": "Fri, 30 Oct 2026 21:09:54 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Anthropic just removed one of Claude’s biggest usage limits — but not for everyone",
+          "link": "https://thenewstack.io/claude-ultra-session-limit/",
+          "summary": "Claude Code users on Anthropic&#8217;s $200 plan will no longer face a rolling five-hour usage cap, provided their accounts are The post Anthropic just removed one of Claude’s biggest usage limits — but not for everyone appeared first on The New Stack .",
+          "published": "Fri, 30 Oct 2026 20:14:04 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Basically no one is using AI agents for their DoorDash orders",
+          "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+          "summary": "But it's still early days for the relatively new e-commerce use case.",
+          "published": "Fri, 30 Oct 2026 19:30:52 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(8 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Digitale Brieftasche „d-you“: Dein Ausweis zieht aufs Smartphone – doch für 82 Prozent der Deutschen gibt es einen Haken",
+        "Transparenzbericht 3. Quartal 2026: Unsere Einnahmen und Ausgaben und Druck im Kessel",
+        "Geheime Bildbotschaften: Wie sich die KI-Modelle von OpenAI und Anthropic unbemerkt Nachrichten schicken"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+          "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+          "summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+          "published": "Fri, 30 Oct 2026 16:53:49 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+          "link": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+          "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+          "published": "Fri, 30 Oct 2026 13:46:39 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Tagesgeld, Festgeld oder Geldmarkt-ETF: Wo sich Sparen jetzt wirklich lohnt",
+          "link": "https://t3n.de/news/tagesgeld-festgeld-oder-geldmarkt-etf-wo-sich-sparen-jetzt-wirklich-lohnt-1770813/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Banken werben wieder mit hohen Zinsen um deutsche Sparer. Doch die Top-Angebote beim Tagesgeld sind eher etwas für Zinshopper. Welche Alternativen es gibt und w weiterlesen auf t3n.de",
+          "published": "Fri, 30 Oct 2026 13:40:39 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Netflix Treats GPU Reliability as a Distributed Systems Problem",
+          "link": "https://www.infoq.com/news/2026/10/netflix-gpu-distributed-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Netflix has detailed how it is building a reliability platform for large-scale GPU training and inference, using layered health checks, automated remediation, and fault-tolerant training to keep jobs running despite hardware failures. By Craig Risi",
+          "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Adobe-Konkurrenz? Das taugt KI-Klon PhotoCraft | c't uplink",
+          "link": "https://www.heise.de/news/Adobe-Konkurrenz-Das-taugt-KI-Klon-PhotoCraft-c-t-uplink-11505956.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das Projekt ArtCraft entstand per Vibe-Coding und ahmt Photoshop, PowerPoint & Co. nach. Im c’t uplink diskutieren wir, was KI-Kopien können – und was nicht.",
+          "published": "2026-10-31T06:30:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kann ArtCraft Adobe ersetzen? Wir haben ein 3003-Video damit geschnitten",
+          "link": "https://www.heise.de/news/Kann-ArtCraft-Adobe-ersetzen-Wir-haben-ein-3003-Video-damit-geschnitten-11506536.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Adobe Photoshop, Premiere und After Effects für lau: Wir haben getestet, ob man mit der ArtCraft-Software professionell Videos und Bilder bearbeiten kann.",
+          "published": "2026-10-30T17:01:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kann ArtCraft Adobe ersetzen? Wir haben ein 3003-Video damit geschnitten",
+          "link": "https://www.heise.de/news/Kann-ArtCraft-Adobe-ersetzen-Wir-haben-ein-3003-Video-damit-geschnitten-11506536.html",
+          "summary": "Adobe Photoshop, Premiere und After Effects für lau: Wir haben getestet, ob man mit der ArtCraft-Software professionell Videos und Bilder bearbeiten kann.",
+          "published": "2026-10-30T16:01:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(7 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+        "Hackers steal $6.3 billion from Binance in record crypto heist",
+        "Tagesgeld, Festgeld oder Geldmarkt-ETF: Wo sich Sparen jetzt wirklich lohnt"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Developer-Häppchen – dotnetup statt rustup, Node 27, Webframework in Rust",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-dotnetup-statt-rustup-Node-27-Webframework-in-Rust-11505731.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu dotnetup, PDFsharp, Node, VS Code, Rsbuild, JetBrains, Grafana, Wicket, WordPress und Topcoat.",
+          "published": "2026-10-31T08:17:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Developer-Häppchen – dotnetup statt rustup, Node 27, Webframework in Rust",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-dotnetup-statt-rustup-Node-27-Webframework-in-Rust-11505731.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu dotnetup, PDFsharp, Node, VS Code, Rsbuild, JetBrains, Grafana, Wicket, WordPress und Topcoat.",
+          "published": "2026-10-31T07:17:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "OpenTelemetry friert seine Transformationssprache ein",
+          "link": "https://www.heise.de/news/OpenTelemetry-Collector-Updates-zerlegen-keine-Filterregeln-mehr-11505793.html",
+          "summary": "Schluss mit kaputten Collector-Pipelines nach Updates: Die OpenTelemetry Transformation Language (OTTL) ist in Version 1.0 stabil und rückwärtskompatibel.",
+          "published": "2026-10-30T10:43:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "DirectX-Preview soll Speicherbedarf von Raytracing-Daten drastisch senken",
+          "link": "https://www.heise.de/news/DirectX-Preview-soll-Speicherbedarf-von-Raytracing-Daten-drastisch-senken-11505569.html",
+          "summary": "Microsoft testet mit Agility SDK 1.722 Clustered Geometry und Partitioned TLAS für dynamische Raytracing-Geometrie. Spieler haben jedoch zunächst nichts davon.",
+          "published": "2026-10-30T06:04:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(4 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Developer-Häppchen – dotnetup statt rustup, Node 27, Webframework in Rust",
+        "Developer-Häppchen – dotnetup statt rustup, Node 27, Webframework in Rust",
+        "OpenTelemetry friert seine Transformationssprache ein"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Über 30 Jahre auf dem Buckel: Dieses Programm läuft noch heute problemlos unter Windows 11",
+          "link": "https://t3n.de/news/30-jahre-programm-windows-11-1770050/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Aus reiner Neugier hat sich ein Programmierer auf die Suche nach dem ältesten Programm gemacht, das noch unter Windows 11 läuft – und wurde Anfang der 1990er-Jahre fündig. Mit ein bisschen Schummeln ging es aber sogar noch weiter zurück. weiterlesen auf t3n.de",
+          "published": "Sat, 31 Oct 2026 13:20:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Smarte Thermostate: So steuerst du deine Heizung lokal – ganz ohne Cloud-Zwang und nervige Abos",
+          "link": "https://t3n.de/news/smarte-thermostate-heizen-ohne-abo-1768361/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Du willst die Heizsaison mit smarten Thermostaten bestreiten, aber hast keine Lust auf die Apps und Abos der Hersteller? Dann kannst du smarte Heizpläne auch ga weiterlesen auf t3n.de",
+          "published": "Sat, 31 Oct 2026 11:25:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Paranormal Activity: Geisterjäger wollen mit KI das Übernatürliche sichtbar machen",
+          "link": "https://t3n.de/news/paranormal-activity-geisterjaeger-wollen-mit-ki-das-uebernatuerliche-sichtbar-machen-1770933/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Schon Thomas Edison hat versucht, mithilfe neuer Technologien Kontakt zu Verstorbenen aufzunehmen. KI erweitert diese Praxis um eine neue Dimension. Es gibt aber auch Grund zur Kritik – und die ist nicht neu. weiterlesen auf t3n.de",
+          "published": "Sat, 31 Oct 2026 10:24:48 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Google-Cloud für BND und Verfassungsschutz: Warum dieser Geheimdienst-Deal ein Hohn für die digitale Souveränität ist",
+          "link": "https://t3n.de/news/google-cloud-fuer-bnd-verfassungsschutz-1770152/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Deutsche Geheimdienste könnten in Zukunft mit der ND-Cloud einen Cloud-Dienst von Google nutzen. Für unseren Autor ist das nicht nur Quatsch, sondern auch realitätsverweigernd. weiterlesen auf t3n.de",
+          "published": "Sat, 31 Oct 2026 10:15:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI im Recruiting: So findest du heraus, ob deine Bewerbung zuerst von einem Bot aussortiert wird",
+          "link": "https://t3n.de/news/ki-im-recruiting-1769489/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Immer mehr deutsche Unternehmen greifen auf KI zurück, um Bewerbungen schneller zu bearbeiten. Leider gehen dabei nicht alle transparent gegenüber den Jobsuchenden damit um. Wo es noch Nachholbedarf gibt, zeigt der KI‑Transparenz-Index. weiterlesen auf t3n.de",
+          "published": "Sat, 31 Oct 2026 09:45:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KW 44: Die Woche, als uns noch 200 Brandschutzhelfer*innen fehlten",
+          "link": "https://netzpolitik.org/2026/kw-44-die-woche-als-uns-noch-200-brandschutzhelferinnen-fehlten/",
+          "summary": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 44. Kalenderwoche geht zu Ende. Wir haben 9 neue Texte mit insgesamt 74.470 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 31 Oct 2026 07:36:34 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Tech-Trick mit Haken: Disney Plus bringt HDR zurück – aber Millionen schauen in die Röhre",
+          "link": "https://t3n.de/news/disney-plus-hdr-1770918/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Aufgrund eines Patentstreits muss Disney Plus in vielen europäischen Ländern, darunter in Deutschland, derzeit auf HDR-Formate sowie 3D und 4K UHD verzichten. Ein Workaround soll jetzt Abhilfe schaffen. Aber das Ganze hat gleich mehrere Haken. weiterlesen auf t3n.de",
+          "published": "Fri, 30 Oct 2026 22:17:23 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Suche drückt auf Werbeeinnahmen und Google will mit mehr Werbung gegensteuern",
+          "link": "https://t3n.de/news/ki-suche-google-werbung-1770914/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google hat eigentlich gute Quartalszahlen vorgelegt. Die hohen KI-Ausgaben und ein durch die KI-Suche gedämpftes Werbegeschäft drückten aber auf die Stimmung an der Börse. Kann Google mit mehr Werbung jetzt gegensteuern? weiterlesen auf t3n.de",
+          "published": "Fri, 30 Oct 2026 19:21:50 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(8 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Über 30 Jahre auf dem Buckel: Dieses Programm läuft noch heute problemlos unter Windows 11",
+        "Smarte Thermostate: So steuerst du deine Heizung lokal – ganz ohne Cloud-Zwang und nervige Abos",
+        "Paranormal Activity: Geisterjäger wollen mit KI das Übernatürliche sichtbar machen"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "How to Make Artificial Intelligence More Environmentally Sustainable",
+          "link": "https://www.infoq.com/news/2026/10/AI-environmentally-sustainable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "IT is responsible for about 2 - 4% of all global emissions, and electricity use at Microsoft and Google has climbed because of AI, according to their own reports. Sustainability ought to be a top-level architectural concern. Some recommendations are: use pre-built and smaller models, run compute where low-carbon electricity is abundant, and train on renewable energy. By Ben Linders",
+          "published": "Thu, 29 Oct 2026 11:41:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "How to Make Artificial Intelligence More Environmentally Sustainable"
+      ]
+    }
+  ]
+}
