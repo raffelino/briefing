@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-02",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Shopify Overexposed Scans GKE Ingresses and Cloud Run for Exposure",
+          "link": "https://www.infoq.com/news/2026/11/shopify-kubernetes-ingresses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Shopify has introduced Overexposed. This internal scanner locates Kubernetes Ingresses on GKE and Cloud Run services. It checks for those that are accessible from the internet without authentication By Claudio Masolo",
+          "published": "Mon, 02 Nov 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Religiöse Gründe: Uni-Mitarbeiter verweigert KI-Einsatz",
+          "link": "https://t3n.de/news/ki-zwang-arbeitsplatz-verweigerung-praezedenzfall-1770567/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "David Durman steht dem Einsatz der Technologie kritisch gegenüber. Er sagt, sie untergrabe seine Fähigkeit, moralisch zu handeln. Deshalb hat er erwirkt, sie an der Arbeit nicht mehr nutzen zu müssen. weiterlesen auf t3n.de",
+          "published": "Sun, 1 Nov 2026 20:10:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AWS Capacity Largely Sold Out Through 2027, With On Demand Headroom Reserved",
+          "link": "https://www.infoq.com/news/2026/11/aws-capacity-sold-out/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Amazon CEO Andy Jassy says AWS’s large committed cloud capacity is largely sold out through 2027, with part of 2028 already allocated, while the company continues to reserve headroom for On Demand, EC2 and Bedrock. Practitioners discussing the remarks report difficulty obtaining On Demand capacity for ordinary EC2 instances, and similar constraints at other providers. By Steef-Jan Wiggers",
+          "published": "Sun, 01 Nov 2026 08:03:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Face ID beim iPhone 18 Pro und 18 Pro Max: Probleme mit der Blickerkennung",
+          "link": "https://www.heise.de/news/Face-ID-beim-iPhone-18-Pro-und-18-Pro-Max-Probleme-mit-der-Blickerkennung-11500219.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Apples Face-ID-Sensorik ist beim iPhone 18 Pro und 18 Pro Max unter den Bildschirm gewandert. Das führte zu Beginn offenbar zu Schwierigkeiten.",
+          "published": "2026-11-02T12:47:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "RIPE-Mitglieder diskutieren über Abhängigkeit von US-Internetinfrastruktur",
+          "link": "https://www.heise.de/news/RIPE-Mitglieder-diskutieren-ueber-Abhaengigkeit-von-US-Internetinfrastruktur-11506831.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine Domainsperre sorgt beim RIPE-Treffen für Diskussionen: Wie können sich Betreiber gegen erratische US-Sanktionen wappnen?",
+          "published": "2026-11-01T15:10:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Shopify Overexposed Scans GKE Ingresses and Cloud Run for Exposure",
+        "Religiöse Gründe: Uni-Mitarbeiter verweigert KI-Einsatz",
+        "AWS Capacity Largely Sold Out Through 2027, With On Demand Headroom Reserved"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Anzeige: Sechs IT-Jobs in Security, Administration und Entwicklung",
+          "link": "https://www.golem.de/news/anzeige-sechs-it-jobs-in-security-administration-und-entwicklung-2611-214544.html",
+          "summary": "Von Java und IT-Security bis SAP Analytics und Systemadministration: Sechs neue IT-Jobs bieten spannende Aufgaben und Perspektiven. ( Golem Karrierewelt , Unternehmenssoftware )",
+          "published": "2026-11-01T07:00:06+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Anzeige: Sechs IT-Jobs in Security, Administration und Entwicklung"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise+ | Malware-Lage 2026: Weniger Lösegeld, mehr Lücken, neue Tricks",
+          "link": "https://www.heise.de/hintergrund/Malware-Lage-2026-Weniger-Loesegeld-mehr-Luecken-neue-Tricks-11460342.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Ransomware-Gangs jagen große Fische, Fake-Captchas schleusen Infostealer ein, KI spürt Lücken auf. Welche Maschen kursieren und wie Sie sich schützen.",
+          "published": "2026-11-02T13:30:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise+ | php2shell, Broccoli2Shell und „4“ zeigen, woran IT-Sicherheit krankt",
+          "link": "https://www.heise.de/hintergrund/php2shell-Broccoli2Shell-und-4-zeigen-woran-IT-Sicherheit-krankt-11495535.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Hinweise auf die schwerwiegenden Lücken gab in allen drei Fällen schon lange vor ihrer Behebung – ganz ohne KI. Sie hätten längst behoben sein sollen.",
+          "published": "2026-11-02T10:30:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: Last Call: IT-Sicherheitstag Gelsenkirchen am 18. November",
+          "link": "https://www.heise.de/news/Last-Call-IT-Sicherheitstag-Gelsenkirchen-am-18-November-11496846.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Werte sichern, Angriffe verhindern: IT-Sicherheit als Wertegarant, Prävention und kollektive Resilienz im Fokus. Letzte Tickets sind noch buchbar.",
+          "published": "2026-11-02T08:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Hinter kritischen GitLab-Lücken stecken Fehler in der Regex-Engine von Ruby",
+          "link": "https://www.heise.de/news/Ruby-behebt-drei-kritische-Luecken-vor-denen-CVE-Scanner-nicht-warnen-11505663.html",
+          "summary": "Die kritischen GitLab-Lücken der letzten Wochen gehen auf drei jetzt behobene Fehler in Rubys Regex-Engine zurück. CVE-Scanner schlagen auf sie nicht an.",
+          "published": "2026-10-30T07:43:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: IT-Sicherheit: Auf die T.I.S.P.-Prüfung vorbereiten",
+          "link": "https://www.golem.de/news/anzeige-it-sicherheit-auf-die-t-i-s-p-pruefung-vorbereiten-2611-214719.html",
+          "summary": "IT-Sicherheit verlangt technische und organisatorische Kenntnisse. Ein fünftägiger Online-Workshop vertieft das Wissen und bereitet auf eine Zertifizierungsprüfung vor. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-11-02T07:15:11+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise+ | Malware-Lage 2026: Weniger Lösegeld, mehr Lücken, neue Tricks",
+        "heise+ | php2shell, Broccoli2Shell und „4“ zeigen, woran IT-Sicherheit krankt",
+        "heise-Angebot: Last Call: IT-Sicherheitstag Gelsenkirchen am 18. November"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "„Das Zeitfenster schließt sich bald&quot;: Bundesregierung schlägt im KI-Wettbewerb Alarm",
+          "link": "https://t3n.de/news/das-zeitfenster-schliesst-sich-bald-bundesregierung-schlaegt-im-ki-wettbewerb-alarm-1771057/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Droht Deutschland im KI-Wettbewerb mit den USA und China abgehängt zu werden? Die Bundesregierung sieht bei dem Thema einen starken Zeit- und Handlungsdruck. weiterlesen auf t3n.de",
+          "published": "Mon, 2 Nov 2026 10:33:16 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Digitalgipfel: Minister und Industrie hoffen auf KI",
+          "link": "https://www.heise.de/news/Digitalgipfel-Minister-und-Industrie-hoffen-auf-KI-11507882.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Zum Auftakt des Digitalgipfels der Bundesregierung in Berlin fordert der Bundesdigitalminister mehr KI-Offenheit – von Gesellschaft wie Unternehmen.",
+          "published": "2026-11-02T12:51:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Bundesregierung: Deutschland soll bis 2030 zur \"KI-Nation\" werden",
+          "link": "https://www.golem.de/news/bundesregierung-deutschland-soll-bis-2030-zur-ki-nation-werden-2611-214750.html",
+          "summary": "Wird Deutschland im KI-Wettbewerb mit den USA und China abgehängt? Die Bundesregierung sieht bei dem Thema einen starken Handlungsdruck. ( Bundesregierung , KI )",
+          "published": "2026-11-02T12:36:01+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "„Das Zeitfenster schließt sich bald&quot;: Bundesregierung schlägt im KI-Wettbewerb Alarm",
+        "Digitalgipfel: Minister und Industrie hoffen auf KI",
+        "Bundesregierung: Deutschland soll bis 2030 zur \"KI-Nation\" werden"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "KI-Agenten sollen Zivilisation in Minecraft aufbauen – und verlieren sich in Bürokratie",
+          "link": "https://t3n.de/news/ki-agenten-sollen-zivilisation-in-minecraft-aufbauen-und-verlieren-sich-in-buerokratie-1771070/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Zu viel Bürokratie? Damit haben nicht nur wir Menschen zu kämpfen, wie ein aktueller Versuch zeigt. weiterlesen auf t3n.de",
+          "published": "Mon, 2 Nov 2026 11:31:46 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Agenten bauen Zivilisation in Minecraft auf und verlieren sich in Bürokratie",
+          "link": "https://www.heise.de/news/KI-Agenten-bauen-Zivilisation-in-Minecraft-auf-und-verlieren-sich-in-Buerokratie-11507972.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Zu viel Bürokratie? Damit haben nicht nur wir Menschen zu kämpfen, wie ein aktueller Versuch zeigt.",
+          "published": "2026-11-02T12:54:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KI-Agenten sollen Zivilisation in Minecraft aufbauen – und verlieren sich in Bürokratie",
+        "KI-Agenten bauen Zivilisation in Minecraft auf und verlieren sich in Bürokratie"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Anthropic verbietet Claude Nachbau von Games – doch die Regeln treffen auch legitime Projekte",
+          "link": "https://t3n.de/news/anthropic-claude-games-1771064/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Anthropic will verhindern, dass sich sein KI-Modell Claude weiter zum Nachbau von existierenden Games heranziehen lässt. Eine entsprechende Änderung im Systemprompt sorgt aber offenbar auch bei legitimen Projekten für Probleme. weiterlesen auf t3n.de",
+          "published": "Mon, 2 Nov 2026 12:30:51 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "3I/Atlas: Forscher finden Hinweise auf den Entstehungsort des interstellaren Kometen",
+          "link": "https://t3n.de/news/3i-atlas-hinweise-auf-entstehungsort-des-interstellaren-kometen-1771066/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der interstellare Komet 3I/Atlas wirft nach wie vor viele Fragen auf. Ein Wissenschaftsteam hat jetzt Hinweise auf seinen Entstehungsort gefunden. Geholfen hat dabei das James-Webb-Weltraumteleskop. weiterlesen auf t3n.de",
+          "published": "Mon, 2 Nov 2026 12:00:06 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Article: Systemic Approach to Memory, Knowledge, and Context in Agentic AI Architectures",
+          "link": "https://www.infoq.com/articles/agentic-ai-context-memory-knowledge/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The article argues that reliable agentic AI architecture depends on a context engine that selects, injects, compresses, and expires information before it reaches the model. It separates context, memory, and knowledge, and recommends tiered memory, curated knowledge, and token budgeting. It also covers common anti-patterns, such as context stuffing and stale data loops, with mitigations. By Adi Polak",
+          "published": "Mon, 02 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Whatsapp erkennt jetzt Kalenderdaten und Telefonnummern: Wie steht es um die Privatsphäre?",
+          "link": "https://t3n.de/news/whatsapp-telefonnummer-kalender-mail-privatsphaere-1771040/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer einen Kalendereintrag oder eine Telefonnummer aus einer Whatsapp-Nachricht speichern will, kommt dank neuer Shortcuts künftig schneller ans Ziel. Was möglich ist – und wie das überhaupt geht. weiterlesen auf t3n.de",
+          "published": "Mon, 2 Nov 2026 11:00:54 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Weihnachtsgeschäft: Warum der Checkout schon auf der Produktseite beginnt",
+          "link": "https://t3n.de/news/weihnachtsgeschaeft-warum-der-checkout-schon-auf-der-produktseite-beginnt-1769284/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine PayPal-Studie zeigt, dass 67 Prozent der deutschen Befragten einen Online-Kauf abgebrochen haben, wenn ihre bevorzugte nicht verfügbar war und worauf sich Händler:innen vorbereiten sollten – gerade im Weihnachtsgeschäft. weiterlesen auf t3n.de",
+          "published": "Mon, 2 Nov 2026 09:00:13 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Anthropic verbietet Claude Nachbau von Games – doch die Regeln treffen auch legitime Projekte",
+        "3I/Atlas: Forscher finden Hinweise auf den Entstehungsort des interstellaren Kometen",
+        "Article: Systemic Approach to Memory, Knowledge, and Context in Agentic AI Architectures"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Kann ArtCraft Adobe ersetzen? Wir haben ein 3003-Video damit geschnitten",
+          "link": "https://www.heise.de/news/Kann-ArtCraft-Adobe-ersetzen-Wir-haben-ein-3003-Video-damit-geschnitten-11506536.html",
+          "summary": "Adobe Photoshop, Premiere und After Effects für lau: Wir haben getestet, ob man mit der ArtCraft-Software professionell Videos und Bilder bearbeiten kann.",
+          "published": "2026-10-30T16:01:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "KI-Crawler: Google will Robots.txt für alle Anbieter zum Standard machen",
+          "link": "https://www.golem.de/news/ki-crawler-google-will-robots-txt-fuer-alle-anbieter-zum-standard-machen-2611-214748.html",
+          "summary": "Die Robots.txt wird von den meisten KI-Crawlern geflissentlich ignoriert und soll deshalb zum verpflichtenden Standard werden. ( KI , Google )",
+          "published": "2026-11-02T11:40:09+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Kann ArtCraft Adobe ersetzen? Wir haben ein 3003-Video damit geschnitten",
+        "KI-Crawler: Google will Robots.txt für alle Anbieter zum Standard machen"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Developer-Häppchen – dotnetup statt rustup, Node 27, Webframework in Rust",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-dotnetup-statt-rustup-Node-27-Webframework-in-Rust-11505731.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu dotnetup, PDFsharp, Node, VS Code, Rsbuild, JetBrains, Grafana, Wicket, WordPress und Topcoat.",
+          "published": "2026-10-31T07:17:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "OpenTelemetry friert seine Transformationssprache ein",
+          "link": "https://www.heise.de/news/OpenTelemetry-Collector-Updates-zerlegen-keine-Filterregeln-mehr-11505793.html",
+          "summary": "Schluss mit kaputten Collector-Pipelines nach Updates: Die OpenTelemetry Transformation Language (OTTL) ist in Version 1.0 stabil und rückwärtskompatibel.",
+          "published": "2026-10-30T10:43:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "DirectX-Preview soll Speicherbedarf von Raytracing-Daten drastisch senken",
+          "link": "https://www.heise.de/news/DirectX-Preview-soll-Speicherbedarf-von-Raytracing-Daten-drastisch-senken-11505569.html",
+          "summary": "Microsoft testet mit Agility SDK 1.722 Clustered Geometry und Partitioned TLAS für dynamische Raytracing-Geometrie. Spieler haben jedoch zunächst nichts davon.",
+          "published": "2026-10-30T06:04:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Developer-Häppchen – dotnetup statt rustup, Node 27, Webframework in Rust",
+        "OpenTelemetry friert seine Transformationssprache ein",
+        "DirectX-Preview soll Speicherbedarf von Raytracing-Daten drastisch senken"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Verhaltensscanner in Berlin: Verdrängung der Schwächsten",
+          "link": "https://netzpolitik.org/2026/verhaltensscanner-in-berlin-verdraengung-der-schwaechsten/",
+          "summary": "KI-gestützte Videoüberwachung in Berlin wird von verschiedenen Seiten verschieden gut angenommen. – CC-BY-NC-SA 4.0 : netzpolitik.org Jetzt läuft die Videoüberwachung mit Verhaltensanalyse in Berlin dauerhaft. Ein Datenschützer, ein Süchtiger, zwei Sozialarbeiter*innen und zwei Gewerbetreibende präsentieren ihre Perspektiven auf die neue Technologie.",
+          "published": "Mon, 02 Nov 2026 09:49:52 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Digital Detox beim Abendessen: Sardinische Gaststätten verbannen Tablets und Smartphones vom Tisch",
+          "link": "https://t3n.de/news/digital-detox-beim-abendessen-sardinische-gaststaetten-verbannen-tablets-und-smartphones-vom-tisch-1771038/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Man kennt die Szene: Am Nachbartisch im Restaurant ist eine ganze Familie mit ihren elektronischen Geräten beschäftigt. In Italien will eine Initiative das wieder ändern &#8211; zumindest für einen Monat. weiterlesen auf t3n.de",
+          "published": "Mon, 2 Nov 2026 10:00:22 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "iPhone Duo mit gebrochenen Displays: Ist das Problem größer als gedacht?",
+          "link": "https://t3n.de/news/iphone-duo-display-gebrochen-problem-memo-apple-store-1771029/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nur eine „kleine Anzahl“ von iPhone Duos soll Probleme mit defekten inneren Displays haben, sagt der Hersteller. Doch in einem internen Memo soll Apple Store-Mitarbeiter und Reseller jetzt darauf hinweisen, was im Falle eines gebrochenen Bildschirms zu tun ist. weiterlesen auf t3n.de",
+          "published": "Mon, 2 Nov 2026 09:30:32 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Laut Studie: Intelligente Frauen erhalten am Arbeitsplatz oft weniger Unterstützung",
+          "link": "https://t3n.de/news/laut-studie-intelligente-frauen-erhalten-am-arbeitsplatz-oft-weniger-unterstuetzung-1771017/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Männer bewundern ihre kompetenten Kolleg:innen – bis sie selbst mit ihnen zu tun haben. Dann tendieren sie laut Forscher:innen dazu, ihren Erfolg abzuwerten. Was können Unternehmen tun, um dagegen vorzugehen? weiterlesen auf t3n.de",
+          "published": "Sun, 1 Nov 2026 20:52:13 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Krypto-Kunden kommen mit blauem Auge davon: Binance ermöglicht nach Mega-Hack wieder Auszahlungen",
+          "link": "https://t3n.de/news/binance-auszahlungen-1771006/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nach dem größten Hack der Krypto-Geschichte bemüht sich Binance darum, wieder Normalbetrieb herzustellen. Nutzer:innen können – in begrenztem Ausmaß – wieder Auszahlungen vornehmen. Die große Kapitalflucht ist bisher ausgeblieben. weiterlesen auf t3n.de",
+          "published": "Sun, 1 Nov 2026 20:02:55 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Verhaltensscanner in Berlin: Verdrängung der Schwächsten",
+        "Digital Detox beim Abendessen: Sardinische Gaststätten verbannen Tablets und Smartphones vom Tisch",
+        "iPhone Duo mit gebrochenen Displays: Ist das Problem größer als gedacht?"
+      ]
+    }
+  ]
+}
