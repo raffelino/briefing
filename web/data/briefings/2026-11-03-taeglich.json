@@ -1,0 +1,335 @@
+{
+  "date": "2026-11-03",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "KI, Cloud und Open Source: Die EU sucht die digitale Souveränität",
+          "link": "https://netzpolitik.org/2026/ki-cloud-und-open-source-die-eu-sucht-die-digitale-souveraenitaet/",
+          "summary": "Auf dem Weg in die digitale Unabhängigkeit sucht Brüssel seinen Kurs. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Denise Jans Die EU will mehr digitale Souveränität. Doch statt eigene hoch leistungsfähige KI-Modelle zu entwickeln, setzt die EU-Kommission nun auf industrielle Anwendung. Bei Plänen zu souveränen Clouds bleibt eine Tür für US-Konzerne offen und Open Source bräuchte mehr Verbindlichkeit. Ein Überblick.",
+          "published": "Mon, 02 Nov 2026 16:22:43 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Shopify Overexposed Scans GKE Ingresses and Cloud Run for Exposure",
+          "link": "https://www.infoq.com/news/2026/11/shopify-kubernetes-ingresses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Shopify has introduced Overexposed. This internal scanner locates Kubernetes Ingresses on GKE and Cloud Run services. It checks for those that are accessible from the internet without authentication By Claudio Masolo",
+          "published": "Mon, 02 Nov 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Kommentar: KI ist ein Fiebertraum",
+          "link": "https://www.heise.de/meinung/Kommentar-KI-ist-ein-Fiebertraum-11508391.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Es gibt gute Argumente für KI. Die Gegenargumente gewinnen jedoch die Oberhand, meint Wilhelm Drehling.",
+          "published": "2026-11-03T11:08:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Der Cluster ist konform, die App aber nicht – da gibt's bald was von Kubernetes",
+          "link": "https://www.heise.de/news/Ueberlebt-die-App-den-Node-Drain-Kubernetes-plant-den-Haertetest-11505071.html",
+          "summary": "Vor Cluster-Upgrades müssen Admins Apps oft manuell auf Kompatibilität prüfen. Eine neue Kubernetes-Arbeitsgruppe entwickelt dafür standardisierte Tests.",
+          "published": "2026-10-29T14:24:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Wütende KI-Meuten: Wie gefälschte Proteste auf Tiktok Geld bringen sollen",
+          "link": "https://www.golem.de/news/wuetende-ki-meuten-wie-gefaelschte-proteste-auf-tiktok-geld-bringen-sollen-2611-214732.html",
+          "summary": "Auf Tiktok protestieren KI-generierte Menschen gegen die Politik. Dahinter steckt ein Geschäftsmodell, das mit Empörung Reichweite und Geld erzeugt. Von Alexander Riechelmann ( Tiktok , Spam )",
+          "published": "2026-11-03T09:45:04+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KI, Cloud und Open Source: Die EU sucht die digitale Souveränität",
+        "Shopify Overexposed Scans GKE Ingresses and Cloud Run for Exposure",
+        "Kommentar: KI ist ein Fiebertraum"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: TornadoVM 8.0, JNoSQL, Endive, JReleaser, JBang, LangChain4j, Quarkus Almanac",
+          "link": "https://www.infoq.com/news/2026/11/java-news-roundup-oct26-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for October 26th, 2026, features news highlighting: the GA release of TornadoVM 8.0; point releases of JNoSQL, Endive, JBang, JReleaser and LangChain4j; a maintenance release of JobRunr; beta releases of Hibernate ORM and Hibernate Reactive; and introducing the Quarkus Almanac. By Michael Redlich",
+          "published": "Mon, 02 Nov 2026 17:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Java News Roundup: TornadoVM 8.0, JNoSQL, Endive, JReleaser, JBang, LangChain4j, Quarkus Almanac"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "IoT: Siemens Simatic-IoT2050-Gateways angegriffen",
+          "link": "https://www.heise.de/news/Internet-of-Things-Siemens-Simatic-IoT2050-angegriffen-11509246.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Am Montag wurde bekannt, dass Angreifer Siemens-IoT-Gateways attackieren. Sie wollen Botnet-Malware einschleusen.",
+          "published": "2026-11-03T12:09:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Sichere Softwareentwicklung – Schwachstellen erkennen und vermeiden",
+          "link": "https://www.heise.de/news/iX-Workshop-Sichere-Softwareentwicklung-Schwachstellen-erkennen-und-vermeiden-11492992.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie praxisnah, wie Sie Schwachstellen in Anwendungen gezielt vorbeugen und einen sicheren Entwicklungsprozess in Ihrem Unternehmen verankern.",
+          "published": "2026-11-03T10:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Hinter kritischen GitLab-Lücken stecken Fehler in der Regex-Engine von Ruby",
+          "link": "https://www.heise.de/news/Ruby-behebt-drei-kritische-Luecken-vor-denen-CVE-Scanner-nicht-warnen-11505663.html",
+          "summary": "Die kritischen GitLab-Lücken der letzten Wochen gehen auf drei jetzt behobene Fehler in Rubys Regex-Engine zurück. CVE-Scanner schlagen auf sie nicht an.",
+          "published": "2026-10-30T07:43:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "IoT: Siemens Simatic-IoT2050-Gateways angegriffen",
+        "heise-Angebot: iX-Workshop: Sichere Softwareentwicklung – Schwachstellen erkennen und vermeiden",
+        "Hinter kritischen GitLab-Lücken stecken Fehler in der Regex-Engine von Ruby"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "GenZ-Proteste: Nebelkerzen gegen die Angst vor der Straße",
+          "link": "https://netzpolitik.org/2026/genz-proteste-nebelkerzen-gegen-die-angst-vor-der-strasse/",
+          "summary": "Die GenZ-Demonstration vor dem Brandenburger Tor lockte nicht nur die GenZ auf die Straße. – Alle Rechte vorbehalten: IMAGO / JNA Press Die europäische Protestbewegung schwappt nach Deutschland. Doch die politischen Forderungen gehen im rassistischen Getöse um Sicherheit, Krawall und Gewalt unter. Der schwachen Bundesregierung dürfte das recht sein. Ein Kommentar.",
+          "published": "Mon, 02 Nov 2026 17:04:50 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "KI-Sicherheit: TÜV hält Selbstverpflichtungen für unzureichend",
+          "link": "https://www.golem.de/news/ki-sicherheit-tuev-haelt-selbstverpflichtungen-fuer-unzureichend-2611-214763.html",
+          "summary": "Um staatliche Verantwortung mit technischer Expertise zu verbinden, schlägt der TÜV einen mehrstufigen Sicherheitsrahmen vor. ( KI , Bundesregierung )",
+          "published": "2026-11-02T16:32:04+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "GenZ-Proteste: Nebelkerzen gegen die Angst vor der Straße",
+        "KI-Sicherheit: TÜV hält Selbstverpflichtungen für unzureichend"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Affinity kommt für Linux",
+          "link": "https://www.heise.de/news/Affinity-kommt-fuer-Linux-11509360.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Canva hat per X-Post bestätigt, dass die Grafiksoftware Affinity für Linux in aktiver Entwicklung ist. Einen Termin gibt es noch nicht.",
+          "published": "2026-11-03T12:02:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Konferenz für agile Führungskräfte: digitale Transformation im Team meistern",
+          "link": "https://www.heise.de/news/iX-Konferenz-fuer-agile-Fuehrungskraefte-digitale-Transformation-im-Team-meistern-11504720.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Am 1. und 2. Dezember bietet die Online-Konferenz rund um Führung und Selbstführung wertvolle Impulse für starke Teams unter sich wandelnden Herausforderungen.",
+          "published": "2026-11-03T08:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Herdr Desktop-App: Schaltzentrale für KI-Coding-Agenten",
+          "link": "https://www.heise.de/news/Herdr-Desktop-App-Schaltzentrale-fuer-KI-Coding-Agenten-11507856.html",
+          "summary": "Herdr hat eine Desktop-App als Schaltzentrale für KI-Coding-Agenten veröffentlicht. Sie läuft auf Linux, macOS und Windows.",
+          "published": "2026-11-02T13:57:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Softwareentwicklung mit KI: In elf Tagen zum Linux-kompatiblen Kernel-Prototyp",
+          "link": "https://www.golem.de/news/softwareentwicklung-mit-ki-in-elf-tagen-zum-linux-kompatiblen-kernel-prototyp-2611-214780.html",
+          "summary": "Mit Ginux will der Gründer von CentOS und Rocky Linux zeigen, dass von Menschen dirigierte KI Entwicklungsarbeit deutlich beschleunigen kann. ( KI , CentOS )",
+          "published": "2026-11-03T09:27:01+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Minecraft und Mindustry: Risikoscheue KI-Agenten entwickeln ausgeprägte Bürokratie",
+          "link": "https://www.golem.de/news/minecraft-und-mindustry-risikoscheue-ki-agenten-entwickeln-ausgepraegte-buerokratie-2611-214769.html",
+          "summary": "Bei Misserfolgen neigen KI-Agenten dazu, ein starkes Vorsorgeverhalten zu entwickeln und Aufgaben übermäßig bürokratisch zu regeln. ( KI , Minecraft )",
+          "published": "2026-11-02T17:25:11+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Affinity kommt für Linux",
+        "heise-Angebot: iX-Konferenz für agile Führungskräfte: digitale Transformation im Team meistern",
+        "Herdr Desktop-App: Schaltzentrale für KI-Coding-Agenten"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Presentation: Beyond the Harness: Canvas for AI Agents",
+          "link": "https://www.infoq.com/presentations/canvas-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Nimisha Asthagiri shares how applying proven product engineering and architecture principles creates a bounded canvas for AI agents. She explains how this model provides agents with bounded autonomy, continuous drift detection, and decision records to scale software development resiliently. By Nimisha Asthagiri",
+          "published": "Tue, 03 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Anthropic IPO: Warum der größte Börsengang aller Zeiten ins Wanken gerät",
+          "link": "https://t3n.de/news/anthropic-ipo-boersengang-wanken-risiken-1771236/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Vorfeld des möglicherweise größten Börsengangs aller Zeiten meldet Anthropic ein Umsatzplus von gut 1.100 Prozent. Doch Milliardenverluste und Verpflichtungen für KI-Infrastruktur von fast 900 Milliarden US-Dollar könnten Investor:innen abschrecken. weiterlesen auf t3n.de",
+          "published": "Tue, 3 Nov 2026 11:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Update sorgt für Frust: Claude verweigert das Nachbauen von Games",
+          "link": "https://t3n.de/news/anthropic-claude-ki-update-game-nachbau-blockade-1771064/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Anthropic will verhindern, dass sich sein KI-Modell Claude weiter zum Nachbau von existierenden Games heranziehen lässt. Eine entsprechende Änderung im Systemprompt sorgt aber offenbar auch bei legitimen Projekten für Probleme. weiterlesen auf t3n.de",
+          "published": "Tue, 3 Nov 2026 10:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Zu teuer für alle? Goldman Sachs beschränkt den Zugang zu KI-Tools",
+          "link": "https://t3n.de/news/zu-teuer-fuer-alle-goldman-sachs-beschraenkt-den-zugang-zu-ki-tools-1771271/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Goldman Sachs zieht bei KI-Tools die Zügel an: Claude Code und GitHub bleiben künftig Entwicklern vorbehalten. Was das über den KI-Boom an der Wall Street verrät. weiterlesen auf t3n.de",
+          "published": "Tue, 3 Nov 2026 10:37:16 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI vor Menschen? Anthropic zahlt für Claude mehr als für seine Belegschaft – zumindest auf dem Papier",
+          "link": "https://t3n.de/news/anthropic-interne-ki-nutzung-personalkosten-1771253/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Anthropic gibt nach eigenen Angaben mittlerweile mehr für die interne KI-Nutzung aus, als für die Angestellten. Dabei bedient sich die KI-Firma allerdings eines Rechentricks. weiterlesen auf t3n.de",
+          "published": "Tue, 3 Nov 2026 10:00:49 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Beyond the Harness: Canvas for AI Agents",
+        "Anthropic IPO: Warum der größte Börsengang aller Zeiten ins Wanken gerät",
+        "KI-Update sorgt für Frust: Claude verweigert das Nachbauen von Games"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "LinkedIn Uses OpenTelemetry to Trace the Member Journey from Tap to Backend",
+          "link": "https://www.infoq.com/news/2026/11/linkedin-opentelemetry-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "LinkedIn has built an OpenTelemetry-based telemetry platform that connects what members do in its iOS, Android, and web applications with the backend services processing those interactions. By Craig Risi",
+          "published": "Tue, 03 Nov 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Kann ArtCraft Adobe ersetzen? Wir haben ein 3003-Video damit geschnitten",
+          "link": "https://www.heise.de/news/Kann-ArtCraft-Adobe-ersetzen-Wir-haben-ein-3003-Video-damit-geschnitten-11506536.html",
+          "summary": "Adobe Photoshop, Premiere und After Effects für lau: Wir haben getestet, ob man mit der ArtCraft-Software professionell Videos und Bilder bearbeiten kann.",
+          "published": "2026-10-30T16:01:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Redmagic upgrades its liquid-cooled gaming phone with extra RGBs",
+          "link": "https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera",
+          "summary": "After introducing true liquid cooling to its gaming phones last year, Redmagic is upping the ante in its 12 Pro by building RGB lights into the transparent cooling loop, too. And they work! Sort of. The lights do turn on, and they can be set to glow in set patterns, activate for specific apps, or [&#8230;]",
+          "published": "2026-11-03T07:00:00-05:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "LinkedIn Uses OpenTelemetry to Trace the Member Journey from Tap to Backend",
+        "Kann ArtCraft Adobe ersetzen? Wir haben ein 3003-Video damit geschnitten",
+        "Redmagic upgrades its liquid-cooled gaming phone with extra RGBs"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Developer-Häppchen – dotnetup statt rustup, Node 27, Webframework in Rust",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-dotnetup-statt-rustup-Node-27-Webframework-in-Rust-11505731.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu dotnetup, PDFsharp, Node, VS Code, Rsbuild, JetBrains, Grafana, Wicket, WordPress und Topcoat.",
+          "published": "2026-10-31T07:17:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "OpenTelemetry friert seine Transformationssprache ein",
+          "link": "https://www.heise.de/news/OpenTelemetry-Collector-Updates-zerlegen-keine-Filterregeln-mehr-11505793.html",
+          "summary": "Schluss mit kaputten Collector-Pipelines nach Updates: Die OpenTelemetry Transformation Language (OTTL) ist in Version 1.0 stabil und rückwärtskompatibel.",
+          "published": "2026-10-30T10:43:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "DirectX-Preview soll Speicherbedarf von Raytracing-Daten drastisch senken",
+          "link": "https://www.heise.de/news/DirectX-Preview-soll-Speicherbedarf-von-Raytracing-Daten-drastisch-senken-11505569.html",
+          "summary": "Microsoft testet mit Agility SDK 1.722 Clustered Geometry und Partitioned TLAS für dynamische Raytracing-Geometrie. Spieler haben jedoch zunächst nichts davon.",
+          "published": "2026-10-30T06:04:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Developer-Häppchen – dotnetup statt rustup, Node 27, Webframework in Rust",
+        "OpenTelemetry friert seine Transformationssprache ein",
+        "DirectX-Preview soll Speicherbedarf von Raytracing-Daten drastisch senken"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "1,3 Millionen Settop-Boxen betroffen: Google-Partner verwandelte Android-TV-Geräte in Botnet",
+          "link": "https://t3n.de/news/android-tv-geraete-botnet-1771263/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google hat gemeinsam mit Behörden und IT-Security-Firmen ein riesiges Botnet ausgeschaltet. Darin involviert war ein chinesischer Hardware-Partner des Konzerns, der heimlich eine Hintertür in 1,3 Millionen Android-TV-Geräte eingebaut haben soll. weiterlesen auf t3n.de",
+          "published": "Tue, 3 Nov 2026 11:30:35 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Teure Speicherchips und iPhone Duo: Apple hat vor Weihnachten nicht nur gute Nachrichten",
+          "link": "https://t3n.de/news/iphone-duo-speicherprese-weihnachtsgeschaeft-1771249/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Vor dem Weihnachtsgeschäft kann Apple das iPhone-Geschäft ausbauen. Ins wichtigste Quartal des Jahres geht der Konzern aber mit explodierenden Speicherpreisen und Engpässen bei einem Parade-Modell. weiterlesen auf t3n.de",
+          "published": "Tue, 3 Nov 2026 08:05:15 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "iPhone Duo im Praxis-Check: Wie gut lässt sich mit Apples Foldable arbeiten?",
+          "link": "https://t3n.de/news/iphone-duo-test-praxis-review-1771067/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Über das Aussehen und die Form des iPhone Duo wurde in den vergangenen Wochen alles gesagt. Aber wie gut kann man mit dem Gerät unterwegs und zu Hause eigentlic weiterlesen auf t3n.de",
+          "published": "Tue, 3 Nov 2026 07:30:54 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+          "link": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+          "summary": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
+          "published": "Mon, 02 Nov 2026 23:30:16 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+          "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+          "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+          "published": "Mon, 02 Nov 2026 18:32:21 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "1,3 Millionen Settop-Boxen betroffen: Google-Partner verwandelte Android-TV-Geräte in Botnet",
+        "Teure Speicherchips und iPhone Duo: Apple hat vor Weihnachten nicht nur gute Nachrichten",
+        "iPhone Duo im Praxis-Check: Wie gut lässt sich mit Apples Foldable arbeiten?"
+      ]
+    }
+  ]
+}
