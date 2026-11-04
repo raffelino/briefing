@@ -1,0 +1,328 @@
+{
+  "date": "2026-11-04",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Google Launches LiteRT Tensor API for Building, Customizing, and Optimizing ML Models for On-Device",
+          "link": "https://www.infoq.com/news/2026/11/litert-tensor-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google has introduced the LiteRT Tensor API, a lightweight C++ API that allows developers to build, customize, and optimize machine learning models directly for on-device execution. According to Google, it combines the flexibility of native model authoring with cross-platform portability. By Sergio De Simone",
+          "published": "Tue, 03 Nov 2026 19:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Google Launches LiteRT Tensor API for Building, Customizing, and Optimizing ML Models for On-Device"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Presentation: Panel: Who Builds the Frontend Now? (And What Breaks When They Do)",
+          "link": "https://www.infoq.com/presentations/panel-ai-frontend-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The panelists explain how AI tools and vibe coding reshape frontend and mobile engineering. They share insights on evolving junior developer roles, managing AI-generated code review fatigue, designing systems for autonomous agents, enforcing architectural guardrails, and navigating economic shifts in open-source software sustainability. By Luca Mezzalira, James Hall, Danielle An, Ivan Zarea",
+          "published": "Wed, 04 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Amazon ECS Gateway Arrives with Generated Hostnames and No Custom Domain Support",
+          "link": "https://www.infoq.com/news/2026/11/introducing-amazon-ecs-gateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has released Amazon ECS Gateway, an account-level ingress resource letting platform teams define networking once and application teams opt services in with a connector. Each service gets a generated hostname and routing is host-based, and neither the announcement nor the documentation covers custom domains. By Steef-Jan Wiggers",
+          "published": "Wed, 04 Nov 2026 09:49:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+          "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+          "summary": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
+          "published": "Tue, 03 Nov 2026 22:39:37 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+          "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+          "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
+          "published": "Tue, 03 Nov 2026 18:30:27 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Another child dies of measles as CDC reportedly holds up health alert",
+          "link": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
+          "summary": "NY governor pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.",
+          "published": "Tue, 03 Nov 2026 17:21:29 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Panel: Who Builds the Frontend Now? (And What Breaks When They Do)",
+        "Amazon ECS Gateway Arrives with Generated Hostnames and No Custom Domain Support",
+        "California fights \"preposterous\" Trump admin demand to scrap state broadband laws"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: Das Programm steht: secIT-Thementag am 2. Dezember rund um KI & Security",
+          "link": "https://www.heise.de/news/Das-Programm-steht-secIT-Thementag-am-2-Dezember-rund-um-KI-Security-11508529.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Von php2shell bis Agenten-unterstützten Cyberangriffen: KI wirbelt die Cybersecurity tüchtig durcheinander. Der Thementag bringt etwas Ordnung ins Chaos.",
+          "published": "2026-11-04T12:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Active Directory hacken und schützen",
+          "link": "https://www.heise.de/news/iX-Workshop-Active-Directory-hacken-und-schuetzen-11492926.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Werden Sie selbst zum Hacker und lernen, wie Angreifer gezielt Schwachstellen in Active Directory ausnutzen, um Server und Domänencontroller zu kompromittieren.",
+          "published": "2026-11-04T08:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Hinter kritischen GitLab-Lücken stecken Fehler in der Regex-Engine von Ruby",
+          "link": "https://www.heise.de/news/Ruby-behebt-drei-kritische-Luecken-vor-denen-CVE-Scanner-nicht-warnen-11505663.html",
+          "summary": "Die kritischen GitLab-Lücken der letzten Wochen gehen auf drei jetzt behobene Fehler in Rubys Regex-Engine zurück. CVE-Scanner schlagen auf sie nicht an.",
+          "published": "2026-10-30T07:43:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: Das Programm steht: secIT-Thementag am 2. Dezember rund um KI & Security",
+        "heise-Angebot: iX-Workshop: Active Directory hacken und schützen",
+        "Hinter kritischen GitLab-Lücken stecken Fehler in der Regex-Engine von Ruby"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Digitalgipfel: Im Takt der Wirtschaft",
+          "link": "https://netzpolitik.org/2026/digitalgipfel-im-takt-der-wirtschaft/",
+          "summary": "Bundeskanzler Friedrich Merz und Digitalminister Karsten Wildberger auf dem Digitalgipfel 2026. – Alle Rechte vorbehalten: BMDS/Jens Oellermann Auf ihrem Digitalgipfel vergab die Bundesregierung die Chance, über die gesellschaftliche Regulierung von KI zu sprechen. Stattdessen ging es einmal mehr um Wirtschaftswachstum und Datennutzung. Ein Kommentar.",
+          "published": "Tue, 03 Nov 2026 15:04:20 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Iter: Supraleitende Magnetspulen bestehen Testlauf bei -269 °C",
+          "link": "https://www.golem.de/news/iter-supraleitende-magnetspulen-bestehen-testlauf-bei-269-c-2611-214824.html",
+          "summary": "Der magnetische Einschluss des Fusionsreaktors ist der entscheidende Teil von Iter. Die Feldspulen müssen gerade zeigen, dass sie funktionieren. ( Iter , Kernfusion )",
+          "published": "2026-11-04T10:26:06+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Digitalgipfel: Im Takt der Wirtschaft",
+        "Iter: Supraleitende Magnetspulen bestehen Testlauf bei -269 °C"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Can agent standards keep up with the companies building them?",
+          "link": "https://thenewstack.io/mazin-gilbert-aaif-interview/",
+          "summary": "Mazin Gilbert, executive director of the Linux Foundation&#8217;s Agentic AI Foundation, left Google earlier this year to&#160;lead the new AAIF, The post Can agent standards keep up with the companies building them? appeared first on The New Stack .",
+          "published": "Tue, 03 Nov 2026 22:50:15 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Linux-KI-Brille Raven Prism geht in den Verkauf – zum Luxuspreis",
+          "link": "https://www.heise.de/news/Linux-KI-Brille-Raven-Prism-geht-in-den-Verkauf-zum-Luxuspreis-11511172.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das US-Start-up Raven Resonance bereitet den Marktstart seiner autarken Smart Glasses Prism vor und nennt Preis und Verfügbarkeit.",
+          "published": "2026-11-04T11:03:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Herdr Desktop-App: Schaltzentrale für KI-Coding-Agenten",
+          "link": "https://www.heise.de/news/Herdr-Desktop-App-Schaltzentrale-fuer-KI-Coding-Agenten-11507856.html",
+          "summary": "Herdr hat eine Desktop-App als Schaltzentrale für KI-Coding-Agenten veröffentlicht. Sie läuft auf Linux, macOS und Windows.",
+          "published": "2026-11-02T13:57:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "KI als Hauptgrund genannt: Suse streicht jeden zehnten Job",
+          "link": "https://www.golem.de/news/ki-als-hauptgrund-genannt-suse-streicht-jeden-zehnten-job-2611-214827.html",
+          "summary": "Der Stellenabbau soll laut dem Suse-CEO notwendig sein, um das Unternehmen nachhaltig aufzustellen. ( Suse , Linux )",
+          "published": "2026-11-04T09:28:08+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Can agent standards keep up with the companies building them?",
+        "Linux-KI-Brille Raven Prism geht in den Verkauf – zum Luxuspreis",
+        "Herdr Desktop-App: Schaltzentrale für KI-Coding-Agenten"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Account-Sharing bei ChatGPT, Claude und Gemini: Diese 6 Risiken drohen dir",
+          "link": "https://t3n.de/news/account-sharing-chatgpt-claude-gemini-6-risiken-1758597/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Teilst du deinen Account für ChatGPT, Claude oder Gemini mit anderen Nutzer:innen? Das spart zwar Geld, kann dir aber ziemlich große Probleme mit den anderen User:innen einbringen. Warum das Account-Sharing bei KI-Tools keine gute Idee ist. weiterlesen auf t3n.de",
+          "published": "Wed, 4 Nov 2026 12:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Smart Reports: Was Vorgesetzte jetzt über die Claude-Nutzung von Mitarbeitenden erfahren können",
+          "link": "https://t3n.de/news/smart-reports-was-vorgesetzte-jetzt-ueber-die-claude-nutzung-von-mitarbeitenden-erfahren-koennen-1771500/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die neue Claude-Funktion Smart Reports soll Unternehmen dabei helfen, ihre KI-Kosten in den Griff zu bekommen. Gleichzeitig ermöglicht sie Vorgesetzten aber auch, die Leistung ihrer Mitarbeiter:innen zu bewerten. weiterlesen auf t3n.de",
+          "published": "Wed, 4 Nov 2026 11:08:55 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Docker Urges Isolation and Governance for AI Agent Security",
+          "link": "https://www.infoq.com/news/2026/11/docker-ai-agent-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Docker has published a guide to five security risks that arise when AI agents are allowed to browse, run code and call tools with limited human oversight. They argue that the autonomy that makes agents useful also makes conventional application security controls insufficient. The company positions isolation and governance, rather than model improvements alone, as the main defences. By Matt Saunders",
+          "published": "Wed, 04 Nov 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Elektrisch und mit Foil: Wie diese neuen Fähren Tragflächenboote zurückbringen",
+          "link": "https://t3n.de/news/elektrisch-foil-faehren-tragflaechenboote-1770132/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Tschüss, Dieselfähren? Tragflächenboote erleben eine Renaissance: E-Antrieb, KI-Steuerung und Leichtbauweise versprechen maximalen Komfort bei minimalen Emissio weiterlesen auf t3n.de",
+          "published": "Wed, 4 Nov 2026 06:30:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "A developer opened Postman. Then two AI coding agents changed without their permission.",
+          "link": "https://thenewstack.io/postman-plugin-coding-agents/",
+          "summary": "A developer says Postman&#8217;s desktop app installed plugins into Claude Code and OpenAI Codex without their permission. The app also The post A developer opened Postman. Then two AI coding agents changed without their permission. appeared first on The New Stack .",
+          "published": "Tue, 03 Nov 2026 23:17:04 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Account-Sharing bei ChatGPT, Claude und Gemini: Diese 6 Risiken drohen dir",
+        "Smart Reports: Was Vorgesetzte jetzt über die Claude-Nutzung von Mitarbeitenden erfahren können",
+        "Docker Urges Isolation and Governance for AI Agent Security"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "This space company is betting its future on a propellant available everywhere",
+          "link": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+          "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
+          "published": "Tue, 03 Nov 2026 16:50:32 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "LinkedIn Uses OpenTelemetry to Trace the Member Journey from Tap to Backend",
+          "link": "https://www.infoq.com/news/2026/11/linkedin-opentelemetry-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "LinkedIn has built an OpenTelemetry-based telemetry platform that connects what members do in its iOS, Android, and web applications with the backend services processing those interactions. By Craig Risi",
+          "published": "Tue, 03 Nov 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Kann ArtCraft Adobe ersetzen? Wir haben ein 3003-Video damit geschnitten",
+          "link": "https://www.heise.de/news/Kann-ArtCraft-Adobe-ersetzen-Wir-haben-ein-3003-Video-damit-geschnitten-11506536.html",
+          "summary": "Adobe Photoshop, Premiere und After Effects für lau: Wir haben getestet, ob man mit der ArtCraft-Software professionell Videos und Bilder bearbeiten kann.",
+          "published": "2026-10-30T16:01:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "This space company is betting its future on a propellant available everywhere",
+        "LinkedIn Uses OpenTelemetry to Trace the Member Journey from Tap to Backend",
+        "Kann ArtCraft Adobe ersetzen? Wir haben ein 3003-Video damit geschnitten"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Developer-Häppchen – dotnetup statt rustup, Node 27, Webframework in Rust",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-dotnetup-statt-rustup-Node-27-Webframework-in-Rust-11505731.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu dotnetup, PDFsharp, Node, VS Code, Rsbuild, JetBrains, Grafana, Wicket, WordPress und Topcoat.",
+          "published": "2026-10-31T07:17:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "OpenTelemetry friert seine Transformationssprache ein",
+          "link": "https://www.heise.de/news/OpenTelemetry-Collector-Updates-zerlegen-keine-Filterregeln-mehr-11505793.html",
+          "summary": "Schluss mit kaputten Collector-Pipelines nach Updates: Die OpenTelemetry Transformation Language (OTTL) ist in Version 1.0 stabil und rückwärtskompatibel.",
+          "published": "2026-10-30T10:43:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "DirectX-Preview soll Speicherbedarf von Raytracing-Daten drastisch senken",
+          "link": "https://www.heise.de/news/DirectX-Preview-soll-Speicherbedarf-von-Raytracing-Daten-drastisch-senken-11505569.html",
+          "summary": "Microsoft testet mit Agility SDK 1.722 Clustered Geometry und Partitioned TLAS für dynamische Raytracing-Geometrie. Spieler haben jedoch zunächst nichts davon.",
+          "published": "2026-10-30T06:04:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Developer-Häppchen – dotnetup statt rustup, Node 27, Webframework in Rust",
+        "OpenTelemetry friert seine Transformationssprache ein",
+        "DirectX-Preview soll Speicherbedarf von Raytracing-Daten drastisch senken"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Bezahlkarte für Asylsuchende: Berlin setzt Bargeld-Obergrenze aus",
+          "link": "https://netzpolitik.org/2026/bezahlkarte-fuer-asylsuchende-berlin-setzt-bargeld-obergrenze-aus/",
+          "summary": "Nicht überall lässt sich mit Karte zahlen. – Alle Rechte vorbehalten: IMAGO / Christian Ohde In Berlin soll es vorerst keine Bargeld-Obergrenze für Geflüchtete mehr geben, die eine Bezahlkarte nutzen müssen. Der Flüchtlingsrat Berlin nennt das einen „Teilerfolg auf einem längeren Weg“. Ob die diskriminierenden Bezahlkarten in der Hauptstadt wieder abgeschafft werden, hängt auch von den Koalitionsverhandlungen ab.",
+          "published": "Wed, 04 Nov 2026 12:29:55 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Was alles in deiner Stimme steckt: Forscher ermitteln das biologische Alter",
+          "link": "https://t3n.de/news/was-alles-in-deiner-stimme-steckt-forscher-ermitteln-das-biologische-alter-1771502/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wie schnell jemand altert, zeigt sich nicht nur in DNA-Proben und Gehirnscans – sondern auch darin, wie er spricht. Forscher:innen haben dazu mit einem Maschine weiterlesen auf t3n.de",
+          "published": "Wed, 4 Nov 2026 12:20:25 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Was weiß Amazon über Kunden? Ein verstecktes Profil verrät es",
+          "link": "https://t3n.de/news/amazon-app-versteckte-kundendaten-analyse-profil-1767308/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "&#8222;Hat ein flaches Gesäß&#8220;, attestierte die Amazon-App einer US-Kundin in einem etwas versteckten Menü. Diese Erkenntnis teilte sie in einem sozialen Netzwerk mit. Die Antworten anderer Nutzer ließen nicht lange auf sich warten. weiterlesen auf t3n.de",
+          "published": "Wed, 4 Nov 2026 10:35:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Smartphone am Steuer: Experten fordern deutlich höheres Bußgeld",
+          "link": "https://t3n.de/news/smartphone-am-steuer-experten-bussgeld-1771471/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit dem Smartphone am Ohr erwischt werden? Das kostet bislang 100 bis 200 Euro Bußgeld. Zu wenig, findet der Deutsche Verkehrssicherheitsrat. Verkehrsminister Bilger drängt zudem auf den Einsatz von Handyblitzern. weiterlesen auf t3n.de",
+          "published": "Wed, 4 Nov 2026 08:20:42 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Geht es auch ohne Lightroom? Diese quelloffenen Alternativen gibt es – und das können sie",
+          "link": "https://t3n.de/news/geht-es-auch-ohne-lightroom-diese-quelloffenen-alternativen-gibt-es-und-das-koennen-sie-1771363/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Traum der kostenlosen, KI-generierten Lightroom-Alternative entpuppt sich bei genauerer Betrachtung leider doch als Luftschloss. Aber es gibt durchaus einig weiterlesen auf t3n.de",
+          "published": "Wed, 4 Nov 2026 07:30:04 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Bezahlkarte für Asylsuchende: Berlin setzt Bargeld-Obergrenze aus",
+        "Was alles in deiner Stimme steckt: Forscher ermitteln das biologische Alter",
+        "Was weiß Amazon über Kunden? Ein verstecktes Profil verrät es"
+      ]
+    }
+  ]
+}
