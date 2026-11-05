@@ -1,0 +1,324 @@
+{
+  "date": "2026-11-05",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Building a Culture for a Kubernetes-Based Platform in a Bank",
+          "link": "https://www.infoq.com/news/2026/11/culture-kubernetes-bank/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In banking, open source can earn trust by running real workloads, as Marcy Paramonova and Stéphane Cusin explained in their talk Building Cloud Native Culture in a Bank at KubeCon & CloudNativeCon Europe. Deploying Kubernetes was the easy part; the hard part was culture: community of practice, shared knowledge, rituals, ownership. Teams try things, keep what works, and improve bottom-up. By Ben Linders",
+          "published": "Thu, 05 Nov 2026 11:11:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Hackers exploited iOS and Android flaws to infect phones",
+          "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+          "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+          "published": "Wed, 04 Nov 2026 22:26:49 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+          "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+          "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+          "published": "Wed, 04 Nov 2026 20:55:50 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Entwickler hackt sein Auto – nur um die Uhrzeit ändern zu können",
+          "link": "https://t3n.de/news/entwickler-hackt-auto-uhrzeit-1771519/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Entwickler aus Estland hat das Navigationssystem seines zwölf Jahre alten Renault Latitude gehackt, um die Uhrzeit umzustellen. Der Hack deckt keine gefährliche Sicherheitslücke auf, zeigt aber die Anfälligkeit älterer Auto-Software. weiterlesen auf t3n.de",
+          "published": "Wed, 4 Nov 2026 15:30:49 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: Panel: Who Builds the Frontend Now? (And What Breaks When They Do)",
+          "link": "https://www.infoq.com/presentations/panel-ai-frontend-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The panelists explain how AI tools and vibe coding reshape frontend and mobile engineering. They share insights on evolving junior developer roles, managing AI-generated code review fatigue, designing systems for autonomous agents, enforcing architectural guardrails, and navigating economic shifts in open-source software sustainability. By Luca Mezzalira, James Hall, Danielle An, Ivan Zarea",
+          "published": "Wed, 04 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Building a Culture for a Kubernetes-Based Platform in a Bank",
+        "Hackers exploited iOS and Android flaws to infect phones",
+        "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Presentation: Zero Trust Agent Systems that Pass Audits and Still Ship",
+          "link": "https://www.infoq.com/presentations/zero-trust-ai-agents-production-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Advait Patel shares a playbook for securing AI agent systems in production. He discusses moving defense boundaries from the prompt to the tool layer, enforcing scoped workload identities, and mitigating prompt injection via tool outputs. He explains how to structure audit-ready observability and implement kill switches to protect critical data while keeping deployment fast and compliant. By Advait Patel",
+          "published": "Thu, 05 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Hinter kritischen GitLab-Lücken stecken Fehler in der Regex-Engine von Ruby",
+          "link": "https://www.heise.de/news/Ruby-behebt-drei-kritische-Luecken-vor-denen-CVE-Scanner-nicht-warnen-11505663.html",
+          "summary": "Die kritischen GitLab-Lücken der letzten Wochen gehen auf drei jetzt behobene Fehler in Rubys Regex-Engine zurück. CVE-Scanner schlagen auf sie nicht an.",
+          "published": "2026-10-30T07:43:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Zero Trust Agent Systems that Pass Audits and Still Ship",
+        "Hinter kritischen GitLab-Lücken stecken Fehler in der Regex-Engine von Ruby"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Thea Energy und MIT testen planare HTS-Magnete für mögliches Fusionskraftwerk",
+          "link": "https://www.heise.de/news/Thea-Energy-und-MIT-testen-planare-HTS-Magnete-fuer-moegliches-Fusionskraftwerk-11512947.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Thea Energy und das MIT wollen testen, ob ein einfacheres Stellarator-Design den Belastungen einer möglichen Fusionsreaktion standhalten kann.",
+          "published": "2026-11-05T10:11:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Anzeige: Geschäftsreise planen: Praktische Tipps für mehr Effizienz",
+          "link": "https://www.golem.de/news/anzeige-geschaeftsreise-planen-praktische-tipps-fuer-mehr-effizienz-2611-214783.html",
+          "summary": "Von der Buchung über Versicherung und Lounge bis zu Mobilität und Reisekosten: So holst du aus einer Geschäftsreise das Beste für dein Business raus. ( Reisen , Wirtschaft )",
+          "published": "2026-11-05T09:00:04+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Tim Höttges: Telekom-Chef wirbt bei Bundesregierung für T-Mobile US-Fusion",
+          "link": "https://www.golem.de/news/tim-hoettges-telekom-chef-wirbt-bei-bundesregierung-fuer-t-mobile-us-fusion-2611-214871.html",
+          "summary": "Während das vorläufige Aus für die Fusion zwischen der Deutschen Telekom und T-Mobile US vermeldet wurde, treibt Höttges das Projekt laut Insidern mit Nachdruck voran. ( Timotheus Höttges , Telekom )",
+          "published": "2026-11-04T23:23:03+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Thea Energy und MIT testen planare HTS-Magnete für mögliches Fusionskraftwerk",
+        "Anzeige: Geschäftsreise planen: Praktische Tipps für mehr Effizienz",
+        "Tim Höttges: Telekom-Chef wirbt bei Bundesregierung für T-Mobile US-Fusion"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+          "link": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
+          "summary": "The spirit of AMG is alive via three axial flux electric motors.",
+          "published": "Thu, 05 Nov 2026 09:00:13 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "heise+ | Linux-Dateimanager Nemo mit eigenen Skripten und Actions erweitern",
+          "link": "https://www.heise.de/ratgeber/Linux-Dateimanager-Nemo-mit-eigenen-Skripten-und-Actions-erweitern-11398936.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Der Linux-Dateimanager Nemo lässt sich leicht um zusätzliche Funktionen erweitern. Dabei können Sie fertige Actions installieren oder eigene Skripte hinzufügen.",
+          "published": "2026-11-05T13:30:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "OpenSSH und Alpine Linux warnt vor nischigem, aber gravierendem Bug",
+          "link": "https://www.heise.de/news/OpenSSH-und-Alpine-Linux-warnt-vor-nischigem-aber-gravierendem-Bug-11513105.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "OpenSSH 10.6p2 umgeht einen Bug, der zwar schwerwiegend ist, aber eher wenige Setups betrifft – und wohl auch nicht in OpenSSH selbst liegt.",
+          "published": "2026-11-05T12:46:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Herdr Desktop-App: Schaltzentrale für KI-Coding-Agenten",
+          "link": "https://www.heise.de/news/Herdr-Desktop-App-Schaltzentrale-fuer-KI-Coding-Agenten-11507856.html",
+          "summary": "Herdr hat eine Desktop-App als Schaltzentrale für KI-Coding-Agenten veröffentlicht. Sie läuft auf Linux, macOS und Windows.",
+          "published": "2026-11-02T13:57:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Laptops mit Nvidia-Chip: Nvidia RTX Spark läuft unter Linux sehr mies",
+          "link": "https://www.golem.de/news/laptops-mit-nvidia-chip-nvidia-rtx-spark-laeuft-unter-linux-sehr-mies-2611-214887.html",
+          "summary": "Skurril: Ein Laptop mit Nvidia-Chip ist vor allem mit eingestecktem Netzteil unter Linux enorm langsam. ( Nvidia , Prozessor )",
+          "published": "2026-11-05T11:45:09+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+        "heise+ | Linux-Dateimanager Nemo mit eigenen Skripten und Actions erweitern",
+        "OpenSSH und Alpine Linux warnt vor nischigem, aber gravierendem Bug"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Anthropic found a way to prove which AI model answered you — but there’s a costly catch",
+          "link": "https://thenewstack.io/anthropic-flashprove-model-verification/",
+          "summary": "Developers using AI APIs have little way of knowing whether the model answering their requests is actually the one they&#8217;re The post Anthropic found a way to prove which AI model answered you — but there&#8217;s a costly catch appeared first on The New Stack .",
+          "published": "Wed, 04 Nov 2026 22:50:18 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Render just removed its AI sandbox time limit — and Vercel still has a 24-hour cap",
+          "link": "https://thenewstack.io/render-vercel-ai-sandboxes/",
+          "summary": "Render is taking on Vercel with AI sandboxes that can run indefinitely, along with new tools for managing long-running agent The post Render just removed its AI sandbox time limit — and Vercel still has a 24-hour cap appeared first on The New Stack .",
+          "published": "Wed, 04 Nov 2026 18:04:17 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "“Signing in to your company’s plugins one by one is annoying”: Anthropic’s fix puts Claude in the identity business",
+          "link": "https://thenewstack.io/claude-plugin-identity-issuer/",
+          "summary": "Anthropic is now letting businesses automatically connect employees to approved Claude plugins, saving staff from having to sign in to The post “Signing in to your company’s plugins one by one is annoying”: Anthropic’s fix puts Claude in the identity business appeared first on The New Stack .",
+          "published": "Wed, 04 Nov 2026 16:59:22 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "MIT-Experiment: Forscher setzen 13 KI-Agenten auf einer einsamen Insel aus – und beobachten sie 30 Stunden",
+          "link": "https://t3n.de/news/mit-experiment-ki-agenten-insel-lernen-1769624/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Experiment wurden die KI-Agenten 30 Stunden sich selbst überlassen. Um sich die Zeit zu vertreiben, fingen sie an, sich Spiele auszudenken. Laut der Forschungsgruppe gibt das auch einen Einblick in ihr Lernverhalten. weiterlesen auf t3n.de",
+          "published": "Wed, 4 Nov 2026 17:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Gefundenes Fressen für Hacker“: So sicherst du deine Vibe-Coding-Projekte",
+          "link": "https://t3n.de/news/vibe-coding-sicherheit-hacker-schutz-1770792/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ben Sufiani kann nicht programmieren. Trotzdem baut er Apps, Websites und einen eigenen KI-Agenten. Im Interview erklärt er, wie er mit Code umgeht, den er nicht selbst prüfen kann. Und er sagt, warum Vibe-Coder ein leichtes Ziel für Hacker sind. weiterlesen auf t3n.de",
+          "published": "Wed, 4 Nov 2026 16:55:00 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Anthropic found a way to prove which AI model answered you — but there’s a costly catch",
+        "Render just removed its AI sandbox time limit — and Vercel still has a 24-hour cap",
+        "“Signing in to your company’s plugins one by one is annoying”: Anthropic’s fix puts Claude in the identity business"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "AMD's record quarter: Data center business doubles, while gaming craters",
+          "link": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
+          "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
+          "published": "Wed, 04 Nov 2026 21:29:46 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control",
+          "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/",
+          "summary": "Cruz and Trump seem to have no plans to fill FCC's empty Democratic seat.",
+          "published": "Wed, 04 Nov 2026 19:08:23 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Artcraft: Dieser Entwickler baut eine KI-Alternative zu Adobe Photoshop",
+          "link": "https://t3n.de/news/adobe-photoshop-alternative-artcraft-ki-1767514/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hohe Kosten, unpraktische Cloud-Anbindung: Viele Kreative wünschen sich schon lange, dass die Creative Cloud von Adobe mehr Konkurrenz bekommt. Artcraft könnte genau das bieten, ist aktuell aber noch in der Entwicklung. weiterlesen auf t3n.de",
+          "published": "Wed, 4 Nov 2026 19:05:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Kann ArtCraft Adobe ersetzen? Wir haben ein 3003-Video damit geschnitten",
+          "link": "https://www.heise.de/news/Kann-ArtCraft-Adobe-ersetzen-Wir-haben-ein-3003-Video-damit-geschnitten-11506536.html",
+          "summary": "Adobe Photoshop, Premiere und After Effects für lau: Wir haben getestet, ob man mit der ArtCraft-Software professionell Videos und Bilder bearbeiten kann.",
+          "published": "2026-10-30T16:01:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Blizzard: World of Warcraft Forever überrascht zum Start",
+          "link": "https://www.golem.de/news/blizzard-world-of-warcraft-forever-ueberrascht-zum-start-2611-214885.html",
+          "summary": "Volle Startgebiete, aber kaum Warteschlangen: Der Start von WoW Forever läuft anders, als viele Spieler es von Blizzard gewohnt sind. ( World of Warcraft , MMORPG )",
+          "published": "2026-11-05T11:31:06+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AMD's record quarter: Data center business doubles, while gaming craters",
+        "Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control",
+        "Artcraft: Dieser Entwickler baut eine KI-Alternative zu Adobe Photoshop"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Developer-Häppchen – dotnetup statt rustup, Node 27, Webframework in Rust",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-dotnetup-statt-rustup-Node-27-Webframework-in-Rust-11505731.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu dotnetup, PDFsharp, Node, VS Code, Rsbuild, JetBrains, Grafana, Wicket, WordPress und Topcoat.",
+          "published": "2026-10-31T07:17:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "OpenTelemetry friert seine Transformationssprache ein",
+          "link": "https://www.heise.de/news/OpenTelemetry-Collector-Updates-zerlegen-keine-Filterregeln-mehr-11505793.html",
+          "summary": "Schluss mit kaputten Collector-Pipelines nach Updates: Die OpenTelemetry Transformation Language (OTTL) ist in Version 1.0 stabil und rückwärtskompatibel.",
+          "published": "2026-10-30T10:43:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Developer-Häppchen – dotnetup statt rustup, Node 27, Webframework in Rust",
+        "OpenTelemetry friert seine Transformationssprache ein"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Windows-Sicherheitslücke: Ausgerechnet Microsoft Paint wird zum Einfallstor für Hacker",
+          "link": "https://t3n.de/news/paint-hacker-schadcode-pc-1771781/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Schon Mitte Oktober 2026 hatte Microsoft eine Lücke in seinem Zeichenprogramm Paint gemeldet, über die Hacker:innen Schadcode einschleusen könnten. Ein bereitgestellter Patch scheint aber noch nicht bei allen Nutzer:innen angekommen zu sein. weiterlesen auf t3n.de",
+          "published": "Thu, 5 Nov 2026 13:00:32 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "iOS 27.3: Diese Funktionen könnten mit dem nächsten Update aufs iPhone kommen",
+          "link": "https://t3n.de/news/ios-27-3-beta-iphone-update-1771753/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Apple hat die erste Beta-Version von iOS 27.3 veröffentlicht. Sie bringt ein Feature zurück, das aus der Vorversion gestrichen wurde. Auch das iPhone Duo bekommt neue Funktionen. weiterlesen auf t3n.de",
+          "published": "Thu, 5 Nov 2026 10:06:37 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mit Rechentrick aus Quake 3 gegen Nvidia: Wie das Startup Tensordyne KI-Chips sparsamer machen will",
+          "link": "https://t3n.de/news/tensordyne-chip-startup-nvidia-konkurrenz-1771073/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nvidia dominiert den KI-Chip-Markt. Das deutsch-amerikanische Startup Tensordyne will bei der Modellausführung schneller und günstiger als Nvidia sein – und dam weiterlesen auf t3n.de",
+          "published": "Thu, 5 Nov 2026 08:30:31 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "iPhone Duo im Test: Kann Apples Foldable den Laptop wirklich ersetzen?",
+          "link": "https://t3n.de/news/iphone-duo-test-laptop-ersetzen-1771067/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Über das Aussehen und die Form des iPhone Duo wurde in den vergangenen Wochen alles gesagt. Aber wie gut kann man mit dem Gerät unterwegs und zu Hause eigentlic weiterlesen auf t3n.de",
+          "published": "Thu, 5 Nov 2026 05:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AI Discover: Netflix testet KI-Funktion für persönliche Streaming-Empfehlungen",
+          "link": "https://t3n.de/news/netflix-ki-funktion-empfehlungen-1771705/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Streaminganbieter Netflix testet mit AI Discover eine KI-gestützte Funktion für gezielte Empfehlungen. Die soll Nutzer:innen zur aktuellen Stimmung oder Situation passende Filme oder Serien vorschlagen und aus den Angaben lernen. weiterlesen auf t3n.de",
+          "published": "Wed, 4 Nov 2026 22:18:43 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Windows-Sicherheitslücke: Ausgerechnet Microsoft Paint wird zum Einfallstor für Hacker",
+        "iOS 27.3: Diese Funktionen könnten mit dem nächsten Update aufs iPhone kommen",
+        "Mit Rechentrick aus Quake 3 gegen Nvidia: Wie das Startup Tensordyne KI-Chips sparsamer machen will"
+      ]
+    }
+  ]
+}
