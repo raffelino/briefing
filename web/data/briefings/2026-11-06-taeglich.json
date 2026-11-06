@@ -1,0 +1,356 @@
+{
+  "date": "2026-11-06",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Kubernetes, mark II? Why Google’s giving away gVisor, a code sandbox used by Anthropic and OpenAI",
+          "link": "https://thenewstack.io/gvisor-cncf-kubernetes-open-source/",
+          "summary": "Google wants to emulate one of its biggest ever open-source success stories, donating three core AI agent infrastructure projects to The post Kubernetes, mark II? Why Google&#8217;s giving away gVisor, a code sandbox used by Anthropic and OpenAI appeared first on The New Stack .",
+          "published": "Fri, 06 Nov 2026 11:49:04 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS Ships Continuum for Code Vulnerabilities",
+          "link": "https://www.infoq.com/news/2026/11/aws-continuum-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has made Continuum for code vulnerabilities generally available in two regions. The service proves exploitability by running real exploits in a sandbox, then opens fixes as pull requests. Published pricing charges per finding processed as well as per line of code, and practitioners are asking what would justify letting it merge fixes on its own. By Steef-Jan Wiggers",
+          "published": "Fri, 06 Nov 2026 10:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "GitHub Actions Lockfiles Reach GA to Secure Workflow Dependencies",
+          "link": "https://www.infoq.com/news/2026/11/github-actions-lockfiles-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "GitHub has made workflow dependency lockfiles for GitHub Actions generally available on October 28, 2026, two weeks after the feature entered public preview. Workflows can maintain clear tag and branch references. By Claudio Masolo",
+          "published": "Fri, 06 Nov 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+          "link": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+          "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+          "published": "Thu, 05 Nov 2026 21:39:40 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
+          "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+          "summary": "Kalshi can't avoid gambling law by claiming it doesn't offer gambling, state AG says.",
+          "published": "Thu, 05 Nov 2026 19:46:37 +0000",
+          "source": "Ars Technica - All content"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Kubernetes, mark II? Why Google’s giving away gVisor, a code sandbox used by Anthropic and OpenAI",
+        "AWS Ships Continuum for Code Vulnerabilities",
+        "GitHub Actions Lockfiles Reach GA to Secure Workflow Dependencies"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "OpenAI’s new GPT-6 Cyber is better at hacking and better at staying in its lane",
+          "link": "https://thenewstack.io/openai-gpt6-cyber-exploits/",
+          "summary": "OpenAI on Thursday&#160;launched GPT-6 Cyber, the latest release in its series of cybersecurity-focused models. The company ranks GPT-6 Cyber&#8217;s ability The post OpenAI’s new GPT-6 Cyber is better at hacking and better at staying in its lane appeared first on The New Stack .",
+          "published": "Thu, 05 Nov 2026 19:01:03 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Ein Websitebesuch reichte: So nutzten Hacker eine Schwachstelle in iOS und Android aus",
+          "link": "https://t3n.de/news/ein-websitebesuch-reichte-so-nutzten-hacker-eine-schwachstelle-in-ios-und-android-aus-1771854/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Laut Sicherheitsforscher:innen wurden ganz unterschiedliche Internetseiten manipuliert, um in die Smartphones der Opfer einzudringen. Hinter den Angriffen könnte der russische Auslandsgeheimdienst stecken. weiterlesen auf t3n.de",
+          "published": "Thu, 5 Nov 2026 15:45:21 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: Zero Trust Agent Systems that Pass Audits and Still Ship",
+          "link": "https://www.infoq.com/presentations/zero-trust-ai-agents-production-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Advait Patel shares a playbook for securing AI agent systems in production. He discusses moving defense boundaries from the prompt to the tool layer, enforcing scoped workload identities, and mitigating prompt injection via tool outputs. He explains how to structure audit-ready observability and implement kill switches to protect critical data while keeping deployment fast and compliant. By Advait Patel",
+          "published": "Thu, 05 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Freitag: OpenAIs folgsame neue Cybersecurity-KI, Trainingsauflagen für Meta-KI",
+          "link": "https://www.heise.de/news/Freitag-OpenAIs-folgsame-neue-Cybersecurity-KI-Trainingsauflagen-fuer-Meta-KI-11514290.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "GPT-6 Cyber im Zaum + KI-Verbot für Medieninhalte + Tech-Konzerne gegen Jugendschutz-Gesetz + Videoüberwachung in Schlachthöfen + Verbraucherschutz-Podcast",
+          "published": "2026-11-06T06:15:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "OpenAIs für Cybersecurity verbessertes KI-Modell GPT-6 Cyber hält sich an Regeln",
+          "link": "https://www.heise.de/news/OpenAIs-fuer-Cybersecurity-verbessertes-KI-Modell-GPT-6-Cyber-haelt-sich-an-Regeln-11514280.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das neue KI-Modell GPT-6 Cyber soll mehr Schwachstellen finden können, aber innerhalb vorgegebener Grenzen bleiben. Ausbrüche will OpenAI damit nun vermeiden.",
+          "published": "2026-11-06T05:04:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "OpenAI’s new GPT-6 Cyber is better at hacking and better at staying in its lane",
+        "Ein Websitebesuch reichte: So nutzten Hacker eine Schwachstelle in iOS und Android aus",
+        "Presentation: Zero Trust Agent Systems that Pass Audits and Still Ship"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform",
+          "link": "https://www.infoq.com/news/2026/11/gitlab-19-5-agentic-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "GitLab 19.5, released on October 15, puts agentic software development and governance at the centre of the platform, making its GitLab MCP server generally available while expanding how external AI agents can interact with GitLab. By Craig Risi",
+          "published": "Fri, 06 Nov 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Greenpeace-Studie: Bau von Riesen-Rechenzentren könnte Wasserverbrauch mehr als verdoppeln",
+          "link": "https://netzpolitik.org/2026/greenpeace-studie-bau-von-riesen-rechenzentren-koennte-wasserverbrauch-mehr-als-verdoppeln/",
+          "summary": "Baustelle eines Rechenzentrums in Lübbenau, Spreewald, in dem 100.000 KI-Chips mit einer Anschlussleistung von rund 200 Megawatt verbaut werden sollen. – Alle Rechte vorbehalten: IMAGO / Jochen Heckel Neben Strom verbrauchen Rechenzentren große Mengen Wasser. Die Bundesregierung will sie im Zuge des KI-Hypes massiv ausbauen – ohne Angaben zum Wasserverbrauch. Nun liefern Forscher eine erste Schätzung und kritisieren die mangelnde Transparenz der Branche.",
+          "published": "Fri, 06 Nov 2026 06:00:32 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Leapwork Play Reaches GA with Governance for Playwright Tests",
+          "link": "https://www.infoq.com/news/2026/11/leapwork-play-playwright/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Leapwork Play adds requirement traceability and approval workflows around portable Playwright tests. Full governance and audit capabilities require an enterprise package. By Mark Silvester",
+          "published": "Thu, 05 Nov 2026 15:56:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Staatliche Transparenz: Innenminister will Informationsfreiheit durch die Hintertür einschränken",
+          "link": "https://netzpolitik.org/2026/staatliche-transparenz-innenminister-will-informationsfreiheit-durch-die-hintertuer-einschraenken/",
+          "summary": "FragDenStaat übergibt mehr als 680.000 Unterschriften vor dem Bundestag an die SPD-Fraktion. – Alle Rechte vorbehalten: Campact Der Protest gegen die Pläne der Bundesregierung, die Informationsfreiheit einzuschränken, ist unerwartet groß. Nun versucht das Innenministerium, die Pläne in einem Gesetz zur kritischen Infrastruktur zu verstecken und so Auskunftspflichten des Staates zu beschneiden.",
+          "published": "Thu, 05 Nov 2026 13:01:38 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(4 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform",
+        "Greenpeace-Studie: Bau von Riesen-Rechenzentren könnte Wasserverbrauch mehr als verdoppeln",
+        "Leapwork Play Reaches GA with Governance for Playwright Tests"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+          "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+          "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+          "published": "Thu, 05 Nov 2026 23:09:36 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+          "link": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
+          "summary": "The spirit of AMG is alive via three axial flux electric motors.",
+          "published": "Thu, 05 Nov 2026 09:00:13 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Herdr Desktop-App: Schaltzentrale für KI-Coding-Agenten",
+          "link": "https://www.heise.de/news/Herdr-Desktop-App-Schaltzentrale-fuer-KI-Coding-Agenten-11507856.html",
+          "summary": "Herdr hat eine Desktop-App als Schaltzentrale für KI-Coding-Agenten veröffentlicht. Sie läuft auf Linux, macOS und Windows.",
+          "published": "2026-11-02T13:57:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Fehler bei Passwortprüfung: Angreifer können über OpenSSH Linux-Konten kapern",
+          "link": "https://www.golem.de/news/fehler-bei-passwortpruefung-angreifer-koennen-ueber-openssh-linux-konten-kapern-2611-214928.html",
+          "summary": "Einige Linux-Systeme lassen sich durch sehr lange Passworteingaben über SSH infiltrieren, manchmal sogar mit Root-Zugriff. Angreifer nutzen das bereits aus. ( Sicherheitslücke , Linux )",
+          "published": "2026-11-06T11:38:09+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+        "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+        "Herdr Desktop-App: Schaltzentrale für KI-Coding-Agenten"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Wenn KI die Mathematik übernimmt: Warum die Fachwelt gespalten ist",
+          "link": "https://t3n.de/news/ki-mathematik-openai-kritik-forschung-debatte-1771252/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Rund 400 Mathematik-Probleme will OpenAI mithilfe von KI gelöst haben. Das klingt nach großer Hilfe für die Wissenschaft. Tatsächlich sind viele Akademiker aber wenig begeistert. weiterlesen auf t3n.de",
+          "published": "Fri, 6 Nov 2026 11:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Aus der Wirtschaft abgeguckt: Mit diesem System sollen sich KI-Agenten endlich an Regeln halten",
+          "link": "https://t3n.de/news/aus-der-wirtschaft-abgeguckt-mit-diesem-system-sollen-sich-ki-agenten-endlich-an-regeln-halten-1771449/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Es bleibt schwer, das Verhalten von KI-Agenten zu steuern. Sicherheitsexpert:innen bedienen sich daher jetzt an Mechanismen aus ungewöhnlichen Feldern wie den W weiterlesen auf t3n.de",
+          "published": "Fri, 6 Nov 2026 09:30:20 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Edera's Object Capability Bounded Authority Promises to Isolate Credentials From AI Agent Workloads",
+          "link": "https://www.infoq.com/news/2026/11/ai-credentials-isolation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Edera announced Object Capability Bounded Authority, a security model that separates an AI agent's or MCP server's required authority from the credentials behind it. Hypervisor-enforced capabilities limit agents to specific actions without storing secrets in the workload. Initial releases cover scoped command execution and workload identity; credential-brokered API access will follow. By Olimpiu Pop",
+          "published": "Fri, 06 Nov 2026 06:06:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+          "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+          "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
+          "published": "Thu, 05 Nov 2026 21:40:36 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Together AI let coding agents rewrite its GPU code. Then it kept humans on the deploy button.",
+          "link": "https://thenewstack.io/together-compiler-gpu-optimization/",
+          "summary": "Together AI is putting AI coding agents to work on the GPU code that runs its inference infrastructure, automating performance The post Together AI let coding agents rewrite its GPU code. Then it kept humans on the deploy button. appeared first on The New Stack .",
+          "published": "Thu, 05 Nov 2026 18:56:57 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Wenn KI die Mathematik übernimmt: Warum die Fachwelt gespalten ist",
+        "Aus der Wirtschaft abgeguckt: Mit diesem System sollen sich KI-Agenten endlich an Regeln halten",
+        "Edera's Object Capability Bounded Authority Promises to Isolate Credentials From AI Agent Workloads"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Crackgate beim iPhone Duo: Nicht nur gebrochene Displays werden zum Problem",
+          "link": "https://t3n.de/news/iphone-duo-display-gebrochen-crackgate-1771029/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nur eine „kleine Anzahl“ von iPhone Duos soll Probleme mit defekten inneren Displays haben, sagt der Hersteller. Doch ein Experte und ein Memo weisen jetzt darauf hin, dass es mehr Fälle geben könnte, als bislang gedacht. weiterlesen auf t3n.de",
+          "published": "Fri, 6 Nov 2026 11:00:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+          "link": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+          "summary": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
+          "published": "Thu, 05 Nov 2026 22:49:03 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Statehouse wins give Democrats new power to push clean energy",
+          "link": "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/",
+          "summary": "Democrats erased the GOP’s trifecta edge and gained new power over energy policy.",
+          "published": "Thu, 05 Nov 2026 15:59:51 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Kann ArtCraft Adobe ersetzen? Wir haben ein 3003-Video damit geschnitten",
+          "link": "https://www.heise.de/news/Kann-ArtCraft-Adobe-ersetzen-Wir-haben-ein-3003-Video-damit-geschnitten-11506536.html",
+          "summary": "Adobe Photoshop, Premiere und After Effects für lau: Wir haben getestet, ob man mit der ArtCraft-Software professionell Videos und Bilder bearbeiten kann.",
+          "published": "2026-10-30T16:01:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(4 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Crackgate beim iPhone Duo: Nicht nur gebrochene Displays werden zum Problem",
+        "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+        "Statehouse wins give Democrats new power to push clean energy"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Developer-Häppchen – dotnetup statt rustup, Node 27, Webframework in Rust",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-dotnetup-statt-rustup-Node-27-Webframework-in-Rust-11505731.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu dotnetup, PDFsharp, Node, VS Code, Rsbuild, JetBrains, Grafana, Wicket, WordPress und Topcoat.",
+          "published": "2026-10-31T07:17:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "OpenTelemetry friert seine Transformationssprache ein",
+          "link": "https://www.heise.de/news/OpenTelemetry-Collector-Updates-zerlegen-keine-Filterregeln-mehr-11505793.html",
+          "summary": "Schluss mit kaputten Collector-Pipelines nach Updates: Die OpenTelemetry Transformation Language (OTTL) ist in Version 1.0 stabil und rückwärtskompatibel.",
+          "published": "2026-10-30T10:43:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Developer-Häppchen – dotnetup statt rustup, Node 27, Webframework in Rust",
+        "OpenTelemetry friert seine Transformationssprache ein"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Analyse zu den Midterms: Wie sich Elon Musk in beide Knie schoss",
+          "link": "https://netzpolitik.org/2026/analyse-zu-den-midterms-wie-sich-elon-musk-in-beide-knie-schoss/",
+          "summary": "Musk mit anderen Vertretern der Tech-Oligarchie bei einem Treffen mit Trump im September. – Alle Rechte vorbehalten: Imago / ZUMA Press Wire Mit fast 500 Millionen Dollar Wahlkampfunterstützung und seiner Propagandaplattform X wollte Elon Musk die Wahlergebnisse beeinflussen. Doch das Projekt ist ihm um die Ohren geflogen. Für die Tech-Milliardäre wird es jetzt ungemütlicher.",
+          "published": "Fri, 06 Nov 2026 12:14:04 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "X-70 Fractal: Das steckt hinter dem neuen Super-Jet der Nasa",
+          "link": "https://t3n.de/news/x-70-fractal-jet-nasa-1771966/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eine fliegende Forschungsplattform, um die „Entwicklung und Erprobung fortschrittlicher Luftfahrttechnologien zu beschleunigen“. Die Nasa stellt mit X-70 Fractal einen neuen experimentellen Jet der X-Reihe vor. Das soll er leisten. weiterlesen auf t3n.de",
+          "published": "Fri, 6 Nov 2026 10:00:41 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Vault Fork OpenBao Adds External Keys and Quantum-Ready TLS",
+          "link": "https://www.infoq.com/news/2026/11/vault-fork-openbao-27/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "OpenBao has released version 2.7, adding read scaling for PostgreSQL-backed deployments, support for external hardware security module (HSM) and key management service (KMS) keys, and post-quantum cryptographic algorithms. The release also introduces control groups for human review of sensitive operations and new headers intended to keep requests consistent across load-balanced OpenBao nodes. By Matt Saunders",
+          "published": "Fri, 06 Nov 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "FritzOS 8.50 und 8.51: Was das Update auf Fritzboxen und Repeater bringt",
+          "link": "https://t3n.de/news/fritzos-8-50-update-fritzbox-repeater-download-1767411/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "FritzOS 8.50 und FritzOS 8.51 werden für immer mehr Router des Herstellers ausgerollt. Welche Geräte die Updates jetzt laden können – und welche Funktionen sie mitbringen. weiterlesen auf t3n.de",
+          "published": "Fri, 6 Nov 2026 09:00:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Forensight: Mit diesem KI-System jagt NRW künftig Finanzkriminelle",
+          "link": "https://t3n.de/news/forensight-mit-diesem-ki-system-jagt-nrw-kuenftig-finanzkriminelle-1771952/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Riesige Datenberge, aber nur ein Bruchteil davon ist für Ermittler relevant: NRW setzt erstmals ein eigenes KI-System ein, um wichtige Spuren aus Datenbergen zu filtern. Was so erreicht werden kann. weiterlesen auf t3n.de",
+          "published": "Fri, 6 Nov 2026 08:30:12 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Analyse zu den Midterms: Wie sich Elon Musk in beide Knie schoss",
+        "X-70 Fractal: Das steckt hinter dem neuen Super-Jet der Nasa",
+        "Vault Fork OpenBao Adds External Keys and Quantum-Ready TLS"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Kohlestrom unter 50 Prozent: Was Chinas CO2-Rückgang bedeutet",
+          "link": "https://www.heise.de/news/Weniger-Kohle-weniger-Oel-Chinas-Emissionen-gehen-deutlich-zurueck-11514670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Weniger Kohlestrom, weniger Öl im Verkehr: Chinas CO2-Ausstoß fiel im dritten Quartal um 3,1 Prozent. Ein Teil geht allerdings auf Wetter und Konjunktur zurück.",
+          "published": "2026-11-06T10:51:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Kohlestrom unter 50 Prozent: Was Chinas CO2-Rückgang bedeutet"
+      ]
+    }
+  ]
+}
