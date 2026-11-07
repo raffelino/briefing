@@ -1,0 +1,407 @@
+{
+  "date": "2026-11-07",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Religiöse Ausnahmegenehmigung: Dieser Mann muss im Büro offiziell keine KI mehr nutzen",
+          "link": "https://t3n.de/news/ki-zwang-umgangen-wegen-religion-1770567/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "David Durman steht dem Einsatz der Technologie kritisch gegenüber. Er sagt, sie untergrabe seine Fähigkeit, moralisch zu handeln. Deshalb hat er erwirkt, sie an der Arbeit nicht mehr nutzen zu müssen. weiterlesen auf t3n.de",
+          "published": "Sat, 7 Nov 2026 09:30:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Kubernetes, mark II? Why Google’s giving away gVisor, a code sandbox used by Anthropic and OpenAI",
+          "link": "https://thenewstack.io/gvisor-cncf-kubernetes-open-source/",
+          "summary": "Google wants to emulate one of its biggest ever open-source success stories, donating three core AI agent infrastructure projects to The post Kubernetes, mark II? Why Google&#8217;s giving away gVisor, a code sandbox used by Anthropic and OpenAI appeared first on The New Stack .",
+          "published": "Fri, 06 Nov 2026 11:49:04 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS Ships Continuum for Code Vulnerabilities",
+          "link": "https://www.infoq.com/news/2026/11/aws-continuum-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has made Continuum for code vulnerabilities generally available in two regions. The service proves exploitability by running real exploits in a sandbox, then opens fixes as pull requests. Published pricing charges per finding processed as well as per line of code, and practitioners are asking what would justify letting it merge fixes on its own. By Steef-Jan Wiggers",
+          "published": "Fri, 06 Nov 2026 10:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "GitHub Actions Lockfiles Reach GA to Secure Workflow Dependencies",
+          "link": "https://www.infoq.com/news/2026/11/github-actions-lockfiles-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "GitHub has made workflow dependency lockfiles for GitHub Actions generally available on October 28, 2026, two weeks after the feature entered public preview. Workflows can maintain clear tag and branch references. By Claudio Masolo",
+          "published": "Fri, 06 Nov 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Groundcover automates Kubernetes sizing. Engineers set the bounds.",
+          "link": "https://thenewstack.io/groundcover-autonomous-kubernetes-rightsizing/",
+          "summary": "On Tuesday, groundcover launched Autonomous Infrastructure in beta to continuously adjust CPU and memory requests for Kubernetes (K8s) Deployments based The post Groundcover automates Kubernetes sizing. Engineers set the bounds. appeared first on The New Stack .",
+          "published": "Thu, 05 Nov 2026 17:14:41 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications",
+          "link": "https://www.infoq.com/news/2026/11/gcp-api-gateway-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google has announced the public preview of streaming support for API Gateway, extending its traditional request-response model to support applications requiring real-time communication. According to Google, this is particularly relevant for AI applications that provide streaming model responses, multi-step agent workflows, and interactive sessions. By Sergio De Simone",
+          "published": "Thu, 05 Nov 2026 16:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Dropbox ditched AWS S3 for its own in-house system. Now it’s buying Tigris to sell S3-compatible storage to AI developers.",
+          "link": "https://thenewstack.io/dropbox-acquires-tigris-s3-alternative/",
+          "summary": "Dropbox is entering the AI infrastructure space in a big way, announcing plans on Thursday to acquire Tigris, a startup The post Dropbox ditched AWS S3 for its own in-house system. Now it’s buying Tigris to sell S3-compatible storage to AI developers. appeared first on The New Stack .",
+          "published": "Thu, 05 Nov 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Building a Culture for a Kubernetes-Based Platform in a Bank",
+          "link": "https://www.infoq.com/news/2026/11/culture-kubernetes-bank/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In banking, open source can earn trust by running real workloads, as Marcy Paramonova and Stéphane Cusin explained in their talk Building Cloud Native Culture in a Bank at KubeCon & CloudNativeCon Europe. Deploying Kubernetes was the easy part; the hard part was culture: community of practice, shared knowledge, rituals, ownership. Teams try things, keep what works, and improve bottom-up. By Ben Linders",
+          "published": "Thu, 05 Nov 2026 11:11:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(8 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Religiöse Ausnahmegenehmigung: Dieser Mann muss im Büro offiziell keine KI mehr nutzen",
+        "Kubernetes, mark II? Why Google’s giving away gVisor, a code sandbox used by Anthropic and OpenAI",
+        "AWS Ships Continuum for Code Vulnerabilities"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "OpenAI’s new GPT-6 Cyber is better at hacking and better at staying in its lane",
+          "link": "https://thenewstack.io/openai-gpt6-cyber-exploits/",
+          "summary": "OpenAI on Thursday&#160;launched GPT-6 Cyber, the latest release in its series of cybersecurity-focused models. The company ranks GPT-6 Cyber&#8217;s ability The post OpenAI’s new GPT-6 Cyber is better at hacking and better at staying in its lane appeared first on The New Stack .",
+          "published": "Thu, 05 Nov 2026 19:01:03 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(1 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "OpenAI’s new GPT-6 Cyber is better at hacking and better at staying in its lane"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Typographic Intelligence: Warum Designsysteme nicht mehr ausreichen",
+          "link": "https://t3n.de/news/typographic-intelligence-warum-designsysteme-nicht-mehr-ausreichen-1761122/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI beschleunigt kreative Prozesse und ermöglicht immer mehr Output in immer kürzerer Zeit. Doch damit entsteht ein neuer Engpass: die fundierte Entscheidung. Moderne Markenführung braucht Systeme, die nicht nur Gestaltung skalieren, sondern auch Expertise und menschliche Urteilskraft fest in kreative Prozesse integrieren. weiterlesen auf t3n.de",
+          "published": "Sat, 7 Nov 2026 13:30:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform",
+          "link": "https://www.infoq.com/news/2026/11/gitlab-19-5-agentic-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "GitLab 19.5, released on October 15, puts agentic software development and governance at the centre of the platform, making its GitLab MCP server generally available while expanding how external AI agents can interact with GitLab. By Craig Risi",
+          "published": "Fri, 06 Nov 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Greenpeace-Studie: Bau von Riesen-Rechenzentren könnte Wasserverbrauch mehr als verdoppeln",
+          "link": "https://netzpolitik.org/2026/greenpeace-studie-bau-von-riesen-rechenzentren-koennte-wasserverbrauch-mehr-als-verdoppeln/",
+          "summary": "Baustelle eines Rechenzentrums in Lübbenau, Spreewald, in dem 100.000 KI-Chips mit einer Anschlussleistung von rund 200 Megawatt verbaut werden sollen. – Alle Rechte vorbehalten: IMAGO / Jochen Heckel Neben Strom verbrauchen Rechenzentren große Mengen Wasser. Die Bundesregierung will sie im Zuge des KI-Hypes massiv ausbauen – ohne Angaben zum Wasserverbrauch. Nun liefern Forscher eine erste Schätzung und kritisieren die mangelnde Transparenz der Branche.",
+          "published": "Fri, 06 Nov 2026 06:00:32 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Leapwork Play Reaches GA with Governance for Playwright Tests",
+          "link": "https://www.infoq.com/news/2026/11/leapwork-play-playwright/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Leapwork Play adds requirement traceability and approval workflows around portable Playwright tests. Full governance and audit capabilities require an enterprise package. By Mark Silvester",
+          "published": "Thu, 05 Nov 2026 15:56:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Staatliche Transparenz: Innenminister will Informationsfreiheit durch die Hintertür einschränken",
+          "link": "https://netzpolitik.org/2026/staatliche-transparenz-innenminister-will-informationsfreiheit-durch-die-hintertuer-einschraenken/",
+          "summary": "FragDenStaat übergibt mehr als 680.000 Unterschriften vor dem Bundestag an die SPD-Fraktion. – Alle Rechte vorbehalten: Campact Der Protest gegen die Pläne der Bundesregierung, die Informationsfreiheit einzuschränken, ist unerwartet groß. Nun versucht das Innenministerium, die Pläne in einem Gesetz zur kritischen Infrastruktur zu verstecken und so Auskunftspflichten des Staates zu beschneiden.",
+          "published": "Thu, 05 Nov 2026 13:01:38 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Digitalgipfel: Im Takt der Wirtschaft",
+          "link": "https://netzpolitik.org/2026/digitalgipfel-im-takt-der-wirtschaft/",
+          "summary": "Bundeskanzler Friedrich Merz und Digitalminister Karsten Wildberger auf dem Digitalgipfel 2026. – Alle Rechte vorbehalten: BMDS/Jens Oellermann Auf ihrem Digitalgipfel vergab die Bundesregierung die Chance, über die gesellschaftliche Regulierung von KI zu sprechen. Stattdessen ging es einmal mehr um Wirtschaftswachstum und Datennutzung. Ein Kommentar.",
+          "published": "Tue, 03 Nov 2026 15:04:20 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "GenZ-Proteste: Nebelkerzen gegen die Angst vor der Straße",
+          "link": "https://netzpolitik.org/2026/genz-proteste-nebelkerzen-gegen-die-angst-vor-der-strasse/",
+          "summary": "Die GenZ-Demonstration vor dem Brandenburger Tor lockte nicht nur die GenZ auf die Straße. – Alle Rechte vorbehalten: IMAGO / JNA Press Die europäische Protestbewegung schwappt nach Deutschland. Doch die politischen Forderungen gehen im rassistischen Getöse um Sicherheit, Krawall und Gewalt unter. Der schwachen Bundesregierung dürfte das recht sein. Ein Kommentar.",
+          "published": "Mon, 02 Nov 2026 17:04:50 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Datentausch und Strafverfolgung: Trump findet ersten EU-Partner zur Jagd auf Antifa-Gruppen",
+          "link": "https://netzpolitik.org/2026/datentausch-und-strafverfolgung-trump-findet-ersten-eu-partner-zur-jagd-auf-antifa-gruppen/",
+          "summary": "Marco Rubio und Anita Orbán geben sich die Hand. – Alle Rechte vorbehalten: IMAGO / Agencia EFE Washington und Budapest wollen Informationen über linke Gruppen austauschen und sie gemeinsam verfolgen. Im besonderen Fokus steht eine deutsche „Antifa Ost“. Die Bundesregierung bereitet unterdessen einen zweiten US-Gipfel zu „Linksextremismus“ in Deutschland vor.",
+          "published": "Sat, 31 Oct 2026 15:09:45 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(8 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Typographic Intelligence: Warum Designsysteme nicht mehr ausreichen",
+        "GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform",
+        "Greenpeace-Studie: Bau von Riesen-Rechenzentren könnte Wasserverbrauch mehr als verdoppeln"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "„Digitale Zuhälter“: Wie Mädchen auf Tiktok als Onlyfans-Darstellerinnen angeworben werden sollen",
+          "link": "https://t3n.de/news/digitale-zuhaelter-wie-maedchen-auf-tiktok-als-onlyfans-darstellerinnen-angeworben-werden-sollen-1772198/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eigentlich sind sexuelle Inhalte oder Links zu Onlyfans in der Video-App verboten. Trotzdem soll jungen Tiktok-Nutzerinnen ein Luxusleben versprochen werden, wenn sie sich auf der Plattform anmelden. weiterlesen auf t3n.de",
+          "published": "Sat, 7 Nov 2026 14:09:41 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Dank KI: OpenAI findet 948 Lücken im Linux-Kernel – und schließt sie auch gleich",
+          "link": "https://t3n.de/news/openai-ki-agenten-finden-und-schliessen-948-luecken-im-linux-kernel-1772170/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "OpenAI will dank KI nicht nur Sicherheitslücken finden, sondern sie dank Patches, die auch mithilfe von KI entwickelt werden, auch direkt schließen. Im Linux-Kernel war das bereits erfolgreich. weiterlesen auf t3n.de",
+          "published": "Fri, 6 Nov 2026 19:00:47 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Can agent standards keep up with the companies building them?",
+          "link": "https://thenewstack.io/mazin-gilbert-aaif-interview/",
+          "summary": "Mazin Gilbert, executive director of the Linux Foundation&#8217;s Agentic AI Foundation, left Google earlier this year to&#160;lead the new AAIF, The post Can agent standards keep up with the companies building them? appeared first on The New Stack .",
+          "published": "Tue, 03 Nov 2026 22:50:15 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Herdr Desktop-App: Schaltzentrale für KI-Coding-Agenten",
+          "link": "https://www.heise.de/news/Herdr-Desktop-App-Schaltzentrale-fuer-KI-Coding-Agenten-11507856.html",
+          "summary": "Herdr hat eine Desktop-App als Schaltzentrale für KI-Coding-Agenten veröffentlicht. Sie läuft auf Linux, macOS und Windows.",
+          "published": "2026-11-02T13:57:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Fehler bei Passwortprüfung: Angreifer können über OpenSSH Linux-Konten kapern",
+          "link": "https://www.golem.de/news/fehler-bei-passwortpruefung-angreifer-koennen-ueber-openssh-linux-konten-kapern-2611-214928.html",
+          "summary": "Einige Linux-Systeme lassen sich durch sehr lange Passworteingaben über SSH infiltrieren, manchmal sogar mit Root-Zugriff. Angreifer nutzen das bereits aus. ( Sicherheitslücke , Linux )",
+          "published": "2026-11-06T11:38:09+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "„Digitale Zuhälter“: Wie Mädchen auf Tiktok als Onlyfans-Darstellerinnen angeworben werden sollen",
+        "Dank KI: OpenAI findet 948 Lücken im Linux-Kernel – und schließt sie auch gleich",
+        "Can agent standards keep up with the companies building them?"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Warum Rechnungen und Angebote der beste Einstieg sind",
+          "link": "https://t3n.de/news/ki-agenten-rechnungen-angebote-einstieg-1765900/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Autonome Super-Agenten bestimmen die Debatte. In Unternehmen liegt der größere Hebel oft woanders: bei Angeboten, Aufträgen, Rechnungen oder Serviceanfragen. Eine Studie zeigt, welche Prozesse sich für KI-Agenten besonders eignen. weiterlesen auf t3n.de",
+          "published": "Sat, 7 Nov 2026 14:00:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Trotz offiziellem Aus: So wirst du Gemini auf deinem Smartphone wieder los – zumindest vorübergehend",
+          "link": "https://t3n.de/news/gemini-wieder-loswerden-google-1768131/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Einige Android-User:innen wollen den Google Assistant zurück haben. Da Google den Helfer aber Gemini ausgetauscht hatten, nehmen sie jetzt große Umwege in Kauf, um die alten Zeiten auf ihrem Smartphone wiederherzustellen. weiterlesen auf t3n.de",
+          "published": "Sat, 7 Nov 2026 10:00:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Aus einem fremden Sternensystem: Was James-Webb-Daten über die Herkunft von 3I/ATLAS verraten",
+          "link": "https://t3n.de/news/sternensystem-komet-3i-atlas-1771066/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der interstellare Komet 3I/Atlas wirft nach wie vor viele Fragen auf. Ein Wissenschaftsteam hat jetzt Hinweise auf seinen Entstehungsort gefunden. Geholfen hat dabei das James-Webb-Weltraumteleskop. weiterlesen auf t3n.de",
+          "published": "Sat, 7 Nov 2026 06:25:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+          "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+          "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+          "published": "Fri, 06 Nov 2026 20:56:41 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "AI agents are getting more complex. Developers shouldn’t have to babysit them.",
+          "link": "https://thenewstack.io/harness-engineering-coding-agents/",
+          "summary": "What if your coding agent could catch its own mistakes before you ever reviewed its work?&#160; A few years ago, The post AI agents are getting more complex. Developers shouldn&#8217;t have to babysit them. appeared first on The New Stack .",
+          "published": "Fri, 06 Nov 2026 19:35:59 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Meta’s best AI model now trains the one most of its users get",
+          "link": "https://thenewstack.io/meta-muse-specialized-models/",
+          "summary": "Starting on Friday, everyone using Meta&#8217;s Muse agent and Meta AI gets new models the company trained using Muse Wonder, The post Meta’s best AI model now trains the one most of its users get appeared first on The New Stack .",
+          "published": "Fri, 06 Nov 2026 18:05:55 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "“Most apps never make it off localhost”: Cursor takes on Lovable and Replit with fully managed app deployment",
+          "link": "https://thenewstack.io/cursor-ai-app-deployment/",
+          "summary": "AI coding agents have certainly made it easier to transform an idea into a working application. However, getting that application The post &#8220;Most apps never make it off localhost&#8221;: Cursor takes on Lovable and Replit with fully managed app deployment appeared first on The New Stack .",
+          "published": "Fri, 06 Nov 2026 15:15:21 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Hitzeschutz, Waldumbau, Mega-Deiche: Wie uns Klimaanpassungen retten sollen",
+          "link": "https://t3n.de/news/hitzeschutz-waldumbau-mega-deiche-wie-uns-klimaanpassungen-retten-sollen-1772121/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Klimawandel schreitet voran und es scheint, kein Weg an Anpassungen vorbeizuführen. Die Ausgabe von MIT Technology Review geht der Frage nach, warum Maßnahmen in Städten, Wäldern und an den Küsten oft stagnieren – und wo sie schon wirken. weiterlesen auf t3n.de",
+          "published": "Fri, 6 Nov 2026 15:10:35 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(8 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Warum Rechnungen und Angebote der beste Einstieg sind",
+        "Trotz offiziellem Aus: So wirst du Gemini auf deinem Smartphone wieder los – zumindest vorübergehend",
+        "Aus einem fremden Sternensystem: Was James-Webb-Daten über die Herkunft von 3I/ATLAS verraten"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "How Grab Improved Mobile App Stability by Safely Handling Surge in AI-Generated Code Changes",
+          "link": "https://www.infoq.com/news/2026/11/grab-ai-generated-code-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "The growing adoption of AI coding assistants has accelerated development and increased the volume of code changes per release, bringing more opportunities for defects and crashes, says Grab. To address these challenges, they implemented a layered defense strategy to prevent, detect, and contain crashes throughout the development and release lifecycle. By Sergio De Simone",
+          "published": "Sat, 07 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
+          "link": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
+          "summary": "Developer: “I can’t be part of the Fox world.”",
+          "published": "Fri, 06 Nov 2026 19:50:18 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Kann ArtCraft Adobe ersetzen? Wir haben ein 3003-Video damit geschnitten",
+          "link": "https://www.heise.de/news/Kann-ArtCraft-Adobe-ersetzen-Wir-haben-ein-3003-Video-damit-geschnitten-11506536.html",
+          "summary": "Adobe Photoshop, Premiere und After Effects für lau: Wir haben getestet, ob man mit der ArtCraft-Software professionell Videos und Bilder bearbeiten kann.",
+          "published": "2026-10-30T16:01:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Cloud Competence Center: Strategien für die Cloud-Transformation",
+          "link": "https://www.golem.de/news/anzeige-cloud-competence-center-strategien-fuer-die-cloud-transformation-2611-214957.html",
+          "summary": "Cloud Governance erfordert klare Rollen, Prozesse und eine Roadmap. Ein Online-Workshop zeigt, wie Unternehmen ein Cloud Competence Center aufbauen. ( Golem Karrierewelt , Verschlüsselung )",
+          "published": "2026-11-06T18:45:08+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "How Grab Improved Mobile App Stability by Safely Handling Surge in AI-Generated Code Changes",
+        "Developer ends lucrative screensaver deal with Roku because Fox bought it",
+        "Kann ArtCraft Adobe ersetzen? Wir haben ein 3003-Video damit geschnitten"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+          "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+          "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+          "published": "Sat, 07 Nov 2026 12:15:55 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Developer-Häppchen – dotnetup statt rustup, Node 27, Webframework in Rust",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-dotnetup-statt-rustup-Node-27-Webframework-in-Rust-11505731.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu dotnetup, PDFsharp, Node, VS Code, Rsbuild, JetBrains, Grafana, Wicket, WordPress und Topcoat.",
+          "published": "2026-10-31T07:17:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "The Bantu expansion changed Africa. Scientists are still tracing how.",
+        "Developer-Häppchen – dotnetup statt rustup, Node 27, Webframework in Rust"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "KI-Suche statt Google: So schreibst du Texte für Sprachmodelle",
+          "link": "https://t3n.de/news/ki-suche-texte-optimieren-llm-readability-1758412/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Gute Texte allein reichen nicht. Wer in KI-Antworten vorkommen will, muss anders gliedern. Was du an deinen Absätzen ändern musst, mit Vorher-Nachher-Beispiel. weiterlesen auf t3n.de",
+          "published": "Sat, 7 Nov 2026 11:40:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Open Source pg_vectorsearch Brings More Scalable Vector Search to PostgreSQL",
+          "link": "https://www.infoq.com/news/2026/11/postgresql-vector-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Tiger Data has released pg_vectorsearch, an open source PostgreSQL extension for vector similarity search, currently in alpha. Its PRISM index uses data partitioning and compression instead of the graph-based approach used by pgvector’s HNSW index, reducing memory requirements and index build times. By Renato Losio",
+          "published": "Sat, 07 Nov 2026 09:49:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Space Invaders mit echtem Datenverlust: Warum du in diesem Spiel lieber keinen Highscore knacken solltest",
+          "link": "https://t3n.de/news/space-invaders-mit-datenverlust-1688814/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn ihr nach einem neuen Nervenkitzel beim Zocken sucht, solltet ihr einen Blick auf ein besonderes Spiel werfen. Darin gewinnt ihr nicht, wenn ihr gut seid. Stattdessen löscht das Spiel immer mehr Dateien von eurem PC. weiterlesen auf t3n.de",
+          "published": "Sat, 7 Nov 2026 10:25:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Keine Lust mehr aufs Adobe-Abo? Diese quelloffenen Lightroom-Alternativen kosten keinen Cent",
+          "link": "https://t3n.de/news/adobe-abo-alternativen-lightroom-1771363/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Traum der kostenlosen, KI-generierten Lightroom-Alternative entpuppt sich bei genauerer Betrachtung leider doch als Luftschloss. Aber es gibt durchaus einig weiterlesen auf t3n.de",
+          "published": "Sat, 7 Nov 2026 09:00:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Varlock Releases Bumpy: A File-Based Versioning Alternative to Changesets",
+          "link": "https://www.infoq.com/news/2026/11/bumpy-changesets-alternative/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Bumpy is an MIT-licensed, TypeScript tool for version management and changelogs in monorepos. It follows the changesets workflow, using markdown bump files, and adds support for workspace and catalog protocols, custom publish commands, and branch-based prereleases. Changesets v3, released in August 2026, closed many earlier gaps, though differences remain. By Daniel Curtis",
+          "published": "Sat, 07 Nov 2026 06:54:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "KW 45: Die Woche, in der die Welt gegen Rechenzentren aufbegehrte",
+          "link": "https://netzpolitik.org/2026/kw-45-die-woche-in-der-die-welt-gegen-rechenzentren-aufbegehrte/",
+          "summary": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 45. Kalenderwoche geht zu Ende. Wir haben 21 neue Texte mit insgesamt 128.008 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 07 Nov 2026 06:28:33 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Support bis 2033: Diese Tabelle zeigt, wie lange deine Fritzbox noch Updates bekommt",
+          "link": "https://t3n.de/news/fritzbox-support-bis-2033-tabelle-1771148/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Regelmäßig schiebt Fritz Updates und Laborversionen mit neuen Funktionen für Fritzboxen und -Repeater heraus. Doch wie lange wird der eigene Router zu Hause noch mit Aktualisierungen versorgt? Darüber gibt eine Tabelle des Herstellers Aufschluss. weiterlesen auf t3n.de",
+          "published": "Sat, 7 Nov 2026 06:40:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Cybercab statt Cybertruck: Elon Musk kündigt Aus für den E-Pickup-Truck in Texas an",
+          "link": "https://t3n.de/news/cybertruck-musk-aus-1772173/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Tesla-Chef Elon Musk hat das Aus für den Cybertruck in der Gigafactory in Texas angekündigt. Der E-Pickup-Truck gilt als größter Flop in der Autogeschichte. In den freiwerdenden Produktionskapazitäten sollen ab Mitte 2027 Cybercabs hergestellt werden. weiterlesen auf t3n.de",
+          "published": "Fri, 6 Nov 2026 21:47:44 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(8 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KI-Suche statt Google: So schreibst du Texte für Sprachmodelle",
+        "Open Source pg_vectorsearch Brings More Scalable Vector Search to PostgreSQL",
+        "Space Invaders mit echtem Datenverlust: Warum du in diesem Spiel lieber keinen Highscore knacken solltest"
+      ]
+    }
+  ]
+}
