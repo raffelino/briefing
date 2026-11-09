@@ -1,0 +1,340 @@
+{
+  "date": "2026-11-09",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AWS Launches TorchNeuron to Run PyTorch Models on AWS Trainium Without Modifications",
+          "link": "https://www.infoq.com/news/2026/11/aws-torchneuron-trainium-pytorch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "At the recent PyTorch Conference North America 2026, Amazon introduced TorchNeuron, a native PyTorch backend that enables developers to run existing PyTorch code on AWS Trainium AI chips with virtually no code modifications. By Sergio De Simone",
+          "published": "Mon, 09 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Podcast: Distributed LLM Inference on Kubernetes with llm-d, Wasm, & TornadoVM",
+          "link": "https://www.infoq.com/podcasts/distributed-llm-inference-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In this episode, Edoardo Vacchi discusses the evolving landscape of WebAssembly on the backend, running Java workloads on GPUs using TornadoVM, and optimizing distributed AI inference using llm-d and vLLM on Kubernetes. Edoardo explains how llm-d manages cache locality (KV and prefix caches), request routing, and batch inference across Kubernetes clusters to maximize expensive GPU utilization. By Edoardo Vacchi",
+          "published": "Mon, 09 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Article: Agentic AI Architecture: Current Challenges and Future Opportunities",
+          "link": "https://www.infoq.com/articles/agentic-ai-architecture-challenges-opportunities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Agentic AI architecture extends microservices and cloud-native architectures with AI agents that work with context, memory, and protocols such as MCP and A2A. The article covers bounded-context integration, task-dependent coordination strategies, new security risks, and observability needs. It expects gradual adoption alongside existing architectures, with platforms absorbing common components. By Rafał Gancarz",
+          "published": "Mon, 09 Nov 2026 10:52:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Wie groß ist die Abhängigkeit von US-KI tatsächlich? Expertin analysiert Europas Startups",
+          "link": "https://t3n.de/news/abhaengigkeit-us-ki-europas-startups-1772038/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Politologin Nicole Lemke erklärt im Interview, auf welche Technologie europäische KI-Startups setzen und warum Europa trotzdem nicht auf eigene, große KI-Mo weiterlesen auf t3n.de",
+          "published": "Mon, 9 Nov 2026 08:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Yangwang U9 Xtreme knackt Geschwindigkeitsweltrekord für Serien-Landfahrzeuge",
+          "link": "https://www.heise.de/news/Yangwang-U9-Xtreme-knackt-Geschwindigkeitsweltrekord-fuer-Serien-Landfahrzeuge-11516877.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Yangwang U9 Xtreme ist in fast jeder Hinsicht extrem. Mit allerlei technischen Finessen ausgestattet, fährt das Elektro-Hypercar über 500 km/h schnell.",
+          "published": "2026-11-09T09:25:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AWS Launches TorchNeuron to Run PyTorch Models on AWS Trainium Without Modifications",
+        "Podcast: Distributed LLM Inference on Kubernetes with llm-d, Wasm, & TornadoVM",
+        "Article: Agentic AI Architecture: Current Challenges and Future Opportunities"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Tokio Releases Topcoat: A Batteries-Included Full-Stack Rust Framework",
+          "link": "https://www.infoq.com/news/2026/11/topcoat-rust-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Topcoat is an open-source, server-rendered full-stack web framework for Rust from the Tokio team, now public at version 0.9. It uses Rust expressions translated to JavaScript for reactivity instead of WebAssembly. It targets typical database-driven apps. Releases are unstable, and authentication and background jobs remain on the roadmap. By Daniel Curtis",
+          "published": "Mon, 09 Nov 2026 06:42:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "(g+) Pizzarechner mit Flutter: Einstieg in Web-Apps leicht gemacht",
+          "link": "https://www.golem.de/news/pizzarechner-mit-flutter-einstieg-in-web-apps-leicht-gemacht-2611-214942.html",
+          "summary": "Mit Flutter/Dart kleine, kompakte Web-Apps bauen, ohne Javascript und HTML schreiben zu müssen - geht das überhaupt? Spoiler: Ja, das geht. Der Artikel zeigt, wie. Eine Anleitung von Stefanie Schmidt ( Softwareentwicklung , Ruby )",
+          "published": "2026-11-08T10:00:04+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Tokio Releases Topcoat: A Batteries-Included Full-Stack Rust Framework",
+        "(g+) Pizzarechner mit Flutter: Einstieg in Web-Apps leicht gemacht"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Notepad++: Update schließt Rechteausweitungslücke und mehr",
+          "link": "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mit dem Update auf Notepad++ 8.9.9 bessert Don Ho sechs Schwachstellen aus. Es gibt aber auch Verbesserungen etwa in der Performance.",
+          "published": "2026-11-09T11:18:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Qnap NAS: Attackierte Lücken in Plex Media Server geschlossen",
+          "link": "https://www.heise.de/news/Qnap-NAS-Attackierte-Luecken-in-Plex-Media-Server-geschlossen-11516935.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Derzeit nutzen Angreifer die Plex2Shell-Schwachstellen in Plex Media Server aus. Nun ist eine abgesicherte Version auch für Qnap NAS erschienen.",
+          "published": "2026-11-09T09:31:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "7-Zip-Update schließt nicht genannte Sicherheitslücken",
+          "link": "https://www.heise.de/news/7-Zip-Update-schliesst-nicht-genannte-Sicherheitsluecken-11516845.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "7-Zip 26.06 beseitigt neben einigen Fehlern auch Schwachstellen. Das Update müssen Nutzer selbst herunterladen und installieren.",
+          "published": "2026-11-09T08:38:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Notepad++: Update schließt Rechteausweitungslücke und mehr",
+          "link": "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html",
+          "summary": "Mit dem Update auf Notepad++ 8.9.9 bessert Don Ho sechs Schwachstellen aus. Es gibt aber auch Verbesserungen etwa in der Performance.",
+          "published": "2026-11-09T10:18:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Zero Trust: Von den Grundlagen zur Implementierung",
+          "link": "https://www.golem.de/news/anzeige-zero-trust-von-den-grundlagen-zur-implementierung-2611-214972.html",
+          "summary": "Zero Trust Security erfordert ein strukturiertes Sicherheitskonzept. Ein Online-Workshop vermittelt Grundlagen und konkrete Schritte zur Implementierung des Frameworks. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-11-09T07:15:04+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Notepad++: Update schließt Rechteausweitungslücke und mehr",
+        "Qnap NAS: Attackierte Lücken in Plex Media Server geschlossen",
+        "7-Zip-Update schließt nicht genannte Sicherheitslücken"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Neuer Reaktortyp soll Atommüll wiederverwerten",
+          "link": "https://www.heise.de/news/Strom-aus-Atommuell-TU-Dresden-plant-Forschungsreaktor-11516673.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein Forschungsreaktor der TU Dresden soll abgebrannte Brennelemente direkt nutzen und die Suche nach einem Endlager erübrigen.",
+          "published": "2026-11-08T17:30:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Neuer Reaktortyp soll Atommüll wiederverwerten"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Espressif und Bastler bringen reguläres Linux auf den ESP32-S31",
+          "link": "https://www.heise.de/news/Espressif-und-Bastler-bringen-regulaeres-Linux-auf-den-ESP32-S31-11517063.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Ein reguläres Linux läuft jetzt nativ auf dem ESP32-S31. Möglich macht das die Speicherverwaltung des neuen RISC-V-Mikrocontrollers.",
+          "published": "2026-11-09T11:40:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kryptogeld nach US-Midterms: Kurse von Bitcoin, Ethereum & Co. fallen wieder",
+          "link": "https://www.heise.de/news/Nach-US-Zwischenwahlen-Kryptowaehrungen-fallen-wieder-11516813.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Bei den Midterms haben die Demokraten in den USA abgeräumt. Dass sie zuletzt eher kryptokritisch agiert haben, hat nun auch Folgen für Bitcoin & Co.",
+          "published": "2026-11-09T07:45:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Herdr Desktop-App: Schaltzentrale für KI-Coding-Agenten",
+          "link": "https://www.heise.de/news/Herdr-Desktop-App-Schaltzentrale-fuer-KI-Coding-Agenten-11507856.html",
+          "summary": "Herdr hat eine Desktop-App als Schaltzentrale für KI-Coding-Agenten veröffentlicht. Sie läuft auf Linux, macOS und Windows.",
+          "published": "2026-11-02T13:57:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Speichermangel: Linux-Skript meldet freien RAM an Sam Altman",
+          "link": "https://www.golem.de/news/speichermangel-linux-skript-meldet-freien-ram-an-sam-altman-2611-214979.html",
+          "summary": "Ein Bash-Skript mit dem Namen Ram Altman sendet E-Mails an den OpenAI-Chef, sobald der Arbeitsspeicher nicht genug ausgelastet ist. ( RAM , KI )",
+          "published": "2026-11-09T10:53:11+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Epic Games Launcher is coming to SteamOS",
+          "link": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+          "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response [&#8230;]",
+          "published": "2026-11-08T15:52:05-05:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Espressif und Bastler bringen reguläres Linux auf den ESP32-S31",
+        "Kryptogeld nach US-Midterms: Kurse von Bitcoin, Ethereum & Co. fallen wieder",
+        "Herdr Desktop-App: Schaltzentrale für KI-Coding-Agenten"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Mail an Sam Altman: Warum ein Entwickler dem OpenAI-CEO jeden Tag eine Nachricht per Skript schickt",
+          "link": "https://t3n.de/news/sam-altman-mail-skript-entwickler-ram-1772368/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Entwickler wehrt sich auf kreative Weise gegen Aussagen von Sam Altman. Er schickt ihm jeden Tag eine besondere E-Mail per Skript. Was er damit erreichen will. weiterlesen auf t3n.de",
+          "published": "Mon, 9 Nov 2026 13:30:02 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Neue Regeln für Ratenkäufe: Klarna, Paypal und Co. fragen jetzt genauer nach",
+          "link": "https://t3n.de/news/neue-regeln-fuer-ratenkaeufe-klarna-paypal-und-co-fragen-jetzt-genauer-nach-1772382/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer in Zukunft auf Rechnung oder in Raten bezahlen will, muss bei BNPL-Diensten wie Klarna oder Paypal wohl bald mehr über seine finanzielle Situation offenlegen. Eine neue EU-Regel sieht das vor, die selbst für kleinere Einkäufe gilt. weiterlesen auf t3n.de",
+          "published": "Mon, 9 Nov 2026 13:00:26 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anthropic vor dem Mega-Börsengang: Was Anleger jetzt wissen müssen",
+          "link": "https://t3n.de/news/anthropic-vor-dem-mega-boersengang-was-anleger-jetzt-wissen-muessen-1772164/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Anthropic steht vor einem historischen Börsengang. Doch das rasante Wachstum hat seinen Preis: Milliardenverluste stehen einer ambitionierten Bewertung gegenübe weiterlesen auf t3n.de",
+          "published": "Mon, 9 Nov 2026 11:00:54 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Hacking-Skills: Chinesische Open-Weight-Modelle fast gleichauf mit OpenAIs Top-KI",
+          "link": "https://t3n.de/news/hacking-open-weight-openai-ki-1772281/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In einem Vergleich der Hacking-Skills verschiedener KI-Tools haben sich chinesische Open-Weight-Modelle als fast gleichauf mit OpenAIs Top-Modell GPT-6 Sol Daybreak erwiesen. Das nützt Angreifer:innen, aber auch Verteidiger:innen profitieren. weiterlesen auf t3n.de",
+          "published": "Mon, 9 Nov 2026 10:30:01 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Erfahrungen mit KI-Agenten: Warum Jens Polomski den ersten wieder abgeschaltet hat",
+          "link": "https://t3n.de/news/erfahrungen-ki-agenten-abgeschaltet-jens-polomski-1772019/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Sein erster KI-Agent Neo ist Geschichte, die Idee dahinter nicht: Snipki-Gründer Jens Polomski erklärt, warum Tool-Hopping Unternehmen schadet und wie er selbst seine Arbeit mit KI-Agenten optimiert. weiterlesen auf t3n.de",
+          "published": "Mon, 9 Nov 2026 09:00:26 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Mail an Sam Altman: Warum ein Entwickler dem OpenAI-CEO jeden Tag eine Nachricht per Skript schickt",
+        "Neue Regeln für Ratenkäufe: Klarna, Paypal und Co. fragen jetzt genauer nach",
+        "Anthropic vor dem Mega-Börsengang: Was Anleger jetzt wissen müssen"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+          "link": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+          "summary": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
+          "published": "Mon, 09 Nov 2026 12:00:05 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+          "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+          "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+          "published": "Sun, 08 Nov 2026 12:15:31 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Kann ArtCraft Adobe ersetzen? Wir haben ein 3003-Video damit geschnitten",
+          "link": "https://www.heise.de/news/Kann-ArtCraft-Adobe-ersetzen-Wir-haben-ein-3003-Video-damit-geschnitten-11506536.html",
+          "summary": "Adobe Photoshop, Premiere und After Effects für lau: Wir haben getestet, ob man mit der ArtCraft-Software professionell Videos und Bilder bearbeiten kann.",
+          "published": "2026-10-30T16:01:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "World of Warcraft: 70.480 CPU-Kerne und 251 TByte RAM für den Start von Forever",
+          "link": "https://www.golem.de/news/world-of-warcraft-70-480-cpu-kerne-und-251-tbyte-ram-fuer-den-start-von-forever-2611-214984.html",
+          "summary": "Blizzard verrät, welche gewaltige Servertechnik hinter WoW - Forever steckt. Interessant ist auch der Vergleich mit 2009. ( World of Warcraft , MMORPG )",
+          "published": "2026-11-09T11:45:06+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+        "Physicists listened to electrical noise to crack a superconductor mystery",
+        "Kann ArtCraft Adobe ersetzen? Wir haben ein 3003-Video damit geschnitten"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Developer-Häppchen – dotnetup statt rustup, Node 27, Webframework in Rust",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-dotnetup-statt-rustup-Node-27-Webframework-in-Rust-11505731.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu dotnetup, PDFsharp, Node, VS Code, Rsbuild, JetBrains, Grafana, Wicket, WordPress und Topcoat.",
+          "published": "2026-10-31T07:17:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Developer-Häppchen – dotnetup statt rustup, Node 27, Webframework in Rust"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Galaxy AI: Samsung will für KI-Funktionen offenbar Geld sehen – das steckt im geplanten Abo",
+          "link": "https://t3n.de/news/galaxy-ai-samsung-will-fuer-ki-funktionen-offenbar-geld-sehen-das-steckt-im-geplanten-abo-1772363/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bisher sind die KI-Funktionen auf Samsung-Smartphones gratis. Einem Bericht zufolge testet der Hersteller nun ein Bezahlmodell &#8211; samt Limits für die kostenlosen Funktionen. weiterlesen auf t3n.de",
+          "published": "Mon, 9 Nov 2026 14:00:42 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Scam mit Kalendereinträgen: So gehst du Betrügern nicht auf den Leim",
+          "link": "https://t3n.de/news/kalender-scam-so-schuetzt-du-dich-1772323/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Betrüger:innen nutzen Kalendereinträge aus, um dich in die Falle zu locken. Sie stellen automatisierte Termine ein und tarnen ihre dubiosen Links damit zwischen deinen echten Einträgen im Kalender. Wie du dich davor schützen kannst. weiterlesen auf t3n.de",
+          "published": "Mon, 9 Nov 2026 12:30:17 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Diese Helikopterdrohne fliegt zum Saturnmond Titan – und dein Name könnte mit an Bord sein",
+          "link": "https://t3n.de/news/nasa-namen-saturn-mond-titan-1772282/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Nasa wirbt mit einer kuriosen Aktion für ihre Mission zum Saturnmond Titan: Ihr könnt euren Namen auf einer Drohne hinterlassen. Das steckt dahinter. weiterlesen auf t3n.de",
+          "published": "Mon, 9 Nov 2026 12:00:28 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Dieses neue Drohnen-Design übersteht Zusammenstöße",
+          "link": "https://t3n.de/news/entgegen-jahrhundertealter-tradition-dieses-neue-drohnen-design-uebersteht-zusammenstoesse-1772370/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Seit über 100 Jahren prägen starre Rahmen die Konstruktion von Multicoptern. Mit Flexi Quad zeigt ein Schweizer Team, dass es auch anders geht: mit einem biegsamen Körper, kontrollierbarer Verformung und einer KI, die nach Kollisionen für Stabilität sorgt. weiterlesen auf t3n.de",
+          "published": "Mon, 9 Nov 2026 11:45:11 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Trainingsvideos für Verhaltensanalyse: Für die Überwachungs-KI gibt es nie genug Gewalt",
+          "link": "https://netzpolitik.org/2026/trainingsvideos-fuer-verhaltensanalyse-fuer-die-ueberwachungs-ki-gibt-es-nie-genug-gewalt/",
+          "summary": "Anhand von solchen Bildern soll die Überwachungssoftware lernen, wie Gewalt aussieht. – Gemeinfrei: KI-generiert, Screenshot von staige.com Der Berliner Verhaltensscanner wird mit KI-Videos trainiert. Für die Qualität der Software ist das eine Herausforderung. Um sie zu verbessern, werden zusätzlich Daten von überwachten Menschen genutzt.",
+          "published": "Mon, 09 Nov 2026 10:05:26 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Galaxy AI: Samsung will für KI-Funktionen offenbar Geld sehen – das steckt im geplanten Abo",
+        "Scam mit Kalendereinträgen: So gehst du Betrügern nicht auf den Leim",
+        "Diese Helikopterdrohne fliegt zum Saturnmond Titan – und dein Name könnte mit an Bord sein"
+      ]
+    }
+  ]
+}
