@@ -1,0 +1,355 @@
+{
+  "date": "2026-11-10",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Google Cloud Spend Caps Reach General Availability with API and Monthly Resets",
+          "link": "https://www.infoq.com/news/2026/11/google-cloud-spend-caps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google Cloud has made spend caps on Cloud Billing Budgets generally available, pausing new usage of a service in a project once a monthly budget is hit, without deleting resources. GA adds an API, estimated live costs, and automatic monthly resets, but caps cover only the Gemini API, the Agent Platform, Cloud Run, and Cloud Run functions, and overages during enforcement delays are still billed. By Steef-Jan Wiggers",
+          "published": "Tue, 10 Nov 2026 08:39:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+          "link": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+          "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
+          "published": "Mon, 09 Nov 2026 21:13:39 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "AWS Launches TorchNeuron to Run PyTorch Models on AWS Trainium Without Modifications",
+          "link": "https://www.infoq.com/news/2026/11/aws-torchneuron-trainium-pytorch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "At the recent PyTorch Conference North America 2026, Amazon introduced TorchNeuron, a native PyTorch backend that enables developers to run existing PyTorch code on AWS Trainium AI chips with virtually no code modifications. By Sergio De Simone",
+          "published": "Mon, 09 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Podcast: Distributed LLM Inference on Kubernetes with llm-d, Wasm, & TornadoVM",
+          "link": "https://www.infoq.com/podcasts/distributed-llm-inference-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In this episode, Edoardo Vacchi discusses the evolving landscape of WebAssembly on the backend, running Java workloads on GPUs using TornadoVM, and optimizing distributed AI inference using llm-d and vLLM on Kubernetes. Edoardo explains how llm-d manages cache locality (KV and prefix caches), request routing, and batch inference across Kubernetes clusters to maximize expensive GPU utilization. By Edoardo Vacchi",
+          "published": "Mon, 09 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Article: Agentic AI Architecture: Current Challenges and Future Opportunities",
+          "link": "https://www.infoq.com/articles/agentic-ai-architecture-challenges-opportunities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Agentic AI architecture extends microservices and cloud-native architectures with AI agents that work with context, memory, and protocols such as MCP and A2A. The article covers bounded-context integration, task-dependent coordination strategies, new security risks, and observability needs. It expects gradual adoption alongside existing architectures, with platforms absorbing common components. By Rafał Gancarz",
+          "published": "Mon, 09 Nov 2026 10:52:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Google Cloud Spend Caps Reach General Availability with API and Monthly Resets",
+        "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+        "AWS Launches TorchNeuron to Run PyTorch Models on AWS Trainium Without Modifications"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: TornadoVM, A2A Java, Open Liberty, Open J Proxy, Gradle, EclipseStore",
+          "link": "https://www.infoq.com/news/2026/11/java-news-roundup-nov02-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for November 2nd, 2026, features news highlighting: point releases of TornadoVM, TornadoInsight, A2A for Java, Gradle and EclipseStore; the November 2026 edition of Open Liberty; the third release candidate of Open J Proxy; the second release candidates of Micrometer Metrics and Micrometer Tracing; and the third beta release of Quarkus 4.0. By Michael Redlich",
+          "published": "Mon, 09 Nov 2026 18:40:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Java News Roundup: TornadoVM, A2A Java, Open Liberty, Open J Proxy, Gradle, EclipseStore"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Solopreneure in Gefahr: Experten erklären größtes Cybersecurity-Risiko und wie du dich als Einzelunternehmer schützt",
+          "link": "https://t3n.de/news/solopreneure-in-gefahr-experten-erklaeren-groesstes-cybersecurity-risiko-und-wie-du-dich-als-einzelunternehmer-schuetzt-1772138/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Dank generativer KI werden auch kleine Ziele wie Einzelunternehmer für Cyberkriminelle attraktiv. Zwei Experten erklären, warum es zum Schutz keine aufwendigen weiterlesen auf t3n.de",
+          "published": "Tue, 10 Nov 2026 12:15:32 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Schwachstellen aufdecken – Pentesting mit Open-Source-Tools",
+          "link": "https://www.heise.de/news/iX-Workshop-Schwachstellen-aufdecken-Pentesting-mit-Open-Source-Tools-11508681.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.",
+          "published": "2026-11-10T14:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Angriffswarnung für GPUStack, FreeSwitch, OpenSSH und IBM Aspera Faspex",
+          "link": "https://www.heise.de/news/Angriffswarnung-fuer-GPUStack-FreeSwitch-OpenSSH-und-IBM-Aspera-Faspex-11518710.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt vor Angriffen auf GPUStack, FreeSwitch, OpenSSH und IBM Aspera Faspex.",
+          "published": "2026-11-10T11:33:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Zahlreiche Sicherheitslücken bedrohen IBM App Connect Enterprise",
+          "link": "https://www.heise.de/news/Zahlreiche-Sicherheitsluecken-bedrohen-IBM-App-Connect-Enterprise-11518678.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Patches schließen Schwachstellen in IBM App Connect Enterprise, der Log Source Management App for IBM QRadar SIEM und der TS4500 Tape Library.",
+          "published": "2026-11-10T11:02:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Notepad++: Update schließt Rechteausweitungslücke und mehr",
+          "link": "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html",
+          "summary": "Mit dem Update auf Notepad++ 8.9.9 bessert Don Ho sechs Schwachstellen aus. Es gibt aber auch Verbesserungen etwa in der Performance.",
+          "published": "2026-11-09T10:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Solopreneure in Gefahr: Experten erklären größtes Cybersecurity-Risiko und wie du dich als Einzelunternehmer schützt",
+        "heise-Angebot: iX-Workshop: Schwachstellen aufdecken – Pentesting mit Open-Source-Tools",
+        "Angriffswarnung für GPUStack, FreeSwitch, OpenSSH und IBM Aspera Faspex"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Software Testing: Testfälle zählen ist Erbsenzählen, Metriken helfen",
+          "link": "https://www.heise.de/blog/Software-Testing-Testfaelle-zaehlen-ist-Erbsenzaehlen-Metriken-helfen-11518245.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Richard Seidl spricht mit Ivaylo Brüssow und Andrej Nod über einen Metric Collector, der die Testautomatisierung misst und per Score bewertet.",
+          "published": "2026-11-10T10:29:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Software Testing: Testfälle zählen ist Erbsenzählen, Metriken helfen",
+          "link": "https://www.heise.de/blog/Software-Testing-Testfaelle-zaehlen-ist-Erbsenzaehlen-Metriken-helfen-11518245.html",
+          "summary": "Richard Seidl spricht mit Ivaylo Brüssow und Andrej Nod über einen Metric Collector, der die Testautomatisierung misst und per Score bewertet.",
+          "published": "2026-11-10T09:29:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Noch vor Irland: Singapur ist Apples größter Steuerschlupfwinkel",
+          "link": "https://www.golem.de/news/noch-vor-irland-singapur-ist-apples-groesster-steuerschlupfwinkel-2611-215007.html",
+          "summary": "Neue Offenlegungsregeln in den USA geben Einblick in Apples Gewinnverlagerungen in Niedrigsteuerländer. ( Apple , Wirtschaft )",
+          "published": "2026-11-09T17:24:08+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Software Testing: Testfälle zählen ist Erbsenzählen, Metriken helfen",
+        "Software Testing: Testfälle zählen ist Erbsenzählen, Metriken helfen",
+        "Noch vor Irland: Singapur ist Apples größter Steuerschlupfwinkel"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+          "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+          "summary": "\"*sshole\" poses a serious threat to Internet security.",
+          "published": "Mon, 09 Nov 2026 19:41:34 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Asahi Linux ändert Lizenz: Mit Copyleft gegen Code-Übernahme durch Forks",
+          "link": "https://www.heise.de/news/Asahi-Linux-aendert-Lizenz-Mit-Copyleft-gegen-Code-Uebernahme-durch-Forks-11517430.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Asahi Linux stellt seinen Code unter Copyleft und begründet das mit Projekten, die seine Arbeit ohne Herkunftsangabe übernehmen. Namen nennt Asahi nicht.",
+          "published": "2026-11-10T13:44:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Herdr Desktop-App: Schaltzentrale für KI-Coding-Agenten",
+          "link": "https://www.heise.de/news/Herdr-Desktop-App-Schaltzentrale-fuer-KI-Coding-Agenten-11507856.html",
+          "summary": "Herdr hat eine Desktop-App als Schaltzentrale für KI-Coding-Agenten veröffentlicht. Sie läuft auf Linux, macOS und Windows.",
+          "published": "2026-11-02T13:57:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Linux-Systemadministration: Grundlagen in fünf Tagen erlernen",
+          "link": "https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-erlernen-2611-215012.html",
+          "summary": "Linux-Systemadministration erfordert Kenntnisse in Shell, Dateisystemen und Diensten. Ein fünftägiger Online-Workshop vermittelt die Grundlagen für den Einstieg. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-11-10T08:45:04+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Yangwang Altior: BYD macht Rolls Royce mit Luxus-Limousine Konkurrenz",
+          "link": "https://www.golem.de/news/yangwang-altior-byd-greift-rolls-royce-mit-elektrischem-luxusauto-an-2611-215017.html",
+          "summary": "Der Yangwang Altior ist noch länger als der Rolls Royce Spectre und soll bis zu 1.000 km weit kommen. Der Preis ist auch kein Schnäppchen. ( BYD , Elektroauto )",
+          "published": "2026-11-10T08:34:09+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+        "Asahi Linux ändert Lizenz: Mit Copyleft gegen Code-Übernahme durch Forks",
+        "Herdr Desktop-App: Schaltzentrale für KI-Coding-Agenten"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Dein Name im All: So schickt die Nasa dich mit der Dragonfly-Mission zum Titan",
+          "link": "https://t3n.de/news/dein-name-im-all-nasa-dragonfly-titan-1772282/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Nasa wirbt mit einer kuriosen Aktion für ihre Mission zum Saturnmond Titan: Ihr könnt euren Namen auf einer Drohne hinterlassen. Das steckt dahinter. weiterlesen auf t3n.de",
+          "published": "Tue, 10 Nov 2026 13:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Weniger staatliche Transparenz: Dobrindts Pläne sind „Angriff auf die Pressefreiheit“",
+          "link": "https://netzpolitik.org/2026/weniger-staatliche-transparenz-dobrindts-plaene-sind-angriff-auf-die-pressefreiheit/",
+          "summary": "Alexander Dobrindt (CSU) im Bierzelt in Gillamoos bei der Arbeit. – Alle Rechte vorbehalten: IMAGO / Wolfgang Maria Weber Es gibt breiten Widerstand zu den Plänen des Innenministers, die Informationsfreiheit zu beschneiden. Die Journalismus-Gewerkschaft dju spricht von einem „Angriff auf die Pressefreiheit“, der Bundesdatenschutzbeauftragte hält die Pläne für „rechtlich bedenklich“.",
+          "published": "Tue, 10 Nov 2026 11:24:15 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Presentation: Batch Intelligence at Scale: Cost-Efficient Multi-Agent LLM Workflows with Built-In Resilience",
+          "link": "https://www.infoq.com/presentations/scaling-multi-agent-llm-batch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Aditya Mulik explains how Walmart Global Tech deployed multi-agent LLM workflows across 4,700 stores for nightly batch inventory forecasting. He discusses tackling production hurdles - schema violations, cross-department data mismatches, and network drops - via MCP grounding and loop agents, while slashing cloud inference costs from $100k+ to $10k per month shifting from PTUs to pay-as-you-go. By Aditya Mulik",
+          "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "One UI 9.5: Wie Samsung Bixby in einen KI-Agenten verwandeln will",
+          "link": "https://t3n.de/news/one-ui-9-5-wie-samsung-bixby-in-einen-ki-agenten-verwandeln-will-1772528/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Samsung arbeitet schon am nächsten Update für seine Galaxy-Smartphones. One UI 9.5 könnte nach ersten Informationen noch mehr KI in Form des Sprachassistenten Bixby auf die Geräte bringen. weiterlesen auf t3n.de",
+          "published": "Tue, 10 Nov 2026 10:00:22 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Article: LLM Reliability Layers Under Test: Accuracy, Yield, and the Limits of Verification",
+          "link": "https://www.infoq.com/articles/llm-reliability-layers-limits-accuracy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Verification layers sort outputs by trust rather than fixing errors. In a benchmark of six reliability layers, voting and self-correction failed to recover accuracy - they only withheld doubtful records. Production systems gain more reliability by replacing generation with deterministic lookups, tracking yield over raw accuracy, and resolving extraction bottlenecks before stacking checks. By Pushpdeep Mishra, Wejdan Bagais",
+          "published": "Tue, 10 Nov 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Dein Name im All: So schickt die Nasa dich mit der Dragonfly-Mission zum Titan",
+        "Weniger staatliche Transparenz: Dobrindts Pläne sind „Angriff auf die Pressefreiheit“",
+        "Presentation: Batch Intelligence at Scale: Cost-Efficient Multi-Agent LLM Workflows with Built-In Resilience"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Pinterest and Intel Take Open-Source Profiling to Internet Scale",
+          "link": "https://www.infoq.com/news/2026/11/pinterest-intel-profiling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Pinterest has partnered with Intel to extend gProfiler, an open-source continuous profiler that provides production performance visibility across an internet-scale fleet of infrastructure. By Craig Risi",
+          "published": "Tue, 10 Nov 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+          "link": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+          "summary": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
+          "published": "Mon, 09 Nov 2026 12:00:05 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: NIS 2 – Anforderungen und Vorgaben",
+          "link": "https://www.heise.de/news/iX-Workshop-NIS-2-Anforderungen-und-Vorgaben-11503328.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Erhalten Sie praxisnahe Einblicke in die effektive Umsetzung von NIS2 und dem deutschen NIS2UmsuCG.",
+          "published": "2026-11-10T10:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Forscher entwickeln Recycling-Methode für Rotorblätter von Windkraftwerken",
+          "link": "https://www.heise.de/news/Forscher-entwickeln-Recycling-Methode-fuer-Rotorblaetter-von-Windkraftwerken-11518165.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das Verbundmaterial der Rotorblätter von Windkraftanlagen ist nur schwer zu recyceln. Mit einem Hitzeverfahren können wichtige Stoffe daraus gewonnen werden.",
+          "published": "2026-11-10T08:54:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Die meisten Spieler: Forever ist der größte Launch in der Geschichte von World of Warcraft",
+          "link": "https://www.golem.de/news/die-meisten-spieler-forever-ist-der-groesste-launch-in-der-geschichte-von-world-of-warcraft-2611-215029.html",
+          "summary": "Der Ansturm war sogar so groß, dass die WoW-Server unter der Last nachgaben - Warteschlangen im Stile von 2004 inklusive. ( World of Warcraft , Server )",
+          "published": "2026-11-10T11:01:10+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Pinterest and Intel Take Open-Source Profiling to Internet Scale",
+        "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+        "heise-Angebot: iX-Workshop: NIS 2 – Anforderungen und Vorgaben"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Digital Fairness Act: EU plant strengere Regeln gegen Abofallen und manipulative Online-Tricks",
+          "link": "https://t3n.de/news/digital-fairness-act-eu-plant-strengere-regeln-gegen-abofallen-und-manipulative-online-tricks-1772628/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit dem Digital Fairness Act plant die EU mehr Kontrolle im digitalen Alltag für Verbraucher:innen. Online-Abos sollen leichter kündbar und die Preisgestaltung transparenter werden. weiterlesen auf t3n.de",
+          "published": "Tue, 10 Nov 2026 13:30:44 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Frühe Black-Friday-Angebote: Lohnt sich der Kauf schon jetzt?",
+          "link": "https://t3n.de/news/black-friday-angebote-lohnt-sich-kauf-jetzt-1772442/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eigentlich ist der Black Friday erst am 27. November. Doch schon jetzt werben immer mehr Händler mit dem Schlagwort und den vermeintlich unschlagbaren Angeboten. Das hat einen ziemlich einfachen Grund – und der gilt 2026 noch mehr als in den Vorjahren. weiterlesen auf t3n.de",
+          "published": "Tue, 10 Nov 2026 12:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Jensen Huang: FBI ermittelt zur Affäre des Nvidia-Chefs",
+          "link": "https://t3n.de/news/jensen-huang-fbi-ermittlung-nvidia-ceo-1772638/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In die Ermittlungen zur Affäre des Nvidia-Chefs Jensen Huang mit einer möglichen Spionin hat sich nun auch das FBI eingeschaltet. Für Nvidia könnte Huang derweil unersetzlich sein. weiterlesen auf t3n.de",
+          "published": "Tue, 10 Nov 2026 12:30:01 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mehr Leistung für 8 GB RAM: So verbessert Windows 11 den Arbeitsspeicher",
+          "link": "https://t3n.de/news/windows-11-ram-optimierung-8gb-update-1769427/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Windows 11 soll auf PCs und Laptops mit weniger Arbeitsspeicher künftig besser laufen. Das Update auf 26H2 gibt schon einen Vorgeschmack darauf, wie sich die Verbesserungen auf Geräte mit weniger Speicher auswirken. weiterlesen auf t3n.de",
+          "published": "Tue, 10 Nov 2026 11:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Sparkasse macht Online-Shopping einfacher: Das kann die Girokarte bald",
+          "link": "https://t3n.de/news/sparkasse-girokarte-clicktopay-1772573/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kundinnen und Kunden der Sparkasse erhalten noch im November Zugriff auf eine Funktion zum vereinfachten Zahlen bei Online-Einkäufen. Wer profitiert, welche Einschränkungen es gibt und wie das mit der Abschaltung der S-ID-Check-App zusammenhängt. weiterlesen auf t3n.de",
+          "published": "Tue, 10 Nov 2026 11:10:53 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Digital Fairness Act: EU plant strengere Regeln gegen Abofallen und manipulative Online-Tricks",
+        "Frühe Black-Friday-Angebote: Lohnt sich der Kauf schon jetzt?",
+        "Jensen Huang: FBI ermittelt zur Affäre des Nvidia-Chefs"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "heise+ | Halbtrockene Bremse: VW Mission Efficiency bremst hinten elektromechanisch",
+          "link": "https://www.heise.de/hintergrund/Halbtrockene-Bremse-VW-Mission-Efficiency-bremst-hinten-elektromechanisch-11507573.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Im VW Mission Efficiency ist an der Hinterachse erstmals eine trockene Betriebsbremse verbaut. Das sorgt für weniger Reibungsverluste und mehr Effizienz.",
+          "published": "2026-11-10T08:00:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise+ | Halbtrockene Bremse: VW Mission Efficiency bremst hinten elektromechanisch"
+      ]
+    }
+  ]
+}
