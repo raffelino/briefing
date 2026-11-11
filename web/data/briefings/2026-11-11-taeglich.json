@@ -1,0 +1,342 @@
+{
+  "date": "2026-11-11",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Cloudflare Makes Basin Serverless Analytics Generally Available",
+          "link": "https://www.infoq.com/news/2026/11/cloudflare-basin-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare has announced the general availability of Basin, a serverless analytics platform built on Apache Iceberg and R2 Object Storage. The managed service supports open data formats and integrates with tools such as DuckDB, Snowflake, and Apache Spark, with no data egress fees. By Renato Losio",
+          "published": "Tue, 10 Nov 2026 19:14:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Cloudflare Makes Basin Serverless Analytics Generally Available"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+          "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+          "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+          "published": "Tue, 10 Nov 2026 21:12:59 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Google says Gemini 4 Carbon proved Signal’s encryption in weeks",
+          "link": "https://thenewstack.io/gemini-4-carbon-swarm/",
+          "summary": "Google released Gemini 4 Carbon to paying developers Tuesday, positioning its newest frontier model above Gemini 4 Argon for complex The post Google says Gemini 4 Carbon proved Signal’s encryption in weeks appeared first on The New Stack .",
+          "published": "Tue, 10 Nov 2026 16:17:22 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "New CNCF report: 75% of cloud-native developers ship code with AI. Jonathan Bryce explains why.",
+          "link": "https://thenewstack.io/cncf-developer-ai-adoption/",
+          "summary": "Today&#8217;s developers are AI-pilled. Cloud native developers even more so. That&#8217;s the key takeaway from the Cloud Native Computing Foundation&#8217;s The post New CNCF report: 75% of cloud-native developers ship code with AI. Jonathan Bryce explains why. appeared first on The New Stack .",
+          "published": "Tue, 10 Nov 2026 15:42:54 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Google Cloud Spend Caps Reach General Availability with API and Monthly Resets",
+          "link": "https://www.infoq.com/news/2026/11/google-cloud-spend-caps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google Cloud has made spend caps on Cloud Billing Budgets generally available, pausing new usage of a service in a project once a monthly budget is hit, without deleting resources. GA adds an API, estimated live costs, and automatic monthly resets, but caps cover only the Gemini API, the Agent Platform, Cloud Run, and Cloud Run functions, and overages during enforcement delays are still billed. By Steef-Jan Wiggers",
+          "published": "Tue, 10 Nov 2026 08:39:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise+ | Kostenlos statt Adobe-Abo: Was die Crafting-Apps schon heute können",
+          "link": "https://www.heise.de/meinung/Kostenlos-statt-Adobe-Abo-Was-die-Crafting-Apps-schon-heute-koennen-11516791.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Die Crafting-Apps sehen Adobes Programmen verblüffend ähnlich. Doch bei der Bildverarbeitung und im Zusammenspiel der Anwendungen fehlen wichtige Fähigkeiten.",
+          "published": "2026-11-11T08:15:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+        "Google says Gemini 4 Carbon proved Signal’s encryption in weeks",
+        "New CNCF report: 75% of cloud-native developers ship code with AI. Jonathan Bryce explains why."
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Chrome-User sollten schnell updaten: Diese Schwachstelle des Browsers wird aktiv ausgenutzt",
+          "link": "https://t3n.de/news/chrome-user-update-schwachstelle-browser-1772826/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer Chrome als Browser nutzt, sollte zeitnah ein Update anstoßen. Wie Google berichtet, wird dadurch eine Sicherheitslücke geschlossen, die schon aktiv ausgenutzt wird. Welche Gefahren drohen, wenn du das Update auslässt. weiterlesen auf t3n.de",
+          "published": "Wed, 11 Nov 2026 09:25:40 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Passwort“ Folge 70: Bunte Tüte für 4 Milliarden Euro",
+          "link": "https://www.heise.de/news/Passwort-Folge-70-Bunte-Tuete-fuer-4-Milliarden-Euro-11483977.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Milliardenhack bei der Kryptoplattform Binance ist ein Thema der neuesten Folge, es geht aber auch um überhitzte Kühlschränke und TCP-Schwachstellen.",
+          "published": "2026-11-11T09:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Notepad++: Update schließt Rechteausweitungslücke und mehr",
+          "link": "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html",
+          "summary": "Mit dem Update auf Notepad++ 8.9.9 bessert Don Ho sechs Schwachstellen aus. Es gibt aber auch Verbesserungen etwa in der Performance.",
+          "published": "2026-11-09T10:18:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "November-Patchday: Microsoft stopft erneut mehr als 1.000 Sicherheitslöcher",
+          "link": "https://www.golem.de/news/november-patchday-microsoft-stopft-erneut-mehr-als-1-000-sicherheitsloecher-2611-215072.html",
+          "summary": "Darunter ist eine Zero-Day-Lücke in Outlook. Hacker nehmen die Schwachstelle bereits ins Visier. ( Patchday , Microsoft )",
+          "published": "2026-11-11T10:24:04+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Chrome-User sollten schnell updaten: Diese Schwachstelle des Browsers wird aktiv ausgenutzt",
+        "„Passwort“ Folge 70: Bunte Tüte für 4 Milliarden Euro",
+        "Notepad++: Update schließt Rechteausweitungslücke und mehr"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "GovTech Deutschland: Gut vernetzt, schlecht durchleuchtet",
+          "link": "https://netzpolitik.org/2026/govtech-deutschland-gut-vernetzt-schlecht-durchleuchtet/",
+          "summary": "Ammar Alkassar, im Vorstand von GovTech Deutschland, will Deutschlandplattform groß machen. – Alle Rechte vorbehalten: IMAGO / BeckerBredel Schon lange ist GovTech Deutschland gut für Gossip: Öffentliche Aufträge werden ohne Ausschreibung vergeben und mit der Deutschlandplattform baut der Verein ein Konkurrenzprodukt zum Deutschland-Stack des Bundes. Das bestätigen nun auch die Antworten der Bundesregierung auf eine Anfrage der Grünen.",
+          "published": "Wed, 11 Nov 2026 11:21:57 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Microsoft veröffentlicht .NET 11.0 mit neuen C#- und Blazor-Features",
+          "link": "https://www.heise.de/news/NET-11-0-steht-bereit-11520160.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Microsoft hat die produktionsreife Version von .NET 11.0 veröffentlicht. Auch dieses Mal liegen die wichtigsten Neuerungen in C# und im Webframework Blazor.",
+          "published": "2026-11-11T12:24:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Microsoft veröffentlicht .NET 11.0 mit neuen C#- und Blazor-Features",
+          "link": "https://www.heise.de/news/NET-11-0-steht-bereit-11520160.html",
+          "summary": "Microsoft hat die produktionsreife Version von .NET 11.0 veröffentlicht. Auch dieses Mal liegen die wichtigsten Neuerungen in C# und im Webframework Blazor.",
+          "published": "2026-11-11T11:24:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Software Testing: Testfälle zählen ist Erbsenzählen, Metriken helfen",
+          "link": "https://www.heise.de/blog/Software-Testing-Testfaelle-zaehlen-ist-Erbsenzaehlen-Metriken-helfen-11518245.html",
+          "summary": "Richard Seidl spricht mit Ivaylo Brüssow und Andrej Nod über einen Metric Collector, der die Testautomatisierung misst und per Score bewertet.",
+          "published": "2026-11-10T09:29:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Hohe Nachfrage: Bund plant 2027 deutlich mehr Geld für E-Auto-Prämie ein",
+          "link": "https://www.golem.de/news/hohe-nachfrage-bund-plant-2027-deutlich-mehr-geld-fuer-e-auto-praemie-ein-2611-215056.html",
+          "summary": "Die Bundesregierung korrigiert ihre Haushaltspläne für die Kaufprämie. Die Mittel für 2027 sollen für rund 400.000 geförderte E-Autos reichen. ( Elektroauto , Tesla )",
+          "published": "2026-11-10T17:51:07+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "GovTech Deutschland: Gut vernetzt, schlecht durchleuchtet",
+        "Microsoft veröffentlicht .NET 11.0 mit neuen C#- und Blazor-Features",
+        "Microsoft veröffentlicht .NET 11.0 mit neuen C#- und Blazor-Features"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "How LinkedIn, Netflix & DoorDash Run Agents, Evals & Inference in Production: QCon AI New York 2026",
+          "link": "https://www.infoq.com/news/2026/11/qcon-ai-newyork-2026-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "QCon AI New York has published its full program for December 15–16, 2026. Engineers from LinkedIn, Netflix, DoorDash, Figma, Pinterest, Honeycomb, Harvey, Google DeepMind and OpenAI describe AI systems they run in production. Talks cover agent permissions and guardrails, eval loops, inference cost, AI code review, and team adoption. By Artenisa Chatziou",
+          "published": "Wed, 11 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "How LinkedIn, Netflix & DoorDash Run Agents, Evals & Inference in Production: QCon AI New York 2026"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Anthropic wants Claude to be the front end for your entire enterprise app stack",
+          "link": "https://thenewstack.io/claude-enterprise-apps-connectors/",
+          "summary": "Anthropic is expanding Claude&#8217;s ability to work directly inside enterprise applications; it can now open full software interfaces, retrieve information, The post Anthropic wants Claude to be the front end for your entire enterprise app stack appeared first on The New Stack .",
+          "published": "Tue, 10 Nov 2026 20:00:58 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Mega-Börsengang: Anthropic nennt Preisspanne und Datum für den Nasdaq-Start",
+          "link": "https://t3n.de/news/boersengang-anthropic-preisspanne-1772810/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Claude-Erfinder Anthropic hat seine Börsenpläne konkretisiert und die Preisspanne sowie das Datum für den Start an der Technologiebörse Nasdaq genannt. Demnach soll der KI-Anbieter bis zu 100 Milliarden US-Dollar einnehmen wollen. weiterlesen auf t3n.de",
+          "published": "Tue, 10 Nov 2026 19:34:36 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "EU-Studie: Bei Online-Werbung versagt die europäische Tech-Regulierung",
+          "link": "https://netzpolitik.org/2026/eu-studie-bei-online-werbung-versagt-die-europaeische-tech-regulierung/",
+          "summary": "Auf dem Markt der Online-Werbung gewinnen nur die Mittelsmänner. – Alle Rechte vorbehalten: Erik Mclean Der Milliardenmarkt der Online-Werbung schadet nicht nur Verbraucher:innen, sondern auch Werbetreibenden und Publishern. Europäische Digitalgesetze bekommen die Probleme nicht in den Griff. Das zeigt eine umfangreiche Studie im Auftrag der EU-Kommission.",
+          "published": "Tue, 10 Nov 2026 18:00:37 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Google Finds that Technical Debt Can Derail Coding Agents Through \"Agent Distraction\"",
+          "link": "https://www.infoq.com/news/2026/11/google-agent-distraction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In a recent article, Google senior staff software engineer Sam Saccone and senior staff data scientist Madhuri Garikapati highlighted the cost of agent distraction, where AI coding agents get derailed by stale technical debt, such as old TODO comments, obsolete bug references, and outdated specs, leading them to embark on unrequested \"side-quests\". By Sergio De Simone",
+          "published": "Tue, 10 Nov 2026 18:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Strom für die KI: Anthropic sichert sich eigene Erdgasturbinen – für 3,4 Milliarden Dollar",
+          "link": "https://t3n.de/news/strom-fuer-die-ki-anthropic-sichert-sich-eigene-erdgasturbinen-fuer-34-milliarden-dollar-1772744/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Anthropic investiert mehrere Milliarden US-Dollar in eigene Erdgasturbinen – bisher mietete das Unternehmen seine Strominfrastruktur. Warum es jetzt anders verfährt. weiterlesen auf t3n.de",
+          "published": "Tue, 10 Nov 2026 17:30:24 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Anthropic wants Claude to be the front end for your entire enterprise app stack",
+        "Mega-Börsengang: Anthropic nennt Preisspanne und Datum für den Nasdaq-Start",
+        "EU-Studie: Bei Online-Werbung versagt die europäische Tech-Regulierung"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Article: The iOS Crash We Could Not Reproduce",
+          "link": "https://www.infoq.com/articles/ios-crash-sigbus-debugging-experiment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This article describes the investigation to find the root cause of a production crash in a large-scale iOS consumer app that had no clean stack trace. The crash occurred intermittently and resisted every local reproduction attempt. The final code change was small, but identifying the root cause required turning a vague SIGBUS report into a controlled set of experiments. By Abhishek Gang Deb",
+          "published": "Wed, 11 Nov 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+          "link": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+          "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
+          "published": "Tue, 10 Nov 2026 21:55:26 +0000",
+          "source": "Ars Technica - All content"
+        },
+        {
+          "title": "Pinterest and Intel Take Open-Source Profiling to Internet Scale",
+          "link": "https://www.infoq.com/news/2026/11/pinterest-intel-profiling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Pinterest has partnered with Intel to extend gProfiler, an open-source continuous profiler that provides production performance visibility across an internet-scale fleet of infrastructure. By Craig Risi",
+          "published": "Tue, 10 Nov 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Anzeige: Cyber Resilience Act: Pflichten für Produkthersteller umsetzen",
+          "link": "https://www.golem.de/news/anzeige-cyber-resilience-act-pflichten-fuer-produkthersteller-umsetzen-2611-215063.html",
+          "summary": "Der Cyber Resilience Act stellt Produkthersteller vor neue Sicherheitsanforderungen. Ein zweitägiger Workshop vermittelt die praktische Umsetzung der Pflichten. ( Golem Karrierewelt , Sicherheitslücke )",
+          "published": "2026-11-11T07:45:05+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Article: The iOS Crash We Could Not Reproduce",
+        "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+        "Pinterest and Intel Take Open-Source Profiling to Internet Scale"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Presentation: Uncorking Queueing Bottlenecks with OpenTelemetry",
+          "link": "https://www.infoq.com/presentations/opentelemetry-queue-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Oli Lane and Julian Wreford share how Gearset replaced guesswork in distributed asynchronous queues with OpenTelemetry tracing. They explain why traditional metrics fall short, how to implement user-centric SLOs based on latency distributions, and share practical debugging tips to help senior developers, software architects, and engineering leaders improve system reliability and team culture. By Julian Wreford, Oli Lane",
+          "published": "Wed, 11 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Uncorking Queueing Bottlenecks with OpenTelemetry"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Microshifting soll die Produktivität steigern und Stress reduzieren: Was der Arbeitstrend mit sich bringt",
+          "link": "https://t3n.de/news/microshifting-arbeitstrend-1772835/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Microshifting setzt sich seit einiger Zeit als Arbeitstrend bei Angestellten durch, die im Homeoffice arbeiten können. Dadurch können sie sich ihre Arbeitszeit flexibler einteilen. Wie das funktioniert und welche Nachteile es trotz aller Vorzüge geben kann. weiterlesen auf t3n.de",
+          "published": "Wed, 11 Nov 2026 12:30:18 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Starlink Mini 2 mit Akku: SpaceX-Antenne kommt über 4 Stunden ohne Steckdose aus",
+          "link": "https://t3n.de/news/starlink-mini-2-antenne-akku-1772830/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "SpaceX hat eine neue Version seiner Starlink-Mini-Antenne vorgestellt. Der Satelliteninternet-Empfänger Mini 2 kommt mit USB-C-Anschluss und abnehmbarem Akku. Mit einer Akkuladung soll das Gerät bis zu 4,5 Stunden durchhalten. weiterlesen auf t3n.de",
+          "published": "Wed, 11 Nov 2026 10:16:13 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
+          "link": "https://t3n.de/news/ki-stimmen-mit-emotionen-deepl-stellt-neues-modell-aure-vor-1772684/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit einem neuen KI-Modell will DeepL menschenähnliche Übersetzungen mit ausdrucksstarken, generierten Stimmen ermöglichen. Welche Techniken Aure dabei im Gegensatz zu vorherigen Modellen nutzt. weiterlesen auf t3n.de",
+          "published": "Wed, 11 Nov 2026 09:03:52 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Infrastruktur und Politik: Die neuen Powerplayer bei Meta",
+          "link": "https://netzpolitik.org/2026/ki-infrastruktur-und-politik-die-neuen-powerplayer-bei-meta/",
+          "summary": "Die neue Meta-Präsidentin Dina Powell McCormick hat beste Kontakte zu Republikanern: Im September war sie beim Friedensinstitut von Donald Trump zu Gast. – Alle Rechte vorbehalten: UPI Photo Im Wettrennen um KI-Infrastruktur will der Tech-Konzern Meta keine Zeit verlieren. Doch viele Vorhaben müssen auch politisch durchgeboxt werden. Dabei soll eine neue Führungsriege mit besten Kontakten zur Trump-Regierung helfen.",
+          "published": "Wed, 11 Nov 2026 06:33:08 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Sicherheit für dein Heimnetz: Wie lange bekommt deine Fritzbox noch Updates?",
+          "link": "https://t3n.de/news/fritzbox-support-updates-sicherheit-heimmnetz-1771148/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Regelmäßig schiebt Fritz Updates und Laborversionen mit neuen Funktionen für Fritzboxen und -Repeater heraus. Doch wie lange wird der eigene Router zu Hause noch mit Aktualisierungen versorgt? Darüber gibt eine Tabelle des Herstellers Aufschluss. weiterlesen auf t3n.de",
+          "published": "Wed, 11 Nov 2026 06:15:00 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Microshifting soll die Produktivität steigern und Stress reduzieren: Was der Arbeitstrend mit sich bringt",
+        "Starlink Mini 2 mit Akku: SpaceX-Antenne kommt über 4 Stunden ohne Steckdose aus",
+        "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Sam Altman versprach die „Rettung des Klimas“ durch KI: Was ist davon heute übrig?",
+          "link": "https://t3n.de/news/sam-altman-versprach-die-rettung-des-klimas-durch-ki-was-ist-davon-heute-uebrig-1772410/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Auf der UN-Klimakonferenz in Antalya steht Künstliche Intelligenz ganz oben auf der Agenda. Laut einer Prognose könnte KI tatsächlich zur Senkung von CO2-Emissi weiterlesen auf t3n.de",
+          "published": "Wed, 11 Nov 2026 12:00:21 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Sam Altman versprach die „Rettung des Klimas“ durch KI: Was ist davon heute übrig?"
+      ]
+    }
+  ]
+}
