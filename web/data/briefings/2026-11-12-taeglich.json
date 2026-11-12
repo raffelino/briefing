@@ -1,0 +1,332 @@
+{
+  "date": "2026-11-12",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Azure Logic Apps Standard Gets a Local CLI in Preview",
+          "link": "https://www.infoq.com/news/2026/11/logic-apps-local-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has released a public preview of the logicapp extension for the Azure CLI, adding local project creation, workflow authoring, a runtime lifecycle, connector management, run inspection, and test scaffolding for Logic Apps Standard, work that previously required the VS Code extension. The product team pitches the terminal surface as determinism for AI-assisted development. By Steef-Jan Wiggers",
+          "published": "Thu, 12 Nov 2026 10:23:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs",
+          "link": "https://www.infoq.com/news/2026/11/google-tpu-sync/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google Cloud has open-sourced TPU Sync, a native C++ library that moves KV cache blocks and model weights between TPU HBM, host DRAM, shared storage, and the data center network. By Daniel Dominguez",
+          "published": "Thu, 12 Nov 2026 10:06:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments",
+          "link": "https://www.infoq.com/news/2026/11/kubernetes-argocd-linkedin/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In a recent post, LinkedIn revealed it has replaced Argo CD with its own GitOps engine. This new system deploys applications across over 250 Kubernetes clusters. It supports more than 4,000 services and manages over 100,000 deployments each week. By Claudio Masolo",
+          "published": "Thu, 12 Nov 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AWS had its agents build a free and open emulator for AWS. They now maintain it, too.",
+          "link": "https://thenewstack.io/aws-emulator-ai-agents/",
+          "summary": "AWS on Wednesday launched an emulator for AWS called AWS Emulator. That, by itself, is interesting and may raise some The post AWS had its agents build a free and open emulator for AWS. They now maintain it, too. appeared first on The New Stack .",
+          "published": "Wed, 11 Nov 2026 17:30:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Angriffe auf Entra ID abwehren",
+          "link": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-11503292.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
+          "published": "2026-11-12T08:00:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Azure Logic Apps Standard Gets a Local CLI in Preview",
+        "Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs",
+        "LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Microsoft: Verwirrung und Phishingverdacht durch Umstellung bei E-Rechnungen",
+          "link": "https://www.heise.de/news/Microsoft-Verwirrung-und-Phishingverdacht-durch-Umstellung-bei-E-Rechnungen-11521669.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "B2B-Rechnungen müssen ab 2027 elektronisch übermittelt werden. Microsoft hat bereits im November umgestellt, was Kunden verwirrt.",
+          "published": "2026-11-12T08:49:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Notepad++: Update schließt Rechteausweitungslücke und mehr",
+          "link": "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html",
+          "summary": "Mit dem Update auf Notepad++ 8.9.9 bessert Don Ho sechs Schwachstellen aus. Es gibt aber auch Verbesserungen etwa in der Performance.",
+          "published": "2026-11-09T10:18:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Red Hat: Kritische Sicherheitslücke in Apache HTTP Server entdeckt",
+          "link": "https://www.golem.de/news/red-hat-kritische-sicherheitsluecke-in-apache-http-server-entdeckt-2611-215134.html",
+          "summary": "Auf der CVE-Skala hat die kritische Sicherheitslücke eine Bewertung von 9,8 von 10 Punkten erhalten. Ein Patch ist deshalb sinnvoll. ( Apache , Red Hat )",
+          "published": "2026-11-12T13:43:06+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Microsoft: Verwirrung und Phishingverdacht durch Umstellung bei E-Rechnungen",
+        "Notepad++: Update schließt Rechteausweitungslücke und mehr",
+        "Red Hat: Kritische Sicherheitslücke in Apache HTTP Server entdeckt"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "GitHub Makes Agentic Workflows Generally Available with Isolation and Budget Controls",
+          "link": "https://www.infoq.com/news/2026/11/github-agentic-workflows-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "GitHub Agentic Workflows is generally available, running coding agents in GitHub Actions with read-only defaults and separately scoped write jobs. Those protections do not cover direct write permissions or custom jobs, so they depend on how each workflow is configured. By Mark Silvester",
+          "published": "Wed, 11 Nov 2026 17:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "GovTech Deutschland: Gut vernetzt, schlecht durchleuchtet",
+          "link": "https://netzpolitik.org/2026/govtech-deutschland-gut-vernetzt-schlecht-durchleuchtet/",
+          "summary": "Ammar Alkassar, im Vorstand von GovTech Deutschland, will Deutschlandplattform groß machen. – Alle Rechte vorbehalten: IMAGO / BeckerBredel Schon lange ist GovTech Deutschland gut für Gossip: Öffentliche Aufträge werden ohne Ausschreibung vergeben und mit der Deutschlandplattform baut der Verein ein Konkurrenzprodukt zum Deutschland-Stack des Bundes. Das bestätigen nun auch die Antworten der Bundesregierung auf eine Anfrage der Grünen.",
+          "published": "Wed, 11 Nov 2026 11:21:57 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Digitalisierung der Bundesverwaltung: Ministerium erzwingt Standards per Veto",
+          "link": "https://www.heise.de/news/Bundes-IT-Strengere-Zuegel-fuer-die-digitale-Verwaltung-11522215.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die Bundesregierung erzwingt mit einem neuen Veto-Recht gemeinsame Standards und will Doppelentwicklungen stoppen. Ausnahmen für Medienbrüche bleiben bestehen.",
+          "published": "2026-11-12T12:41:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Microsoft veröffentlicht .NET 11.0 mit neuen C#- und Blazor-Features",
+          "link": "https://www.heise.de/news/NET-11-0-steht-bereit-11520160.html",
+          "summary": "Microsoft hat die produktionsreife Version von .NET 11.0 veröffentlicht. Auch dieses Mal liegen die wichtigsten Neuerungen in C# und im Webframework Blazor.",
+          "published": "2026-11-11T11:24:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Software Testing: Testfälle zählen ist Erbsenzählen, Metriken helfen",
+          "link": "https://www.heise.de/blog/Software-Testing-Testfaelle-zaehlen-ist-Erbsenzaehlen-Metriken-helfen-11518245.html",
+          "summary": "Richard Seidl spricht mit Ivaylo Brüssow und Andrej Nod über einen Metric Collector, der die Testautomatisierung misst und per Score bewertet.",
+          "published": "2026-11-10T09:29:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "GitHub Makes Agentic Workflows Generally Available with Isolation and Budget Controls",
+        "GovTech Deutschland: Gut vernetzt, schlecht durchleuchtet",
+        "Digitalisierung der Bundesverwaltung: Ministerium erzwingt Standards per Veto"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "How LinkedIn, Netflix & DoorDash Run Agents, Evals & Inference in Production: QCon AI New York 2026",
+          "link": "https://www.infoq.com/news/2026/11/qcon-ai-newyork-2026-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "QCon AI New York has published its full program for December 15–16, 2026. Engineers from LinkedIn, Netflix, DoorDash, Figma, Pinterest, Honeycomb, Harvey, Google DeepMind and OpenAI describe AI systems they run in production. Talks cover agent permissions and guardrails, eval loops, inference cost, AI code review, and team adoption. By Artenisa Chatziou",
+          "published": "Wed, 11 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise+ | Linux für die Couch: Mit Plasma Bigscreen Streaming und Gaming vereinen",
+          "link": "https://www.heise.de/ratgeber/Linux-fuer-die-Couch-Mit-Plasma-Bigscreen-Streaming-und-Gaming-vereinen-11493606.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Plasma Bigscreen ist eine Linux-Oberfläche, die für Sofa und Controller gemacht ist. So richten Sie einen Wohnzimmer-PC für Streaming-Apps und Steam ein.",
+          "published": "2026-11-12T13:30:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Robotik-Firma aus München mit 8,5 Milliarden Dollar bewertet",
+          "link": "https://www.heise.de/news/Muenchner-Start-up-Agile-Robots-erhaelt-500-Millionen-Dollar-11521653.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Das deutsche Robotikunternehmen Agile Robots ist nach einer neuen Finanzierungsrunde in Höhe von 500 Millionen US-Dollar nun 8,5 Milliarden Dollar wert.",
+          "published": "2026-11-12T08:06:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Sicherheitsupdate: Google stopft fünf kritische Löcher in Chrome",
+          "link": "https://www.golem.de/news/sicherheitsupdate-google-stopft-fuenf-kritische-loecher-in-chrome-2611-215126.html",
+          "summary": "Chrome ist anfällig für eine Remotecodeausführung außerhalb der Sandbox. Angreifbar ist der Browser unter Windows, MacOS und Linux. ( Chrome , Google )",
+          "published": "2026-11-12T11:48:07+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+          "link": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+          "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing [&#8230;]",
+          "published": "2026-11-11T17:00:00-05:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "How LinkedIn, Netflix & DoorDash Run Agents, Evals & Inference in Production: QCon AI New York 2026",
+        "heise+ | Linux für die Couch: Mit Plasma Bigscreen Streaming und Gaming vereinen",
+        "Robotik-Firma aus München mit 8,5 Milliarden Dollar bewertet"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Claude zockt GTA 4 und andere Games: Wie sich der KI-Agent dabei anstellt",
+          "link": "https://t3n.de/news/claude-zockt-gta-4-1773219/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wie schlagen sich KI-Agenten wie Claude in einem Videospiel? Das zeigt jetzt ein Entwickler, indem er der Künstlichen Intelligenz den virtuellen Controller in die Hand drückt und sie unter anderem GTA 4 spielen lässt. Was dabei passiert ist. weiterlesen auf t3n.de",
+          "published": "Thu, 12 Nov 2026 13:30:26 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anthropic-IPO: Banken drängen auf höhere Bewertung",
+          "link": "https://t3n.de/news/anthropic-ipo-banken-draengen-auf-hoehere-bewertung-1773181/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der KI-Konzern Anthropic hat seine Roadshow gestartet und könnte beim Börsengang bis zu 90,4 Milliarden Dollar einnehmen. Doch jetzt drängen die begleitenden Banken auf einen höheren Ausgabepreis von 83 Dollar. weiterlesen auf t3n.de",
+          "published": "Thu, 12 Nov 2026 12:00:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector",
+          "link": "https://www.infoq.com/presentations/explainable-ai-llm-agent-decisions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Hannes Hapke shares how Dataiku’s open-source Kiji Inspector applies Sparse Autoencoders (SAEs) directly to decision tokens to expose why agents pick specific tools. Moving past superficial chain-of-thought narratives, he discusses causal ablation, layer activation extraction via patched vLLM engines, and production monitoring workflows for software architects and senior engineering leaders. By Hannes Hapke",
+          "published": "Thu, 12 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "/Plan oder /Goal? So nutzt du zwei KI-Modi sinnvoll im Büroalltag",
+          "link": "https://t3n.de/news/plan-goal-ki-modi-sinnvoll-nutzen-1773004/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Planen und Ziele erreichen: mit dem passenden KI-Modi gelingt das übersichtlicher. Bei t3n MeisterPrompter erfährst du, wie du den jeweiligen Modus in ChatGPT und Claude aktivierst. weiterlesen auf t3n.de",
+          "published": "Thu, 12 Nov 2026 10:30:48 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "SpaceX-Strategiewechsel: Anthropic ersetzt NASA als Top-Kunde",
+          "link": "https://t3n.de/news/spacex-ki-strategie-nasa-abkehr-1770765/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Drittel des SpaceX-Umsatzes stammt inzwischen von der KI-Firma Anthropic. Damit ist die US-Regierung nicht mehr der größte Kunde des Unternehmens. weiterlesen auf t3n.de",
+          "published": "Thu, 12 Nov 2026 06:15:00 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Claude zockt GTA 4 und andere Games: Wie sich der KI-Agent dabei anstellt",
+        "Anthropic-IPO: Banken drängen auf höhere Bewertung",
+        "Presentation: Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Article: The iOS Crash We Could Not Reproduce",
+          "link": "https://www.infoq.com/articles/ios-crash-sigbus-debugging-experiment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This article describes the investigation to find the root cause of a production crash in a large-scale iOS consumer app that had no clean stack trace. The crash occurred intermittently and resisted every local reproduction attempt. The final code change was small, but identifying the root cause required turning a vague SIGBUS report into a controlled set of experiments. By Abhishek Gang Deb",
+          "published": "Wed, 11 Nov 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+          "link": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
+          "summary": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself. The Ring Drone Cam relies entirely on an \"AI Pilot\" system to follow pre-programmed routes and navigate autonomously around obstacles, with no manual control option available - and an embarrassing demonstration with CBS [&#8230;]",
+          "published": "2026-11-12T06:12:32-05:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+          "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+          "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, [&#8230;]",
+          "published": "2026-11-11T13:13:52-05:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Article: The iOS Crash We Could Not Reproduce",
+        "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+        "Loot boxes, influencers, and addictive features face an EU crackdown"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "CoreWeave tests AI integrations on its cloud before you migrate",
+          "link": "https://thenewstack.io/coreweave-tests-ai-integrations/",
+          "summary": "Moving an AI workload to another cloud means bringing more than a model and its data. Your serving layer, observability The post CoreWeave tests AI integrations on its cloud before you migrate appeared first on The New Stack .",
+          "published": "Wed, 11 Nov 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Presentation: Uncorking Queueing Bottlenecks with OpenTelemetry",
+          "link": "https://www.infoq.com/presentations/opentelemetry-queue-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Oli Lane and Julian Wreford share how Gearset replaced guesswork in distributed asynchronous queues with OpenTelemetry tracing. They explain why traditional metrics fall short, how to implement user-centric SLOs based on latency distributions, and share practical debugging tips to help senior developers, software architects, and engineering leaders improve system reliability and team culture. By Julian Wreford, Oli Lane",
+          "published": "Wed, 11 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(2 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "CoreWeave tests AI integrations on its cloud before you migrate",
+        "Presentation: Uncorking Queueing Bottlenecks with OpenTelemetry"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Weg frei für ein Tempolimit? Was 120 km/h für Klima und Geldbeutel bedeuten",
+          "link": "https://t3n.de/news/weg-frei-fuer-ein-tempolimit-was-120-km-h-fuer-klima-und-geldbeutel-bedeuten-1773235/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Seit rund 50 Jahren hält in Deutschland die Debatte um ein Tempolimit auf Autobahnen an. Eine Einigung ist nicht in Sicht. Dabei sind aktuelle Studien eindeutig weiterlesen auf t3n.de",
+          "published": "Thu, 12 Nov 2026 14:00:09 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "74 Millionen Geräte betroffen: Warum viele den Wechsel von Windows 10 hinauszögern",
+          "link": "https://t3n.de/news/windows-10-wechsel-studie-1773233/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nicht jeder Computer erfüllt die technischen Voraussetzungen für das Upgrade auf Windows 11. Dadurch wird Hardware, die theoretisch noch funktioniert, plötzlich unbrauchbar – mit ernstzunehmenden Folgen für die Umwelt. weiterlesen auf t3n.de",
+          "published": "Thu, 12 Nov 2026 12:30:18 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "CEOs drängen zum KI-Einsatz – und ernten &quot;Work-Slop&quot; von Mitarbeitenden",
+          "link": "https://t3n.de/news/ki-slop-am-arbeitsplatz-chefs-konsequenzen-1773193/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI am Arbeitsplatz kann helfen – aber auch zu sogenanntem „Work-Slop“ führen. Mittlerweile rudern einige Unternehmen, die explizit auf KI gesetzt hatten, sogar schon wieder zurück. weiterlesen auf t3n.de",
+          "published": "Thu, 12 Nov 2026 11:45:10 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Diktieren statt tippen: Diese 3 kostenlosen KI-Tools machen es möglich",
+          "link": "https://t3n.de/news/diktieren-statt-tippen-diese-3-kostenlosen-ki-tools-machen-es-moeglich-1773040/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Dank moderner KI-Modelle hat die Spracherkennung in den letzten Jahren massive Fortschritte gemacht. Wir stellen euch drei Open-Source-Tools vor, mit denen ihr weiterlesen auf t3n.de",
+          "published": "Thu, 12 Nov 2026 11:00:51 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Windows 11: Support für veraltete Version läuft aus - wie du deinen PC jetzt schützen kannst",
+          "link": "https://t3n.de/news/windows-11-veraltete-version-1773169/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Microsoft garantiert Unternehmen 36 Monate lang Sicherheitsupdates. Diese Frist ist für die Version 23H2 jetzt geendet. Geräte, die mit dem alten Betriebssystem laufen, sind künftig nicht mehr abgesichert. weiterlesen auf t3n.de",
+          "published": "Thu, 12 Nov 2026 10:45:57 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Weg frei für ein Tempolimit? Was 120 km/h für Klima und Geldbeutel bedeuten",
+        "74 Millionen Geräte betroffen: Warum viele den Wechsel von Windows 10 hinauszögern",
+        "CEOs drängen zum KI-Einsatz – und ernten &quot;Work-Slop&quot; von Mitarbeitenden"
+      ]
+    }
+  ]
+}
