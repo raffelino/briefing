@@ -1,0 +1,261 @@
+{
+  "date": "2026-11-13",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "bpm",
+      "name": "BPM & Prozessautomatisierung",
+      "items": [
+        {
+          "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+          "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+          "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts. Whoop claims its platform is \"entirely human,\" [&#8230;]",
+          "published": "2026-11-12T18:43:22-05:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(1 Beitraege zu BPM & Prozessautomatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Whoop launched a social network where every user has a ‘verified heartbeat’"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+          "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+          "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
+          "published": "Thu, 12 Nov 2026 18:57:45 +0000",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Azure Logic Apps Standard Gets a Local CLI in Preview",
+          "link": "https://www.infoq.com/news/2026/11/logic-apps-local-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has released a public preview of the logicapp extension for the Azure CLI, adding local project creation, workflow authoring, a runtime lifecycle, connector management, run inspection, and test scaffolding for Logic Apps Standard, work that previously required the VS Code extension. The product team pitches the terminal surface as determinism for AI-assisted development. By Steef-Jan Wiggers",
+          "published": "Thu, 12 Nov 2026 10:23:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs",
+          "link": "https://www.infoq.com/news/2026/11/google-tpu-sync/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google Cloud has open-sourced TPU Sync, a native C++ library that moves KV cache blocks and model weights between TPU HBM, host DRAM, shared storage, and the data center network. By Daniel Dominguez",
+          "published": "Thu, 12 Nov 2026 10:06:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments",
+          "link": "https://www.infoq.com/news/2026/11/kubernetes-argocd-linkedin/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In a recent post, LinkedIn revealed it has replaced Argo CD with its own GitOps engine. This new system deploys applications across over 250 Kubernetes clusters. It supports more than 4,000 services and manages over 100,000 deployments each week. By Claudio Masolo",
+          "published": "Thu, 12 Nov 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Rohstoffe als Druckmittel: Berlin baut globale Lieferketten um",
+          "link": "https://www.heise.de/news/Rohstoffe-als-Druckmittel-Berlin-baut-globale-Lieferketten-um-11523462.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Gegen einseitige Abhängigkeiten: Drei Bundesministerien bündeln ihre Kräfte, um die Industrie mit kritischen Materialien wie seltenen Erden stärker abzusichern.",
+          "published": "2026-11-12T18:58:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+        "Azure Logic Apps Standard Gets a Local CLI in Preview",
+        "Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Notepad++: Update schließt Rechteausweitungslücke und mehr",
+          "link": "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html",
+          "summary": "Mit dem Update auf Notepad++ 8.9.9 bessert Don Ho sechs Schwachstellen aus. Es gibt aber auch Verbesserungen etwa in der Performance.",
+          "published": "2026-11-09T10:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Notepad++: Update schließt Rechteausweitungslücke und mehr"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Dropbox Shares How Its In-House Cookie Auditor Tests Consent Behaviour Across 200+ Web Surfaces",
+          "link": "https://www.infoq.com/news/2026/11/dropbox-cookie-auditor/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Dropbox engineers described a Playwright-based auditor that checks cookie consent behavior across more than 200 web surfaces. It runs three tests per page: US visitor, EU visitor, and Global Privacy Control signal. Cookie rules are kept outside the code. A companion tool finds live URLs. Weekly reports separate likely violations from false positives. By Daniel Curtis",
+          "published": "Fri, 13 Nov 2026 06:15:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Analyse des Koalitionsvertrages: Automatisierte Datenanalyse kommt auch in Mecklenburg-Vorpommern",
+          "link": "https://netzpolitik.org/2026/analyse-des-koalitionsvertrages-automatisierte-datenanalyse-kommt-auch-in-mecklenburg-vorpommern/",
+          "summary": "Sehr viel SPD, wenig links und grün im Koalitionsvertrag. (Symbolbild) – Alle Rechte vorbehalten: IMAGO / Wolfgang Maria Weber Der Koalitionsvertrag der rot-rot-grünen Regierung in MV enthält viel Digitales und Netzpolitisches. Trotz der Absage an den Palantir-Konzern und der Förderung von Open Source ist jedoch kein Ausbau von Grund- und Freiheitsrechten zu erwarten. Eine netzpolitische Analyse.",
+          "published": "Thu, 12 Nov 2026 16:11:28 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Microsoft veröffentlicht .NET 11.0 mit neuen C#- und Blazor-Features",
+          "link": "https://www.heise.de/news/NET-11-0-steht-bereit-11520160.html",
+          "summary": "Microsoft hat die produktionsreife Version von .NET 11.0 veröffentlicht. Auch dieses Mal liegen die wichtigsten Neuerungen in C# und im Webframework Blazor.",
+          "published": "2026-11-11T11:24:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Software Testing: Testfälle zählen ist Erbsenzählen, Metriken helfen",
+          "link": "https://www.heise.de/blog/Software-Testing-Testfaelle-zaehlen-ist-Erbsenzaehlen-Metriken-helfen-11518245.html",
+          "summary": "Richard Seidl spricht mit Ivaylo Brüssow und Andrej Nod über einen Metric Collector, der die Testautomatisierung misst und per Score bewertet.",
+          "published": "2026-11-10T09:29:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Europäische Atomwaffen: Bundesregierung plant Beteiligung an Urananreicherer",
+          "link": "https://www.golem.de/news/europaeische-atomwaffen-bundesregierung-plant-beteiligung-an-urenco-2611-215184.html",
+          "summary": "Ein Drittel von Urenco könnte für vier Milliarden Euro an den Staat übergehen. Der Konzern soll Großbritanniens Atomarsenal modernisieren. ( Militär , Politik )",
+          "published": "2026-11-13T13:12:06+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Dropbox Shares How Its In-House Cookie Auditor Tests Consent Behaviour Across 200+ Web Surfaces",
+        "Analyse des Koalitionsvertrages: Automatisierte Datenanalyse kommt auch in Mecklenburg-Vorpommern",
+        "Microsoft veröffentlicht .NET 11.0 mit neuen C#- und Blazor-Features"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Fernzugriff ohne Terminal-Zwang: Pangolin zieht in den Linux-Tray",
+          "link": "https://www.heise.de/news/Fernzugriff-ohne-Terminal-Zwang-Pangolin-zieht-in-den-Linux-Tray-11524014.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Nicht mehr nur per Kommandozeile: Für die Fernzugriffsplattform Pangolin gibt es jetzt einen Linux-Desktop-Client mit Tray-Menü und GUI-Einstellungen.",
+          "published": "2026-11-13T11:57:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Ein Terminal-Kern für Linux, IDEs und Browser: libghostty 1.0",
+          "link": "https://www.heise.de/news/Fuer-JetBrains-Neovim-und-KDE-libghostty-1-0-ist-da-11521170.html",
+          "summary": "Ghosttys Terminal-Kern hat eine stabile C-ABI erreicht: libghostty-vt 1.0 lässt sich nun fest in Distributionen paketieren – JetBrains und Neovim ziehen mit.",
+          "published": "2026-11-12T13:34:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Agile Robots: Humanoide Roboter aus München bekommen 500 Millionen Dollar",
+          "link": "https://www.golem.de/news/finanzierungsrunde-agile-robots-aus-muenchen-mit-8-5-milliarden-us-dollar-bewertet-2611-215167.html",
+          "summary": "Nvidia und Softbank investieren in den Münchner Roboterbauer Agile Robots. Die Bewertung liegt nach der Runde bei 8,5 Milliarden US-Dollar. ( Roboter , Wirtschaft )",
+          "published": "2026-11-13T09:48:08+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Fernzugriff ohne Terminal-Zwang: Pangolin zieht in den Linux-Tray",
+        "Ein Terminal-Kern für Linux, IDEs und Browser: libghostty 1.0",
+        "Agile Robots: Humanoide Roboter aus München bekommen 500 Millionen Dollar"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "&quot;Hey Gemini&quot;: Dieses Google-Gerät bekommt als erstes ein neues Aktivierungswort",
+          "link": "https://t3n.de/news/hey-gemini-aktivierung-google-1773438/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Tage von &#8222;Hey Google&#8220; könnten allmählich gezählt sein. Der Tech-Gigant verpasst einem ersten smarten Produkt ein neues Aktivierungswort für Gemini. Welches Produkt betroffen ist und wie es für weitere Google-Geräte aussieht. weiterlesen auf t3n.de",
+          "published": "Fri, 13 Nov 2026 13:15:12 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Netflix Turns Operational Data Into a Knowledge Graph for AI-Driven Observability",
+          "link": "https://www.infoq.com/news/2026/11/netflix-ai-driven-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Netflix is developing an ontology-driven knowledge graph to accelerate production investigations and provide AI agents with a shared understanding of its operational environment. By Craig Risi",
+          "published": "Fri, 13 Nov 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Mehr als nur Raumfahrt: SpaceX verdient Milliarden mit KI",
+          "link": "https://t3n.de/news/spacex-strategiewechsel-anthropic-ki-nasa-1770765/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Drittel des SpaceX-Umsatzes stammt inzwischen von der KI-Firma Anthropic. Damit ist die US-Regierung nicht mehr der größte Kunde des Unternehmens. weiterlesen auf t3n.de",
+          "published": "Fri, 13 Nov 2026 10:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Ohne Airpods: Wie es ist, nach Jahren wieder kabelgebundene Kopfhörer zu tragen",
+          "link": "https://t3n.de/news/bose-kabelgebundene-noise-cancelling-earbuds-test-review-1773306/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kabelgebundene In-Ears sind wieder im Trend. Aber wie ist das so, die Airpods beiseite zu legen und wieder über die Strippe Musik und Podcasts zu hören? Unser Autor hat es mit Boses kabelgebundenen Noise-Cancelling-Earbuds ausprobiert. weiterlesen auf t3n.de",
+          "published": "Fri, 13 Nov 2026 07:30:20 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Outlook, Teams, Copilot: Wieso die Microsoft-Dienste gerade Probleme machen",
+          "link": "https://t3n.de/news/outlook-teams-copilot-microsoft-ausfall-1773365/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Outlook sendet keine Mails, Teams hängt, Copilot antwortet nicht. Microsoft kämpft stundenlang gegen einen massiven Cloud-Ausfall – doch jede Lösung scheiterte. Was bisher bekannt ist. weiterlesen auf t3n.de",
+          "published": "Fri, 13 Nov 2026 07:22:11 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "&quot;Hey Gemini&quot;: Dieses Google-Gerät bekommt als erstes ein neues Aktivierungswort",
+        "Netflix Turns Operational Data Into a Knowledge Graph for AI-Driven Observability",
+        "Mehr als nur Raumfahrt: SpaceX verdient Milliarden mit KI"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Schluss mit Abo-Kosten: Kostenlose Lightroom-Alternativen im Check",
+          "link": "https://t3n.de/news/newsadobe-lightroom-alternativen-open-source-1771363/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Traum der kostenlosen, KI-generierten Lightroom-Alternative entpuppt sich bei genauerer Betrachtung leider doch als Luftschloss. Aber es gibt durchaus einig weiterlesen auf t3n.de",
+          "published": "Fri, 13 Nov 2026 12:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Windows 11: So massiv senkt das 26H2-Update den RAM-Verbrauch",
+          "link": "https://t3n.de/news/newswindows-11-ram-optimierung-26h2-update-1769427/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Windows 11 soll auf PCs und Laptops mit weniger Arbeitsspeicher künftig besser laufen. Das Update auf 26H2 gibt schon einen Vorgeschmack darauf, wie sich die Verbesserungen auf Geräte mit weniger Speicher auswirken. weiterlesen auf t3n.de",
+          "published": "Fri, 13 Nov 2026 11:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nvidia-Chef Jensen Huang tritt nach Affäre zurück: Warum Mitarbeiter jetzt seine Rückkehr fordern",
+          "link": "https://t3n.de/news/nvidia-chef-mitarbeiter-unterstuetzung-1773403/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Colette Kress hat die Rolle der CEO kommissarisch übernommen. Große Teile der Belegschaft scheinen aber zu glauben, dass die Firma ohne Huang nicht funktionieren kann und äußern öffentlich ihre Unterstützung für ihn. weiterlesen auf t3n.de",
+          "published": "Fri, 13 Nov 2026 11:45:56 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Neue BYD-Ladestation: Hier sollen Roboter E-Autos mit Solarenergie innerhalb von 5 Minuten laden",
+          "link": "https://t3n.de/news/byd-schnellladestation-e-autos-roboterarme-solarenergie-1773401/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "BYD stellt eine Ladestation für Elektrofahrzeuge vor, die per Roboterarme E-Autos innerhalb von fünf Minuten mit Solarenergie laden soll. weiterlesen auf t3n.de",
+          "published": "Fri, 13 Nov 2026 11:15:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "HDD mit SSD kombiniert: Diese neue 20-Terabyte-Festplatte hat aber einen Haken",
+          "link": "https://t3n.de/news/seagate-firecuda-forge-hdd-ssd-1773376/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Seagate hat eine besondere Festplatte angekündigt. Sie kombiniert herkömmliche mechanische Speicherlösungen mit einer SSD. Kund:innen sollten vor dem Kauf aber alle Details genau durchlesen. weiterlesen auf t3n.de",
+          "published": "Fri, 13 Nov 2026 10:32:51 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Schluss mit Abo-Kosten: Kostenlose Lightroom-Alternativen im Check",
+        "Windows 11: So massiv senkt das 26H2-Update den RAM-Verbrauch",
+        "Nvidia-Chef Jensen Huang tritt nach Affäre zurück: Warum Mitarbeiter jetzt seine Rückkehr fordern"
+      ]
+    }
+  ]
+}
