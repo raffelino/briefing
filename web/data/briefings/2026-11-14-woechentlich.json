@@ -1,0 +1,392 @@
+{
+  "date": "2026-11-14",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Google Cloud Moves the Compute Engine API to Immutable Date-Based Versions",
+          "link": "https://www.infoq.com/news/2026/11/compute-engine-api-versioning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google Cloud has made date-based versioning of the Compute Engine API generally available, replacing the single mutable /v1 surface with immutable quarterly snapshots such as 2026-09-01, selected per request with a header or query parameter. New versions can change defaults, error formats, and IAM checks without touching /v1 callers, a model Azure Resource Manager and Stripe have used for years. By Steef-Jan Wiggers",
+          "published": "Sat, 14 Nov 2026 07:27:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+          "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+          "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+          "published": "Fri, 13 Nov 2026 19:49:16 +0000",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Azure Logic Apps Standard Gets a Local CLI in Preview",
+          "link": "https://www.infoq.com/news/2026/11/logic-apps-local-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has released a public preview of the logicapp extension for the Azure CLI, adding local project creation, workflow authoring, a runtime lifecycle, connector management, run inspection, and test scaffolding for Logic Apps Standard, work that previously required the VS Code extension. The product team pitches the terminal surface as determinism for AI-assisted development. By Steef-Jan Wiggers",
+          "published": "Thu, 12 Nov 2026 10:23:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs",
+          "link": "https://www.infoq.com/news/2026/11/google-tpu-sync/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google Cloud has open-sourced TPU Sync, a native C++ library that moves KV cache blocks and model weights between TPU HBM, host DRAM, shared storage, and the data center network. By Daniel Dominguez",
+          "published": "Thu, 12 Nov 2026 10:06:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments",
+          "link": "https://www.infoq.com/news/2026/11/kubernetes-argocd-linkedin/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In a recent post, LinkedIn revealed it has replaced Argo CD with its own GitOps engine. This new system deploys applications across over 250 Kubernetes clusters. It supports more than 4,000 services and manages over 100,000 deployments each week. By Claudio Masolo",
+          "published": "Thu, 12 Nov 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AWS had its agents build a free and open emulator for AWS. They now maintain it, too.",
+          "link": "https://thenewstack.io/aws-emulator-ai-agents/",
+          "summary": "AWS on Wednesday launched an emulator for AWS called AWS Emulator. That, by itself, is interesting and may raise some The post AWS had its agents build a free and open emulator for AWS. They now maintain it, too. appeared first on The New Stack .",
+          "published": "Wed, 11 Nov 2026 17:30:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Google says Gemini 4 Carbon proved Signal’s encryption in weeks",
+          "link": "https://thenewstack.io/gemini-4-carbon-swarm/",
+          "summary": "Google released Gemini 4 Carbon to paying developers Tuesday, positioning its newest frontier model above Gemini 4 Argon for complex The post Google says Gemini 4 Carbon proved Signal’s encryption in weeks appeared first on The New Stack .",
+          "published": "Tue, 10 Nov 2026 16:17:22 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "New CNCF report: 75% of cloud-native developers ship code with AI. Jonathan Bryce explains why.",
+          "link": "https://thenewstack.io/cncf-developer-ai-adoption/",
+          "summary": "Today&#8217;s developers are AI-pilled. Cloud native developers even more so. That&#8217;s the key takeaway from the Cloud Native Computing Foundation&#8217;s The post New CNCF report: 75% of cloud-native developers ship code with AI. Jonathan Bryce explains why. appeared first on The New Stack .",
+          "published": "Tue, 10 Nov 2026 15:42:54 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(8 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Google Cloud Moves the Compute Engine API to Immutable Date-Based Versions",
+        "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+        "Azure Logic Apps Standard Gets a Local CLI in Preview"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Notepad++: Update schließt Rechteausweitungslücke und mehr",
+          "link": "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html",
+          "summary": "Mit dem Update auf Notepad++ 8.9.9 bessert Don Ho sechs Schwachstellen aus. Es gibt aber auch Verbesserungen etwa in der Performance.",
+          "published": "2026-11-09T10:18:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Notepad++: Update schließt Rechteausweitungslücke und mehr"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Mac Studio für 33.000 Euro: Was Apples Rechner so teuer macht",
+          "link": "https://t3n.de/news/apple-mac-studio-512gb-ram-preis-1770523/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wenn man die Möglichkeiten für das neue Macbook Pro mit Touchscreen im Konfigurator ausreizt, landet man bei rund 16.000 Euro. Gegen die neue Version des Mac Studio wirkt das noch günstig. weiterlesen auf t3n.de",
+          "published": "Sat, 14 Nov 2026 09:05:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Dropbox Shares How Its In-House Cookie Auditor Tests Consent Behaviour Across 200+ Web Surfaces",
+          "link": "https://www.infoq.com/news/2026/11/dropbox-cookie-auditor/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Dropbox engineers described a Playwright-based auditor that checks cookie consent behavior across more than 200 web surfaces. It runs three tests per page: US visitor, EU visitor, and Global Privacy Control signal. Cookie rules are kept outside the code. A companion tool finds live URLs. Weekly reports separate likely violations from false positives. By Daniel Curtis",
+          "published": "Fri, 13 Nov 2026 06:15:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Analyse des Koalitionsvertrages: Automatisierte Datenanalyse kommt auch in Mecklenburg-Vorpommern",
+          "link": "https://netzpolitik.org/2026/analyse-des-koalitionsvertrages-automatisierte-datenanalyse-kommt-auch-in-mecklenburg-vorpommern/",
+          "summary": "Sehr viel SPD, wenig links und grün im Koalitionsvertrag. (Symbolbild) – Alle Rechte vorbehalten: IMAGO / Wolfgang Maria Weber Der Koalitionsvertrag der rot-rot-grünen Regierung in MV enthält viel Digitales und Netzpolitisches. Trotz der Absage an den Palantir-Konzern und der Förderung von Open Source ist jedoch kein Ausbau von Grund- und Freiheitsrechten zu erwarten. Eine netzpolitische Analyse.",
+          "published": "Thu, 12 Nov 2026 16:11:28 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "GovTech Deutschland: Gut vernetzt, schlecht durchleuchtet",
+          "link": "https://netzpolitik.org/2026/govtech-deutschland-gut-vernetzt-schlecht-durchleuchtet/",
+          "summary": "Ammar Alkassar, im Vorstand von GovTech Deutschland, will Deutschlandplattform groß machen. – Alle Rechte vorbehalten: IMAGO / BeckerBredel Schon lange ist GovTech Deutschland gut für Gossip: Öffentliche Aufträge werden ohne Ausschreibung vergeben und mit der Deutschlandplattform baut der Verein ein Konkurrenzprodukt zum Deutschland-Stack des Bundes. Das bestätigen nun auch die Antworten der Bundesregierung auf eine Anfrage der Grünen.",
+          "published": "Wed, 11 Nov 2026 11:21:57 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Microsoft veröffentlicht .NET 11.0 mit neuen C#- und Blazor-Features",
+          "link": "https://www.heise.de/news/NET-11-0-steht-bereit-11520160.html",
+          "summary": "Microsoft hat die produktionsreife Version von .NET 11.0 veröffentlicht. Auch dieses Mal liegen die wichtigsten Neuerungen in C# und im Webframework Blazor.",
+          "published": "2026-11-11T11:24:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Software Testing: Testfälle zählen ist Erbsenzählen, Metriken helfen",
+          "link": "https://www.heise.de/blog/Software-Testing-Testfaelle-zaehlen-ist-Erbsenzaehlen-Metriken-helfen-11518245.html",
+          "summary": "Richard Seidl spricht mit Ivaylo Brüssow und Andrej Nod über einen Metric Collector, der die Testautomatisierung misst und per Score bewertet.",
+          "published": "2026-11-10T09:29:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "(g+) KI-Code in Open Source: Wie Maintainer ihre Projekte vor Überlastung schützen",
+          "link": "https://www.golem.de/news/ki-code-in-open-source-wie-maintainer-ihre-projekte-vor-ueberlastung-schuetzen-2611-215205.html",
+          "summary": "KI-Code überflutet Open-Source-Projekte. Wie Maintainer mit Github-Funktionen, Beitragsregeln und Prüfverfahren die Kontrolle behalten. Ein Ratgebertext von Fabian Deitelhoff ( Github , KI )",
+          "published": "2026-11-14T10:00:07+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Europäische Atomwaffen: Bundesregierung plant Beteiligung an Urananreicherer",
+          "link": "https://www.golem.de/news/europaeische-atomwaffen-bundesregierung-plant-beteiligung-an-urenco-2611-215184.html",
+          "summary": "Ein Drittel von Urenco könnte für vier Milliarden Euro an den Staat übergehen. Der Konzern soll Großbritanniens Atomarsenal modernisieren. ( Militär , Politik )",
+          "published": "2026-11-13T13:12:06+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(8 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Mac Studio für 33.000 Euro: Was Apples Rechner so teuer macht",
+        "Dropbox Shares How Its In-House Cookie Auditor Tests Consent Behaviour Across 200+ Web Surfaces",
+        "Analyse des Koalitionsvertrages: Automatisierte Datenanalyse kommt auch in Mecklenburg-Vorpommern"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Minecraft-Experiment: Was passiert, wenn KI-Agenten Bürokratie simulieren?",
+          "link": "https://t3n.de/news/ki-agenten-minecraft-buerokratie-experiment-1771070/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Zu viel Bürokratie? Damit haben nicht nur wir Menschen zu kämpfen, wie ein aktueller Versuch zeigt. weiterlesen auf t3n.de",
+          "published": "Sat, 14 Nov 2026 08:25:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Degitalisierung: Agilität",
+          "link": "https://netzpolitik.org/2026/degitalisierung-agilitaet/",
+          "summary": "\"Hauptsache schnell\" ist das Motto aktueller KI-Entwicklung. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Jorgen Hendriksen Deutschland soll beim KI-Ausbau schneller werden, dafür braucht es angeblich Deregulierung und agiles Vorgehen. Derartige Agilität haben 17 Software-Entwickler bereits 2001 groß gemacht. Mit ganz unterschiedlichen Ergebnissen.",
+          "published": "Sun, 08 Nov 2026 07:09:23 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Generative KI stiftet Chaos in Brüssel und Straßburg",
+          "link": "https://www.heise.de/news/KI-ueberflutet-EU-Institutionen-mit-Antraegen-und-Halluzinationen-11525079.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Chatbots sorgen in Brüssel und Straßburg für eine Flut an Änderungsanträgen und Anfragen. Beamte und Abgeordnete schlagen Alarm wegen demokratischer Risiken.",
+          "published": "2026-11-13T18:21:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Algorithmische Wutwende & Memokratie: Wie Memes Politik zur Gefühlssache machen",
+          "link": "https://www.heise.de/news/Algorithmische-Wutwende-Memokratie-Wie-Memes-Politik-zur-Gefuehlssache-machen-11524568.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Politische Macht wird heute nicht mehr nur über Programme und Debatten ausgeübt, sondern immer stärker über Memes und KI-generierte Bilder.",
+          "published": "2026-11-13T15:19:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Ein Terminal-Kern für Linux, IDEs und Browser: libghostty 1.0",
+          "link": "https://www.heise.de/news/Fuer-JetBrains-Neovim-und-KDE-libghostty-1-0-ist-da-11521170.html",
+          "summary": "Ghosttys Terminal-Kern hat eine stabile C-ABI erreicht: libghostty-vt 1.0 lässt sich nun fest in Distributionen paketieren – JetBrains und Neovim ziehen mit.",
+          "published": "2026-11-12T13:34:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Minecraft-Experiment: Was passiert, wenn KI-Agenten Bürokratie simulieren?",
+        "Degitalisierung: Agilität",
+        "Generative KI stiftet Chaos in Brüssel und Straßburg"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Anthropic legt nach: Fable 5.2 und Mythos 5.2 im Performance-Check",
+          "link": "https://t3n.de/news/anthropic-claude-fable-5-2-mythos-5-2-release-1772515/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kurz vor dem geplanten Börsengang hat Anthropic mit Claude Fable 5.2 und Mythos 5.2 zwei neue KI-Modelle vorgestellt. Beide sollen leistungsstärker und billiger als ihre Vorgänger sein und setzen sich im KI-Ranking klar an die Spitze. weiterlesen auf t3n.de",
+          "published": "Sat, 14 Nov 2026 14:35:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Tradwife-Trend auf Social Media: Wie er Frauen mit Führungsverantwortung ausbremst",
+          "link": "https://t3n.de/news/tradwife-trend-social-media-frauen-fuehrung-1769756/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In den USA glaubt fast die Hälfte der Männer, dass sie die Hauptverdiener sein sollten. Eine aktuelle Umfrage zeigt, wie weit solche Ansichten verbreitet sind und welche Rolle Influencer:innen dabei spielen. weiterlesen auf t3n.de",
+          "published": "Sat, 14 Nov 2026 14:00:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Animationen mit KI: Was Claude Motion wirklich leistet",
+          "link": "https://t3n.de/news/claude-motion-test-anthropic-ki-animation-1769905/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit Claude Motion verfügt Anthropics KI-Tool jetzt auch über ein einfaches Animationswerkzeug. Wir haben es ausprobiert und erklären, was damit möglich ist – un weiterlesen auf t3n.de",
+          "published": "Sat, 14 Nov 2026 13:10:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Dein digitales Psychogramm: Was ChatGPT wirklich über dich weiß",
+          "link": "https://t3n.de/news/chatgpt-datenschutz-psychologische-profile-studie-1769797/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer regelmäßig mit KI-Chatbots arbeitet, gibt im Laufe der Monate beiläufig viele Details aus dem eigenen Alltag preis. Was im Hintergrund mit diesen vertraulichen Eingaben geschieht, folgt jedoch einer eigenen Logik, die den wenigsten bekannt sein dürfte. weiterlesen auf t3n.de",
+          "published": "Sat, 14 Nov 2026 12:05:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "3I/ATLAS: Was uns der interstellare Komet über fremde Sterne verrät",
+          "link": "https://t3n.de/news/komet-3i-atlas-herkunft-james-webb-1771066/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der interstellare Komet 3I/Atlas wirft nach wie vor viele Fragen auf. Ein Wissenschaftsteam hat jetzt Hinweise auf seinen Entstehungsort gefunden. Geholfen hat dabei das James-Webb-Weltraumteleskop. weiterlesen auf t3n.de",
+          "published": "Sat, 14 Nov 2026 08:10:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Anthropic now lets you self-host Claude Managed Agents. The catch? 8 hours to act if it flags a safety risk in the software",
+          "link": "https://thenewstack.io/self-hosted-claude-managed-agents/",
+          "summary": "Anthropic has unveiled a self-hosted version of its platform for building and running AI agents. Self-hosted Claude Managed Agents, as The post Anthropic now lets you self-host Claude Managed Agents. The catch? 8 hours to act if it flags a safety risk in the software appeared first on The New Stack .",
+          "published": "Fri, 13 Nov 2026 21:29:30 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "The context problem: It’s what’s really breaking AI agents at scale",
+          "link": "https://thenewstack.io/elastic-ai-context-gap/",
+          "summary": "AI models are getting smarter, tokens are getting cheaper, and agents are improving. But the context gap sits between the The post The context problem: It&#8217;s what&#8217;s really breaking AI agents at scale appeared first on The New Stack .",
+          "published": "Fri, 13 Nov 2026 18:15:22 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "DeepSeek’s coding agent is too tidy for its own good — and benchmarks are punishing it",
+          "link": "https://thenewstack.io/deepseek-harness-cleanup-benchmark/",
+          "summary": "DeepSeek&#8217;s open-source coding agent is losing points on a major benchmark for a habit developers usually treat as good practice: The post DeepSeek’s coding agent is too tidy for its own good — and benchmarks are punishing it appeared first on The New Stack .",
+          "published": "Fri, 13 Nov 2026 17:56:30 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(8 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Anthropic legt nach: Fable 5.2 und Mythos 5.2 im Performance-Check",
+        "Tradwife-Trend auf Social Media: Wie er Frauen mit Führungsverantwortung ausbremst",
+        "Animationen mit KI: Was Claude Motion wirklich leistet"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Adobe-Alternative mit KI: Das steckt hinter Artcraft",
+          "link": "https://t3n.de/news/artcraft-adobe-alternative-ki-check-1767514/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Hohe Kosten, unpraktische Cloud-Anbindung: Viele Kreative wünschen sich schon lange, dass die Creative Cloud von Adobe mehr Konkurrenz bekommt. Artcraft könnte genau das bieten, ist aktuell aber noch in der Entwicklung. weiterlesen auf t3n.de",
+          "published": "Sat, 14 Nov 2026 11:20:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+          "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+          "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
+          "published": "Fri, 13 Nov 2026 15:26:53 +0000",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "DSGVO: Tinder muss Millionen-Bußgeld zahlen",
+          "link": "https://www.heise.de/news/DSGVO-Tinder-muss-Millionen-Bussgeld-zahlen-11525093.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die irische Data Protection Commission hat gegen die europäische Tochter der Match Group ein Bußgeld wegen eines DSGVO-Verstoßes verhängt.",
+          "published": "2026-11-13T18:42:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Adobe-Alternative mit KI: Das steckt hinter Artcraft",
+        "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+        "DSGVO: Tinder muss Millionen-Bußgeld zahlen"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "CoreWeave tests AI integrations on its cloud before you migrate",
+          "link": "https://thenewstack.io/coreweave-tests-ai-integrations/",
+          "summary": "Moving an AI workload to another cloud means bringing more than a model and its data. Your serving layer, observability The post CoreWeave tests AI integrations on its cloud before you migrate appeared first on The New Stack .",
+          "published": "Wed, 11 Nov 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "CoreWeave tests AI integrations on its cloud before you migrate"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Googlebooks im Check: Für wen sich die Geräte lohnen – und wer die Finger davon lässt",
+          "link": "https://t3n.de/news/googlebooks-test-review-1773419/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit teurer Hardware, viel KI und nahtloser Android-Integration will Google Kunden die Googlebooks schmackhaft machen. Für wen werden die Geräte interessant und weiterlesen auf t3n.de",
+          "published": "Sat, 14 Nov 2026 10:30:47 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Dein Name auf dem Saturnmond: So schickst du ihn mit der NASA zum Titan",
+          "link": "https://t3n.de/news/nasa-dragonfly-mission-dein-name-titan-1772282/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Nasa wirbt mit einer kuriosen Aktion für ihre Mission zum Saturnmond Titan: Ihr könnt euren Namen auf einer Drohne hinterlassen. Das steckt dahinter. weiterlesen auf t3n.de",
+          "published": "Sat, 14 Nov 2026 10:25:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Aus für den Cybertruck? Was Teslas Pivot zum Cybercab bedeutet",
+          "link": "https://t3n.de/news/tesla-cybertruck-aus-cybercab-pivot-1772173/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Tesla-Chef Elon Musk hat das Aus für den Cybertruck in der Gigafactory in Texas angekündigt. Der E-Pickup-Truck gilt als größter Flop in der Autogeschichte. In den freiwerdenden Produktionskapazitäten sollen ab Mitte 2027 Cybercabs hergestellt werden. weiterlesen auf t3n.de",
+          "published": "Sat, 14 Nov 2026 09:40:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KW 46: Die Woche, in der wir Richtung Geheimpolizei gehen",
+          "link": "https://netzpolitik.org/2026/kw-46-die-woche-in-der-wir-richtung-geheimpolizei-gehen/",
+          "summary": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 46. Kalenderwoche geht zu Ende. Wir haben 19 neue Texte mit insgesamt 136.513 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 14 Nov 2026 08:05:30 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Laptop für 3 Euro: So machst du dein altes Notebook zum Chromebook",
+          "link": "https://t3n.de/news/chromebook-laptop-trick-3-euro-stick-1758960/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit Chrome OS Flex bietet Google eine Alternative zu Windows an, die ausgedienten PCs ein neues Leben schenken soll. Die Installationsdatei kann man mittlerweil weiterlesen auf t3n.de",
+          "published": "Sat, 14 Nov 2026 07:45:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Open Source DocumentDB 1.0 Reaches General Availability",
+          "link": "https://www.infoq.com/news/2026/11/mongodb-compatible-documentdb/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "DocumentDB 1.0 is the first generally available release of the open source, MIT-licensed document database built on PostgreSQL, with compatibility for the MongoDB wire protocol. Most MongoDB drivers, tools, and queries work without changes. By Renato Losio",
+          "published": "Sat, 14 Nov 2026 06:37:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Pay-to-Click: Sparkasse vereinfacht jetzt dein Online-Shopping",
+          "link": "https://t3n.de/news/sparkasse-girokarte-clicktopay-einfuehrung-1772573/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kundinnen und Kunden der Sparkasse erhalten noch im November Zugriff auf eine Funktion zum vereinfachten Zahlen bei Online-Einkäufen. Wer profitiert, welche Einschränkungen es gibt und wie das mit der Abschaltung der S-ID-Check-App zusammenhängt. weiterlesen auf t3n.de",
+          "published": "Sat, 14 Nov 2026 06:50:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+          "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+          "summary": "One way or another, the company will get some more data on Saturday.",
+          "published": "Sat, 14 Nov 2026 00:49:13 +0000",
+          "source": "Ars Technica"
+        }
+      ],
+      "summary": "(8 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Googlebooks im Check: Für wen sich die Geräte lohnen – und wer die Finger davon lässt",
+        "Dein Name auf dem Saturnmond: So schickst du ihn mit der NASA zum Titan",
+        "Aus für den Cybertruck? Was Teslas Pivot zum Cybercab bedeutet"
+      ]
+    }
+  ]
+}
