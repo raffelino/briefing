@@ -1,0 +1,363 @@
+{
+  "date": "2026-11-18",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Presentation: Behind Booking.com's AI Evolution: The Unpolished Story",
+          "link": "https://www.infoq.com/presentations/bookingcom-ml-data-platform-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Jabez Eliezer Manuel discusses the 20-year evolution of Booking.com’s data management and ML platforms. He explains how they scaled MySQL topologies, sunset Hadoop for cloud architecture, and built high-throughput model serving and feature stores operating at 400B predictions per day. He also shares insights on personalization, interleaved experimentation, and their new agentic AI foundation. By Jabez Eliezer Manuel",
+          "published": "Wed, 18 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Behind Booking.com's AI Evolution: The Unpolished Story"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "AWS PrivateLink Tunnel Endpoints Open a Whole CIDR Range to Another Account",
+          "link": "https://www.infoq.com/news/2026/11/aws-privatelink-tunnel-endpoints/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has detailed tunnel endpoints, a PrivateLink endpoint type that gives a consumer VPC access to an entire network segment in another account rather than one resource at a time, over an overlapping address space and with consumer-initiated connections only. The consumer must wrap traffic in GENEVE; only TCP and DNS pass, and access logs cannot attribute traffic to a workload behind the endpoint. By Steef-Jan Wiggers",
+          "published": "Wed, 18 Nov 2026 09:29:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Yelp Migrates Cassandra to EKS by Moving EBS Volumes",
+          "link": "https://www.infoq.com/news/2026/11/kubernetes-cassandra-eks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Yelp has moved its Cassandra fleet from legacy self-managed Kubernetes clusters to Amazon EKS by re-pointing existing EBS volumes at new pods, rather than streaming data between nodes. By Claudio Masolo",
+          "published": "Wed, 18 Nov 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Production AI, Architecture Trade-offs & Team Design: InfoQ Opens Registration for 6 January Cohorts",
+          "link": "https://www.infoq.com/news/2026/11/onlinecohort-jan27-certification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "From agent reliability to architecture decisions and delivery bottlenecks, InfoQ’s January 2027 cohorts give senior practitioners five weeks to examine current challenges, test approaches in their own work, and compare results with peers. By Artenisa Chatziou",
+          "published": "Tue, 17 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Video: 1000 km in die Alpen: Kommen wir mit E-Pickup und E-Enduro durch?",
+          "link": "https://www.heise.de/hintergrund/Video-1000-km-in-die-Alpen-Kommen-wir-mit-E-Pickup-und-E-Enduro-durch-11528003.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Zwei Fahrzeuge. Null Liter Benzin. Wir testen einen E-Pickup-Truck und ein E-Geländemotorrad auf ihre Offroad-Fähigkeiten. Ein Videobeitrag.",
+          "published": "2026-11-18T10:30:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Telemetrieplattform Cribl kauft Observability-Intelligence-Start-up Tero",
+          "link": "https://www.heise.de/news/Telemetriespezialist-Cribl-uebernimmt-Tero-11526983.html",
+          "summary": "Der Telemetrie-Plattform-Anbieter Cribl übernimmt das Start-up Tero, dessen Entwickler zukünftig die Observability-Fähigkeiten von Cribl ausweiten sollen.",
+          "published": "2026-11-17T07:19:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "AWS PrivateLink Tunnel Endpoints Open a Whole CIDR Range to Another Account",
+        "Yelp Migrates Cassandra to EKS by Moving EBS Volumes",
+        "Production AI, Architecture Trade-offs & Team Design: InfoQ Opens Registration for 6 January Cohorts"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Gravierende Sicherheitslücke in Java entdeckt: Wie eine KI für nur 200 Dollar einen Exploit fand",
+          "link": "https://t3n.de/news/scherheitsluecke-java-ki-200-dollar-1774110/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Sicherheitsforscher:innen eines amerikanischen Startups haben ein gravierendes Problem in Java entdeckt. Darüber lässt sich aus der Ferne Code ausführen. Da eine Vielzahl von Programmen Java nutzt, sind nicht nur Privatpersonen, sondern auch die größten Unternehmen von diesem Problem betroffen. weiterlesen auf t3n.de",
+          "published": "Wed, 18 Nov 2026 12:00:26 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Qwik 2.0 RC: Replaces HTML Comment Markers for Faster Reactivity and Out-of-Order Streaming",
+          "link": "https://www.infoq.com/news/2026/11/quik-2-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Qwik 2.0 Release Candidate, published on 1 October 2026, replaces v1's HTML comment markers with two script blocks that hold state and virtual node data. It adds experimental out-of-order streaming, async useComputed$, and cacheable route loaders. Qwik's benchmarks show v2 at 1.23x vanilla JavaScript, versus 2.59x for v1. A migration command is provided. By Daniel Curtis",
+          "published": "Tue, 17 Nov 2026 12:25:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Microsoft Releases .NET 11: C# 15 Union Types, Native AOT CLI Host, and CoreCLR by Default in MAUI",
+          "link": "https://www.infoq.com/news/2026/11/dotnet-11-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has released .NET 11, a Standard Term Support release with two years of support. It ships C# 15 with union types and closed hierarchies, a Native AOT CLI host, a preview of Runtime Async, Zstandard compression, asynchronous validation and OpenAPI 3.2 in ASP.NET Core, CoreCLR as the default runtime in .NET MAUI, and EF Core 11 with experimental vector search. By Almir Vuk",
+          "published": "Tue, 17 Nov 2026 10:20:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Mittwoch: Gefährliche Lücke in Java, Systemausfälle bei US-Behörden und -Firmen",
+          "link": "https://www.heise.de/news/Mittwoch-Gefaehrliche-Luecke-in-Java-Systemausfaelle-bei-US-Behoerden-und-Firmen-11528635.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Updates gegen Java-Bugs + Ausfälle bei US-Diensten + Star Wars ohne Lizenz + YouTubes neue TV-Zählung + Panasonics kompakte Kinokamera + Digital-Health-Podcast",
+          "published": "2026-11-18T06:15:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Java: RCE mit AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+          "link": "https://www.heise.de/news/Java-RCE-mit-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-11528561.html",
+          "summary": "Die Sicherheitslücke Java4Shell erlaubt Remote Code Execution, trifft aber nur bestimmte Prozessoren. Das gilt auch für Java-Clients.",
+          "published": "2026-11-18T00:05:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Gravierende Sicherheitslücke in Java entdeckt: Wie eine KI für nur 200 Dollar einen Exploit fand",
+        "Qwik 2.0 RC: Replaces HTML Comment Markers for Faster Reactivity and Out-of-Order Streaming",
+        "Microsoft Releases .NET 11: C# 15 Union Types, Native AOT CLI Host, and CoreCLR by Default in MAUI"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+          "link": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11515951.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
+          "published": "2026-11-18T08:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Nach Datenleck: Deutsche-Bank-Chef sieht keine Gefahr für Kundendaten",
+          "link": "https://www.golem.de/news/nach-datenleck-deutsche-bank-chef-sieht-keine-gefahr-fuer-kundendaten-2611-215353.html",
+          "summary": "Laut Deutsche-Bank-Chef Christian Sewing sind durch das Datenleck weder die Systeme der Bank kompromittiert noch Kundendaten gefährdet. ( Datenleck , Sicherheitslücke )",
+          "published": "2026-11-18T12:15:05+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Anzeige: Penetration Testing: Sicherheitslücken erkennen und ausnutzen",
+          "link": "https://www.golem.de/news/anzeige-penetration-testing-sicherheitsluecken-erkennen-und-ausnutzen-2611-215284.html",
+          "summary": "Penetration Testing macht Schwachstellen in IT-Systemen sichtbar. Ein zweitägiger Online-Workshop vermittelt Angriffstechniken und den praktischen Einsatz von Kali Linux und Burp. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-11-17T18:45:06+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+        "Nach Datenleck: Deutsche-Bank-Chef sieht keine Gefahr für Kundendaten",
+        "Anzeige: Penetration Testing: Sicherheitslücken erkennen und ausnutzen"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Mehr Klicks, mehr Warnungen: Warum Apple KI-Agenten den Zugriff auf deinen Mac erschwert",
+          "link": "https://t3n.de/news/mac-os-ki-agenten-zugriff-1774075/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit macOS 27.3 baut Apple die Zugriffsrechte um. Wer einer App künftig Festplattenvollzugriff geben will, muss sich durch mehrere Warnungen klicken. Grund sind KI-Agenten, die tief ins System eingreifen. weiterlesen auf t3n.de",
+          "published": "Wed, 18 Nov 2026 09:30:36 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Ten Years On, Google Updates the SRE Book for the AI Era",
+          "link": "https://www.infoq.com/news/2026/11/google-sre-book-ai-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google has announced a completely rewritten second edition of Site Reliability Engineering: How Google Runs Production Systems, ten years after the original book was published by O'Reilly Media. The update reframes SRE around modern cloud architectures, platform engineering and AI workloads, while retaining the discipline's original emphasis on applying software engineering to operations. By Matt Saunders",
+          "published": "Tue, 17 Nov 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise+ | Testautomatisierung mit KI: Agenten erkennen Lücken, aber keine Lügen",
+          "link": "https://www.heise.de/hintergrund/Testautomatisierung-mit-KI-Agenten-erkennen-Luecken-aber-keine-Luegen-11524248.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Ein Experiment mit Claude-Modellen zeigt: QA-Agenten erkennen fehlende Infos zuverlässig, aber falsche Angaben nie – mit riskanten Folgen.",
+          "published": "2026-11-18T10:30:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "KubeCon 2026: Wie Unternehmen KI-Agenten im Griff behalten",
+          "link": "https://www.heise.de/news/KubeCon-2026-Kontrolle-ueber-KI-Agenten-in-Kubernetes-Umgebungen-11526358.html",
+          "summary": "KI-Agenten im Griff: Auf der KubeCon NA 2026 ging es um Zugriffsregeln von Mirantis, Kostenkontrolle mit Splunk und überprüfbare Identitäten durch ANS.",
+          "published": "2026-11-17T10:45:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Microsoft veröffentlicht .NET 11.0 mit neuen C#- und Blazor-Features",
+          "link": "https://www.heise.de/news/NET-11-0-steht-bereit-11520160.html",
+          "summary": "Microsoft hat die produktionsreife Version von .NET 11.0 veröffentlicht. Auch dieses Mal liegen die wichtigsten Neuerungen in C# und im Webframework Blazor.",
+          "published": "2026-11-11T11:24:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Mehr Klicks, mehr Warnungen: Warum Apple KI-Agenten den Zugriff auf deinen Mac erschwert",
+        "Ten Years On, Google Updates the SRE Book for the AI Era",
+        "heise+ | Testautomatisierung mit KI: Agenten erkennen Lücken, aber keine Lügen"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Millionenfinanzierung in zehn Minuten: Flipper One kratzt an Kickstarter-Rekord",
+          "link": "https://www.heise.de/news/Rekordverdaechtiges-Crowdfunding-Flipper-One-auf-Kickstarter-vorbestellbar-11528795.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Linux-Kleincomputer ist seit Dienstagnachmittag für Unterstützer bestellbar. Neben dem Basisgerät gibt's allerlei Zubehör mit Antennen.",
+          "published": "2026-11-18T09:29:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Ein Terminal-Kern für Linux, IDEs und Browser: libghostty 1.0",
+          "link": "https://www.heise.de/news/Fuer-JetBrains-Neovim-und-KDE-libghostty-1-0-ist-da-11521170.html",
+          "summary": "Ghosttys Terminal-Kern hat eine stabile C-ABI erreicht: libghostty-vt 1.0 lässt sich nun fest in Distributionen paketieren – JetBrains und Neovim ziehen mit.",
+          "published": "2026-11-12T13:34:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Millionenfinanzierung in zehn Minuten: Flipper One kratzt an Kickstarter-Rekord",
+        "Ein Terminal-Kern für Linux, IDEs und Browser: libghostty 1.0"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
+          "link": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google ändert die Datenschutzeinstellungen der Gemini-App. So können Nutzer:innen künftig das KI-Training untersagen, auch wenn sie die Chats länger behalten wollen. Für Chats ohne History-Funktion steigt die Speicherzeit aber auf zwei Monate. weiterlesen auf t3n.de",
+          "published": "Wed, 18 Nov 2026 14:00:33 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Nach der Sperrung von Facebook-Konten: Meta-Agent reicht selbstständig Klage ein – gegen Meta",
+          "link": "https://t3n.de/news/nach-der-sperrung-von-facebook-konten-meta-agent-reicht-selbststaendig-klage-ein-gegen-meta-1774119/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Unternehmen von Joe Thomas spielt Metas KI-Agent Muse eine zentrale Rolle. Er verwaltet Social-Media-Konten, plant Marketing-Inhalte und verschickt E-Mails. Jetzt ist er für ihn sogar vor Gericht gezogen – gegen Meta selbst. weiterlesen auf t3n.de",
+          "published": "Wed, 18 Nov 2026 13:00:37 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Vercel Releases UI SDK for Agents to Compose UI from Reusable Behaviors",
+          "link": "https://www.infoq.com/news/2026/11/vercel-ui-sdk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Vercel has released UI SDK in beta, an Apache 2.0 TypeScript library of more than 50 UI behaviors in @ui-sdk/core, with adapters for React, Vue, Svelte, Solid, and Web Components, so agents can compose accessible components and operate them through a documented agent bridge. By Daniel Dominguez",
+          "published": "Wed, 18 Nov 2026 10:12:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Morgens erst Claude, dann Mails: Wie ich mir einen KI-Assistenten gebaut habe und damit arbeite",
+          "link": "https://t3n.de/news/morgens-erst-claude-dann-mails-wie-ich-mir-einen-ki-assistenten-gebaut-habe-und-damit-arbeite-1772873/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Dass nur der Chef einen persönlichen Assistenten hat, gilt heute nicht mehr: Unser Autor hat ausprobiert, ob er sich mit KI einen Sparringspartner und Coach bau weiterlesen auf t3n.de",
+          "published": "Wed, 18 Nov 2026 09:00:43 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+          "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+          "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+          "published": "Wed, 18 Nov 2026 00:27:29 +0000",
+          "source": "Ars Technica"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
+        "Nach der Sperrung von Facebook-Konten: Meta-Agent reicht selbstständig Klage ein – gegen Meta",
+        "Vercel Releases UI SDK for Agents to Compose UI from Reusable Behaviors"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "House Democrats promise a US return to global climate talks",
+          "link": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
+          "summary": "A new House majority can push climate policy, but a full US return remains uncertain.",
+          "published": "Tue, 17 Nov 2026 15:32:43 +0000",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Proposed GDPR changes: Workplace Data Abuses Could Soon Be Harder to Uncover",
+          "link": "https://netzpolitik.org/2026/proposed-gdpr-changes-workplace-data-abuses-could-soon-be-harder-to-uncover/",
+          "summary": "Uber Drivers used GDPR data access requests to defend workers' rights – Alle Rechte vorbehalten: NurPhoto via Imago The EU commission has proposed the Digital Omnibus without conducting a full impact assessment. A study from the European Trade Union Institute examines its potential consequences. The proposal weakens the data protection rights of all workers in the EU, authors say.",
+          "published": "Tue, 17 Nov 2026 14:38:49 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Nach den Adobe-Klonen: ArtCraft lässt KI auf GitHub-Backlogs los",
+          "link": "https://www.heise.de/news/Nach-den-Adobe-Klonen-ArtCraft-laesst-KI-auf-GitHub-Backlogs-los-11528115.html",
+          "summary": "Hinter den KI-Klonen von ArtCraft steckt ein wachsendes GitHub-Backlog. Das neue Open-Source-Tool AutoCraft soll Issues und Pull-Requests per KI abarbeiten.",
+          "published": "2026-11-17T16:45:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "NASA’s Voyager 1 probe is now one light-day away",
+          "link": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
+          "summary": "After traveling through the void of space for 49 years, Voyager 1 has hit a momentous milestone: the spacecraft is now officially one light-day away from Earth, which is, as NASA put it, \"very, very far.\" The probe crossed the milepost on Wednesday at 5:16AM ET, and is now 16.094 billion miles away from our [&#8230;]",
+          "published": "2026-11-18T07:03:36-05:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Grand Theft Auto VI does something impossible — it lives up to the hype",
+          "link": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review",
+          "summary": "How do you follow a game like Grand Theft Auto V? Thirteen years ago, Rockstar's crime-fueled epic went on to redefine what an open-world game could be and became an enormous success, selling more than 230 million copies across three generations of game consoles. It sits just behind Tetris and Minecraft on the list of [&#8230;]",
+          "published": "2026-11-18T06:00:00-05:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(5 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "House Democrats promise a US return to global climate talks",
+        "Proposed GDPR changes: Workplace Data Abuses Could Soon Be Harder to Uncover",
+        "Nach den Adobe-Klonen: ArtCraft lässt KI auf GitHub-Backlogs los"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "178 große Webseiten mit Malware infiziert: Was du wissen musst, wenn du eine von ihnen besucht hast",
+          "link": "https://t3n.de/news/webseiten-malware-infiziert-ikea-zoom-salesforce-1774082/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein großangelegter Cyberangriff hat zahlreiche Webseiten im Netz kompromittiert. Sie wurden unbemerkt mit Schadcode infiziert und ihre User:innen könnten dadurch mit Malware in Berührung gekommen sein. Was Unternehmen und Nutzer:innen jetzt wissen müssen. weiterlesen auf t3n.de",
+          "published": "Wed, 18 Nov 2026 10:00:12 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Roll-ups: Warum Startups jetzt lieber kaufen, statt zu gründen",
+          "link": "https://t3n.de/news/roll-ups-was-hinter-der-startup-strategie-steckt-und-warum-mittelstaendler-dafuer-interessant-sind-1773990/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Unter Startups gibt es den Trend des Roll-ups, wobei sie etablierte Betriebe einer Branche übernehmen und bündeln. Das Vorgehen ist an sich nicht neu, doch jetzt kommt KI mit ins Spiel, die die Zusammenführung der Firmen erleichtern soll. weiterlesen auf t3n.de",
+          "published": "Wed, 18 Nov 2026 08:30:22 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Wie verhandelt man eine Abfindung? Ein Anwalt erklärt, worauf es ankommt",
+          "link": "https://t3n.de/news/wie-verhandelt-man-eine-abfindung-ein-anwalt-erklaert-worauf-es-ankommt-1772596/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer gekündigt wird, kann mitunter eine Abfindung für sich erwirken. Doch die Punkte, auf die es ankommt, sind vielschichtig. Worauf man achten sollte, erklärt A weiterlesen auf t3n.de",
+          "published": "Wed, 18 Nov 2026 07:30:37 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Einen Lichttag entfernt: So spricht die NASA mit der Voyager 1",
+          "link": "https://t3n.de/news/voyager-1-nasa-kommunikation-interstellar-1771736/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bald steht für die Voyager 1 ein wichtiges Ereignis an. Die Sonde wird in Kürze einen Meilenstein erreichen, den zuvor kein menschengemachtes Objekt erreicht hat. weiterlesen auf t3n.de",
+          "published": "Wed, 18 Nov 2026 06:00:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Konkurrenz für Whatsapp: Meta testet neue Messenger-App auf Instagram-Basis",
+          "link": "https://t3n.de/news/meta-messenger-app-direct-1774051/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Meta hat mit Direct eine neue Messenger-App auf Basis der Instagram-Direktnachrichten gestartet. Ein Instagram-Konto ist dafür nicht notwendig. Direct könnte dadurch auf längere Sicht sogar dem ebenfalls zu Meta gehörenden Whatsapp Konkurrenz machen. weiterlesen auf t3n.de",
+          "published": "Tue, 17 Nov 2026 20:55:25 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "178 große Webseiten mit Malware infiziert: Was du wissen musst, wenn du eine von ihnen besucht hast",
+        "Roll-ups: Warum Startups jetzt lieber kaufen, statt zu gründen",
+        "Wie verhandelt man eine Abfindung? Ein Anwalt erklärt, worauf es ankommt"
+      ]
+    }
+  ]
+}
