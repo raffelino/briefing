@@ -1,0 +1,343 @@
+{
+  "date": "2026-11-19",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "Presentation: Behind Booking.com's AI Evolution: The Unpolished Story",
+          "link": "https://www.infoq.com/presentations/bookingcom-ml-data-platform-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Jabez Eliezer Manuel discusses the 20-year evolution of Booking.com’s data management and ML platforms. He explains how they scaled MySQL topologies, sunset Hadoop for cloud architecture, and built high-throughput model serving and feature stores operating at 400B predictions per day. He also shares insights on personalization, interleaved experimentation, and their new agentic AI foundation. By Jabez Eliezer Manuel",
+          "published": "Wed, 18 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Presentation: Behind Booking.com's AI Evolution: The Unpolished Story"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "“The best escape room players that you’ve ever met”: What Red Hat’s AI architect really thinks about agents.",
+          "link": "https://thenewstack.io/openshell-ai-agent-security/",
+          "summary": "Last week at KubeCon + CloudNativeCon North America, a major gathering of the open-source and cloud-native communities, many speakers &#8212; The post &#8220;The best escape room players that you’ve ever met&#8221;: What Red Hat’s AI architect really thinks about agents. appeared first on The New Stack .",
+          "published": "Wed, 18 Nov 2026 20:25:18 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Fremde Welten: Wie Sanddünen auf der Erde die Windgeschwindigkeiten auf dem Mars verraten",
+          "link": "https://t3n.de/news/sandduenen-erde-mars-windgeschwindigkeit-1774207/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Raumsonden liefern seit Jahrzehnten Aufnahmen von fremden Himmelskörpern, doch ein zentraler Messwert der dortigen Atmosphären blieb auf den Bildern unsichtbar. Nun zeigt eine Auswertung irdischer Wüsten, dass der Schlüssel dazu direkt am Boden liegt. weiterlesen auf t3n.de",
+          "published": "Wed, 18 Nov 2026 19:49:34 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI spent $1.2 million finding nearly 1,000 Linux security flaws. Sam Altman says this is just the beginning.",
+          "link": "https://thenewstack.io/openai-entire-ai-stack/",
+          "summary": "OpenAI spent approximately $1.2 million in API costs to generate working exploits for 948 Linux kernel vulnerabilities. At The New The post OpenAI spent $1.2 million finding nearly 1,000 Linux security flaws. Sam Altman says this is just the beginning. appeared first on The New Stack .",
+          "published": "Wed, 18 Nov 2026 18:17:50 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AWS PrivateLink Tunnel Endpoints Open a Whole CIDR Range to Another Account",
+          "link": "https://www.infoq.com/news/2026/11/aws-privatelink-tunnel-endpoints/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has detailed tunnel endpoints, a PrivateLink endpoint type that gives a consumer VPC access to an entire network segment in another account rather than one resource at a time, over an overlapping address space and with consumer-initiated connections only. The consumer must wrap traffic in GENEVE; only TCP and DNS pass, and access logs cannot attribute traffic to a workload behind the endpoint. By Steef-Jan Wiggers",
+          "published": "Wed, 18 Nov 2026 09:29:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Yelp Migrates Cassandra to EKS by Moving EBS Volumes",
+          "link": "https://www.infoq.com/news/2026/11/kubernetes-cassandra-eks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Yelp has moved its Cassandra fleet from legacy self-managed Kubernetes clusters to Amazon EKS by re-pointing existing EBS volumes at new pods, rather than streaming data between nodes. By Claudio Masolo",
+          "published": "Wed, 18 Nov 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "“The best escape room players that you’ve ever met”: What Red Hat’s AI architect really thinks about agents.",
+        "Fremde Welten: Wie Sanddünen auf der Erde die Windgeschwindigkeiten auf dem Mars verraten",
+        "OpenAI spent $1.2 million finding nearly 1,000 Linux security flaws. Sam Altman says this is just the beginning."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": ".NET 11 : ASP.NET Core: Union Type Support, OpenAPI 3.2 by Default and Blazor AI Components",
+          "link": "https://www.infoq.com/news/2026/11/asp-net-11-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has released ASP.NET Core in .NET 11. The update adds C# union type support in JSON bodies, asynchronous validation for Minimal APIs, OpenAPI 3.2 by default, and SignalR authentication refresh. Blazor gains a CacheView component, client-side validation for static SSR forms, opt-in circuit pause for inactive tabs, and experimental AI components. Zstandard compression is on by default. By Almir Vuk",
+          "published": "Thu, 19 Nov 2026 11:27:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Java: RCE mit 64-mal dem „A“ und einem „=“",
+          "link": "https://www.heise.de/news/Java-RCE-mit-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-11528561.html",
+          "summary": "Die Sicherheitslücke Java4Shell erlaubt Remote Code Execution, trifft aber nur bestimmte Prozessoren. Das gilt auch für Java-Clients.",
+          "published": "2026-11-18T00:05:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Java4Shell: Gefährlicher Bug in Java",
+          "link": "https://www.heise.de/news/Java4Shell-Gefaehrlicher-Bug-in-Java-11528499.html",
+          "summary": "Oracles Patchday stiftet Verwirrung. Es gibt gleich elf Updates gegen Remote Code Execution in Java. Dabei ist auch das hochriskante Java4Shell.",
+          "published": "2026-11-17T20:13:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Java4Shell-Lücke: Berliner Schulen schalten zentrale Anwendungen ab",
+          "link": "https://www.golem.de/news/java4shell-luecke-berliner-schulen-schalten-zentrale-anwendungen-ab-2611-215412.html",
+          "summary": "Die Senatsverwaltung warnt vor Gefahren für sensible Schuldaten, da viele Lernplattformen auf Java basieren. ( Schulen , Java )",
+          "published": "2026-11-19T12:51:04+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        ".NET 11 : ASP.NET Core: Union Type Support, OpenAPI 3.2 by Default and Blazor AI Components",
+        "Java: RCE mit 64-mal dem „A“ und einem „=“",
+        "Java4Shell: Gefährlicher Bug in Java"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Interview: Wie die Sicherheit von digitalen Gesundheitsanwendungen geprüft wird",
+          "link": "https://netzpolitik.org/2026/interview-wie-die-sicherheit-von-digitalen-gesundheitsanwendungen-geprueft-wird/",
+          "summary": "Digitale Gesundheitsanwendungen gibt es auf Rezept. – Alle Rechte vorbehalten: Hintergrund: IMAGO / Panthermedia, Arzt: impulsq Wer seine Symptome einer digitalen Gesundheitsanwendung anvertraut, will darauf vertrauen können, dass diese sensiblen Daten sicher sind. Doch wer prüft die IT-Sicherheit der Apps auf Rezept? Und wo hakt es bei vielen Herstellern? Das verraten zwei IT-Sicherheitsfachleute im Interview.",
+          "published": "Thu, 19 Nov 2026 08:11:25 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Auch in Deutschland: Hacker greifen Millionen Bezahlkartendaten von Terminals ab",
+          "link": "https://www.golem.de/news/auch-in-deutschland-hacker-greifen-millionen-bezahlkartendaten-von-terminals-ab-2611-215408.html",
+          "summary": "Angreifer haben Windows-basierte Zahlungsterminals in mehreren Ländern mit Malware infiltriert und massenhaft Kartendaten ausgeleitet. ( Datenleck , Virus )",
+          "published": "2026-11-19T14:12:09+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Interview: Wie die Sicherheit von digitalen Gesundheitsanwendungen geprüft wird",
+        "Auch in Deutschland: Hacker greifen Millionen Bezahlkartendaten von Terminals ab"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "KubeCon 2026: Wie Unternehmen KI-Agenten im Griff behalten",
+          "link": "https://www.heise.de/news/KubeCon-2026-Kontrolle-ueber-KI-Agenten-in-Kubernetes-Umgebungen-11526358.html",
+          "summary": "KI-Agenten im Griff: Auf der KubeCon NA 2026 ging es um Zugriffsregeln von Mirantis, Kostenkontrolle mit Splunk und überprüfbare Identitäten durch ANS.",
+          "published": "2026-11-17T10:45:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Vodafone-Festnetz: GTA 6 verfehlt Datenrekord der Champions League",
+          "link": "https://www.golem.de/news/vodafone-festnetz-gta-6-verfehlt-datenrekord-der-champions-league-2611-215403.html",
+          "summary": "Der GTA-6-Preload treibt das Vodafone-Netz auf rund 35 TBit/s. Den Jahresrekord hält aber ein Champions-League-Spiel. ( Streaming , Vodafone )",
+          "published": "2026-11-19T12:26:04+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Arbeitsmarkt: Kabinett lockert Kündigungsschutz und Befristungsregeln",
+          "link": "https://www.golem.de/news/arbeitsmarkt-kabinett-lockert-kuendigungsschutz-und-befristungsregeln-2611-215379.html",
+          "summary": "Das Bundeskabinett hat Änderungen im Arbeitsrecht beschlossen. Ein Ziel ist mehr Wirtschaftswachstum. ( Arbeit , Wirtschaft )",
+          "published": "2026-11-19T07:22:11+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "KubeCon 2026: Wie Unternehmen KI-Agenten im Griff behalten",
+        "Vodafone-Festnetz: GTA 6 verfehlt Datenrekord der Champions League",
+        "Arbeitsmarkt: Kabinett lockert Kündigungsschutz und Befristungsregeln"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "S3 vs. ScyllaDB for tiny telemetry: What Red Canary learned the hard way",
+          "link": "https://thenewstack.io/scylladb-s3-tiny-telemetry/",
+          "summary": "At Red Canary, storing large amounts of small data is a big deal.&#160; Their Linux Endpoint Detection and Response (EDR) The post S3 vs. ScyllaDB for tiny telemetry: What Red Canary learned the hard way appeared first on The New Stack .",
+          "published": "Wed, 18 Nov 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(1 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "S3 vs. ScyllaDB for tiny telemetry: What Red Canary learned the hard way"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Anthropic: Das sind die großen Gewinner des Rekord-Börsengangs",
+          "link": "https://t3n.de/news/anthropic-das-sind-die-grossen-gewinner-des-rekord-boersengangs-1774376/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Beim Börsengang gelten ungewöhnliche Regeln: Beschäftigte können bereits am ersten Handelstag zehn Prozent ihrer Aktien veräußern. Die Gründer müssen sich dagegen deutlich länger gedulden. weiterlesen auf t3n.de",
+          "published": "Thu, 19 Nov 2026 14:30:59 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Producing Healthy Code with Artificial Intelligence Costs Fewer Tokens",
+          "link": "https://www.infoq.com/news/2026/11/healthy-code-AI-tokens/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Agentic AI can speed up velocity, but the gains vanish within months as code complexity grows. Healthy code makes AI perform better and costs fewer tokens. Safeguarding means keeping code health high through agentic refactoring, with an MCP supplying code health data, so AI can maintain the code it generates. By Ben Linders",
+          "published": "Thu, 19 Nov 2026 11:09:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Neo, Air, Pro, Mini, Studio, iMac: So findest du den richtigen Mac für dich",
+          "link": "https://t3n.de/news/mac-kaufberatung-macbook-air-neo-imac-1764391/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Auf der Suche nach einem Mac? Dann kannst du zwischen sechs Modellen und drei Prozessoren in teilweise unterschiedlichen Konfigurationen wählen. Da kann sich schon einmal die Frage aufdrängen: Welchen Mac brauche ich eigentlich? Der Versuch einer Antwort. weiterlesen auf t3n.de",
+          "published": "Thu, 19 Nov 2026 12:00:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: RIIIR: Rewrite It In *Idiomatic* Rust (with AI)",
+          "link": "https://www.infoq.com/presentations/rust-ai-symposium-agent-client-protocol/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Nicholas Matsakis shares why AI makes Rust the ideal choice for modern production systems, skipping steep adoption hurdles via compiler guardrails. He discusses Symposium - an open-source, agent-oriented toolchain from the Rust Foundation - and demonstrates how the Agent Client Protocol (ACP) standardizes agent-to-tool extensibility across diverse enterprise developer workflows. By Niko Matsakis",
+          "published": "Thu, 19 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Microsofts KI-Framework verteilt Malware: So konnten sich Angreifer Zugang verschaffen",
+          "link": "https://t3n.de/news/microsoft-ki-framework-malware-infiziert-1774234/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Microsoft ist zum Ziel eines Hackerangriffs geworden. Unbekannte konnten so das Agent-Framework des Unternehmens mit Malware infizieren, die an User:innen ausgespielt wurde. Was Betroffene jetzt wissen müssen. weiterlesen auf t3n.de",
+          "published": "Thu, 19 Nov 2026 10:30:56 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Anthropic: Das sind die großen Gewinner des Rekord-Börsengangs",
+        "Producing Healthy Code with Artificial Intelligence Costs Fewer Tokens",
+        "Neo, Air, Pro, Mini, Studio, iMac: So findest du den richtigen Mac für dich"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+          "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+          "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
+          "published": "Wed, 18 Nov 2026 23:25:04 +0000",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+          "link": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
+          "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
+          "published": "Wed, 18 Nov 2026 22:08:57 +0000",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Nach den Adobe-Klonen: ArtCraft lässt KI auf GitHub-Backlogs los",
+          "link": "https://www.heise.de/news/Nach-den-Adobe-Klonen-ArtCraft-laesst-KI-auf-GitHub-Backlogs-los-11528115.html",
+          "summary": "Hinter den KI-Klonen von ArtCraft steckt ein wachsendes GitHub-Backlog. Das neue Open-Source-Tool AutoCraft soll Issues und Pull-Requests per KI abarbeiten.",
+          "published": "2026-11-17T16:45:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "(g+) Datenschutz: Microsoft 365 DSGVO-konform betreiben - Realität oder Mythos?",
+          "link": "https://www.golem.de/news/datenschutz-microsoft-365-dsgvo-konform-betreiben-realitaet-oder-mythos-2611-215208.html",
+          "summary": "Microsoft 365 lässt sich DSGVO-konform betreiben, doch MFA allein reicht nicht. Welche Einstellungen und Nachweise bei einer Datenschutzprüfung entscheidend sind. Ein Ratgebertext von Aaron Siller ( Microsoft 365 , Datenschutz )",
+          "published": "2026-11-19T13:36:10+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Neue Düsentriebwerke: Weniger Ruß, tausendmal mehr Eiskristalle",
+          "link": "https://www.golem.de/news/neue-duesentriebwerke-weniger-russ-tausendmal-mehr-eiskristalle-2611-214949.html",
+          "summary": "Offene Rotoren, Hybridantriebe und neue Kraftstoffe sollen Jets sparsamer und klimaverträglicher machen. Doch Messflüge zeigen, dass ein entscheidendes Problem bleibt. Eine Analyse von Friedrich List ( Luftfahrt , DLR )",
+          "published": "2026-11-19T12:04:10+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+        "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+        "Nach den Adobe-Klonen: ArtCraft lässt KI auf GitHub-Backlogs los"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Keine Crew an Bord: Wie Drogenkartelle mit Standard-Hardware autonome U-Boote bauen",
+          "link": "https://t3n.de/news/keine-crew-an-bord-wie-drogenkartelle-mit-standard-hardware-autonome-u-boote-bauen-1773705/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Drogen-U-Boot ohne Besatzung, gesteuert per Starlink und Autopilot von der Stange: Autonome U-Boote könnten Tonnen von Kokain transportieren und sind der Al weiterlesen auf t3n.de",
+          "published": "Thu, 19 Nov 2026 13:30:23 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Black Friday 2026: 10 Tricks, mit denen du wirklich Geld sparst",
+          "link": "https://t3n.de/news/black-friday-2026-tipps-1420022/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Rund um den Black Friday locken Händler mit großen Rabatten und vermeintlichen Schnäppchen. Doch selten war die Situation für die Schnäppchenjäger:innen unübersichtlicher. Mit diesen zehn Tipps sparst du wirklich Geld. weiterlesen auf t3n.de",
+          "published": "Thu, 19 Nov 2026 12:30:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Warum der Black Friday mittlerweile schon Anfang November startet – und welches Kalkül der Händler dahintersteckt",
+          "link": "https://t3n.de/news/black-friday-frueher-start-1772442/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Eigentlich ist der Black Friday erst am 27. November. Doch schon jetzt werben immer mehr Händler mit dem Schlagwort und den vermeintlich unschlagbaren Angeboten. Das hat einen ziemlich einfachen Grund – und der gilt 2026 noch mehr als in den Vorjahren. weiterlesen auf t3n.de",
+          "published": "Thu, 19 Nov 2026 11:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Organisationsforscher Phanish Puranam: „Das mittlere Management einfach zu streichen, erzeugt nur Chaos“",
+          "link": "https://t3n.de/news/organisationsforscher-phanish-puranam-das-mittlere-management-einfach-zu-streichen-erzeugt-nur-chaos-1772882/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Unternehmen scheitern oft bei der flächendeckenden Einführung von KI. Organisationsforscher und Buchautor Phanish Puranam erklärt, wie Firmen eine sinnvolle Bal weiterlesen auf t3n.de",
+          "published": "Thu, 19 Nov 2026 11:30:18 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Whatsapp hebt das Limit für Gruppenchats an: So viele Personen kannst du jetzt einladen",
+          "link": "https://t3n.de/news/whatsapp-gruppenchat-limit-1774268/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Whatsapp erhöht die Obergrenze für Gruppenchats. Künftig sind bis zu 1.500 Mitglieder möglich. Das Update erfolgt automatisch in den nächsten Wochen. weiterlesen auf t3n.de",
+          "published": "Thu, 19 Nov 2026 11:00:12 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Keine Crew an Bord: Wie Drogenkartelle mit Standard-Hardware autonome U-Boote bauen",
+        "Black Friday 2026: 10 Tricks, mit denen du wirklich Geld sparst",
+        "Warum der Black Friday mittlerweile schon Anfang November startet – und welches Kalkül der Händler dahintersteckt"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Atmosfair: Luftverkehr verpasst Klimaziele erneut",
+          "link": "https://www.heise.de/news/Atmosfair-Luftverkehr-verpasst-Klimaziele-erneut-11530343.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der weltweite Passagierluftverkehr stößt mehr CO₂ aus als vor der Pandemie, die Effizienz steigt nur wenig. Neue Flugzeuge ändern daran bislang kaum etwas.",
+          "published": "2026-11-19T07:17:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Atmosfair: Luftverkehr verpasst Klimaziele erneut"
+      ]
+    }
+  ]
+}
