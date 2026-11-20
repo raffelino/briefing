@@ -1,0 +1,281 @@
+{
+  "date": "2026-11-20",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "QCon San Francisco 2026: The Future of Apache Iceberg",
+          "link": "https://www.infoq.com/news/2026/11/iceberg-v4-metadata/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Apache Iceberg V4 proposes a redesign of table metadata to improve scalability and support more frequent writes, alongside new capabilities for data management and schema evolution. Daniel Weeks, co-creator of Apache Iceberg and member of technical staff at Databricks, presented a session at QCon San Francisco on the fourth version of the Apache Iceberg open table format specification. By Renato Losio",
+          "published": "Fri, 20 Nov 2026 09:17:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "QCon San Francisco 2026: The Future of Apache Iceberg"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Googles Gemini kann bald Macs steuern: Was die KI für Nutzer erledigen soll",
+          "link": "https://t3n.de/news/google-gemini-mac-steuern-1774609/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google plant, seine KI auf Macs mit mehr Fertigkeiten auszustatten. Gemini kann künftig auch die Steuerung von macOS übernehmen. Warum das Unternehmen damit Apples Vorhaben zuvorkommt. weiterlesen auf t3n.de",
+          "published": "Fri, 20 Nov 2026 14:00:11 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "AWS Releases a Free Local Emulator of AWS Built Entirely by Agents",
+          "link": "https://www.infoq.com/news/2026/11/aws-emulator-local-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has released AWS Emulator, a free, CC0-licensed local stand-in for more than 200 of its services, generated from its public API models and aimed at the test loops of coding agents. AWS says agents wrote and maintain all of the code and publishes per-release fidelity scores. The docs say it does not evaluate IAM, and practitioners are split on trusting an emulator nobody reviewed. By Steef-Jan Wiggers",
+          "published": "Fri, 20 Nov 2026 06:53:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+          "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+          "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+          "published": "Thu, 19 Nov 2026 20:19:28 +0000",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Where should AI workloads run? Probably next to the data.",
+          "link": "https://thenewstack.io/ai-workloads-data-gravity/",
+          "summary": "AWS raised prices on EC2 Capacity Blocks, its reserved GPU capacity, by about 15% in January and about 20% in The post Where should AI workloads run? Probably next to the data. appeared first on The New Stack .",
+          "published": "Thu, 19 Nov 2026 16:30:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Microsoft Ignite 26: Azure wird agentischer und Windows rückt in die Cloud",
+          "link": "https://www.heise.de/news/Microsoft-Ignite-26-Azure-wird-agentischer-und-Windows-rueckt-in-die-Cloud-11529788.html",
+          "summary": "Agenten stehen im Mittelpunkt der Ignite 2026: Microsoft will Azure zur zentralen Plattform dafür ausbauen und stellt neue KI-Modelle vor.",
+          "published": "2026-11-18T15:54:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Googles Gemini kann bald Macs steuern: Was die KI für Nutzer erledigen soll",
+        "AWS Releases a Free Local Emulator of AWS Built Entirely by Agents",
+        "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": ".NET 11 : ASP.NET Core: Union Type Support, OpenAPI 3.2 by Default and Blazor AI Components",
+          "link": "https://www.infoq.com/news/2026/11/asp-net-11-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has released ASP.NET Core in .NET 11. The update adds C# union type support in JSON bodies, asynchronous validation for Minimal APIs, OpenAPI 3.2 by default, and SignalR authentication refresh. Blazor gains a CacheView component, client-side validation for static SSR forms, opt-in circuit pause for inactive tabs, and experimental AI components. Zstandard compression is on by default. By Almir Vuk",
+          "published": "Thu, 19 Nov 2026 11:27:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Java: RCE mit 64-mal dem „A“ und einem „=“",
+          "link": "https://www.heise.de/news/Java-RCE-mit-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-11528561.html",
+          "summary": "Die Sicherheitslücke Java4Shell erlaubt Remote Code Execution, trifft aber nur bestimmte Prozessoren. Das gilt auch für Java-Clients.",
+          "published": "2026-11-18T00:05:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Java4Shell: Gefährlicher Bug in Java",
+          "link": "https://www.heise.de/news/Java4Shell-Gefaehrlicher-Bug-in-Java-11528499.html",
+          "summary": "Oracles Patchday stiftet Verwirrung. Es gibt gleich elf Updates gegen Remote Code Execution in Java. Dabei ist auch das hochriskante Java4Shell.",
+          "published": "2026-11-17T20:13:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        ".NET 11 : ASP.NET Core: Union Type Support, OpenAPI 3.2 by Default and Blazor AI Components",
+        "Java: RCE mit 64-mal dem „A“ und einem „=“",
+        "Java4Shell: Gefährlicher Bug in Java"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Interview: Wie die Sicherheit von digitalen Gesundheitsanwendungen geprüft wird",
+          "link": "https://netzpolitik.org/2026/interview-wie-die-sicherheit-von-digitalen-gesundheitsanwendungen-geprueft-wird/",
+          "summary": "Digitale Gesundheitsanwendungen gibt es auf Rezept. – Alle Rechte vorbehalten: Hintergrund: IMAGO / Panthermedia, Arzt: impulsq Wer seine Symptome einer digitalen Gesundheitsanwendung anvertraut, will darauf vertrauen können, dass diese sensiblen Daten sicher sind. Doch wer prüft die IT-Sicherheit der Apps auf Rezept? Und wo hakt es bei vielen Herstellern? Das verraten zwei IT-Sicherheitsfachleute im Interview.",
+          "published": "Thu, 19 Nov 2026 08:11:25 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(1 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Interview: Wie die Sicherheit von digitalen Gesundheitsanwendungen geprüft wird"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Groundcover Investigations lets engineers steer AI SRE agents",
+          "link": "https://thenewstack.io/groundcover-ai-incident-investigations/",
+          "summary": "Groundcover, the eBPF-based observability startup, has introduced Investigations, giving agents and engineers one place to collaborate on incident response in The post Groundcover Investigations lets engineers steer AI SRE agents appeared first on The New Stack .",
+          "published": "Thu, 19 Nov 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(1 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Groundcover Investigations lets engineers steer AI SRE agents"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+          "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+          "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+          "published": "Thu, 19 Nov 2026 21:19:12 +0000",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Spielebranche: Xbox Series X und S sollen durch Linux-Technik schneller werden",
+          "link": "https://www.golem.de/news/spielebranche-xbox-series-x-und-s-sollen-durch-linux-technik-schneller-werden-2611-215458.html",
+          "summary": "Microsoft testet einen von Valve mitentwickelten Compiler, der bis zu 16 Prozent mehr Leistung ermöglichen soll. ( Xbox Series X , Microsoft )",
+          "published": "2026-11-20T12:45:10+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
+          "link": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
+          "summary": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contraband cellphones\" used to carry out crimes from prison. Jammers are generally banned under Section 333 of the Communications Act of 1934, though they're [&#8230;]",
+          "published": "2026-11-19T14:40:28-05:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(3 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+        "Spielebranche: Xbox Series X und S sollen durch Linux-Technik schneller werden",
+        "FCC greenlights rule allowing prisons to jam cellphone signals"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Google Donates Agent Substrate and gVisor to the CNCF to Secure AI Agents at Scale",
+          "link": "https://www.infoq.com/news/2026/11/google-substrate-gvisor-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google has announced it is donating Agent Substrate and gVisor to the Cloud Native Computing Foundation (CNCF), placing two important components of its AI agent infrastructure under vendor-neutral open-source governance. By Craig Risi",
+          "published": "Fri, 20 Nov 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "OpenAIs KI‑Agent versucht, Mails an Dritte weiterzuleiten – obwohl das Tool nur ein Dokument erstellen sollte",
+          "link": "https://t3n.de/news/openai-ki-agent-fitnessdokument-mails-weiterleiten-1774567/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "OpenAI hat einen erneuten Vorfall beim KI-Training zu vermelden. Demnach hat ein Agent bei einer vermeintlich einfachen Aufgabe plötzlich ganz andere Aktionen vorgenommen. Wie es dazu kommen konnte. weiterlesen auf t3n.de",
+          "published": "Fri, 20 Nov 2026 12:35:19 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: Modernising Retail at Scale: Architecting a Cloud‑to‑Edge Platform for a Global Enterprise",
+          "link": "https://www.infoq.com/presentations/tesco-enterprise-tech-transformation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Jayesh Bhayani discusses Tesco’s decade-long enterprise transformation from fragmented legacy systems to a unified cloud-edge platform. He explains how aligning system, talent, and process modernizations allowed Tesco to scale mission-critical retail operations to millions of customers, while sharing practical lessons on build vs. buy, cloud cost management, and preparing for agentic commerce. By Jayesh Bhayani",
+          "published": "Fri, 20 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Apple arbeitet an einem KI-Agenten für Macs: Was schon jetzt dazu bekannt ist",
+          "link": "https://t3n.de/news/apple-ki-agent-macs-1774546/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Apple will offenbar auf den Trend der KI-Agenten aufspringen. Laut einer Stellenausschreibung arbeitet der iPhone-Konzern daran, agentische Workflows auf dem Mac zu ermöglichen. Was dadurch schon jetzt zu Apples KI-Tool bekannt ist. weiterlesen auf t3n.de",
+          "published": "Fri, 20 Nov 2026 11:00:23 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Does your AI agent need an LLM to decide what to do next?",
+          "link": "https://thenewstack.io/aws-decider-models-agents/",
+          "summary": "Say &#8220;good morning&#8221; to an AI agent, and it might search its long-term memory before saying hello back. Somewhere in The post Does your AI agent need an LLM to decide what to do next? appeared first on The New Stack .",
+          "published": "Fri, 20 Nov 2026 01:37:32 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Google Donates Agent Substrate and gVisor to the CNCF to Secure AI Agents at Scale",
+        "OpenAIs KI‑Agent versucht, Mails an Dritte weiterzuleiten – obwohl das Tool nur ein Dokument erstellen sollte",
+        "Presentation: Modernising Retail at Scale: Architecting a Cloud‑to‑Edge Platform for a Global Enterprise"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Article: Building Reliability Into the Cloud: Observability as the Control Plane for Multi-Region Failover",
+          "link": "https://www.infoq.com/articles/observability-control-plane-failover/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloud SLAs promise uptime statistically, not absolutely. This article shows how to treat observability as a control plane that detects regional degradation, triggers automated failover, and confirms recovery rather than paging a human. Covers active-active architecture, DNS TTL pitfalls, composite Prometheus alerting, Route 53 weighted routing, and confirmation loops backed by a real S3 outage. By Saurabh Ahuja",
+          "published": "Fri, 20 Nov 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Article: Building Reliability Into the Cloud: Observability as the Control Plane for Multi-Region Failover"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Muse Charm: So viel soll Metas neues KI-Gadget kosten",
+          "link": "https://t3n.de/news/muse-charm-metas-neues-ki-gadget-preis-1774564/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit dem Muse Charm will der Facebook-Konzern ein eigenes KI-Gadget auf den Markt bringen. Jetzt sind erste Informationen zum Preis durchgesickert. weiterlesen auf t3n.de",
+          "published": "Fri, 20 Nov 2026 11:30:58 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Diese KI läuft auf einem alten SNES: So gut ist der Konsolen-Chatbot",
+          "link": "https://t3n.de/news/ki-auf-altem-snes-konsolen-chatbot-1774537/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Entwickler hat mit KI-Unterstützung ein Bastelprojekt realisiert. Er hat einen Chatbot auf eine alte SNES-Konsole gebracht. Wie gut das Tool auf der Hardware funktioniert – und welche Hürden es noch gibt. weiterlesen auf t3n.de",
+          "published": "Fri, 20 Nov 2026 10:00:34 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Gingen Nvidia-Chips heimlich nach China? Kalifornien nimmt Chip-Riesen nach Huang-Rücktritt ins Visier",
+          "link": "https://t3n.de/news/nvidia-chips-china-kalifornien-1774504/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Kontroverse um Jensen Huang ist für Nvidia mit dem Rücktritt des langjährigen Chefs noch lange nicht vorbei. Jetzt rollt die nächste Untersuchung auf den Chip-Konzern zu. weiterlesen auf t3n.de",
+          "published": "Fri, 20 Nov 2026 08:30:01 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Smart Locks: So wird deine Haustür digital – und das solltest du vor dem Kauf wissen",
+          "link": "https://t3n.de/news/smart-locks-so-wird-deine-haustuer-digital-und-das-solltest-du-vor-dem-kauf-wissen-1774377/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die eigene Haustür mit dem Smartphone oder per Fingerabdruck öffnen und das Schloss von unterwegs kontrollieren: Smarte Türschlösser bieten Möglichkeiten, die k weiterlesen auf t3n.de",
+          "published": "Fri, 20 Nov 2026 07:30:12 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Bevor die Eistorte auf den Bürgersteig stürzt: Wie Fluglotsen Lieferdrohnen koordinieren",
+          "link": "https://t3n.de/news/bevor-die-eistorte-auf-den-buergersteig-stuerzt-wie-fluglotsen-lieferdrohnen-koordinieren-1774446/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Zeitalter der Lebensmittellieferungen per Drohne braucht es entsprechendes Personal, um die Schwärme am Himmel zu ordnen. Trevor Wischnewsky gehört in Texas dazu. Was für seinen Job nötig ist. weiterlesen auf t3n.de",
+          "published": "Fri, 20 Nov 2026 06:30:20 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Muse Charm: So viel soll Metas neues KI-Gadget kosten",
+        "Diese KI läuft auf einem alten SNES: So gut ist der Konsolen-Chatbot",
+        "Gingen Nvidia-Chips heimlich nach China? Kalifornien nimmt Chip-Riesen nach Huang-Rücktritt ins Visier"
+      ]
+    }
+  ]
+}
