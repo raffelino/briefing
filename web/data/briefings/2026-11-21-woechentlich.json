@@ -1,0 +1,453 @@
+{
+  "date": "2026-11-21",
+  "mode": "woechentlich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "QCon San Francisco 2026: The Future of Apache Iceberg",
+          "link": "https://www.infoq.com/news/2026/11/iceberg-v4-metadata/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Apache Iceberg V4 proposes a redesign of table metadata to improve scalability and support more frequent writes, alongside new capabilities for data management and schema evolution. Daniel Weeks, co-creator of Apache Iceberg and member of technical staff at Databricks, presented a session at QCon San Francisco on the fourth version of the Apache Iceberg open table format specification. By Renato Losio",
+          "published": "Fri, 20 Nov 2026 09:17:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Anzeige: IT-Jobs in Administration, Data Engineering und Security",
+          "link": "https://www.golem.de/news/anzeige-it-jobs-in-administration-data-engineering-und-security-2611-215439.html",
+          "summary": "Ob IT-Security im Ministerium, Data Engineering im Rettungsdienst oder Systemadministration in Unternehmen - diese sechs Jobs bieten neue Perspektiven. ( Golem Karrierewelt , Unternehmenssoftware )",
+          "published": "2026-11-21T15:00:11+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(2 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "QCon San Francisco 2026: The Future of Apache Iceberg",
+        "Anzeige: IT-Jobs in Administration, Data Engineering und Security"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "How Google Traced GKE API Timeouts to a Linux Kernel TCP Bug",
+          "link": "https://www.infoq.com/news/2026/11/gke-kernel-network-bug/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google recently detailed how three interacting bugs across Google Kubernetes Engine (GKE), Private Service Connect, and the Linux kernel caused intermittent Kubernetes API connectivity failures, blocking around 800 developers from deploying to production. By Renato Losio",
+          "published": "Sat, 21 Nov 2026 09:44:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AWS Releases a Free Local Emulator of AWS Built Entirely by Agents",
+          "link": "https://www.infoq.com/news/2026/11/aws-emulator-local-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has released AWS Emulator, a free, CC0-licensed local stand-in for more than 200 of its services, generated from its public API models and aimed at the test loops of coding agents. AWS says agents wrote and maintain all of the code and publishes per-release fidelity scores. The docs say it does not evaluate IAM, and practitioners are split on trusting an emulator nobody reviewed. By Steef-Jan Wiggers",
+          "published": "Fri, 20 Nov 2026 06:53:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Where should AI workloads run? Probably next to the data.",
+          "link": "https://thenewstack.io/ai-workloads-data-gravity/",
+          "summary": "AWS raised prices on EC2 Capacity Blocks, its reserved GPU capacity, by about 15% in January and about 20% in The post Where should AI workloads run? Probably next to the data. appeared first on The New Stack .",
+          "published": "Thu, 19 Nov 2026 16:30:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "“The best escape room players that you’ve ever met”: What Red Hat’s AI architect really thinks about agents.",
+          "link": "https://thenewstack.io/openshell-ai-agent-security/",
+          "summary": "Last week at KubeCon + CloudNativeCon North America, a major gathering of the open-source and cloud-native communities, many speakers &#8212; The post &#8220;The best escape room players that you’ve ever met&#8221;: What Red Hat’s AI architect really thinks about agents. appeared first on The New Stack .",
+          "published": "Wed, 18 Nov 2026 20:25:18 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "OpenAI spent $1.2 million finding nearly 1,000 Linux security flaws. Sam Altman says this is just the beginning.",
+          "link": "https://thenewstack.io/openai-entire-ai-stack/",
+          "summary": "OpenAI spent approximately $1.2 million in API costs to generate working exploits for 948 Linux kernel vulnerabilities. At The New The post OpenAI spent $1.2 million finding nearly 1,000 Linux security flaws. Sam Altman says this is just the beginning. appeared first on The New Stack .",
+          "published": "Wed, 18 Nov 2026 18:17:50 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Angriffe auf Entra ID abwehren",
+          "link": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-11526116.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
+          "published": "2026-11-21T13:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Developer-Häppchen: Agenten überwachen sich mit openchamber gegenseitig",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Microsoft-Sicherheits-Scanner-Managed-Open-Shift-auf-Azure-11532884.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Auron, WordPress, MDASH, openchamber, Rust, Cloudflare und Azure.",
+          "published": "2026-11-21T08:17:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Developer-Häppchen: Agenten überwachen sich mit openchamber gegenseitig",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Microsoft-Sicherheits-Scanner-Managed-Open-Shift-auf-Azure-11532884.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Auron, WordPress, MDASH, openchamber, Rust, Cloudflare und Azure.",
+          "published": "2026-11-21T07:17:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(8 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "How Google Traced GKE API Timeouts to a Linux Kernel TCP Bug",
+        "AWS Releases a Free Local Emulator of AWS Built Entirely by Agents",
+        "Where should AI workloads run? Probably next to the data."
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": ".NET 11 : ASP.NET Core: Union Type Support, OpenAPI 3.2 by Default and Blazor AI Components",
+          "link": "https://www.infoq.com/news/2026/11/asp-net-11-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Microsoft has released ASP.NET Core in .NET 11. The update adds C# union type support in JSON bodies, asynchronous validation for Minimal APIs, OpenAPI 3.2 by default, and SignalR authentication refresh. Blazor gains a CacheView component, client-side validation for static SSR forms, opt-in circuit pause for inactive tabs, and experimental AI components. Zstandard compression is on by default. By Almir Vuk",
+          "published": "Thu, 19 Nov 2026 11:27:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        ".NET 11 : ASP.NET Core: Union Type Support, OpenAPI 3.2 by Default and Blazor AI Components"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Interview: Wie die Sicherheit von digitalen Gesundheitsanwendungen geprüft wird",
+          "link": "https://netzpolitik.org/2026/interview-wie-die-sicherheit-von-digitalen-gesundheitsanwendungen-geprueft-wird/",
+          "summary": "Digitale Gesundheitsanwendungen gibt es auf Rezept. – Alle Rechte vorbehalten: Hintergrund: IMAGO / Panthermedia, Arzt: impulsq Wer seine Symptome einer digitalen Gesundheitsanwendung anvertraut, will darauf vertrauen können, dass diese sensiblen Daten sicher sind. Doch wer prüft die IT-Sicherheit der Apps auf Rezept? Und wo hakt es bei vielen Herstellern? Das verraten zwei IT-Sicherheitsfachleute im Interview.",
+          "published": "Thu, 19 Nov 2026 08:11:25 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Sichere Softwareentwicklung – Schwachstellen erkennen und vermeiden",
+          "link": "https://www.heise.de/news/iX-Workshop-Sichere-Softwareentwicklung-Schwachstellen-erkennen-und-vermeiden-11516066.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Lernen Sie praxisnah, wie Sie Schwachstellen in Anwendungen gezielt vorbeugen und einen sicheren Entwicklungsprozess in Ihrem Unternehmen verankern.",
+          "published": "2026-11-21T10:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Bluetooth-Lücke: Angreifer konnten VWs abhören, orten und manipulieren",
+          "link": "https://www.golem.de/news/bluetooth-luecke-angreifer-konnten-vws-abhoeren-orten-und-manipulieren-2611-215483.html",
+          "summary": "Rund 16 Monate brauchte VW für ein Update gegen eine Bluetooth-Schwachstelle. Mehrere Hunderttausend Fahrzeuge sollen betroffen sein. ( Volkswagen ID. , Bluetooth )",
+          "published": "2026-11-20T17:33:04+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Interview: Wie die Sicherheit von digitalen Gesundheitsanwendungen geprüft wird",
+        "heise-Angebot: iX-Workshop: Sichere Softwareentwicklung – Schwachstellen erkennen und vermeiden",
+        "Bluetooth-Lücke: Angreifer konnten VWs abhören, orten und manipulieren"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Groundcover Investigations lets engineers steer AI SRE agents",
+          "link": "https://thenewstack.io/groundcover-ai-incident-investigations/",
+          "summary": "Groundcover, the eBPF-based observability startup, has introduced Investigations, giving agents and engineers one place to collaborate on incident response in The post Groundcover Investigations lets engineers steer AI SRE agents appeared first on The New Stack .",
+          "published": "Thu, 19 Nov 2026 14:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Pläne der Bundesregierung: Dutzende Organisationen warnen vor KI bei Migrationsverfahren",
+          "link": "https://netzpolitik.org/2026/plaene-der-bundesregierung-dutzende-organisationen-warnen-vor-ki-bei-migrationsverfahren/",
+          "summary": "Ohne Transparenz der KI-Systeme können sich Betroffene in Migrationsverfahren kaum wehren. (Symbolbild) – CC-BY 4.0 : Reihaneh Golpayegani Wer entscheidet künftig über Asylverfahren: Beamte oder Algorithmen? Der Gesetzentwurf der schwarz-roten Koalition steht in der Kritik. Es mangelt an Datenschutz, Evaluation und Transparenzpflichten, kritisieren Fachleute.",
+          "published": "Mon, 16 Nov 2026 16:02:12 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Bundeshaushalt: Kein Moos für Open Source",
+          "link": "https://netzpolitik.org/2026/bundeshaushalt-kein-moos-fuer-open-source/",
+          "summary": "Nur im Schneckentempo: Wie die Bundesregierung ihre ambitionierten Ziele für Open Source erreicht. – CC-BY-NC-ND 2.0 : slackware Keine Strategie, wenig Geld: Beim Thema Open Source lässt die Bundesregierung ihre Versprechen aus dem Koalitionsvertrag schleifen. Laut Fachleuten wird das besonders im Haushaltsentwurf 2027 deutlich.",
+          "published": "Mon, 16 Nov 2026 15:14:48 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Lieferkettensicherheit: Risiken in CI/CD-Pipelines minimieren",
+          "link": "https://www.heise.de/news/Lieferkettensicherheit-Risiken-in-CI-CD-Pipelines-minimieren-11533016.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Angreifer kapern zunehmend CI/CD-Pipelines. iX-Autor Fabian Deitelhoff erklärt im Interview, wie Teams GitHub Actions absichern.",
+          "published": "2026-11-20T15:50:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Lieferkettensicherheit: Risiken in CI/CD-Pipelines minimieren",
+          "link": "https://www.heise.de/news/Lieferkettensicherheit-Risiken-in-CI-CD-Pipelines-minimieren-11533016.html",
+          "summary": "Angreifer kapern zunehmend CI/CD-Pipelines. iX-Autor Fabian Deitelhoff erklärt im Interview, wie Teams GitHub Actions absichern.",
+          "published": "2026-11-20T14:50:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Digital Networks / Cyber Security Act: Telekom fordert Bundesregierung zum Widerstand gegen EU auf",
+          "link": "https://www.golem.de/news/digital-networks-cyber-security-act-telekom-fordert-bundesregierung-zum-widerstand-gegen-eu-auf-2611-215494.html",
+          "summary": "Die EU will Kupferleitungen abschalten und chinesische Technologieanbieter breitflächig ausschließen. Die Telekom hält das für rechtswidrig. ( Telekom , DSL )",
+          "published": "2026-11-20T18:51:06+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(6 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Groundcover Investigations lets engineers steer AI SRE agents",
+        "Pläne der Bundesregierung: Dutzende Organisationen warnen vor KI bei Migrationsverfahren",
+        "Bundeshaushalt: Kein Moos für Open Source"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+          "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+          "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+          "published": "Thu, 19 Nov 2026 21:19:12 +0000",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "S3 vs. ScyllaDB for tiny telemetry: What Red Canary learned the hard way",
+          "link": "https://thenewstack.io/scylladb-s3-tiny-telemetry/",
+          "summary": "At Red Canary, storing large amounts of small data is a big deal.&#160; Their Linux Endpoint Detection and Response (EDR) The post S3 vs. ScyllaDB for tiny telemetry: What Red Canary learned the hard way appeared first on The New Stack .",
+          "published": "Wed, 18 Nov 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Wir brauchen jetzt Deine Hilfe: Uns fehlen noch 477.000 Euro!",
+          "link": "https://netzpolitik.org/2026/wir-brauchen-jetzt-deine-hilfe-uns-fehlen-noch-477-000-euro/",
+          "summary": "Wir machen Arbeit, die sonst keiner macht. Dafür brauchen wir deine Unterstützung! Damit wir im kommenden Jahr weiter mit voller Kraft für den Erhalt von Grundrechten und der Demokratie schreiben können.",
+          "published": "Mon, 16 Nov 2026 21:13:40 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Winzig: XXRI OS setzt den Linux-Desktop auf 75-MByte-Diät",
+          "link": "https://www.heise.de/news/Mini-Linux-XXRI-OS-bringt-Dock-und-App-Store-auf-alte-32-Bit-PCs-11533280.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Wer im Keller noch ein Netbook mit Atom-CPU hortet, bekommt mit XXRI OS ein Spielzeug fürs Wochenende.",
+          "published": "2026-11-21T09:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Winzig: XXRI OS setzt den Linux-Desktop auf 75-MByte-Diät",
+          "link": "https://www.heise.de/news/Mini-Linux-XXRI-OS-bringt-Dock-und-App-Store-auf-alte-32-Bit-PCs-11533280.html",
+          "summary": "Wer im Keller noch ein Netbook mit Atom-CPU hortet, bekommt mit XXRI OS ein Spielzeug fürs Wochenende.",
+          "published": "2026-11-21T08:00:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+        "S3 vs. ScyllaDB for tiny telemetry: What Red Canary learned the hard way",
+        "Wir brauchen jetzt Deine Hilfe: Uns fehlen noch 477.000 Euro!"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Starker Start an der Börse: Wird Anthropic den Erfolgskurs halten können?",
+          "link": "https://t3n.de/news/starker-start-an-der-boerse-wird-anthropic-den-erfolgskurs-halten-koennen-1774672/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der Börsengang fiel in eine Zeit starker Verunsicherung. Nicht nur der abflauende KI-Boom löst in Anleger:innen Sorgen aus. Auch der Skandal um den ehemaligen Nvidia-CEO wirkt sich auf die gesamte Branche aus. weiterlesen auf t3n.de",
+          "published": "Sat, 21 Nov 2026 14:12:36 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Human in the Lead: Wie man KI-Agenten zähmt, ohne sie auszubremsen",
+          "link": "https://t3n.de/news/agentische-ki-human-in-the-lead-steuerung-1773694/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "War der Hugging-Face-Hack nur Schlamperei &#8211; oder haben wir es mit einer neuen Bedrohung zu tun? Oder lenkt beides tatsächlich von einer viel grundsätzlicheren Frage ab: Wie wird ein Fehler korrigiert, bevor er Schaden anrichtet? Wer das nicht weiß, sollte den Agenten besser gar nicht erst losschicken. weiterlesen auf t3n.de",
+          "published": "Sat, 21 Nov 2026 10:25:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Weiß ChatGPT zu viel? Wie die KI Informationen über dich speichert",
+          "link": "https://t3n.de/news/chatgpt-datenschutz-psychologisches-profil-studie-1769797/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer regelmäßig mit KI-Chatbots arbeitet, gibt im Laufe der Monate beiläufig viele Details aus dem eigenen Alltag preis. Was im Hintergrund mit diesen vertraulichen Eingaben geschieht, folgt jedoch einer eigenen Logik, die den wenigsten bekannt sein dürfte. weiterlesen auf t3n.de",
+          "published": "Sat, 21 Nov 2026 09:35:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI-Kosten steigen massiv: Warum Goldman Sachs jetzt die Bremse zieht",
+          "link": "https://t3n.de/news/goldman-sachs-ki-kosten-bremse-1771271/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Goldman Sachs zieht bei KI-Tools die Zügel an: Claude Code und GitHub bleiben künftig Entwicklern vorbehalten. Was das über den KI-Boom an der Wall Street verrät. weiterlesen auf t3n.de",
+          "published": "Sat, 21 Nov 2026 08:30:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "“We are not querying like humans anymore”: OpenSearch’s Bianca Lewis on why AI agent mistakes look like successes",
+          "link": "https://thenewstack.io/opensearch-ai-agent-observability/",
+          "summary": "This situation is more common than one might think: An AI agent calls the wrong API, gets a perfectly good The post “We are not querying like humans anymore”: OpenSearch’s Bianca Lewis on why AI agent mistakes look like successes appeared first on The New Stack .",
+          "published": "Fri, 20 Nov 2026 19:37:08 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Your AI agent’s “memory problem” may be something else",
+          "link": "https://thenewstack.io/ai-agent-memory-boundaries/",
+          "summary": "An agent may need additional context to continue when a user returns the next day. A workflow may resume from The post Your AI agent’s “memory problem” may be something else appeared first on The New Stack .",
+          "published": "Fri, 20 Nov 2026 17:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Anthropic says Claude writes and reviews 90% of its team’s code. The catch is how it checks the work.",
+          "link": "https://thenewstack.io/anthropic-claude-code-verification/",
+          "summary": "Anthropic says Claude writes and reviews roughly 90% of the code produced by the team building Claude Code, and the The post Anthropic says Claude writes and reviews 90% of its team&#8217;s code. The catch is how it checks the work. appeared first on The New Stack .",
+          "published": "Fri, 20 Nov 2026 16:41:28 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Kids Act: EU-Datenschutzbehörde warnt vor Alterskontrollen",
+          "link": "https://netzpolitik.org/2026/kids-act-eu-datenschutzbehoerde-warnt-vor-alterskontrollen/",
+          "summary": "Wie streng, wie mild soll der Kids Act sein, um junge Menschen zu schützen? (Symbolbild) – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Julie Ricard; Bearbeitung: netzpolitik.org Nicht erforderlich, nicht ausgereift: Der Europäische Datenschutzbeauftragte kritisiert die von der EU-Kommission geplanten Alterskontrollen im Netz. Das sind die zehn wichtigsten Kritikpunkte.",
+          "published": "Fri, 20 Nov 2026 15:52:15 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(8 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Starker Start an der Börse: Wird Anthropic den Erfolgskurs halten können?",
+        "Human in the Lead: Wie man KI-Agenten zähmt, ohne sie auszubremsen",
+        "Weiß ChatGPT zu viel? Wie die KI Informationen über dich speichert"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Proposed GDPR changes: Workplace Data Abuses Could Soon Be Harder to Uncover",
+          "link": "https://netzpolitik.org/2026/proposed-gdpr-changes-workplace-data-abuses-could-soon-be-harder-to-uncover/",
+          "summary": "Uber Drivers used GDPR data access requests to defend workers' rights – Alle Rechte vorbehalten: NurPhoto via Imago The EU commission has proposed the Digital Omnibus without conducting a full impact assessment. A study from the European Trade Union Institute examines its potential consequences. The proposal weakens the data protection rights of all workers in the EU, authors say.",
+          "published": "Tue, 17 Nov 2026 14:38:49 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+          "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+          "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching [&#8230;]",
+          "published": "2026-11-21T09:00:00-05:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(2 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Proposed GDPR changes: Workplace Data Abuses Could Soon Be Harder to Uncover",
+        "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku"
+      ]
+    },
+    {
+      "id": "observability",
+      "name": "Observability",
+      "items": [
+        {
+          "title": "Grafana 13.3 Adds Shared Dashboard Variables and Notebooks",
+          "link": "https://www.infoq.com/news/2026/11/grafana-13-3-shared-variables/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Grafana 13.3 introduces shared variables across dashboards and adds Notebooks to record investigations. Both features are in public preview and require feature toggles for self-managed installations. By Mark Silvester",
+          "published": "Sat, 21 Nov 2026 14:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Article: Building Reliability Into the Cloud: Observability as the Control Plane for Multi-Region Failover",
+          "link": "https://www.infoq.com/articles/observability-control-plane-failover/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloud SLAs promise uptime statistically, not absolutely. This article shows how to treat observability as a control plane that detects regional degradation, triggers automated failover, and confirms recovery rather than paging a human. Covers active-active architecture, DNS TTL pitfalls, composite Prometheus alerting, Route 53 weighted routing, and confirmation loops backed by a real S3 outage. By Saurabh Ahuja",
+          "published": "Fri, 20 Nov 2026 09:00:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(2 Beitraege zu Observability im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Grafana 13.3 Adds Shared Dashboard Variables and Notebooks",
+        "Article: Building Reliability Into the Cloud: Observability as the Control Plane for Multi-Region Failover"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Wenn Mitarbeiter mehr wissen als der Chef: So beeinflusst KI die Führungsposition",
+          "link": "https://t3n.de/news/ki-fuehrung-mitarbeiter-wissen-chef-1772449/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wirtschaftspsychologe Ali Ergün forscht dazu, wie KI die Rollen von Führungskräften und Mitarbeitenden zukünftig verändern wird. Warum Chef:innen zukünftig ihr weiterlesen auf t3n.de",
+          "published": "Sat, 21 Nov 2026 14:00:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "5 Minuten Ladezeit: BYD präsentiert Ladestation mit Roboter-Technik",
+          "link": "https://t3n.de/news/byd-schnellladestation-roboter-e-autos-1773401/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "BYD stellt eine Ladestation für Elektrofahrzeuge vor, die per Roboterarme E-Autos innerhalb von fünf Minuten mit Solarenergie laden soll. weiterlesen auf t3n.de",
+          "published": "Sat, 21 Nov 2026 13:05:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Fritzbox-Update-Check: Wie lange wird dein Router noch unterstützt?",
+          "link": "https://t3n.de/news/fritzbox-support-updates-sicherheits-check-1771148/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Regelmäßig schiebt Fritz Updates und Laborversionen mit neuen Funktionen für Fritzboxen und -Repeater heraus. Doch wie lange wird der eigene Router zu Hause noch mit Aktualisierungen versorgt? Darüber gibt eine Tabelle des Herstellers Aufschluss. weiterlesen auf t3n.de",
+          "published": "Sat, 21 Nov 2026 12:15:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "WhatsApp-Backup ohne Google Drive: So sicherst du deine Chats künftig",
+          "link": "https://t3n.de/news/whatsapp-backup-ohne-google-drive-1773896/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Whatsapp arbeitet an einer Funktion, mit der Android-Nutzer:innen ihren Chatverlauf auf den Servern von Whatsapp sichern können. Ein wenig Speicher gibt es sogar gratis. weiterlesen auf t3n.de",
+          "published": "Sat, 21 Nov 2026 11:50:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Googlebooks im Test: Lohnt sich der Kauf wirklich?",
+          "link": "https://t3n.de/news/googlebooks-test-review-1773419/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit teurer Hardware, viel KI und nahtloser Android-Integration will Google Kunden die Googlebooks schmackhaft machen. Für wen werden die Geräte interessant und weiterlesen auf t3n.de",
+          "published": "Sat, 21 Nov 2026 10:45:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Zurück zum Kabel: Wie sich die neuen Bose-Kopfhörer im Alltag schlagen",
+          "link": "https://t3n.de/news/bose-kabelgebundene-kopfhoerer-test-1773306/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Kabelgebundene In-Ears sind wieder im Trend. Aber wie ist das so, die Airpods beiseite zu legen und wieder über die Strippe Musik und Podcasts zu hören? Unser Autor hat es mit Boses kabelgebundenen Noise-Cancelling-Earbuds ausprobiert. weiterlesen auf t3n.de",
+          "published": "Sat, 21 Nov 2026 10:10:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KI vs. Klimaziele: Warum Rechenzentren zum Problem für das Stromnetz werden",
+          "link": "https://t3n.de/news/rechenzentren-stromverbrauch-harvard-studie-1773938/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der KI-Boom und der damit verbundene Ausbau von Rechenzentren sorgen aufgrund des hohen Strom- und Wasserverbrauchs in den USA zunehmend für Gegenwind. Dank einer neuen Harvard-Studie dürften sich Kritiker:innen bestätigt sehen. weiterlesen auf t3n.de",
+          "published": "Sat, 21 Nov 2026 09:50:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "KW 47: Die Woche, in der wir Dich brauchen",
+          "link": "https://netzpolitik.org/2026/kw-47-die-woche-in-der-wir-dich-brauchen/",
+          "summary": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 47. Kalenderwoche geht zu Ende. Wir haben 16 neue Texte mit insgesamt 142.299 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+          "published": "Sat, 21 Nov 2026 06:30:35 +0000",
+          "source": "netzpolitik.org"
+        }
+      ],
+      "summary": "(8 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Wenn Mitarbeiter mehr wissen als der Chef: So beeinflusst KI die Führungsposition",
+        "5 Minuten Ladezeit: BYD präsentiert Ladestation mit Roboter-Technik",
+        "Fritzbox-Update-Check: Wie lange wird dein Router noch unterstützt?"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+          "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+          "published": "Fri, 20 Nov 2026 21:47:10 +0000",
+          "source": "Ars Technica"
+        }
+      ],
+      "summary": "(1 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers"
+      ]
+    }
+  ]
+}
