@@ -1,0 +1,272 @@
+{
+  "date": "2026-11-23",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Tri-screen portable monitors aren’t for the faint of heart",
+          "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
+          "summary": "Three extra screens boost multitasking but can distract and overwhelm.",
+          "published": "Mon, 23 Nov 2026 12:15:16 +0000",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Kommentar: Den Notbetrieb übt man nicht erst im Notfall",
+          "link": "https://www.heise.de/meinung/Kommentar-Weniger-Klumpenrisiko-bitte-ohne-Over-Engineering-11534656.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Zwei Anbieter sind noch kein Plan B. Benjamin Pfister erklärt, warum gemeinsame Abhängigkeiten auch den Notbetrieb gefährden.",
+          "published": "2026-11-23T13:26:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Developer-Häppchen: Agenten überwachen sich mit openchamber gegenseitig",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Microsoft-Sicherheits-Scanner-Managed-Open-Shift-auf-Azure-11532884.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Auron, WordPress, MDASH, openchamber, Rust, Cloudflare und Azure.",
+          "published": "2026-11-21T07:17:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Gaming: Anthropic-Chef sah Games als Mittel gegen KI-Unruhen",
+          "link": "https://www.golem.de/news/gaming-anthropic-chef-sah-games-als-mittel-gegen-ki-unruhen-2611-215529.html",
+          "summary": "Dario Amodei hat Computerspiele als Mittel gegen gesellschaftliche Konflikte durch KI-Arbeitslosigkeit ins Gespräch gebracht. ( Anthropic , KI )",
+          "published": "2026-11-23T12:15:10+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(4 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Tri-screen portable monitors aren’t for the faint of heart",
+        "Kommentar: Den Notbetrieb übt man nicht erst im Notfall",
+        "Developer-Häppchen: Agenten überwachen sich mit openchamber gegenseitig"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Claude Code Adds Experimental Code Mode to Orchestrate Tool Calls with JavaScript",
+          "link": "https://www.infoq.com/news/2026/11/claude-code-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Anthropic's experimental Code Mode lets Claude Code write JavaScript that chains, parallelizes, and filters Bash, Read, and Edit calls, with changes to how auto mode and hooks review those calls. By Daniel Dominguez",
+          "published": "Mon, 23 Nov 2026 12:17:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Claude Code Adds Experimental Code Mode to Orchestrate Tool Calls with JavaScript"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Cybersicherheit: 23 Begriffe von Phishing bis Zero-Day erklärt",
+          "link": "https://t3n.de/news/cybersicherheit-glossar-1707854/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Von Phishing-Mails im privaten Postfach bis zu Ransomware-Attacken auf Krankenhäuser und öffentliche Verwaltungen: Cyber-Sicherheit betrifft uns alle. Wir erklären die wichtigsten Begriffe. weiterlesen auf t3n.de",
+          "published": "Mon, 23 Nov 2026 14:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Upload2Shell“: Ghostscript-Lücke betrifft viele Systeme",
+          "link": "https://www.heise.de/news/Upload2Shell-Ghostscript-Luecke-betrifft-viele-Systeme-11534768.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine Schwachstelle in Ghostscript namens „Upload2Shell“ gefährdet diverse Betriebssysteme, Programme und Dienste im Netz.",
+          "published": "2026-11-23T16:03:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: Weiterbildung: IT-Sicherheit in Produktionsanlagen von der Hochschule Hannover",
+          "link": "https://www.heise.de/news/Weiterbildung-IT-Sicherheit-in-Produktionsanlagen-von-der-Hochschule-Hannover-11515706.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Kurs vermittelt Grundlagen der IT- und OT-Security sowie Kenntnisse zu geltenden Standards und Normen für ein sicheres Anlagendesign.",
+          "published": "2026-11-23T10:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop IT-Sicherheit: Angriffstechniken verstehen und erfolgreich abwehren",
+          "link": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Angriffstechniken-verstehen-und-erfolgreich-abwehren-11526142.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Analysieren Sie aktuelle Angriffstechniken mit und ohne KI, um die Wirksamkeit Ihrer Schutzmaßnahmen und die Verletzlichkeit Ihrer IT einzuschätzen.",
+          "published": "2026-11-23T08:00:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(4 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Cybersicherheit: 23 Begriffe von Phishing bis Zero-Day erklärt",
+        "„Upload2Shell“: Ghostscript-Lücke betrifft viele Systeme",
+        "heise-Angebot: Weiterbildung: IT-Sicherheit in Produktionsanlagen von der Hochschule Hannover"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Lieferkettensicherheit: Risiken in CI/CD-Pipelines minimieren",
+          "link": "https://www.heise.de/news/Lieferkettensicherheit-Risiken-in-CI-CD-Pipelines-minimieren-11533016.html",
+          "summary": "Angreifer kapern zunehmend CI/CD-Pipelines. iX-Autor Fabian Deitelhoff erklärt im Interview, wie Teams GitHub Actions absichern.",
+          "published": "2026-11-20T14:50:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Lieferkettensicherheit: Risiken in CI/CD-Pipelines minimieren"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Winzig: XXRI OS setzt den Linux-Desktop auf 75-MByte-Diät",
+          "link": "https://www.heise.de/news/Mini-Linux-XXRI-OS-bringt-Dock-und-App-Store-auf-alte-32-Bit-PCs-11533280.html",
+          "summary": "Wer im Keller noch ein Netbook mit Atom-CPU hortet, bekommt mit XXRI OS ein Spielzeug fürs Wochenende.",
+          "published": "2026-11-21T08:00:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "EU-Digitalreform: Neuer Bundesdatenschützer will Datenhändler strenger regulieren",
+          "link": "https://www.golem.de/news/eu-digitalreform-neuer-bundesdatenschuetzer-will-datenhaendler-strenger-regulieren-2611-215210.html",
+          "summary": "Moritz Hennemann will die DSGVO reformieren, Bürokratie abbauen und klarere Regeln für KI schaffen. Auch die ständigen Cookie-Banner sollen weg. Ein Interview von Ulrich Hottelet ( Datenschutz , KI )",
+          "published": "2026-11-23T12:00:01+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Anzeige: American Express Platinum Card - Luxus oder gutes Investment?",
+          "link": "https://www.golem.de/news/anzeige-american-express-platinum-card-luxus-oder-gutes-investment-2611-215368.html",
+          "summary": "Flughafen-Lounges, Reiseversicherungen und jährliche Guthaben: Die American Express Platinum Card bietet zahlreiche Extras. Doch welche Leistungen sind wirklich relevant und wann können sie die jährlichen Kosten von 720 Euro ausgleichen? ( Wirtschaft )",
+          "published": "2026-11-23T09:00:13+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Winzig: XXRI OS setzt den Linux-Desktop auf 75-MByte-Diät",
+        "EU-Digitalreform: Neuer Bundesdatenschützer will Datenhändler strenger regulieren",
+        "Anzeige: American Express Platinum Card - Luxus oder gutes Investment?"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Netflix at QConSF 2026: Retrofitting the SDLC for AI Coding Agents",
+          "link": "https://www.infoq.com/news/2026/11/netflix-sdlc-ai-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "At QCon San Francisco 2026, Mark Khuzam of Netflix explained how the Commerce team retrofitted its SDLC so AI coding agents and engineers could ship together. The team wrote 45 architecture decision records for people and agents, added a review agent that posts only verified blockers, and serves per-domain GraphRAG context through a single MCP tool. By Andrew Hoblitzell",
+          "published": "Mon, 23 Nov 2026 14:58:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+          "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+          "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+          "published": "Mon, 23 Nov 2026 12:00:00 +0000",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Podcast: Simulation Can Tell You What Your Agents are Actually Doing: A Conversation with Zhou Yu",
+          "link": "https://www.infoq.com/podcasts/simulation-agents-actually-doing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Michael Stiefel spoke to Zhou Yu about using dynamic simulations to evaluate AI agents. One particular focus was conversational agents where actions depend on prior responses, and the non-deterministic nation of LLMs means you cannot rely on static, reference-based benchmarks. You need to test them using dynamic simulations that incorporate different personas, goals, and corner cases. By Zhou Yu",
+          "published": "Mon, 23 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "QCon San Francisco 2026: The Harness Is the New Operating System",
+          "link": "https://www.infoq.com/news/2026/11/harness-new-operating-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "At QCon San Francisco 2026, Mad Labs founder and CEO Manju Rajashekhar opened the conference arguing that the harness around an AI model, rather than the model itself, decides what an agent can do and how safely it does it. The keynote mapped the parts of a harness, including context, tools, state, permissions and feedback loops, onto jobs that operating systems already perform. By Andrew Hoblitzell",
+          "published": "Sun, 22 Nov 2026 22:44:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "GPT-6.2 Astra vs. Claude Fable 5.2: Astra’s launch got mixed reviews, but it tested well here",
+          "link": "https://thenewstack.io/gpt-6-2-astra-vs-claude-fable-5-2/",
+          "summary": "When I compared Anthropic’s Fable 5.2 vs. OpenAI’s GPT-6 Astra last week, Fable 5.2 was slightly more accurate (149 points The post GPT-6.2 Astra vs. Claude Fable 5.2: Astra’s launch got mixed reviews, but it tested well here appeared first on The New Stack .",
+          "published": "Sun, 22 Nov 2026 15:00:00 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Netflix at QConSF 2026: Retrofitting the SDLC for AI Coding Agents",
+        "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+        "Podcast: Simulation Can Tell You What Your Agents are Actually Doing: A Conversation with Zhou Yu"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Große KI-Modelle auf mehreren Windows-11-PCs: Microsoft bringt USB4-Vernetzung",
+          "link": "https://www.heise.de/news/Grosse-KI-Modelle-auf-mehreren-Windows-11-PCs-Microsoft-bringt-USB4-Vernetzung-11534674.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Eine RDMA-Erweiterung für die USB4-Vernetzungsfunktion P2P ermöglicht es, KI-Modelle auf mehrere Windows-Rechner zu verteilen. Apple-Macs können das per TB5.",
+          "published": "2026-11-23T15:45:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Große KI-Modelle auf mehreren Windows-11-PCs: Microsoft bringt USB4-Vernetzung",
+          "link": "https://www.heise.de/news/Grosse-KI-Modelle-auf-mehreren-Windows-11-PCs-Microsoft-bringt-USB4-Vernetzung-11534674.html",
+          "summary": "Eine RDMA-Erweiterung für die USB4-Vernetzungsfunktion P2P ermöglicht es, KI-Modelle auf mehrere Windows-Rechner zu verteilen. Apple-Macs können das per TB5.",
+          "published": "2026-11-23T14:45:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Große KI-Modelle auf mehreren Windows-11-PCs: Microsoft bringt USB4-Vernetzung",
+        "Große KI-Modelle auf mehreren Windows-11-PCs: Microsoft bringt USB4-Vernetzung"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
+          "link": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
+          "summary": "COP31 ended without a consensus deal for the first time since 2009.",
+          "published": "Mon, 23 Nov 2026 15:23:26 +0000",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen",
+          "link": "https://netzpolitik.org/2026/kuenstliche-intelligenz-wie-ki-assistenten-verschluesselte-messenger-unsicher-machen/",
+          "summary": "Wenn KI-Assistenten Chats mitlesen, kann niemand mehr für die Privatsphäre dieser Chats garantieren. (Symbolbild) – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Claudio Schwarz Einmal mehr warnt der Signal Messenger vor dem Zugriff von KI-Assistenten auf eigentlich private und verschlüsselte Kommunikation. Der Messenger führt deswegen neue Sicherheitsmaßnahmen ein. Das Problem ist aber grundsätzlicher.",
+          "published": "Mon, 23 Nov 2026 15:08:04 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Smartphone in der Prüfung: Mit dieser Methode ließ Südkorea Schummler auffliegen",
+          "link": "https://t3n.de/news/smartphone-in-der-pruefung-mit-dieser-methode-liess-suedkorea-schummler-auffliegen-1774868/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bei der landesweiten Hochschulaufnahmeprüfung in Südkorea soll es keinen Raum für Schummler geben. Um Betrüger zu entlarven, die heimlich Smartphones nutzen wollten, hatte sich das Bildungsministerium deshalb zuvor etwas ausgedacht. weiterlesen auf t3n.de",
+          "published": "Mon, 23 Nov 2026 16:00:56 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "„Man ist als Sicherheitsnetz da“: Was der Job als Fluglotse für Lieferdrohnen mit sich bringt",
+          "link": "https://t3n.de/news/sicherheitsnetz-job-fluglotse-lieferdrohne-1774446/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Zeitalter der Lebensmittellieferungen per Drohne braucht es entsprechendes Personal, um die Schwärme am Himmel zu ordnen. Trevor Wischnewsky gehört in Texas dazu. Was für seinen Job nötig ist. weiterlesen auf t3n.de",
+          "published": "Mon, 23 Nov 2026 15:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Überraschende Rückkehr: Jensen Huang wird wieder Nvidia-Chef",
+          "link": "https://t3n.de/news/nvidia-jensen-huang-rueckkehr-1774918/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Jensen Huang war das Gesicht von Nvidia &#8211; und soll es jetzt wieder sein: Noch vergangene Woche hieß es, dass der Mitbegründer nicht zum Chip-Konzern zurückkomme. Nun folgt die Kehrtwende. weiterlesen auf t3n.de",
+          "published": "Mon, 23 Nov 2026 15:42:16 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "COP31 ends in failure as countries split over fossil fuels, climate finance",
+        "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen",
+        "Smartphone in der Prüfung: Mit dieser Methode ließ Südkorea Schummler auffliegen"
+      ]
+    }
+  ]
+}
