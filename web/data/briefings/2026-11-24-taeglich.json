@@ -1,0 +1,350 @@
+{
+  "date": "2026-11-24",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "QCon San Francisco 2026: Lessons from Building a $100M Product in Six Weeks at OpenAI",
+          "link": "https://www.infoq.com/news/2026/11/qcon-sf-openai-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "At QCon San Francisco 2026, OpenAI's Brian Yang described building the ChatGPT ads product with Codex agents and no human-written code. He outlined layered testing, sandboxes, and batched pull request reviews, and noted failure modes such as code \"slop\" and unsafe agent actions. He advised gradual adoption and framed engineers as managers of agents. By Daniel Curtis",
+          "published": "Tue, 24 Nov 2026 06:32:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AWS launches 5 new open decision models for AI agents",
+          "link": "https://thenewstack.io/aws-strands-decider-v2/",
+          "summary": "AWS on Monday launched Strands Decider v2, a family of five open decision models. The release comes only seven weeks The post AWS launches 5 new open decision models for AI agents appeared first on The New Stack .",
+          "published": "Mon, 23 Nov 2026 18:00:00 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Tri-screen portable monitors aren’t for the faint of heart",
+          "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
+          "summary": "Three extra screens boost multitasking but can distract and overwhelm.",
+          "published": "Mon, 23 Nov 2026 12:15:16 +0000",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Asynchrone Programmierung – Teil 5: Nebenläufigkeit effizient mit Rust und Tokio",
+          "link": "https://www.heise.de/hintergrund/Asynchrone-Programmierung-Teil-5-Nebenlaeufigkeit-effizient-mit-Rust-und-Tokio-11530471.html",
+          "summary": "Rust bietet mit der Bibliothek Tokio sichere asynchrone Funktionen, die sich gegenüber anderen Sprachen durch schnelle Laufzeiten auszeichnet.",
+          "published": "2026-11-24T07:38:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Developer-Häppchen: Agenten überwachen sich mit openchamber gegenseitig",
+          "link": "https://www.heise.de/news/Developer-Haeppchen-Microsoft-Sicherheits-Scanner-Managed-Open-Shift-auf-Azure-11532884.html",
+          "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Auron, WordPress, MDASH, openchamber, Rust, Cloudflare und Azure.",
+          "published": "2026-11-21T07:17:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "QCon San Francisco 2026: Lessons from Building a $100M Product in Six Weeks at OpenAI",
+        "AWS launches 5 new open decision models for AI agents",
+        "Tri-screen portable monitors aren’t for the faint of heart"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Java News Roundup: Java4Shell, Oracle CSPUs, OpenJDK, Azul Payara, BellSoft, Helidon, LangChain4j",
+          "link": "https://www.infoq.com/news/2026/11/java-news-roundup-nov16-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "This week's Java roundup for November 16th, 2026, features news highlighting: the Java4Shell RCE vulnerability; Oracle CSPUs; Lazy Constants targeted for JDK 28; the November 2026 edition of Azul Payara; point releases of Java Operator SDK, LangChain4j and Micrometer; maintenance releases of Liberica JDK and Helidon; and second release candidates of Hibernate Reactive. By Michael Redlich",
+          "published": "Mon, 23 Nov 2026 15:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Claude Code Adds Experimental Code Mode to Orchestrate Tool Calls with JavaScript",
+          "link": "https://www.infoq.com/news/2026/11/claude-code-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Anthropic's experimental Code Mode lets Claude Code write JavaScript that chains, parallelizes, and filters Bash, Read, and Edit calls, with changes to how auto mode and hooks review those calls. By Daniel Dominguez",
+          "published": "Mon, 23 Nov 2026 12:17:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise+ | Interview mit Scott Sellers: Die Zukunft von KI-Anwendungen heißt Java",
+          "link": "https://www.heise.de/hintergrund/Interview-mit-Scott-Sellers-Die-Zukunft-von-KI-Anwendungen-heisst-Java-11533136.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "JavaSPEKTRUM sprach mit Scott Sellers, CEO und Co-Founder von Azul über die Rolle von Java bei der Zukunft von KI. Das Interview führe Michael Stal in München.",
+          "published": "2026-11-24T16:15:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Zahlreiche Sicherheitslücken betreffen Komponenten des Java-Ökosystems Spring",
+          "link": "https://www.heise.de/news/Zahlreiche-Sicherheitsluecken-betreffen-Komponenten-des-Java-Oekosystems-Spring-11534890.html",
+          "summary": "Wichtige Sicherheitsupdates schließen unter anderem Lücken in Spring AI, Spring Framework und Spring Security.",
+          "published": "2026-11-23T16:07:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(4 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Java News Roundup: Java4Shell, Oracle CSPUs, OpenJDK, Azul Payara, BellSoft, Helidon, LangChain4j",
+        "Claude Code Adds Experimental Code Mode to Orchestrate Tool Calls with JavaScript",
+        "heise+ | Interview mit Scott Sellers: Die Zukunft von KI-Anwendungen heißt Java"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Datenleck bei Cleverbridge: Kreditkartendaten abgegriffen",
+          "link": "https://www.heise.de/news/Datenleck-bei-Cleverbridge-Kreditkartendaten-abgegriffen-11535956.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Der Zahlungsdienstleister Cleverbridge räumt ein, dass Anfang November Angreifer sensible Daten abgegriffen haben.",
+          "published": "2026-11-24T12:17:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Netbeat: Hoster setzt nach Cyberangriff Passwörter seiner Kundschaft zurück",
+          "link": "https://www.golem.de/news/cyberangriff-auf-netbeat-hoster-setzt-passwoerter-seiner-kundschaft-zurueck-2611-215561.html",
+          "summary": "Der Hoster Netbeat hat unbefugte Zugriffe auf seine Systeme festgestellt. Dabei könnten etwa Zugangsdaten und API-Schlüssel abgeflossen sein. ( Datenleck , API )",
+          "published": "2026-11-24T08:43:02+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "Anzeige: IT-Sicherheit im Betrieb von Zugängen bis zur Erstreaktion",
+          "link": "https://www.golem.de/news/anzeige-it-sicherheit-im-betrieb-von-zugaengen-bis-zur-erstreaktion-2611-215560.html",
+          "summary": "Wer hat Zugriff, welcher Patch ist dringend und was zählt im Ernstfall? Die Workshops der Golem Karrierewelt geben Einblicke. In der Black Week mit 20 Prozent Rabatt. ( Golem Karrierewelt , Server-Applikationen )",
+          "published": "2026-11-24T07:15:05+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Datenleck bei Cleverbridge: Kreditkartendaten abgegriffen",
+        "Netbeat: Hoster setzt nach Cyberangriff Passwörter seiner Kundschaft zurück",
+        "Anzeige: IT-Sicherheit im Betrieb von Zugängen bis zur Erstreaktion"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Article: Engineering Around Non-Determinism: Evals, Grounding, and Release Gates for AI-Drafted Suspicious Reports",
+          "link": "https://www.infoq.com/articles/llm-agent-architecture-evals-grounding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Moving GenAI into high-stakes production requires treating non-determinism as an engineering problem. This architectural blueprint shows engineering leaders and architects how to build trustworthy agentic workflows using knowledge graphs, dual-layer eval judges, CI/CD release gates, and regression testing against golden datasets to automate drafting while maintaining zero-hallucination compliance. By Ritesh Modi, Sasidhar Gudala",
+          "published": "Tue, 24 Nov 2026 09:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Überlebensrekord: Leber blieb sieben Wochen außerhalb des Körpers fit",
+          "link": "https://t3n.de/news/ueberlebensrekord-leber-blieb-sieben-wochen-ausserhalb-des-koerpers-fit-1774809/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Neue Versorgungsmaschinen für Spenderorgane erweitern das Zeitfenser für Transplantationen deutlich. Ein australisches Team konnte damit bei einer Leber einen n weiterlesen auf t3n.de",
+          "published": "Tue, 24 Nov 2026 07:30:44 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Lieferkettensicherheit: Risiken in CI/CD-Pipelines minimieren",
+          "link": "https://www.heise.de/news/Lieferkettensicherheit-Risiken-in-CI-CD-Pipelines-minimieren-11533016.html",
+          "summary": "Angreifer kapern zunehmend CI/CD-Pipelines. iX-Autor Fabian Deitelhoff erklärt im Interview, wie Teams GitHub Actions absichern.",
+          "published": "2026-11-20T14:50:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Article: Engineering Around Non-Determinism: Evals, Grounding, and Release Gates for AI-Drafted Suspicious Reports",
+        "Überlebensrekord: Leber blieb sieben Wochen außerhalb des Körpers fit",
+        "Lieferkettensicherheit: Risiken in CI/CD-Pipelines minimieren"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve",
+          "link": "https://www.infoq.com/news/2026/11/cncf-vm-ai-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "New research from the Cloud Native Computing Foundation (CNCF) and Linux Foundation Research finds that VMs host an average of 53% of production applications, while emerging AI and agentic workloads are creating additional demand for virtualisation, particularly where stronger execution isolation is required. By Craig Risi",
+          "published": "Tue, 24 Nov 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "JEP 545 Moves ZGC Memory Preparation off the Startup Path in JDK 28",
+          "link": "https://www.infoq.com/news/2026/11/jep-545-jdk-28/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "JEP 545, Faster Startup and Warmup with ZGC, has been integrated into JDK 28, moving heap memory preparation onto concurrent worker threads. ZGC now pre-touches memory as it expands and upgrades small pages to large ones on Linux 6.1 and later, but the 2 MB initial heap behind the JEP's 38% startup and 90% warmup gains requires the adaptive heap sizing flag from JEP 546, which is off by default. By A N M Bazlur Rahman",
+          "published": "Mon, 23 Nov 2026 15:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Von Grund auf neu: Ladybird fordert das Browser-Trio heraus",
+          "link": "https://www.heise.de/news/Von-Grund-auf-neu-Ladybird-fordert-das-Browser-Trio-heraus-11535808.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Einfach installieren statt selbst kompilieren: Der Browser Ladybird mit eigener Engine startet in die Alpha und liefert fertige Pakete für Linux und macOS.",
+          "published": "2026-11-24T12:14:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Shirudo: OpenAI und Cisco stellen KI-Schutzschild für Linux-Server vor",
+          "link": "https://www.heise.de/news/Shirudo-OpenAI-und-Cisco-stellen-KI-Schutzschild-fuer-Linux-Server-vor-11535772.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Shirudo ermöglicht KI-Agenten, temporäre Schutzprogramme zu entwickeln, die Linux-Systeme bis zur Installation von Sicherheitspatches schützen sollen.",
+          "published": "2026-11-24T12:12:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: Letzter Aufruf: iX-Konferenz für agile Führungskräfte",
+          "link": "https://www.heise.de/news/Letzter-Aufruf-iX-Konferenz-fuer-agile-Fuehrungskraefte-11531319.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Bald ist es so weit: Am 1. und 2. Dezember bietet die Online-Konferenz rund um Führung und Selbstführung Impulse für starke Teams in Zeiten des Wandels.",
+          "published": "2026-11-24T10:00:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve",
+        "JEP 545 Moves ZGC Memory Preparation off the Startup Path in JDK 28",
+        "Von Grund auf neu: Ladybird fordert das Browser-Trio heraus"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Nach Microsoft-Ausfall: So abhängig ist die deutsche Verwaltung von Outlook, Teams und Co.",
+          "link": "https://t3n.de/news/microsoft-teams-outlook-ausfall-deutsche-politik-exchange-1774968/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Ausfälle von Outlook, Teams und Co. haben in manchen Firmen für Chaos gesorgt. Aber wie stark war die deutsche Politik betroffen? Wir haben nachgefragt. weiterlesen auf t3n.de",
+          "published": "Tue, 24 Nov 2026 15:05:41 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenClaw at one: its chief architect on a year of explosive growth, wooing the enterprise, and being Meta’s muse",
+          "link": "https://thenewstack.io/openclaw-vincent-koc-interview/",
+          "summary": "It&#8217;s been a whirlwind 12 months for OpenClaw, the open source personal AI agent used for everything from managing calendars The post OpenClaw at one: its chief architect on a year of explosive growth, wooing the enterprise, and being Meta&#8217;s muse appeared first on The New Stack .",
+          "published": "Tue, 24 Nov 2026 12:39:32 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+          "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+          "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+          "published": "Tue, 24 Nov 2026 12:30:05 +0000",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Optimierung versus Datenschutz: Google verknüpft KI-Modus mit Drive, Wallet und Gemini",
+          "link": "https://t3n.de/news/google-verknuepft-ki-modus-drive-1775003/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Google baut seinen KI-Dienst Personal Intelligence weiter aus. Der KI-Modus der Suche soll künftig auch Zugriff auf Drive, Wallet und die Gemini-App der Nutzer:innen erhalten – wenn diese das wollen. Und was ist mit dem Datenschutz? weiterlesen auf t3n.de",
+          "published": "Tue, 24 Nov 2026 13:18:27 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "OpenAI Scales Git for Coding Agents with Pando",
+          "link": "https://www.infoq.com/news/2026/11/openai-git-pando/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "OpenAI has detailed Pando, a new backend that scales Git for concurrent coding-agent workloads without replacing familiar Git workflows. The company reports nearly 80% lower median push latency by coordinating branch updates independently and reusing stored packfiles across fetches. By Eran Stiller",
+          "published": "Tue, 24 Nov 2026 11:55:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Nach Microsoft-Ausfall: So abhängig ist die deutsche Verwaltung von Outlook, Teams und Co.",
+        "OpenClaw at one: its chief architect on a year of explosive growth, wooing the enterprise, and being Meta’s muse",
+        "Amazon says hackers' AI agents found and exploited 0-day with little human input"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
+          "link": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
+          "summary": "\"All of you have lived stolen lives. But now you must give them back.\"",
+          "published": "Mon, 23 Nov 2026 15:55:12 +0000",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: NIS 2 – Anforderungen und Vorgaben",
+          "link": "https://www.heise.de/news/iX-Workshop-NIS-2-Anforderungen-und-Vorgaben-11526129.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Erhalten Sie praxisnahe Einblicke in die effektive Umsetzung von NIS2 und dem deutschen NIS2UmsuCG.",
+          "published": "2026-11-24T14:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Große KI-Modelle auf mehreren Windows-11-PCs: Microsoft bringt USB4-Vernetzung",
+          "link": "https://www.heise.de/news/Grosse-KI-Modelle-auf-mehreren-Windows-11-PCs-Microsoft-bringt-USB4-Vernetzung-11534674.html",
+          "summary": "Eine RDMA-Erweiterung für die USB4-Vernetzungsfunktion P2P ermöglicht es, KI-Modelle auf mehrere Windows-Rechner zu verteilen. Apple-Macs können das per TB5.",
+          "published": "2026-11-23T14:45:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
+        "heise-Angebot: iX-Workshop: NIS 2 – Anforderungen und Vorgaben",
+        "Große KI-Modelle auf mehreren Windows-11-PCs: Microsoft bringt USB4-Vernetzung"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Hamburg: Jetzt noch mehr Verhaltensscanner-Kameras",
+          "link": "https://netzpolitik.org/2026/hamburg-jetzt-noch-mehr-verhaltensscanner-kameras/",
+          "summary": "Die Menschen an der Haltestelle Landungsbrücken sollen ab Anfang nächsten Jahres mit einem Verhaltensscanner beobachtet werden. – CC-BY-NC-SA 2.0 : mwmbwls In Hamburg läuft im öffentlichen Nahverkehr testweise ein Projekt zur automatisierten Verhaltenserkennung. Ob die überhaupt tauglich ist, bleibt ungewiss – verlässliche Zahlen und Messwerte gibt es kaum.",
+          "published": "Tue, 24 Nov 2026 14:37:30 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "One terminal command gave my forgotten Android device a desk job",
+          "link": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/",
+          "summary": "The free, open source PhoneBox dashboard puts old Android screens back to work.",
+          "published": "Tue, 24 Nov 2026 12:15:38 +0000",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Black Friday: Diese Samsung-Angebote bei Amazon und Mediamarkt lohnen sich",
+          "link": "https://t3n.de/news/black-friday-diese-samsung-angebote-bei-amazon-und-media-markt-lohnen-sich-1774977/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Zum Black Friday locken Onlinehändler mit hohen Rabatten. Auch viele Samsung-Smartphones sind reduziert. Trotzdem lohnt sich ein Preisvergleich: Dieser zeigt oft, dass die Ersparnis niedriger ausfällt als angegeben. weiterlesen auf t3n.de",
+          "published": "Tue, 24 Nov 2026 12:00:19 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Europäische KI fördern: So lassen sich die Vorteile des Standorts nutzen",
+          "link": "https://t3n.de/news/europaeische-ki-foerdern-so-lassen-sich-die-vorteile-des-standorts-nutzen-1773742/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im globalen KI-Wettrennen scheint Europa weit abgeschlagen. Dabei sind die Standortbedingungen besser, als es auf den ersten Blick aussieht. Mit Tempo und Furch weiterlesen auf t3n.de",
+          "published": "Tue, 24 Nov 2026 11:30:18 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Chipkrise: So stark sind Preise für PCs, Konsolen und Speicher gestiegen",
+          "link": "https://t3n.de/news/chipkrise-pc-konsolen-speicher-preise-gestiegen-1774965/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Laptops, Desktop-PCs und Spielekonsolen kosten Verbraucher spürbar mehr als vor einem Jahr. Das hat das Statistische Bundesamt ermittelt. Es gibt aber auch Geräte, die trotz KI-Boom günstiger werden. weiterlesen auf t3n.de",
+          "published": "Tue, 24 Nov 2026 10:00:10 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Hamburg: Jetzt noch mehr Verhaltensscanner-Kameras",
+        "One terminal command gave my forgotten Android device a desk job",
+        "Black Friday: Diese Samsung-Angebote bei Amazon und Mediamarkt lohnen sich"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Frostbite: Von KI entworfene CPU verspricht deutlich höhere Effizienz",
+          "link": "https://www.golem.de/news/frostbite-von-ki-entworfene-cpu-verspricht-deutlich-hoehere-effizienz-2611-215594.html",
+          "summary": "Parallelismus ohne Threads, CPUs fast ohne Caches und Koordinationsaufwand: Das Konzept hinter Frostbite klingt fast zu gut, um wahr zu sein. ( Prozessor , KI )",
+          "published": "2026-11-24T16:14:06+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Frostbite: Von KI entworfene CPU verspricht deutlich höhere Effizienz"
+      ]
+    }
+  ]
+}
