@@ -1,0 +1,336 @@
+{
+  "date": "2026-11-25",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "bpm",
+      "name": "BPM & Prozessautomatisierung",
+      "items": [
+        {
+          "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
+          "link": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
+          "summary": "\"Without this funding, activities would be delayed.\"",
+          "published": "Tue, 24 Nov 2026 16:12:46 +0000",
+          "source": "Ars Technica"
+        }
+      ],
+      "summary": "(1 Beitraege zu BPM & Prozessautomatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "NASA may get $2 billion boost as White House seeks to accelerate Artemis"
+      ]
+    },
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "DoorDash Scales Dispatch 10x While Maintaining 99.99% Peak Availability",
+          "link": "https://www.infoq.com/news/2026/11/doordash-dispatch-redesign/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "DoorDash has redesigned its real-time dispatch platform, replacing a monolithic optimization engine with a distributed architecture that separates coordination from computation. The new system delivers 10x higher throughput and more than 99.99% peak availability. It also supports hybrid machine learning inference and multi-agent reinforcement learning to dynamically optimize delivery assignments. By Leela Kumili",
+          "published": "Wed, 25 Nov 2026 14:44:00 GMT",
+          "source": "InfoQ"
+        }
+      ],
+      "summary": "(1 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "DoorDash Scales Dispatch 10x While Maintaining 99.99% Peak Availability"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Warum KI-Modelle mit diesem Update besser bewertet werden können – aber Fragen offen bleiben",
+          "link": "https://t3n.de/news/warum-ki-modelle-mit-diesem-update-besser-bewertet-werden-koennen-aber-fragen-offen-bleiben-1774978/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Der KI-Thinktank METR prüft KI-Modelle und -Agenten auf ihre Fähigkeiten und Sicherheit. Der neueste Bericht enthält eine Überarbeitung einer wichtigen Messzahl weiterlesen auf t3n.de",
+          "published": "Wed, 25 Nov 2026 14:00:09 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Trump und Huang: Die Tech-Oligarchie ist außer Kontrolle",
+          "link": "https://netzpolitik.org/2026/trump-und-huang-die-tech-oligarchie-ist-ausser-kontrolle/",
+          "summary": "Anfang November regnete es auf dem \"A New Golden Age\"-Treffen Auszeichnungen für die US-Techbranche, darunter für Nvidia-Chef Jensen Huang. – Alle Rechte vorbehalten: ZUMA Press Wire Im Skandal um die Rückkehr des Nvidia-Chefs Jensen Huang an die Spitze des Konzerns offenbart sich eine Kultur der Straflosigkeit. Diese Kultur spiegelt sich auch in den Produkten der Tech-Branche wider. Sie darf nicht auf Europa überschwappen.",
+          "published": "Wed, 25 Nov 2026 12:01:30 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "AWS Lambda Doubles Its Timeout to 30 Minutes After Eight Years at 15",
+          "link": "https://www.infoq.com/news/2026/11/aws-lambda-30-minute-timeout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "AWS has raised the maximum timeout of on-demand Lambda Event Functions from 15 to 30 minutes in all commercial regions, with no opt-in and no new pricing. The limit had stood since 2018. AWS's post lists the costs: twice the concurrency at the same request rate, three-hour SQS visibility timeouts, and Kafka mappings that must be recreated. Practitioners welcome it and ask what belongs elsewhere. By Steef-Jan Wiggers",
+          "published": "Wed, 25 Nov 2026 07:02:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Please don’t give the robot my SSH keys: How to keep AI out of trouble",
+          "link": "https://thenewstack.io/teleport-agent-delegated-identity/",
+          "summary": "Say a developer asks an AI agent to find out why a Kubernetes pod keeps crashing. The agent needs logs. The post Please don&#8217;t give the robot my SSH keys: How to keep AI out of trouble appeared first on The New Stack .",
+          "published": "Tue, 24 Nov 2026 21:57:58 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+          "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+          "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+          "published": "Tue, 24 Nov 2026 18:47:57 +0000",
+          "source": "Ars Technica"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Warum KI-Modelle mit diesem Update besser bewertet werden können – aber Fragen offen bleiben",
+        "Trump und Huang: Die Tech-Oligarchie ist außer Kontrolle",
+        "AWS Lambda Doubles Its Timeout to 30 Minutes After Eight Years at 15"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Confluent spent 3 months rewriting Kafka’s Java client in Rust with AI — and had to start over",
+          "link": "https://thenewstack.io/confluent-kafka-rust-agents/",
+          "summary": "Confluent spent nearly three months using AI coding agents to translate Apache Kafka&#8217;s Java client into Rust. The engineers discarded The post Confluent spent 3 months rewriting Kafka’s Java client in Rust with AI — and had to start over appeared first on The New Stack .",
+          "published": "Tue, 24 Nov 2026 19:26:18 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Zahlreiche Sicherheitslücken betreffen Komponenten des Java-Ökosystems Spring",
+          "link": "https://www.heise.de/news/Zahlreiche-Sicherheitsluecken-betreffen-Komponenten-des-Java-Oekosystems-Spring-11534890.html",
+          "summary": "Wichtige Sicherheitsupdates schließen unter anderem Lücken in Spring AI, Spring Framework und Spring Security.",
+          "published": "2026-11-23T16:07:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Confluent spent 3 months rewriting Kafka’s Java client in Rust with AI — and had to start over",
+        "Zahlreiche Sicherheitslücken betreffen Komponenten des Java-Ökosystems Spring"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Cyberangriff auf Schuhhändler: Hacker erbeuten Kundendaten von Deichmann",
+          "link": "https://www.golem.de/news/cyberangriff-auf-schuhhaendler-hacker-erbeuten-kundendaten-von-deichmann-2611-215623.html",
+          "summary": "Deichmann informiert seine Kundschaft über einen IT-Sicherheitsvorfall im eigenen Onlineshop. Die Angreifer sind an persönliche Daten gelangt. ( Datenleck , Cyberwar )",
+          "published": "2026-11-25T08:49:05+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+          "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+          "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't offered any information about the full scope or source of the [&#8230;]",
+          "published": "2026-11-24T20:00:00-05:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(2 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Cyberangriff auf Schuhhändler: Hacker erbeuten Kundendaten von Deichmann",
+        "US financial crimes bureau discloses ‘cybersecurity incident’"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Verbraucherzentrale: Rechtmäßiger Einsatz der Meta-Brille im Alltag „kaum möglich“",
+          "link": "https://netzpolitik.org/2026/verbraucherzentrale-rechtmaessiger-einsatz-der-meta-brille-im-alltag-kaum-moeglich/",
+          "summary": "Überwachungsbrillen wie die von Meta sehen mittlerweile recht normal aus, aber haben eine hochauflösende Kamera und gute Mikrofone verbaut. – Alle Rechte vorbehalten: IMAGO / MiS Meta und Ray-Ban informieren die Käufer:innen nicht ausreichend darüber, dass die Nutzung von Smart Glasses in der Öffentlichkeit schnell zu Datenschutzverstößen führt. Weil die Unternehmen nicht auf eine Unterlassung reagierten, gehen die Verbraucherschützer jetzt vor Gericht.",
+          "published": "Tue, 24 Nov 2026 16:30:46 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Article: Engineering Around Non-Determinism: Evals, Grounding, and Release Gates for AI-Drafted Suspicious Reports",
+          "link": "https://www.infoq.com/articles/llm-agent-architecture-evals-grounding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Moving GenAI into high-stakes production requires treating non-determinism as an engineering problem. This architectural blueprint shows engineering leaders and architects how to build trustworthy agentic workflows using knowledge graphs, dual-layer eval judges, CI/CD release gates, and regression testing against golden datasets to automate drafting while maintaining zero-hallucination compliance. By Ritesh Modi, Sasidhar Gudala",
+          "published": "Tue, 24 Nov 2026 09:30:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Lieferkettensicherheit: Risiken in CI/CD-Pipelines minimieren",
+          "link": "https://www.heise.de/news/Lieferkettensicherheit-Risiken-in-CI-CD-Pipelines-minimieren-11533016.html",
+          "summary": "Angreifer kapern zunehmend CI/CD-Pipelines. iX-Autor Fabian Deitelhoff erklärt im Interview, wie Teams GitHub Actions absichern.",
+          "published": "2026-11-20T14:50:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Verbraucherzentrale: Rechtmäßiger Einsatz der Meta-Brille im Alltag „kaum möglich“",
+        "Article: Engineering Around Non-Determinism: Evals, Grounding, and Release Gates for AI-Drafted Suspicious Reports",
+        "Lieferkettensicherheit: Risiken in CI/CD-Pipelines minimieren"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Kürzungen bei \"Demokratie leben\": „Antifeminismus kann eine Radikalisierungspipeline sein“",
+          "link": "https://netzpolitik.org/2026/kuerzungen-bei-demokratie-leben-antifeminismus-kann-eine-radikalisierungspipeline-sein/",
+          "summary": "Ein Umbau des Programms \"Demokratie leben\" sei nötig, findet Bundesfamilienministerin Karin Prien. – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Das Familienministerium streicht die Förderung für die Zentrale Anlaufstelle bei organisierter Frauenfeindlichkeit und Antifeminismus. Im Interview spricht Ans Hartmann vom Verein Lola für Demokratie über antifeministische Angriffe, die Unterstützung von Betroffenen und die Folgen des drohenden Endes.",
+          "published": "Wed, 25 Nov 2026 10:27:15 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Überwachung von Sea-Watch-Sprecherin: „Der Angriff auf uns ist Teil eines Angriffs auf die Demokratie“",
+          "link": "https://netzpolitik.org/2026/ueberwachung-von-sea-watch-sprecherin-der-angriff-auf-uns-ist-teil-eines-angriffs-auf-die-demokratie/",
+          "summary": "Unter Beobachtung: die Sea-Watch 3 nach einem Rettungseinsatz im Oktober 2021. – Alle Rechte vorbehalten: IMAGO / Independent Photo Agency Int. IT-forensische Analysen haben auf dem Handy der Sea-Watch-Sprecherin Giorgia Linardi eine hochentwickelte Spionage-Software entdeckt. Es handelt sich offenbar um eine andere Software als bei bislang bekannten Staatstrojaner-Einsätzen gegen Seenotrettungsaktivist:innen. Sea-Watch reicht nun Strafanzeige ein und hofft auf Aufklärung.",
+          "published": "Wed, 25 Nov 2026 06:53:42 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve",
+          "link": "https://www.infoq.com/news/2026/11/cncf-vm-ai-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "New research from the Cloud Native Computing Foundation (CNCF) and Linux Foundation Research finds that VMs host an average of 53% of production applications, while emerging AI and agentic workloads are creating additional demand for virtualisation, particularly where stronger execution isolation is required. By Craig Risi",
+          "published": "Tue, 24 Nov 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Von Grund auf neu: Ladybird fordert das Browser-Trio heraus",
+          "link": "https://www.heise.de/news/Von-Grund-auf-neu-Ladybird-fordert-das-Browser-Trio-heraus-11535808.html",
+          "summary": "Einfach installieren statt selbst kompilieren: Der Browser Ladybird mit eigener Engine startet in die Alpha und liefert fertige Pakete für Linux und macOS.",
+          "published": "2026-11-24T11:14:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Winzig: XXRI OS setzt den Linux-Desktop auf 75-MByte-Diät",
+          "link": "https://www.heise.de/news/Mini-Linux-XXRI-OS-bringt-Dock-und-App-Store-auf-alte-32-Bit-PCs-11533280.html",
+          "summary": "Wer im Keller noch ein Netbook mit Atom-CPU hortet, bekommt mit XXRI OS ein Spielzeug fürs Wochenende.",
+          "published": "2026-11-21T08:00:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Kürzungen bei \"Demokratie leben\": „Antifeminismus kann eine Radikalisierungspipeline sein“",
+        "Überwachung von Sea-Watch-Sprecherin: „Der Angriff auf uns ist Teil eines Angriffs auf die Demokratie“",
+        "CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Widersprüchliche Anweisungen: Wenn bei ChatGPT und Claude der Zufall entscheidet",
+          "link": "https://t3n.de/news/widerspruechliche-anweisungen-chatgpt-claude-zufall-entscheidet-1775247/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Du hast der KI feste Regeln mitgegeben, und trotzdem hält sie sich nicht daran? Oft liegt das nicht am Tool, sondern an einer Rangordnung. Was dahintersteckt, hörst du im Podcast t3n MeisterPrompter. weiterlesen auf t3n.de",
+          "published": "Wed, 25 Nov 2026 15:05:31 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Vercel Launched Experimental Board to Coordinate Tasks Across Humans and Coding Agents",
+          "link": "https://www.infoq.com/news/2026/11/vercel-board-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Vercel's experimental Board is a headless message store where people and coding agents claim leased tasks, declare dependencies, and sync threads with Slack, GitHub, and Linear. By Daniel Dominguez",
+          "published": "Wed, 25 Nov 2026 13:57:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Verlockende Schlupflöcher: Warum Anthropic seinen KI-Modellen absichtlich eine Falle stellt",
+          "link": "https://t3n.de/news/verlockende-schlupfloecher-warum-anthropic-seinen-ki-modellen-absichtlich-eine-falle-stellt-1775175/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Anthropic-Modelle finden immer wieder Wege, um aus seiner Testumgebung zu entkommen. Um herauszufinden, wie groß die Versuchung tatsächlich ist, haben Anthropic-Forscher jetzt einen neuen Test entwickelt. weiterlesen auf t3n.de",
+          "published": "Wed, 25 Nov 2026 11:30:34 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Antrag, Dauer, Gehalt: Was ihr über den Bildungsurlaub wissen müsst",
+          "link": "https://t3n.de/news/bildungsurlaub-antrag-dauer-gehalt-1775180/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Im Bildungsurlaub können sich Beschäftigte während der Arbeitszeit weiterbilden. Doch wer hat Anspruch darauf und welche Kurse sind erlaubt? Eine Übersicht über geltende Regeln und Rechte. weiterlesen auf t3n.de",
+          "published": "Wed, 25 Nov 2026 11:10:34 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Streit um KFC: Kann man Gemini durch gezielte Nachfragen zum Durchdrehen bringen?",
+          "link": "https://t3n.de/news/streit-um-kfc-kann-man-gemini-durch-gezielte-nachfragen-zum-durchdrehen-bringen-1775132/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die wiederholte Nachfrage nach frittiertem Hühnchen soll Googles Gemini dazu gebracht haben, einem Nutzer mit Folter zu drohen. Lässt sich der Bot wirklich so leicht zum Ausrasten bringen? Ein Selbstversuch. weiterlesen auf t3n.de",
+          "published": "Wed, 25 Nov 2026 09:30:13 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Widersprüchliche Anweisungen: Wenn bei ChatGPT und Claude der Zufall entscheidet",
+        "Vercel Launched Experimental Board to Coordinate Tasks Across Humans and Coding Agents",
+        "Verlockende Schlupflöcher: Warum Anthropic seinen KI-Modellen absichtlich eine Falle stellt"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Kosmisches Erbe: Forscher finden Kohlenstoff aus dem Erdkern auf Hawaii",
+          "link": "https://t3n.de/news/kohlenstoff-erdkern-hawaii-entdeckung-1774738/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Rund 2.900 Kilometer Gestein trennen die Erdoberfläche vom metallischen Kern des Planeten, in dem der Großteil des irdischen Kohlenstoffs lagert. Keine Bohrung erreicht diese Tiefe, doch vulkanische Kristalle zeigen nun Werte, die nicht zum Erdmantel passen. weiterlesen auf t3n.de",
+          "published": "Wed, 25 Nov 2026 06:00:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Große KI-Modelle auf mehreren Windows-11-PCs: Microsoft bringt USB4-Vernetzung",
+          "link": "https://www.heise.de/news/Grosse-KI-Modelle-auf-mehreren-Windows-11-PCs-Microsoft-bringt-USB4-Vernetzung-11534674.html",
+          "summary": "Eine RDMA-Erweiterung für die USB4-Vernetzungsfunktion P2P ermöglicht es, KI-Modelle auf mehrere Windows-Rechner zu verteilen. Apple-Macs können das per TB5.",
+          "published": "2026-11-23T14:45:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Kosmisches Erbe: Forscher finden Kohlenstoff aus dem Erdkern auf Hawaii",
+        "Große KI-Modelle auf mehreren Windows-11-PCs: Microsoft bringt USB4-Vernetzung"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Energie-Rekord bei Röntgenlasern erzielt: European XFEL in Hamburg übertrifft sich selbst",
+          "link": "https://t3n.de/news/energie-rekord-bei-roentgenlasern-erzielt-european-xfel-in-hamburg-uebertrifft-sich-selbst-1775054/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In der Forschungsanlage XFEL für Röntgenlaserblitze haben Forscher:innen erstmals Laser mit einer bisher unerreichten Photonenenergie erzeugt und über einen Kilometer aufrechterhalten. weiterlesen auf t3n.de",
+          "published": "Wed, 25 Nov 2026 13:35:09 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Black Friday: Warum ihr euch diesen iPhone-Deal ansehen solltet",
+          "link": "https://t3n.de/news/black-friday-iphone-air-deal-1775223/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Apple hat im Laufe des Jahres die Preise für alle iPhone-Modelle nach oben angepasst. Auch rund um den Black Friday gibt es kaum überzeugende iPhone-Angebote. Mit einer Ausnahme. weiterlesen auf t3n.de",
+          "published": "Wed, 25 Nov 2026 13:00:37 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Ein Lichttag entfernt, aber keine Daten mehr: Nasa untersucht Panne bei Voyager 1",
+          "link": "https://t3n.de/news/lichttag-nasa-panne-voyager-1-1775126/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Voyager 1 hat kürzlich einen historischen Meilenstein erreicht, doch es gibt Probleme. Die altgediente Raumsonde sendet keine Daten mehr an die Erde. Die Nasa untersucht gerade, woran der Ausfall liegen könnte und ob er mit einer ähnlichen Panne von 2023 zu tun hat. weiterlesen auf t3n.de",
+          "published": "Wed, 25 Nov 2026 12:30:43 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Akzeptieren, kämpfen oder kündigen: Was Experten bei narzisstischen Vorgesetzten raten",
+          "link": "https://t3n.de/news/chef-narzisst-umgang-1727221/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Die Arbeit kann schnell zur Last werden, wenn Vorgesetzte stark narzisstisch agieren. Doch es gibt Methoden, damit umzugehen. Auch, indem man versteht, was Narz weiterlesen auf t3n.de",
+          "published": "Wed, 25 Nov 2026 12:00:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Entlarvt in 8 Minuten: KI-Chatbot überzeugt im Gespräch mit Verschwörungstheoretikern",
+          "link": "https://t3n.de/news/entlarvt-ki-chatbot-verschwoerungstheoretiker-1733227/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Verschwörungstheoretiker:innen sind Diskussionspartner:innen gegenüber wenig offen. Legen Chatbots ihnen jedoch Beweise und Argumente vor, reagieren sie erstaun weiterlesen auf t3n.de",
+          "published": "Wed, 25 Nov 2026 11:55:00 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Energie-Rekord bei Röntgenlasern erzielt: European XFEL in Hamburg übertrifft sich selbst",
+        "Black Friday: Warum ihr euch diesen iPhone-Deal ansehen solltet",
+        "Ein Lichttag entfernt, aber keine Daten mehr: Nasa untersucht Panne bei Voyager 1"
+      ]
+    }
+  ]
+}
