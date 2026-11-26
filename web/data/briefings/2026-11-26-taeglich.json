@@ -1,0 +1,350 @@
+{
+  "date": "2026-11-26",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "DoorDash Scales Dispatch 10x While Maintaining 99.99% Peak Availability",
+          "link": "https://www.infoq.com/news/2026/11/doordash-dispatch-redesign/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "DoorDash has redesigned its real-time dispatch platform, replacing a monolithic optimization engine with a distributed architecture that separates coordination from computation. The new system delivers 10x higher throughput and more than 99.99% peak availability. It also supports hybrid machine learning inference and multi-agent reinforcement learning to dynamically optimize delivery assignments. By Leela Kumili",
+          "published": "Wed, 25 Nov 2026 14:44:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Cloudera: Mehr infrastrukturelle Unabhängigkeit für Daten und KI",
+          "link": "https://www.heise.de/news/Cloudera-Mehr-infrastrukturelle-Unabhaengigkeit-fuer-Daten-und-KI-11538779.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Mit lokal ausführbaren KI-Modellen und neuen Infrastrukturpartnern erweitert Cloudera die Anwendungsbreite seiner KI- und Datenplattform.",
+          "published": "2026-11-26T11:42:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Cloudera: Mehr infrastrukturelle Unabhängigkeit für Daten und KI",
+          "link": "https://www.heise.de/news/Cloudera-Mehr-infrastrukturelle-Unabhaengigkeit-fuer-Daten-und-KI-11538779.html",
+          "summary": "Mit lokal ausführbaren KI-Modellen und neuen Infrastrukturpartnern erweitert Cloudera die Anwendungsbreite seiner KI- und Datenplattform.",
+          "published": "2026-11-26T10:42:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(3 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "DoorDash Scales Dispatch 10x While Maintaining 99.99% Peak Availability",
+        "Cloudera: Mehr infrastrukturelle Unabhängigkeit für Daten und KI",
+        "Cloudera: Mehr infrastrukturelle Unabhängigkeit für Daten und KI"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Wegen Governance-Bedenken: S&amp;P erwägt Herabstufung von Nvidia",
+          "link": "https://t3n.de/news/wegen-governance-bedenken-sp-erwaegt-herabstufung-von-nvidia-1775515/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Nvidia droht eine Herabstufung der Kreditwürdigkeit. Die Zweifel an Jensen Huangs Führung belasten das Vertrauen der Ratingagenturen und könnten die Finanzierung des KI-Konzerns verteuern. weiterlesen auf t3n.de",
+          "published": "Thu, 26 Nov 2026 11:45:54 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Recap of Microsoft Ignite 2026: Copilot as the Work OS and Agent Governance",
+          "link": "https://www.infoq.com/news/2026/11/microsoft-ignite-2026-recap/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "At Ignite 2026, Microsoft positioned Copilot as the operating system for work and extended agent identity, governance, and cost controls across Azure, Foundry, Entra, and Defender. Highlights include Cobalt 200 VMs, Azure HorizonDB, a continuous improvement loop in Foundry, Microsoft IQ, a standalone Azure AI Gateway, and Windows Server 2028. By Steef-Jan Wiggers",
+          "published": "Thu, 26 Nov 2026 06:45:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Trump und Huang: Die Tech-Oligarchie ist außer Kontrolle",
+          "link": "https://netzpolitik.org/2026/trump-und-huang-die-tech-oligarchie-ist-ausser-kontrolle/",
+          "summary": "Anfang November regnete es auf dem \"A New Golden Age\"-Treffen Auszeichnungen für die US-Techbranche, darunter für Nvidia-Chef Jensen Huang. – Alle Rechte vorbehalten: ZUMA Press Wire Im Skandal um die Rückkehr des Nvidia-Chefs Jensen Huang an die Spitze des Konzerns offenbart sich eine Kultur der Straflosigkeit. Diese Kultur spiegelt sich auch in den Produkten der Tech-Branche wider. Sie darf nicht auf Europa überschwappen.",
+          "published": "Wed, 25 Nov 2026 12:01:30 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Alter macOS-Bug: Warum die Fenster-Ecken in Tahoe so rund waren",
+          "link": "https://www.heise.de/news/Alter-macOS-Bug-Warum-die-Fenster-Ecken-in-Tahoe-so-rund-waren-11538321.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "macOS 26 alias Tahoe nervte User anfangs mit einer Merkwürdigkeit: Fenster waren viel runder als zuvor. Nun scheint der Grund dafür aufgetaucht zu sein.",
+          "published": "2026-11-26T12:58:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Asynchrone Programmierung – Teil 5: Nebenläufigkeit effizient mit Rust und Tokio",
+          "link": "https://www.heise.de/hintergrund/Asynchrone-Programmierung-Teil-5-Nebenlaeufigkeit-effizient-mit-Rust-und-Tokio-11530471.html",
+          "summary": "Rust bietet mit der Bibliothek Tokio sichere asynchrone Funktionen, die sich gegenüber anderen Sprachen durch schnelle Laufzeiten auszeichnet.",
+          "published": "2026-11-24T07:38:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Wegen Governance-Bedenken: S&amp;P erwägt Herabstufung von Nvidia",
+        "Recap of Microsoft Ignite 2026: Copilot as the Work OS and Agent Governance",
+        "Trump und Huang: Die Tech-Oligarchie ist außer Kontrolle"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "heise+ | H2O-3: Open-Source-Plattform für maschinelles Lernen mit Java-Unterstützung",
+          "link": "https://www.heise.de/hintergrund/H2O-3-Open-Source-Plattform-fuer-maschinelles-Lernen-mit-Java-Unterstuetzung-11534444.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "H2O-3 ist eine Open-Source-Plattform für verteiltes und skalierbares maschinelles Lernen. Es unterstützt neben anderen Sprachen auch Java.",
+          "published": "2026-11-26T12:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Zahlreiche Sicherheitslücken betreffen Komponenten des Java-Ökosystems Spring",
+          "link": "https://www.heise.de/news/Zahlreiche-Sicherheitsluecken-betreffen-Komponenten-des-Java-Oekosystems-Spring-11534890.html",
+          "summary": "Wichtige Sicherheitsupdates schließen unter anderem Lücken in Spring AI, Spring Framework und Spring Security.",
+          "published": "2026-11-23T16:07:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "heise+ | H2O-3: Open-Source-Plattform für maschinelles Lernen mit Java-Unterstützung",
+        "Zahlreiche Sicherheitslücken betreffen Komponenten des Java-Ökosystems Spring"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Deichmann, Office Partner und Co.: Warum sich gerade die Meldungen über Datenlecks häufen",
+          "link": "https://t3n.de/news/deichmann-office-partner-und-co-warum-sich-gerade-die-meldungen-ueber-datenlecks-haeufen-1775538/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "In den vergangenen Wochen mussten gleich mehrere prominente Onlinehändler über Sicherheitsvorfälle und mögliche Datenabflüsse informieren. Was müssen Unternehmen in solchen Fällen tun, wie sollten Kund:innen reagieren – und welche Rolle könnte die Black Week dabei spielen? weiterlesen auf t3n.de",
+          "published": "Thu, 26 Nov 2026 13:00:53 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Attacken auf Danfoss-Geräte, HPE-Juniper-Router, Mitel MiCollab und XO",
+          "link": "https://www.heise.de/news/Angriffswarnung-auf-Danfoss-Geraete-HPE-Juniper-Router-Mitel-MiCollab-und-XO-11538657.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Die US-IT-Sicherheitsbehörde warnt vor laufenden Angriffen auf zehn Sicherheitslücken in mehreren Produkten.",
+          "published": "2026-11-26T10:12:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Vom FBI überlistet: Wie ein Datenretter Ransomware-Opfer abgezockt haben soll",
+          "link": "https://www.golem.de/news/vom-fbi-ueberlistet-wie-ein-datenretter-ransomware-opfer-abgezockt-haben-soll-2611-215691.html",
+          "summary": "Der Mann bot Ransomware-Opfern eine nahezu sichere Datenrettung anhand spezieller Tools an. Im Hintergrund lief aber wohl alles anders als beworben. ( Ransomware , Verschlüsselung )",
+          "published": "2026-11-26T12:36:03+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Deichmann, Office Partner und Co.: Warum sich gerade die Meldungen über Datenlecks häufen",
+        "Attacken auf Danfoss-Geräte, HPE-Juniper-Router, Mitel MiCollab und XO",
+        "Vom FBI überlistet: Wie ein Datenretter Ransomware-Opfer abgezockt haben soll"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Abfindung bei Kündigung: Arbeitsrechtler erklärt, was du auf keinen Fall tun solltest",
+          "link": "https://t3n.de/news/abfindung-kuendigung-verhandeln-1772596/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Wer gekündigt wird, kann mitunter eine Abfindung für sich erwirken. Doch die Punkte, auf die es ankommt, sind vielschichtig. Worauf man achten sollte, erklärt A weiterlesen auf t3n.de",
+          "published": "Thu, 26 Nov 2026 13:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Building a Production-Ready Culture and Skills Through SRE-based Training",
+          "link": "https://www.infoq.com/news/2026/11/SRE-based-training/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Training can act as a confidence engine, turning repeated behaviors into habits and culture. We can tailor training programs that equip developers and operators with the skills to run their services in line with the organization’s maturity and growth, and apply SRE principles to the training itself. By Ben Linders",
+          "published": "Thu, 26 Nov 2026 11:09:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "heise+ | Die Authentifizierungsmethode Trusted Publishing bei npm, PyPI und crates.io",
+          "link": "https://www.heise.de/hintergrund/Die-Authentifizierungsmethode-Trusted-Publishing-bei-npm-PyPI-und-crates-io-11504231.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Trusted Publishing ersetzt Registry-Tokens in CI/CD-Pipelines durch kurzlebige Identitätsnachweise. npm, PyPI und crates.io setzen dies unterschiedlich um.",
+          "published": "2026-11-26T13:30:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Neuralink darf zulassungsrelevante Studie mit Hirnimplantat starten",
+          "link": "https://www.heise.de/news/Neuralink-FDA-genehmigt-Zulassungsstudie-fuer-Hirnimplantat-11538687.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Nach ersten Machbarkeitsstudien darf Neuralink nun mit Genehmigung der FDA klinische Daten für die Marktzulassung seines Hirnimplantats erheben.",
+          "published": "2026-11-26T09:45:00+01:00",
+          "source": "heise online News"
+        }
+      ],
+      "summary": "(4 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Abfindung bei Kündigung: Arbeitsrechtler erklärt, was du auf keinen Fall tun solltest",
+        "Building a Production-Ready Culture and Skills Through SRE-based Training",
+        "heise+ | Die Authentifizierungsmethode Trusted Publishing bei npm, PyPI und crates.io"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+          "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+          "summary": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
+          "published": "Wed, 25 Nov 2026 17:33:30 +0000",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Kürzungen bei \"Demokratie leben\": „Antifeminismus kann eine Radikalisierungspipeline sein“",
+          "link": "https://netzpolitik.org/2026/kuerzungen-bei-demokratie-leben-antifeminismus-kann-eine-radikalisierungspipeline-sein/",
+          "summary": "Ein Umbau des Programms \"Demokratie leben\" sei nötig, findet Bundesfamilienministerin Karin Prien. – Alle Rechte vorbehalten: IMAGO / dts Nachrichtenagentur Das Familienministerium streicht die Förderung für die Zentrale Anlaufstelle bei organisierter Frauenfeindlichkeit und Antifeminismus. Im Interview spricht Ans Hartmann vom Verein Lola für Demokratie über antifeministische Angriffe, die Unterstützung von Betroffenen und die Folgen des drohenden Endes.",
+          "published": "Wed, 25 Nov 2026 10:27:15 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "Von Grund auf neu: Ladybird fordert das Browser-Trio heraus",
+          "link": "https://www.heise.de/news/Von-Grund-auf-neu-Ladybird-fordert-das-Browser-Trio-heraus-11535808.html",
+          "summary": "Einfach installieren statt selbst kompilieren: Der Browser Ladybird mit eigener Engine startet in die Alpha und liefert fertige Pakete für Linux und macOS.",
+          "published": "2026-11-24T11:14:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Winzig: XXRI OS setzt den Linux-Desktop auf 75-MByte-Diät",
+          "link": "https://www.heise.de/news/Mini-Linux-XXRI-OS-bringt-Dock-und-App-Store-auf-alte-32-Bit-PCs-11533280.html",
+          "summary": "Wer im Keller noch ein Netbook mit Atom-CPU hortet, bekommt mit XXRI OS ein Spielzeug fürs Wochenende.",
+          "published": "2026-11-21T08:00:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Anzeige: Bluetooth-Adapter für Aux am Black Friday zum Schnäppchenpreis",
+          "link": "https://www.golem.de/news/anzeige-bluetooth-adapter-fuer-aux-am-black-friday-zum-schnaeppchenpreis-2611-215700.html",
+          "summary": "Amazon hat einen Bluetooth-Adapter für Aux-Anschlüsse im Angebot, über den sich Audiosignale kabellos senden und empfangen lassen. ( Technik/Hardware , Black Friday )",
+          "published": "2026-11-26T15:06:02+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Ladybird browser's first downloadable alpha is surprisingly capable",
+        "Kürzungen bei \"Demokratie leben\": „Antifeminismus kann eine Radikalisierungspipeline sein“",
+        "Von Grund auf neu: Ladybird fordert das Browser-Trio heraus"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "75 % weniger HR-Tickets: Wie IBM KI im Personalwesen einsetzt",
+          "link": "https://t3n.de/news/ki-im-personalwesen-ibm-askhr-1775483/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "IBM kommt heute mit drei Viertel weniger HR-Tickets aus als 2016. Bevor alle Personalanfragen in einem KI-Chat landen konnten, musste der Konzern aufräumen und klären, was die KI überhaupt darf. weiterlesen auf t3n.de",
+          "published": "Thu, 26 Nov 2026 14:30:52 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Alarm nach globalem IT-Ausfall: Microsoft ruft intern Code Red aus",
+          "link": "https://t3n.de/news/microsoft-code-red-it-ausfall-1775106/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein rund 24 Stunden dauernder weltweiter Ausfall von zentralen Diensten wie Outlook, Teams oder Copilot hat bei Microsoft die Alarmglocken schrillen lassen. Der Softwarekonzern löste Code Red aus und will Störungen künftig schneller beheben. weiterlesen auf t3n.de",
+          "published": "Thu, 26 Nov 2026 12:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Bevorstehendes Aus: Wo der Cybertruck plötzlich beliebt ist",
+          "link": "https://t3n.de/news/cybertruck-ploetzlich-beliebt-1775506/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mitte 2027 endet die Cybertruck-Produktion endgültig. Der E-Pickup-Truck gilt als größter Flop in der Autogeschichte. Auf dem Gebrauchtmarkt erlebt das monströse Fahrzeug aber ein überraschendes Nachfragehoch. Was dahintersteckt. weiterlesen auf t3n.de",
+          "published": "Thu, 26 Nov 2026 12:15:28 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Presentation: Finetuning Your Embedding Model for Better Search: Learning from Agentic Search at Dell",
+          "link": "https://www.infoq.com/presentations/fine-tune-enterprise-rag-embeddings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Rachel Shalom explains how Dell solved enterprise RAG retrieval failures on internal terminology by fine-tuning open-source embedding models. She discusses data prep with hard negatives, distributed InfoNCE loss training on H100 GPUs, automated hyperparameter tuning, and production evaluation using LLM-as-a-judge. By Rachel Shalom",
+          "published": "Thu, 26 Nov 2026 11:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Claude Ship: Wie Anthropic den Code-Review-Engpass löst und Produktivität steigert",
+          "link": "https://t3n.de/news/claude-ship-anthropic-code-review-produktivitaet-1775032/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Anthropic hat Claude Ship vorgestellt. Die neue Suite soll Entwickler:innen dabei helfen, KI-generierten Code schneller zu prüfen und freizugeben – und dadurch ihre Produktivität steigern. weiterlesen auf t3n.de",
+          "published": "Thu, 26 Nov 2026 09:55:00 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "75 % weniger HR-Tickets: Wie IBM KI im Personalwesen einsetzt",
+        "Alarm nach globalem IT-Ausfall: Microsoft ruft intern Code Red aus",
+        "Bevorstehendes Aus: Wo der Cybertruck plötzlich beliebt ist"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+          "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+          "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
+          "published": "Wed, 25 Nov 2026 22:36:45 +0000",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Große KI-Modelle auf mehreren Windows-11-PCs: Microsoft bringt USB4-Vernetzung",
+          "link": "https://www.heise.de/news/Grosse-KI-Modelle-auf-mehreren-Windows-11-PCs-Microsoft-bringt-USB4-Vernetzung-11534674.html",
+          "summary": "Eine RDMA-Erweiterung für die USB4-Vernetzungsfunktion P2P ermöglicht es, KI-Modelle auf mehrere Windows-Rechner zu verteilen. Apple-Macs können das per TB5.",
+          "published": "2026-11-23T14:45:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "European spacecraft finds chaotic scene after asteroid deflection experiment",
+        "Große KI-Modelle auf mehreren Windows-11-PCs: Microsoft bringt USB4-Vernetzung"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "Zu viel versprochen: Warum Ubisoft wegen eines Piratenspiels verklagt wird",
+          "link": "https://t3n.de/news/zu-viel-versprochen-warum-ubisoft-wegen-eines-piratenspiels-verklagt-wird-1775492/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Yves Guillemot, Boss von Ubisoft, nannte „Skull and Bones“ ein „AAAA“-Spiel, also ein besonderes Top-Game. Dagegen gingen Spieler vor. Vor Gericht erklärten die Anwälte des Konzerns, was von der Aussage zu halten ist: nichts. weiterlesen auf t3n.de",
+          "published": "Thu, 26 Nov 2026 14:15:47 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Balkonkraftwerk mit Speicher: Drei Solakon-Pakete im Black Month ab 689,99 Euro",
+          "link": "https://t3n.de/news/solakon-balkonkraftwerk-set-speicher-1775185/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Vom Onlite- bis zum Onpower-Paket mit vier Modulen: Alle Black-Friday-Sets nutzen den Stromspeicher Solakon One und eine eigene App mit Servern in Deutschland. weiterlesen auf t3n.de",
+          "published": "Thu, 26 Nov 2026 13:30:49 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Black Friday: Balkonkraftwerk mit Anker SOLIX 4 Pro Speicher für 1.599 Euro",
+          "link": "https://t3n.de/news/balkonkraftwerk-speicher-quattro-xl-anker-solix-1775174/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Ein Balkonkraftwerk mit Speicher, das sich rechnet: Das Quattro XL mit dem heise Technologiesieger Anker SOLIX 4 Pro gibt es in der Black Week für 1.599 Euro – inklusive 300 Euro Rabatt im Vergleich zum regulären Preis. weiterlesen auf t3n.de",
+          "published": "Thu, 26 Nov 2026 09:05:08 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Jobsuche in der IT: Mit diesen Profilen positionierst du dich am besten im KI-Zeitalter",
+          "link": "https://t3n.de/news/jobsuche-in-der-it-mit-diesen-profilen-positionierst-du-dich-am-besten-im-ki-zeitalter-1774265/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Noch vor wenigen Jahren rissen sich Unternehmen um IT-Fachkräfte, heute tun sich besonders Jobeinsteiger schwer. Warum Firmen so zögerlich einstellen – und welc weiterlesen auf t3n.de",
+          "published": "Thu, 26 Nov 2026 07:30:21 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Die Perfektionsfalle: Wie „perfekte“ Chefs „perfekte“ Mitarbeiter in die Arbeitssucht treiben",
+          "link": "https://t3n.de/news/servant-leadership-fuehrung-arbeitssucht-studie-1775424/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Offene Türen, regelmäßiges Feedback und echte Rücksichtnahme gelten im Berufsleben als Merkmale zeitgemäßer Führung. Eine neue Untersuchung aus Australien, Großbritannien und China legt nun jedoch eine unerwartete Schattenseite offen. weiterlesen auf t3n.de",
+          "published": "Wed, 25 Nov 2026 22:06:39 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Zu viel versprochen: Warum Ubisoft wegen eines Piratenspiels verklagt wird",
+        "Balkonkraftwerk mit Speicher: Drei Solakon-Pakete im Black Month ab 689,99 Euro",
+        "Black Friday: Balkonkraftwerk mit Anker SOLIX 4 Pro Speicher für 1.599 Euro"
+      ]
+    }
+  ]
+}
