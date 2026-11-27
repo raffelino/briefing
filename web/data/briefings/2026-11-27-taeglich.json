@@ -1,0 +1,359 @@
+{
+  "date": "2026-11-27",
+  "mode": "taeglich",
+  "topics": [
+    {
+      "id": "data-ai",
+      "name": "Data & AI / Data Science",
+      "items": [
+        {
+          "title": "SAP bleibt Vertragspartner: Databricks-Funktionen wandern in Business Data Cloud",
+          "link": "https://www.heise.de/news/SAP-bleibt-Vertragspartner-Databricks-Funktionen-wandern-in-Business-Data-Cloud-11540369.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Genie, Lakeflow, Unity Gateway und Lakebase kommen in SAPs Business Data Cloud, eine Kopplung von Genie und Joule ist geplant.",
+          "published": "2026-11-27T11:26:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Cloudera: Mehr infrastrukturelle Unabhängigkeit für Daten und KI",
+          "link": "https://www.heise.de/news/Cloudera-Mehr-infrastrukturelle-Unabhaengigkeit-fuer-Daten-und-KI-11538779.html",
+          "summary": "Mit lokal ausführbaren KI-Modellen und neuen Infrastrukturpartnern erweitert Cloudera die Anwendungsbreite seiner KI- und Datenplattform.",
+          "published": "2026-11-26T10:42:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(2 Beitraege zu Data & AI / Data Science im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "SAP bleibt Vertragspartner: Databricks-Funktionen wandern in Business Data Cloud",
+        "Cloudera: Mehr infrastrukturelle Unabhängigkeit für Daten und KI"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud-Architektur & Plattformen",
+      "items": [
+        {
+          "title": "Diese Skills könnt ihr beim Gaming lernen – und Arbeitgeber suchen sie",
+          "link": "https://t3n.de/news/skills-gaming-arbeitsmarkt-1775448/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Videospiele gelten vielen als Zeitverschwendung. Doch Studien zeigen: Wer spielt, trainiert dabei Fähigkeiten, die im Beruf zählen – von Problemlösung über Team weiterlesen auf t3n.de",
+          "published": "Fri, 27 Nov 2026 07:00:08 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "heise+ | FIDO2-Sicherheitsschlüssel: So funktioniert das Login ohne Cloudbindung",
+          "link": "https://www.heise.de/ratgeber/FIDO2-Sicherheitsschluessel-So-funktioniert-das-Login-ohne-Cloudbindung-11489832.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "summary": "Apple, Google und Passwortmanager verwalten Passkeys bequem, aber anbietergebunden. Wir zeigen, wie Sie mit eigenen USB-Token mehr Unabhängigkeit gewinnen.",
+          "published": "2026-11-27T10:30:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Asynchrone Programmierung – Teil 5: Nebenläufigkeit effizient mit Rust und Tokio",
+          "link": "https://www.heise.de/hintergrund/Asynchrone-Programmierung-Teil-5-Nebenlaeufigkeit-effizient-mit-Rust-und-Tokio-11530471.html",
+          "summary": "Rust bietet mit der Bibliothek Tokio sichere asynchrone Funktionen, die sich gegenüber anderen Sprachen durch schnelle Laufzeiten auszeichnet.",
+          "published": "2026-11-24T07:38:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "The absolute best Black Friday deals we’ve found (so far)",
+          "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+          "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can’t guarantee a deal you’ve had [&#8230;]",
+          "published": "2026-11-27T06:52:34-05:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(4 Beitraege zu Cloud-Architektur & Plattformen im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Diese Skills könnt ihr beim Gaming lernen – und Arbeitgeber suchen sie",
+        "heise+ | FIDO2-Sicherheitsschlüssel: So funktioniert das Login ohne Cloudbindung",
+        "Asynchrone Programmierung – Teil 5: Nebenläufigkeit effizient mit Rust und Tokio"
+      ]
+    },
+    {
+      "id": "software-architektur",
+      "name": "Software-Architektur & Java",
+      "items": [
+        {
+          "title": "Zahlreiche Sicherheitslücken betreffen Komponenten des Java-Ökosystems Spring",
+          "link": "https://www.heise.de/news/Zahlreiche-Sicherheitsluecken-betreffen-Komponenten-des-Java-Oekosystems-Spring-11534890.html",
+          "summary": "Wichtige Sicherheitsupdates schließen unter anderem Lücken in Spring AI, Spring Framework und Spring Security.",
+          "published": "2026-11-23T16:07:00.000Z",
+          "source": "heise developer News"
+        }
+      ],
+      "summary": "(1 Beitraege zu Software-Architektur & Java im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Zahlreiche Sicherheitslücken betreffen Komponenten des Java-Ökosystems Spring"
+      ]
+    },
+    {
+      "id": "it-security",
+      "name": "IT-Sicherheit & Security by Design",
+      "items": [
+        {
+          "title": "Diverse Schwachstellen in Apache Tomcat",
+          "link": "https://www.heise.de/news/Diverse-Schwachstellen-in-Apache-Tomcat-11540730.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Aktuelle Versionen von Tomcat beheben neun Schwachstellen, eine weitere muss per Konfigurationsänderung umgangen werden und für eine elfte fehlen noch Updates.",
+          "published": "2026-11-27T13:47:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Sicherheit: Hardwarelücken schwächen den PIN-Schutz von Windows",
+          "link": "https://www.golem.de/news/sicherheit-hardwareluecken-schwaechen-den-pin-schutz-von-windows-2611-215720.html",
+          "summary": "Die TU Berlin hat zwei Schwachstellen entdeckt, die das Erraten von PINs für die Windows-Anmeldung und Laufwerksverschlüsselung erleichtern. ( Windows Hello , Microsoft )",
+          "published": "2026-11-27T08:40:01+01:00",
+          "source": "Golem.de"
+        },
+        {
+          "title": "KI: OpenAI rüstet Nato-Cyberabwehr auf",
+          "link": "https://www.golem.de/news/ki-openai-ruestet-nato-cyberabwehr-auf-2611-215717.html",
+          "summary": "Die Nato und mehrere europäische Behörden setzen auf KI-Modelle von OpenAI, um Schwachstellen in Software schneller zu finden und zu schließen. ( OpenAI , KI )",
+          "published": "2026-11-27T07:23:08+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(3 Beitraege zu IT-Sicherheit & Security by Design im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Diverse Schwachstellen in Apache Tomcat",
+        "Sicherheit: Hardwarelücken schwächen den PIN-Schutz von Windows",
+        "KI: OpenAI rüstet Nato-Cyberabwehr auf"
+      ]
+    },
+    {
+      "id": "devops-test",
+      "name": "DevOps & Test-Automatisierung",
+      "items": [
+        {
+          "title": "Staatliche Werbung: Transparenz am unteren Limit",
+          "link": "https://netzpolitik.org/2026/staatliche-werbung-transparenz-am-unteren-limit/",
+          "summary": "Immer wieder schalten staatliche Stellen Werbung in Zeitungen und anderen Medien, wie hier die Bundesregierung in der Bild-Zeitung. Durch ein EU-Gesetz kann man jetzt recherchieren, wie viel Geld an wen fließt. – Alle Rechte vorbehalten: Imago / MiS Die EU verpflichtet staatliche Stellen dazu, ihre Werbeausgaben zu veröffentlichen. Doch statt dem österreichischen Vorbild einer zentralen Veröffentlichung zu folgen, droht in Deutschland die Transparenz zwischen föderaler Medienpolitik und AfD-Einfluss zerrieben zu werden.",
+          "published": "Fri, 27 Nov 2026 12:32:12 +0000",
+          "source": "netzpolitik.org"
+        },
+        {
+          "title": "KI verdient Geld mit fremden Werken – die Bundesregierung will das ändern",
+          "link": "https://t3n.de/news/ki-geld-bundesregierung-1775669/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "KI-Systeme erzeugen Texte, Musik und Videos, die mit den Werken von Kreativen konkurrieren. Die Bundesregierung will dafür eine Vergütung. Auch Medienunternehmen sollen besser geschützt werden. weiterlesen auf t3n.de",
+          "published": "Fri, 27 Nov 2026 07:11:55 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Building a Production-Ready Culture and Skills Through SRE-based Training",
+          "link": "https://www.infoq.com/news/2026/11/SRE-based-training/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Training can act as a confidence engine, turning repeated behaviors into habits and culture. We can tailor training programs that equip developers and operators with the skills to run their services in line with the organization’s maturity and growth, and apply SRE principles to the training itself. By Ben Linders",
+          "published": "Thu, 26 Nov 2026 11:09:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Bundesregierung will KI-Anbieter zur Kasse bitten",
+          "link": "https://www.heise.de/news/Bundesregierung-will-KI-Anbieter-zur-Kasse-bitten-11540057.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "KI-Systeme konkurrieren mit Werken von Kreativen. Die Bundesregierung fordert dafür eine Vergütung. Auch Medien sollen besser geschützt werden.",
+          "published": "2026-11-27T08:31:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Urheberrechte der Menschen schützen: Bundesregierung fordert Vergütung für KI-generierte Inhalte",
+          "link": "https://www.golem.de/news/urheberrechte-schuetzen-bundesregierung-fordert-verguetung-fuer-ki-generierte-inhalte-2611-215718.html",
+          "summary": "KI-Systeme erzeugen Texte, Musik und Videos, die mit den Werken von Menschen konkurrieren. Die Regierung verlangt dafür eine Vergütung. ( KI , Urheberrecht )",
+          "published": "2026-11-27T07:53:10+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu DevOps & Test-Automatisierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Staatliche Werbung: Transparenz am unteren Limit",
+        "KI verdient Geld mit fremden Werken – die Bundesregierung will das ändern",
+        "Building a Production-Ready Culture and Skills Through SRE-based Training"
+      ]
+    },
+    {
+      "id": "agile-ux",
+      "name": "Agile Methoden & UX/UI",
+      "items": [
+        {
+          "title": "Peugeot und Citroën: Stellantis drosselt Produktion, Leiharbeiter verlieren Jobs",
+          "link": "https://www.heise.de/news/Peugeot-und-Citroen-Stellantis-drosselt-Produktion-Leiharbeiter-verlieren-Jobs-11540542.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "In Mulhouse, Sochaux und Rennes stehen ab Dezember die Bänder still. Stellantis verweist auf den schwachen Markt, Gewerkschaften klagen über Lohnverluste.",
+          "published": "2026-11-27T13:27:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Kritische Lücke in Linux’ NFS-Server",
+          "link": "https://www.heise.de/news/Kritische-Luecke-in-Linux-NFS-Server-11540361.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Angreifer können über den NFS-Server im Kernel das System kompromittieren. Anwender sollten Patches einspielen oder den NFS-Server temporär einhegen.",
+          "published": "2026-11-27T11:39:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "heise-Angebot: iX-Workshop: Linux-Server härten mit Verschlüsselung und Zugriffskontrolle",
+          "link": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-mit-Verschluesselung-und-Zugriffskontrolle-11472905.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "summary": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen – von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
+          "published": "2026-11-27T08:00:00+01:00",
+          "source": "heise online News"
+        },
+        {
+          "title": "Von Grund auf neu: Ladybird fordert das Browser-Trio heraus",
+          "link": "https://www.heise.de/news/Von-Grund-auf-neu-Ladybird-fordert-das-Browser-Trio-heraus-11535808.html",
+          "summary": "Einfach installieren statt selbst kompilieren: Der Browser Ladybird mit eigener Engine startet in die Alpha und liefert fertige Pakete für Linux und macOS.",
+          "published": "2026-11-24T11:14:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "(g+) Datensicherheit unter Linux: Cloudspeicher nutzen, ohne dem Anbieter vertrauen zu müssen",
+          "link": "https://www.golem.de/news/datensicherheit-unter-linux-cloudspeicher-nutzen-ohne-dem-anbieter-vertrauen-zu-muessen-2611-215699.html",
+          "summary": "Vier freie Verschlüsselungstools schützen vertrauliche Dateien mit digitalen Tresoren. Wir zeigen, welche Lösung sich für wen eignet. Ein Ratgebertext von Erik Bärwaldt ( Linux , Verschlüsselung )",
+          "published": "2026-11-27T13:30:10+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(5 Beitraege zu Agile Methoden & UX/UI im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Peugeot und Citroën: Stellantis drosselt Produktion, Leiharbeiter verlieren Jobs",
+        "Kritische Lücke in Linux’ NFS-Server",
+        "heise-Angebot: iX-Workshop: Linux-Server härten mit Verschlüsselung und Zugriffskontrolle"
+      ]
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative KI & LLMs",
+      "items": [
+        {
+          "title": "Bewusstseins-Debatte über Anthropics KI: Warum dieser Philosoph einem Trugschluss aufsitzt",
+          "link": "https://t3n.de/news/bewusstseins-debatte-ueber-anthropics-ki-warum-dieser-philosoph-einem-trugschluss-aufsitzt-1775582/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Es ist eigentlich ein Drahtseilakt, den Anthropic vollführt: Das KI-Unternehmen warnt Investoren vor Sprachmodellen mit Bewusstsein, treibt diese Entwicklung ab weiterlesen auf t3n.de",
+          "published": "Fri, 27 Nov 2026 12:30:55 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "ChatGPT: Neue Regeln für Nutzungslimits ab Dezember",
+          "link": "https://t3n.de/news/chatgpt-nutzungslimit-neue-regeln-dezember-1775437/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "OpenAI startet mit dem Rollout der gemeinsamen Oberfläche für Chat und Work – zunächst nur für einen kleinen Teil der Nutzer. Doch die profitieren nicht nur. Für manche könnte sich gar einen Nachteil ergeben. weiterlesen auf t3n.de",
+          "published": "Fri, 27 Nov 2026 11:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Mozilla Partners with Mistral to Bring Open-Weight AI Models to Firefox Smart Window",
+          "link": "https://www.infoq.com/news/2026/11/mozilla-mistral-ai-smart-window/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Mozilla has partnered with Mistral AI to offer Mistral Small 4, an open-weight model, in Firefox's Smart Window AI assistant, now in beta. It is recommended for users in France, the US and Canada. Users can choose among several models, and Mistral agreed to zero data retention. Beta feedback is mixed. By Daniel Curtis",
+          "published": "Fri, 27 Nov 2026 06:58:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Cloudflare now lets websites add search for AI agents with a single toggle. Site owners foot the query bill.",
+          "link": "https://thenewstack.io/cloudflare-agent-search-endpoint/",
+          "summary": "Cloudflare has announced a new feature that makes it easier for AI agents to find and retrieve relevant information from The post Cloudflare now lets websites add search for AI agents with a single toggle. Site owners foot the query bill. appeared first on The New Stack .",
+          "published": "Thu, 26 Nov 2026 18:46:47 +0000",
+          "source": "The New Stack"
+        },
+        {
+          "title": "A developer ran 50 agents at once. Then his Mac became the bottleneck.",
+          "link": "https://thenewstack.io/ai-agents-remote-sandboxes/",
+          "summary": "As developers move from working with individual AI coding agents to orchestrating dozens of concurrent sessions, the hardware they use The post A developer ran 50 agents at once. Then his Mac became the bottleneck. appeared first on The New Stack .",
+          "published": "Thu, 26 Nov 2026 16:12:29 +0000",
+          "source": "The New Stack"
+        }
+      ],
+      "summary": "(5 Beitraege zu Generative KI & LLMs im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Bewusstseins-Debatte über Anthropics KI: Warum dieser Philosoph einem Trugschluss aufsitzt",
+        "ChatGPT: Neue Regeln für Nutzungslimits ab Dezember",
+        "Mozilla Partners with Mistral to Bring Open-Weight AI Models to Firefox Smart Window"
+      ]
+    },
+    {
+      "id": "regulierung",
+      "name": "EU-Tech-Regulierung",
+      "items": [
+        {
+          "title": "Grafana Begins Its Biggest UI Refresh Since Version 7",
+          "link": "https://www.infoq.com/news/2026/11/grfana-ui-refresh/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Grafana Labs has introduced the first phase of its biggest visual refresh since Grafana 7, bringing updated themes, more consistent interface components, and improved visual hierarchy to its observability platform. By Craig Risi",
+          "published": "Fri, 27 Nov 2026 12:00:00 GMT",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Große KI-Modelle auf mehreren Windows-11-PCs: Microsoft bringt USB4-Vernetzung",
+          "link": "https://www.heise.de/news/Grosse-KI-Modelle-auf-mehreren-Windows-11-PCs-Microsoft-bringt-USB4-Vernetzung-11534674.html",
+          "summary": "Eine RDMA-Erweiterung für die USB4-Vernetzungsfunktion P2P ermöglicht es, KI-Modelle auf mehrere Windows-Rechner zu verteilen. Apple-Macs können das per TB5.",
+          "published": "2026-11-23T14:45:00.000Z",
+          "source": "heise developer News"
+        },
+        {
+          "title": "Android app developers will soon have to share their address publicly",
+          "link": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says contact details will be made public worldwide. [&#8230;]",
+          "published": "2026-11-26T12:06:24-05:00",
+          "source": "The Verge"
+        }
+      ],
+      "summary": "(3 Beitraege zu EU-Tech-Regulierung im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Grafana Begins Its Biggest UI Refresh Since Version 7",
+        "Große KI-Modelle auf mehreren Windows-11-PCs: Microsoft bringt USB4-Vernetzung",
+        "Android app developers will soon have to share their address publicly"
+      ]
+    },
+    {
+      "id": "supply-chain",
+      "name": "Open Source & Software Supply Chain",
+      "items": [
+        {
+          "title": "iPhone Duo: Apple bringt Gesichtserkennung per Software-Update",
+          "link": "https://t3n.de/news/iphone-duo-gesichtserkennung-software-update-1773891/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Das Fehlen von Face-ID ist einer der größten Kritikpunkte am iPhone Duo. Mit iOS 27.3 will Apple nun eine Gesichtserkennung nachliefern. Doch die hat ihre Grenzen. weiterlesen auf t3n.de",
+          "published": "Fri, 27 Nov 2026 12:55:00 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "GTA 6 läuft bereits auf dem PC – aber Rockstar hat damit nichts zu tun",
+          "link": "https://t3n.de/news/gta-6-laeuft-bereits-auf-dem-pc-aber-rockstar-hat-damit-nichts-zu-tun-1775701/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Bastler kommen mit der Portierung des Hitspiels von den Konsolen schneller voran als der Hersteller selbst. Zuvor war Code ins Netz entfleucht. weiterlesen auf t3n.de",
+          "published": "Fri, 27 Nov 2026 12:45:35 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Black Friday: Alle guten Angebote zu Apple, Samsung, Fritz und Co. in der Übersicht",
+          "link": "https://t3n.de/news/black-friday-apple-samsung-fritz-amazon-mediamarkt-deals-angebote-1775689/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Zum Black Friday werben viele Händler mit reduzierten Preisen. Doch nicht jedes Angebot mit dickem Prozentzeichen ist ein guter Deal. Wir zeigen euch, welche Gadgets von Apple, Fritz und Co. sich wirklich lohnen. weiterlesen auf t3n.de",
+          "published": "Fri, 27 Nov 2026 11:15:29 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Illegale Fischerei: Wie Basstölpel mit Mikrofonen „unsichtbare“ Schiffe aufspüren",
+          "link": "https://t3n.de/news/illegale-fischerei-wie-basstoelpel-mit-mikrofonen-unsichtbare-schiffe-aufspueren-1775590/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Mit Mikrofonen ausgestattete Seevögel identifizieren Schiffe, die ihre Ortungstechnologie abgeschaltet haben, um möglicherweise illegale Fischerei zu verschleiern. weiterlesen auf t3n.de",
+          "published": "Fri, 27 Nov 2026 10:45:11 +0100",
+          "source": "t3n.de - News"
+        },
+        {
+          "title": "Zum Black Friday bei Ecoflow den Heimspeicher fürs Frühjahr sichern",
+          "link": "https://t3n.de/news/ecoflow-stream-heimspeicher-black-friday-1775199/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+          "summary": "Zum Black Friday bietet Ecoflow seine neuen Heimspeicher zu Aktionspreisen an: Der STREAM 5000 kostet so 1.399 Euro, der STREAM AC 5000 1.299 Euro. Beide speichern rund 5 kWh und sind auch im Set mit Solarmodulen oder Erweiterungsbatterie erhältlich. weiterlesen auf t3n.de",
+          "published": "Fri, 27 Nov 2026 09:05:49 +0100",
+          "source": "t3n.de - News"
+        }
+      ],
+      "summary": "(5 Beitraege zu Open Source & Software Supply Chain im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "iPhone Duo: Apple bringt Gesichtserkennung per Software-Update",
+        "GTA 6 läuft bereits auf dem PC – aber Rockstar hat damit nichts zu tun",
+        "Black Friday: Alle guten Angebote zu Apple, Samsung, Fritz und Co. in der Übersicht"
+      ]
+    },
+    {
+      "id": "green-it",
+      "name": "Green IT / Nachhaltigkeit",
+      "items": [
+        {
+          "title": "Klimakrise: 55 Ideen, den CO2-Preis zu etablieren - eine funktioniert besonders gut",
+          "link": "https://www.golem.de/news/klimakrise-55-ideen-den-co2-preis-zu-etablieren-eine-funktioniert-besonders-gut-2611-215741.html",
+          "summary": "Ein Crowd-Science-Projekt hat Maßnahmen untersucht, die die Unterstützung für eine CO2-Bepreisung verbessern sollen. Eine erweist sich als besonders wirksam. ( Klimakrise , Energiewende )",
+          "published": "2026-11-27T14:57:03+01:00",
+          "source": "Golem.de"
+        }
+      ],
+      "summary": "(1 Beitraege zu Green IT / Nachhaltigkeit im Zeitraum — keine LLM-Zusammenfassung verfuegbar.)",
+      "highlights": [
+        "Klimakrise: 55 Ideen, den CO2-Preis zu etablieren - eine funktioniert besonders gut"
+      ]
+    }
+  ]
+}
